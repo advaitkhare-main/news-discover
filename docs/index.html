@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Discover - Like Perplexity Discover</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        'perplex-bg': '#0a0a0b',
+                        'perplex-card': '#1a1a1a',
+                        'perplex-text': '#e2e8f0',
+                        'perplex-accent': '#3b82f6',
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#0a0a0b">
+</head>
+<body class="bg-perplex-bg text-perplex-text min-h-screen">
+    <!-- Header -->
+    <header class="border-b border-gray-800 p-6">
+        <div class="max-w-7xl mx-auto">
+            <h1 class="text-3xl font-bold bg-gradient-to-r from-perplex-accent to-blue-400 bg-clip-text text-transparent">News Discover</h1>
+            <p class="text-gray-400 mt-1">Curated news from trusted sources. Updates hourly.</p>
+        </div>
+    </header>
+
+    <!-- Category Tabs -->
+    <nav class="max-w-7xl mx-auto px-6 py-6 border-b border-gray-800">
+        <div class="flex overflow-x-auto pb-4 -mb-4 space-x-4">
+            <button data-category="all" class="tab-btn px-4 py-2 rounded-full text-sm font-medium bg-perplex-card text-perplex-text border border-gray-700 hover:bg-gray-800 active">All</button>
+            <button data-category="india" class="tab-btn px-4 py-2 rounded-full text-sm font-medium bg-transparent text-gray-400 hover:text-perplex-text hover:bg-gray-800">India News</button>
+            <button data-category="global" class="tab-btn px-4 py-2 rounded-full text-sm font-medium bg-transparent text-gray-400 hover:text-perplex-text hover:bg-gray-800">Global</button>
+            <button data-category="scitech" class="tab-btn px-4 py-2 rounded-full text-sm font-medium bg-transparent text-gray-400 hover:text-perplex-text hover:bg-gray-800">Sci/Tech</button>
+            <button data-category="finance" class="tab-btn px-4 py-2 rounded-full text-sm font-medium bg-transparent text-gray-400 hover:text-perplex-text hover:bg-gray-800">Finance</button>
+            <button data-category="politics" class="tab-btn px-4 py-2 rounded-full text-sm font-medium bg-transparent text-gray-400 hover:text-perplex-text hover:bg-gray-800">Politics</button>
+            <button data-category="sports" class="tab-btn px-4 py-2 rounded-full text-sm font-medium bg-transparent text-gray-400 hover:text-perplex-text hover:bg-gray-800">Sports</button>
+            <button data-category="marathi" class="tab-btn px-4 py-2 rounded-full text-sm font-medium bg-transparent text-gray-400 hover:text-perplex-text hover:bg-gray-800">मराठी</button>
+        </div>
+    </nav>
+
+    <!-- Cards Grid -->
+    <main class="max-w-7xl mx-auto px-6 py-8">
+        <div id="grid" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 gap-6">
+            <!-- Cards populated by JS -->
+        </div>
+        <div id="loading" class="text-center py-12 hidden">
+            <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-perplex-accent mx-auto"></div>
+            <p class="mt-4 text-gray-400">Loading fresh news...</p>
+        </div>
+        <div id="error" class="text-center py-12 hidden">
+            <p class="text-red-400">Failed to load news. Showing cached data.</p>
+        </div>
+    </main>
+
+    <script>
+        let newsData = [];
+
+        // Sample fallback data
+        const sampleData = [
+            {id:1, category:'india', title:'Sample India News Title', summary:'This is a sample 3-line summary that will show when no data is available. Lorem ipsum dolor sit amet.', image:'https://picsum.photos/400/250?random=1', source:'NDTV', date:'2026-02-08', link:'#'},
+            {id:2, category:'global', title:'Global News Headline', summary:'Sample summary spanning three lines with relevant details about the topic discussed.', image:'https://picsum.photos/400/250?random=2', source:'BBC', date:'2026-02-08', link:'#'},
+            // Add 18 more samples...
+        ];
+
+        async function loadNews() {
+            document.getElementById('loading').classList.remove('hidden');
+            try {
+                const res = await fetch('news.json?t=' + Date.now());
+                if (res.ok) {
+                    newsData = await res.json();
+                } else {
+                    throw new Error();
+                }
+            } catch {
+                newsData = sampleData;
+                document.getElementById('error').classList.remove('hidden');
+            }
+            renderNews('all');
+            document.getElementById('loading').classList.add('hidden');
+        }
+
+        function renderNews(category) {
+            const grid = document.getElementById('grid');
+            grid.innerHTML = '';
+            const filtered = category === 'all' ? newsData : newsData.filter(item => item.category === category);
+            
+            filtered.slice(0, 50).forEach(item => {
+                const card = document.createElement('div');
+                card.className = 'group bg-perplex-card rounded-2xl p-6 hover:shadow-2xl hover:-translate-y-2 transition-all duration-300 overflow-hidden cursor-pointer border border-gray-800 hover:border-gray-600';
+                card.onclick = () => window.open(item.link, '_blank');
+                card.innerHTML = `
+                    ${item.image ? `<img src="${item.image}" alt="" class="w-full h-48 object-cover rounded-xl group-hover:scale-105 transition-transform duration-300 mb-4">` : ''}
+                    <h3 class="font-bold text-xl mb-3 line-clamp-2 group-hover:text-perplex-accent">${item.title}</h3>
+                    <p class="text-gray-400 text-sm mb-4 line-clamp-3 leading-relaxed">${item.summary}</p>
+                    <div class="flex items-center justify-between text-xs text-gray-500">
+                        <span class="font-medium">${item.source}</span>
+                        <span>${new Date(item.date).toLocaleDateString()}</span>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        // Tab switching
+        document.querySelectorAll('.tab-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                document.querySelectorAll('.tab-btn').forEach(b => {
+                    b.classList.remove('bg-perplex-card', 'text-perplex-text', 'border-gray-600');
+                    b.classList.add('bg-transparent', 'text-gray-400', 'border-gray-700');
+                });
+                e.target.classList.add('bg-perplex-card', 'text-perplex-text', 'border-gray-600');
+                e.target.classList.remove('bg-transparent', 'text-gray-400', 'border-gray-700');
+                renderNews(e.target.dataset.category);
+            });
+        });
+
+        // PWA
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/sw.js');
+        }
+
+        // Load on start
+        loadNews();
+    </script>
+</body>
+</html>
