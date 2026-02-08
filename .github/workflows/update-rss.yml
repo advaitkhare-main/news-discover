@@ -1,51 +1,29 @@
 name: Update RSS News
 on:
-  schedule:
-    - cron: '0 * * * *'  # Hourly
+  schedule: [{cron: '0 * * * *'}]
   workflow_dispatch:
 
 jobs:
-  update:
+  fetch:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
     
-    # Install Node & deps in ONE step
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
+    - name: Fetch RSS → JSON
+      id: fetch
+      uses: chrisreddington/rss-parser@v1.0.2
       with:
-        node-version: '20'
-        cache: 'npm'
+        rss-url: |
+          https://feeds.feedburner.com/ndtvnews-latest
+          https://feeds.bbci.co.uk/news/rss.xml
+          https://venturebeat.com/category/ai/feed/
+          https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms
+          https://www.espncricinfo.com/rss/content/story/feeds/0.xml
+        output-file: docs/news.json
     
-    # Install rss-parser globally (no package.json needed)
-    - name: Install RSS Parser
-      run: npm install -g rss-parser
-    
-    # Run fetch with error logging
-    - name: Fetch & Generate news.json
+    - name: Commit if changed
       run: |
-        node scripts/fetch.js || echo "Using sample data"
-    
-    # Auto-commit if changed
-    - name: Commit news.json
-      run: |
-        git config user.name "GitHub Action Bot"
-        git config user.email "action@github.com"
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
         git add docs/news.json
-        if git diff --staged --quiet; then
-          echo "No changes"
-        else
-          git commit -m "🤖 Update news.json - $(date)"
-          git push
-        fi
-    
-    # Verify output
-    - name: Verify
-      run: |
-        if [ -f docs/news.json ]; then
-          COUNT=$(jq length docs/news.json)
-          echo "✅ Generated $COUNT articles"
-        else
-          echo "❌ news.json missing"
-          exit 1
-        fi
+        git diff --staged --quiet || git commit -m "🤖 $(date)" && git push
