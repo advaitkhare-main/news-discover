@@ -10,50 +10,59 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     
+    - name: Install feedparser
+      run: pip3 install feedparser
+    
     - name: Generate news.json
       run: |
         python3 << 'EOF'
         import feedparser
         import json
         from datetime import datetime
-        import os
         
         feeds = [
             {"url": "https://feeds.feedburner.com/ndtvnews-latest", "cat": "india", "src": "NDTV"},
             {"url": "https://feeds.bbci.co.uk/news/rss.xml", "cat": "global", "src": "BBC"},
             {"url": "https://venturebeat.com/category/ai/feed/", "cat": "scitech", "src": "VentureBeat"},
-            {"url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms", "cat": "finance", "src": "ET Markets"},
+            {"url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms", "cat": "finance", "src": "ET"},
             {"url": "https://www.espncricinfo.com/rss/content/story/feeds/0.xml", "cat": "sports", "src": "Cricinfo"},
             {"url": "https://www.lokmat.com/rss/", "cat": "marathi", "src": "Lokmat"}
         ]
         
         news = []
         for f in feeds:
+            print(f"Fetching {f['src']}...")
             try:
                 d = feedparser.parse(f["url"])
                 for entry in d.entries[:8]:
                     news.append({
-                        "id": hash(entry.link),
+                        "id": entry.get("id", entry.link),
                         "category": f["cat"],
-                        "title": (entry.title or "")[:100],
-                        "summary": (entry.summary or "")[:200],
+                        "title": entry.get("title", "News")[:100],
+                        "summary": entry.get("summary", "")[:200],
                         "image": "https://picsum.photos/400/250?news",
                         "source": f["src"],
-                        "pubDate": entry.published or str(datetime.now()),
-                        "link": entry.link or "#"
+                        "pubDate": entry.get("published", str(datetime.now())),
+                        "link": entry.get("link", "#")
                     })
+                print(f"  ✓ {len(d.entries)} items")
             except Exception as e:
-                print(f"Failed {f['src']}: {e}")
+                print(f"  ✗ {e}")
         
         news.sort(key=lambda x: x["pubDate"], reverse=True)
-        with open("docs/news.json", "w") as f:
-            json.dump(news[:50], f, indent=2)
-        print(f"SAVED {len(news)} articles")
+        with open("docs/news.json", "w") as fp:
+            json.dump(news[:50], fp, indent=2)
+        print(f"\n🎉 SAVED {len(news)} articles to news.json!")
         EOF
     
-    - name: Commit changes
+    - name: Commit & Push
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add docs/news.json
-        git diff --staged --quiet || (git commit -m "🤖 Update news $(date)" && git push)
+        if git diff --staged --quiet; then
+          echo "No changes"
+        else
+          git commit -m "🤖 Update news $(date)"
+          git push
+        fi
