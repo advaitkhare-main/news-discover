@@ -1,29 +1,59 @@
-name: Update RSS News
+name: Update News JSON
 on:
-  schedule: [{cron: '0 * * * *'}]
+  schedule:
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
-  fetch:
+  update:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
     
-    - name: Fetch RSS → JSON
-      id: fetch
-      uses: chrisreddington/rss-parser@v1.0.2
-      with:
-        rss-url: |
-          https://feeds.feedburner.com/ndtvnews-latest
-          https://feeds.bbci.co.uk/news/rss.xml
-          https://venturebeat.com/category/ai/feed/
-          https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms
-          https://www.espncricinfo.com/rss/content/story/feeds/0.xml
-        output-file: docs/news.json
-    
-    - name: Commit if changed
+    - name: Generate news.json
       run: |
-        git config user.name github-actions[bot]
-        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        python3 << 'EOF'
+        import feedparser
+        import json
+        from datetime import datetime
+        import os
+        
+        feeds = [
+            {"url": "https://feeds.feedburner.com/ndtvnews-latest", "cat": "india", "src": "NDTV"},
+            {"url": "https://feeds.bbci.co.uk/news/rss.xml", "cat": "global", "src": "BBC"},
+            {"url": "https://venturebeat.com/category/ai/feed/", "cat": "scitech", "src": "VentureBeat"},
+            {"url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms", "cat": "finance", "src": "ET Markets"},
+            {"url": "https://www.espncricinfo.com/rss/content/story/feeds/0.xml", "cat": "sports", "src": "Cricinfo"},
+            {"url": "https://www.lokmat.com/rss/", "cat": "marathi", "src": "Lokmat"}
+        ]
+        
+        news = []
+        for f in feeds:
+            try:
+                d = feedparser.parse(f["url"])
+                for entry in d.entries[:8]:
+                    news.append({
+                        "id": hash(entry.link),
+                        "category": f["cat"],
+                        "title": (entry.title or "")[:100],
+                        "summary": (entry.summary or "")[:200],
+                        "image": "https://picsum.photos/400/250?news",
+                        "source": f["src"],
+                        "pubDate": entry.published or str(datetime.now()),
+                        "link": entry.link or "#"
+                    })
+            except Exception as e:
+                print(f"Failed {f['src']}: {e}")
+        
+        news.sort(key=lambda x: x["pubDate"], reverse=True)
+        with open("docs/news.json", "w") as f:
+            json.dump(news[:50], f, indent=2)
+        print(f"SAVED {len(news)} articles")
+        EOF
+    
+    - name: Commit changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add docs/news.json
-        git diff --staged --quiet || git commit -m "🤖 $(date)" && git push
+        git diff --staged --quiet || (git commit -m "🤖 Update news $(date)" && git push)
