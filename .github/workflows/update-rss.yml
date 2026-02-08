@@ -1,0 +1,31 @@
+name: Update RSS News
+on:
+  schedule:
+    - cron: '0 * * * *'  # Hourly
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Setup Node
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+        cache: 'npm'
+    
+    - name: Install deps
+      run: npm install rss-parser
+    
+    - name: Fetch RSS
+      run: node scripts/fetch.js
+    
+    - name: Commit news.json
+      run: |
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com"
+        git add docs/news.json
+        git diff --staged --quiet || git commit -m "Update news.json $(date)"
+        git push
