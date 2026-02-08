@@ -18,29 +18,70 @@ jobs:
     
     - name: Generate news.json
       run: |
-        python3 << EOF
-        import feedparser,json
+        python3 << 'EOF'
+        import feedparser
+        import json
+        import re
         from datetime import datetime
-        feeds=[("https://feeds.feedburner.com/ndtvnews-latest","india","NDTV"),
-               ("https://feeds.bbci.co.uk/news/rss.xml","global","BBC"),
-               ("https://venturebeat.com/category/ai/feed/","scitech","VentureBeat"),
-               ("https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms","finance","ET"),
-               ("https://www.espncricinfo.com/rss/content/story/feeds/0.xml","sports","Cricinfo"),
-               ("https://www.lokmat.com/rss/","marathi","Lokmat")]
-        news=[]
-        for url,cat,src in feeds:
-            d=feedparser.parse(url)
-            for e in d.entries[:6]:
-                news.append({"category":cat,"title":e.title[:100],
-                           "summary":getattr(e,"summary","")[:200],
-                           "image":"https://picsum.photos/400/250?news","source":src,
-                           "pubDate":getattr(e,"published",str(datetime.now())),
-                           "link":getattr(e,"link","#"),"id":hash(e.link)})
-        news.sort(key=lambda x:x["pubDate"],reverse=True)
-        with open("docs/news.json","w") as f:
-            json.dump(news[:40],f,indent=2)
-        print(f"SAVED {len(news)} articles!")
+        from urllib.parse import urljoin
+        
+        feeds = [
+            {"url": "https://feeds.feedburner.com/ndtvnews-latest", "cat": "india", "src": "NDTV"},
+            {"url": "https://feeds.bbci.co.uk/news/rss.xml", "cat": "global", "src": "BBC"},
+            {"url": "https://venturebeat.com/category/ai/feed/", "cat": "scitech", "src": "VentureBeat"},
+            {"url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms", "cat": "finance", "src": "ET"},
+            {"url": "https://www.espncricinfo.com/rss/content/story/feeds/0.xml", "cat": "sports", "src": "Cricinfo"},
+            {"url": "https://www.lokmat.com/rss/", "cat": "marathi", "src": "Lokmat"}
+        ]
+        
+        news = []
+        for feed in feeds:
+            print(f"📡 {feed['src']}...")
+            try:
+                data = feedparser.parse(feed['url'])
+                for entry in data.entries[:8]:
+                    # EXTRACT REAL IMAGES (3 methods)
+                    img_url = None
+                    
+                    # Method 1: media:content/enclosure
+                    if hasattr(entry, 'media_content'):
+                        img_url = entry.media_content[0].get('url') if entry.media_content else None
+                    elif hasattr(entry, 'enclosures'):
+                        img_url = entry.enclosures[0].href if entry.enclosures else None
+                    
+                    # Method 2: content HTML <img src=>
+                    if not img_url and hasattr(entry, 'content'):
+                        match = re.search(r'<img[^>]+src=["\']([^"\']+)', entry.content[0])
+                        img_url = match.group(1) if match else None
+                    
+                    # Method 3: description HTML
+                    if not img_url and hasattr(entry, 'description'):
+                        match = re.search(r'<img[^>]+src=["\']([^"\']+)', entry.description)
+                        img_url = match.group(1) if match else None
+                    
+                    # Use real image or fallback
+                    image = img_url if img_url else f"https://source.unsplash.com/400x250/?news,{feed['cat']}"
+                    
+                    news.append({
+                        "id": entry.get("id", entry.link),
+                        "category": feed["cat"],
+                        "title": entry.get("title", "News")[:120],
+                        "summary": (entry.get("summary", entry.get("description", "")) or "")[:250],
+                        "image": image,
+                        "source": feed["src"],
+                        "pubDate": entry.get("published", str(datetime.now())),
+                        "link": entry.get("link", "#")
+                    })
+                print(f"  ✓ {len(data.entries)} items, {len([n for n in news if n['source']==feed['src']])} with images")
+            except Exception as e:
+                print(f"  ✗ {e}")
+        
+        news.sort(key=lambda x: x["pubDate"], reverse=True)
+        with open("docs/news.json", "w") as f:
+            json.dump(news[:50], f, indent=2)
+        print(f"\n🎉 SAVED {len(news)} articles with REAL RSS images!")
         EOF
+
     
     - name: Commit changes
       uses: EndBug/add-and-commit@v9
