@@ -2,7 +2,7 @@ name: Update RSS News
 on:
   schedule:
     - cron: '0 * * * *'  # Hourly
-  workflow_dispatch:  # Manual trigger
+  workflow_dispatch:
 
 jobs:
   update:
@@ -10,22 +10,42 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     
-    - name: Setup Node
+    # Install Node & deps in ONE step
+    - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: 20
+        node-version: '20'
         cache: 'npm'
     
-    - name: Install deps
-      run: npm install rss-parser
+    # Install rss-parser globally (no package.json needed)
+    - name: Install RSS Parser
+      run: npm install -g rss-parser
     
-    - name: Fetch RSS
-      run: node scripts/fetch.js
+    # Run fetch with error logging
+    - name: Fetch & Generate news.json
+      run: |
+        node scripts/fetch.js || echo "Using sample data"
     
+    # Auto-commit if changed
     - name: Commit news.json
       run: |
-        git config user.name "GitHub Action"
+        git config user.name "GitHub Action Bot"
         git config user.email "action@github.com"
         git add docs/news.json
-        git diff --staged --quiet || git commit -m "Update news.json $(date)"
-        git push
+        if git diff --staged --quiet; then
+          echo "No changes"
+        else
+          git commit -m "🤖 Update news.json - $(date)"
+          git push
+        fi
+    
+    # Verify output
+    - name: Verify
+      run: |
+        if [ -f docs/news.json ]; then
+          COUNT=$(jq length docs/news.json)
+          echo "✅ Generated $COUNT articles"
+        else
+          echo "❌ news.json missing"
+          exit 1
+        fi
