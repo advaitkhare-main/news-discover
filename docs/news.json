@@ -30,14 +30,14 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cje1eq9z08wo#0",
+    "id": "https://www.bbc.com/news/articles/c301eve3936o#0",
     "category": "global",
-    "title": "Dozens of flood warnings in England after days of non-stop rain",
-    "summary": "Rain has fallen in south-west England and south Wales every day of 2026 so far, the Met Office said.",
+    "title": "Hiker 'lucky to be alive' after 30ft fall where others have died",
+    "summary": "Suzie Dyer was seriously injured when she fell down a sheer drop in Waterfall Country, and says more should be done to improve safety.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sun, 08 Feb 2026 22:56:50 GMT",
-    "link": "https://www.bbc.com/news/articles/cje1eq9z08wo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Sun, 08 Feb 2026 21:57:56 GMT",
+    "link": "https://www.bbc.com/news/articles/c301eve3936o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1522975.html",
@@ -48,16 +48,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 08 Feb 2026 21:26:09 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1522975.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn9el55ddxno#0",
-    "category": "global",
-    "title": "Why McSweeney's departure could prove perilous for the PM",
-    "summary": "Starmer's chief of staff departs at a time the PM is isolated and in potential peril.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 08 Feb 2026 20:36:51 GMT",
-    "link": "https://www.bbc.com/news/articles/cn9el55ddxno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1522963.html",
@@ -90,46 +80,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1522908.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/sport/articles/c98q5g51z4no#0",
-    "category": "global",
-    "title": "Skier Vonn has surgery on leg fracture after crash in downhill",
-    "summary": "American skier Lindsey Vonn has surgery on a left-leg fracture after suffering heartbreak in what could be her final Olympic event as she crashes in the women's downhill competition in Cortina.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 08 Feb 2026 16:55:41 GMT",
-    "link": "https://www.bbc.com/sport/articles/c98q5g51z4no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1522929.html",
-    "category": "sports",
-    "title": "'Unbelievable' Sam Curran closes out win as death-bowling proves difference",
-    "summary": "Harry Brook and Rohi Paudel highlight Curran's skill as England deny Nepal in Mumbai",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413136.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 08 Feb 2026 15:41:56 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1522929.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1522931.html",
-    "category": "sports",
-    "title": "Raza: 'Associate nations have caught up with the T20 format'",
-    "summary": "The Zimbabwe captain thinks they are on the right track for a transition post next year but need to find a bit more consistency",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413124.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 08 Feb 2026 15:36:56 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1522931.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1522883.html",
-    "category": "sports",
-    "title": "BCB president, PCB, ICC in Lahore for talks over India match boycott",
-    "summary": "Aminul Islam's presence in Lahore is part of the PCB's continuing show of solidarity after Bangladesh's removal from the T20 World Cup",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/404100/404132.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 08 Feb 2026 14:07:35 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1522883.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -150,184 +100,234 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-slip-on-heavy-state-debt-supply-post-rbi-move/articleshow/128098648.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ai-the-most-underappreciated-vertical-in-reliance-industries-morgan-stanley/articleshow/128104322.cms",
     "category": "finance",
-    "title": "Indian bonds slip on heavy state debt supply, post-RBI move",
-    "summary": "Indian government bonds are experiencing a downward trend amidst a surge in state debt offerings that are burdening the market. The central bank's decision to withhold extra liquidity has sent ripples of concern among bond traders. As state borrowing",
-    "image": "https://img.etimg.com/photo/msid-128098648,imgsize-242434.cms",
+    "title": "\u2018AI\u2019 the most underappreciated vertical in Reliance Industries: Morgan Stanley",
+    "summary": "The firm keeps Reliance as a top pick with an Overweight rating and an unchanged price target of Rs 1,803, implying 24% upside from the February 6 close of Rs 1,451.",
+    "image": "https://img.etimg.com/photo/msid-128104322,imgsize-73796.cms",
     "source": "ET",
-    "pubDate": "Mon, 09 Feb 2026 10:53:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-slip-on-heavy-state-debt-supply-post-rbi-move/articleshow/128098648.cms"
+    "pubDate": "Mon, 09 Feb 2026 13:25:04 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-the-most-underappreciated-vertical-in-reliance-industries-morgan-stanley/articleshow/128104322.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/pariksha-pe-charcha-2026-live-updates-pm-modi-to-address-students-on-9-feb-where-to-watch-youtube-link-here-10971945#publisher=newsstand",
-    "category": "india",
-    "title": "Pariksha Pe Charcha Episode 2 Live Updates: PM Modi Concludes His Interaction With Students, Key Messages Here",
-    "summary": "Pariksha Pe Charcha 2026 LIVE: Watch On PM Modi's youtube channel",
-    "image": "https://c.ndtvimg.com/2026-02/2rbk511k_asd_625x300_09_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 09 Feb 2026 10:52:22 +0530",
-    "link": "https://www.ndtv.com/education/pariksha-pe-charcha-2026-live-updates-pm-modi-to-address-students-on-9-feb-where-to-watch-youtube-link-here-10971945#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/shipping-corp-shares-rocket-14-after-q3-profit-balloons-440-check-details/articleshow/128104100.cms",
+    "category": "finance",
+    "title": "Shipping Corp shares rocket 14% after Q3 profit balloons 440%. Check details",
+    "summary": "Shipping Corporation of India shares surged up to 14% after the PSU posted a sharp 440% jump in Q3FY26 net profit, driven by strong tanker and bulk carrier performance. Revenue rose over 22%, while the board announced a second interim dividend. The c",
+    "image": "https://img.etimg.com/photo/msid-128104100,imgsize-643273.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Feb 2026 13:21:49 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/shipping-corp-shares-rocket-14-after-q3-profit-balloons-440-check-details/articleshow/128104100.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/bangladesh-election-2026-bangladesh-after-sheikh-hasina-political-volatility-and-battle-for-minority-votes-10972463#publisher=newsstand",
-    "category": "india",
-    "title": "Bangladesh After Sheikh Hasina: Political Volatility And Battle For Minority Votes",
-    "summary": "The Bangladesh Nationalist Party (BNP) is widely expected to win",
-    "image": "https://c.ndtvimg.com/2026-02/0dsdf2kc_bangladesh-news_625x300_09_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 09 Feb 2026 10:51:28 +0530",
-    "link": "https://www.ndtv.com/world-news/bangladesh-election-2026-bangladesh-after-sheikh-hasina-political-volatility-and-battle-for-minority-votes-10972463#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/psu-banks-look-attractive-bank-of-baroda-top-pick-pankaj-pandey/articleshow/128103408.cms",
+    "category": "finance",
+    "title": "PSU Banks look attractive; Bank of Baroda top pick: Pankaj Pandey",
+    "summary": "Pankaj Pandey, Head Research, finds PSU banks attractive, with Bank of Baroda as his top pick, targeting \u20b9340. He anticipates a stronger second half of the financial year and sees potential for M&amp;A and policy support. Pandey also remains construc",
+    "image": "https://img.etimg.com/photo/msid-128103408,imgsize-39420.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Feb 2026 13:00:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/psu-banks-look-attractive-bank-of-baroda-top-pick-pankaj-pandey/articleshow/128103408.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/karan-johar-praises-rss-chief-mohan-bhagwats-inspiring-speech-great-sense-of-humour-10972510#publisher=newsstand",
+    "id": "https://www.ndtv.com/south/bengaluru-woman-allegedly-forced-into-prostitution-by-in-laws-died-by-suicide-10972719#publisher=newsstand",
     "category": "india",
-    "title": "\"Great Sense Of Humour\": Karan Johar Praises RSS Chief's \"Inspiring\" Speech",
-    "summary": "Karan Johar expressed his admiration for Mohan Bhagwat's delivery",
-    "image": "https://c.ndtvimg.com/2026-02/k61ocsb4_karan-johar-mohan-bhagwat_625x300_09_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Bengaluru Woman Forced Into Prostitution By In-Laws, Died By Suicide: Cops",
+    "summary": "A 22-year-old woman allegedly died by suicide after being harassed and abused by her husband's family and forced into prostitution.",
+    "image": "https://c.ndtvimg.com/2026-02/8tq7ipoc_karnataka-22-year-old-woman-allegedly-died-by-suicide-forced-into-prostitution_625x300_09_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 09 Feb 2026 10:50:28 +0530",
-    "link": "https://www.ndtv.com/india-news/karan-johar-praises-rss-chief-mohan-bhagwats-inspiring-speech-great-sense-of-humour-10972510#publisher=newsstand"
+    "pubDate": "Mon, 09 Feb 2026 12:53:21 +0530",
+    "link": "https://www.ndtv.com/south/bengaluru-woman-allegedly-forced-into-prostitution-by-in-laws-died-by-suicide-10972719#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/health/fatty-liver-crisis-nearly-4-in-1-indians-affected-lancet-study-sounds-alarm-10972481#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/kanpur-lamborghini-crash-fir-names-unknown-identity-not-tobacco-barons-son-shivam-mishra-10973022#publisher=newsstand",
     "category": "india",
-    "title": "Fatty Liver Crisis: Nearly 4 In 1 Indians Affected, Lancet Study Sounds Alarm",
-    "summary": "Nearly 40% of Indians may have fatty liver disease unrelated to alcohol, signalling a silent public health crisis.",
-    "image": "https://i.ndtvimg.com/i/2017-07/liver-health-natural-remedies-healthy-living_650x400_51500362101.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "After Lamborghini Crash, FIR Cites \"Unknown\" Person. Name Added A Day Later",
+    "summary": "Shivam Mishra was behind the wheel of a Lamborghini Revuelto.",
+    "image": "https://c.ndtvimg.com/2026-02/sejoh5lc_kanpur-lamborghini-accident-shivam-mishra-_625x300_09_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 09 Feb 2026 10:49:53 +0530",
-    "link": "https://www.ndtv.com/health/fatty-liver-crisis-nearly-4-in-1-indians-affected-lancet-study-sounds-alarm-10972481#publisher=newsstand"
+    "pubDate": "Mon, 09 Feb 2026 12:48:22 +0530",
+    "link": "https://www.ndtv.com/india-news/kanpur-lamborghini-crash-fir-names-unknown-identity-not-tobacco-barons-son-shivam-mishra-10973022#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/9-delhi-schools-receive-bomb-threat-warning-to-blast-parliament-10972250#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/khamenei-breaks-37-year-old-ritual-for-1st-time-amid-trumps-attack-threat-10973097#publisher=newsstand",
     "category": "india",
-    "title": "\"Delhi Will Become Khalistan\": 9 Schools Receive Bomb Threats",
-    "summary": "Nine schools across the city received the bomb threats",
-    "image": "https://c.ndtvimg.com/2026-02/d03pn6ek_-bomb-threats_625x300_09_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Khamenei Breaks 37-Year Old Ritual For 1st Time Amid Trump's Attack Threat",
+    "summary": "Tehran has repeatedly warned that any US attack would spark a broader conflict",
+    "image": "https://c.ndtvimg.com/2026-01/6t5soqds_ayatollah-khamenei_625x300_07_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 09 Feb 2026 10:49:52 +0530",
-    "link": "https://www.ndtv.com/india-news/9-delhi-schools-receive-bomb-threat-warning-to-blast-parliament-10972250#publisher=newsstand"
+    "pubDate": "Mon, 09 Feb 2026 12:47:57 +0530",
+    "link": "https://www.ndtv.com/world-news/khamenei-breaks-37-year-old-ritual-for-1st-time-amid-trumps-attack-threat-10973097#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/science/nasa-scientists-plan-to-conduct-ct-scan-0ff-breathtaking-auroras-heres-why-10972504#publisher=newsstand",
-    "category": "india",
-    "title": "NASA Scientists plan To Conduct 'CT Scan' 0ff Breathtaking auroras. Here's Why",
-    "summary": "This mission aims to map the electric currents.",
-    "image": "https://c.ndtvimg.com/2026-02/f42fmlko_auroras_625x300_09_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 09 Feb 2026 10:48:56 +0530",
-    "link": "https://www.ndtv.com/science/nasa-scientists-plan-to-conduct-ct-scan-0ff-breathtaking-auroras-heres-why-10972504#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/aye-finance-ipo-day-1-retail-subscription-at-15-gmp-weak-what-brokerages-say/articleshow/128102862.cms",
+    "category": "finance",
+    "title": "Aye Finance IPO Day 1: Retail subscription at 15%, GMP weak. What brokerages say",
+    "summary": "Aye Finance's IPO opened to a muted response, with only 3% subscription on day one, primarily driven by retail investors. The Rs 1,010 crore issue, which closes on February 11, saw institutional buyers largely absent, reflecting cautious market senti",
+    "image": "https://img.etimg.com/photo/msid-128102862,imgsize-34962.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Feb 2026 12:47:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/aye-finance-ipo-day-1-retail-subscription-at-15-gmp-weak-what-brokerages-say/articleshow/128102862.cms"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/after-kanpur-lamborghini-accident-4018-is-in-focus-what-it-could-mean-10972503#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/can-egg-yolk-increase-cholesterol-cardiologist-busts-myth-10973055#publisher=newsstand",
     "category": "india",
-    "title": "After Kanpur Lamborghini Accident, 4018 Is In Focus. What It Could Mean",
-    "summary": "The Lamborghini involved in Kanpur accident has been seized by the police.",
-    "image": "https://c.ndtvimg.com/2026-02/cb93mi68_kanpur-lamborghini-4018_625x300_09_February_26.jpeg",
+    "title": "Can Egg Yolk Increase Cholesterol? Cardiologist Busts Myth",
+    "summary": "Eggs, including the yolk, are generally nutritious and healthy",
+    "image": "https://c.ndtvimg.com/2019-03/ruehhpe8_egg-yolk-in-cooking_625x300_19_March_19.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 09 Feb 2026 10:48:33 +0530",
-    "link": "https://www.ndtv.com/offbeat/after-kanpur-lamborghini-accident-4018-is-in-focus-what-it-could-mean-10972503#publisher=newsstand"
+    "pubDate": "Mon, 09 Feb 2026 12:46:35 +0530",
+    "link": "https://www.ndtv.com/health/can-egg-yolk-increase-cholesterol-cardiologist-busts-myth-10973055#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/andhra-techie-27-wanted-lavish-lifestyle-so-he-carried-out-60-burglaries-10972913#publisher=newsstand",
+    "category": "india",
+    "title": "Techie's \"Lavish Lifestyle\" Funded By 60 Robberies Across Andhra Pradesh",
+    "summary": "The police arrested the man, identified as Achhi Mahesh Reddy, also known as Sunny.",
+    "image": "https://c.ndtvimg.com/2026-02/99gia03s_andhra-techie-arrested-_625x300_09_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 09 Feb 2026 12:45:35 +0530",
+    "link": "https://www.ndtv.com/india-news/andhra-techie-27-wanted-lavish-lifestyle-so-he-carried-out-60-burglaries-10972913#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/india-news/shivam-mishra-kanpur-lamborghini-accident-a-tobacco-empire-heir-and-his-lamborghini-the-lavish-life-of-shivam-mishra-10972397#publisher=newsstand",
     "category": "india",
-    "title": "A Tobacco Empire Heir And His Lamborghini: The Lavish Life Of Shivam Mishra",
+    "title": "Between 2024 Raids And 2026 Crash, A Tobacco Baron's Son, His Lamborghini",
     "summary": "Shivam Mishra is the son of a well-known tobacco businessman.",
     "image": "https://c.ndtvimg.com/2024-03/uqm2hbvo_bansidhar-tobacco-company-_625x300_01_March_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 09 Feb 2026 10:45:23 +0530",
+    "pubDate": "Mon, 09 Feb 2026 12:41:34 +0530",
     "link": "https://www.ndtv.com/india-news/shivam-mishra-kanpur-lamborghini-accident-a-tobacco-empire-heir-and-his-lamborghini-the-lavish-life-of-shivam-mishra-10972397#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-fed-to-take-its-time-on-trimming-bond-holdings-bessent-says/articleshow/128098300.cms",
-    "category": "finance",
-    "title": "US Stocks Today | Fed to take its time on trimming bond holdings, Bessent says",
-    "summary": "The U.S. Federal Reserve is unlikely to quickly shrink its balance sheet, even if Kevin Warsh \u2014 a critic of bond-buying programmes \u2014 takes a leadership role, Treasury Secretary Scott Bessent said. Major decisions could take up to a year, and the Fed ",
-    "image": "https://img.etimg.com/photo/msid-128098300,imgsize-85200.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Feb 2026 10:39:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-fed-to-take-its-time-on-trimming-bond-holdings-bessent-says/articleshow/128098300.cms"
+    "id": "https://www.ndtv.com/india-news/silver-gold-prices-today-silver-gold-futures-rally-as-global-rebound-weak-dollar-lift-metals-10973010#publisher=newsstand",
+    "category": "india",
+    "title": "Silver, Gold Futures Rally As Global Rebound, Weak Dollar Lift Metals",
+    "summary": "Silver jumped more than 6 per cent towards USD 82 per ounce on Monday.",
+    "image": "https://c.ndtvimg.com/2026-02/69c7rrb8_gold-silver-prices-crash_625x300_02_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 09 Feb 2026 12:41:22 +0530",
+    "link": "https://www.ndtv.com/india-news/silver-gold-prices-today-silver-gold-futures-rally-as-global-rebound-weak-dollar-lift-metals-10973010#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-at-50000-from-ai-spillovers-to-rate-cuts-what-drove-the-record-run/articleshow/128097530.cms",
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/cleanmax-rs-1500-crore-pre-ipo-round-draws-temasek-bain-capital/articleshow/128102391.cms",
     "category": "finance",
-    "title": "US Stocks Today | Dow at 50,000: From AI spillovers to rate cuts, what drove the record run",
-    "summary": "The Dow Jones Industrial Average crossed the 50,000 mark for the first time, rising 2.47% (1,206 points) to close at 50,115.67, driven by gains in industrial, financial, and select technology stocks. The rally helped Wall Street recover from a tech-l",
-    "image": "https://img.etimg.com/photo/msid-128097530,imgsize-155304.cms",
+    "title": "CleanMax Rs 1,500 crore pre-IPO round draws Temasek, Bain Capital",
+    "summary": "CleanMax Enviro Energy Solutions has secured Rs 1,500 crore in a pre-IPO funding round. Global investors like Temasek and Bain Capital led the investment. The company is preparing for an initial public offering to raise Rs 5,200 crore. This funding h",
+    "image": "https://img.etimg.com/photo/msid-128102391,imgsize-19696.cms",
     "source": "ET",
-    "pubDate": "Mon, 09 Feb 2026 10:15:06 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-at-50000-from-ai-spillovers-to-rate-cuts-what-drove-the-record-run/articleshow/128097530.cms"
+    "pubDate": "Mon, 09 Feb 2026 12:30:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/cleanmax-rs-1500-crore-pre-ipo-round-draws-temasek-bain-capital/articleshow/128102391.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/kalyan-jewellers-shares-zoom-to-10-upper-circuit-what-motilal-oswal-jm-financial-said-after-q3-results/articleshow/128096969.cms",
-    "category": "finance",
-    "title": "Kalyan Jewellers shares zoom to 10% upper circuit. What Motilal Oswal, JM Financial said after Q3 results",
-    "summary": "Kalyan Jewellers India's shares surged 10% to \u20b9417.75 after reporting a 90.36% jump in Q3 net profit to \u20b9416.29 crore. This strong performance triggered bullish brokerage calls, with JM Financial setting a \u20b9750 price target, citing robust same-store ",
-    "image": "https://img.etimg.com/photo/msid-128096969,imgsize-332754.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Feb 2026 10:04:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/kalyan-jewellers-shares-zoom-to-10-upper-circuit-what-motilal-oswal-jm-financial-said-after-q3-results/articleshow/128096969.cms"
+    "id": "https://www.ndtv.com/opinion/what-you-as-a-techie-need-to-do-to-save-your-job-from-ai-10972965#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion | The Great Claude Shakeout: What You, As A 'Techie', Must Do To Stay Relevant",
+    "summary": "The future is not necessarily bleak, but is certainly cloudy - perhaps in a literal sense as cloud-based simplicity gives way to more customisable software apps.",
+    "image": "https://c.ndtvimg.com/style-coding_625x300_1529472961056.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 09 Feb 2026 12:29:15 +0530",
+    "link": "https://www.ndtv.com/opinion/what-you-as-a-techie-need-to-do-to-save-your-job-from-ai-10972965#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-braces-for-ai-led-tech-churn-as-economic-data-takes-focus/articleshow/128096597.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-investors-chase-cheaper-smaller-companies-as-risk-aversion-hits-tech-sector/articleshow/128101721.cms",
     "category": "finance",
-    "title": "US Stocks Today: Wall Street braces for AI-led tech churn as economic data takes focus",
-    "summary": "U.S. equity investors are cautious this week as an AI-driven shakeout in heavyweight tech stocks continues, with software shares experiencing a significant rout. Investors are increasingly concerned about AI's disruptive potential, though signs of ro",
-    "image": "https://img.etimg.com/photo/msid-128096597,imgsize-215688.cms",
+    "title": "Wall Street investors chase cheaper, smaller companies as risk aversion hits tech sector",
+    "summary": "Investors are now favouring smaller, less expensive companies. This shift comes as market volatility makes them rethink their risk appetite for volatile assets. Big tech stocks have seen losses, while industrial and smallcap companies are gaining. Th",
+    "image": "https://img.etimg.com/photo/msid-128101721,imgsize-27422.cms",
     "source": "ET",
-    "pubDate": "Mon, 09 Feb 2026 09:51:40 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-braces-for-ai-led-tech-churn-as-economic-data-takes-focus/articleshow/128096597.cms"
+    "pubDate": "Mon, 09 Feb 2026 12:16:47 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-investors-chase-cheaper-smaller-companies-as-risk-aversion-hits-tech-sector/articleshow/128101721.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-rebound-rs-10000-to-rs-2-6-lakh-gold-rises-rs-3000-time-to-buy-or-wait-for-dip/articleshow/128096197.cms",
+    "id": "https://economictimes.indiatimes.com/markets/bonds/japan-stocks-soar-to-record-super-long-bonds-steady-in-nod-to-takaichis-responsible-stimulus/articleshow/128101544.cms",
     "category": "finance",
-    "title": "Silver prices rebound Rs 10,000 to Rs 2.6 lakh, gold rises Rs 3,000. Time to buy or wait for dip?",
-    "summary": "Gold and silver futures surged on MCX Monday, recovering from last week's sharp declines. Silver prices had fallen nearly 10%, while gold saw a 2% correction. Experts suggest buying gold and silver within specific ranges, anticipating continued price",
-    "image": "https://img.etimg.com/photo/msid-128096197,imgsize-81888.cms",
+    "title": "Japan stocks soar to record, super-long bonds steady in nod to Takaichi's 'responsible' stimulus",
+    "summary": "After Prime Minister Sanae Takaichi's decisive election win, Japanese stocks soared to unprecedented heights, while bonds showed signs of stability. Her robust mandate has inspired investor confidence in her economic strategies. Following some initia",
+    "image": "https://img.etimg.com/photo/msid-128101544,imgsize-116570.cms",
     "source": "ET",
-    "pubDate": "Mon, 09 Feb 2026 09:31:37 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-rebound-rs-10000-to-rs-2-6-lakh-gold-rises-rs-3000-time-to-buy-or-wait-for-dip/articleshow/128096197.cms"
+    "pubDate": "Mon, 09 Feb 2026 12:11:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/japan-stocks-soar-to-record-super-long-bonds-steady-in-nod-to-takaichis-responsible-stimulus/articleshow/128101544.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/asia-rallies-as-japan-shares-surge-to-record-peak/articleshow/128096119.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/vijay-kedia-on-cutting-noise-patience-and-finding-tomorrows-market-winners/articleshow/128101559.cms",
     "category": "finance",
-    "title": "Global Market Today: Asian markets rise as Japan shares scale record peak",
-    "summary": "Asian markets celebrated a booming start to the week on Monday, propelled by the recent election of Japanese Prime Minister Sanae Takaichi, sparking hopes for enhanced economic stimulus. The robust recovery seen on Wall Street added to the positive v",
-    "image": "https://img.etimg.com/photo/msid-128096119,imgsize-458779.cms",
+    "title": "Vijay Kedia on cutting noise, patience, and finding tomorrow\u2019s market winners",
+    "summary": "Veteran investor Vijay Kedia shares his stock market strategy. He differentiates traders from investors, stating noise matters only for traders. Investors should focus on earnings, not daily news. Kedia likens investing to a marathon, emphasizing pat",
+    "image": "https://img.etimg.com/photo/msid-128101559,imgsize-24430.cms",
     "source": "ET",
-    "pubDate": "Mon, 09 Feb 2026 09:29:04 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/asia-rallies-as-japan-shares-surge-to-record-peak/articleshow/128096119.cms"
+    "pubDate": "Mon, 09 Feb 2026 12:09:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/vijay-kedia-on-cutting-noise-patience-and-finding-tomorrows-market-winners/articleshow/128101559.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-600-pts-nifty-at-25900-tracking-global-cues-and-indiaus-trade-optimism/articleshow/128096117.cms",
-    "category": "finance",
-    "title": "Sensex jumps 600 pts, Nifty at 25,900 tracking global cues and India\u2013US trade optimism",
-    "summary": "Indian stock markets opened with significant gains on Monday. The Sensex and Nifty saw a strong start, rising by 0.7 percent each. Positive news from the India-US trade deal and robust performances in US and Asian markets boosted investor confidence.",
-    "image": "https://img.etimg.com/photo/msid-128096117,imgsize-2718446.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Feb 2026 09:26:47 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-600-pts-nifty-at-25900-tracking-global-cues-and-indiaus-trade-optimism/articleshow/128096117.cms"
+    "id": "https://www.bbc.com/news/articles/cje1eq9z08wo#0",
+    "category": "global",
+    "title": "Yellow weather warning for rain starts at midday",
+    "summary": "The warning covers south-west and south-east England, London and south Wales and lasts until midnight.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 09 Feb 2026 08:00:28 GMT",
+    "link": "https://www.bbc.com/news/articles/cje1eq9z08wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1523031.html",
+    "category": "sports",
+    "title": "Ellis backs Australia's pace depth to cover big-name absences",
+    "summary": "Now the most experienced member of the pace attack, Ellis is confident he has recovered from his hamstring injury",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/404400/404422.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 09 Feb 2026 07:55:46 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523031.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1523029.html",
+    "category": "sports",
+    "title": "Italy captain Wayne Madsen injures shoulder in T20 World Cup opener",
+    "summary": "The Italy captain hurt his shoulder in the fourth over of Scotland's innings and was ruled out of the match",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413153.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 09 Feb 2026 07:48:52 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523029.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1523022.html",
+    "category": "sports",
+    "title": "New Zealand brace for unfamiliar opponents UAE",
+    "summary": "UAE are playing their first game of the T20 World Cup; NZ beat Afghanistan in their opening fixture",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413000/413062.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 09 Feb 2026 07:18:12 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523022.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ce8g9118eezo#0",
+    "category": "global",
+    "title": "My son was groomed by drug dealers and killed, but my pleas for help were ignored",
+    "summary": "Jodian Taylor says her murdered son Daejaun was let down by authorities who did not treat his case with urgency.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 09 Feb 2026 06:09:09 GMT",
+    "link": "https://www.bbc.com/news/articles/ce8g9118eezo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ce3g8e7n07jo#0",
+    "category": "global",
+    "title": "Chris Mason: Crunch time for the prime minister",
+    "summary": "There is universal acceptance in Labour that Sir Keir Starmer's predicament is dire and he confronts immense peril, writes Chris Mason.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 09 Feb 2026 06:02:11 GMT",
+    "link": "https://www.bbc.com/news/articles/ce3g8e7n07jo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/sport/american-football/articles/cjen2n5ql3zo#0",
     "category": "global",
-    "title": "Seahawks dominate Patriots to claim second Super Bowl",
+    "title": "Seahawks dominate Patriots to win Super Bowl",
     "summary": "The Seattle Seahawks produce a devastating defensive display to beat the New England Patriots and claim their second Super Bowl victory.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Mon, 09 Feb 2026 05:44:32 GMT",
     "link": "https://www.bbc.com/sport/american-football/articles/cjen2n5ql3zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c9wnjqzrv48o#0",
-    "category": "global",
-    "title": "Venezuela's opposition says party leader kidnapped hours after being freed",
-    "summary": "Nobel Peace Prize winner Maria Corina Machado said political leader Juan Pablo Guanipa was taken by force in Caracas.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 09 Feb 2026 05:37:29 GMT",
-    "link": "https://www.bbc.com/news/articles/c9wnjqzrv48o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1523018.html",
@@ -342,8 +342,8 @@
   {
     "id": "https://www.bbc.com/news/articles/c394g7nnzmzo#0",
     "category": "global",
-    "title": "Bad Bunny piles on Puerto Rican patriotism at Super Bowl half-time show",
-    "summary": "Puerto Rican artist Bad Bunny made history with his entirely Spanish set on the sporting world's biggest stage.",
+    "title": "'Together we are America' - Bad Bunny sends message at Super Bowl half-time show",
+    "summary": "Puerto Rican artist Bad Bunny makes history with his entirely Spanish set on the sporting world's biggest stage.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Mon, 09 Feb 2026 03:30:40 GMT",
