@@ -30,56 +30,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c301eve3936o#0",
-    "category": "global",
-    "title": "Hiker 'lucky to be alive' after 30ft fall where others have died",
-    "summary": "Suzie Dyer was seriously injured when she fell down a sheer drop in Waterfall Country, and says more should be done to improve safety.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 08 Feb 2026 21:57:56 GMT",
-    "link": "https://www.bbc.com/news/articles/c301eve3936o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1522975.html",
-    "category": "sports",
-    "title": "Ireland fielding errors prove costly",
-    "summary": "As Sri Lanka accelerated, Ireland's catching deteriorated",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413150.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 08 Feb 2026 21:26:09 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1522975.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1522963.html",
-    "category": "sports",
-    "title": "Kamindu Mendis, Kusal Mendis, spinners script Sri Lanka's win",
-    "summary": "Ireland dropped seven catches that proved to be a major factor in their 20-run loss",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413140.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 08 Feb 2026 19:24:38 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1522963.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1522909.html",
-    "category": "sports",
-    "title": "England survive Nepal scare to clinch last-ball thriller",
-    "summary": "Curran final over allows England to breathe a huge sigh of relief after Bam fireworks",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413129.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 08 Feb 2026 17:37:00 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1522909.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1522908.html",
-    "category": "sports",
-    "title": "Trott pleased with Naib at No. 3, defends non-selection of Noor",
-    "summary": "Afghanistan's head coach felt it was the execution of the fast bowlers, and not selection, that cost the team against New Zealand",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413000/413099.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 08 Feb 2026 17:29:07 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1522908.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -100,184 +50,214 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ai-the-most-underappreciated-vertical-in-reliance-industries-morgan-stanley/articleshow/128104322.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-sbi-shipping-corporation-and-pfc-among-6-big-movers-on-monday/slideshow/128111856.cms",
     "category": "finance",
-    "title": "\u2018AI\u2019 the most underappreciated vertical in Reliance Industries: Morgan Stanley",
-    "summary": "The firm keeps Reliance as a top pick with an Overweight rating and an unchanged price target of Rs 1,803, implying 24% upside from the February 6 close of Rs 1,451.",
-    "image": "https://img.etimg.com/photo/msid-128104322,imgsize-73796.cms",
+    "title": "Gainers &amp; Losers: SBI, Shipping Corporation and PFC among 6 big movers on Monday",
+    "summary": "Benchmark indices closed higher for a second session as broad-based buying lifted financials. Stocks like SBI, Shipping Corporation and Kalyan Jewellers moved sharply on earnings and corporate developments news.",
+    "image": "https://img.etimg.com/photo/msid-128111856,imgsize-42336.cms",
     "source": "ET",
-    "pubDate": "Mon, 09 Feb 2026 13:25:04 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-the-most-underappreciated-vertical-in-reliance-industries-morgan-stanley/articleshow/128104322.cms"
+    "pubDate": "Mon, 09 Feb 2026 16:47:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-sbi-shipping-corporation-and-pfc-among-6-big-movers-on-monday/slideshow/128111856.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/shipping-corp-shares-rocket-14-after-q3-profit-balloons-440-check-details/articleshow/128104100.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/yarn-maker-trident-posts-quarterly-profit-slump-as-exports-soften/articleshow/128111504.cms",
     "category": "finance",
-    "title": "Shipping Corp shares rocket 14% after Q3 profit balloons 440%. Check details",
-    "summary": "Shipping Corporation of India shares surged up to 14% after the PSU posted a sharp 440% jump in Q3FY26 net profit, driven by strong tanker and bulk carrier performance. Revenue rose over 22%, while the board announced a second interim dividend. The c",
-    "image": "https://img.etimg.com/photo/msid-128104100,imgsize-643273.cms",
+    "title": "Yarn maker Trident posts quarterly profit slump as exports soften",
+    "summary": "Indian towel and bedsheet maker Trident reported a 44% profit fall in the third quarter due to a U.S. tariff-induced export slowdown. Revenue dropped 6%, with bedsheet sales declining by a third. The company is establishing a domestic subsidiary to b",
+    "image": "https://img.etimg.com/photo/msid-128111504,imgsize-693788.cms",
     "source": "ET",
-    "pubDate": "Mon, 09 Feb 2026 13:21:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/shipping-corp-shares-rocket-14-after-q3-profit-balloons-440-check-details/articleshow/128104100.cms"
+    "pubDate": "Mon, 09 Feb 2026 16:38:34 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/yarn-maker-trident-posts-quarterly-profit-slump-as-exports-soften/articleshow/128111504.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/psu-banks-look-attractive-bank-of-baroda-top-pick-pankaj-pandey/articleshow/128103408.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/9-nifty500-stocks-with-rising-promoter-pledges-in-q3fy26/slideshow/128111746.cms",
     "category": "finance",
-    "title": "PSU Banks look attractive; Bank of Baroda top pick: Pankaj Pandey",
-    "summary": "Pankaj Pandey, Head Research, finds PSU banks attractive, with Bank of Baroda as his top pick, targeting \u20b9340. He anticipates a stronger second half of the financial year and sees potential for M&amp;A and policy support. Pandey also remains construc",
-    "image": "https://img.etimg.com/photo/msid-128103408,imgsize-39420.cms",
+    "title": "9 Nifty500 stocks with rising Promoter pledges in Q3FY26",
+    "summary": "This can indicate financial stress or the need for liquidity, as it suggests the promoters are using their shares to secure funding.",
+    "image": "https://img.etimg.com/photo/msid-128111081,imgsize-9348.cms",
     "source": "ET",
-    "pubDate": "Mon, 09 Feb 2026 13:00:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/psu-banks-look-attractive-bank-of-baroda-top-pick-pankaj-pandey/articleshow/128103408.cms"
+    "pubDate": "Mon, 09 Feb 2026 16:27:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/9-nifty500-stocks-with-rising-promoter-pledges-in-q3fy26/slideshow/128111746.cms"
   },
   {
-    "id": "https://www.ndtv.com/south/bengaluru-woman-allegedly-forced-into-prostitution-by-in-laws-died-by-suicide-10972719#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/mongolias-total-number-of-confirmed-measles-cases-exceeds-14-000-10974206#publisher=newsstand",
     "category": "india",
-    "title": "Bengaluru Woman Forced Into Prostitution By In-Laws, Died By Suicide: Cops",
-    "summary": "A 22-year-old woman allegedly died by suicide after being harassed and abused by her husband's family and forced into prostitution.",
-    "image": "https://c.ndtvimg.com/2026-02/8tq7ipoc_karnataka-22-year-old-woman-allegedly-died-by-suicide-forced-into-prostitution_625x300_09_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Measles Cases In Mongolia Exceed 14,000, School-Aged Children Affected More",
+    "summary": "The total number of measles cases in Mongolia has increased to 14,123, the country's National Centre for Communicable Diseases (NCCD) said on Monday.",
+    "image": "https://c.ndtvimg.com/2026-01/m42igpdc_measles-vaccine_625x300_23_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 09 Feb 2026 12:53:21 +0530",
-    "link": "https://www.ndtv.com/south/bengaluru-woman-allegedly-forced-into-prostitution-by-in-laws-died-by-suicide-10972719#publisher=newsstand"
+    "pubDate": "Mon, 09 Feb 2026 16:25:39 +0530",
+    "link": "https://www.ndtv.com/health/mongolias-total-number-of-confirmed-measles-cases-exceeds-14-000-10974206#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/kanpur-lamborghini-crash-fir-names-unknown-identity-not-tobacco-barons-son-shivam-mishra-10973022#publisher=newsstand",
-    "category": "india",
-    "title": "After Lamborghini Crash, FIR Cites \"Unknown\" Person. Name Added A Day Later",
-    "summary": "Shivam Mishra was behind the wheel of a Lamborghini Revuelto.",
-    "image": "https://c.ndtvimg.com/2026-02/sejoh5lc_kanpur-lamborghini-accident-shivam-mishra-_625x300_09_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 09 Feb 2026 12:48:22 +0530",
-    "link": "https://www.ndtv.com/india-news/kanpur-lamborghini-crash-fir-names-unknown-identity-not-tobacco-barons-son-shivam-mishra-10973022#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/khamenei-breaks-37-year-old-ritual-for-1st-time-amid-trumps-attack-threat-10973097#publisher=newsstand",
-    "category": "india",
-    "title": "Khamenei Breaks 37-Year Old Ritual For 1st Time Amid Trump's Attack Threat",
-    "summary": "Tehran has repeatedly warned that any US attack would spark a broader conflict",
-    "image": "https://c.ndtvimg.com/2026-01/6t5soqds_ayatollah-khamenei_625x300_07_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 09 Feb 2026 12:47:57 +0530",
-    "link": "https://www.ndtv.com/world-news/khamenei-breaks-37-year-old-ritual-for-1st-time-amid-trumps-attack-threat-10973097#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/aye-finance-ipo-day-1-retail-subscription-at-15-gmp-weak-what-brokerages-say/articleshow/128102862.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/religare-broking-appoints-vijay-kumar-goel-as-managing-director/articleshow/128110615.cms",
     "category": "finance",
-    "title": "Aye Finance IPO Day 1: Retail subscription at 15%, GMP weak. What brokerages say",
-    "summary": "Aye Finance's IPO opened to a muted response, with only 3% subscription on day one, primarily driven by retail investors. The Rs 1,010 crore issue, which closes on February 11, saw institutional buyers largely absent, reflecting cautious market senti",
-    "image": "https://img.etimg.com/photo/msid-128102862,imgsize-34962.cms",
+    "title": "Religare Broking appoints Vijay Kumar Goel as Managing Director",
+    "summary": "Religare Broking on Monday said it has appointed Vijay Kumar Goel as its managing director as the broking firm focuses on scaling its core broking business and expanding wealth product distribution offerings.",
+    "image": "https://img.etimg.com/photo/msid-128110615,imgsize-30014.cms",
     "source": "ET",
-    "pubDate": "Mon, 09 Feb 2026 12:47:38 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/aye-finance-ipo-day-1-retail-subscription-at-15-gmp-weak-what-brokerages-say/articleshow/128102862.cms"
+    "pubDate": "Mon, 09 Feb 2026 16:18:57 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/religare-broking-appoints-vijay-kumar-goel-as-managing-director/articleshow/128110615.cms"
   },
   {
-    "id": "https://www.ndtv.com/health/can-egg-yolk-increase-cholesterol-cardiologist-busts-myth-10973055#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/moca-set-to-inspect-uncontrolled-airfields-after-pawar-crash-in-baramati-10974505#publisher=newsstand",
     "category": "india",
-    "title": "Can Egg Yolk Increase Cholesterol? Cardiologist Busts Myth",
-    "summary": "Eggs, including the yolk, are generally nutritious and healthy",
-    "image": "https://c.ndtvimg.com/2019-03/ruehhpe8_egg-yolk-in-cooking_625x300_19_March_19.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Aviation Ministry To Inspect Uncontrolled Airfields After Ajit Pawar Crash: Sources",
+    "summary": "A Learjet XR crashed on 28 January leaving Pawar and four others dead.",
+    "image": "https://c.ndtvimg.com/2026-01/dlj83bak_ajit-pawar-_625x300_28_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 09 Feb 2026 12:46:35 +0530",
-    "link": "https://www.ndtv.com/health/can-egg-yolk-increase-cholesterol-cardiologist-busts-myth-10973055#publisher=newsstand"
+    "pubDate": "Mon, 09 Feb 2026 16:18:03 +0530",
+    "link": "https://www.ndtv.com/india-news/moca-set-to-inspect-uncontrolled-airfields-after-pawar-crash-in-baramati-10974505#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/andhra-techie-27-wanted-lavish-lifestyle-so-he-carried-out-60-burglaries-10972913#publisher=newsstand",
-    "category": "india",
-    "title": "Techie's \"Lavish Lifestyle\" Funded By 60 Robberies Across Andhra Pradesh",
-    "summary": "The police arrested the man, identified as Achhi Mahesh Reddy, also known as Sunny.",
-    "image": "https://c.ndtvimg.com/2026-02/99gia03s_andhra-techie-arrested-_625x300_09_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 09 Feb 2026 12:45:35 +0530",
-    "link": "https://www.ndtv.com/india-news/andhra-techie-27-wanted-lavish-lifestyle-so-he-carried-out-60-burglaries-10972913#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/shivam-mishra-kanpur-lamborghini-accident-a-tobacco-empire-heir-and-his-lamborghini-the-lavish-life-of-shivam-mishra-10972397#publisher=newsstand",
-    "category": "india",
-    "title": "Between 2024 Raids And 2026 Crash, A Tobacco Baron's Son, His Lamborghini",
-    "summary": "Shivam Mishra is the son of a well-known tobacco businessman.",
-    "image": "https://c.ndtvimg.com/2024-03/uqm2hbvo_bansidhar-tobacco-company-_625x300_01_March_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 09 Feb 2026 12:41:34 +0530",
-    "link": "https://www.ndtv.com/india-news/shivam-mishra-kanpur-lamborghini-accident-a-tobacco-empire-heir-and-his-lamborghini-the-lavish-life-of-shivam-mishra-10972397#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/silver-gold-prices-today-silver-gold-futures-rally-as-global-rebound-weak-dollar-lift-metals-10973010#publisher=newsstand",
-    "category": "india",
-    "title": "Silver, Gold Futures Rally As Global Rebound, Weak Dollar Lift Metals",
-    "summary": "Silver jumped more than 6 per cent towards USD 82 per ounce on Monday.",
-    "image": "https://c.ndtvimg.com/2026-02/69c7rrb8_gold-silver-prices-crash_625x300_02_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 09 Feb 2026 12:41:22 +0530",
-    "link": "https://www.ndtv.com/india-news/silver-gold-prices-today-silver-gold-futures-rally-as-global-rebound-weak-dollar-lift-metals-10973010#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/cleanmax-rs-1500-crore-pre-ipo-round-draws-temasek-bain-capital/articleshow/128102391.cms",
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-finds-muted-relief-from-weaker-dollar-corporate-flows-dominate/articleshow/128110437.cms",
     "category": "finance",
-    "title": "CleanMax Rs 1,500 crore pre-IPO round draws Temasek, Bain Capital",
-    "summary": "CleanMax Enviro Energy Solutions has secured Rs 1,500 crore in a pre-IPO funding round. Global investors like Temasek and Bain Capital led the investment. The company is preparing for an initial public offering to raise Rs 5,200 crore. This funding h",
-    "image": "https://img.etimg.com/photo/msid-128102391,imgsize-19696.cms",
+    "title": "Rupee finds muted relief from weaker dollar; corporate flows dominate",
+    "summary": "The Indian rupee closed \u200da tad weaker on Monday, \u200bunable to benefit from a broadly weaker dollar in \u2060the face of corporate demand for the greenback over a trading session that was also marked by technical glitches.",
+    "image": "https://img.etimg.com/photo/msid-128110437,imgsize-84102.cms",
     "source": "ET",
-    "pubDate": "Mon, 09 Feb 2026 12:30:36 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/cleanmax-rs-1500-crore-pre-ipo-round-draws-temasek-bain-capital/articleshow/128102391.cms"
+    "pubDate": "Mon, 09 Feb 2026 16:15:24 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-finds-muted-relief-from-weaker-dollar-corporate-flows-dominate/articleshow/128110437.cms"
   },
   {
-    "id": "https://www.ndtv.com/opinion/what-you-as-a-techie-need-to-do-to-save-your-job-from-ai-10972965#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/west-bengal-hs-2026-exam-cctv-cameras-mandatory-at-centres-strict-security-checks-announced-10974521#publisher=newsstand",
     "category": "india",
-    "title": "Opinion: Opinion | The Great Claude Shakeout: What You, As A 'Techie', Must Do To Stay Relevant",
-    "summary": "The future is not necessarily bleak, but is certainly cloudy - perhaps in a literal sense as cloud-based simplicity gives way to more customisable software apps.",
-    "image": "https://c.ndtvimg.com/style-coding_625x300_1529472961056.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "West Bengal HS 2026: CCTV Cameras Mandatory At Centres, Strict Security Checks Announced",
+    "summary": "West Bengal Class 12 Exams To Feature CCTV And Enhanced Security",
+    "image": "https://c.ndtvimg.com/2024-07/oh1drin_exam-representative-image_625x300_01_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 09 Feb 2026 12:29:15 +0530",
-    "link": "https://www.ndtv.com/opinion/what-you-as-a-techie-need-to-do-to-save-your-job-from-ai-10972965#publisher=newsstand"
+    "pubDate": "Mon, 09 Feb 2026 16:14:17 +0530",
+    "link": "https://www.ndtv.com/education/west-bengal-hs-2026-exam-cctv-cameras-mandatory-at-centres-strict-security-checks-announced-10974521#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-investors-chase-cheaper-smaller-companies-as-risk-aversion-hits-tech-sector/articleshow/128101721.cms",
-    "category": "finance",
-    "title": "Wall Street investors chase cheaper, smaller companies as risk aversion hits tech sector",
-    "summary": "Investors are now favouring smaller, less expensive companies. This shift comes as market volatility makes them rethink their risk appetite for volatile assets. Big tech stocks have seen losses, while industrial and smallcap companies are gaining. Th",
-    "image": "https://img.etimg.com/photo/msid-128101721,imgsize-27422.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Feb 2026 12:16:47 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-investors-chase-cheaper-smaller-companies-as-risk-aversion-hits-tech-sector/articleshow/128101721.cms"
+    "id": "https://www.ndtv.com/health/what-is-exam-stress-6-problems-it-can-escalate-to-if-left-unmanaged-10973785#publisher=newsstand",
+    "category": "india",
+    "title": "What Is Exam Stress? 6 Problems It Can Escalate To If Left Unmanaged",
+    "summary": "Exam-related anxiety can escalate into risky behaviours",
+    "image": "https://c.ndtvimg.com/2026-02/5ekhdf0g_exam-stress_625x300_09_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 09 Feb 2026 16:14:10 +0530",
+    "link": "https://www.ndtv.com/health/what-is-exam-stress-6-problems-it-can-escalate-to-if-left-unmanaged-10973785#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/japan-stocks-soar-to-record-super-long-bonds-steady-in-nod-to-takaichis-responsible-stimulus/articleshow/128101544.cms",
-    "category": "finance",
-    "title": "Japan stocks soar to record, super-long bonds steady in nod to Takaichi's 'responsible' stimulus",
-    "summary": "After Prime Minister Sanae Takaichi's decisive election win, Japanese stocks soared to unprecedented heights, while bonds showed signs of stability. Her robust mandate has inspired investor confidence in her economic strategies. Following some initia",
-    "image": "https://img.etimg.com/photo/msid-128101544,imgsize-116570.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Feb 2026 12:11:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/japan-stocks-soar-to-record-super-long-bonds-steady-in-nod-to-takaichis-responsible-stimulus/articleshow/128101544.cms"
+    "id": "https://www.ndtv.com/world-news/generative-ai-and-incel-ideology-a-dangerous-mix-and-a-security-threat-10974279#publisher=newsstand",
+    "category": "india",
+    "title": "Analysis: Generative AI And Incel Ideology - Dangerous Mix And Security Threat",
+    "summary": "Misogyny predates the digital era; modern technologies like generative AI have amplified it.",
+    "image": "https://c.ndtvimg.com/2025-12/54rnsaqc_cyber-crime_625x300_15_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 09 Feb 2026 16:04:43 +0530",
+    "link": "https://www.ndtv.com/world-news/generative-ai-and-incel-ideology-a-dangerous-mix-and-a-security-threat-10974279#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/vijay-kedia-on-cutting-noise-patience-and-finding-tomorrows-market-winners/articleshow/128101559.cms",
+    "id": "https://www.ndtv.com/world-news/pet-dogs-are-turning-wild-because-of-war-between-these-two-countries-10973051#publisher=newsstand",
+    "category": "india",
+    "title": "Pet Dogs Are Turning 'Wild' Because Of War Between These Two Countries",
+    "summary": "The study analysed data from 763 dogs across nine regions of the country. (Representational)",
+    "image": "https://c.ndtvimg.com/2023-06/861v2nr8_kyiv_625x300_16_June_23.jpg",
+    "source": "NDTV",
+    "pubDate": "Mon, 09 Feb 2026 16:02:06 +0530",
+    "link": "https://www.ndtv.com/world-news/pet-dogs-are-turning-wild-because-of-war-between-these-two-countries-10973051#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/bengaluru-woman-dies-by-suicide-after-husbands-death-due-to-gas-geyser-leak-10974401#publisher=newsstand",
+    "category": "india",
+    "title": "Bengaluru Woman Dies By Suicide After Husband's Death Due To Gas Geyser Leak",
+    "summary": "Further investigation is underway, say officials. (Representational)",
+    "image": "https://c.ndtvimg.com/2026-02/2su651eg_bengaluru-suicide_625x300_09_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 09 Feb 2026 16:01:55 +0530",
+    "link": "https://www.ndtv.com/india-news/bengaluru-woman-dies-by-suicide-after-husbands-death-due-to-gas-geyser-leak-10974401#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/iit-madras-launches-online-bs-in-aeronautics-and-space-technology-programme-jee-not-mandatory-10974425#publisher=newsstand",
+    "category": "india",
+    "title": "IIT Madras Launches Online Bachelors Of Science In Aeronautics And Space Technology, JEE Not Mandatory",
+    "summary": "The programme was launched on February 9 through a live event",
+    "image": "https://c.ndtvimg.com/2026-02/ehp8c8f8_as_625x300_02_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 09 Feb 2026 15:59:15 +0530",
+    "link": "https://www.ndtv.com/education/iit-madras-launches-online-bs-in-aeronautics-and-space-technology-programme-jee-not-mandatory-10974425#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/commodity-radar-after-18-fall-from-peak-4-reasons-to-buy-gold-on-dips/articleshow/128109764.cms",
     "category": "finance",
-    "title": "Vijay Kedia on cutting noise, patience, and finding tomorrow\u2019s market winners",
-    "summary": "Veteran investor Vijay Kedia shares his stock market strategy. He differentiates traders from investors, stating noise matters only for traders. Investors should focus on earnings, not daily news. Kedia likens investing to a marathon, emphasizing pat",
-    "image": "https://img.etimg.com/photo/msid-128101559,imgsize-24430.cms",
+    "title": "Commodity Radar: After 18% fall from peak, 4 reasons to buy gold on dips",
+    "summary": "The April gold futures were trading around Rs 1,57,490 on the MCX, down 18% from their peak of Rs 1,93,096. On the COMEX, the gold rate hovered around the $5,049.30 an ounce mark, gaining $70 or 1.40%, intraday.",
+    "image": "https://img.etimg.com/photo/msid-128109764,imgsize-149784.cms",
     "source": "ET",
-    "pubDate": "Mon, 09 Feb 2026 12:09:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/vijay-kedia-on-cutting-noise-patience-and-finding-tomorrows-market-winners/articleshow/128101559.cms"
+    "pubDate": "Mon, 09 Feb 2026 15:55:20 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/commodity-radar-after-18-fall-from-peak-4-reasons-to-buy-gold-on-dips/articleshow/128109764.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-adds-485-points-nifty-extends-gain-for-second-session-to-end-above-25850-smallcap-index-rockets-2-65/articleshow/128109208.cms",
+    "category": "finance",
+    "title": "Market Wrap: Sensex adds 485 points, Nifty extends gain for second session to end above 25,850; smallcap index rockets 2",
+    "summary": "Benchmark indices Nifty and Sensex kicked off the week on a strong footing, extending gains for a second straight session on Monday. The rally was led by PSU banks, metals and pharma stocks, with the PSU Bank index emerging as the top gainer, surging",
+    "image": "https://img.etimg.com/photo/msid-128109208,imgsize-138132.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Feb 2026 15:53:55 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-adds-485-points-nifty-extends-gain-for-second-session-to-end-above-25850-smallcap-index-rockets-2-65/articleshow/128109208.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-close-in-on-fiis-as-ownership-gap-narrows-to-5-50-in-december-quarter/articleshow/128109463.cms",
+    "category": "finance",
+    "title": "MFs close in on FIIs as ownership gap narrows to 5.50% in December quarter",
+    "summary": "Domestic mutual funds continued gaining ground over FIIs in December 2025, narrowing the ownership gap to 5.50%. Record MF inflows, persistent SIP investments and declining foreign holdings signal a structural shift toward domestic institutional domi",
+    "image": "https://img.etimg.com/photo/msid-128109463,imgsize-25674.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Feb 2026 15:47:48 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-close-in-on-fiis-as-ownership-gap-narrows-to-5-50-in-december-quarter/articleshow/128109463.cms"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1523087.html",
+    "category": "sports",
+    "title": "Manchester United owner among bidders to buy RCB",
+    "summary": "There are reportedly eight bidders interested in Royal Challengers Bengaluru, and five for Rajasthan Royals",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/401600/401694.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 09 Feb 2026 11:34:15 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523087.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1523076.html",
+    "category": "sports",
+    "title": "Rahul, Smaran help Karnata knock Mumbai out and make semi-final",
+    "summary": "Rahul scored 130 while Smaran remained unbeaten on 83 as Karnataka chased down 325 at BKC",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/409000/409036.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 09 Feb 2026 11:27:45 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523076.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cje1eq9z08wo#0",
     "category": "global",
-    "title": "Yellow weather warning for rain starts at midday",
+    "title": "More than 100 flood warnings across UK with more heavy downpours due",
     "summary": "The warning covers south-west and south-east England, London and south Wales and lasts until midnight.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 09 Feb 2026 08:00:28 GMT",
+    "pubDate": "Mon, 09 Feb 2026 11:17:32 GMT",
     "link": "https://www.bbc.com/news/articles/cje1eq9z08wo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523031.html",
+    "id": "https://www.espncricinfo.com/ci/content/story/1523055.html",
     "category": "sports",
-    "title": "Ellis backs Australia's pace depth to cover big-name absences",
-    "summary": "Now the most experienced member of the pace attack, Ellis is confident he has recovered from his hamstring injury",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/404400/404422.jpg",
+    "title": "Munsey and Leask spoil Italy's T20 World Cup debut",
+    "summary": "It was a tough outing for Italy, who also lost their captain Wayne Madsen to a shoulder injury early in the game",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413154.jpg",
     "source": "Cricinfo",
-    "pubDate": "Mon, 09 Feb 2026 07:55:46 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523031.html?ex_cid=OTC-RSS"
+    "pubDate": "Mon, 09 Feb 2026 11:10:35 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523055.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cj4zxknd7evo#0",
+    "category": "global",
+    "title": "William and Catherine say they are 'deeply concerned' in first statement on Epstein revelations",
+    "summary": "It comes after documents released in the US revealed new allegations about Epstein's ties with Andrew Mountbatten-Windsor.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 09 Feb 2026 10:52:02 GMT",
+    "link": "https://www.bbc.com/news/articles/cj4zxknd7evo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1523029.html",
@@ -286,7 +266,7 @@
     "summary": "The Italy captain hurt his shoulder in the fourth over of Scotland's innings and was ruled out of the match",
     "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413153.jpg",
     "source": "Cricinfo",
-    "pubDate": "Mon, 09 Feb 2026 07:48:52 GMT",
+    "pubDate": "Mon, 09 Feb 2026 10:47:39 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1523029.html?ex_cid=OTC-RSS"
   },
   {
@@ -296,8 +276,58 @@
     "summary": "UAE are playing their first game of the T20 World Cup; NZ beat Afghanistan in their opening fixture",
     "image": "http://p.imgci.com/db/PICTURES/CMS/413000/413062.jpg",
     "source": "Cricinfo",
-    "pubDate": "Mon, 09 Feb 2026 07:18:12 GMT",
+    "pubDate": "Mon, 09 Feb 2026 10:06:56 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1523022.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1523061.html",
+    "category": "sports",
+    "title": "Nabi 12-for takes J&K to maiden Ranji semi-final as MP fall short",
+    "summary": "Saransh Jain fought for the hosts in 291 chase, but his 64 wasn't enough",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/405500/405519.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 09 Feb 2026 09:54:14 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523061.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1523060.html",
+    "category": "sports",
+    "title": "Muzarabani returns as Zimbabwe opt to bowl against Oman",
+    "summary": "Oman include 44-year-old Aamir Kaleem, the oldest player in the tournament",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413170.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 09 Feb 2026 09:39:08 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523060.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c394g7nnzmzo#0",
+    "category": "global",
+    "title": "Bad Bunny makes history as Trump criticises 'terrible' Super Bowl show",
+    "summary": "Puerto Rican artist Bad Bunny makes history with his entirely Spanish set on the sporting world's biggest stage.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 09 Feb 2026 09:36:38 GMT",
+    "link": "https://www.bbc.com/news/articles/c394g7nnzmzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1523047.html",
+    "category": "sports",
+    "title": "Namibia begin campaign in crucial game against Netherlands",
+    "summary": "Namibia are the last team in Group A to open their campaign, while Netherlands are coming off a defeat to Pakistan that could have been a victory",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/412800/412844.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 09 Feb 2026 08:44:30 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523047.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c301eve3936o#0",
+    "category": "global",
+    "title": "Hiker 'lucky to be alive' after 30ft fall where others have died",
+    "summary": "Suzie Dyer was seriously injured when she fell down a sheer drop in Waterfall Country, and says more should be done to improve safety.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 09 Feb 2026 08:20:29 GMT",
+    "link": "https://www.bbc.com/news/articles/c301eve3936o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/ce8g9118eezo#0",
@@ -312,42 +342,12 @@
   {
     "id": "https://www.bbc.com/news/articles/ce3g8e7n07jo#0",
     "category": "global",
-    "title": "Chris Mason: Crunch time for the prime minister",
+    "title": "Chris Mason: Starmer's predicament is dire and now he faces future without top aide",
     "summary": "There is universal acceptance in Labour that Sir Keir Starmer's predicament is dire and he confronts immense peril, writes Chris Mason.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Mon, 09 Feb 2026 06:02:11 GMT",
     "link": "https://www.bbc.com/news/articles/ce3g8e7n07jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/sport/american-football/articles/cjen2n5ql3zo#0",
-    "category": "global",
-    "title": "Seahawks dominate Patriots to win Super Bowl",
-    "summary": "The Seattle Seahawks produce a devastating defensive display to beat the New England Patriots and claim their second Super Bowl victory.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 09 Feb 2026 05:44:32 GMT",
-    "link": "https://www.bbc.com/sport/american-football/articles/cjen2n5ql3zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523018.html",
-    "category": "sports",
-    "title": "Italy opt to bowl; Scotland play Brad Wheal",
-    "summary": "A new pitch was being used for this game in Kolkata, with one square boundary (57m) being significantly shorter than the other (69m)",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413137.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 09 Feb 2026 05:36:16 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523018.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c394g7nnzmzo#0",
-    "category": "global",
-    "title": "'Together we are America' - Bad Bunny sends message at Super Bowl half-time show",
-    "summary": "Puerto Rican artist Bad Bunny makes history with his entirely Spanish set on the sporting world's biggest stage.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 09 Feb 2026 03:30:40 GMT",
-    "link": "https://www.bbc.com/news/articles/c394g7nnzmzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/ce8rl71n4r3o#0",
@@ -362,7 +362,7 @@
   {
     "id": "https://www.bbc.com/news/articles/cvgn2k285ypo#0",
     "category": "global",
-    "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
+    "title": "The tech firms embracing a 72-hour working week",
     "summary": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
