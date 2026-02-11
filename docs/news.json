@@ -1,93 +1,263 @@
 [
   {
-    "id": "https://www.ndtv.com/world-news/us-to-scrap-legal-cornerstone-of-climate-regulations-this-week-10985134#publisher=newsstand",
-    "category": "india",
-    "title": "US To Scrap Legal Cornerstone Of Climate Regulations This Week",
-    "summary": "The US has claimed that repealing the endangerment finding would lead to reduced new car costs.",
-    "image": "https://c.ndtvimg.com/2026-01/skubohtc_donald-trump_625x300_23_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 11 Feb 2026 03:23:57 +0530",
-    "link": "https://www.ndtv.com/world-news/us-to-scrap-legal-cornerstone-of-climate-regulations-this-week-10985134#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bhel-shares-fall-6-as-rs-4422-crore-ofs-opens-for-subscription/articleshow/128188911.cms",
+    "category": "finance",
+    "title": "BHEL shares fall 6% after Rs 4,422 crore OFS opens for subscription",
+    "summary": "BHEL shares dropped nearly 5% to Rs 259.3 as the government launched an Offer for Sale (OFS) to divest up to 5% stake, aiming to raise approximately Rs 4,422 crore. The floor price is set at Rs 254 per share, a discount to Tuesday's closing. The offe",
+    "image": "https://img.etimg.com/photo/msid-128188911,imgsize-28070.cms",
+    "source": "ET",
+    "pubDate": "Wed, 11 Feb 2026 10:29:49 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bhel-shares-fall-6-as-rs-4422-crore-ofs-opens-for-subscription/articleshow/128188911.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/minnesota-governor-tim-walz-says-federal-immigration-crackdown-could-end-within-days-10985090#publisher=newsstand",
-    "category": "india",
-    "title": "Minnesota Governor Says Federal Immigration Crackdown Could End Within Days",
-    "summary": "Governor Tim Walz said Tuesday that he expects the immigration crackdown in Minnesota will end in \"days\".",
-    "image": "https://c.ndtvimg.com/2026-02/sbkb11ak_minnesota-immigration-crackdown_625x300_11_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 11 Feb 2026 02:51:12 +0530",
-    "link": "https://www.ndtv.com/world-news/minnesota-governor-tim-walz-says-federal-immigration-crackdown-could-end-within-days-10985090#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-fiscal-expansion-sets-stage-for-bond-market-strain/articleshow/128188710.cms",
+    "category": "finance",
+    "title": "Global Market: Fiscal expansion sets stage for bond market strain",
+    "summary": "Global governments are increasing borrowing significantly due to geopolitical shifts and domestic spending priorities, even amidst strong economic growth. This surge in debt issuance, coupled with central banks reducing their bond holdings, is pressu",
+    "image": "https://img.etimg.com/photo/msid-128188710,imgsize-81250.cms",
+    "source": "ET",
+    "pubDate": "Wed, 11 Feb 2026 10:20:46 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-fiscal-expansion-sets-stage-for-bond-market-strain/articleshow/128188710.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/colombian-president-gustavo-petro-claims-to-have-escaped-assassination-attempt-10985041#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-6-paise-to-90-62-against-us-dollar-in-early-trade/articleshow/128188155.cms",
+    "category": "finance",
+    "title": "Rupee falls 6 paise to 90.62 against US dollar in early trade",
+    "summary": "The rupee weakened by 6 paise to 90.62 against the US dollar amid geopolitical tensions and importer demand. Fresh concerns arose from a US fact sheet detailing tariff reductions on Indian industrial and agricultural goods, impacting investor sentime",
+    "image": "https://img.etimg.com/photo/msid-128188155,imgsize-1621296.cms",
+    "source": "ET",
+    "pubDate": "Wed, 11 Feb 2026 09:57:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-6-paise-to-90-62-against-us-dollar-in-early-trade/articleshow/128188155.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-advance-rs-7000/kg-gold-up-rs-1600-as-weak-us-consumer-data-lifts-rate-cut-hopes-whats-next-for-investors/articleshow/128187939.cms",
+    "category": "finance",
+    "title": "Silver prices advance Rs 7,000/kg, gold up Rs 1,600 as weak US consumer data lifts rate cut hopes. What\u2019s next for inves",
+    "summary": "Gold and silver futures opened higher on Wednesday, driven by expectations of a more accommodative Federal Reserve following soft U.S. data. Weakening consumer spending and growth concerns bolstered safe-haven demand for precious metals, with both go",
+    "image": "https://img.etimg.com/photo/msid-128187939,imgsize-81888.cms",
+    "source": "ET",
+    "pubDate": "Wed, 11 Feb 2026 09:54:35 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-advance-rs-7000/kg-gold-up-rs-1600-as-weak-us-consumer-data-lifts-rate-cut-hopes-whats-next-for-investors/articleshow/128187939.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-ai-fears-hit-us-wealth-managers-why-stocks-sank-and-whats-next/articleshow/128187710.cms",
+    "category": "finance",
+    "title": "US Stocks Today | AI fears hit US wealth managers: Why stocks sank and what\u2019s next",
+    "summary": "US wealth management and brokerage stocks sold off sharply after an AI-driven tax-planning tool raised fears that automation could disrupt advisory revenues. Investors worried about fee pressure and weakened business moats, though analysts argue esta",
+    "image": "https://img.etimg.com/photo/msid-128187710,imgsize-207843.cms",
+    "source": "ET",
+    "pubDate": "Wed, 11 Feb 2026 09:49:49 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-ai-fears-hit-us-wealth-managers-why-stocks-sank-and-whats-next/articleshow/128187710.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-sbi-among-10-nifty50-stocks-where-fii-increased-holdings-in-q3-check-full-list/slideshow/128188000.cms",
+    "category": "finance",
+    "title": "Reliance Industries, SBI among 10 Nifty50 stocks where FII increased holdings in Q3. Check full list",
+    "summary": "Despite overall equity offloading, Foreign Institutional Investors (FIIs) selectively increased their holdings in 10 Nifty50 stocks during Q3. Companies like Bharti Airtel, Asian Paints, and Tata Motors saw notable gains in FII ownership, indicating ",
+    "image": "https://img.etimg.com/photo/msid-128187775,imgsize-7964.cms",
+    "source": "ET",
+    "pubDate": "Wed, 11 Feb 2026 09:44:53 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-sbi-among-10-nifty50-stocks-where-fii-increased-holdings-in-q3-check-full-list/slideshow/128188000.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/jio-financial-hdfc-bank-among-10-nifty50-stocks-that-saw-decrease-in-fii-holding-in-q3/slideshow/128187970.cms",
+    "category": "finance",
+    "title": "Jio Financial, HDFC Bank among 10 Nifty50 stocks that saw decrease in FII holding in Q3",
+    "summary": "\u200bForeign institutional investors (FIIs) reduced their holdings in 39 Nifty50 stocks during the December quarter, with significant cuts seen in major companies like Bajaj Auto, Mahindra &amp; Mahindra, and HDFC Bank. This trend reflects a broader patt",
+    "image": "https://img.etimg.com/photo/msid-128187589,imgsize-40218.cms",
+    "source": "ET",
+    "pubDate": "Wed, 11 Feb 2026 09:38:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-financial-hdfc-bank-among-10-nifty50-stocks-that-saw-decrease-in-fii-holding-in-q3/slideshow/128187970.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-100-pts-nifty-reclaims-26000-as-auto-it-stocks-rally/articleshow/128187245.cms",
+    "category": "finance",
+    "title": "Sensex rises over 100 pts, Nifty reclaims 26,000 as auto, IT stocks rally",
+    "summary": "Indian benchmark indices Sensex and Nifty opened higher on Wednesday, extending their gains for a fourth consecutive session. Strong buying in auto, IT, metal, and FMCG stocks fueled the early trade, with the Nifty 50 reclaiming the 26,000 mark. Howe",
+    "image": "https://img.etimg.com/photo/msid-128187245,imgsize-33426.cms",
+    "source": "ET",
+    "pubDate": "Wed, 11 Feb 2026 09:33:32 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-100-pts-nifty-reclaims-26000-as-auto-it-stocks-rally/articleshow/128187245.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/icmai-cma-result-2025-out-live-inter-final-scorecards-released-at-icmai-in-direct-link-here-meet-toppers-10985837#publisher=newsstand",
     "category": "india",
-    "title": "Colombian President Claims To Have Escaped Assassination Attempt",
-    "summary": "Colombian President Gustavo Petro said in a cabinet meeting that he was \"escaping from being killed\".",
-    "image": "https://c.ndtvimg.com/2025-10/e5hf33b4_colombian-president-gustavo-petro_625x300_31_October_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "ICMAI CMA Result 2025 Out: Here's Direct Link To Check, Meet Toppers",
+    "summary": "ICMAI CMA Result 2025 OUT: Candidates can download their scorecards from the official website.",
+    "image": "https://c.ndtvimg.com//student-using-computer_625x300_1529054365847.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Wed, 11 Feb 2026 02:31:07 +0530",
-    "link": "https://www.ndtv.com/world-news/colombian-president-gustavo-petro-claims-to-have-escaped-assassination-attempt-10985041#publisher=newsstand"
+    "pubDate": "Wed, 11 Feb 2026 09:25:49 +0530",
+    "link": "https://www.ndtv.com/education/icmai-cma-result-2025-out-live-inter-final-scorecards-released-at-icmai-in-direct-link-here-meet-toppers-10985837#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/canada-school-shooting-suspected-shooter-dead-multiple-victims-reports-10985500#publisher=newsstand",
+    "category": "india",
+    "title": "10 Including Woman Suspect Killed In Canada School Shooting, 25 Injured",
+    "summary": "Tumbler Ridge Secondary School has 175 students.",
+    "image": "https://c.ndtvimg.com/2026-02/n8q1b3m_tumbler-ridge-school-canada_625x300_11_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 11 Feb 2026 09:25:23 +0530",
+    "link": "https://www.ndtv.com/world-news/canada-school-shooting-suspected-shooter-dead-multiple-victims-reports-10985500#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/northern-lights-captured-in-heart-shape-over-norway-ahead-of-valentines-day-10985817#publisher=newsstand",
+    "category": "india",
+    "title": "Northern Lights Captured In Heart Shape Over Norway Ahead Of Valentine's Day",
+    "summary": "A heart-shaped northern lights photo captured by Kristoffer Vangen in Norway goes viral.",
+    "image": "https://c.ndtvimg.com/2026-02/ctisr9ds_as_625x300_11_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 11 Feb 2026 09:24:29 +0530",
+    "link": "https://www.ndtv.com/offbeat/northern-lights-captured-in-heart-shape-over-norway-ahead-of-valentines-day-10985817#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/pulses-dropped-in-key-revision-in-us-factsheet-on-india-trade-deal-10985625#publisher=newsstand",
+    "category": "india",
+    "title": "Key Revisions Within 24 Hours In US Factsheet On India Deal, Pulses Removed",
+    "summary": "The changes came a day after Congress criticised the government over the deal.",
+    "image": "https://c.ndtvimg.com/2026-02/sq3jqjs4_trump-modi_625x300_02_February_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Wed, 11 Feb 2026 09:23:35 +0530",
+    "link": "https://www.ndtv.com/india-news/pulses-dropped-in-key-revision-in-us-factsheet-on-india-trade-deal-10985625#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/journalist-ravi-nair-fined-given-one-year-jail-term-in-adani-defamation-case-10983822#publisher=newsstand",
+    "category": "india",
+    "title": "Journalist Ravi Nair Fined, Given One-Year Jail Term In Adani Defamation Case",
+    "summary": "The court held that Adani Enterprises Ltd (AEL) had successfully established its case",
+    "image": "https://c.ndtvimg.com/2026-02/k5mspu9_adani_625x300_10_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 11 Feb 2026 09:22:40 +0530",
+    "link": "https://www.ndtv.com/india-news/journalist-ravi-nair-fined-given-one-year-jail-term-in-adani-defamation-case-10983822#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/karnataka-news/karnataka-congress-mla-mateen-patel-flaunts-guns-in-reel-on-fa9la-song-probe-on-10982351#publisher=newsstand",
+    "category": "india",
+    "title": "Karnataka Congress MLA Flaunts Guns In Reel On 'Fa9la' Song, Probe On",
+    "summary": "Police have begun an investigation into the matter.",
+    "image": "https://c.ndtvimg.com/2026-02/6spt4va8_mateen-patel-reel_625x300_11_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 11 Feb 2026 09:22:14 +0530",
+    "link": "https://www.ndtv.com/karnataka-news/karnataka-congress-mla-mateen-patel-flaunts-guns-in-reel-on-fa9la-song-probe-on-10982351#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/new-guidelines-for-vande-mataram-standing-up-necessary-but-not-in-cinemas-10985596#publisher=newsstand",
+    "category": "india",
+    "title": "Vande Mataram To Play Before Jana Gana Mana At Government Events, Schools",
+    "summary": "The Union Home Ministry has issued new guidelines regarding 'Vande Mataram', including requiring all persons to stand when it is played and that it be played immediately after the national anthem, i.e., 'Jana, Gana, Mana', at all government events.",
+    "image": "https://c.ndtvimg.com/2026-01/pbnqhov4_indian-flag-children-stand_625x300_26_January_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 11 Feb 2026 09:11:39 +0530",
+    "link": "https://www.ndtv.com/india-news/new-guidelines-for-vande-mataram-standing-up-necessary-but-not-in-cinemas-10985596#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/epstein-files-top-trump-official-howard-lutnick-admits-he-visited-epsteins-island-10984965#publisher=newsstand",
     "category": "india",
-    "title": "\"Had Lunch\": Top Trump Official Admits He Visited Epstein's Island",
+    "title": "\"Had Lunch\": Top Trump Official Admits He Visited Epstein Island",
     "summary": "Epstein Files: Howard Lutnick admitted that he was on a family vacation at Epstein's island.",
     "image": "https://c.ndtvimg.com/2026-02/4mpkqe4o_howard-lutnick_625x300_11_February_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Wed, 11 Feb 2026 01:48:11 +0530",
+    "pubDate": "Wed, 11 Feb 2026 09:05:16 +0530",
     "link": "https://www.ndtv.com/world-news/epstein-files-top-trump-official-howard-lutnick-admits-he-visited-epsteins-island-10984965#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/construction-begins-today-at-bengals-babri-masjid-replica-spot-10984913#publisher=newsstand",
-    "category": "india",
-    "title": "Construction Begins Today At Bengal's Babri Masjid Replica Spot",
-    "summary": "Two months after laying the foundation of the Babri replica, the construction of the project is about to begin in Murshidabad's Beldanga today.",
-    "image": "https://c.ndtvimg.com/2026-01/cjnc8i6_hum_625x300_31_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 11 Feb 2026 01:16:16 +0530",
-    "link": "https://www.ndtv.com/india-news/construction-begins-today-at-bengals-babri-masjid-replica-spot-10984913#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/czj198mk0l8o#0",
+    "category": "global",
+    "title": "Chris Mason: Smiles of a survivor as Starmer attempts his latest reset",
+    "summary": "Some political air has been cleared for Sir Keir but fundamental issues remain unaltered, the BBC's political editor writes.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 11 Feb 2026 04:19:58 GMT",
+    "link": "https://www.bbc.com/news/articles/czj198mk0l8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-immigration-officials-grilled-by-congress-over-trump-crackdown-10984878#publisher=newsstand",
-    "category": "india",
-    "title": "US Immigration Officials Grilled By Congress Over Trump Crackdown",
-    "summary": "The Trump officials faced a barrage of criticism over the major crackdown on migrants in US.",
-    "image": "https://c.ndtvimg.com/2026-02/ff4lk44o_us-immigration-officials_625x300_11_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 11 Feb 2026 01:03:11 +0530",
-    "link": "https://www.ndtv.com/world-news/us-immigration-officials-grilled-by-congress-over-trump-crackdown-10984878#publisher=newsstand"
+    "id": "https://www.bbc.com/weather/articles/cx2r5p58lqwo#0",
+    "category": "global",
+    "title": "Flooding concerns remain but shift in weather patterns on the way",
+    "summary": "Conditions are expected to turn colder later in the week.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 11 Feb 2026 03:58:15 GMT",
+    "link": "https://www.bbc.com/weather/articles/cx2r5p58lqwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/100-students-hospitalised-in-uttar-pradesh-after-taking-deworming-tablets-10984594#publisher=newsstand",
-    "category": "india",
-    "title": "100 Students Hospitalised In Uttar Pradesh After Taking Deworming Tablets",
-    "summary": "The district magistrate said the tablets were given district-wide.",
-    "image": "https://i.ndtvimg.com/i/2015-03/ambulance-generic_650x400_51425838004.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 11 Feb 2026 00:43:20 +0530",
-    "link": "https://www.ndtv.com/india-news/100-students-hospitalised-in-uttar-pradesh-after-taking-deworming-tablets-10984594#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1523389.html",
+    "category": "sports",
+    "title": "Abhishek Sharma hospitalised with stomach issue",
+    "summary": "Star opener Abhishek Sharma a potential doubt for India's second T20 World Cup 2026 game - against Namibia - on Thursday after being admitted to a Delhi hospital",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413200/413268.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 11 Feb 2026 03:49:06 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523389.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/india-news/india-climbs-5-places-to-91st-on-global-corruption-index-2025-10982832#publisher=newsstand",
-    "category": "india",
-    "title": "India Climbs 5 Places To 91st On Global Corruption Index 2025",
-    "summary": "While the US has been ranked at the 29th spot, the UK bagged the 20th spot.",
-    "image": "https://c.ndtvimg.com/proen/2024-08-08/g7s1jvtr/Close%20view%20of%20Indian%20currency%20500%20rupee%20notes%20counting.%20(Photo_%20Radhakisan%20Raswe_%20Source_%20NDTV%20Profit)%2011_07_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 11 Feb 2026 00:40:08 +0530",
-    "link": "https://www.ndtv.com/india-news/india-climbs-5-places-to-91st-on-global-corruption-index-2025-10982832#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/ce94jm1pp5xo#0",
+    "category": "global",
+    "title": "UK doubles troops in Norway to counter Russian 'threat to Arctic'",
+    "summary": "Defence Secretary John Healey says British personnel in Norway will rise from 1,000 to 2,000 over three years.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 11 Feb 2026 03:39:02 GMT",
+    "link": "https://www.bbc.com/news/articles/ce94jm1pp5xo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/jubilant-food-q3-profit-rises-69/articleshow/128173102.cms",
-    "category": "finance",
-    "title": "Jubilant Food Q3 profit rises 69%",
-    "summary": "Jubilant FoodWorks has celebrated an impressive leap in net profits for the December quarter of FY26, witnessing a remarkable surge of over 68 percent. This robust financial growth was bolstered by a 13 percent increase in revenue from its operations",
-    "image": "https://img.etimg.com/photo/msid-128173102,imgsize-20400.cms",
-    "source": "ET",
-    "pubDate": "Wed, 11 Feb 2026 00:26:14 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jubilant-food-q3-profit-rises-69/articleshow/128173102.cms"
+    "id": "https://www.bbc.com/news/articles/cx2gmde0vjlo#0",
+    "category": "global",
+    "title": "US lawmakers tell BBC Andrew should testify over Epstein files",
+    "summary": "It comes after the King said the Royal Family were \"ready to support\" police in their inquiries.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 11 Feb 2026 02:41:38 GMT",
+    "link": "https://www.bbc.com/news/articles/cx2gmde0vjlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cge8yxpj7e1o#0",
+    "category": "global",
+    "title": "Boy arrested for attempted murder after two pupils stabbed at school",
+    "summary": "Counter-terror officers are leading the investigation after two boys were left seriously injured.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 11 Feb 2026 01:25:46 GMT",
+    "link": "https://www.bbc.com/news/articles/cge8yxpj7e1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1523377.html",
+    "category": "sports",
+    "title": "Western Australia clinch one-wicket thriller after Webster's century",
+    "summary": "Tasmania lost two wickets in the first over before Webster and Ward added a record 237 but the home side chased a big target",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413200/413265.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 11 Feb 2026 01:08:02 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523377.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1523234.html",
+    "category": "sports",
+    "title": "Two tons in two knocks for Patterson as NSW beat South Australia",
+    "summary": "Patterson made 104 not out to help NSW to a seven-wicket One-Day win after making 173 not out against SA in the Sheffield Shield game",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413200/413222.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 11 Feb 2026 00:43:45 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523234.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c07jnmgy8jmo#0",
+    "category": "global",
+    "title": "Sanctions-busting shadow ships are increasing - the big question is what to do about them",
+    "summary": "What can governments do when countries circumvent or flout the rules to export oil?",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 11 Feb 2026 00:17:37 GMT",
+    "link": "https://www.bbc.com/news/articles/c07jnmgy8jmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/crrnkpyqdzyo#0",
+    "category": "global",
+    "title": "'Fear and alienation': Senior Co-op staff complain of 'toxic' culture at the top",
+    "summary": "Lawyers for the Co-op said they do not believe the complaints represent the broader views of staff",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 11 Feb 2026 00:02:33 GMT",
+    "link": "https://www.bbc.com/news/articles/crrnkpyqdzyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "4ri2LVmhlv34kOOk94nnsi",
@@ -120,114 +290,14 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1523374.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/sp-global-shares-slide-on-weak-2026-forecast-ai-concerns/articleshow/128166876.cms",
-    "category": "finance",
-    "title": "S&amp;P Global shares slide on weak 2026 forecast, AI concerns",
-    "summary": "S&amp;P Global \u200bforecast 2026 profit below Wall Street expectations on Tuesday, with growing investor \u2060unease over AI-driven disruption sweeping through the software and services sector pushing its shares to their lowest in over two years.",
-    "image": "https://img.etimg.com/photo/msid-128166876,imgsize-52656.cms",
-    "source": "ET",
-    "pubDate": "Tue, 10 Feb 2026 21:40:21 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sp-global-shares-slide-on-weak-2026-forecast-ai-concerns/articleshow/128166876.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/128166603.cms",
-    "category": "finance",
-    "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
-    "summary": "Markets ended marginally higher on weekly expiry, extending the rally amid supportive global cues and FII inflows. Analysts remain bullish, advise buy-on-dips, note improving momentum, key support at 25,790, resistance at 26,000\u201326,300, with breadth ",
-    "image": "https://img.etimg.com/photo/msid-128166603,imgsize-105340.cms",
-    "source": "ET",
-    "pubDate": "Tue, 10 Feb 2026 21:34:04 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/128166603.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/apollo-hospitals-reports-35-yoy-jump-in-q3-profit-revenue-grows-17/articleshow/128166419.cms",
-    "category": "finance",
-    "title": "Apollo Hospitals reports 35% YoY jump in Q3 profit, revenue grows 17%",
-    "summary": "India\u2019s leading hospital chain Apollo Hospitals reported a 35% increase in third quarter net profit to Rs 502 crore compared to the same period last year, while consolidated revenue grew 17% YoY to Rs 6,477 crore. Its EBITDA grew 27% to Rs 965 crore,",
-    "image": "https://img.etimg.com/photo/msid-128166419,imgsize-24404.cms",
-    "source": "ET",
-    "pubDate": "Tue, 10 Feb 2026 21:26:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/apollo-hospitals-reports-35-yoy-jump-in-q3-profit-revenue-grows-17/articleshow/128166419.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/indiqube-q3-profit-soars-214-yoy-to-rs-40-crore-revenue-surge-45-to-rs-395-crore/articleshow/128166218.cms",
-    "category": "finance",
-    "title": "IndiQube Q3 profit soars 214% YoY to Rs 40 crore; revenue surge 45% to Rs 395 crore",
-    "summary": "Managed workspace solutions provider IndiQube Spaces Ltd reported a sharp rise in profitability in the December quarter, with profit after tax (PAT) surging 214% year-on-year to \u20b940 crore, driven by strong enterprise demand, rising occupancy and expa",
-    "image": "https://img.etimg.com/photo/msid-128166218,imgsize-3814.cms",
-    "source": "ET",
-    "pubDate": "Tue, 10 Feb 2026 21:22:21 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/indiqube-q3-profit-soars-214-yoy-to-rs-40-crore-revenue-surge-45-to-rs-395-crore/articleshow/128166218.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cge8yxpj7e1o#0",
+    "id": "https://www.bbc.com/news/articles/cy03g54946ko#0",
     "category": "global",
-    "title": "Boy arrested for attempted murder after two pupils stabbed at school",
-    "summary": "Counter-terror officers are leading the investigation after two boys were left seriously injured.",
+    "title": "Former Daily Mail editor tells hacking trial allegations are 'preposterous'",
+    "summary": "Paul Dacre told the High Court the claims that Daily Mail staff gathered information unlawfully are \"inconceivable\".",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Tue, 10 Feb 2026 21:18:53 GMT",
-    "link": "https://www.bbc.com/news/articles/cge8yxpj7e1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/iifl-finance-plans-rs-2000-crore-retail-bond-sale-next-week/articleshow/128166072.cms",
-    "category": "finance",
-    "title": "IIFL Finance plans Rs 2000 crore retail bond sale next week",
-    "summary": "IIFL Finance plans a retail bond issuance of Rs 2,000 crore next week to support its business growth that more than doubled in a year, backed by a spurt in lending against gold jewellery.",
-    "image": "https://img.etimg.com/photo/msid-128166072,imgsize-7082.cms",
-    "source": "ET",
-    "pubDate": "Tue, 10 Feb 2026 21:15:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/iifl-finance-plans-rs-2000-crore-retail-bond-sale-next-week/articleshow/128166072.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-eternal-grasim-and-2-more-stocks-offer-up-to-9-upside-in-near-term/slideshow/128165507.cms",
-    "category": "finance",
-    "title": "Market Trading Guide: Eternal, Grasim and 2 more stocks offer up to 9% upside in near term",
-    "summary": "Nifty closed higher for the third session, supported by auto and metal stocks, while trading sideways. Technical indicators signal improving momentum. Analysts expect a sideways-to-positive trend and recommend HDFC AMC, Grasim Industries, Eternal and",
-    "image": "https://img.etimg.com/photo/msid-128165209,imgsize-4525.cms",
-    "source": "ET",
-    "pubDate": "Tue, 10 Feb 2026 20:51:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-eternal-grasim-and-2-more-stocks-offer-up-to-9-upside-in-near-term/slideshow/128165507.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx2407jrn83o#0",
-    "category": "global",
-    "title": "Ex-police chief said Trump told him in 2006 'everyone' knew of Epstein's behaviour",
-    "summary": "The now-president allegedly called police in Florida who were investigating Epstein and said \"thank goodness you're stopping him\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 10 Feb 2026 20:48:27 GMT",
-    "link": "https://www.bbc.com/news/articles/cx2407jrn83o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-retail-sales-flat-in-december-as-consumers-pull-back/articleshow/128164963.cms",
-    "category": "finance",
-    "title": "US retail sales flat in December as consumers pull back",
-    "summary": "US retail sales showed no growth in December, according to delayed government data released Tuesday, missing analysts' expectations amid heightened scrutiny of the American consumer's appetite -- a key driver of the world's biggest economy.",
-    "image": "https://img.etimg.com/photo/msid-128164963,imgsize-87246.cms",
-    "source": "ET",
-    "pubDate": "Tue, 10 Feb 2026 20:46:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-retail-sales-flat-in-december-as-consumers-pull-back/articleshow/128164963.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy4wdgxr081o#0",
-    "category": "global",
-    "title": "FBI releases images of masked person in hunt for Savannah Guthrie's mother",
-    "summary": "The mother of the news anchor Savannah disappeared in the middle of night from her Tucson, Arizona, home and was last seen on 31 January.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 10 Feb 2026 19:04:23 GMT",
-    "link": "https://www.bbc.com/news/articles/cy4wdgxr081o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/c5yr82796j4o#0",
-    "category": "global",
-    "title": "Watch: BBC in Tehran for first time since protest crackdown",
-    "summary": "Lyse Doucet reports from Iran, where she says the pain is still raw after unprecedented force was used to put down the protests there.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 10 Feb 2026 17:57:31 GMT",
-    "link": "https://www.bbc.com/news/videos/c5yr82796j4o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Tue, 10 Feb 2026 19:30:14 GMT",
+    "link": "https://www.bbc.com/news/articles/cy03g54946ko?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1523349.html",
@@ -250,16 +320,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1523325.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/ckgkjg76lvxo#0",
-    "category": "global",
-    "title": "Afghan asylum seeker guilty of raping girl, 12",
-    "summary": "The 12-year-old suffered \"extremely horrific sexual offences\" in the Nuneaton attack, police say.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 10 Feb 2026 17:40:09 GMT",
-    "link": "https://www.bbc.com/news/articles/ckgkjg76lvxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1523358.html",
     "category": "sports",
     "title": "Spinners, Farhan seal comfortable win for Pakistan",
@@ -278,66 +338,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 10 Feb 2026 17:31:21 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1523297.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/sport/articles/ckglnm521kko#0",
-    "category": "global",
-    "title": "Norwegian biathlete Laegreid wins bronze then confesses to affair on TV",
-    "summary": "Winter Olympics bronze medallist Sturla Holm Laegreid says on live TV that he made the \"biggest mistake\" by cheating on his girlfriend.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 10 Feb 2026 17:19:20 GMT",
-    "link": "https://www.bbc.com/sport/articles/ckglnm521kko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523303.html",
-    "category": "sports",
-    "title": "Ian Bell joins Delhi Capitals as assistant coach",
-    "summary": "Bell, 43, joins a Capitals side that narrowly missed out on a playoffs berth in 2025",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/337600/337683.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 10 Feb 2026 17:02:05 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523303.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523209.html",
-    "category": "sports",
-    "title": "Afghanistan face mighty South Africa with campaign on the line",
-    "summary": "A win for South Africa will make their path to the T20 World Cup Super Eight stage smooth",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413107.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 10 Feb 2026 16:54:28 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523209.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c20j65ldg9zo#0",
-    "category": "global",
-    "title": "I will never walk away, says PM after facing pressure to quit",
-    "summary": "The prime minister sought to strike a defiant tone after a day of political jeopardy.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 10 Feb 2026 16:46:25 GMT",
-    "link": "https://www.bbc.com/news/articles/c20j65ldg9zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523315.html",
-    "category": "sports",
-    "title": "Bumrah set to play against Namibia; India wait on Abhishek and Washington",
-    "summary": "India opener Abhishek Sharma is still struggling with a stomach bug",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/410300/410341.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 10 Feb 2026 16:38:42 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523315.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c80jrg08rk3o#0",
-    "category": "global",
-    "title": "Six key questions about Keir Starmer's future",
-    "summary": "There is no doubting the peril the prime minister was in, but while Labour MPs have decided to stick with him, his future is far from certain.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 10 Feb 2026 13:40:57 GMT",
-    "link": "https://www.bbc.com/news/articles/c80jrg08rk3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
