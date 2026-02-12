@@ -40,36 +40,6 @@
     "link": "https://www.ndtv.com/india-news/lodha-developers-ex-director-arrested-in-rs-85-crore-money-laundering-case-10996220#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/india-textiles-to-get-us-benefits-like-bangladesh-official-says-10996209#publisher=newsstand",
-    "category": "india",
-    "title": "India Textiles To Get US Benefits Like Bangladesh, Official Says",
-    "summary": "About 90%-95% of India's farm produce is out of the deal with US",
-    "image": "https://c.ndtvimg.com/2022-02/sdi2q02o_india-textile-generic-reuters_625x300_11_February_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Feb 2026 23:56:42 +0530",
-    "link": "https://www.ndtv.com/world-news/india-textiles-to-get-us-benefits-like-bangladesh-official-says-10996209#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/after-wifes-miscarriage-man-beheads-neighbours-to-please-angry-deity-10996205#publisher=newsstand",
-    "category": "india",
-    "title": "After Wife's Miscarriage, Man Beheads Neighbours To 'Please Angry Deity'",
-    "summary": "Chhatrapati Singh is currently in police custody.",
-    "image": "https://c.ndtvimg.com/2022-11/oot8t25k_police-generic_625x300_07_November_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Feb 2026 23:53:59 +0530",
-    "link": "https://www.ndtv.com/india-news/after-wifes-miscarriage-man-beheads-neighbours-to-please-angry-deity-10996205#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/tarique-rahmans-bnp-leads-in-early-trends-jamaat-faces-setback-10996201#publisher=newsstand",
-    "category": "india",
-    "title": "Tarique Rahman's BNP Leads In Early Trends, Jamaat Faces Setback",
-    "summary": "Once counting is over, the Election Commission will have to notify the results to declare a winner",
-    "image": "https://c.ndtvimg.com/2026-02/65s4dt5s_counting-afp_625x300_12_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Feb 2026 23:51:06 +0530",
-    "link": "https://www.ndtv.com/world-news/tarique-rahmans-bnp-leads-in-early-trends-jamaat-faces-setback-10996201#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-adrs-plunge-over-7-wipro-down-5-as-tech-turbulence-deepens-on-wall-street/articleshow/128267209.cms",
     "category": "finance",
     "title": "Infosys ADRs plunge over 7%, Wipro down 5% as tech turbulence deepens on Wall Street",
@@ -150,6 +120,26 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-raises-fy26-growth-view-after-profit-surge/articleshow/128265454.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c2k809vnx0yo#0",
+    "category": "global",
+    "title": "'Vast majority' of parents should be involved if children question their gender, schools told",
+    "summary": "School leaders welcome the \"greater clarity\" on how to handle the polarising issue for parents and pupils.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Feb 2026 20:48:28 GMT",
+    "link": "https://www.bbc.com/news/articles/c2k809vnx0yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn0zdd7yl4vo#0",
+    "category": "global",
+    "title": "Trump revokes landmark ruling that greenhouse gases endanger public health",
+    "summary": "The White House calls it the largest deregulation in US history, but environmentalists say it will prove costly for Americans.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Feb 2026 20:35:15 GMT",
+    "link": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c2lr9w29zwyo#0",
     "category": "global",
     "title": "Minnesota immigration enforcement surge is ending, Trump border tsar says",
@@ -158,16 +148,6 @@
     "source": "BBC",
     "pubDate": "Thu, 12 Feb 2026 19:47:08 GMT",
     "link": "https://www.bbc.com/news/articles/c2lr9w29zwyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c2k809vnx0yo#0",
-    "category": "global",
-    "title": "'Vast majority' of parents should be involved if children question their gender, schools told",
-    "summary": "School leaders welcome the \"greater clarity\" on how to handle the polarising issue for parents and pupils.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Feb 2026 19:45:22 GMT",
-    "link": "https://www.bbc.com/news/articles/c2k809vnx0yo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1523736.html",
@@ -198,16 +178,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 12 Feb 2026 19:21:01 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1523740.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn0zdd7yl4vo#0",
-    "category": "global",
-    "title": "Trump revokes landmark ruling that greenhouse gases endanger public health",
-    "summary": "The White House calls it the largest deregulation in US history, but environmentalists say it will prove costly for Americans.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Feb 2026 19:15:27 GMT",
-    "link": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c14mlrd460vo#0",
@@ -348,6 +318,36 @@
     "source": "VentureBeat",
     "pubDate": "Fri, 16 Jan 2026 14:01:00 GMT",
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/what-is-going-on-with-iran-us-talks-10996503#publisher=newsstand",
+    "category": "india",
+    "title": "What Is Going On With Iran-US Talks?",
+    "summary": "Abbas Araghchi on February 6 held talks in Oman with US envoy Steve Witkoff.",
+    "image": "https://c.ndtvimg.com/2026-02/dchdo9ec_us-iran-talks_625x300_13_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 02:13:01 +0530",
+    "link": "https://www.ndtv.com/world-news/what-is-going-on-with-iran-us-talks-10996503#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/donald-trump-warns-iran-of-very-traumatic-outcome-if-no-nuclear-deal-10996434#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Warns Iran Of \"Very Traumatic\" Outcome If No Nuclear Deal",
+    "summary": "Trump threatened Iran Thursday with \"very traumatic\" consequences if it fails to make a nuclear deal.",
+    "image": "https://c.ndtvimg.com/2026-02/i9el1194_donald-trump_625x300_04_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 01:42:17 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trump-warns-iran-of-very-traumatic-outcome-if-no-nuclear-deal-10996434#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/bangladeshs-bnp-wins-historic-parliamentary-election-10996400#publisher=newsstand",
+    "category": "india",
+    "title": "Bangladesh TV Channels Show BNP Leading As Vote Counting Continues",
+    "summary": "The Bangladesh Nationalist Party crossed the halfway mark to win the parliamentary election on Friday, a local TV station showed, as ballots were counted in a pivotal vote that is expected to restore political stability.",
+    "image": "https://c.ndtvimg.com/2026-02/4q23t06c_bangladesh-elections_625x300_13_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 01:38:23 +0530",
+    "link": "https://www.ndtv.com/world-news/bangladeshs-bnp-wins-historic-parliamentary-election-10996400#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/india-news/in-atmnirbhar-push-assam-rifles-to-induct-indian-dog-breeds-in-its-squad-10994968#publisher=newsstand",
