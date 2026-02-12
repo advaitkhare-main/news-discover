@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.bbc.com/news/articles/cy8ln9jj92yo#0",
-    "category": "global",
-    "title": "Sarah Ferguson asked Epstein for bankruptcy advice while he was in jail, emails suggest",
-    "summary": "Emails appear to show the desperate measures Ferguson considered to rescue her finances.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 11 Feb 2026 21:23:47 GMT",
-    "link": "https://www.bbc.com/news/articles/cy8ln9jj92yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -40,174 +30,264 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/honasa-consumer-q3-results-mamaearth-parent-cons-pat-jumps-93-yoy-to-rs-50-crore-revenue-rises-16/articleshow/128254616.cms",
-    "category": "finance",
-    "title": "Mamaearth Q3 Results: Cons PAT jumps 93% YoY to Rs 50 crore, revenue rises 16%",
-    "summary": "Mamaearth Q3 Results: The company's revenue from operations stood at Rs 602 crore in Q3FY26, recording a 16% growth versus Rs 518 crore in the October-December period of FY26.",
-    "image": "https://img.etimg.com/photo/msid-128254616,imgsize-17046.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Feb 2026 16:39:40 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/honasa-consumer-q3-results-mamaearth-parent-cons-pat-jumps-93-yoy-to-rs-50-crore-revenue-rises-16/articleshow/128254616.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-17-paise-to-close-at-90-61-against-us-dollar/articleshow/128254432.cms",
-    "category": "finance",
-    "title": "Rupee rises 17 paise to close at 90.61 against US dollar",
-    "summary": "The rupee appreciated 17 paise to settle for the day at 90.61 (provisional) against the US dollar on Thursday, as foreign fund investments lifted investor sentiments.",
-    "image": "https://img.etimg.com/photo/msid-128254432,imgsize-97028.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Feb 2026 16:35:23 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-17-paise-to-close-at-90-61-against-us-dollar/articleshow/128254432.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/ai-to-slow-it-growth-not-kill-the-model-sandip-agarwal-warns-on-valuations/articleshow/128254287.cms",
-    "category": "finance",
-    "title": "AI to slow IT growth, not kill the model: Sandip Agarwal warns on valuations",
-    "summary": "Indian IT services firms face a growth slowdown due to Artificial Intelligence. AI tools reduce project effort, impacting billing. Large IT firms expect 5-6% revenue growth, while mid-cap firms anticipate 10-12%. Contract renewals may lead to pricing",
-    "image": "https://img.etimg.com/photo/msid-128254287,imgsize-12050.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Feb 2026 16:33:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/ai-to-slow-it-growth-not-kill-the-model-sandip-agarwal-warns-on-valuations/articleshow/128254287.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/lamborghini-crash-shivam-mishra-bail-tycoons-son-shivam-mishra-gets-bail-just-hours-after-arrest-10993537#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/after-sonam-wangchuks-detention-violence-in-leh-came-under-control-centre-10994969#publisher=newsstand",
     "category": "india",
-    "title": "4 Days To Arrest Shivam Mishra After Lamborghini Crash, Bail Within Hours",
-    "summary": "Lamborghini Crash Shivam Mishra Bail: Mishra was arrested four days after the Rs 10-crore luxury car rammed an autorickshaw, a motorcycle and later crashed into a pole, leaving one person injured.",
-    "image": "https://c.ndtvimg.com/2026-02/nn1evtig_shivam-mishra-arrested_625x300_12_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "After Sonam Wangchuk's Detention, Violence In Leh Came Under Control: Centre",
+    "summary": "The top court has now posted the matter for hearing on February 16.",
+    "image": "https://c.ndtvimg.com/2026-02/ru7j0tb8_sonam-wangchuk_625x300_09_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 12 Feb 2026 16:09:20 +0530",
-    "link": "https://www.ndtv.com/india-news/lamborghini-crash-shivam-mishra-bail-tycoons-son-shivam-mishra-gets-bail-just-hours-after-arrest-10993537#publisher=newsstand"
+    "pubDate": "Thu, 12 Feb 2026 19:49:54 +0530",
+    "link": "https://www.ndtv.com/india-news/after-sonam-wangchuks-detention-violence-in-leh-came-under-control-centre-10994969#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/feature/your-name-is-in-epstein-files-iit-hyderabad-student-tricks-tech-founder-with-shocking-email-subject-line-10993529#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/indian-army-ncc-special-entry-124th-course-2026-registration-starts-feb-13-10994930#publisher=newsstand",
     "category": "india",
-    "title": "\"Your Name Is In Epstein Files\": IIT Hyderabad Student Tricks Tech Founder With Shocking Email",
-    "summary": "Social media users were shocked by the email's subject line.",
-    "image": "https://c.ndtvimg.com/2025-04/nklbbpas_email_625x300_30_April_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Indian Army NCC Special Entry 124th Course 2026: Registration Starts Feb 13",
+    "summary": "Apply For Indian Army NCC Special Entry Scheme 124th Course By March 16",
+    "image": "https://c.ndtvimg.com/2020-04/502pe5ug_indian-army_625x300_14_April_20.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 12 Feb 2026 16:09:14 +0530",
-    "link": "https://www.ndtv.com/feature/your-name-is-in-epstein-files-iit-hyderabad-student-tricks-tech-founder-with-shocking-email-subject-line-10993529#publisher=newsstand"
+    "pubDate": "Thu, 12 Feb 2026 19:43:12 +0530",
+    "link": "https://www.ndtv.com/education/indian-army-ncc-special-entry-124th-course-2026-registration-starts-feb-13-10994930#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/institutions-trim-stakes-in-these-10-largecap-stocks-in-q3-are-you-still-holding/slideshow/128254317.cms",
+    "id": "https://www.ndtv.com/india-news/explained-the-substantive-motion-bjp-moved-against-rahul-gandhi-10994902#publisher=newsstand",
+    "category": "india",
+    "title": "Explained: The 'Substantive Motion' BJP Moved Against Rahul Gandhi",
+    "summary": "The face-off between the BJP and Leader of Opposition Rahul Gandhi has moved beyond sharp speeches and political barbs into the procedural heart of Parliament.",
+    "image": "https://c.ndtvimg.com/2026-02/9lqtgqg_rahul-gandhi-parliament-_650x400_12_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Feb 2026 19:39:20 +0530",
+    "link": "https://www.ndtv.com/india-news/explained-the-substantive-motion-bjp-moved-against-rahul-gandhi-10994902#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/ndtv-ground-report-why-a-uk-based-doctor-returned-home-to-contest-elections-in-bangladesh-10994897#publisher=newsstand",
+    "category": "india",
+    "title": "NDTV Ground Report: Why A UK-Based Doctor Returned Home To Contest Elections In Bangladesh",
+    "summary": "Taslim Jara said there is strong public enthusiasm for a different kind of politics",
+    "image": "https://c.ndtvimg.com/2026-02/l689cukk_taslim-jara_625x300_12_February_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Feb 2026 19:38:05 +0530",
+    "link": "https://www.ndtv.com/world-news/ndtv-ground-report-why-a-uk-based-doctor-returned-home-to-contest-elections-in-bangladesh-10994897#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-agrees-to-rs-260-crore-settlement-in-jaahnavi-kandula-case-a-timeline-10994426#publisher=newsstand",
+    "category": "india",
+    "title": "Inside The 2023 Killing Of Indian Student Jaahnavi Kandula By US Cop",
+    "summary": "Jaahnavi Kandula was from Andhra Pradesh and had gone to the US from Bengaluru.",
+    "image": "https://c.ndtvimg.com/2024-02/livp1oog_jaahnavi-kandula_625x300_22_February_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Feb 2026 19:35:50 +0530",
+    "link": "https://www.ndtv.com/world-news/us-agrees-to-rs-260-crore-settlement-in-jaahnavi-kandula-case-a-timeline-10994426#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/red-roses-sell-for-rs-100-a-piece-in-shimla-markets-ahead-of-valentines-day-10994859#publisher=newsstand",
+    "category": "india",
+    "title": "Red Roses Sell For Rs 100 A Piece In Shimla Markets Ahead Of Valentine's Day",
+    "summary": "The flower industry is a Rs 100-crore economy in Himachal Pradesh",
+    "image": "https://c.ndtvimg.com/2023-02/v33nge74_red-rose-generic_625x300_08_February_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Feb 2026 19:34:54 +0530",
+    "link": "https://www.ndtv.com/india-news/red-roses-sell-for-rs-100-a-piece-in-shimla-markets-ahead-of-valentines-day-10994859#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/bharat-forge-q3-results-net-profit-rises-28-to-rs-273-crore/articleshow/128261532.cms",
     "category": "finance",
-    "title": "Institutions trim stakes in these 10 largecap stocks in Q3. Are you still holding?",
-    "summary": "Institutions trimmed stakes in 10 major largecaps in Q3, signalling selective profit-taking and portfolio rebalancing across sectors.",
-    "image": "https://img.etimg.com/photo/msid-128253302,imgsize-18914.cms",
+    "title": "Bharat Forge Q3 Results: Net profit rises 28% to Rs 273 crore",
+    "summary": "Bharat Forge on Thursday posted a 28 per cent increase in its consolidated net profit to Rs 273 crore for the third quarter ended December 2025.",
+    "image": "https://img.etimg.com/photo/msid-128261532,imgsize-24060.cms",
     "source": "ET",
-    "pubDate": "Thu, 12 Feb 2026 16:08:24 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/institutions-trim-stakes-in-these-10-largecap-stocks-in-q3-are-you-still-holding/slideshow/128254317.cms"
+    "pubDate": "Thu, 12 Feb 2026 19:23:16 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bharat-forge-q3-results-net-profit-rises-28-to-rs-273-crore/articleshow/128261532.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/return-to-india-if-you-want-your-case-heard-bombay-high-court-to-vijay-mallya-10993613#publisher=newsstand",
+    "id": "https://www.ndtv.com/others-news/group-disrupts-valentines-day-event-at-indore-college-cops-intervene-10994687#publisher=newsstand",
     "category": "india",
-    "title": "'Return To India If You Want Your Case Heard': High Court To Vijay Mallya",
-    "summary": "Vijay Mallya has been declared a fugitive economic offender",
-    "image": "https://i.ndtvimg.com/i/2017-12/vijay-mallya-pti_650x400_61512622190.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Group Disrupts Valentine's Day Event At Indore College, Cops Intervene",
+    "summary": "Videos of the incident have gone viral on social media",
+    "image": "https://c.ndtvimg.com/2026-02/uejk39fg_indore-valentine-day_625x300_12_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 12 Feb 2026 16:03:33 +0530",
-    "link": "https://www.ndtv.com/india-news/return-to-india-if-you-want-your-case-heard-bombay-high-court-to-vijay-mallya-10993613#publisher=newsstand"
+    "pubDate": "Thu, 12 Feb 2026 19:04:24 +0530",
+    "link": "https://www.ndtv.com/others-news/group-disrupts-valentines-day-event-at-indore-college-cops-intervene-10994687#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/cbse-class-10-exams-2026-what-major-changes-have-been-introduced-10993008#publisher=newsstand",
-    "category": "india",
-    "title": "Explained: What Major Changes Has CBSE Introduced For Class 10 Exams 2026",
-    "summary": "CBSE Board Exams 2026: Approximately 46 lakh students are expected to appear this year.",
-    "image": "https://c.ndtvimg.com/2025-05/5j5ljap4_cbse-board-class-10th-12th-result-2025-_625x300_12_May_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Feb 2026 15:57:20 +0530",
-    "link": "https://www.ndtv.com/education/cbse-class-10-exams-2026-what-major-changes-have-been-introduced-10993008#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/indias-energy-shift-defence-ties-seen-as-win-against-china-top-us-official-10993569#publisher=newsstand",
-    "category": "india",
-    "title": "India's Energy Shift, Defence Ties Seen As Win Against China: Top US Official",
-    "summary": "The testimony underscores Washington's increasingly pragmatic approach to India",
-    "image": "https://c.ndtvimg.com/2025-02/jple9pj_trump-xi-modi_625x300_14_February_25.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Feb 2026 15:55:04 +0530",
-    "link": "https://www.ndtv.com/world-news/indias-energy-shift-defence-ties-seen-as-win-against-china-top-us-official-10993569#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/bjp-mp-nishikant-dubey-makes-first-move-in-bid-to-disqualify-rahul-gandhi-from-lok-sabha-10992650#publisher=newsstand",
-    "category": "india",
-    "title": "BJP MP Makes 1st Move In Bid To Disqualify Rahul Gandhi From Parliament",
-    "summary": "Nishikant Dubey and Rahul Gandhi are heading for a faceoff",
-    "image": "https://c.ndtvimg.com/2026-02/h1rp41bc_nishikant-dubey-rahul-gandhi_625x300_12_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Feb 2026 15:40:03 +0530",
-    "link": "https://www.ndtv.com/india-news/bjp-mp-nishikant-dubey-makes-first-move-in-bid-to-disqualify-rahul-gandhi-from-lok-sabha-10992650#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/opinion/the-jf-17-hype-how-pak-may-be-pushing-a-jet-thats-more-noise-than-substance-10993394#publisher=newsstand",
-    "category": "india",
-    "title": "Opinion: Opinion | The JF-17 'Hype': How Pak Is Pushing A Jet That's More Noise Than Substance",
-    "summary": "Even if the JF-17 may seem like a popular choice for many nations, interoperability is not exportable, nor is effective warfighting capability.",
-    "image": "https://c.ndtvimg.com/2026-02/94c27gmc_jf17_625x300_12_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Feb 2026 15:35:25 +0530",
-    "link": "https://www.ndtv.com/opinion/the-jf-17-hype-how-pak-may-be-pushing-a-jet-thats-more-noise-than-substance-10993394#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/running-vs-jumping-rope-which-one-is-better-for-weight-loss-10993434#publisher=newsstand",
-    "category": "india",
-    "title": "Running Vs Jumping Rope: Which One Is Better For Weight Loss?",
-    "summary": "The best exercise for an individual depends on their preferences and fitness level",
-    "image": "https://c.ndtvimg.com/2026-02/2jds41v8_exercise_625x300_12_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Feb 2026 15:35:23 +0530",
-    "link": "https://www.ndtv.com/health/running-vs-jumping-rope-which-one-is-better-for-weight-loss-10993434#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/who-imagined-this-sbi-overtakes-tcs-infosys-in-mcap-amid-psu-banks-turnaround-gurmeet-chadha/articleshow/128250659.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/coal-india-q3-results-profit-falls-16-yoy-to-rs-7166-crore-co-declares-dividend-of-rs-5-5-per-share/articleshow/128260570.cms",
     "category": "finance",
-    "title": "Who imagined this? SBI overtakes TCS, Infosys in Mcap amid PSU banks' turnaround: Gurmeet Chadha",
-    "summary": "SBI has overtaken TCS and Infosys in market value\u2014a feat unimaginable five years ago, says Gurmeet Chadha. The surge reflects PSU banks\u2019 sharp turnaround driven by better risk management and digitisation, even as IT stocks face heavy AI-led selling. ",
-    "image": "https://img.etimg.com/photo/msid-128250659,imgsize-35300.cms",
+    "title": "Coal India Q3 results: Profit falls 16% YoY to Rs 7,166 crore; co declares dividend of Rs 5.5 per share",
+    "summary": "Coal India Q3 results:  State-owned Coal India on Thursday reported a 16% year-on-year (YoY) decline in its consolidated net profit at Rs 7,166 crore in the third quarter. The company has declared third interim dividend at Rs 5.5 per share for the fi",
+    "image": "https://img.etimg.com/photo/msid-128260570,imgsize-74054.cms",
     "source": "ET",
-    "pubDate": "Thu, 12 Feb 2026 15:27:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/who-imagined-this-sbi-overtakes-tcs-infosys-in-mcap-amid-psu-banks-turnaround-gurmeet-chadha/articleshow/128250659.cms"
+    "pubDate": "Thu, 12 Feb 2026 18:58:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/coal-india-q3-results-profit-falls-16-yoy-to-rs-7166-crore-co-declares-dividend-of-rs-5-5-per-share/articleshow/128260570.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-6-stocks-held-by-over-100-mfs-in-january-surge-up-to-130-in-a-year/slideshow/128249237.cms",
-    "category": "finance",
-    "title": "Multibaggers: 6 stocks held by over 100 MFs in January, surge up to 130% in a year",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-128247995,imgsize-2004.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Feb 2026 14:31:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-6-stocks-held-by-over-100-mfs-in-january-surge-up-to-130-in-a-year/slideshow/128249237.cms"
+    "id": "https://www.ndtv.com/health/dark-showering-for-better-sleep-should-you-try-the-viral-trend-rooted-in-ayurveda-10993819#publisher=newsstand",
+    "category": "india",
+    "title": "Dark Showering For Better Sleep: Should You Try The Viral Trend Rooted In Ayurveda?",
+    "summary": "The new viral trend of dark showering may improve your sleep quality",
+    "image": "https://c.ndtvimg.com/2026-02/0ij6bbpc_the-new-viral-trend-of-dark-showering-may-improve-your-sleep-quality_625x300_12_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Feb 2026 18:52:24 +0530",
+    "link": "https://www.ndtv.com/health/dark-showering-for-better-sleep-should-you-try-the-viral-trend-rooted-in-ayurveda-10993819#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/2-top-stock-recommendations-from-rajesh-bhosale/articleshow/128247788.cms",
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/indias-nse-appoints-rothschild-as-independent-advisor-for-ipo/articleshow/128258099.cms",
     "category": "finance",
-    "title": "2 top stock recommendations from Rajesh Bhosale",
-    "summary": "Indian stock markets are trading in a tight range. The Nifty index is finding it difficult to move past the 26,000 mark. Experts are advising investors to focus on specific stocks. Bajaj Finance and Hero MotoCorp are recommended for buying. Hindustan",
-    "image": "https://img.etimg.com/photo/msid-128247788,imgsize-6228.cms",
+    "title": "India's NSE appoints Rothschild as independent advisor for IPO",
+    "summary": "The \u200bNational Stock Exchange \u200bof India on Thursday said that it \u200bhas appointed Rothschild &amp; Co as an independent advisor to oversee its long-awaited initial public offering.",
+    "image": "https://img.etimg.com/photo/msid-128258099,imgsize-47580.cms",
     "source": "ET",
-    "pubDate": "Thu, 12 Feb 2026 14:27:27 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/2-top-stock-recommendations-from-rajesh-bhosale/articleshow/128247788.cms"
+    "pubDate": "Thu, 12 Feb 2026 17:59:11 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/indias-nse-appoints-rothschild-as-independent-advisor-for-ipo/articleshow/128258099.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/ems-roars-with-30-growth-amber-and-syrma-lead-charge-as-margins-expand-says-praveen-sahay/articleshow/128246954.cms",
+    "id": "https://economictimes.indiatimes.com/markets/bonds/uk-picks-hsbc-as-platform-provider-for-its-digital-bond-pilot-issuance/articleshow/128257926.cms",
     "category": "finance",
-    "title": "EMS roars with 30% growth: Amber and Syrma lead charge as margins expand, says Praveen Sahay",
-    "summary": "India's electronics manufacturing sector is booming with 30% growth. Companies like Amber and Syrma are leading the charge. The industry is shifting towards higher-value industrial and automotive products. This trend is boosting profits and creating ",
-    "image": "https://img.etimg.com/photo/msid-128246954,imgsize-30012.cms",
+    "title": "UK picks HSBC as platform provider for its digital bond pilot issuance",
+    "summary": "The UK has chosen HSBC's \u200bblockchain platform to \u200brun the country's pilot issuance of \u200btokenised or digital government bonds, the bank said on Thursday, a move that puts Britain ahead of its \u200cG7 peers \u2060in \u2060exploring blockchain-based sovereign debt.",
+    "image": "https://img.etimg.com/photo/msid-128257926,imgsize-66408.cms",
     "source": "ET",
-    "pubDate": "Thu, 12 Feb 2026 14:24:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/ems-roars-with-30-growth-amber-and-syrma-lead-charge-as-margins-expand-says-praveen-sahay/articleshow/128246954.cms"
+    "pubDate": "Thu, 12 Feb 2026 17:54:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/uk-picks-hsbc-as-platform-provider-for-its-digital-bond-pilot-issuance/articleshow/128257926.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-on-short-covering-after-inflation-data/articleshow/128257808.cms",
+    "category": "finance",
+    "title": "India bonds rise on short covering after inflation data",
+    "summary": "Indian government bonds rose on \u200bThursday, as traders unwound their \u200bshort positions after a January inflation reading that was \u200blower than the market had feared. The 10-year 6.48% 2035 bond yield settled at 6.6833%, compared with 6.7088% on Wednesda",
+    "image": "https://img.etimg.com/photo/msid-128257808,imgsize-67062.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Feb 2026 17:50:17 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-on-short-covering-after-inflation-data/articleshow/128257808.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/housing-sales-flat-at-rs-1-48-lakh-cr-last-yr-in-15-tier-ii-cities-10pc-dip-in-volumes-propequity/articleshow/128257592.cms",
+    "category": "finance",
+    "title": "Housing sales flat at Rs 1.48 lakh cr last yr in 15 tier-II cities, 10pc dip in volumes: PropEquity",
+    "summary": "Housing sales fell 10 per cent last year across 15 tier-II cities to 1.56 lakh units while remained flat in value terms at Rs 1.48 lakh crore, according to PropEquity.",
+    "image": "https://img.etimg.com/photo/msid-128257592,imgsize-518788.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Feb 2026 17:46:55 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/housing-sales-flat-at-rs-1-48-lakh-cr-last-yr-in-15-tier-ii-cities-10pc-dip-in-volumes-propequity/articleshow/128257592.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/hindalco-industries-q3-results-cons-pat-slumps-45-yoy-to-rs-2049-crore-despite-14-revenue-uptick/articleshow/128257506.cms",
+    "category": "finance",
+    "title": "Hindalco Industries Q3 Results: Cons PAT slumps 45% YoY to Rs 2,049 crore despite 14% revenue uptick",
+    "summary": "Hindalco Q3 Results: Aditya Birla Group's flagship metal company Hindalco reported a 45% decline in its December quarter consolidated net profit at Rs 2,049 crore compared to Rs 3,735 crore posted in the year ago period.",
+    "image": "https://img.etimg.com/photo/msid-128257506,imgsize-631732.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Feb 2026 17:43:56 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hindalco-industries-q3-results-cons-pat-slumps-45-yoy-to-rs-2049-crore-despite-14-revenue-uptick/articleshow/128257506.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/experion-developers-to-invest-rs-1500-cr-in-housing-project-in-noida/articleshow/128257456.cms",
+    "category": "finance",
+    "title": "Experion Developers to invest Rs 1,500 cr in housing project in Noida",
+    "summary": "Realty firm Experion Developers will invest Rs 1,500 crore to develop a housing project in Noida to expand its business.",
+    "image": "https://img.etimg.com/photo/msid-128257456,imgsize-40218.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Feb 2026 17:42:02 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/experion-developers-to-invest-rs-1500-cr-in-housing-project-in-noida/articleshow/128257456.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cm21080x1k6o#0",
+    "category": "global",
+    "title": "Killer of 12-year-old Leo Ross named",
+    "summary": "The judge said Kian Moulton appeared to get \"pleasure from seeing the consequences\" of his actions\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Feb 2026 14:34:28 GMT",
+    "link": "https://www.bbc.com/news/articles/cm21080x1k6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c2lr9w29zwyo#0",
+    "category": "global",
+    "title": "Minnesota immigration enforcement surge is ending, Trump border tsar says",
+    "summary": "Two US citizens were killed in Minneapolis during the crackdown dubbed \"Operation Metro Surge\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Feb 2026 14:32:33 GMT",
+    "link": "https://www.bbc.com/news/articles/c2lr9w29zwyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cqxdwlqx8qqo#0",
+    "category": "global",
+    "title": "Trump's case against BBC set to go to trial in February 2027",
+    "summary": "Donald Trump's multi-billion dollar lawsuit against the BBC is set to go to trial in February 2027.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Feb 2026 14:25:42 GMT",
+    "link": "https://www.bbc.com/news/articles/cqxdwlqx8qqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx2gyggxv4no#0",
+    "category": "global",
+    "title": "Alton Towers U-turns on plan to restrict disability pass",
+    "summary": "\"We are sorry,\" says operator after plan to restrict queuing access for people with autism, ADHD and anxiety sparked criticism.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Feb 2026 14:03:10 GMT",
+    "link": "https://www.bbc.com/news/articles/cx2gyggxv4no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cre0z3rrzxlo#0",
+    "category": "global",
+    "title": "Strictly star Robin Windsor took own life after mental health deterioration, inquest finds",
+    "summary": "The dancer was \"vulnerable to rejection both emotionally and professionally\", an inquest jury says.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Feb 2026 13:58:46 GMT",
+    "link": "https://www.bbc.com/news/articles/cre0z3rrzxlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1523591.html",
+    "category": "sports",
+    "title": "USA need to overturn history to beat Netherlands and stay alive",
+    "summary": "Netherlands are favourites for the T20 World Cup contest in Chennai, especially with USA battling injury issues",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413000/413072.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 12 Feb 2026 13:48:09 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523591.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1523678.html",
+    "category": "sports",
+    "title": "Samson and Bumrah in for Abhishek and Siraj as Namibia bowl",
+    "summary": "Namibia made two changes, bringing in Ben Shikongo and Malan Kruger",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413373.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 12 Feb 2026 13:38:44 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523678.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c4gjmm7dlggo#0",
     "category": "global",
-    "title": "UK economy grew by 'subdued' 0.1% at end of 2025",
-    "summary": "Manufacturing was the main driver of growth during the final three months of the year, official figures show.",
+    "title": "Reeves says 'more to do' after sluggish GDP growth",
+    "summary": "The chancellor's comments came after figures showed the UK economy saw a lacklustre end to 2025.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 12 Feb 2026 11:16:27 GMT",
+    "pubDate": "Thu, 12 Feb 2026 13:23:06 GMT",
     "link": "https://www.bbc.com/news/articles/c4gjmm7dlggo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1523672.html",
+    "category": "sports",
+    "title": "Moscas star as Italy dismantle Nepal for first World Cup win",
+    "summary": "Openers seal Italian Job with stunning ten-wicket win in Mumbai",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413370.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 12 Feb 2026 12:52:53 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523672.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1523630.html",
+    "category": "sports",
+    "title": "Canada, UAE face each other for only the second time in T20Is",
+    "summary": "Both teams lost their opening fixtures of the 2026 T20 World Cup",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413200/413242.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 12 Feb 2026 12:50:54 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523630.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cn0e1g7kwglo#0",
@@ -240,16 +320,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1523633.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cd9gn7x8v08o#0",
-    "category": "global",
-    "title": "Sex offenders should tell police about pregnancies, review finds",
-    "summary": "The finding comes after a review into the death by negligence of Constance Marten and Mark Gordon's baby daughter.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Feb 2026 09:54:21 GMT",
-    "link": "https://www.bbc.com/news/articles/cd9gn7x8v08o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1523644.html",
     "category": "sports",
     "title": "Italy bowl; Nepal bring in Rajbanshi for Malla",
@@ -270,36 +340,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1523641.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cewz2yr47dvo#0",
-    "category": "global",
-    "title": "Katie Holmes leads tributes to Dawson's Creek star James Van Der Beek",
-    "summary": "Katie Holmes pays tribute to her late co-star's \"bravery, compassion, selflessness and strength\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Feb 2026 09:02:30 GMT",
-    "link": "https://www.bbc.com/news/articles/cewz2yr47dvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523624.html",
-    "category": "sports",
-    "title": "Naseem, Faheem fetch record fees at PSL's first-ever auction",
-    "summary": "For PKR 86.5 million, Naseem moved from Islamabad to Rawalpindi, while Ashraf returned to Islamabad for PKR 85 million",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/382400/382474.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 12 Feb 2026 08:14:00 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523624.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523622.html",
-    "category": "sports",
-    "title": "Buoyant Zimbabwe plot massive upset against depleted Australia",
-    "summary": "Mitchell Marsh is unlikely to be fit for the game and Tim David isn't yet 100% of making the XI, making Australia severely undermanned ahead of the Zimbabwe contest",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413175.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 12 Feb 2026 07:54:18 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523622.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/ckg2n644l44o#0",
     "category": "global",
     "title": "They met while pregnant but their babies never came home - maternity failings at NHS trust",
@@ -308,46 +348,6 @@
     "source": "BBC",
     "pubDate": "Thu, 12 Feb 2026 06:00:20 GMT",
     "link": "https://www.bbc.com/news/articles/ckg2n644l44o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523598.html",
-    "category": "sports",
-    "title": "Oman make two changes and field; Hemantha replaces injured Hasaranga for Sri Lanka",
-    "summary": "For Oman, Jay Odedra and Mohammad Nadeem have come in for Karan Sonavale and Shakeel Ahmed",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413340.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 12 Feb 2026 05:54:13 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523598.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523591.html",
-    "category": "sports",
-    "title": "USA need to overturn history to beat Netherlands and stay alive",
-    "summary": "Netherlands are favourites for the T20 World Cup contest in Chennai, especially with USA battling injury issues",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413000/413072.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 12 Feb 2026 05:53:10 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523591.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/weather/articles/cy9gje95w5zo#0",
-    "category": "global",
-    "title": "Snow and ice warnings issued for UK after relentless rain",
-    "summary": "After weeks of wet and gloomy conditions, there are finally some changes to the weather as Simon King explains.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Feb 2026 05:22:15 GMT",
-    "link": "https://www.bbc.com/weather/articles/cy9gje95w5zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ckglv1n4dzeo#0",
-    "category": "global",
-    "title": "Starmer tells Sir Jim Ratcliffe to apologise for saying UK 'colonised by immigrants'",
-    "summary": "Sir Keir Starmer says comments by the businessman and Manchester United co-owner are \"offensive and wrong\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Feb 2026 04:12:29 GMT",
-    "link": "https://www.bbc.com/news/articles/ckglv1n4dzeo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
