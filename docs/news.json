@@ -30,16 +30,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/sport/articles/cly2jknym20o#1",
-    "category": "global",
-    "title": "Choi, 17, denies Kim historic third halfpipe gold",
-    "summary": "Seventeen-year-old Choi Ga-on denies American great Chloe Kim snowboarding history as she brushes off an early fall to win Winter Olympic halfpipe gold.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Feb 2026 21:45:54 GMT",
-    "link": "https://www.bbc.com/sport/articles/cly2jknym20o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -80,6 +70,126 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ncdex-ropes-in-tcs-as-tech-partner-to-power-its-entry-into-equity-and-derivatives/articleshow/128309728.cms",
+    "category": "finance",
+    "title": "NCDEX ropes in TCS as tech partner to power its entry into equity and derivatives",
+    "summary": "National Commodity &amp; Derivatives Exchange signed a long-term technology pact with Tata Consultancy Services to enter equity and derivatives trading. The 10-year deal will deploy a scalable, low-latency platform using TCS BaNCS and Quartz solution",
+    "image": "https://img.etimg.com/photo/msid-128309728,imgsize-3204.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 19:15:48 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ncdex-ropes-in-tcs-as-tech-partner-to-power-its-entry-into-equity-and-derivatives/articleshow/128309728.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/on-camera-speeding-sports-bike-hits-doctor-in-uttarakhand-rider-flees-10999872#publisher=newsstand",
+    "category": "india",
+    "title": "On Camera, Speeding Sports Bike Hits Doctor In Uttarakhand, Rider Flees",
+    "summary": "The incident occurred at Haldwani's Thandi Road.",
+    "image": "https://c.ndtvimg.com/2026-02/5ub4pshc_uttrakhand-accident_625x300_13_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 18:56:27 +0530",
+    "link": "https://www.ndtv.com/india-news/on-camera-speeding-sports-bike-hits-doctor-in-uttarakhand-rider-flees-10999872#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/new-oral-polio-vaccine-approved-by-who-a-boost-for-indias-eradication-efforts-10999773#publisher=newsstand",
+    "category": "india",
+    "title": "New Oral Polio Vaccine Approved By WHO: A Boost For India's Eradication Efforts?",
+    "summary": "The World Health Organization has just prequalified an additional novel oral polio vaccine",
+    "image": "https://c.ndtvimg.com/2026-02/end82438_polio_625x300_13_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 18:56:24 +0530",
+    "link": "https://www.ndtv.com/health/new-oral-polio-vaccine-approved-by-who-a-boost-for-indias-eradication-efforts-10999773#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/morgan-stanley-said-to-consider-500-million-india-fund-shifts-some-assets/articleshow/128308772.cms",
+    "category": "finance",
+    "title": "Morgan Stanley said to consider $500 million India fund, shifts some assets",
+    "summary": "Morgan Stanley Investment Management is exploring shifting eight India healthcare assets into a continuation vehicle, targeting $500 million from investors. Investments include Omega Hospitals and RG Scientific, reflecting rising secondary-market act",
+    "image": "https://img.etimg.com/photo/msid-128308772,imgsize-28726.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 18:49:24 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/morgan-stanley-said-to-consider-500-million-india-fund-shifts-some-assets/articleshow/128308772.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/what-your-cardio-fitness-test-says-about-your-fitness-levels-and-why-improving-it-matters-10999002#publisher=newsstand",
+    "category": "india",
+    "title": "What Your Cardio Fitness Test Says About Your Fitness Levels And Why Improving It Matters",
+    "summary": "A cardio fitness test evaluates how efficiently your body uses oxygen during exercise",
+    "image": "https://c.ndtvimg.com/2021-02/okpikjqg_cardio650_625x300_24_February_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 18:47:47 +0530",
+    "link": "https://www.ndtv.com/health/what-your-cardio-fitness-test-says-about-your-fitness-levels-and-why-improving-it-matters-10999002#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/duroflex-premier-industrial-corporation-3-more-companies-get-sebi-nod-to-launch-ipo/articleshow/128308697.cms",
+    "category": "finance",
+    "title": "Duroflex, Premier Industrial Corporation, 3 more companies get Sebi nod to launch IPO",
+    "summary": "Securities and Exchange Board of India approved IPO plans of Premier Industrial Corporation, Duroflex Limited, Virupaksha Organics, Hexagon Nutrition and Om Power Transmission. Issues include fresh equity and offer-for-sale components, with proceeds ",
+    "image": "https://img.etimg.com/photo/msid-128308697,imgsize-39326.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 18:47:12 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/duroflex-premier-industrial-corporation-3-more-companies-get-sebi-nod-to-launch-ipo/articleshow/128308697.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cbse-class-12-percentage-calculation-explained-easy-formula-and-example-10999729#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE Class 12 Percentage Calculation Explained: Easy Formula And Example",
+    "summary": "How To Calculate Your CBSE Class 12 Percentage Accurately",
+    "image": "https://c.ndtvimg.com/2026-02/qk49cq3c_board-exam-_625x300_13_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 18:37:23 +0530",
+    "link": "https://www.ndtv.com/education/cbse-class-12-percentage-calculation-explained-easy-formula-and-example-10999729#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/woman-gives-exclusive-tour-of-luxury-central-park-apartment-in-new-york-10998842#publisher=newsstand",
+    "category": "india",
+    "title": "Woman Gives Exclusive Tour Of Luxury Central Park Apartment In New York",
+    "summary": "The home blends traditional New York style with personal and distinctive decor.",
+    "image": "https://c.ndtvimg.com/2026-02/3hf16g3_viral-video_625x300_13_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 18:32:49 +0530",
+    "link": "https://www.ndtv.com/offbeat/woman-gives-exclusive-tour-of-luxury-central-park-apartment-in-new-york-10998842#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/97-flyers-complaints-addressed-says-centre-explain-how-says-shashi-tharoor-10999709#publisher=newsstand",
+    "category": "india",
+    "title": "97% Flyers' Complaints Addressed, Says Centre. Explain How, Says Shashi Tharoor",
+    "summary": "The control room works in coordination with airlines, airports and other stakeholders",
+    "image": "https://i.ndtvimg.com/i/2018-02/plane-generic-pixabay_650x400_41518349646.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 18:30:19 +0530",
+    "link": "https://www.ndtv.com/india-news/97-flyers-complaints-addressed-says-centre-explain-how-says-shashi-tharoor-10999709#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-infosys-tcs-and-9-other-stocks-hit-52-week-lows-and-slip-up-to-20-in-a-month/slideshow/128308025.cms",
+    "category": "finance",
+    "title": "Wipro, Infosys, TCS and 9 other stocks hit 52-week lows and slip up to 20% in a month",
+    "summary": "Benchmark declines dragged the BSE Sensex sharply lower, with nine BSE 200 stocks hitting fresh 52-week lows. IT majors like Wipro, Tata Consultancy Services and Infosys led losses, reflecting sustained selling pressure across technology and select d",
+    "image": "https://img.etimg.com/photo/msid-128307725,imgsize-20392.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 18:23:27 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-infosys-tcs-and-9-other-stocks-hit-52-week-lows-and-slip-up-to-20-in-a-month/slideshow/128308025.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/bangalore-news/6-bengaluru-students-sneak-out-for-joyride-none-survive-horrific-crash-10999626#publisher=newsstand",
+    "category": "india",
+    "title": "6 Bengaluru Students Sneak Out For Joyride, None Survive Horrific Crash",
+    "summary": "The driver lost control of the XUV following the initial impact, causing the vehicle to ram into a truck",
+    "image": "https://c.ndtvimg.com/2026-02/4sukqi54_xuv-accident_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 18:15:37 +0530",
+    "link": "https://www.ndtv.com/bangalore-news/6-bengaluru-students-sneak-out-for-joyride-none-survive-horrific-crash-10999626#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/how-jaish-and-lashkar-are-gaining-ground-by-recruiting-women-10999585#publisher=newsstand",
+    "category": "india",
+    "title": "How Jaish And Lashkar Are Gaining Ground By Recruiting Women",
+    "summary": "Mulana Masood Azhar head of Jaish-e-Mohammad goes towards a mosque in Peshawar in 2003",
+    "image": "https://c.ndtvimg.com/2026-02/710dbpcc_jaish-lashkar-afp_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 18:14:32 +0530",
+    "link": "https://www.ndtv.com/world-news/how-jaish-and-lashkar-are-gaining-ground-by-recruiting-women-10999585#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-londons-ftse-indexes-subdued-as-investors-assess-ai-concerns-defence-stocks-gain/articleshow/128306457.cms",
     "category": "finance",
     "title": "Global stocks | London's FTSE indexes subdued as investors assess AI concerns; defence stocks gain",
@@ -110,16 +220,6 @@
     "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/naredco-pitches-for-incentives-for-affordable-housing-rental-homes/articleshow/128306026.cms"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/when-ai-meets-zindagi-na-milegi-dobara-viral-video-sparks-buzz-10999412#publisher=newsstand",
-    "category": "india",
-    "title": "Zindagi Na Milegi Dobara, AI Style: How Sam Altman, Bill Gates & Sundar Pichai Were 'Invited' To India",
-    "summary": "The clip recreates a scene from the 2011 film <i>Zindagi Na Milegi Dobara</i>.",
-    "image": "https://c.ndtvimg.com/2026-02/il698tv4_zindagi-na-milegi-dobara_625x300_13_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 17:48:27 +0530",
-    "link": "https://www.ndtv.com/offbeat/when-ai-meets-zindagi-na-milegi-dobara-viral-video-sparks-buzz-10999412#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-existing-home-sales-drop-to-more-than-two-year-low-in-january/articleshow/128305827.cms",
     "category": "finance",
     "title": "US existing home sales drop to more than two-year low in January",
@@ -130,114 +230,64 @@
     "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-existing-home-sales-drop-to-more-than-two-year-low-in-january/articleshow/128305827.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stock-index-futures-muted-inflation-data-on-tap/articleshow/128305677.cms",
-    "category": "finance",
-    "title": "US Stocks Today |  US stock index futures muted, inflation data on tap",
-    "summary": "U.S. stock index futures were trading flat on Friday after an AI-led \u200bselloff, with investors staying on the sidelines ahead of inflation data that could provide more clarity on the Federal Reserve's rate-cut outlook.",
-    "image": "https://img.etimg.com/photo/msid-128305677,imgsize-198458.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Feb 2026 17:40:22 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stock-index-futures-muted-inflation-data-on-tap/articleshow/128305677.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1523910.html",
+    "category": "sports",
+    "title": "Aryansh Sharma, Sohaib Khan power UAE to thrilling win over Canada",
+    "summary": "The duo added 84 of the 85 UAE needed when they joined forces at 66 for 4 in the 151-run chase",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413400/413449.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 13 Feb 2026 13:56:52 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523910.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/health/study-suggests-long-covid-alzheimers-may-share-disease-mechanisms-10999285#publisher=newsstand",
-    "category": "india",
-    "title": "Long Covid And Alzheimer's Might Be Driven By Similar Changes In The Brain, Says New Study",
-    "summary": "A new study from New York University finds that long Covid and Alzheimer's may share biological pathways, with choroid plexus changes linked to brain inflammation, waste clearance issues, and cognitive decline.",
-    "image": "https://c.ndtvimg.com/2025-07/dfd010o4_covid19_625x300_24_July_25.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 17:38:08 +0530",
-    "link": "https://www.ndtv.com/health/study-suggests-long-covid-alzheimers-may-share-disease-mechanisms-10999285#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1523906.html",
+    "category": "sports",
+    "title": "Netherlands opt to bowl against USA; Kyle Klein replaces Timm van der Gugten",
+    "summary": "USA made three changes by including Ali Khan, Saiteja Mukkamalla and Nosthush Kenjige",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413200/413210.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 13 Feb 2026 13:32:58 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523906.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/world-news/jeffrey-epstein-island-little-saint-james-epstein-files-what-happend-on-epstein-island-little-st-james-10999013#publisher=newsstand",
-    "category": "india",
-    "title": "Private Jets, Powerful Names, And Sex Offender Jeffrey Epstein's Fortress Of Silence",
-    "summary": "The main residences on Epstein's Little St James are in the north of the island. Photo: Google Maps",
-    "image": "https://c.ndtvimg.com/2026-02/dcrip6cc_little-st-james-jeffrey-epstein-island_625x300_13_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 17:38:01 +0530",
-    "link": "https://www.ndtv.com/world-news/jeffrey-epstein-island-little-saint-james-epstein-files-what-happend-on-epstein-island-little-st-james-10999013#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1523698.html",
+    "category": "sports",
+    "title": "Riyan Parag named Rajasthan Royals' new captain",
+    "summary": "Parag has led them before, in IPL 2025, but will take over full time now after Samson's trade to CSK",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/380900/380978.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 13 Feb 2026 13:18:18 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523698.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/india-bond-traders-seek-buybacks-as-yields-climb-despite-switch/articleshow/128305525.cms",
-    "category": "finance",
-    "title": "India bond traders seek buybacks as yields climb despite switch",
-    "summary": "Indian bond market participants say that the market will \u200bneed further support, particularly via buybacks, \u200bto cool yields significantly, after government bonds surrendered the gains \u200btriggered by a surprise debt switch.",
-    "image": "https://img.etimg.com/photo/msid-128305525,imgsize-67062.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Feb 2026 17:36:55 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/india-bond-traders-seek-buybacks-as-yields-climb-despite-switch/articleshow/128305525.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1523899.html",
+    "category": "sports",
+    "title": "High risk of rain in marquee India vs Pakistan T20 World Cup game in Colombo",
+    "summary": "With the game to begin at 7pm local time, some models suggest heavy thundershowers before the scheduled start",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/406900/406973.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 13 Feb 2026 13:17:42 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523899.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/health/exam-stress-and-suicidal-thoughts-what-parents-need-to-know-and-when-to-act-10999259#publisher=newsstand",
-    "category": "india",
-    "title": "Exam Stress And Suicidal Thoughts: What Parents Need To Know And When To Act",
-    "summary": "Image used for representative purpose only",
-    "image": "https://c.ndtvimg.com/2026-02/ohvdmalk_child-depression-freepik_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 17:32:46 +0530",
-    "link": "https://www.ndtv.com/health/exam-stress-and-suicidal-thoughts-what-parents-need-to-know-and-when-to-act-10999259#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1523745.html",
+    "category": "sports",
+    "title": "Kolkata the stage as England, Scotland resume auld rivalry",
+    "summary": "Grudge match given added edge by coinciding with Six Nations clash in Edinburgh",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413168.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 13 Feb 2026 13:16:59 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523745.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/opinion/bnp-may-have-won-for-now-but-dont-think-jamaat-or-yunus-are-going-anywhere-10998879#publisher=newsstand",
-    "category": "india",
-    "title": "Opinion: Opinion | Bangladesh Polls: What Are Jamaat And Yunus Planning Next?",
-    "summary": "Yunus's motivations across the board indicate that he's not likely to be 'retiring' soon. This election is a quiet - and overlooked - win for the Jamaat, too.",
-    "image": "https://c.ndtvimg.com/2026-02/3e2sp28k_jamaat-afp_625x300_10_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 17:28:05 +0530",
-    "link": "https://www.ndtv.com/opinion/bnp-may-have-won-for-now-but-dont-think-jamaat-or-yunus-are-going-anywhere-10998879#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-tcs-spicejet-amp-bajaj-finance-among-6-top-movers-on-friday/slideshow/128305262.cms",
-    "category": "finance",
-    "title": "Gainers &amp; Losers: TCS, SpiceJet &amp; Bajaj Finance among 6 top movers on Friday",
-    "summary": "TCS, SpiceJet, Bajaj Finance, Wipro, HUL, Hindalco, Coforge, and Engineers India led Friday\u2019s market swings as IT, consumer, and energy stocks faced sharp volatility.",
-    "image": "https://img.etimg.com/photo/msid-128305262,imgsize-922726.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Feb 2026 17:27:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-tcs-spicejet-amp-bajaj-finance-among-6-top-movers-on-friday/slideshow/128305262.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/science/nasa-esa-hubble-space-telescope-captures-rare-cosmic-couple-10998663#publisher=newsstand",
-    "category": "india",
-    "title": "NASA's Hubble Space Telescope Captures Rare Cosmic Couple",
-    "summary": "Nebula M1-67 is believed to be no more than about 10,000 years old.",
-    "image": "https://c.ndtvimg.com/2026-02/kiheues4_nasa_625x300_13_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 17:25:07 +0530",
-    "link": "https://www.ndtv.com/science/nasa-esa-hubble-space-telescope-captures-rare-cosmic-couple-10998663#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/food/barbeque-nation-accused-of-illegal-service-charge-on-bill-restaurant-says-not-true-10999244#publisher=newsstand",
-    "category": "india",
-    "title": "Barbeque Nation Accused Of Illegal Service Charge On Bill, Restaurant Says Not True",
-    "summary": "Barbeque Nation said they provide a transparent, enjoyable dining experience without service charge.",
-    "image": "https://c.ndtvimg.com/2023-03/2clc03c8_barbeque_625x300_27_March_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 17:18:27 +0530",
-    "link": "https://www.ndtv.com/food/barbeque-nation-accused-of-illegal-service-charge-on-bill-restaurant-says-not-true-10999244#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/kerala-news/row-over-ldf-campaign-poster-on-oommen-chandys-tomb-cops-check-cctv-10999299#publisher=newsstand",
-    "category": "india",
-    "title": "Row Over LDF Campaign Poster On Oommen Chandy's Tomb, Cops Check CCTV",
-    "summary": "Preliminary findings suggest there may be no organised conspiracy behind the incident",
-    "image": "https://c.ndtvimg.com/2026-02/m4kjrh4g_chandy_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 17:17:24 +0530",
-    "link": "https://www.ndtv.com/kerala-news/row-over-ldf-campaign-poster-on-oommen-chandys-tomb-cops-check-cctv-10999299#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/sencos-stellar-q3-topline-growth-driven-by-gold-price-rally-likely-to-close-fy-with-8000-cr-revenue-md/articleshow/128302596.cms",
-    "category": "finance",
-    "title": "Senco's stellar Q3 topline growth driven by gold price rally; likely to close FY with \u20b98,000 cr revenue: MD",
-    "summary": "Senco Gold &amp; Diamonds reported a strong 39% same-store sales growth in Q3 FY26, driven by robust festive and wedding demand and significant gold price appreciation. Despite a 3% dip in volumes, the company maintained customer engagement through b",
-    "image": "https://img.etimg.com/photo/msid-128302596,imgsize-41460.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Feb 2026 16:37:38 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/sencos-stellar-q3-topline-growth-driven-by-gold-price-rally-likely-to-close-fy-with-8000-cr-revenue-md/articleshow/128302596.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1523879.html",
+    "category": "sports",
+    "title": "NZ and SA look ahead to Super Eights in low-pressure contest",
+    "summary": "It will be the teams' first meeting in a T20 World Cup since 2014",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413322.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 13 Feb 2026 13:11:00 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523879.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1523893.html",
@@ -263,21 +313,21 @@
     "id": "https://www.bbc.com/news/articles/cg7erzygx52o#0",
     "category": "global",
     "title": "Former SNP chief executive accused of embezzling \u00a3459,000 over 12-year period",
-    "summary": "He is accused of illicitly purchasing items including luxury goods, jewellery, cosmetics, two cars and a motorhome.",
+    "summary": "The former SNP chief executive is accused of illicitly purchasing items including luxury goods, jewellery, cosmetics, two cars and a motorhome.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Fri, 13 Feb 2026 12:25:56 GMT",
     "link": "https://www.bbc.com/news/articles/cg7erzygx52o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523698.html",
-    "category": "sports",
-    "title": "Riyan Parag named Rajasthan Royals' new captain",
-    "summary": "Parag has led them before, in IPL 2025, but will take over full time now after Samson's trade to CSK",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/380900/380978.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 13 Feb 2026 12:22:56 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523698.html?ex_cid=OTC-RSS"
+    "id": "https://www.bbc.com/news/articles/cz7gw28v57no#0",
+    "category": "global",
+    "title": "Brother of Laos methanol victim says \u00a3135 fines 'an absolute joke'",
+    "summary": "Ten people linked to six deaths at a hostel in Laos are given suspended sentences and fines.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 13 Feb 2026 12:12:49 GMT",
+    "link": "https://www.bbc.com/news/articles/cz7gw28v57no?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/videos/c4gj39dprkno#0",
@@ -290,16 +340,6 @@
     "link": "https://www.bbc.com/news/videos/c4gj39dprkno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523879.html",
-    "category": "sports",
-    "title": "NZ and SA look ahead to Super Eights in low-pressure contest",
-    "summary": "It will be the teams' first meeting in a T20 World Cup since 2014",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413322.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 13 Feb 2026 12:07:04 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523879.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/videos/c20jepq911zo#0",
     "category": "global",
     "title": "Watch: How Andrew's BBC interview compares to what Epstein emails tell us now",
@@ -310,24 +350,14 @@
     "link": "https://www.bbc.com/news/videos/c20jepq911zo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c99jxryd9xko#0",
+    "id": "https://www.bbc.com/sport/articles/c627z4d0lp5o#1",
     "category": "global",
-    "title": "Rubio warns Europe of new era in geopolitics before big Munich speech",
-    "summary": "The US Secretary of State will address the first major transatlantic meeting since Donald Trump threatened to annex Greenland.",
+    "title": "GB men's curlers lose to Italy after shocking start",
+    "summary": "Team GB's men's curlers fight back against Italy after a poor start but lose their first match of the 2026 Winter Olympics.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 13 Feb 2026 11:30:49 GMT",
-    "link": "https://www.bbc.com/news/articles/c99jxryd9xko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523861.html",
-    "category": "sports",
-    "title": "Muzarabani, Evans and Bennett slay Australia",
-    "summary": "Australia were never really in the contest - they picked up two wickets in Zimbabwe's entire innings and lost four in their batting powerplay - and fell well short in the end",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413400/413429.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 13 Feb 2026 10:15:05 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523861.html?ex_cid=OTC-RSS"
+    "pubDate": "Fri, 13 Feb 2026 11:01:39 GMT",
+    "link": "https://www.bbc.com/sport/articles/c627z4d0lp5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cn0zdd7yl4vo#0",
@@ -348,36 +378,6 @@
     "source": "BBC",
     "pubDate": "Fri, 13 Feb 2026 09:40:18 GMT",
     "link": "https://www.bbc.com/news/articles/cgrzw0klen8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523852.html",
-    "category": "sports",
-    "title": "Canada opt to bat, UAE bring in Farooq and Jawadullah",
-    "summary": "Parashar and Rohid miss out for UAE while Canada named an unchanged XI",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/362000/362098.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 13 Feb 2026 09:35:05 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523852.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523845.html",
-    "category": "sports",
-    "title": "Peter Fulton named as Middlesex's new head coach",
-    "summary": "Former New Zealand opening batter named as replacement for Richard Johnson",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413400/413426.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 13 Feb 2026 09:22:11 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523845.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523802.html",
-    "category": "sports",
-    "title": "Curran drafted in after Taylor is ruled out of remainder of T20 World Cup",
-    "summary": "Brendan Taylor, the Zimbabwe veteran, retired hurt in Zimbabwe's previous T20 World Cup game against Oman and was always a doubt for the Australia fixture",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413400/413405.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 13 Feb 2026 06:47:07 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523802.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/clym0g4rlr2o#0",
