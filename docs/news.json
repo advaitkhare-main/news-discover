@@ -50,16 +50,6 @@
     "link": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523736.html",
-    "category": "sports",
-    "title": "Tracey Orr appointed as Warwickshire's new chair",
-    "summary": "Former chief operating officer at the Co-Op steps up to replace Mark McCafferty",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/359800/359826.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 12 Feb 2026 19:38:22 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523736.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -100,6 +90,116 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://www.ndtv.com/health/brown-rice-vs-white-rice-which-one-is-better-for-weight-loss-10997930#publisher=newsstand",
+    "category": "india",
+    "title": "Brown Rice Vs. White Rice: Which One Is Better For Weight Loss?",
+    "summary": "Brown rice and white rice can both aid in weight loss and here is how they can",
+    "image": "https://c.ndtvimg.com/2026-02/683gh7ac_rice_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 15:00:06 +0530",
+    "link": "https://www.ndtv.com/health/brown-rice-vs-white-rice-which-one-is-better-for-weight-loss-10997930#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/dehradun-property-dealer-shot-dead-500-metres-from-senior-cops-residence-10998482#publisher=newsstand",
+    "category": "india",
+    "title": "Dehradun Property Dealer Shot Dead 500 Metres From Senior Cop's Residence",
+    "summary": "According to police, more than 50 cases were registered against Sharma in different states",
+    "image": "https://c.ndtvimg.com/2026-02/vu9d1mfo_dehradun_625x300_13_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 14:56:01 +0530",
+    "link": "https://www.ndtv.com/india-news/dehradun-property-dealer-shot-dead-500-metres-from-senior-cops-residence-10998482#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/bill-gates-tony-blair-and-sundar-pichai-among-key-attendees-at-india-ai-summit-10997637#publisher=newsstand",
+    "category": "india",
+    "title": "Bill Gates, Tony Blair, And Sundar Pichai Among Key Attendees At India AI Summit",
+    "summary": "The guest list highlights how the focus of the summit is on foundational AI research as well.",
+    "image": "https://c.ndtvimg.com/2026-02/cjs07c3o_ai-summit-attended_625x300_13_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 14:54:56 +0530",
+    "link": "https://www.ndtv.com/india-news/bill-gates-tony-blair-and-sundar-pichai-among-key-attendees-at-india-ai-summit-10997637#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/low-carb-vs-low-fat-diet-study-reveals-which-one-is-healthier-for-your-heart-and-metabolic-health-10998432#publisher=newsstand",
+    "category": "india",
+    "title": "Low-Carb Vs Low-Fat Diet: Here's What Actually Protects Your Heart, Reveals Study",
+    "summary": "Researchers found that a low-carb or low-fat label doesn't mean much on its own",
+    "image": "https://i.ndtvimg.com/i/2017-09/heart-health_650x400_61506581158.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 14:51:53 +0530",
+    "link": "https://www.ndtv.com/health/low-carb-vs-low-fat-diet-study-reveals-which-one-is-healthier-for-your-heart-and-metabolic-health-10998432#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-deploys-2nd-aircraft-carrier-to-middle-east-amid-rising-tensions-with-iran-10998271#publisher=newsstand",
+    "category": "india",
+    "title": "US Deploys 2nd Aircraft Carrier To Middle East Amid Rising Tensions With Iran",
+    "summary": "The world's largest aircraft carrier USS Gerald R. Ford (File)",
+    "image": "https://c.ndtvimg.com/2026-02/dg4rv8gk_uss_625x300_13_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 14:47:09 +0530",
+    "link": "https://www.ndtv.com/world-news/us-deploys-2nd-aircraft-carrier-to-middle-east-amid-rising-tensions-with-iran-10998271#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/chhattisgarh-high-courts-big-order-on-digital-evidence-vs-right-to-privacy-10998433#publisher=newsstand",
+    "category": "india",
+    "title": "Chhattisgarh High Court's Big Order On Digital Evidence vs Right To Privacy",
+    "summary": "The order came while hearing a complex marital dispute case (AI generated image)",
+    "image": "https://c.ndtvimg.com/2026-02/em96o4m8_divorce-generic_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 14:43:57 +0530",
+    "link": "https://www.ndtv.com/india-news/chhattisgarh-high-courts-big-order-on-digital-evidence-vs-right-to-privacy-10998433#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/tanvi-joshi-shabina-adeeb-30-million-views-later-viral-shayari-girl-turns-out-to-be-ai-10998372#publisher=newsstand",
+    "category": "india",
+    "title": "30 Million Views Later, Viral Shayari Girl Turns Out To Be AI",
+    "summary": "AI model Tanvi Joshi, NCP (SP) leader Marziya Shanu Pathan and Urdu Poet Shabeena Adeeb.",
+    "image": "https://c.ndtvimg.com/2026-02/oeuvk1m8_shabeena-adeeb_625x300_13_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 14:42:55 +0530",
+    "link": "https://www.ndtv.com/offbeat/tanvi-joshi-shabina-adeeb-30-million-views-later-viral-shayari-girl-turns-out-to-be-ai-10998372#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cbse-board-exams-2026-controller-explains-evaluation-process-shares-key-details-10998359#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE Exam Controller Explains Evaluation Process, Shares Key Details",
+    "summary": "CBSE Board Exams 2026: Class 10 exams will begin with Mathematics (Standard and Basic).",
+    "image": "https://c.ndtvimg.com/2026-02/rvjdsli8_dr-sanyam-bhardwaj-cbse-controller-of-examinations_625x300_13_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 14:35:00 +0530",
+    "link": "https://www.ndtv.com/education/cbse-board-exams-2026-controller-explains-evaluation-process-shares-key-details-10998359#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/paraskevidekatriaphobia-is-friday-the-13th-really-cursed-for-indian-stock-market/articleshow/128297037.cms",
+    "category": "finance",
+    "title": "Paraskevidekatriaphobia! Is Friday the 13th really cursed for Indian stock market?",
+    "summary": "Historical data debunks the Friday-the-13th myth on Dalal Street. The Indian market closed higher in 9 of the last 16 such sessions (56.25%). Gains were notable at times: Nifty 50 jumped 4% on March 13, 2020, and rose about 1% on September 13 and Dec",
+    "image": "https://img.etimg.com/photo/msid-128297037,imgsize-2953951.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 14:20:24 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/paraskevidekatriaphobia-is-friday-the-13th-really-cursed-for-indian-stock-market/articleshow/128297037.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/cut-the-noise-back-conviction-madhusudan-kela-on-investing-through-volatility/articleshow/128297578.cms",
+    "category": "finance",
+    "title": "Cut the noise, back conviction: Madhusudan Kela on investing through volatility",
+    "summary": "Market veteran Madhusudan Kela advises investors to focus on wealth creation and ignore market noise, viewing volatility as an opportunity. He emphasizes the importance of identifying resilient Indian entrepreneurs and the power of compounding for lo",
+    "image": "https://img.etimg.com/photo/msid-128297578,imgsize-1946.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 14:20:15 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/cut-the-noise-back-conviction-madhusudan-kela-on-investing-through-volatility/articleshow/128297578.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/it-selloff-overdone-buy-the-dips-ai-to-expand-scope-for-service-providers-manish-sonthalia/articleshow/128297066.cms",
+    "category": "finance",
+    "title": "IT selloff \u2018overdone\u2019, buy the dips;  AI to expand scope for service providers: Manish Sonthalia",
+    "summary": "Indian IT stocks are experiencing panic selling, but experts see this as a buying chance. Artificial intelligence will not destroy the IT services sector. Instead, it will create new opportunities. Companies building AI infrastructure are poised for ",
+    "image": "https://img.etimg.com/photo/msid-128297066,imgsize-27042.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 14:06:49 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/it-selloff-overdone-buy-the-dips-ai-to-expand-scope-for-service-providers-manish-sonthalia/articleshow/128297066.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/bonds/trade-deals-set-the-course-markets-still-have-to-cross-the-bridge/articleshow/128295489.cms",
     "category": "finance",
     "title": "Trade Deals Set the Course, Markets Still Have to Cross the Bridge",
@@ -108,66 +208,6 @@
     "source": "ET",
     "pubDate": "Fri, 13 Feb 2026 13:54:30 +0530",
     "link": "https://economictimes.indiatimes.com/markets/bonds/trade-deals-set-the-course-markets-still-have-to-cross-the-bridge/articleshow/128295489.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/education/higher-education-secretary-says-ai-will-put-an-end-to-rote-learning-in-education-10998247#publisher=newsstand",
-    "category": "india",
-    "title": "Higher Education Secretary Says AI Will Put An End To Rote Learning In Education",
-    "summary": "India Prepares for AI-Driven Transformation in Higher Education",
-    "image": "https://c.ndtvimg.com/2024-10/3928vl9_artificial-intelligence-_625x300_17_October_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 13:54:01 +0530",
-    "link": "https://www.ndtv.com/education/higher-education-secretary-says-ai-will-put-an-end-to-rote-learning-in-education-10998247#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/tamil-nadu-election-actor-vijay-tvk-salem-rally-mk-stalin-kalaignar-womens-right-scheme-rs-5000-women-voters-tamil-nadu-10998157#publisher=newsstand",
-    "category": "india",
-    "title": "\"Take Money, Whistle Podu\": Vijay On DMK's 'Rs 2,000 Women Summer Special'",
-    "summary": "TVK leader and actor Vijay delivered a blockbuster campaign speech in Salem, accusing Chief Minister MK Stalin and the ruling Dravida Munnetra Kazhagam of abuse of power and corruption, and urging voters to \"blow the whistle\" in the Tamil Nadu poll.",
-    "image": "https://c.ndtvimg.com/2026-02/9o63tuv4_actor-vijay-tvk-chief_625x300_13_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 13:53:06 +0530",
-    "link": "https://www.ndtv.com/india-news/tamil-nadu-election-actor-vijay-tvk-salem-rally-mk-stalin-kalaignar-womens-right-scheme-rs-5000-women-voters-tamil-nadu-10998157#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/gold-prices-silver-prices-gold-prices-continue-upward-march-on-february-13-check-rates-in-major-cities-10998191#publisher=newsstand",
-    "category": "india",
-    "title": "Gold Prices Continue Upward March On February 13: Check Rates In Major Cities",
-    "summary": "In the international market, gold inched 0.65 per cent higher to $4,980.50 per ounce.",
-    "image": "https://c.ndtvimg.com/2024-11/nh9hblbg_gold-generic_625x300_07_November_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 13:52:08 +0530",
-    "link": "https://www.ndtv.com/india-news/gold-prices-silver-prices-gold-prices-continue-upward-march-on-february-13-check-rates-in-major-cities-10998191#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/pakistan-concerned-as-india-fast-tracks-chenab-project-amid-indus-treaty-freeze-10998229#publisher=newsstand",
-    "category": "india",
-    "title": "Pakistan Concerned As India Fast-Tracks Chenab Project Amid Indus Treaty Freeze",
-    "summary": "Islamabad also called upon New Delhi to return to full treaty compliance",
-    "image": "https://c.ndtvimg.com/2025-05/mjhu92c_chenab-dam_625x300_08_May_25.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 13:50:54 +0530",
-    "link": "https://www.ndtv.com/world-news/pakistan-concerned-as-india-fast-tracks-chenab-project-amid-indus-treaty-freeze-10998229#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/dentist-explains-why-your-teeth-enamel-matters-11-reasons-it-wears-off-10995012#publisher=newsstand",
-    "category": "india",
-    "title": "Dentist Explains Why Your Teeth Enamel Matters, 11 Reasons It Wears Off",
-    "summary": "In simple terms, enamel is your tooth's armour",
-    "image": "https://c.ndtvimg.com/2025-12/6i3mbk3k_teeth-clean_625x300_12_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 13:50:20 +0530",
-    "link": "https://www.ndtv.com/health/dentist-explains-why-your-teeth-enamel-matters-11-reasons-it-wears-off-10995012#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/delhi-news/delhi-weather-update-delhi-set-for-pleasant-weekend-before-light-rain-early-next-week-10998198#publisher=newsstand",
-    "category": "india",
-    "title": "Delhi Set For Pleasant Weekend Before Light Rain Early Next Week",
-    "summary": "The weather pattern is set to shift again early next week.",
-    "image": "https://c.ndtvimg.com/2026-02/keuoco98_delhi-ncr-weather_625x300_13_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 13:45:23 +0530",
-    "link": "https://www.ndtv.com/delhi-news/delhi-weather-update-delhi-set-for-pleasant-weekend-before-light-rain-early-next-week-10998198#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-mfs-added-over-1-crore-shares-to-9-stocks-in-january-26-do-you-own-any/slideshow/128296565.cms",
@@ -180,30 +220,10 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-mfs-added-over-1-crore-shares-to-9-stocks-in-january-26-do-you-own-any/slideshow/128296565.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/cbse-board-exam-2026-live-updates-class-10-12-examination-rules-guidelines-on-screen-marking-big-changes-10992604#publisher=newsstand",
-    "category": "india",
-    "title": "CBSE Board Exams 2026 LIVE Updates: Exam Controller Shares Key Instructions",
-    "summary": "CBSE Exam 2026 LIVE: Class 10 exams will conclude on March 10, while Class 12 exams will end on April 9.",
-    "image": "https://c.ndtvimg.com/2025-11/l9qbbjbk_cbse-board_625x300_20_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 13:41:35 +0530",
-    "link": "https://www.ndtv.com/education/cbse-board-exam-2026-live-updates-class-10-12-examination-rules-guidelines-on-screen-marking-big-changes-10992604#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/claude-this-ai-model-was-ready-to-kill-someone-when-told-it-would-be-shut-down-10997972#publisher=newsstand",
-    "category": "india",
-    "title": "This AI Model \"Was Ready To Kill Someone\" When Told It Would Be Shut Down",
-    "summary": "The video comes days after Anthropic's AI safety lead resigned with a cryptic post.",
-    "image": "https://c.ndtvimg.com/2026-02/lqb5v754_claude-_625x300_05_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 13:41:26 +0530",
-    "link": "https://www.ndtv.com/world-news/claude-this-ai-model-was-ready-to-kill-someone-when-told-it-would-be-shut-down-10997972#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/info-edge-q3-results-naukri-com-parent-posts-12-rise-in-cons-pat-at-rs-272-crore-revenue-up-13/articleshow/128296095.cms",
     "category": "finance",
     "title": "Info Edge Q3 Results: Naukri.com parent posts 12% YoY rise in cons PAT at Rs 272 crore; revenue up 13%",
-    "summary": "Info Edge Q3 Results: The company announced an interim dividend of Rs 2.40 per share for FY26 and fixed Friday, February 20, 2026, as the record date. The dividend will be paid on or after March 9, 2026.",
+    "summary": "Info Edge Q3 Results: Info Edge announced a 12% rise in its December quarter net profit, reaching Rs 272 crore. Revenue also saw a 13% increase to Rs 819 crore. The company declared an interim dividend of Rs 2.40 per share. Key segments like Naukri, ",
     "image": "https://img.etimg.com/photo/msid-128296095,imgsize-38886.cms",
     "source": "ET",
     "pubDate": "Fri, 13 Feb 2026 13:39:12 +0530",
@@ -230,34 +250,24 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/tech-crash-rub-off-prestige-estates-brigade-enterprises-other-realty-stocks-tumble-up-to-4/articleshow/128295159.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-steadies-near-66000-amid-risk-off-sentiment-altcoins-under-pressure/articleshow/128294255.cms",
-    "category": "finance",
-    "title": "Bitcoin steadies near $66,000 amid risk-off sentiment; altcoins under pressure",
-    "summary": "Bitcoin is trading near $66,000, consolidating after a rebound from $60,000 amid renewed selling pressure and global risk-off sentiment. Analysts expect a near-term move between $60,000-$70,000 as the market absorbs liquidity, with CPI data on Friday",
-    "image": "https://img.etimg.com/photo/msid-128294255,imgsize-33844.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Feb 2026 13:03:56 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-steadies-near-66000-amid-risk-off-sentiment-altcoins-under-pressure/articleshow/128294255.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1523852.html",
+    "category": "sports",
+    "title": "Canada opt to bat, UAE bring in Farooq and Jawadullah",
+    "summary": "Parashar and Rohid miss out for UAE while Canada named an unchanged XI",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/362000/362098.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 13 Feb 2026 09:35:05 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523852.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-tracks-wall-street-decline-softbank-group-tanks-nearly-9/articleshow/128293963.cms",
-    "category": "finance",
-    "title": "Global Markets | Japan's Nikkei tracks Wall Street decline, SoftBank Group tanks nearly 9%",
-    "summary": "On Friday, Japan's Nikkei index took a hit, largely swayed by the slipping fortunes of Wall Street. The noteworthy drop in SoftBank Group created ripples across the market. Conversely, chip manufacturers managed to shine, while Nissan Motor's stock s",
-    "image": "https://img.etimg.com/photo/msid-128293963,imgsize-161952.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Feb 2026 12:43:58 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-tracks-wall-street-decline-softbank-group-tanks-nearly-9/articleshow/128293963.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-crash-44-from-peak-to-hit-over-5-year-low-more-pain-left-for-it-bellwether/articleshow/128293193.cms",
-    "category": "finance",
-    "title": "TCS shares crash 44% from peak to hit over 5-year low. More pain left for IT bellwether?",
-    "summary": "Tata Consultancy Services (TCS) shares plummeted to a five-and-a-half-year low amid fears of AI-led disruption, with its market capitalization also hitting a multi-year trough. The IT rout intensified following a plunge in Infosys and Wipro ADRs, as ",
-    "image": "https://img.etimg.com/photo/msid-128293193,imgsize-27068.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Feb 2026 12:34:17 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-crash-44-from-peak-to-hit-over-5-year-low-more-pain-left-for-it-bellwether/articleshow/128293193.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1523845.html",
+    "category": "sports",
+    "title": "Peter Fulton named as Middlesex's new head coach",
+    "summary": "Former New Zealand opening batter named as replacement for Richard Johnson",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413400/413426.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 13 Feb 2026 09:22:11 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523845.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1523802.html",
@@ -340,16 +350,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1523789.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523782.html",
-    "category": "sports",
-    "title": "'Disappointed' Gardner would go again for Australia captaincy",
-    "summary": "The allrounder was one of three candidates interviewed to take over from Alyssa Healy but lost out to Sophie Molineux",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/406400/406424.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 13 Feb 2026 03:51:05 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523782.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/czj17z7l9jmo#0",
     "category": "global",
     "title": "'Everyone knows somebody affected' - small Canadian town united in grief after mass shooting",
@@ -362,7 +362,7 @@
   {
     "id": "https://www.bbc.com/news/articles/cj0np329lmeo#0",
     "category": "global",
-    "title": "BBC catfishes romance scammer who was back on dating app days after jail release",
+    "title": "BBC confronts romance scammer who was back on dating app days after jail release",
     "summary": "An undercover reporter catches a serial fraudster back on a dating app days after leaving jail.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
