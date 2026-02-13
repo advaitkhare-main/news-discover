@@ -40,16 +40,6 @@
     "link": "https://www.bbc.com/sport/articles/cly2jknym20o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/sport/articles/c338y36kngzo#1",
-    "category": "global",
-    "title": "GB's Weston bids for skeleton gold - Friday's guide",
-    "summary": "What's happening and who to look out for at the 2026 Winter Olympics in Milan-Cortina.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Feb 2026 20:58:12 GMT",
-    "link": "https://www.bbc.com/sport/articles/c338y36kngzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -90,6 +80,156 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-londons-ftse-indexes-subdued-as-investors-assess-ai-concerns-defence-stocks-gain/articleshow/128306457.cms",
+    "category": "finance",
+    "title": "Global stocks | London's FTSE indexes subdued as investors assess AI concerns; defence stocks gain",
+    "summary": "Britain's FTSE indexes were subdued on Friday, tracking a sombre mood globally in a week that was marked by \u200cAI-disruption worries, while \u2060defence \u2060stocks got a lift as investors priced in greater European cooperation that could boost the sector.",
+    "image": "https://img.etimg.com/photo/msid-128306457,imgsize-93020.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 17:58:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-londons-ftse-indexes-subdued-as-investors-assess-ai-concerns-defence-stocks-gain/articleshow/128306457.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/eil-q3-profit-soars-over-3x-yoy-to-rs-302-crore/articleshow/128306158.cms",
+    "category": "finance",
+    "title": "EIL Q3 profit soars over 3x YoY to Rs 302 crore",
+    "summary": "State-owned Engineers India Ltd (EIL) reported an over 3-fold on-year jump in net profit to Rs 302 crore for the third quarter ended December 31, 2025, driven by strong execution and higher revenues.",
+    "image": "https://img.etimg.com/photo/msid-128306158,imgsize-26636.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 17:54:57 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/eil-q3-profit-soars-over-3x-yoy-to-rs-302-crore/articleshow/128306158.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/naredco-pitches-for-incentives-for-affordable-housing-rental-homes/articleshow/128306026.cms",
+    "category": "finance",
+    "title": "Naredco pitches for incentives for affordable housing, rental homes",
+    "summary": "Realtors' body Naredco on Friday said the government should promote affordable home segment and provide incentives for development of rental accommodation to achieve Housing for All and boost growth of real estate sector.",
+    "image": "https://img.etimg.com/photo/msid-128306026,imgsize-17378.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 17:48:46 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/naredco-pitches-for-incentives-for-affordable-housing-rental-homes/articleshow/128306026.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/when-ai-meets-zindagi-na-milegi-dobara-viral-video-sparks-buzz-10999412#publisher=newsstand",
+    "category": "india",
+    "title": "Zindagi Na Milegi Dobara, AI Style: How Sam Altman, Bill Gates & Sundar Pichai Were 'Invited' To India",
+    "summary": "The clip recreates a scene from the 2011 film <i>Zindagi Na Milegi Dobara</i>.",
+    "image": "https://c.ndtvimg.com/2026-02/il698tv4_zindagi-na-milegi-dobara_625x300_13_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 17:48:27 +0530",
+    "link": "https://www.ndtv.com/offbeat/when-ai-meets-zindagi-na-milegi-dobara-viral-video-sparks-buzz-10999412#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-existing-home-sales-drop-to-more-than-two-year-low-in-january/articleshow/128305827.cms",
+    "category": "finance",
+    "title": "US existing home sales drop to more than two-year low in January",
+    "summary": "U.S. existing home sales tumbled to the lowest level in more \u200bthan two years in January \u200bas falling inventory raised house prices.",
+    "image": "https://img.etimg.com/photo/msid-128305827,imgsize-168482.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 17:43:02 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-existing-home-sales-drop-to-more-than-two-year-low-in-january/articleshow/128305827.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stock-index-futures-muted-inflation-data-on-tap/articleshow/128305677.cms",
+    "category": "finance",
+    "title": "US Stocks Today |  US stock index futures muted, inflation data on tap",
+    "summary": "U.S. stock index futures were trading flat on Friday after an AI-led \u200bselloff, with investors staying on the sidelines ahead of inflation data that could provide more clarity on the Federal Reserve's rate-cut outlook.",
+    "image": "https://img.etimg.com/photo/msid-128305677,imgsize-198458.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 17:40:22 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stock-index-futures-muted-inflation-data-on-tap/articleshow/128305677.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/study-suggests-long-covid-alzheimers-may-share-disease-mechanisms-10999285#publisher=newsstand",
+    "category": "india",
+    "title": "Long Covid And Alzheimer's Might Be Driven By Similar Changes In The Brain, Says New Study",
+    "summary": "A new study from New York University finds that long Covid and Alzheimer's may share biological pathways, with choroid plexus changes linked to brain inflammation, waste clearance issues, and cognitive decline.",
+    "image": "https://c.ndtvimg.com/2025-07/dfd010o4_covid19_625x300_24_July_25.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 17:38:08 +0530",
+    "link": "https://www.ndtv.com/health/study-suggests-long-covid-alzheimers-may-share-disease-mechanisms-10999285#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/jeffrey-epstein-island-little-saint-james-epstein-files-what-happend-on-epstein-island-little-st-james-10999013#publisher=newsstand",
+    "category": "india",
+    "title": "Private Jets, Powerful Names, And Sex Offender Jeffrey Epstein's Fortress Of Silence",
+    "summary": "The main residences on Epstein's Little St James are in the north of the island. Photo: Google Maps",
+    "image": "https://c.ndtvimg.com/2026-02/dcrip6cc_little-st-james-jeffrey-epstein-island_625x300_13_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 17:38:01 +0530",
+    "link": "https://www.ndtv.com/world-news/jeffrey-epstein-island-little-saint-james-epstein-files-what-happend-on-epstein-island-little-st-james-10999013#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/india-bond-traders-seek-buybacks-as-yields-climb-despite-switch/articleshow/128305525.cms",
+    "category": "finance",
+    "title": "India bond traders seek buybacks as yields climb despite switch",
+    "summary": "Indian bond market participants say that the market will \u200bneed further support, particularly via buybacks, \u200bto cool yields significantly, after government bonds surrendered the gains \u200btriggered by a surprise debt switch.",
+    "image": "https://img.etimg.com/photo/msid-128305525,imgsize-67062.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 17:36:55 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/india-bond-traders-seek-buybacks-as-yields-climb-despite-switch/articleshow/128305525.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/exam-stress-and-suicidal-thoughts-what-parents-need-to-know-and-when-to-act-10999259#publisher=newsstand",
+    "category": "india",
+    "title": "Exam Stress And Suicidal Thoughts: What Parents Need To Know And When To Act",
+    "summary": "Image used for representative purpose only",
+    "image": "https://c.ndtvimg.com/2026-02/ohvdmalk_child-depression-freepik_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 17:32:46 +0530",
+    "link": "https://www.ndtv.com/health/exam-stress-and-suicidal-thoughts-what-parents-need-to-know-and-when-to-act-10999259#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/bnp-may-have-won-for-now-but-dont-think-jamaat-or-yunus-are-going-anywhere-10998879#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion | Bangladesh Polls: What Are Jamaat And Yunus Planning Next?",
+    "summary": "Yunus's motivations across the board indicate that he's not likely to be 'retiring' soon. This election is a quiet - and overlooked - win for the Jamaat, too.",
+    "image": "https://c.ndtvimg.com/2026-02/3e2sp28k_jamaat-afp_625x300_10_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 17:28:05 +0530",
+    "link": "https://www.ndtv.com/opinion/bnp-may-have-won-for-now-but-dont-think-jamaat-or-yunus-are-going-anywhere-10998879#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-tcs-spicejet-amp-bajaj-finance-among-6-top-movers-on-friday/slideshow/128305262.cms",
+    "category": "finance",
+    "title": "Gainers &amp; Losers: TCS, SpiceJet &amp; Bajaj Finance among 6 top movers on Friday",
+    "summary": "TCS, SpiceJet, Bajaj Finance, Wipro, HUL, Hindalco, Coforge, and Engineers India led Friday\u2019s market swings as IT, consumer, and energy stocks faced sharp volatility.",
+    "image": "https://img.etimg.com/photo/msid-128305262,imgsize-922726.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 17:27:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-tcs-spicejet-amp-bajaj-finance-among-6-top-movers-on-friday/slideshow/128305262.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/science/nasa-esa-hubble-space-telescope-captures-rare-cosmic-couple-10998663#publisher=newsstand",
+    "category": "india",
+    "title": "NASA's Hubble Space Telescope Captures Rare Cosmic Couple",
+    "summary": "Nebula M1-67 is believed to be no more than about 10,000 years old.",
+    "image": "https://c.ndtvimg.com/2026-02/kiheues4_nasa_625x300_13_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 17:25:07 +0530",
+    "link": "https://www.ndtv.com/science/nasa-esa-hubble-space-telescope-captures-rare-cosmic-couple-10998663#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/food/barbeque-nation-accused-of-illegal-service-charge-on-bill-restaurant-says-not-true-10999244#publisher=newsstand",
+    "category": "india",
+    "title": "Barbeque Nation Accused Of Illegal Service Charge On Bill, Restaurant Says Not True",
+    "summary": "Barbeque Nation said they provide a transparent, enjoyable dining experience without service charge.",
+    "image": "https://c.ndtvimg.com/2023-03/2clc03c8_barbeque_625x300_27_March_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 17:18:27 +0530",
+    "link": "https://www.ndtv.com/food/barbeque-nation-accused-of-illegal-service-charge-on-bill-restaurant-says-not-true-10999244#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/kerala-news/row-over-ldf-campaign-poster-on-oommen-chandys-tomb-cops-check-cctv-10999299#publisher=newsstand",
+    "category": "india",
+    "title": "Row Over LDF Campaign Poster On Oommen Chandy's Tomb, Cops Check CCTV",
+    "summary": "Preliminary findings suggest there may be no organised conspiracy behind the incident",
+    "image": "https://c.ndtvimg.com/2026-02/m4kjrh4g_chandy_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 17:17:24 +0530",
+    "link": "https://www.ndtv.com/kerala-news/row-over-ldf-campaign-poster-on-oommen-chandys-tomb-cops-check-cctv-10999299#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/sencos-stellar-q3-topline-growth-driven-by-gold-price-rally-likely-to-close-fy-with-8000-cr-revenue-md/articleshow/128302596.cms",
     "category": "finance",
     "title": "Senco's stellar Q3 topline growth driven by gold price rally; likely to close FY with \u20b98,000 cr revenue: MD",
@@ -100,154 +240,74 @@
     "link": "https://economictimes.indiatimes.com/markets/expert-view/sencos-stellar-q3-topline-growth-driven-by-gold-price-rally-likely-to-close-fy-with-8000-cr-revenue-md/articleshow/128302596.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/kwality-walls-listing-date-announced-as-hul-gets-trading-approval-for-demerged-entity/articleshow/128302937.cms",
-    "category": "finance",
-    "title": "Kwality Wall's listing date announced as HUL gets trading approval for demerged entity",
-    "summary": "Hindustan Unilever Ltd secured approvals from BSE and National Stock Exchange of India to list demerged ice-cream arm Kwality Wall's on February 16. Shareholders receive one share per holding, creating India\u2019s first pure-play listed ice-cream firm ba",
-    "image": "https://img.etimg.com/photo/msid-128302937,imgsize-30374.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Feb 2026 16:33:40 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/kwality-walls-listing-date-announced-as-hul-gets-trading-approval-for-demerged-entity/articleshow/128302937.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1523893.html",
+    "category": "sports",
+    "title": "Stirling-less Ireland hope the catches stick against fellow strugglers Oman",
+    "summary": "Oman won the only previous T20 World Cup meeting between the sides, back in 2016",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413150.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 13 Feb 2026 12:45:22 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523893.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/opinion/bnp-may-have-won-for-now-but-dont-think-jamaat-or-yunus-are-going-anywhere-10998879#publisher=newsstand",
-    "category": "india",
-    "title": "Opinion: Opinion | Bangladesh Polls: BNP May Have Won, But Yunus Or Jamaat Aren't Going Anywhere",
-    "summary": "Yunus's motivations across the board indicate that he's not likely to be 'retiring' soon. This election is a quiet - and overlooked - win for the Jamaat, too.",
-    "image": "https://c.ndtvimg.com/2026-02/3e2sp28k_jamaat-afp_625x300_10_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 16:12:15 +0530",
-    "link": "https://www.ndtv.com/opinion/bnp-may-have-won-for-now-but-dont-think-jamaat-or-yunus-are-going-anywhere-10998879#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1523883.html",
+    "category": "sports",
+    "title": "Kate Cross signs new Lancashire contract",
+    "summary": "Seamer considered retirement after losing England deal but has committed to another season",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413400/413445.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 13 Feb 2026 12:26:11 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523883.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/mp-police-nab-serial-thief-who-targeted-only-cops-homes-to-settle-15-year-grudge-video-10998810#publisher=newsstand",
-    "category": "india",
-    "title": "Madhya Pradesh Police Arrest Serial Thief Who Targeted Only Cops' Homes To Settle 15-Year Grudge",
-    "summary": "Deepesh admitted to a revenge-fueled spree targeting only police homes.",
-    "image": "https://c.ndtvimg.com/2026-02/jppruqtk_deepesh_625x300_13_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 16:09:33 +0530",
-    "link": "https://www.ndtv.com/offbeat/mp-police-nab-serial-thief-who-targeted-only-cops-homes-to-settle-15-year-grudge-video-10998810#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/cg7erzygx52o#0",
+    "category": "global",
+    "title": "Former SNP chief executive accused of embezzling \u00a3459,000 over 12-year period",
+    "summary": "He is accused of illicitly purchasing items including luxury goods, jewellery, cosmetics, two cars and a motorhome.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 13 Feb 2026 12:25:56 GMT",
+    "link": "https://www.bbc.com/news/articles/cg7erzygx52o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/ola-electric-q3-results-loss-narrows-yoy-to-rs-487-crore-revenue-falls-55/articleshow/128301706.cms",
-    "category": "finance",
-    "title": "Ola Electric Q3 Results: Loss narrows YoY to Rs 487 crore; revenue falls 55%",
-    "summary": "Ola Electric Q3 Results: Ola Electric narrowed Q3 losses to Rs 487 crore, with revenue down 55% to Rs 470 crore and deliveries falling to 32,680 units. The company cited a structural reset, improved operating leverage, completed capex, and a strong l",
-    "image": "https://img.etimg.com/photo/msid-128301706,imgsize-138294.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Feb 2026 16:08:18 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ola-electric-q3-results-loss-narrows-yoy-to-rs-487-crore-revenue-falls-55/articleshow/128301706.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1523698.html",
+    "category": "sports",
+    "title": "Riyan Parag named Rajasthan Royals' new captain",
+    "summary": "Parag has led them before, in IPL 2025, but will take over full time now after Samson's trade to CSK",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/380900/380978.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 13 Feb 2026 12:22:56 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523698.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/world-news/bangladesh-elections-2026-tarique-rahman-bnp-what-went-wrong-for-hardline-jamaat-e-islami-in-bangladesh-elections-10997550#publisher=newsstand",
-    "category": "india",
-    "title": "What Went Wrong For Hardline Jamaat-E-Islami In Bangladesh Elections",
-    "summary": "For Jamaat, the result represented a sharp reversal of expectations.",
-    "image": "https://c.ndtvimg.com/2026-02/qj6aanuo_bangladesh-elections_625x300_12_February_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 16:04:45 +0530",
-    "link": "https://www.ndtv.com/world-news/bangladesh-elections-2026-tarique-rahman-bnp-what-went-wrong-for-hardline-jamaat-e-islami-in-bangladesh-elections-10997550#publisher=newsstand"
+    "id": "https://www.bbc.com/news/videos/c4gj39dprkno#0",
+    "category": "global",
+    "title": "Watch SpaceX rocket blast off to International Space Station",
+    "summary": "Watch moment Falcon 9 rocket blasts off to International Space Station",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 13 Feb 2026 12:09:52 GMT",
+    "link": "https://www.bbc.com/news/videos/c4gj39dprkno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/pmo-prime-ministers-office-from-seva-teerth-pm-modi-clears-big-ticket-welfare-push-for-women-farmers-10998806#publisher=newsstand",
-    "category": "india",
-    "title": "From Seva Teerth, PM Modi Clears Big-Ticket Welfare Push For Women, Farmers",
-    "summary": "The PM also approved the Startup India Fund of Funds 2.0 with a corpus of Rs 10,000 crore.",
-    "image": "https://c.ndtvimg.com/2026-02/dvmjlr6s_modi-seva-teerth_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 15:56:15 +0530",
-    "link": "https://www.ndtv.com/india-news/pmo-prime-ministers-office-from-seva-teerth-pm-modi-clears-big-ticket-welfare-push-for-women-farmers-10998806#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1523879.html",
+    "category": "sports",
+    "title": "NZ and SA look ahead to Super Eights in low-pressure contest",
+    "summary": "It will be the teams' first meeting in a T20 World Cup since 2014",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413322.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 13 Feb 2026 12:07:04 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1523879.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-nearly-flat-modest-depreciation-bias-lingers/articleshow/128300596.cms",
-    "category": "finance",
-    "title": "Rupee closes nearly flat, modest depreciation bias lingers",
-    "summary": "The Indian rupee was \u200blittle changed on Friday \u200bas pressure from weak local stocks and elevated interbank \u200bdollar demand met likely central bank intervention to defend the currency, traders said.",
-    "image": "https://img.etimg.com/photo/msid-128300596,imgsize-1252744.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Feb 2026 15:41:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-nearly-flat-modest-depreciation-bias-lingers/articleshow/128300596.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/world-radio-day-2026-history-significance-and-theme-of-the-day-10998600#publisher=newsstand",
-    "category": "india",
-    "title": "World Radio Day 2026: History, Significance And Theme Of The Day",
-    "summary": "The global event is observed every year on February 13.",
-    "image": "https://c.ndtvimg.com/2026-02/3h3oqk9s_world-radio-day-2026_625x300_13_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 15:40:18 +0530",
-    "link": "https://www.ndtv.com/offbeat/world-radio-day-2026-history-significance-and-theme-of-the-day-10998600#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/iit-jam-2026-last-minute-preparation-strategy-to-maximise-your-score-10998702#publisher=newsstand",
-    "category": "india",
-    "title": "IIT JAM 2026: Last-Minute Preparation Strategy To Maximise Your Score",
-    "summary": "IIT JAM 2026 Preparation Enters Crucial Final Phase",
-    "image": "https://c.ndtvimg.com/2026-01/a4d10ruo_-iit-jam-2026_625x300_28_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 15:39:40 +0530",
-    "link": "https://www.ndtv.com/education/iit-jam-2026-last-minute-preparation-strategy-to-maximise-your-score-10998702#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/chief-of-defence-staff-anil-chauhan-on-why-nehru-wanted-panchsheel-agreement-with-china-10998367#publisher=newsstand",
-    "category": "india",
-    "title": "Chief Of Defence Staff On Why Nehru Wanted Panchsheel Agreement With China",
-    "summary": "Chief of Defence Staff General Anil Chauhan speaks at an event in Uttarakhand's Dehradun",
-    "image": "https://c.ndtvimg.com/2026-02/vqfob8hg_chief-of-defence-staff-nehru-special-image_650x400_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 15:39:30 +0530",
-    "link": "https://www.ndtv.com/india-news/chief-of-defence-staff-anil-chauhan-on-why-nehru-wanted-panchsheel-agreement-with-china-10998367#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-slip-as-ai-disruption-worries-mixed-earnings-weigh/articleshow/128300305.cms",
-    "category": "finance",
-    "title": "Global Markets | European shares slip as AI-disruption worries, mixed earnings weigh",
-    "summary": "European shares slipped on Friday, tracking a sombre global mood as uncertainties \u200cabout artificial intGlobal Markets | European shares slip as AI-disruption worries, mixed earnings weigh lligence-related \u2060disruptions \u2060persisted, while investors also",
-    "image": "https://img.etimg.com/photo/msid-128300305,imgsize-10428.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Feb 2026 15:36:24 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-slip-as-ai-disruption-worries-mixed-earnings-weigh/articleshow/128300305.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/shoaib-bobby-barabanki-shooting-ex-shooter-of-dreaded-mukhtar-ansari-gang-shot-dead-15-bullets-fired-at-car-10998665#publisher=newsstand",
-    "category": "india",
-    "title": "Ex Shooter Of Dreaded Mukhtar Ansari Gang Shot Dead, 15 Bullets Fired At Car",
-    "summary": "Shoaib Bobby had been identified as a shooter for the Ansari gang.",
-    "image": "https://c.ndtvimg.com/2026-02/kc5p5jh4_mukhtar-ansari-shooter-_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 15:32:57 +0530",
-    "link": "https://www.ndtv.com/india-news/shoaib-bobby-barabanki-shooting-ex-shooter-of-dreaded-mukhtar-ansari-gang-shot-dead-15-bullets-fired-at-car-10998665#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-spicejet-tcs-share-price-13-february-2026/liveblog/128283773.cms",
-    "category": "finance",
-    "title": "Market Highlights: Sensex settles 1,048 pts lower, Nifty below 25,500; HUL, Eternal drop 4% each",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-128283773,imgsize-610076.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Feb 2026 15:11:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-spicejet-tcs-share-price-13-february-2026/liveblog/128283773.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/axis-direct-names-hcl-tech-coforge-among-4-conviction-buys-with-up-to-67-upside-bharti-airtel-a-telecom-favourite/slideshow/128299839.cms",
-    "category": "finance",
-    "title": "\u200bAxis Direct names HCL Tech, Coforge among 4 conviction buys with up to 67% upside; Bharti Airtel a telecom favourite\u200b",
-    "summary": "Despite a sharp IT selloff, Axis Direct backs HCL Technologies, Tech Mahindra, Persistent Systems, Coforge, and Bharti Airtel, citing strong deal wins, AI momentum, and earnings growth, projecting up to 67% upside across these conviction buys.",
-    "image": "https://img.etimg.com/photo/msid-128299417,imgsize-902652.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Feb 2026 15:09:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-direct-names-hcl-tech-coforge-among-4-conviction-buys-with-up-to-67-upside-bharti-airtel-a-telecom-favourite/slideshow/128299839.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/paraskevidekatriaphobia-is-friday-the-13th-really-cursed-for-indian-stock-market/articleshow/128297037.cms",
-    "category": "finance",
-    "title": "Paraskevidekatriaphobia! Is Friday the 13th really cursed for Indian stock market?",
-    "summary": "Historical data debunks the Friday-the-13th myth on Dalal Street. The Indian market closed higher in 9 of the last 16 such sessions (56.25%). Gains were notable at times: Nifty 50 jumped 4% on March 13, 2020, and rose about 1% on September 13 and Dec",
-    "image": "https://img.etimg.com/photo/msid-128297037,imgsize-2953951.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Feb 2026 14:20:24 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/paraskevidekatriaphobia-is-friday-the-13th-really-cursed-for-indian-stock-market/articleshow/128297037.cms"
+    "id": "https://www.bbc.com/news/videos/c20jepq911zo#0",
+    "category": "global",
+    "title": "Watch: How Andrew's BBC interview compares to what Epstein emails tell us now",
+    "summary": "Following the latest release of the Epstein files, claims made by the then Prince Andrew in 2019 are under fresh scrutiny.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 13 Feb 2026 11:31:06 GMT",
+    "link": "https://www.bbc.com/news/videos/c20jepq911zo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c99jxryd9xko#0",
@@ -256,7 +316,7 @@
     "summary": "The US Secretary of State will address the first major transatlantic meeting since Donald Trump threatened to annex Greenland.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 13 Feb 2026 11:04:40 GMT",
+    "pubDate": "Fri, 13 Feb 2026 11:30:49 GMT",
     "link": "https://www.bbc.com/news/articles/c99jxryd9xko?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -320,26 +380,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1523802.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523814.html",
-    "category": "sports",
-    "title": "Uncapped Topping replaces injured Stirling in Ireland squad for rest of the T20 World Cup",
-    "summary": "Paul Stirling hurt his right knee while diving to take a catch during Ireland's previous T20 World Cup game against Australia",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413400/413412.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 13 Feb 2026 06:41:58 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523814.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c1e98djqx9do#0",
-    "category": "global",
-    "title": "My brave son has a unique heart - he's been battling since the day he was born",
-    "summary": "Around 13 children a day are born with heart conditions in the UK, but Chester's mum says she assumed only older people were affected.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 13 Feb 2026 06:25:16 GMT",
-    "link": "https://www.bbc.com/news/articles/c1e98djqx9do?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/clym0g4rlr2o#0",
     "category": "global",
     "title": "'My husband stole \u00a3600k for sex and antiques' - medication side effects tearing families apart",
@@ -348,45 +388,5 @@
     "source": "BBC",
     "pubDate": "Fri, 13 Feb 2026 06:02:40 GMT",
     "link": "https://www.bbc.com/news/articles/clym0g4rlr2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523804.html",
-    "category": "sports",
-    "title": "Australia bring in David and Dwarshuis, ask Zimbabwe to bat",
-    "summary": "Brendan Taylor, the Zimbabwe veteran, has been ruled out of the remainder of the T20 World Cup because of a hamstring injury",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/405100/405180.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 13 Feb 2026 05:37:10 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523804.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523790.html",
-    "category": "sports",
-    "title": "One-Day Cup final moved to ensure Tasmania can host",
-    "summary": "The match had been caught in a scheduling squeeze with Hobart staging two ODIs in three days",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/409200/409290.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 13 Feb 2026 04:34:14 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523790.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1523698.html",
-    "category": "sports",
-    "title": "Riyan Parag set to be named Rajasthan Royals' new captain",
-    "summary": "Parag has led them before, in IPL 2025, but will take over full time now after Samson's trade to CSK",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/380900/380978.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 13 Feb 2026 04:21:55 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1523698.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cj0np329lmeo#0",
-    "category": "global",
-    "title": "BBC confronts romance scammer who was back on dating app days after jail release",
-    "summary": "An undercover reporter catches a serial fraudster back on a dating app days after leaving jail.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 13 Feb 2026 02:22:14 GMT",
-    "link": "https://www.bbc.com/news/articles/cj0np329lmeo?at_medium=RSS&at_campaign=rss"
   }
 ]
