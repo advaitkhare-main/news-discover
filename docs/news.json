@@ -30,14 +30,34 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/india-news/lodha-developers-ex-director-arrested-in-rs-85-crore-money-laundering-case-10996220#publisher=newsstand",
-    "category": "india",
-    "title": "Lodha Developers' Ex-Director Arrested In Rs 85-Crore Money Laundering Case",
-    "summary": "Rajendra Lodha, former director of the Lodha Developers Limited, was arrested by the Enforcement Directorate on Thursday in connection with an alleged Rs 85-crore money laundering case linked to suspected fraudulent land and financial transactions.",
-    "image": "https://c.ndtvimg.com/2023-05/mimpskgg_enforcement-directorate-generic-ani-ed-generic-ani_625x300_03_May_23.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Feb 2026 23:59:20 +0530",
-    "link": "https://www.ndtv.com/india-news/lodha-developers-ex-director-arrested-in-rs-85-crore-money-laundering-case-10996220#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/c0rjg9ddgkqo#0",
+    "category": "global",
+    "title": "Victims of shootings in Canada named by police",
+    "summary": "Eight people were killed, ranging in age from 11 to 39, with 25 people \ninjured in the shootings at a school and a home.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Feb 2026 23:42:50 GMT",
+    "link": "https://www.bbc.com/news/articles/c0rjg9ddgkqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cd03z3gerx9o#0",
+    "category": "global",
+    "title": "'We warned nursery about abuser Vincent Chan - they dismissed us,' parents tell BBC",
+    "summary": "The parents of two children who say they warned nursery staff about Chan tell the BBC they felt ignored.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Feb 2026 23:27:29 GMT",
+    "link": "https://www.bbc.com/news/articles/cd03z3gerx9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvg8xjm8932o#0",
+    "category": "global",
+    "title": "Analysis: Trump takes victory lap after biggest climate rollback yet",
+    "summary": "The move marks the culmination of a decade-long push by the president to tear up climate policies he argues stifle industry.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Feb 2026 23:12:49 GMT",
+    "link": "https://www.bbc.com/news/articles/cvg8xjm8932o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cp9mz34184po#0",
@@ -48,96 +68,6 @@
     "source": "BBC",
     "pubDate": "Thu, 12 Feb 2026 22:28:50 GMT",
     "link": "https://www.bbc.com/news/articles/cp9mz34184po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-adrs-plunge-over-7-wipro-down-5-as-tech-turbulence-deepens-on-wall-street/articleshow/128267209.cms",
-    "category": "finance",
-    "title": "Infosys ADRs plunge over 7%, Wipro down 5% as tech turbulence deepens on Wall Street",
-    "summary": "Infosys\u2019 American Depositary Receipts (ADRs) slumped more than 7% on Thursday, touching an intraday low of $14.59 in early trade, while Wipro\u2019s ADRs fell 5.4% to $2.26. The sharp decline follows a steep sell-off in IT stocks on Indian exchanges, with",
-    "image": "https://img.etimg.com/photo/msid-128267209,imgsize-638762.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Feb 2026 21:58:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-adrs-plunge-over-7-wipro-down-5-as-tech-turbulence-deepens-on-wall-street/articleshow/128267209.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/infosys-adrs-plunge-over-7-wipro-down-5-as-tech-turbulence-deepens-on-wall-street/articleshow/128267167.cms",
-    "category": "finance",
-    "title": "Infosys ADRs plunge over 7%, Wipro down 5% as tech turbulence deepens on Wall Street",
-    "summary": "Infosys\u2019 American Depositary Receipts (ADRs) slumped more than 7% on Thursday, touching an intraday low of $14.59 in early trade, while Wipro\u2019s ADRs fell 5.4% to $2.26. The sharp decline follows a steep sell-off in IT stocks on Indian exchanges, with",
-    "image": "https://img.etimg.com/photo/msid-128267167,imgsize-638762.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Feb 2026 21:58:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/infosys-adrs-plunge-over-7-wipro-down-5-as-tech-turbulence-deepens-on-wall-street/articleshow/128267167.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/128267003.cms",
-    "category": "finance",
-    "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
-    "summary": "Market sentiment weakened amid heavy IT selling and strong US jobs data dampening rate-cut hopes. Nifty struggled near 26,000 and may consolidate between 25,500 and 26,000. Analysts advise selective stock picking, with buying interest in select count",
-    "image": "https://img.etimg.com/photo/msid-128267003,imgsize-110642.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Feb 2026 21:52:15 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/128267003.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-burger-king-parent-beats-sales-estimates-on-international-demand-value-push/articleshow/128266676.cms",
-    "category": "finance",
-    "title": "US Stocks: Burger King-parent beats sales estimates on international demand, value push",
-    "summary": "Restaurant Brands International reported fourth-quarter sales \u200babove estimates on Thursday, driven by \u200bstrength in its international Burger King outlets, even as it \u200btackles stiff competition for its value menus and higher commodity costs in the Unit",
-    "image": "https://img.etimg.com/photo/msid-128266676,imgsize-106630.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Feb 2026 21:41:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-burger-king-parent-beats-sales-estimates-on-international-demand-value-push/articleshow/128266676.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-ai-cloud-firm-nebius-posts-surge-in-capex-on-gpu-data-center-expenses/articleshow/128266491.cms",
-    "category": "finance",
-    "title": "US Stocks: AI cloud firm Nebius posts surge in capex on GPU, data center expenses",
-    "summary": "Nebius Group reported a sharp rise \u200bin quarterly capital spending on Thursday, \u200bdriven by purchases of artificial intelligence processors and growing \u200bdata center investments, as the AI cloud firm rushes to secure capacity to meet soaring demand.",
-    "image": "https://img.etimg.com/photo/msid-128266491,imgsize-237032.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Feb 2026 21:38:02 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-ai-cloud-firm-nebius-posts-surge-in-capex-on-gpu-data-center-expenses/articleshow/128266491.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwygxz81330o#0",
-    "category": "global",
-    "title": "Iran fortifies underground complex near nuclear site, satellite images show",
-    "summary": "The activity comes at a time of heightened tensions as talks between Iranian and US officials continue over Iran's nuclear programme.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Feb 2026 21:27:28 GMT",
-    "link": "https://www.bbc.com/news/articles/cwygxz81330o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/spicejet-q3-results-company-slips-to-loss-of-rs-261-crore-despite-14-revenue-jump/articleshow/128266081.cms",
-    "category": "finance",
-    "title": "SpiceJet Q3 Results: Company slips to loss of Rs 261 crore despite 14% revenue jump",
-    "summary": "Budget carrier SpiceJet reported a consolidated net loss of Rs 261.38 crore in the December-ended quarter compared to a net profit of Rs 20.43 crore in the year ago period. The profit after tax (PAT) is attributable to the owners of the holding compa",
-    "image": "https://img.etimg.com/photo/msid-128266081,imgsize-39400.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Feb 2026 21:25:01 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/spicejet-q3-results-company-slips-to-loss-of-rs-261-crore-despite-14-revenue-jump/articleshow/128266081.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-posts-q3-revenue-of-rs-2842-crore-pat-at-rs-954-crore/articleshow/128265642.cms",
-    "category": "finance",
-    "title": "IHCL posts Q3 revenue of Rs 2,842 crore, PAT at Rs 954 crore",
-    "summary": "Tata Group-backed IHCL reported strong Q3 growth with higher revenue and net profit, aided by exceptional gains and robust hotel performance. The company marked its fifteenth straight record quarter, expanded its portfolio to 617 hotels and maintaine",
-    "image": "https://img.etimg.com/photo/msid-128265642,imgsize-6286.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Feb 2026 21:12:39 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-posts-q3-revenue-of-rs-2842-crore-pat-at-rs-954-crore/articleshow/128265642.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-raises-fy26-growth-view-after-profit-surge/articleshow/128265454.cms",
-    "category": "finance",
-    "title": "Muthoot Finance raises FY26 growth view after profit surge",
-    "summary": "Muthoot Finance lifted its FY26 growth guidance to 44\u201345% as strong gold loan demand and regulatory easing boosted momentum. Q3 standalone profit nearly doubled, aided by lower provisions and higher income. Assets under management and gold loans post",
-    "image": "https://img.etimg.com/photo/msid-128265454,imgsize-13062.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Feb 2026 21:10:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-raises-fy26-growth-view-after-profit-surge/articleshow/128265454.cms"
   },
   {
     "id": "https://www.bbc.com/news/articles/c2k809vnx0yo#0",
@@ -190,16 +120,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1523740.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c14mlrd460vo#0",
-    "category": "global",
-    "title": "Aberdeen finally sees sunshine after 21 days of gloom",
-    "summary": "The last reported sunshine had been on 21 January - the longest sunless period since records began in 1957.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Feb 2026 19:01:41 GMT",
-    "link": "https://www.bbc.com/news/articles/c14mlrd460vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1523735.html",
     "category": "sports",
     "title": "Manenti: Hopefully the game grows big enough in Italy that we can play full-time",
@@ -220,16 +140,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1523724.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cd6zvlywz77o#0",
-    "category": "global",
-    "title": "Ratcliffe sorry language 'offended some' after immigration comments",
-    "summary": "The Manchester United co-owner previously said the UK had been \"colonised\" by immigrants.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Feb 2026 18:02:52 GMT",
-    "link": "https://www.bbc.com/news/articles/cd6zvlywz77o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c3wlqy6695do#0",
     "category": "global",
     "title": "Sir Chris Wormald forced out as head of Civil Service",
@@ -238,16 +148,6 @@
     "source": "BBC",
     "pubDate": "Thu, 12 Feb 2026 18:01:33 GMT",
     "link": "https://www.bbc.com/news/articles/c3wlqy6695do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cd03z3gerx9o#0",
-    "category": "global",
-    "title": "'We warned nursery about abuser Vincent Chan - they dismissed us,' parents tell BBC",
-    "summary": "The parents of two children who say they warned nursery staff about Chan tell the BBC they felt ignored.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Feb 2026 17:33:19 GMT",
-    "link": "https://www.bbc.com/news/articles/cd03z3gerx9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1523622.html",
@@ -320,73 +220,173 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
-    "id": "https://www.ndtv.com/world-news/what-is-going-on-with-iran-us-talks-10996503#publisher=newsstand",
-    "category": "india",
-    "title": "What Is Going On With Iran-US Talks?",
-    "summary": "Abbas Araghchi on February 6 held talks in Oman with US envoy Steve Witkoff.",
-    "image": "https://c.ndtvimg.com/2026-02/dchdo9ec_us-iran-talks_625x300_13_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 02:13:01 +0530",
-    "link": "https://www.ndtv.com/world-news/what-is-going-on-with-iran-us-talks-10996503#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-philip-fisher-the-stock-market-is-filled-with-individuals-who-know-the-price-of-everything-but-the-value-of-nothing/articleshow/128257513.cms",
+    "category": "finance",
+    "title": "Market quote of the day by Philip Fisher | \u201cThe stock market is filled with individuals who know the price of everything",
+    "summary": "Philip Fisher's timeless advice highlights the market's tendency to prioritize stock prices over intrinsic value. In volatile times, understanding a business's fundamentals\u2014growth, balance sheet, management, and competitive advantages\u2014is crucial. Thi",
+    "image": "https://img.etimg.com/photo/msid-128257513,imgsize-18794.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 07:00:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-philip-fisher-the-stock-market-is-filled-with-individuals-who-know-the-price-of-everything-but-the-value-of-nothing/articleshow/128257513.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/donald-trump-warns-iran-of-very-traumatic-outcome-if-no-nuclear-deal-10996434#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128282847.cms",
+    "category": "finance",
+    "title": "GIFT Nifty down 130 points; here's the trading setup for today's session",
+    "summary": "Indian markets are poised for a range-bound trading session with a focus on individual stock performance as the Q3 earnings season concludes. Investors will monitor global and domestic inflation, trade developments, and FII flows, while AI-related di",
+    "image": "https://img.etimg.com/photo/msid-128282847,imgsize-88221.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 06:47:29 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128282847.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-spicejet-tcs-infosys-coal-india-hindalco/articleshow/128282709.cms",
+    "category": "finance",
+    "title": "Stocks in news: SpiceJet, TCS, Infosys, Coal India, Hindalco",
+    "summary": "Indian markets closed lower on Thursday due to a sharp correction in IT stocks. Despite supportive global and domestic factors, the IT pack's weakness temporarily impacted investor sentiment. Analysts suggest limited downside potential due to strengt",
+    "image": "https://img.etimg.com/photo/msid-128282709,imgsize-54812.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 06:40:02 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-spicejet-tcs-infosys-coal-india-hindalco/articleshow/128282709.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/asian-stocks-drop-after-ai-jitters-hit-wall-street/articleshow/128282536.cms",
+    "category": "finance",
+    "title": "Global Market Today: Asian stocks drop after AI jitters hit Wall Street",
+    "summary": "Asian markets saw a dip from record highs. Concerns over artificial intelligence's impact on technology sectors caused a sell-off in US stocks. Investors sought safety in US Treasuries. Despite this, early Asian trading showed signs of stabilization.",
+    "image": "https://img.etimg.com/photo/msid-128282536,imgsize-198284.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 06:31:49 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/asian-stocks-drop-after-ai-jitters-hit-wall-street/articleshow/128282536.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/mother-4-others-arrested-for-murder-of-dehradun-businessman-10996846#publisher=newsstand",
     "category": "india",
-    "title": "Trump Warns Iran Of \"Very Traumatic\" Outcome If No Nuclear Deal",
-    "summary": "Trump threatened Iran Thursday with \"very traumatic\" consequences if it fails to make a nuclear deal.",
-    "image": "https://c.ndtvimg.com/2026-02/i9el1194_donald-trump_625x300_04_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Mother, 4 Others Arrested For Murder Of Dehradun Businessman",
+    "summary": "According to officials, the motive behind killing was a long-standing property dispute.(Representational)",
+    "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 01:42:17 +0530",
-    "link": "https://www.ndtv.com/world-news/donald-trump-warns-iran-of-very-traumatic-outcome-if-no-nuclear-deal-10996434#publisher=newsstand"
+    "pubDate": "Fri, 13 Feb 2026 06:26:55 +0530",
+    "link": "https://www.ndtv.com/india-news/mother-4-others-arrested-for-murder-of-dehradun-businessman-10996846#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/unilever-profit-rises-but-warns-of-slowing-markets/articleshow/128282405.cms",
+    "category": "finance",
+    "title": "Unilever profit rises, but warns of 'slowing markets'",
+    "summary": "Unilever reported a modest annual profit increase after spinning off its ice cream division, including Ben &amp; Jerry's. The company's net profit from retained brands rose 4.6% to $6.8 billion last year. Despite anticipating slower market conditions",
+    "image": "https://img.etimg.com/photo/msid-128282405,imgsize-53126.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 06:25:03 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/unilever-profit-rises-but-warns-of-slowing-markets/articleshow/128282405.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-net-jumps-over-50-in-q3-new-businesses-boost-revenue/articleshow/128282343.cms",
+    "category": "finance",
+    "title": "IHCL net jumps over 50% in Q3, new businesses boost revenue",
+    "summary": "Indian Hotels Company (IHCL) reported a 51% surge in third-quarter net profit to \u20b9954 crore, driven by a 12% revenue increase to \u20b92,842 crore. This marks the fifteenth consecutive quarter of record performance, with Ebitda reaching \u20b91,134 crore. The ",
+    "image": "https://img.etimg.com/photo/msid-128282343,imgsize-6620.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 06:21:56 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-net-jumps-over-50-in-q3-new-businesses-boost-revenue/articleshow/128282343.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/exceptional-gains-prop-up-hul-q3-net-margins-yet-to-find-sweet-spot/articleshow/128282283.cms",
+    "category": "finance",
+    "title": "Exceptional gains prop up HUL Q3 net, margins yet to find sweet spot",
+    "summary": "Hindustan Unilever saw a 6% sales increase in the December quarter. Easing food inflation and supportive policies boosted consumer demand. However, input costs and currency fluctuations affected profit margins. The company plans for stronger growth n",
+    "image": "https://img.etimg.com/photo/msid-128282283,imgsize-100206.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 06:19:16 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/exceptional-gains-prop-up-hul-q3-net-margins-yet-to-find-sweet-spot/articleshow/128282283.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/bangladesh-election-2026-bangladesh-election-results-live-tarique-rahman-jamaat-e-islami-bnp-has-edge-over-jamaat-as-bangladesh-poll-results-trickle-i-10996279#publisher=newsstand",
+    "category": "india",
+    "title": "BNP Has Edge Over Jamaat As Bangladesh Poll Results Trickle In: 10 Points",
+    "summary": "India is watching the election closely because of its potential impact on New Delhi's ties with Dhaka",
+    "image": "https://c.ndtvimg.com/2026-02/4kpbebp_tarique-rahman-shafiqur-yunus_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 06:15:20 +0530",
+    "link": "https://www.ndtv.com/world-news/bangladesh-election-2026-bangladesh-election-results-live-tarique-rahman-jamaat-e-islami-bnp-has-edge-over-jamaat-as-bangladesh-poll-results-trickle-i-10996279#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/accor-interglobe-weigh-ipo-for-joint-hospitality-venture/articleshow/128282189.cms",
+    "category": "finance",
+    "title": "Accor, InterGlobe weigh IPO for joint hospitality venture",
+    "summary": "Accor and InterGlobe are exploring public markets for their joint hotel venture. The companies aim to open 300 hotels by 2030. This new platform will involve owning and operating assets. India's market shows strong growth potential. Accor achieved re",
+    "image": "https://img.etimg.com/photo/msid-128282189,imgsize-28648.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Feb 2026 06:14:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/accor-interglobe-weigh-ipo-for-joint-hospitality-venture/articleshow/128282189.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/barack-obama-says-trump-climate-repeal-leaves-americans-less-safe-less-healthy-10996824#publisher=newsstand",
+    "category": "india",
+    "title": "Obama Says Trump Climate Repeal Leaves Americans \"Less Safe, Less Healthy\"",
+    "summary": "Barack Obama criticised Donald Trump's decision to repeal the EPA's endangerment finding.",
+    "image": "https://c.ndtvimg.com/2025-07/2b9g4t1c_barack-obama_625x300_28_July_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Feb 2026 06:08:29 +0530",
+    "link": "https://www.ndtv.com/world-news/barack-obama-says-trump-climate-repeal-leaves-americans-less-safe-less-healthy-10996824#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/bangladeshs-bnp-wins-historic-parliamentary-election-10996400#publisher=newsstand",
     "category": "india",
     "title": "Bangladesh TV Channels Show BNP Leading As Vote Counting Continues",
-    "summary": "The Bangladesh Nationalist Party crossed the halfway mark to win the parliamentary election on Friday, a local TV station showed, as ballots were counted in a pivotal vote that is expected to restore political stability.",
+    "summary": "Bangladesh Elections: Opinion polls had given BNP an edge and the party lived up to the forecasts.",
     "image": "https://c.ndtvimg.com/2026-02/4q23t06c_bangladesh-elections_625x300_13_February_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 01:38:23 +0530",
+    "pubDate": "Fri, 13 Feb 2026 05:53:53 +0530",
     "link": "https://www.ndtv.com/world-news/bangladeshs-bnp-wins-historic-parliamentary-election-10996400#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/in-atmnirbhar-push-assam-rifles-to-induct-indian-dog-breeds-in-its-squad-10994968#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/us-taiwan-finalise-deal-to-cut-tariffs-boost-purchases-of-american-goods-10996809#publisher=newsstand",
     "category": "india",
-    "title": "In 'Atmnirbhar' Push, Assam Rifles To Induct Indian Dog Breeds In Its Squad",
-    "summary": "The Union Ministry of Home Affairs also issued a directive in this regard last year.",
-    "image": "https://c.ndtvimg.com/2023-05/t2mr8hp_assam-rifles-manipur_625x300_15_May_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "US, Taiwan Finalise Deal To Cut Tariffs, Boost Purchases Of American Goods",
+    "summary": "Taiwan President said that it will optimize the TaiwanUS economic and trade framework.",
+    "image": "https://c.ndtvimg.com/2026-02/b8v63tgs_us-taiwan-trade_625x300_13_February_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 00:28:49 +0530",
-    "link": "https://www.ndtv.com/india-news/in-atmnirbhar-push-assam-rifles-to-induct-indian-dog-breeds-in-its-squad-10994968#publisher=newsstand"
+    "pubDate": "Fri, 13 Feb 2026 05:50:09 +0530",
+    "link": "https://www.ndtv.com/world-news/us-taiwan-finalise-deal-to-cut-tariffs-boost-purchases-of-american-goods-10996809#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/have-you-filed-this-for-media-publicity-sc-refuses-to-entertain-jairam-ramesh-plea-on-ex-post-facto-clearances-10993975#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/bangladesh-election-2026-live-updates-bangladesh-polls-voting-bangladesh-election-results-bnp-tarique-rahman-jamaat-muhammad-yunus-sheikh-hasina-10987418#publisher=newsstand",
     "category": "india",
-    "title": "'Have you filed this for media publicity?': SC refuses to entertain Jairam Ramesh plea on ex\u2011post facto clearances",
-    "summary": "In November last year, a three-judge Bench had allowed a review petition.",
-    "image": "https://c.ndtvimg.com/2024-12/of1bmp2_jairam-ramesh-on-one-nation-one-election-bill-_625x300_17_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Bangladesh Election 2026 LIVE: Early Counting Shows BNP Ahead Of Jamaat In Elections",
+    "summary": "Bangladesh General Election 2026: The election and referendum in Bangladesh saw over 55% voter turnout",
+    "image": "https://c.ndtvimg.com/2026-02/d0csneso_bangladesh-afp_625x300_12_February_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 00:22:13 +0530",
-    "link": "https://www.ndtv.com/india-news/have-you-filed-this-for-media-publicity-sc-refuses-to-entertain-jairam-ramesh-plea-on-ex-post-facto-clearances-10993975#publisher=newsstand"
+    "pubDate": "Fri, 13 Feb 2026 05:44:19 +0530",
+    "link": "https://www.ndtv.com/world-news/bangladesh-election-2026-live-updates-bangladesh-polls-voting-bangladesh-election-results-bnp-tarique-rahman-jamaat-muhammad-yunus-sheikh-hasina-10987418#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/2-661-indian-fishermen-repatriated-from-pakistan-since-2014-centre-10996254#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/macron-wants-answers-on-french-diplomat-in-epstein-files-10996363#publisher=newsstand",
     "category": "india",
-    "title": "2,661 Indian Fishermen Repatriated From Pakistan Since 2014: Centre",
-    "summary": "There are 183 Indian fishermen whose sentences are complete",
-    "image": "https://c.ndtvimg.com/ip1hsfag_fishermen-generic-pixabay-650_625x300_01_August_18.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "\"Unacceptable\": Macron Wants Answers On French Diplomat In Epstein Files",
+    "summary": "Macron on Thursday said \"something should have been done\" earlier about a French diplomat.",
+    "image": "https://c.ndtvimg.com/2024-01/lugjj9eg_emmanuel-macron-afp_625x300_25_January_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 00:09:28 +0530",
-    "link": "https://www.ndtv.com/india-news/2-661-indian-fishermen-repatriated-from-pakistan-since-2014-centre-10996254#publisher=newsstand"
+    "pubDate": "Fri, 13 Feb 2026 05:37:53 +0530",
+    "link": "https://www.ndtv.com/world-news/macron-wants-answers-on-french-diplomat-in-epstein-files-10996363#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/woman-kills-mother-in-her-sleep-after-astrologers-black-magic-claims-10996232#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/trump-says-he-will-meet-china-president-xi-jinping-in-april-10996767#publisher=newsstand",
     "category": "india",
-    "title": "Woman Kills Mother In Her Sleep After Astrologer's \"Black Magic\" Claims",
-    "summary": "A murder case has been registered at the Kyatsandra Police Station.",
-    "image": "https://c.ndtvimg.com/2026-02/uf3bkm9s_karnataka-black-magic_625x300_13_February_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Trump Says He Will Meet China President Xi Jinping In April",
+    "summary": "In a recent interview with NBC News' Tom Llamas, Trump said that he would visit China in April.",
+    "image": "https://c.ndtvimg.com/2025-08/kitk9bnk_trump-xi-jinping-_625x300_16_August_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 13 Feb 2026 00:04:00 +0530",
-    "link": "https://www.ndtv.com/india-news/woman-kills-mother-in-her-sleep-after-astrologers-black-magic-claims-10996232#publisher=newsstand"
+    "pubDate": "Fri, 13 Feb 2026 05:16:40 +0530",
+    "link": "https://www.ndtv.com/world-news/trump-says-he-will-meet-china-president-xi-jinping-in-april-10996767#publisher=newsstand"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c20znqe2yqlo#0",
+    "category": "global",
+    "title": "Can a pulse of electricity to the brain make us less selfish?",
+    "summary": "Scientists have discovered how to make people less selfish - slightly and temporarily - by stimulating two areas of the brain.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 13 Feb 2026 00:06:02 GMT",
+    "link": "https://www.bbc.com/news/articles/c20znqe2yqlo?at_medium=RSS&at_campaign=rss"
   }
 ]
