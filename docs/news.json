@@ -30,9 +30,39 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/india-news/how-bharatgen-is-building-indias-sovereign-ai-future-11004972#publisher=newsstand",
+    "category": "india",
+    "title": "How BharatGen Is Building India's Sovereign AI Future",
+    "summary": "One of BharatGen's most distinctive features is how it treats Indian languages",
+    "image": "https://c.ndtvimg.com/2026-02/nrujiank_bharat-gen-_625x300_14_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sun, 15 Feb 2026 07:10:19 +0530",
+    "link": "https://www.ndtv.com/india-news/how-bharatgen-is-building-indias-sovereign-ai-future-11004972#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/pm-narendra-modi-receives-invite-for-bnp-chairman-tarique-rahman-oath-ceremony-on-february-17-bangladesh-general-elections-bangladesh-new-pm-11005522#publisher=newsstand",
+    "category": "india",
+    "title": "PM Modi Receives Invite For Tarique Rahman's Oath Ceremony On February 17",
+    "summary": "India's invitation carries particular weight, given Dhaka-New Delhi ties",
+    "image": "https://c.ndtvimg.com/2026-02/refcccdg_pm-modi-rahman_625x300_15_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sun, 15 Feb 2026 06:59:59 +0530",
+    "link": "https://www.ndtv.com/world-news/pm-narendra-modi-receives-invite-for-bnp-chairman-tarique-rahman-oath-ceremony-on-february-17-bangladesh-general-elections-bangladesh-new-pm-11005522#publisher=newsstand"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1524141.html",
+    "category": "sports",
+    "title": "Law's message to Nepal players: 'Put social media away, do your cricket'",
+    "summary": "Nepal coach said the manner in which they went down to Italy four days after running England close showed they lacked \"mental toughness\"",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413120.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 15 Feb 2026 01:45:06 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1524141.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/bangladesh-comes-first-bnp-chief-tarique-rahman-on-his-foreign-policy-11004456#publisher=newsstand",
     "category": "india",
-    "title": "'Bangladesh 1st': Tarique Rahman's Reply To Query On Ties With India",
+    "title": "'Bangladesh First': Tarique Rahman's Reply To Query On Ties With India",
     "summary": "Rahman's \"Bangladesh First\" policy aims to balance ties with neighbouring countries",
     "image": "https://c.ndtvimg.com/2026-02/nc9q97l8_tarique-rahman-afp_625x300_14_February_26.jpeg",
     "source": "NDTV",
@@ -48,6 +78,16 @@
     "source": "NDTV",
     "pubDate": "Sun, 15 Feb 2026 00:17:46 +0530",
     "link": "https://www.ndtv.com/india-news/mulund-5-arrested-contractors-fined-rs-6-crore-after-mumbai-metro-slab-collapse-kills-1-11005072#publisher=newsstand"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cjrq2r9y278o#0",
+    "category": "global",
+    "title": "'Trump will be gone in three years': Top US Democrats try to reassure Europe",
+    "summary": "Opposition politicians flocked to a summit in Munich to offer an alternative to America First - and stake a claim as future party leaders.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 15 Feb 2026 00:16:47 GMT",
+    "link": "https://www.bbc.com/news/articles/cjrq2r9y278o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.ndtv.com/world-news/ice-continues-illegal-detentions-despite-4-400-court-rulings-against-them-11005068#publisher=newsstand",
@@ -90,24 +130,24 @@
     "link": "https://www.ndtv.com/world-news/us-army-conducts-10-strikes-on-30-islamic-state-targets-in-syria-in-2-weeks-11005060#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/india-very-much-wedded-to-strategic-autonomy-s-jaishankar-11005024#publisher=newsstand",
-    "category": "india",
-    "title": "\"India Very Much Wedded To Strategic Autonomy\": S Jaishankar",
-    "summary": "S Jaishankar said India keeps the option of making independent decisions",
-    "image": "https://c.ndtvimg.com/2026-01/n5dpqhs4_s-jaishankar_625x300_07_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 14 Feb 2026 23:55:53 +0530",
-    "link": "https://www.ndtv.com/india-news/india-very-much-wedded-to-strategic-autonomy-s-jaishankar-11005024#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/ckg8r28d3lgo#0",
+    "category": "global",
+    "title": "Death of the sex drive - and the great debate over whether testosterone can help get it back",
+    "summary": "Can boosting testosterone improve libido, or is much of the attention solely hype, profit, and placebo?",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 15 Feb 2026 00:02:42 GMT",
+    "link": "https://www.bbc.com/news/articles/ckg8r28d3lgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/jaishankar-reiterates-support-for-unsc-reform-during-meeting-with-g7-counterparts-11004917#publisher=newsstand",
-    "category": "india",
-    "title": "S Jaishankar Reiterates India's Support For UNSC Reform In Munich Conference",
-    "summary": "S Jaishankar started his Munich Security Conference with a roundtable",
-    "image": "https://c.ndtvimg.com/2026-01/h58pvu_s-jaishankar_625x300_09_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 14 Feb 2026 23:46:07 +0530",
-    "link": "https://www.ndtv.com/india-news/jaishankar-reiterates-support-for-unsc-reform-during-meeting-with-g7-counterparts-11004917#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/c0ljgzjwjx3o#0",
+    "category": "global",
+    "title": "Could Manchester be a model for the UK to kickstart growth?",
+    "summary": "With an annual growth rate of 3.1%, Manchester's economy has performed twice as well as that of the UK as a whole.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 15 Feb 2026 00:01:21 GMT",
+    "link": "https://www.bbc.com/news/articles/c0ljgzjwjx3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c74754j7qwgo#0",
@@ -138,16 +178,6 @@
     "source": "BBC",
     "pubDate": "Sat, 14 Feb 2026 22:09:32 GMT",
     "link": "https://www.bbc.com/sport/articles/clyzgpw725qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c2lrdq47149o#0",
-    "category": "global",
-    "title": "Rubio says US and Europe 'belong together' despite tensions",
-    "summary": "The US secretary of state reassures European leaders that the Trump administration backs the transatlantic alliance.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 14 Feb 2026 21:45:46 GMT",
-    "link": "https://www.bbc.com/news/articles/c2lrdq47149o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1524181.html",
@@ -270,16 +300,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1524131.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1524141.html",
-    "category": "sports",
-    "title": "Law's message to Nepal players: 'Put social media away, do your cricket'",
-    "summary": "Nepal coach said the manner in which they went down to Italy four days after running England close showed they lacked \"mental toughness\"",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413120.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 14 Feb 2026 15:13:41 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1524141.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-breaches-20-100-dma-amid-11-vix-spike-sudeep-shah-on-coforge-5-other-top-weekly-movers/articleshow/128341854.cms",
     "category": "finance",
     "title": "F&amp;O Talk | Nifty breaches 20 &amp; 100-DMA amid 11% VIX spike; Sudeep Shah on Coforge, 5 other top weekly movers",
@@ -320,16 +340,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1524114.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cy0dgpx71dyo#0",
-    "category": "global",
-    "title": "One giant boys' club? Why Westminster can still feel like a man's world",
-    "summary": "The decision to appoint Peter Mandelson has prompted soul searching about women\u2019s role in government, writes Laura Kuenssberg.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 14 Feb 2026 13:39:40 GMT",
-    "link": "https://www.bbc.com/news/articles/cy0dgpx71dyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/sport/articles/cjen94eg9nko#1",
     "category": "global",
     "title": "Canada accused of cheating again in curling row",
@@ -338,16 +348,6 @@
     "source": "BBC",
     "pubDate": "Sat, 14 Feb 2026 10:34:00 GMT",
     "link": "https://www.bbc.com/sport/articles/cjen94eg9nko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c9q5l22ryy4o#0",
-    "category": "global",
-    "title": "Gis\u00e8le Pelicot tells BBC: I felt crushed by horror - but I don't feel anger",
-    "summary": "In an extensive interview with Newsnight, the woman at the heart of France's biggest rape trial speaks about betrayal, healing and choosing the right path.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 14 Feb 2026 06:00:11 GMT",
-    "link": "https://www.bbc.com/news/articles/c9q5l22ryy4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
