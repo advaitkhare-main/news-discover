@@ -90,24 +90,14 @@
     "link": "https://www.ndtv.com/india-news/key-hearing-in-madhya-pradeshs-bhojshala-begins-monday-11008084#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/dazzled-argentina-ambassador-congratulates-adani-group-over-gujarats-khavda-solar-park-11008065#publisher=newsstand",
-    "category": "india",
-    "title": "\"Dazzled\": Argentina Ambassador Congratulates Adani Group Over Gujarat's Khavda Solar Park",
-    "summary": "\"Congratulations Gautam Adani and Adani Group,\" Mariano Caucino posted on X.",
-    "image": "https://c.ndtvimg.com/2026-02/ak4doq44_caucino-mariano_625x300_15_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Sun, 15 Feb 2026 23:05:34 +0530",
-    "link": "https://www.ndtv.com/india-news/dazzled-argentina-ambassador-congratulates-adani-group-over-gujarats-khavda-solar-park-11008065#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-military-boards-sanctioned-oil-tanker-veronica-iii-in-indian-ocean-11007913#publisher=newsstand",
-    "category": "india",
-    "title": "US Military Boards Sanctioned Oil Tanker 'Veronica III' In Indian Ocean",
-    "summary": "The Veronica III left Venezuela on January 3.",
-    "image": "https://c.ndtvimg.com/2026-02/vnes2754_tanker_625x300_15_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 15 Feb 2026 22:21:42 +0530",
-    "link": "https://www.ndtv.com/world-news/us-military-boards-sanctioned-oil-tanker-veronica-iii-in-indian-ocean-11007913#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/c5yrv2g16e2o#0",
+    "category": "global",
+    "title": "DNA found on glove appearing to match those in Nancy Guthrie suspect video",
+    "summary": "The FBI says it recovered the evidence sample from the glove, which was found in a field near the side of the road a few miles from Guthrie's home",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 15 Feb 2026 20:39:35 GMT",
+    "link": "https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1524406.html",
@@ -116,7 +106,7 @@
     "summary": "Pakistan coach Mike Hesson identifies the moments that cost his team against India",
     "image": "http://p.imgci.com/db/PICTURES/CMS/413600/413619.jpg",
     "source": "Cricinfo",
-    "pubDate": "Sun, 15 Feb 2026 20:13:55 GMT",
+    "pubDate": "Sun, 15 Feb 2026 20:22:15 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1524406.html?ex_cid=OTC-RSS"
   },
   {
@@ -208,16 +198,6 @@
     "source": "BBC",
     "pubDate": "Sun, 15 Feb 2026 17:11:49 GMT",
     "link": "https://www.bbc.com/news/articles/c4g5380xwqjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/sport/rugby-union/articles/cddn92m8nd5o#0",
-    "category": "global",
-    "title": "France hammer Wales to keep Grand Slam dream alive",
-    "summary": "France keep alive their hopes of a Grand Slam with an eight-try hammering of woeful Wales - their 13th successive Six Nations defeat.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 15 Feb 2026 17:01:25 GMT",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/cddn92m8nd5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1524381.html",
@@ -358,6 +338,26 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 19 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/pick-pocket-gang-posing-as-bohurupis-arrested-in-kolkata-11008223#publisher=newsstand",
+    "category": "india",
+    "title": "Pick-Pocket Gang Posing As \"Bohurupis\" Arrested In Kolkata",
+    "summary": "The police made preparations following an investigation after a case was recently lodged in Jorasanko.",
+    "image": "https://c.ndtvimg.com/2026-02/uib4mv28_bohurupi_625x300_16_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 16 Feb 2026 00:22:33 +0530",
+    "link": "https://www.ndtv.com/india-news/pick-pocket-gang-posing-as-bohurupis-arrested-in-kolkata-11008223#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/trump-says-his-board-of-peace-members-pledged-5-billion-for-gaza-11008215#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Says His Board Of Peace Members Pledged $5 Billion For Gaza",
+    "summary": "Trump did not detail which member nations were making the pledges for reconstruction.",
+    "image": "https://c.ndtvimg.com/2024-11/r92i04ro_donald-trump_625x300_07_November_24.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 16 Feb 2026 00:11:12 +0530",
+    "link": "https://www.ndtv.com/world-news/trump-says-his-board-of-peace-members-pledged-5-billion-for-gaza-11008215#publisher=newsstand"
   },
   {
     "id": "7EaNv4Ip2AUlW9RClUv2cB",
