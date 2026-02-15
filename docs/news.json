@@ -110,6 +110,36 @@
     "link": "https://www.ndtv.com/world-news/us-military-boards-sanctioned-oil-tanker-veronica-iii-in-indian-ocean-11007913#publisher=newsstand"
   },
   {
+    "id": "https://www.espncricinfo.com/ci/content/story/1524406.html",
+    "category": "sports",
+    "title": "Where did it go wrong for Pakistan?",
+    "summary": "Pakistan coach Mike Hesson identifies the moments that cost his team against India",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413600/413619.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 15 Feb 2026 20:13:55 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1524406.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cm289we7jzdo#0",
+    "category": "global",
+    "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
+    "summary": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 15 Feb 2026 20:13:08 GMT",
+    "link": "https://www.bbc.com/news/articles/cm289we7jzdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/sport/articles/cm2x7m17jydo#0",
+    "category": "global",
+    "title": "Team GB clinches second gold of day at Winter Olympics",
+    "summary": "Team GB wins two Winter Olympic titles on one day for the first time as Matt Weston and Tabitha Stoecker clinch mixed team skeleton gold.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 15 Feb 2026 20:06:25 GMT",
+    "link": "https://www.bbc.com/sport/articles/cm2x7m17jydo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1524361.html",
     "category": "sports",
     "title": "Hemantha may 'bamboozle' Australia with his variations, says SL fielding coach",
@@ -183,7 +213,7 @@
     "id": "https://www.bbc.com/sport/rugby-union/articles/cddn92m8nd5o#0",
     "category": "global",
     "title": "France hammer Wales to keep Grand Slam dream alive",
-    "summary": "France keep alive their hopes of a Grand Slam with a convincing eight-try 54-12 hammering of woeful Wales, who suffer a 13th successive Six Nations defeat.",
+    "summary": "France keep alive their hopes of a Grand Slam with an eight-try hammering of woeful Wales - their 13th successive Six Nations defeat.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Sun, 15 Feb 2026 17:01:25 GMT",
@@ -218,16 +248,6 @@
     "source": "BBC",
     "pubDate": "Sun, 15 Feb 2026 15:32:07 GMT",
     "link": "https://www.bbc.com/news/articles/cjrq2r9y278o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1524335.html",
-    "category": "sports",
-    "title": "England face unexpected test of nerve in Italy showdown",
-    "summary": "Banana-skin potential high with lowest-ranked side in competition raring to cause another upset",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413500/413503.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 15 Feb 2026 14:45:17 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1524335.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/fpi-inflows-rebound-to-rs-19675-cr-in-first-fortnight-of-feb-on-us-india-trade-deal/articleshow/128377385.cms",
@@ -328,26 +348,6 @@
     "source": "ET",
     "pubDate": "Sun, 15 Feb 2026 11:13:02 +0530",
     "link": "https://economictimes.indiatimes.com/markets/expert-view/break-below-20-dma-shifts-risk-reward-unfavourably-for-nifty-rupak-de/articleshow/128372778.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cgmlvl48202o#0",
-    "category": "global",
-    "title": "What the Nigella Lawson effect will mean for the Great British Bake Off",
-    "summary": "What joining Channel 4's famous tent could mean for the TV cook's career and the baking show.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 15 Feb 2026 00:33:19 GMT",
-    "link": "https://www.bbc.com/news/articles/cgmlvl48202o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0q4j9e78jzo#0",
-    "category": "global",
-    "title": "This rail line caused travel chaos during storms. \u00a3165m later, it's happened again",
-    "summary": "Taxpayer money has flowed into fixing the rail line connecting Cornwall with the rest of the UK - but the elements have other ideas.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 15 Feb 2026 00:13:56 GMT",
-    "link": "https://www.bbc.com/news/articles/c0q4j9e78jzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
