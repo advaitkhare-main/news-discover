@@ -10,6 +10,26 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
+    "id": "https://www.ndtv.com/world-news/police-respond-to-reports-of-shooting-at-rhode-island-rink-multiple-injured-11012765#publisher=newsstand",
+    "category": "india",
+    "title": "Police Respond To Reports Of Shooting At Rhode Island Rink; Multiple Injured",
+    "summary": "Messages seeking comment were left for Pawtucket police and a spokesperson for the city's mayor.",
+    "image": "https://c.ndtvimg.com/2025-09/rbn7ol4c_international-police-generic_625x300_02_September_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 17 Feb 2026 03:20:21 +0530",
+    "link": "https://www.ndtv.com/world-news/police-respond-to-reports-of-shooting-at-rhode-island-rink-multiple-injured-11012765#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/zelenskiy-warns-of-new-russian-strikes-ahead-of-geneva-peace-talks-11012741#publisher=newsstand",
+    "category": "india",
+    "title": "Zelensky Warns Of New Russian Strikes Ahead Of Geneva Peace Talks",
+    "summary": "Zelensky said Russian attacks were \"constantly evolving\" and resorting to a combination of weapons.",
+    "image": "https://c.ndtvimg.com/2025-12/u84r9dh_volodymyr-zelensky_625x300_18_December_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 17 Feb 2026 03:00:05 +0530",
+    "link": "https://www.ndtv.com/world-news/zelenskiy-warns-of-new-russian-strikes-ahead-of-geneva-peace-talks-11012741#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/congress-launches-talent-hunt-to-select-spokespersons-in-madhya-pradesh-11012644#publisher=newsstand",
     "category": "india",
     "title": "Congress Launches 'Talent Hunt' To Select Spokespersons In Madhya Pradesh",
@@ -70,26 +90,6 @@
     "link": "https://www.ndtv.com/india-news/bhupen-borah-is-our-asset-i-apologise-if-any-wrong-was-done-gaurav-gogoi-11012592#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/pm-modi-explores-artificial-intelligence-exhibits-at-india-ai-expo-2026-11012589#publisher=newsstand",
-    "category": "india",
-    "title": "PM Modi Explores Artificial Intelligence Exhibits At India AI Expo 2026",
-    "summary": "This is the first international AI summit that is taking place in the Global South.",
-    "image": "https://c.ndtvimg.com/2026-02/js778gpg_modi_625x300_17_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 17 Feb 2026 00:32:20 +0530",
-    "link": "https://www.ndtv.com/india-news/pm-modi-explores-artificial-intelligence-exhibits-at-india-ai-expo-2026-11012589#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/punjab-chief-minister-bhagwant-mann-admitted-to-hospital-report-11012588#publisher=newsstand",
-    "category": "india",
-    "title": "Punjab Chief Minister Bhagwant Mann Admitted To Hospital: Report",
-    "summary": "According to hospital, Bhagwant Mann was admitted for observation and supportive care.",
-    "image": "https://c.ndtvimg.com/2026-02/gdkll0pk_bhagwant-mann_625x300_10_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 17 Feb 2026 00:32:14 +0530",
-    "link": "https://www.ndtv.com/india-news/punjab-chief-minister-bhagwant-mann-admitted-to-hospital-report-11012588#publisher=newsstand"
-  },
-  {
     "id": "1dxpkoyNmn8ceRMHCKLlT8",
     "category": "scitech",
     "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -118,6 +118,26 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 19 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ce3g41z58vno#0",
+    "category": "global",
+    "title": "Actor Robert Duvall, who starred in The Godfather, dies aged 95",
+    "summary": "The Oscar-winner died \"peacefully\" at his home in Middleburg, Virginia, on Sunday, his family says.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 16 Feb 2026 22:13:09 GMT",
+    "link": "https://www.bbc.com/news/articles/ce3g41z58vno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx2gn239exlo#0",
+    "category": "global",
+    "title": "How dark web agent spotted bedroom wall clue to rescue girl from years of harm",
+    "summary": "Detectives desperate to locate a 12-year-old, seen abused online, found a surprising lead.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 16 Feb 2026 22:02:33 GMT",
+    "link": "https://www.bbc.com/news/articles/cx2gn239exlo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/forex/rbi-issues-draft-norms-for-reporting-on-forex-derivative-transactions-involving-rupee/articleshow/128429483.cms",
@@ -180,6 +200,16 @@
     "link": "https://www.bbc.com/news/articles/cd9g28yzy0no?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cvg5ed05pplo#0",
+    "category": "global",
+    "title": "Australian IS families in Syria camp turned back after leaving for home",
+    "summary": "The group of 34 women and children with family links to Islamic State group have been held in the Roj camp for nearly seven years.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 16 Feb 2026 19:18:04 GMT",
+    "link": "https://www.bbc.com/news/articles/cvg5ed05pplo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1524596.html",
     "category": "sports",
     "title": "Marsh: Australia are in the lap of the gods now",
@@ -198,16 +228,6 @@
     "source": "ET",
     "pubDate": "Mon, 16 Feb 2026 19:00:30 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/prabhudas-lilladhar-initiates-coverage-on-fractal-analytics-with-50-upside-call-despite-weak-listing/articleshow/128425343.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce3g41z58vno#0",
-    "category": "global",
-    "title": "Actor Robert Duvall, who starred in The Godfather, dies aged 95",
-    "summary": "The Oscar-winner died \"peacefully\" at his home in Middleburg, Virginia, on Sunday, his family says.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 16 Feb 2026 18:57:26 GMT",
-    "link": "https://www.bbc.com/news/articles/ce3g41z58vno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1524606.html",
@@ -290,16 +310,6 @@
     "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ashiana-housing-q3-profit-jumps-5-fold-to-rs-57-cr/articleshow/128422819.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c2lr91enp9po#0",
-    "category": "global",
-    "title": "Teenagers guilty of killing man they thought was a paedophile",
-    "summary": "Alexander Cashford was chased and hit with rocks and a bottle before he died.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 16 Feb 2026 17:45:09 GMT",
-    "link": "https://www.bbc.com/news/articles/c2lr91enp9po?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1524502.html",
     "category": "sports",
     "title": "New Zealand eye Super Eight spot against Canada",
@@ -348,16 +358,6 @@
     "source": "BBC",
     "pubDate": "Mon, 16 Feb 2026 15:41:36 GMT",
     "link": "https://www.bbc.com/news/articles/cpd8elz20jpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4ge7n3pq62o#0",
-    "category": "global",
-    "title": "Intermittent fasting may make little difference to weight loss, review finds",
-    "summary": "But researchers say it could still improve someone's overall health through helpful changes to some body functions.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 16 Feb 2026 13:38:50 GMT",
-    "link": "https://www.bbc.com/news/articles/c4ge7n3pq62o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "7EaNv4Ip2AUlW9RClUv2cB",
