@@ -10,6 +10,26 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
+    "id": "https://www.ndtv.com/india-news/congress-launches-talent-hunt-to-select-spokespersons-in-madhya-pradesh-11012644#publisher=newsstand",
+    "category": "india",
+    "title": "Congress Launches 'Talent Hunt' To Select Spokespersons In Madhya Pradesh",
+    "summary": "Madhya Pradesh Congress Chief promised that the entire process will be transparent and merit-based.",
+    "image": "https://c.ndtvimg.com/2020-01/dqh52igg_congress-generic_625x300_21_January_20.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 17 Feb 2026 01:27:15 +0530",
+    "link": "https://www.ndtv.com/india-news/congress-launches-talent-hunt-to-select-spokespersons-in-madhya-pradesh-11012644#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/chhattisgarh-suicide-he-was-our-world-couple-dies-by-suicide-after-sons-death-in-accident-11012615#publisher=newsstand",
+    "category": "india",
+    "title": "\"He Was Our World\": Chhattisgarh Couple Dies By Suicide After Son's Death In Accident",
+    "summary": "The couple had left behind a four-page suicide note and a video message. What they wrote, and what they said, has left the entire community in tears.",
+    "image": "https://c.ndtvimg.com/2026-02/r3ma5uro_chhattisgarh-suicide_625x300_17_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 17 Feb 2026 00:49:39 +0530",
+    "link": "https://www.ndtv.com/india-news/chhattisgarh-suicide-he-was-our-world-couple-dies-by-suicide-after-sons-death-in-accident-11012615#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/up-kargil-war-veteran-kills-wife-son-then-dies-by-suicide-cops-11012610#publisher=newsstand",
     "category": "india",
     "title": "UP Kargil War Veteran Kills Wife, Son; Then Dies By Suicide: Cops",
@@ -68,26 +88,6 @@
     "source": "NDTV",
     "pubDate": "Tue, 17 Feb 2026 00:32:14 +0530",
     "link": "https://www.ndtv.com/india-news/punjab-chief-minister-bhagwant-mann-admitted-to-hospital-report-11012588#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/row-over-revenue-deficit-grant-himachal-governor-cuts-assembly-speech-to-2-minutes-11012538#publisher=newsstand",
-    "category": "india",
-    "title": "Himachal Governor Cuts  Assembly Speech To 2 Minutes, Row Erupts",
-    "summary": "The Budget Session of the Himachal Pradesh Assembly began on a stormy note, with sharp differences surfacing between Governor Shiv Pratap Shukla and the state government over the contentious issue of Revenue Deficit Grant or RDG.",
-    "image": "https://c.ndtvimg.com/2023-02/1837nbv4_shiv-pratap-shukla-himachal-governor-650_625x300_18_February_23.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 17 Feb 2026 00:22:56 +0530",
-    "link": "https://www.ndtv.com/india-news/row-over-revenue-deficit-grant-himachal-governor-cuts-assembly-speech-to-2-minutes-11012538#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/video-3-including-2-pakistanis-shoot-their-way-out-of-j-k-observation-home-11012573#publisher=newsstand",
-    "category": "india",
-    "title": "Video: 3, Including 2 Pakistanis, Shoot Their Way Out Of J&K Observation Home",
-    "summary": "This incident adds to a history of jailbreak attempts by Pakistani nationals in the region.",
-    "image": "https://c.ndtvimg.com/2026-02/fpfja8s_pak-jail-break_625x300_17_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 17 Feb 2026 00:20:23 +0530",
-    "link": "https://www.ndtv.com/india-news/video-3-including-2-pakistanis-shoot-their-way-out-of-j-k-observation-home-11012573#publisher=newsstand"
   },
   {
     "id": "1dxpkoyNmn8ceRMHCKLlT8",
@@ -166,8 +166,18 @@
     "summary": "The Sri Lanka opener scored his second T20I century, a 52-ball 100 not out, in the chase of 182",
     "image": "http://p.imgci.com/db/PICTURES/CMS/413600/413694.jpg",
     "source": "Cricinfo",
-    "pubDate": "Mon, 16 Feb 2026 19:28:21 GMT",
+    "pubDate": "Mon, 16 Feb 2026 19:40:15 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1524617.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cd9g28yzy0no#0",
+    "category": "global",
+    "title": "Six of Sarah Ferguson's companies winding down",
+    "summary": "The move follows further revelations over her friendship with the convicted paedophile Jeffrey Epstein.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 16 Feb 2026 19:22:44 GMT",
+    "link": "https://www.bbc.com/news/articles/cd9g28yzy0no?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1524596.html",
@@ -308,16 +318,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 16 Feb 2026 16:58:10 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1524572.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cdxgew324r9o#0",
-    "category": "global",
-    "title": "Ice and snow warnings as another blast of Arctic air sweeps across the UK",
-    "summary": "More than 70 flood warnings have also been issued by the Environment Agency after heavy rain.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 16 Feb 2026 16:37:46 GMT",
-    "link": "https://www.bbc.com/news/articles/cdxgew324r9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1524564.html",
