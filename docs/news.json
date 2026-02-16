@@ -30,26 +30,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1524415.html",
-    "category": "sports",
-    "title": "Really tough: Why Australia decided to drop vice-captain",
-    "summary": "The home side began the series against India with the big call to leave out the experienced allrounder",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/392700/392790.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 15 Feb 2026 23:37:56 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1524415.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/sport/articles/c1kgm079jrro#0",
-    "category": "global",
-    "title": "Why Team GB's first Olympic gold on snow was just a matter of time",
-    "summary": "An Olympic gold medal on snow has long seemed like the impossible for Team GB. But for those in the know, it has been just a matter of time.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 15 Feb 2026 19:43:10 GMT",
-    "link": "https://www.bbc.com/sport/articles/c1kgm079jrro?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -58,6 +38,56 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 19 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/markets-eye-25350-support-after-it-sector-selloff-hdfc-bank-ntpc-flash-buy-signals/articleshow/128416281.cms",
+    "category": "finance",
+    "title": "Markets eye 25,350 support after IT sector selloff: HDFC Bank, NTPC flash buy signals: Rajesh Bhosale",
+    "summary": "Indian stock markets face uncertainty as the Nifty tests support levels. Technology sector weakness impacted trading last week. Banking and public sector stocks are showing resilience and strength. Analysts highlight HDFC Bank and NTPC as potential o",
+    "image": "https://img.etimg.com/photo/msid-128416281,imgsize-6228.cms",
+    "source": "ET",
+    "pubDate": "Mon, 16 Feb 2026 14:58:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/markets-eye-25350-support-after-it-sector-selloff-hdfc-bank-ntpc-flash-buy-signals/articleshow/128416281.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/commodity-radar-sell-gold-on-rallies-says-lkp-securities-expert-5-indicators-signal-more-downside/articleshow/128416160.cms",
+    "category": "finance",
+    "title": "Commodity Radar: Sell gold on rallies, says LKP Securities expert. 5 indicators signal more downside",
+    "summary": "Gold prices dropped nearly Rs 1,800 intraday on MCX amid profit booking and a firmer dollar. Analysts see consolidation after a sharp rally, with technical indicators signaling limited upside and recommending a sell-on-rise strategy toward lower supp",
+    "image": "https://img.etimg.com/photo/msid-128416160,imgsize-45106.cms",
+    "source": "ET",
+    "pubDate": "Mon, 16 Feb 2026 14:44:58 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/commodity-radar-sell-gold-on-rallies-says-lkp-securities-expert-5-indicators-signal-more-downside/articleshow/128416160.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-changes-to-price-bands-of-etfs-seeks-views-on-a-pre-open-session/articleshow/128416066.cms",
+    "category": "finance",
+    "title": "Sebi proposes changes to price bands of ETFs, seeks views on a pre-open session",
+    "summary": "Sebi has proposed revising how ETFs determine base prices and daily price bands to better reflect real-time market conditions and reduce manual errors. The regulator is seeking public feedback on using T-1 data for base prices, introducing dynamic pr",
+    "image": "https://img.etimg.com/photo/msid-128416066,imgsize-33312.cms",
+    "source": "ET",
+    "pubDate": "Mon, 16 Feb 2026 14:42:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-changes-to-price-bands-of-etfs-seeks-views-on-a-pre-open-session/articleshow/128416066.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/evolve-the-mantra-as-over-11500-traders-converge-at-ioc-7-0-in-surat/articleshow/128415944.cms",
+    "category": "finance",
+    "title": "\u2018Evolve\u2019 the mantra as over 11,500 traders converge at IOC 7.0 in Surat",
+    "summary": "Jainam Broking\u2019s IOC 7.0 in Surat drew over 11,500 participants, cementing its status as a major national platform for options traders. With \u201cEvolve\u201d as its core theme, the conclave focused on disciplined learning, risk management, trading psychology",
+    "image": "https://img.etimg.com/photo/msid-128415944,imgsize-2912349.cms",
+    "source": "ET",
+    "pubDate": "Mon, 16 Feb 2026 14:38:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/evolve-the-mantra-as-over-11500-traders-converge-at-ioc-7-0-in-surat/articleshow/128415944.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fii-retail-investors-raise-stakes-in-q3-10-smallcap-stocks-surge-up-to-165-6-turn-multibaggers/slideshow/128415807.cms",
+    "category": "finance",
+    "title": "FII, retail investors raise stakes in Q3; 10 smallcap stocks surge up to 165%, 6 turn multibaggers",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-128415393,imgsize-8532.cms",
+    "source": "ET",
+    "pubDate": "Mon, 16 Feb 2026 14:19:48 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fii-retail-investors-raise-stakes-in-q3-10-smallcap-stocks-surge-up-to-165-6-turn-multibaggers/slideshow/128415807.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/indian-stocks-poised-for-better-cy26-nifty-earnings-growth-seen-at-12-cagr-over-fy25-27-motilal-oswal/articleshow/128414120.cms",
@@ -160,16 +190,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japanese-shares-dip-as-soft-data-post-election-lull-cap-moves/articleshow/128413112.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/short-term-jgb-yields-dip-as-weak-data-tempers-rate-hike-bets/articleshow/128413024.cms",
-    "category": "finance",
-    "title": "Short-term JGB yields dip as weak data tempers rate hike bets",
-    "summary": "Short-term Japanese government bond (JGBs) yields edged lower on Monday \u200bas weaker-than-expected economic data caused traders to pare bets for an early rate hike by the central bank.",
-    "image": "https://img.etimg.com/photo/msid-128413024,imgsize-142084.cms",
-    "source": "ET",
-    "pubDate": "Mon, 16 Feb 2026 13:10:07 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/short-term-jgb-yields-dip-as-weak-data-tempers-rate-hike-bets/articleshow/128413024.cms"
-  },
-  {
     "id": "https://www.ndtv.com/india-news/lalu-yadav-pleads-not-guilty-in-land-for-job-case-says-will-face-trial-11009353#publisher=newsstand",
     "category": "india",
     "title": "Lalu Yadav Pleads Not Guilty In Land-For-Job Case, Says Will Face Trial",
@@ -180,44 +200,54 @@
     "link": "https://www.ndtv.com/india-news/lalu-yadav-pleads-not-guilty-in-land-for-job-case-says-will-face-trial-11009353#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/seen-as-indian-investors-gateway-to-ai-play-what-went-wrong-with-fractal-analytics-ipo/articleshow/128412115.cms",
-    "category": "finance",
-    "title": "Seen as Indian investor's gateway to AI play, what went wrong with Fractal Analytics IPO?",
-    "summary": "Fractal Analytics debuted below issue price as muted retail demand and valuation concerns overshadowed its AI positioning. Despite institutional support, high multiples, volatile margins and IT sector weakness capped listing gains. Long-term prospect",
-    "image": "https://img.etimg.com/photo/msid-128412115,imgsize-35424.cms",
-    "source": "ET",
-    "pubDate": "Mon, 16 Feb 2026 12:43:47 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/seen-as-indian-investors-gateway-to-ai-play-what-went-wrong-with-fractal-analytics-ipo/articleshow/128412115.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1524500.html",
+    "category": "sports",
+    "title": "Omarzai's all-round brilliance hands Afghanistan their first win of the World Cup",
+    "summary": "UAE put in a spirited performance, but Omarzai with figures of 4 for 15 and an unbeaten 40 off 21 stole the show",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413600/413658.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 16 Feb 2026 09:38:45 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1524500.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/53-billion-dalal-street-braces-for-85-ipo-lock-in-expiries-in-next-3-months-check-details/articleshow/128409942.cms",
-    "category": "finance",
-    "title": "$53 billion value unlocking! D-St braces for 85 IPO lock-in expiries in 3 months. Check details",
-    "summary": "Dalal Street is set for a wave of IPO lock-in expiries, with about 85 companies seeing restrictions lifted between February and May 2026, potentially unlocking $53 billion worth of shares, according to Nuvama Alternative &amp; Quantitative Research.",
-    "image": "https://img.etimg.com/photo/msid-128409942,imgsize-40130.cms",
-    "source": "ET",
-    "pubDate": "Mon, 16 Feb 2026 12:00:07 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/53-billion-dalal-street-braces-for-85-ipo-lock-in-expiries-in-next-3-months-check-details/articleshow/128409942.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1524497.html",
+    "category": "sports",
+    "title": "England opt to bat in bid to seal Super Eights spot, both teams unchanged",
+    "summary": "Italy's Wayne Madsen remains sidelined with the dislocated shoulder that he sustained while fielding against Scotland",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413337.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 16 Feb 2026 09:37:21 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1524497.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/midcaps-offer-attractive-opportunities-amid-volatility-gautam-duggad/articleshow/128409869.cms",
-    "category": "finance",
-    "title": "Midcaps offer attractive opportunities amid volatility:  Gautam Duggad",
-    "summary": "Indian companies are reporting strong earnings growth. Metals and oil &amp; gas sectors are leading the charge. Even excluding these, growth remains robust. Auto, capital goods, NBFCs, and PSU banks are showing healthy gains. Smallcaps are also recov",
-    "image": "https://img.etimg.com/photo/msid-128409869,imgsize-33562.cms",
-    "source": "ET",
-    "pubDate": "Mon, 16 Feb 2026 11:53:58 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/midcaps-offer-attractive-opportunities-amid-volatility-gautam-duggad/articleshow/128409869.cms"
+    "id": "https://www.bbc.com/news/articles/c39wlryn20vo#0",
+    "category": "global",
+    "title": "Royal Mail letters sit undelivered 'for weeks' as parcels prioritised, staff say",
+    "summary": "Staff and customers tell the BBC prioritising parcels can mean missed NHS appointments and late payment fines.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 16 Feb 2026 09:30:33 GMT",
+    "link": "https://www.bbc.com/news/articles/c39wlryn20vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-tick-higher-in-earnings-rush-tech-stocks-shine/articleshow/128409464.cms",
-    "category": "finance",
-    "title": "Global Markets | Australian shares tick higher in earnings rush; tech stocks shine",
-    "summary": "On Monday, Australian shares made modest gains with technology, gold, and healthcare sectors leading the charge. While the mining and financial markets struggled, the S&amp;P/ASX 200 index finished the day on a positive note, buoyed by a surge in tec",
-    "image": "https://img.etimg.com/photo/msid-128409464,imgsize-24810.cms",
-    "source": "ET",
-    "pubDate": "Mon, 16 Feb 2026 11:45:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-tick-higher-in-earnings-rush-tech-stocks-shine/articleshow/128409464.cms"
+    "id": "https://www.bbc.com/news/articles/c0q3wx2j3x1o#0",
+    "category": "global",
+    "title": "Government looking into claims Labour think tank ordered investigation into journalists",
+    "summary": "The think tank paid a company at least \u00a330,000 to investigate the origins of a story about undeclared donations.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 16 Feb 2026 09:18:32 GMT",
+    "link": "https://www.bbc.com/news/articles/c0q3wx2j3x1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1524459.html",
+    "category": "sports",
+    "title": "Queensland hit back after Scott takes five and debutant Thompson impresses",
+    "summary": "Ball dominated at the Gabba with the home side, currently in second place, evened the contest during the final session",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413600/413624.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 16 Feb 2026 09:03:41 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1524459.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1524480.html",
@@ -240,20 +270,20 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1523411.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c39wlryn20vo#0",
+    "id": "https://www.bbc.com/news/articles/cvg38x13x5yo#0",
     "category": "global",
-    "title": "Royal Mail letters sit undelivered 'for weeks' as parcels prioritised, staff say",
-    "summary": "Staff and customers tell the BBC prioritising parcels can mean missed NHS appointments and late payment fines.",
+    "title": "Tech firms must keep children's data if they die, under new plans",
+    "summary": "The government's new plans will mean no online platform will get a \"free pass\" on children's safety on the internet, the prime minister says.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 16 Feb 2026 06:01:25 GMT",
-    "link": "https://www.bbc.com/news/articles/c39wlryn20vo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 16 Feb 2026 06:52:17 GMT",
+    "link": "https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cvg36pknpl5o#0",
     "category": "global",
-    "title": "Police framed man for Korean student's murder, new evidence gathered by BBC suggests",
-    "summary": "Officers knew CCTV discredited their key witness in murder conviction of Omar Benguit, Panorama finds.",
+    "title": "Police framed man for female student\u2019s murder, evidence gathered by BBC suggests",
+    "summary": "Officers knew CCTV discredited their key witness in Omar Benguit's conviction for murder of Korean woman.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Mon, 16 Feb 2026 06:00:20 GMT",
@@ -308,36 +338,6 @@
     "source": "BBC",
     "pubDate": "Mon, 16 Feb 2026 01:28:46 GMT",
     "link": "https://www.bbc.com/news/articles/cpqwl10lvr2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c7951dzg9npo#0",
-    "category": "global",
-    "title": "Ministers want to reform SEND - but they are treading very carefully",
-    "summary": "The government is expected to outline its plan to overhaul the complex system of support for children with special educational needs and disabilities (SEND) in England soon.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 16 Feb 2026 01:11:05 GMT",
-    "link": "https://www.bbc.com/news/articles/c7951dzg9npo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1524391.html",
-    "category": "sports",
-    "title": "Kishan raises off-side game to get 'balls where I want them'",
-    "summary": "The India opener scored 77 off 40 balls against Pakistan on a difficult pitch in Colombo",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413500/413595.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 16 Feb 2026 01:09:01 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1524391.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1524388.html",
-    "category": "sports",
-    "title": "Sensational Kishan floors Pakistan and puts India in Super Eights",
-    "summary": "On a slow turner at the Premadasa, Ishan Kishan rose above the conditions to take India to a total that proved well beyond Pakistan",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413500/413595.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 16 Feb 2026 01:08:23 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1524388.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cpqwlwndj9yo#0",
