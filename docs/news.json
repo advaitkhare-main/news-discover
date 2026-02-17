@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://www.ndtv.com/world-news/18-year-old-man-arrested-after-running-toward-us-capitol-with-shotgun-cops-11051267#publisher=newsstand",
+    "category": "india",
+    "title": "18-Year-Old Man Arrested After Running Toward US Capitol With Shotgun: Cops",
+    "summary": "President Donald Trump is due to deliver the State of the Union address at the Capitol next week.",
+    "image": "https://c.ndtvimg.com/2025-11/krr6ouhc_us-capitol_625x300_12_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 18 Feb 2026 03:18:01 +0530",
+    "link": "https://www.ndtv.com/world-news/18-year-old-man-arrested-after-running-toward-us-capitol-with-shotgun-cops-11051267#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/peru-president-jose-jeri-impeached-after-4-months-in-office-amid-corruption-charges-11051184#publisher=newsstand",
+    "category": "india",
+    "title": "Peru President Impeached After 4 Months In Office Amid Corruption Charges",
+    "summary": "Peru's Congress on Tuesday impeached interim president Jose Jeri.",
+    "image": "https://c.ndtvimg.com/2026-02/9dv2c3ck_jose-jeri_625x300_18_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 18 Feb 2026 02:23:03 +0530",
+    "link": "https://www.ndtv.com/world-news/peru-president-jose-jeri-impeached-after-4-months-in-office-amid-corruption-charges-11051184#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/french-president-emmanuel-macron-invites-pm-modi-to-52nd-g7-summit-in-france-11051101#publisher=newsstand",
     "category": "india",
     "title": "French President Macron Invites PM Modi To 52nd G7 Summit In France",
@@ -60,26 +80,6 @@
     "link": "https://www.ndtv.com/india-news/comic-kunal-kamra-appears-before-committee-for-remarks-against-e-shinde-11050973#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/india-has-talent-entrepreneurial-energy-to-become-ai-powerhouse-pm-modi-11050969#publisher=newsstand",
-    "category": "india",
-    "title": "\"India Has Talent, Entrepreneurial Energy To Become AI Powerhouse\": PM Modi",
-    "summary": "PM Modi said that under the IndiaAI framework, startups and research institutions are being supported.",
-    "image": "https://c.ndtvimg.com/2023-01/ap1bgm1o_pm-modi-ndtv-650_650x400_23_January_23.jpg",
-    "source": "NDTV",
-    "pubDate": "Wed, 18 Feb 2026 00:27:49 +0530",
-    "link": "https://www.ndtv.com/india-news/india-has-talent-entrepreneurial-energy-to-become-ai-powerhouse-pm-modi-11050969#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/final-voter-list-released-in-gujarat-political-parties-clash-over-sir-11050968#publisher=newsstand",
-    "category": "india",
-    "title": "Final Voter List Released In Gujarat; Political Parties Clash Over SIR",
-    "summary": "The Special Intensive Revision began on October 27 last year in Gujarat.",
-    "image": "https://c.ndtvimg.com/2025-12/47j231hg_sir-generic_625x300_24_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 18 Feb 2026 00:27:35 +0530",
-    "link": "https://www.ndtv.com/india-news/final-voter-list-released-in-gujarat-political-parties-clash-over-sir-11050968#publisher=newsstand"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -88,6 +88,16 @@
     "source": "VentureBeat",
     "pubDate": "Wed, 07 Jan 2026 20:00:00 GMT",
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx2d9yk2kpjo#0",
+    "category": "global",
+    "title": "Dual nationals face scramble for British passports as new rules come into force",
+    "summary": "Entry requirements to the UK for dual nationals are being overhauled as part of sweeping changes to the immigration system.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 17 Feb 2026 21:41:07 GMT",
+    "link": "https://www.bbc.com/news/articles/cx2d9yk2kpjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-wall-street-regulator-calls-for-shrinking-exec-pay-disclosure/articleshow/128472260.cms",
@@ -150,6 +160,16 @@
     "link": "https://www.bbc.com/news/videos/cpqw2p1z19vo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.com/sport/articles/crl4x1g0jy1o#0",
+    "category": "global",
+    "title": "GB curlers on brink of early exit after Canada defeat",
+    "summary": "Team GB's Winter Olympics curling medal hopes are now in serious jeopardy after Bruce Mouat's world champions were beaten 9-5 by Canada in Cortina.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 17 Feb 2026 20:46:06 GMT",
+    "link": "https://www.bbc.com/sport/articles/crl4x1g0jy1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/raspberry-pi-soars-40-as-ceo-buys-stock-ai-chatter-builds/articleshow/128470430.cms",
     "category": "finance",
     "title": "US Stocks | Raspberry Pi shares soar 40% as CEO buys stock, AI chatter builds",
@@ -180,16 +200,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-lg-electronics-bank-of-india-among-3-stocks-to-buy-on-wednesday-for-up-to-9-upside/slideshow/128469662.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cx2d9yk2kpjo#0",
-    "category": "global",
-    "title": "Dual nationals face scramble for British passports as new rules come into force",
-    "summary": "Entry requirements to the UK for dual nationals are being overhauled as part of sweeping changes to the immigration system.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 17 Feb 2026 19:53:38 GMT",
-    "link": "https://www.bbc.com/news/articles/cx2d9yk2kpjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/carlsberg-considering-listing-of-india-business-to-unlock-shareholders-value-group-ceo/articleshow/128468848.cms",
     "category": "finance",
     "title": "Carlsberg considering listing of India business to unlock shareholders value: Group CEO",
@@ -198,16 +208,6 @@
     "source": "ET",
     "pubDate": "Tue, 17 Feb 2026 19:53:13 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/carlsberg-considering-listing-of-india-business-to-unlock-shareholders-value-group-ceo/articleshow/128468848.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cr7321n1n0eo#0",
-    "category": "global",
-    "title": "Shein under EU investigation over childlike sex dolls",
-    "summary": "Europe is examining whether the fast fashion giant breached the Digital Services Act.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 17 Feb 2026 19:08:57 GMT",
-    "link": "https://www.bbc.com/news/articles/cr7321n1n0eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1524694.html",
