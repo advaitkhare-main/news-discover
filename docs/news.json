@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://www.ndtv.com/india-news/india-france-express-concern-over-ukraine-war-call-for-2-state-solution-in-gaza-11051307#publisher=newsstand",
+    "category": "india",
+    "title": "India, France Express Concern Over Ukraine War; Back 2-State Gaza Solution",
+    "summary": "In a joint statement, the two leaders reiterated their concern over the war in Ukrain.",
+    "image": "https://c.ndtvimg.com/2026-02/2t00eugk_pm-modi-and-macron_625x300_18_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 18 Feb 2026 04:23:06 +0530",
+    "link": "https://www.ndtv.com/india-news/india-france-express-concern-over-ukraine-war-call-for-2-state-solution-in-gaza-11051307#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/uk-deputy-pm-david-lammy-arrives-in-delhi-for-ai-impact-summit-11051345#publisher=newsstand",
+    "category": "india",
+    "title": "UK Deputy PM David Lammy Arrives In Delhi For AI Impact Summit",
+    "summary": "In a joint statement issued by India and France, following bilateral talks during Macron's visit to India",
+    "image": "https://c.ndtvimg.com/2026-02/31nlmvik_david-lammy_625x300_18_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 18 Feb 2026 04:22:14 +0530",
+    "link": "https://www.ndtv.com/india-news/uk-deputy-pm-david-lammy-arrives-in-delhi-for-ai-impact-summit-11051345#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/18-year-old-man-arrested-after-running-toward-us-capitol-with-shotgun-cops-11051267#publisher=newsstand",
     "category": "india",
     "title": "18-Year-Old Man Arrested After Running Toward US Capitol With Shotgun: Cops",
@@ -60,26 +80,6 @@
     "link": "https://www.ndtv.com/world-news/bangladesh-pm-oath-taking-2026-live-updates-bangladesh-pm-tarique-rahman-bnp-government-swearing-in-dhaka-om-birla-11015273#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-military-airlifts-mini-nuclear-reactor-in-historic-first-test-flight-11014133#publisher=newsstand",
-    "category": "india",
-    "title": "US Military Airlifts Mini Nuclear Reactor In Historic First Test Flight",
-    "summary": "The Ward 250 is a five-megawatt nuclear reactor compact enough to fit inside a C-17aircraft.",
-    "image": "https://c.ndtvimg.com/2026-02/52l80lsk_us_625x300_17_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 18 Feb 2026 00:29:40 +0530",
-    "link": "https://www.ndtv.com/world-news/us-military-airlifts-mini-nuclear-reactor-in-historic-first-test-flight-11014133#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/comic-kunal-kamra-appears-before-committee-for-remarks-against-e-shinde-11050973#publisher=newsstand",
-    "category": "india",
-    "title": "Comic Kunal Kamra Appears Before Committee For Remarks Against E Shinde",
-    "summary": "Kunal Kamra said he felt safe.",
-    "image": "https://c.ndtvimg.com/2025-03/2e7u18fg_kunal-kamra_625x300_24_March_25.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 18 Feb 2026 00:29:07 +0530",
-    "link": "https://www.ndtv.com/india-news/comic-kunal-kamra-appears-before-committee-for-remarks-against-e-shinde-11050973#publisher=newsstand"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -88,6 +88,16 @@
     "source": "VentureBeat",
     "pubDate": "Wed, 07 Jan 2026 20:00:00 GMT",
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/czd8n800zdno#0",
+    "category": "global",
+    "title": "Tories call for rethink of Parliament revamp",
+    "summary": "Tory leader Kemi Badenoch says current plans to refurbish the Palace of Westminster are \"out of control\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 17 Feb 2026 22:21:52 GMT",
+    "link": "https://www.bbc.com/news/articles/czd8n800zdno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cx2d9yk2kpjo#0",
@@ -238,16 +248,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 17 Feb 2026 18:07:44 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1524792.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/czx7n9n0xrro#0",
-    "category": "global",
-    "title": "The fallout from Labour's local elections U-turn is not over yet",
-    "summary": "Keir Starmer and his team knew last week that delays to council elections would need to be reversed.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 17 Feb 2026 17:28:26 GMT",
-    "link": "https://www.bbc.com/news/articles/czx7n9n0xrro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1524769.html",
