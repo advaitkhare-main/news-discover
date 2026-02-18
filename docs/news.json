@@ -50,6 +50,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-bank-of-india-among-2-psu-bank-stocks-offering-up-to-8-upside/articleshow/128513227.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cy8gexml5xro#0",
+    "category": "global",
+    "title": "Bone cement shortage likely to lead to joint surgery delays, NHS warns",
+    "summary": "Around 1,000 operations a week rely on the product as patients are warned delays are inevitable.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 18 Feb 2026 20:25:37 GMT",
+    "link": "https://www.bbc.com/news/articles/cy8gexml5xro?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-markets-today-us-stocks-open-higher-as-tech-concerns-abate/articleshow/128512617.cms",
     "category": "finance",
     "title": "US stock markets today: US stocks trade higher as tech stocks rebound; Fed minutes in focus",
@@ -58,6 +68,16 @@
     "source": "ET",
     "pubDate": "Wed, 18 Feb 2026 20:07:51 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-markets-today-us-stocks-open-higher-as-tech-concerns-abate/articleshow/128512617.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c309qqyer8yo#0",
+    "category": "global",
+    "title": "Do not give away Diego Garcia, Trump tells UK",
+    "summary": "The US president says \"it will be a blight on our great ally\" if the Chagos Islands are handed over to Mauritius.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 18 Feb 2026 20:07:44 GMT",
+    "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mandates-uti-for-all-otc-derivatives-trades-from-jan-1/articleshow/128512433.cms",
@@ -80,20 +100,10 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1524946.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c309qqyer8yo#0",
-    "category": "global",
-    "title": "Do not give away Diego Garcia, Trump tells UK",
-    "summary": "The US president says \"it will be a blight on our great ally\" if the islands are handed over to Mauritius.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 18 Feb 2026 19:32:24 GMT",
-    "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c5y42znjnjvo#0",
     "category": "global",
-    "title": "Mark Zuckerberg testifies in landmark social media addiction trial",
-    "summary": "The billionaire Meta chief executive faces is questioned over whether use of Instagram harms children.",
+    "title": "Mark Zuckerberg defends Meta in landmark social media addiction trial",
+    "summary": "The billionaire chief executive faces is questioned over whether use of Instagram harms children.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Wed, 18 Feb 2026 19:27:53 GMT",
@@ -178,16 +188,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 18 Feb 2026 16:59:26 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1524954.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy8gexml5xro#0",
-    "category": "global",
-    "title": "Bone cement shortage likely to lead to joint surgery delays, NHS warns",
-    "summary": "Around 1,000 operations a week rely on the product as patients are warned delays are inevitable.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 18 Feb 2026 15:43:45 GMT",
-    "link": "https://www.bbc.com/news/articles/cy8gexml5xro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/weather/articles/cgrz24y2wvno#0",
