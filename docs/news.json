@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cvg19dp4vxgo#0",
+    "category": "global",
+    "title": "Eight skiers found dead after California avalanche",
+    "summary": "Fifteen skiers went missing on Tuesday following a massive avalanche in California's Lake Tahoe region. One person remains missing but is presumed dead.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 18 Feb 2026 23:06:14 GMT",
+    "link": "https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c5y42znjnjvo#0",
+    "category": "global",
+    "title": "Mark Zuckerberg defends Meta in landmark social media addiction trial",
+    "summary": "The billionaire boss said he \"always\" regretted not making faster progress to identify users under 13.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 18 Feb 2026 22:58:58 GMT",
+    "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cz6ed1549yvo#0",
+    "category": "global",
+    "title": "Tech firms will have 48 hours to remove abusive images under new law",
+    "summary": "The government is proposing that intimate image abuse should be treated more severely.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 18 Feb 2026 22:32:18 GMT",
+    "link": "https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c309qqyer8yo#0",
     "category": "global",
     "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
@@ -18,16 +48,6 @@
     "source": "ET",
     "pubDate": "Wed, 18 Feb 2026 22:02:50 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-starbucks-investor-group-urges-shareholders-to-replace-directors-over-labor-row/articleshow/128516692.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvg19dp4vxgo#0",
-    "category": "global",
-    "title": "Eight skiers found dead after California avalanche",
-    "summary": "Fifteen skiers went missing on Tuesday following a massive avalanche in California's Lake Tahoe region. One person remains missing but is presumed dead.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 18 Feb 2026 21:54:30 GMT",
-    "link": "https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/128513501.cms",
@@ -120,16 +140,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1524946.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c5y42znjnjvo#0",
-    "category": "global",
-    "title": "Mark Zuckerberg defends Meta in landmark social media addiction trial",
-    "summary": "The billionaire chief executive faces is questioned over whether use of Instagram harms children.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 18 Feb 2026 19:27:53 GMT",
-    "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1524970.html",
     "category": "sports",
     "title": "Dube, Varun keep India unbeaten for Super Eight",
@@ -138,16 +148,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 18 Feb 2026 17:55:05 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1524970.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cp85v315zvjo#0",
-    "category": "global",
-    "title": "Letter by young Queen Elizabeth II to be auctioned",
-    "summary": "The letter from Queen Elizabeth II asks if \"the birds are well, and the goldfish haven't died\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 18 Feb 2026 17:40:57 GMT",
-    "link": "https://www.bbc.com/news/articles/cp85v315zvjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/sport/football/articles/c4g82mr3l3vo#0",
@@ -260,6 +260,36 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/mark-zuckerberg-quizzed-on-kids-instagram-use-in-social-media-trial-11056218#publisher=newsstand",
+    "category": "india",
+    "title": "Mark Zuckerberg Quizzed On Kids' Instagram Use In Social Media Trial",
+    "summary": "Meta CEO Mark Zuckerberg arrives to the Los Angeles Superior Court on Wednesday.",
+    "image": "https://c.ndtvimg.com/2026-02/cr21gf3s_mark-zuckerberg_625x300_19_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 04:25:52 +0530",
+    "link": "https://www.ndtv.com/world-news/mark-zuckerberg-quizzed-on-kids-instagram-use-in-social-media-trial-11056218#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/donald-trump-warns-uk-over-indian-ocean-base-diego-garcia-amid-iran-tensions-11056298#publisher=newsstand",
+    "category": "india",
+    "title": "\"Don't Give Away Diego Garcia\": Trump Warns UK Amid Iran Tensions",
+    "summary": "Trump said that \"this land should not be taken away from the UK\", as it is vital for an attack on Iran",
+    "image": "https://c.ndtvimg.com/2026-02/4uv1hr98_donald-trump-keir-starmer_625x300_19_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 04:23:05 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trump-warns-uk-over-indian-ocean-base-diego-garcia-amid-iran-tensions-11056298#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-withdrawing-all-forces-from-syria-report-11056232#publisher=newsstand",
+    "category": "india",
+    "title": "US Withdrawing All Forces From Syria: Report",
+    "summary": "The Wall Street Journal reported the US was withdrawing all of its roughly 1,000 troops from Syria.",
+    "image": "https://c.ndtvimg.com/2026-02/79jk7a2c_us-troops-withdrawing-syria_625x300_19_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 03:47:34 +0530",
+    "link": "https://www.ndtv.com/world-news/us-withdrawing-all-forces-from-syria-report-11056232#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/8-of-9-missing-skiers-found-dead-in-california-avalanche-cops-11055972#publisher=newsstand",
     "category": "india",
     "title": "8 Of 9 Missing Skiers Found Dead In California Avalanche: Cops",
@@ -318,36 +348,6 @@
     "source": "NDTV",
     "pubDate": "Thu, 19 Feb 2026 00:37:08 +0530",
     "link": "https://www.ndtv.com/india-news/google-unveils-india-us-subsea-cable-to-boost-ai-connectivity-11055911#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/ajit-pawars-son-jay-demands-thorough-impartial-probe-into-plane-crash-11055910#publisher=newsstand",
-    "category": "india",
-    "title": "Ajit Pawar's Son Jay Demands Thorough, Impartial Probe Into Plane Crash",
-    "summary": "Jay Pawar stated that black boxes in aircraft accidents cannot be easily destroyed.",
-    "image": "https://c.ndtvimg.com/2026-02/eblq6u34_jai-pawar_625x300_18_February_26.jpg",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 00:36:38 +0530",
-    "link": "https://www.ndtv.com/india-news/ajit-pawars-son-jay-demands-thorough-impartial-probe-into-plane-crash-11055910#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/pm-modi-holds-bilateral-talks-with-world-leaders-on-ai-summit-sidelines-11055908#publisher=newsstand",
-    "category": "india",
-    "title": "PM Modi Holds Bilateral Talks With World Leaders On AI Summit Sidelines",
-    "summary": "Prime Minister Modi held several bilateral meetings on the sidelines of the summit.",
-    "image": "https://c.ndtvimg.com/2026-02/r87ni7b_pm-modi_625x300_19_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 00:36:05 +0530",
-    "link": "https://www.ndtv.com/india-news/pm-modi-holds-bilateral-talks-with-world-leaders-on-ai-summit-sidelines-11055908#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/man-barges-into-techie-ex-wifes-house-in-hyderabad-stabs-her-to-death-11055907#publisher=newsstand",
-    "category": "india",
-    "title": "Man Barges Into Techie Ex-Wife's House In Hyderabad, Stabs Her To Death",
-    "summary": "The man locked himself in the toilet after murdering the woman.",
-    "image": "https://c.ndtvimg.com/2026-02/mviouhp4_hyderabad-murder_625x300_19_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 00:35:23 +0530",
-    "link": "https://www.ndtv.com/india-news/man-barges-into-techie-ex-wifes-house-in-hyderabad-stabs-her-to-death-11055907#publisher=newsstand"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
