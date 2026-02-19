@@ -20,16 +20,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1524946.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1524970.html",
-    "category": "sports",
-    "title": "Dube, Varun keep India unbeaten for Super Eight",
-    "summary": "India extended their winning streak in T20 World Cups to 12 on a night Netherlands didn't do much wrong",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413808.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 18 Feb 2026 17:55:05 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1524970.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -58,6 +48,46 @@
     "source": "VentureBeat",
     "pubDate": "Thu, 22 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/msedcl-to-get-leaner-before-ipo-demerge-agri-biz-by-april-aims-listing-by-end-2026/articleshow/128546767.cms",
+    "category": "finance",
+    "title": "MSEDCL to get leaner before IPO, demerge agri biz by April; aims listing by end-2026",
+    "summary": "Maharashtra State Electricity Distribution Company plans a major restructuring. The agriculture business will be separated by April. This move precedes a planned Initial Public Offering by December. The company aims to reduce its debt significantly. ",
+    "image": "https://img.etimg.com/photo/msid-128546767,imgsize-43320.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 13:36:46 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/msedcl-to-get-leaner-before-ipo-demerge-agri-biz-by-april-aims-listing-by-end-2026/articleshow/128546767.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/pernod-has-no-plans-for-now-to-list-india-unit-ceo-says/articleshow/128546479.cms",
+    "category": "finance",
+    "title": "Pernod has no plans for now to list India unit, CEO says",
+    "summary": "\u200bPernod Ricard \u200bhas nothing new on the \u200chorizon \u2060in \u2060terms \u200bof an initial public offering \u200bof its Indian \u200bunit \u2060and this \u200cis \u200bone \u200bof \u2060a long list \u200bof options the company \u200breviews annually, CEO Alexandre \u200cRicard told Reuters following \u200breports \u200bthe \u2060",
+    "image": "https://img.etimg.com/photo/msid-128546479,imgsize-9622.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 13:33:42 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/pernod-has-no-plans-for-now-to-list-india-unit-ceo-says/articleshow/128546479.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/invitation-homes-forecasts-annual-ffo-below-estimates-on-higher-costs/articleshow/128546315.cms",
+    "category": "finance",
+    "title": "Invitation Homes forecasts annual FFO below estimates on higher costs",
+    "summary": "U.S.-based Invitation Homes forecast annual \u200bfunds from operations (FFO) \u200bbelow Wall Street estimates on \u200bWednesday, as the real estate investment trust navigates higher costs in an inflationary environment.",
+    "image": "https://img.etimg.com/photo/msid-128546315,imgsize-137250.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 13:26:32 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/invitation-homes-forecasts-annual-ffo-below-estimates-on-higher-costs/articleshow/128546315.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/jgb-yield-curve-continues-to-flatten-as-20-year-action-draws-firm-demand/articleshow/128546200.cms",
+    "category": "finance",
+    "title": "JGB yield curve continues to flatten as 20-year action draws firm demand",
+    "summary": "Japan's government bond (JGB) yield curve maintained its flattening \u200btrend on Thursday, as foreign investors \u200bsupported demand for a 20-year bond auction, the first after Prime \u200bMinister Sanae Takaichi's tax-cut pledge had sent its yield to record hi",
+    "image": "https://img.etimg.com/photo/msid-128546200,imgsize-219712.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 13:21:42 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/jgb-yield-curve-continues-to-flatten-as-20-year-action-draws-firm-demand/articleshow/128546200.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/patience-and-discipline-key-as-market-navigates-structural-shifts-samir-arora/articleshow/128545938.cms",
@@ -180,44 +210,24 @@
     "link": "https://www.ndtv.com/india-news/india-ai-impact-summit-2026-un-chief-says-ai-must-not-replace-human-potential-but-augment-it-11057112#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-hit-record-high-on-earnings-optimism-banks-miners-lead-broad-rally/articleshow/128545323.cms",
-    "category": "finance",
-    "title": "Global Markets | Australian shares hit record high on earnings optimism; banks, miners lead broad rally",
-    "summary": "Australian shares reached an all-time peak on Thursday. Strong company earnings fueled widespread gains. Banks and miners led the advance. The S&amp;P/ASX 200 index climbed significantly. Investors are watching upcoming earnings reports. Unemployment",
-    "image": "https://img.etimg.com/photo/msid-128545323,imgsize-154922.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 12:56:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-hit-record-high-on-earnings-optimism-banks-miners-lead-broad-rally/articleshow/128545323.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1525023.html",
+    "category": "sports",
+    "title": "India choose to bowl, Amanjot replaced Patil, Australia unchanged",
+    "summary": "Harmanpreet Kaur won the toss on a good surface in Canberra as India hope to close out the T20I series",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413500/413556.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 19 Feb 2026 08:31:58 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525023.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/itcs-worst-is-behind-but-patience-required-abneesh-roy-names-better-fmcg-bets-for-2025/articleshow/128545056.cms",
-    "category": "finance",
-    "title": "ITC's worst is behind, but patience required: Abneesh Roy names better FMCG bets for 2025",
-    "summary": "Consumer analyst Abneesh Roy sees a real FMCG revival driven by GST cuts, steady rural demand, and recovering urban consumption. He highlights Nestle, Britannia, Marico, and Tata Consumer as near-term beneficiaries, while positioning ITC as a one-to-",
-    "image": "https://img.etimg.com/photo/msid-128545056,imgsize-7834.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 12:52:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/itcs-worst-is-behind-but-patience-required-abneesh-roy-names-better-fmcg-bets-for-2025/articleshow/128545056.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-down-today-rs-3-lakh-crore-selloff-sensex-tanks-700-pts-nifty-below-25650-4-factors-behind-the-plunge/articleshow/128543605.cms",
-    "category": "finance",
-    "title": "Rs 3 lakh crore selloff! Sensex tanks 800 pts, Nifty below 25,600. 4 factors behind the plunge",
-    "summary": "Indian markets slumped on Thursday as Nifty and Sensex reversed early gains, dragged down by heavy selling across banking, metal, auto and FMCG stocks. Investor wealth fell by \u20b92.73 lakh crore. A hawkish US Fed outlook and a sharp rise in crude price",
-    "image": "https://img.etimg.com/photo/msid-128543605,imgsize-1491792.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 12:17:31 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-down-today-rs-3-lakh-crore-selloff-sensex-tanks-700-pts-nifty-below-25650-4-factors-behind-the-plunge/articleshow/128543605.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/indonesia-bond-auction-weak-but-not-distressing-central-bank-policy-decision-awaited/articleshow/128543388.cms",
-    "category": "finance",
-    "title": "Indonesia bond auction weak but not distressing, central bank policy decision awaited",
-    "summary": "Indonesia's recent bond auction saw softer demand, attributed to Lunar New Year holidays, despite market jitters from MSCI's downgrade warning and Moody's outlook cut. While foreign sentiment for rupiah bonds remains stable, concerns over policy pred",
-    "image": "https://img.etimg.com/photo/msid-128543388,imgsize-62184.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 12:06:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/indonesia-bond-auction-weak-but-not-distressing-central-bank-policy-decision-awaited/articleshow/128543388.cms"
+    "id": "https://www.bbc.com/news/articles/c309qv9zglno#0",
+    "category": "global",
+    "title": "Bill Gates pulls out of India's AI summit amid Epstein files controversy",
+    "summary": "The Gates Foundation said the decision was made to \"ensure the focus remains on the summit's key priorities\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Feb 2026 08:13:25 GMT",
+    "link": "https://www.bbc.com/news/articles/c309qv9zglno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525034.html",
@@ -282,7 +292,7 @@
   {
     "id": "https://www.bbc.com/news/articles/c204zpz0lyro#0",
     "category": "global",
-    "title": "White House says Iran would be 'wise' to make deal, as US ramps up military presence",
+    "title": "White House presses Iran to make deal, while ramping up military presence",
     "summary": "US media reports that Trump has discussed attack options with advisers, and a  strike could happen as early as Saturday.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -328,16 +338,6 @@
     "source": "BBC",
     "pubDate": "Thu, 19 Feb 2026 01:10:15 GMT",
     "link": "https://www.bbc.com/news/articles/cn71xyjpdl2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c3rz8q3qpwzo#0",
-    "category": "global",
-    "title": "Child poverty figures in the UK expected to be revised down",
-    "summary": "Official figures going back to 2018 are set to take billions in under-reported benefits income into account.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Feb 2026 01:03:10 GMT",
-    "link": "https://www.bbc.com/news/articles/c3rz8q3qpwzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cz6ed1549yvo#0",
