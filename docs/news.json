@@ -30,34 +30,84 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/feature/sarvam-ai-emergent-labs-neysa-and-c2i-emerging-stars-of-indian-ai-ecosystem-11066794#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/king-charles-brother-andrew-arrested-amid-probe-into-epstein-links-reports-11070833#publisher=newsstand",
     "category": "india",
-    "title": "Sarvam AI, Emergent Labs, Neysa And C2i: Emerging Stars Of Indian AI Ecosystem",
-    "summary": "Indian startups Sarvam AI, Emergent Labs, Neysa, and C2i mark key AI advancements.",
-    "image": "https://c.ndtvimg.com/2026-02/nlidqifo_as_625x300_19_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "King Charles' Brother Andrew Arrested Amid Probe Into Epstein Links: Reports",
+    "summary": "King Charles' Brother Andrew Arrested Amid Probe Into Epstein Links: Reports",
+    "image": "https://c.ndtvimg.com/2025-10/edgathvs_prince-andrew_625x300_31_October_25.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 14:36:01 +0530",
-    "link": "https://www.ndtv.com/feature/sarvam-ai-emergent-labs-neysa-and-c2i-emerging-stars-of-indian-ai-ecosystem-11066794#publisher=newsstand"
+    "pubDate": "Thu, 19 Feb 2026 15:55:30 +0530",
+    "link": "https://www.ndtv.com/world-news/king-charles-brother-andrew-arrested-amid-probe-into-epstein-links-reports-11070833#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/cbse-board-exams-2026-principals-must-complete-on-screen-marking-practice-cbse-issues-directive-11065971#publisher=newsstand",
+    "id": "https://www.ndtv.com/science/nasa-captures-dazzling-green-auroras-from-international-space-station-11070733#publisher=newsstand",
     "category": "india",
-    "title": "Principals Must Ensure Teachers Complete On-Screen Marking Practice: CBSE",
+    "title": "NASA Shares Photo Of Dazzling Green Auroras Captured From Space Station",
+    "summary": "The timelapse shows the Earth's stunning beauty from space.",
+    "image": "https://c.ndtvimg.com/2026-02/sl5ifojs_nasa_625x300_19_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 15:51:00 +0530",
+    "link": "https://www.ndtv.com/science/nasa-captures-dazzling-green-auroras-from-international-space-station-11070733#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/what-is-navitaire-and-why-a-glitch-grounded-flights-across-india-11066105#publisher=newsstand",
+    "category": "india",
+    "title": "What Is Navitaire, And Why A Glitch Grounded Flights Across India?",
+    "summary": "Navitaire is a travel technology company that provides software which airlines use to manage bookings",
+    "image": "https://c.ndtvimg.com/2025-05/p21o9tl8_rajasthan-3-civil-airports-are-opened_625x300_12_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 15:50:24 +0530",
+    "link": "https://www.ndtv.com/india-news/what-is-navitaire-and-why-a-glitch-grounded-flights-across-india-11066105#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/india-ai-impact-summit-2026-live-updates-bharat-mandapam-new-delhi-global-tech-leaders-pm-modi-to-inaugurate-ai-impact-summit-day-4-emmanuel-macron-11056518#publisher=newsstand",
+    "category": "india",
+    "title": "AI Summit 2026 LIVE Updates, Day 4: PM Modi Addresses AI Impact Summit",
+    "summary": "India AI Impact Summit 2026 LIVE Updates",
+    "image": "https://c.ndtvimg.com/2026-02/nriup3u8_pm-modi_625x300_19_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 15:46:06 +0530",
+    "link": "https://www.ndtv.com/india-news/india-ai-impact-summit-2026-live-updates-bharat-mandapam-new-delhi-global-tech-leaders-pm-modi-to-inaugurate-ai-impact-summit-day-4-emmanuel-macron-11056518#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/vances-expecting-fourth-child-help-families-in-need-usha-vance-asks-supporters-to-donate-diapers-11064822#publisher=newsstand",
+    "category": "india",
+    "title": "\"Help Families In Need\": Usha Vance Asks Supporters To Donate Diapers",
+    "summary": "The couple is expecting a baby boy in late July, they announced last month.",
+    "image": "https://c.ndtvimg.com/2026-01/3rtpukgo_usha-vance-family_625x300_21_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 15:45:19 +0530",
+    "link": "https://www.ndtv.com/world-news/vances-expecting-fourth-child-help-families-in-need-usha-vance-asks-supporters-to-donate-diapers-11064822#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/mamata-banerjee-ramakrishna-paramhansa-pm-narendra-modi-thakur-not-swami-mamata-banerjee-flags-pms-post-on-mystic-ramakrishna-11070747#publisher=newsstand",
+    "category": "india",
+    "title": "'Thakur, Not Swami': Mamata Banerjee Flags PM's Post On Mystic Ramakrishna",
+    "summary": "Mamata Banerjee flagged the PM's post on Ramakrishna Paramhansa",
+    "image": "https://c.ndtvimg.com/2026-02/tl6f4ook_ramakrishna-modi-mamata-_625x300_19_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 15:35:07 +0530",
+    "link": "https://www.ndtv.com/india-news/mamata-banerjee-ramakrishna-paramhansa-pm-narendra-modi-thakur-not-swami-mamata-banerjee-flags-pms-post-on-mystic-ramakrishna-11070747#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cbse-issues-important-instructions-for-on-screen-marking-before-evaluation-11065971#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE Issues Important Instructions For On-Screen Marking Before Evaluation",
     "summary": "CBSE On-Screen Marking 2026: CBSE will monitor data to track the completion of the assigned tasks.",
     "image": "https://c.ndtvimg.com/2025-08/6gs6f4vg_cbse-news_625x300_12_August_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 14:22:57 +0530",
-    "link": "https://www.ndtv.com/education/cbse-board-exams-2026-principals-must-complete-on-screen-marking-practice-cbse-issues-directive-11065971#publisher=newsstand"
+    "pubDate": "Thu, 19 Feb 2026 15:32:36 +0530",
+    "link": "https://www.ndtv.com/education/cbse-issues-important-instructions-for-on-screen-marking-before-evaluation-11065971#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/f-22-raptors-f-35-lightnings-us-unleashes-massive-air-armada-in-middle-east-iran-watches-11061589#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/age-could-be-dominant-factor-influencing-antibody-production-study-11069430#publisher=newsstand",
     "category": "india",
-    "title": "F-22 Raptors, F-35 Lightnings: US Unleashes Massive Air Armada, Iran Watches",
-    "summary": "Team Trump has sent additional land-based air defences into place across the Middle East.",
-    "image": "https://c.ndtvimg.com/2026-02/le0a56f_iran-news_625x300_19_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Your Age May Influence Antibody Production In Response To A Virus: Study",
+    "summary": "Age strongly influences antibody production against viruses, researchers find. A Nature Immunology study shows age, sex, and genetics shape immune responses, with implications for tailored treatments.",
+    "image": "https://c.ndtvimg.com/2021-06/65nv6rk_antibodytestbloomberg650_625x300_11_June_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 14:21:39 +0530",
-    "link": "https://www.ndtv.com/world-news/f-22-raptors-f-35-lightnings-us-unleashes-massive-air-armada-in-middle-east-iran-watches-11061589#publisher=newsstand"
+    "pubDate": "Thu, 19 Feb 2026 15:28:55 +0530",
+    "link": "https://www.ndtv.com/health/age-could-be-dominant-factor-influencing-antibody-production-study-11069430#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/is-mcx-stock-too-expensive-after-doubling-money-in-just-1-year-a-cme-case-study-explains-it/articleshow/128548728.cms",
@@ -70,46 +120,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/is-mcx-stock-too-expensive-after-doubling-money-in-just-1-year-a-cme-case-study-explains-it/articleshow/128548728.cms"
   },
   {
-    "id": "https://www.ndtv.com/karnataka-news/karnataka-dog-attack-on-cctv-stray-dogs-attack-karnataka-girl-6-she-suffers-severe-eye-injury-11065990#publisher=newsstand",
-    "category": "india",
-    "title": "On CCTV, Stray Dogs Attack Karnataka Girl, 6. She Suffers Severe Eye Injury",
-    "summary": "Anvita, 6, sustained injuries to her eye, hand, legs and back.",
-    "image": "https://c.ndtvimg.com/2026-02/rr2264bk_karnataka-dog-attack_625x300_19_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 14:15:45 +0530",
-    "link": "https://www.ndtv.com/karnataka-news/karnataka-dog-attack-on-cctv-stray-dogs-attack-karnataka-girl-6-she-suffers-severe-eye-injury-11065990#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/what-kind-of-culture-supreme-court-slams-freebies-ahead-of-elections-11063650#publisher=newsstand",
-    "category": "india",
-    "title": "\"Not A Penny Left For Development\": Top Court Slams Pre-Election 'Freebies'",
-    "summary": "The Supreme Court came down hard on state governments' practice of pre-election handouts, or 'freebies', in a series of strong statements Thursday morning, and demanded to know how they planned to fund actual development if they continued offering \"f",
-    "image": "https://c.ndtvimg.com/2026-02/ft7cnpr4_freebies-generic-image_625x300_19_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 14:12:59 +0530",
-    "link": "https://www.ndtv.com/india-news/what-kind-of-culture-supreme-court-slams-freebies-ahead-of-elections-11063650#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/adani-group-announces-scholarships-for-young-talent-at-indias-top-business-schools-11054888#publisher=newsstand",
-    "category": "india",
-    "title": "Adani Group Announces Scholarships For Young Talent At India's Top Business Schools",
-    "summary": "The 2025-27 cohort reflects the depth and diversity of India's emerging leadership pool.",
-    "image": "https://c.ndtvimg.com/2026-02/kdloh9dk_adani-accelerated-leadership-programme_625x300_19_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 14:11:16 +0530",
-    "link": "https://www.ndtv.com/india-news/adani-group-announces-scholarships-for-young-talent-at-indias-top-business-schools-11054888#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/punjab-woman-99-robbed-killed-body-found-inside-iron-trunk-11065887#publisher=newsstand",
-    "category": "india",
-    "title": "Punjab Woman, 99, Robbed, Killed, Body Found Inside Iron Trunk",
-    "summary": "Police have filed an FIR against a man who is currently on run.",
-    "image": "https://i.ndtvimg.com/i/2018-04/punjab-police-generic-afp-650_650x400_71522596621.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 14:11:04 +0530",
-    "link": "https://www.ndtv.com/india-news/punjab-woman-99-robbed-killed-body-found-inside-iron-trunk-11065887#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/market-volatility-calls-for-selective-trading-focus-on-psu-stocks-rahul-sharma/articleshow/128548226.cms",
     "category": "finance",
     "title": "Market volatility calls for selective trading, focus on PSU stocks: Rahul Sharma",
@@ -118,16 +128,6 @@
     "source": "ET",
     "pubDate": "Thu, 19 Feb 2026 14:10:13 +0530",
     "link": "https://economictimes.indiatimes.com/markets/expert-view/market-volatility-calls-for-selective-trading-focus-on-psu-stocks-rahul-sharma/articleshow/128548226.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/health/taking-magnesium-supplements-follow-these-7-tips-for-maximum-absorption-11065909#publisher=newsstand",
-    "category": "india",
-    "title": "Taking Magnesium Supplements? Follow These 7 Tips For Maximum Absorption",
-    "summary": "Taking magnesium supplements with meals can help enhance absorption",
-    "image": "https://c.ndtvimg.com/2023-12/g538t5c_pill_625x300_20_December_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 14:01:16 +0530",
-    "link": "https://www.ndtv.com/health/taking-magnesium-supplements-follow-these-7-tips-for-maximum-absorption-11065909#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/msedcl-to-get-leaner-before-ipo-demerge-agri-biz-by-april-aims-listing-by-end-2026/articleshow/128546767.cms",
@@ -190,19 +190,49 @@
     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/mainboard-ipo-omnitech-engineering-to-launch-rs-583-crore-offer-next-week-check-dates-and-other-details/articleshow/128546058.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c3rz8z33rqxo#1",
+    "category": "global",
+    "title": "Starmer appoints Dame Antonia Romeo as head of UK civil service",
+    "summary": "Dame Antonia will be the first woman to hold the post and replaces Sir Chris Wormald as the UK's top civil servant.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Feb 2026 10:28:16 GMT",
+    "link": "https://www.bbc.com/news/articles/c3rz8z33rqxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1525056.html",
     "category": "sports",
     "title": "Hope's 75, Forde and Joseph's wickets help WI go into playoffs unconquered",
     "summary": "Italy had their moments in the T20 World Cup game at Eden Gardens, but fell well short and now go back home with the one win against Nepal and a lot of memories to cherish",
     "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413821.jpg",
     "source": "Cricinfo",
-    "pubDate": "Thu, 19 Feb 2026 09:37:52 GMT",
+    "pubDate": "Thu, 19 Feb 2026 09:56:29 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525056.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn71xyjpdl2o#1",
+    "category": "global",
+    "title": "Why there's no quick fix in sight for the problem of dazzling headlights",
+    "summary": "Road users say headlight glare is an issue - but experts warn a solution might not be straightforward.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Feb 2026 09:43:37 GMT",
+    "link": "https://www.bbc.com/news/articles/cn71xyjpdl2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx2d041wl6po#1",
+    "category": "global",
+    "title": "Pupils with SEND to have support reviewed after primary, leaked plans suggest",
+    "summary": "Leaks suggest plans for a complete redesign of special educational needs and disabilities support in schools.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Feb 2026 09:41:32 GMT",
+    "link": "https://www.bbc.com/news/articles/cx2d041wl6po?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525045.html",
     "category": "sports",
-    "title": "India's problems with fingerspin could 'be a differentiator' in playoffs, says ten Doeschate",
+    "title": "India's problems with fingerspin could 'be a differentiator', says ten Doeschate",
     "summary": "As things stand, \"we're going to make do with the abundance of left-handers,\" Ryan ten Doeschate says of India's options",
     "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413800.jpg",
     "source": "Cricinfo",
@@ -210,10 +240,10 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1525045.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c747nqply93o#0",
+    "id": "https://www.bbc.com/news/articles/c747nqply93o#1",
     "category": "global",
-    "title": "Detained Brit describes life in Iran jail to BBC hours before sentencing",
-    "summary": "Lindsay and Craig Foreman were arrested in January 2025 and were sentenced to 10 years on Wednesday.",
+    "title": "Detained British woman describes life in Iran jail hours before being sentenced to 10 years",
+    "summary": "In a rare telephone interview from Tehran's Evin prison, Lindsay Foreman, whose husband is also held in Iran, likened their detainment to \"an endurance test for the mind\".",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Thu, 19 Feb 2026 09:36:20 GMT",
@@ -230,16 +260,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1525054.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c3rz8z33rqxo#0",
-    "category": "global",
-    "title": "Starmer appoints Dame Antonia Romeo as head of UK civil service",
-    "summary": "Dame Antonia will be the first woman to hold the post and replaces Sir Chris Wormald as the UK's top civil servant.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Feb 2026 09:24:45 GMT",
-    "link": "https://www.bbc.com/news/articles/c3rz8z33rqxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1524955.html",
     "category": "sports",
     "title": "Jhye Richardson joins Yorkshire for start of County Championship",
@@ -250,7 +270,7 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1524955.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c309qqyer8yo#0",
+    "id": "https://www.bbc.com/news/articles/c309qqyer8yo#1",
     "category": "global",
     "title": "Do not give away Diego Garcia, Trump tells UK, in latest reversal on Chagos",
     "summary": "The president's comments come just a day after the US gave its official backing to the UK's Chagos deal.",
@@ -270,6 +290,16 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1525023.html?ex_cid=OTC-RSS"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cpqw74d81jqo#1",
+    "category": "global",
+    "title": "Sudan atrocities are 'hallmarks of genocide', UN says",
+    "summary": "A UN fact-finding mission issued the report after investigating the capture of el-Fasher by the Rapid Support Forces.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Feb 2026 08:08:41 GMT",
+    "link": "https://www.bbc.com/news/articles/cpqw74d81jqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1525034.html",
     "category": "sports",
     "title": "Bas de Leede reiterates demand for 'more opportunities against the big teams'",
@@ -278,16 +308,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 19 Feb 2026 07:47:31 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525034.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/crm83kkrn9xo#0",
-    "category": "global",
-    "title": "PM says 'nobody is above the law' over Andrew allegations",
-    "summary": "Police are currently considering allegations against Andrew, who has consistently denied any wrongdoing.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Feb 2026 07:40:37 GMT",
-    "link": "https://www.bbc.com/news/articles/crm83kkrn9xo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1524998.html",
@@ -310,7 +330,7 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1524994.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c204zpz0lyro#0",
+    "id": "https://www.bbc.com/news/articles/c204zpz0lyro#1",
     "category": "global",
     "title": "White House presses Iran to make deal, while ramping up military presence",
     "summary": "US media reports that Trump has discussed attack options with advisers, and a  strike could happen as early as Saturday.",
@@ -320,27 +340,7 @@
     "link": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cx2d041wl6po#0",
-    "category": "global",
-    "title": "Pupils with SEND to have support reviewed after primary, leaked plans suggest",
-    "summary": "Leaks suggest plans for a complete redesign of special educational needs and disabilities support in schools.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Feb 2026 01:32:15 GMT",
-    "link": "https://www.bbc.com/news/articles/cx2d041wl6po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn71xyjpdl2o#0",
-    "category": "global",
-    "title": "Why there's no quick fix in sight for the problem of dazzling headlights",
-    "summary": "Road users say headlight glare is an issue - but experts warn a solution might not be straightforward.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Feb 2026 01:10:15 GMT",
-    "link": "https://www.bbc.com/news/articles/cn71xyjpdl2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cz6ed1549yvo#0",
+    "id": "https://www.bbc.com/news/articles/cz6ed1549yvo#1",
     "category": "global",
     "title": "Tech firms will have 48 hours to remove abusive images under new law",
     "summary": "The government is proposing that intimate image abuse should be treated more severely.",
