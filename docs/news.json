@@ -40,16 +40,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1524883.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1524930.html",
-    "category": "sports",
-    "title": "Party at Premadasa as Sri Lanka face Zimbabwe with nothing on line",
-    "summary": "Both teams have already qualified for the Super Eight",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413700/413724.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 18 Feb 2026 17:30:33 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1524930.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -80,6 +70,46 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/indonesia-bond-auction-weak-but-not-distressing-central-bank-policy-decision-awaited/articleshow/128543388.cms",
+    "category": "finance",
+    "title": "Indonesia bond auction weak but not distressing, central bank policy decision awaited",
+    "summary": "Indonesia's recent bond auction saw softer demand, attributed to Lunar New Year holidays, despite market jitters from MSCI's downgrade warning and Moody's outlook cut. While foreign sentiment for rupiah bonds remains stable, concerns over policy pred",
+    "image": "https://img.etimg.com/photo/msid-128543388,imgsize-62184.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 12:06:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/indonesia-bond-auction-weak-but-not-distressing-central-bank-policy-decision-awaited/articleshow/128543388.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/godfrey-phillips-india-shares-rocket-31-in-just-3-sessions-heres-whats-fuelling-the-rally/articleshow/128541984.cms",
+    "category": "finance",
+    "title": "Godfrey Phillips India shares rocket 31% in just 3 sessions! Here\u2019s what\u2019s fuelling the rally",
+    "summary": "Godfrey Phillips India shares are surging. Companies are raising cigarette prices to cover higher costs, in light of the new tobacco tax regime. The price hikes aim to reduce expected profit declines. Marlboro Compact prices have increased. ITC is al",
+    "image": "https://img.etimg.com/photo/msid-128541984,imgsize-134002.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 11:53:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/godfrey-phillips-india-shares-rocket-31-in-just-3-sessions-heres-whats-fuelling-the-rally/articleshow/128541984.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-rise-2-after-tata-group-and-openai-announce-strategic-partnership/articleshow/128542438.cms",
+    "category": "finance",
+    "title": "TCS shares rise 2% after Tata Group and OpenAI announce strategic partnership",
+    "summary": "Tata Consultancy Services (TCS) shares surged after announcing a strategic partnership with OpenAI to build AI infrastructure in India and offer joint market solutions. This collaboration aims to boost productivity, enhance software engineering, and ",
+    "image": "https://img.etimg.com/photo/msid-128542438,imgsize-51502.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 11:41:54 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-rise-2-after-tata-group-and-openai-announce-strategic-partnership/articleshow/128542438.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/stock-picking-key-amid-ai-and-valuation-concerns-amit-khurana/articleshow/128542285.cms",
+    "category": "finance",
+    "title": "Stock picking key as markets navigate AI uncertainty: Amit Khurana",
+    "summary": "India Inc.'s third-quarter earnings show a steady performance with easing operating pressures, suggesting improving earnings visibility. While domestic consumption remains a preferred theme, caution persists regarding AI cycle uncertainty and valuati",
+    "image": "https://img.etimg.com/photo/msid-128542285,imgsize-17566.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 11:37:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/stock-picking-key-amid-ai-and-valuation-concerns-amit-khurana/articleshow/128542285.cms"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/sundar-pichai-india-ai-impact-summit-2026-google-ceo-on-driverless-cabs-on-indian-roads-still-working-on-that-11057043#publisher=newsstand",
     "category": "india",
     "title": "\"Still Working On That, Dad\": Sundar Pichai On Driverless Cabs On Indian Roads",
@@ -88,6 +118,16 @@
     "source": "NDTV",
     "pubDate": "Thu, 19 Feb 2026 11:17:53 +0530",
     "link": "https://www.ndtv.com/india-news/sundar-pichai-india-ai-impact-summit-2026-google-ceo-on-driverless-cabs-on-indian-roads-still-working-on-that-11057043#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/indian-brokers-lobby-seeks-6-month-freeze-on-new-rbi-rules-report/articleshow/128541503.cms",
+    "category": "finance",
+    "title": "Indian brokers' lobby seeks 6-month freeze on new RBI rules: Report",
+    "summary": "India\u2019s brokers\u2019 lobby has urged the Reserve Bank of India to defer its newly issued lending norms for six months, citing operational challenges.",
+    "image": "https://img.etimg.com/photo/msid-128541503,imgsize-35960.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 11:16:18 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-brokers-lobby-seeks-6-month-freeze-on-new-rbi-rules-report/articleshow/128541503.cms"
   },
   {
     "id": "https://www.ndtv.com/india-news/pm-modi-highlights-indias-manav-vision-at-mega-ai-impact-summit-11057084#publisher=newsstand",
@@ -190,54 +230,64 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-foreign-buying-of-us-stocks-jumps-134-in-2025-despite-tariffs/articleshow/128540769.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-single-family-housing-starts-rebound-in-january-building-permits-decline/articleshow/128540584.cms",
-    "category": "finance",
-    "title": "US single-family housing starts rebound in January, building permits decline",
-    "summary": "U.S. single-family homebuilding saw a rebound in December, with starts increasing. However, a decline in future construction permits signals underlying weakness. Higher mortgage rates, material costs, and builder sentiment deterioration are constrain",
-    "image": "https://img.etimg.com/photo/msid-128540584,imgsize-205394.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 10:50:12 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-single-family-housing-starts-rebound-in-january-building-permits-decline/articleshow/128540584.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1524998.html",
+    "category": "sports",
+    "title": "Lauren Down calls time on her cricket career",
+    "summary": "\"I will miss being around the girls, but I'm now looking forward to watching on from the sidelines,\" she said",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/382200/382238.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 19 Feb 2026 06:45:26 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1524998.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/japans-20-year-bonds-take-first-super-long-auction-since-election-in-stride/articleshow/128540514.cms",
-    "category": "finance",
-    "title": "Japan's 20-year bonds take first super-long auction since election in stride",
-    "summary": "Japan's 20-year bond yield remained stable following a moderately firm auction, showing little reaction to a previous tax-cut pledge that had sent yields soaring. Foreign investors are reportedly leading demand, attracted by higher yields on hedged b",
-    "image": "https://img.etimg.com/photo/msid-128540514,imgsize-409410.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 10:48:06 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/japans-20-year-bonds-take-first-super-long-auction-since-election-in-stride/articleshow/128540514.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1524994.html",
+    "category": "sports",
+    "title": "Bangladesh's new sports minister wants to 'resolve issue' with India quickly",
+    "summary": "\"We want to maintain friendly relations with all our neighbouring countries,\" new sports minister Aminul Haque says",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/406800/406803.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 19 Feb 2026 06:40:33 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1524994.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/strong-earnings-trent-vedanta-among-10-largecaps-that-clocked-highest-profit-growth-of-up-to-125-yoy-in-q3/slideshow/128539782.cms",
-    "category": "finance",
-    "title": "Strong earnings: Trent, Vedanta among 10 largecaps that clocked highest profit growth of up to 125% YoY in Q3",
-    "summary": "Several Indian largecap companies showed strong financial results in the December quarter. Trent and Vedanta were among ten firms that achieved substantial profit growth, with some seeing increases up to 125 percent year-on-year. Other companies like",
-    "image": "https://img.etimg.com/photo/msid-128539622,imgsize-34848.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 10:20:56 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/strong-earnings-trent-vedanta-among-10-largecaps-that-clocked-highest-profit-growth-of-up-to-125-yoy-in-q3/slideshow/128539782.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1524997.html",
+    "category": "sports",
+    "title": "Boland's six dismantles WA to book Victoria home Sheffield Shield final",
+    "summary": "The Test quick claimed the first five wickets in the second innings as the visitors surged to a huge win in Perth",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413814.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 19 Feb 2026 06:22:16 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1524997.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/green-push-gathers-pace-as-idfc-first-bank-sees-rising-traction-in-deposits-and-ev-financing/articleshow/128539203.cms",
-    "category": "finance",
-    "title": "Green push gathers pace as IDFC First Bank sees rising traction in deposits and EV financing",
-    "summary": "Banks are witnessing a surge in customer interest for green products and lending, particularly driven by younger demographics' environmental consciousness. IDFC First Bank reports significant adoption of green deposits and profitable electric vehicle",
-    "image": "https://img.etimg.com/photo/msid-128539203,imgsize-79008.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 10:08:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/green-push-gathers-pace-as-idfc-first-bank-sees-rising-traction-in-deposits-and-ev-financing/articleshow/128539203.cms"
+    "id": "https://www.bbc.com/news/articles/crm83kkrn9xo#0",
+    "category": "global",
+    "title": "PM says 'nobody is above the law' over Andrew allegations",
+    "summary": "Police are currently considering allegations against Andrew, who has consistently denied any wrongdoing.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Feb 2026 06:08:57 GMT",
+    "link": "https://www.bbc.com/news/articles/crm83kkrn9xo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/320-multibagger-to-up-to-40-crashes-how-mukul-agrawals-2025-26-ipo-bets-are-playing-out/articleshow/128538104.cms",
-    "category": "finance",
-    "title": "From 320% multibagger to 44% underperformer, how Mukul Agrawal\u2019s 2025-26 IPO bets are playing out",
-    "summary": "Ace investor Mukul Agrawal's 2025-26 IPO investments reveal a bold strategy.  Several small and medium enterprise listings delivered massive returns, turning into multibaggers.  However, some mainboard and SME stocks experienced significant drops.  T",
-    "image": "https://img.etimg.com/photo/msid-128538104,imgsize-58932.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 10:05:12 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/320-multibagger-to-up-to-40-crashes-how-mukul-agrawals-2025-26-ipo-bets-are-playing-out/articleshow/128538104.cms"
+    "id": "https://www.bbc.com/news/articles/c204zpz0lyro#0",
+    "category": "global",
+    "title": "White House says Iran would be 'wise' to make deal, as US ramps up military presence",
+    "summary": "US media reports that Trump has discussed attack options with advisers, and a  strike could happen as early as Saturday.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Feb 2026 06:08:07 GMT",
+    "link": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c747nqply93o#0",
+    "category": "global",
+    "title": "British couple jailed by Iran for 10 years, family says",
+    "summary": "Lindsay and Craig Foreman were arrested in January 2025 and have allegedly been held in \"dire\" conditions.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Feb 2026 06:04:57 GMT",
+    "link": "https://www.bbc.com/news/articles/c747nqply93o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525012.html",
@@ -258,46 +308,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 19 Feb 2026 05:37:14 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525002.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c7v0ev05mdjo#0",
-    "category": "global",
-    "title": "Mystery origins of 'smiling' fossil revealed",
-    "summary": "The unusual looking fossil is estimated to be a few hundred million years old dating to the Carboniferous period.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Feb 2026 05:07:07 GMT",
-    "link": "https://www.bbc.com/news/articles/c7v0ev05mdjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1524998.html",
-    "category": "sports",
-    "title": "Lauren Down calls time on her cricket career",
-    "summary": "\"I will miss being around the girls, but I'm now looking forward to watching on from the sidelines,\" Lauren Down says in her retirement announcement",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/382200/382238.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 19 Feb 2026 04:51:39 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1524998.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1524994.html",
-    "category": "sports",
-    "title": "Bangladesh's new sports minister wants to 'resolve issue' with India quickly",
-    "summary": "\"We want to maintain friendly relations with all our neighboring countries,\" new sports minister Aminul Haque says",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/408100/408196.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 19 Feb 2026 04:46:28 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1524994.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c204zpz0lyro#0",
-    "category": "global",
-    "title": "White House says Iran would be 'wise' to make deal, as US ramps up military presence",
-    "summary": "The White House spokeswoman says there are \"many reasons and arguments that one could make for a strike against Iran\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Feb 2026 04:05:26 GMT",
-    "link": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cx2d041wl6po#0",
@@ -338,16 +348,6 @@
     "source": "BBC",
     "pubDate": "Thu, 19 Feb 2026 00:55:16 GMT",
     "link": "https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c98g1klxnpxo#0",
-    "category": "global",
-    "title": "Hamas is reasserting control in Gaza despite its heavy losses fighting Israel",
-    "summary": "Gazans say Hamas is again extending its control over security, tax revenue and government services.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Feb 2026 00:04:44 GMT",
-    "link": "https://www.bbc.com/news/articles/c98g1klxnpxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
