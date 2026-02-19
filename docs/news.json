@@ -30,16 +30,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1524970.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1524883.html",
-    "category": "sports",
-    "title": "Dilshan Madushanka replaces injured Pathirana at T20 World Cup",
-    "summary": "Sri Lanka's last group game is against Zimbabwe on Thursday",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413600/413683.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 18 Feb 2026 17:31:34 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1524883.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -70,6 +60,156 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/patience-and-discipline-key-as-market-navigates-structural-shifts-samir-arora/articleshow/128545938.cms",
+    "category": "finance",
+    "title": "Patience and discipline key as market navigates structural shifts: Samir Arora",
+    "summary": "Market veteran Samir Arora expresses cautious optimism for India's equity market, expecting a stable trajectory with reasonable earnings growth. He advises investors to remain disciplined, particularly in the IT sector, urging patience until visibili",
+    "image": "https://img.etimg.com/photo/msid-128545938,imgsize-21846.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 13:16:26 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/patience-and-discipline-key-as-market-navigates-structural-shifts-samir-arora/articleshow/128545938.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/mainboard-ipo-omnitech-engineering-to-launch-rs-583-crore-offer-next-week-check-dates-and-other-details/articleshow/128546058.cms",
+    "category": "finance",
+    "title": "Mainboard IPO: Omnitech Engineering to launch Rs 583 crore offer next week. Check dates and other details",
+    "summary": "Omnitech Engineering, a Gujarat-based precision components maker, has filed its RHP for a Rs 583 crore IPO comprising a Rs 418 crore fresh issue and a Rs 165 crore offer for sale by promoter Udaykumar Arunkumar Parekh. The issue will be offered via t",
+    "image": "https://img.etimg.com/photo/msid-128546058,imgsize-58932.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 13:15:09 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/mainboard-ipo-omnitech-engineering-to-launch-rs-583-crore-offer-next-week-check-dates-and-other-details/articleshow/128546058.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-south-korea-shares-close-at-record-high-as-chips-rally/articleshow/128545848.cms",
+    "category": "finance",
+    "title": "Global Markets | South Korea shares close at record high as chips rally",
+    "summary": "South Korean shares surged to a record high, driven by a tech-led rebound on Wall Street. The benchmark KOSPI closed up 3.09%, with major tech and auto companies seeing significant gains. Meanwhile, the won weakened against the dollar, and benchmark ",
+    "image": "https://img.etimg.com/photo/msid-128545848,imgsize-94049.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 13:09:16 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-south-korea-shares-close-at-record-high-as-chips-rally/articleshow/128545848.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/can-kajal-or-eyeliner-cause-eye-infections-yes-hygiene-tips-are-not-optional-11057270#publisher=newsstand",
+    "category": "india",
+    "title": "Can Kajal Or Eyeliner Cause Eye Infections? Yes, Hygiene Tips Are Not Optional",
+    "summary": "Because the eye's surface is delicate and exposed, even minor contamination can result in irritation",
+    "image": "https://c.ndtvimg.com/2026-02/2dt6k6ps_kajal-freepik_625x300_19_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 13:04:30 +0530",
+    "link": "https://www.ndtv.com/health/can-kajal-or-eyeliner-cause-eye-infections-yes-hygiene-tips-are-not-optional-11057270#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/sam-altman-dario-amodei-india-ai-impact-summit-pm-modi-ai-cold-war-on-stage-openai-anthropic-ceos-awkward-moment-at-delhi-summit-11058324#publisher=newsstand",
+    "category": "india",
+    "title": "AI Cold War On Stage: OpenAI, Anthropic CEOs' Awkward Moment At Delhi Summit",
+    "summary": "Prime Minister Narendra Modi stood at the centre of the high-profile lineup.",
+    "image": "https://c.ndtvimg.com/2026-02/s2uvrsq8_sam-altman-dario-amodei-_625x300_19_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 13:04:27 +0530",
+    "link": "https://www.ndtv.com/india-news/sam-altman-dario-amodei-india-ai-impact-summit-pm-modi-ai-cold-war-on-stage-openai-anthropic-ceos-awkward-moment-at-delhi-summit-11058324#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cbse-warns-students-parents-against-fake-paper-leak-claims-amid-exams-11063697#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE Warns Students, Parents Against Fake Paper Leak Claims Amid Exams",
+    "summary": "CBSE Board Exams 2026: The CBSE board examinations for Class 10 and 12 are currently underway.",
+    "image": "https://c.ndtvimg.com/2026-02/tp9u8jug_cbse-board-exams-2026_625x300_19_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 13:03:18 +0530",
+    "link": "https://www.ndtv.com/education/cbse-warns-students-parents-against-fake-paper-leak-claims-amid-exams-11063697#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/mohan-bhagwat-pm-narendra-modi-pib-fact-check-rss-chief-asked-pm-to-saffronise-army-centre-calls-out-fake-video-11063693#publisher=newsstand",
+    "category": "india",
+    "title": "RSS Chief Asked PM To \"Saffronise\" Army? Centre Calls Out Fake Video",
+    "summary": "A fake video of RSS chief Bhagwat talking about PM Modi has circulated on internet",
+    "image": "https://c.ndtvimg.com/2025-08/dneij7e8_pm-modi-bhagwat_650x400_28_August_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 13:02:31 +0530",
+    "link": "https://www.ndtv.com/india-news/mohan-bhagwat-pm-narendra-modi-pib-fact-check-rss-chief-asked-pm-to-saffronise-army-centre-calls-out-fake-video-11063693#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/just-5-weeks-of-brain-training-may-cut-dementia-risk-by-20-years-claims-new-study-11057150#publisher=newsstand",
+    "category": "india",
+    "title": "Just 5 Weeks Of Brain Training May Cut Dementia Risk By 20 Years, Claims New Study",
+    "summary": "A discovery that could improve brain health and lower the risk of dementia",
+    "image": "https://c.ndtvimg.com/2026-02/b39730q4_elderly_625x300_19_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 13:00:14 +0530",
+    "link": "https://www.ndtv.com/health/just-5-weeks-of-brain-training-may-cut-dementia-risk-by-20-years-claims-new-study-11057150#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/neha-singh-galgotias-university-ai-summit-galgotias-rep-neha-singhs-open-to-work-linkedin-pic-viral-after-robot-row-11063664#publisher=newsstand",
+    "category": "india",
+    "title": "Galgotias Rep Neha Singh's \"Open To Work\" LinkedIn Pic Viral After Robot Row",
+    "summary": "Neha Singh's \"Open To Work\" LinkedIn picture has now gone viral amid the row.",
+    "image": "https://c.ndtvimg.com/2026-02/o5e0138_neha-singh-galgotias_625x300_19_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 13:00:11 +0530",
+    "link": "https://www.ndtv.com/india-news/neha-singh-galgotias-university-ai-summit-galgotias-rep-neha-singhs-open-to-work-linkedin-pic-viral-after-robot-row-11063664#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/10-mfs-added-11-stocks-in-january-26-50100-surge-in-a-year-one-turned-multibagger/slideshow/128545806.cms",
+    "category": "finance",
+    "title": "10+ MFs added 11 stocks in January \u201926; 50\u2013100% surge in a year, one turned multibagger",
+    "summary": "Mutual funds sustained strong buying momentum in January 2026, investing over Rs 42,000 crore in equities. ETMarkets analysis shows 31 stocks were added across multiple schemes, with 11 delivering 50\u2013100% returns over one year, including a multibagge",
+    "image": "https://img.etimg.com/photo/msid-128545459,imgsize-47064.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 12:59:48 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-mfs-added-11-stocks-in-january-26-50100-surge-in-a-year-one-turned-multibagger/slideshow/128545806.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/what-kind-of-culture-supreme-court-slams-freebies-ahead-of-elections-11063650#publisher=newsstand",
+    "category": "india",
+    "title": "\"What Kind Of Culture...?\" Supreme Court Slams 'Freebies' Ahead Of Elections",
+    "summary": "\"What Kind Of Culture...?\" Supreme Court Slams 'Freebies' Ahead Of Elections",
+    "image": "https://c.ndtvimg.com/2022-02/a1ooga8_supreme-court-of-india_650x400_14_February_22.jpg",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 12:57:08 +0530",
+    "link": "https://www.ndtv.com/india-news/what-kind-of-culture-supreme-court-slams-freebies-ahead-of-elections-11063650#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/india-ai-impact-summit-2026-un-chief-says-ai-must-not-replace-human-potential-but-augment-it-11057112#publisher=newsstand",
+    "category": "india",
+    "title": "AI Must Not Replace Human Potential, But Augment It: UN Chief",
+    "summary": "UN Chief emphasised that \"AI must be safe for everyone\".",
+    "image": "https://c.ndtvimg.com/2026-02/f03ladn4_un-chief-antonio-guterres_625x300_19_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 12:56:52 +0530",
+    "link": "https://www.ndtv.com/india-news/india-ai-impact-summit-2026-un-chief-says-ai-must-not-replace-human-potential-but-augment-it-11057112#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-hit-record-high-on-earnings-optimism-banks-miners-lead-broad-rally/articleshow/128545323.cms",
+    "category": "finance",
+    "title": "Global Markets | Australian shares hit record high on earnings optimism; banks, miners lead broad rally",
+    "summary": "Australian shares reached an all-time peak on Thursday. Strong company earnings fueled widespread gains. Banks and miners led the advance. The S&amp;P/ASX 200 index climbed significantly. Investors are watching upcoming earnings reports. Unemployment",
+    "image": "https://img.etimg.com/photo/msid-128545323,imgsize-154922.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 12:56:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-hit-record-high-on-earnings-optimism-banks-miners-lead-broad-rally/articleshow/128545323.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/itcs-worst-is-behind-but-patience-required-abneesh-roy-names-better-fmcg-bets-for-2025/articleshow/128545056.cms",
+    "category": "finance",
+    "title": "ITC's worst is behind, but patience required: Abneesh Roy names better FMCG bets for 2025",
+    "summary": "Consumer analyst Abneesh Roy sees a real FMCG revival driven by GST cuts, steady rural demand, and recovering urban consumption. He highlights Nestle, Britannia, Marico, and Tata Consumer as near-term beneficiaries, while positioning ITC as a one-to-",
+    "image": "https://img.etimg.com/photo/msid-128545056,imgsize-7834.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 12:52:03 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/itcs-worst-is-behind-but-patience-required-abneesh-roy-names-better-fmcg-bets-for-2025/articleshow/128545056.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-down-today-rs-3-lakh-crore-selloff-sensex-tanks-700-pts-nifty-below-25650-4-factors-behind-the-plunge/articleshow/128543605.cms",
+    "category": "finance",
+    "title": "Rs 3 lakh crore selloff! Sensex tanks 800 pts, Nifty below 25,600. 4 factors behind the plunge",
+    "summary": "Indian markets slumped on Thursday as Nifty and Sensex reversed early gains, dragged down by heavy selling across banking, metal, auto and FMCG stocks. Investor wealth fell by \u20b92.73 lakh crore. A hawkish US Fed outlook and a sharp rise in crude price",
+    "image": "https://img.etimg.com/photo/msid-128543605,imgsize-1491792.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 12:17:31 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-down-today-rs-3-lakh-crore-selloff-sensex-tanks-700-pts-nifty-below-25650-4-factors-behind-the-plunge/articleshow/128543605.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/bonds/indonesia-bond-auction-weak-but-not-distressing-central-bank-policy-decision-awaited/articleshow/128543388.cms",
     "category": "finance",
     "title": "Indonesia bond auction weak but not distressing, central bank policy decision awaited",
@@ -80,154 +220,34 @@
     "link": "https://economictimes.indiatimes.com/markets/bonds/indonesia-bond-auction-weak-but-not-distressing-central-bank-policy-decision-awaited/articleshow/128543388.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/godfrey-phillips-india-shares-rocket-31-in-just-3-sessions-heres-whats-fuelling-the-rally/articleshow/128541984.cms",
-    "category": "finance",
-    "title": "Godfrey Phillips India shares rocket 31% in just 3 sessions! Here\u2019s what\u2019s fuelling the rally",
-    "summary": "Godfrey Phillips India shares are surging. Companies are raising cigarette prices to cover higher costs, in light of the new tobacco tax regime. The price hikes aim to reduce expected profit declines. Marlboro Compact prices have increased. ITC is al",
-    "image": "https://img.etimg.com/photo/msid-128541984,imgsize-134002.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 11:53:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/godfrey-phillips-india-shares-rocket-31-in-just-3-sessions-heres-whats-fuelling-the-rally/articleshow/128541984.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1525034.html",
+    "category": "sports",
+    "title": "Bas de Leede reiterates demand for 'more opportunities against the big teams'",
+    "summary": "\"We can only hope this World Cup may change that,\" Bas de Leede says of the Associates' struggle to perform consistently against the Full Members",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413200/413214.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 19 Feb 2026 07:47:31 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525034.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-rise-2-after-tata-group-and-openai-announce-strategic-partnership/articleshow/128542438.cms",
-    "category": "finance",
-    "title": "TCS shares rise 2% after Tata Group and OpenAI announce strategic partnership",
-    "summary": "Tata Consultancy Services (TCS) shares surged after announcing a strategic partnership with OpenAI to build AI infrastructure in India and offer joint market solutions. This collaboration aims to boost productivity, enhance software engineering, and ",
-    "image": "https://img.etimg.com/photo/msid-128542438,imgsize-51502.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 11:41:54 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-rise-2-after-tata-group-and-openai-announce-strategic-partnership/articleshow/128542438.cms"
+    "id": "https://www.bbc.com/news/articles/crm83kkrn9xo#0",
+    "category": "global",
+    "title": "PM says 'nobody is above the law' over Andrew allegations",
+    "summary": "Police are currently considering allegations against Andrew, who has consistently denied any wrongdoing.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Feb 2026 07:40:37 GMT",
+    "link": "https://www.bbc.com/news/articles/crm83kkrn9xo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/stock-picking-key-amid-ai-and-valuation-concerns-amit-khurana/articleshow/128542285.cms",
-    "category": "finance",
-    "title": "Stock picking key as markets navigate AI uncertainty: Amit Khurana",
-    "summary": "India Inc.'s third-quarter earnings show a steady performance with easing operating pressures, suggesting improving earnings visibility. While domestic consumption remains a preferred theme, caution persists regarding AI cycle uncertainty and valuati",
-    "image": "https://img.etimg.com/photo/msid-128542285,imgsize-17566.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 11:37:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/stock-picking-key-amid-ai-and-valuation-concerns-amit-khurana/articleshow/128542285.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/sundar-pichai-india-ai-impact-summit-2026-google-ceo-on-driverless-cabs-on-indian-roads-still-working-on-that-11057043#publisher=newsstand",
-    "category": "india",
-    "title": "\"Still Working On That, Dad\": Sundar Pichai On Driverless Cabs On Indian Roads",
-    "summary": "Sundar Pichai at the India AI Impact Summit in New Delhi",
-    "image": "https://c.ndtvimg.com/2026-02/gnmtofg4_sundar-pichai_625x300_19_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 11:17:53 +0530",
-    "link": "https://www.ndtv.com/india-news/sundar-pichai-india-ai-impact-summit-2026-google-ceo-on-driverless-cabs-on-indian-roads-still-working-on-that-11057043#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/indian-brokers-lobby-seeks-6-month-freeze-on-new-rbi-rules-report/articleshow/128541503.cms",
-    "category": "finance",
-    "title": "Indian brokers' lobby seeks 6-month freeze on new RBI rules: Report",
-    "summary": "India\u2019s brokers\u2019 lobby has urged the Reserve Bank of India to defer its newly issued lending norms for six months, citing operational challenges.",
-    "image": "https://img.etimg.com/photo/msid-128541503,imgsize-35960.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 11:16:18 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-brokers-lobby-seeks-6-month-freeze-on-new-rbi-rules-report/articleshow/128541503.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/pm-modi-highlights-indias-manav-vision-at-mega-ai-impact-summit-11057084#publisher=newsstand",
-    "category": "india",
-    "title": "PM Modi Highlights India's 'MANAV' Vision At Mega AI Impact Summit",
-    "summary": "Prime Minister Narendra Modi today outlined India's \"MANAV\" vision for artificial intelligence while addressing global leaders at the AI Impact Summit in New Delhi.",
-    "image": "https://c.ndtvimg.com/2026-02/6njkq5qg_modi_625x300_19_February_26.jpg",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 11:13:10 +0530",
-    "link": "https://www.ndtv.com/india-news/pm-modi-highlights-indias-manav-vision-at-mega-ai-impact-summit-11057084#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/how-mothers-diagnosis-led-to-bigohealth-founders-cancer-care-mission-11057152#publisher=newsstand",
-    "category": "india",
-    "title": "How Mother's Diagnosis Led To BigOHealth Founder's Cancer Care Mission",
-    "summary": "BigOHealth co-founder Gaurav Kumar.",
-    "image": "https://c.ndtvimg.com/2026-02/7cj9tft8_gaurav-kumar_625x300_19_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 11:09:14 +0530",
-    "link": "https://www.ndtv.com/india-news/how-mothers-diagnosis-led-to-bigohealth-founders-cancer-care-mission-11057152#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/tata-investment-corp-shares-jump-13-on-buzz-around-n-chandrasekarans-third-term-at-tata-sons/articleshow/128541016.cms",
-    "category": "finance",
-    "title": "Tata Investment Corp shares jump 13% on buzz around N Chandrasekaran\u2019s third term at Tata Sons",
-    "summary": "Shares of Tata Investment Corporation rose sharply after Tata Sons was reported to be preparing an EGM to clear N. Chandrasekaran\u2019s third-term reappointment. With Tata Sons holding a majority stake, the move has heightened investor interest amid wide",
-    "image": "https://img.etimg.com/photo/msid-128541016,imgsize-32488.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 11:02:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-investment-corp-shares-jump-13-on-buzz-around-n-chandrasekarans-third-term-at-tata-sons/articleshow/128541016.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/health/mammootty-opens-up-about-temporarily-losing-smell-and-taste-senses-why-does-temporary-sensory-loss-happen-and-how-to-recover-11055322#publisher=newsstand",
-    "category": "india",
-    "title": "Mammootty Opens Up About Temporarily Losing Smell And Taste Senses: Why Does Temporary Sensory Loss Happen, And How To R",
-    "summary": "Malayalam star Mammootty recently opened up about a quiet health struggle. Here are the possible reasons behind why he lost his sense of taste and smell, and how to recover effectively.",
-    "image": "https://c.ndtvimg.com/2026-02/5kq02mng_mammootty_625x300_18_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 11:00:59 +0530",
-    "link": "https://www.ndtv.com/health/mammootty-opens-up-about-temporarily-losing-smell-and-taste-senses-why-does-temporary-sensory-loss-happen-and-how-to-recover-11055322#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/delta-flight-makes-emergency-landing-after-unruly-passenger-punches-man-attempts-to-access-cockpit-11057115#publisher=newsstand",
-    "category": "india",
-    "title": "Delta Flight Makes Emergency Landing After Unruly Passenger Punches Man, Attempts To Access Cockpit",
-    "summary": "An unruly passenger on Delta Flight 2557 caused an emergency landing.",
-    "image": "https://c.ndtvimg.com/2024-10/k060c59_delta-airlines_625x300_26_October_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 10:58:56 +0530",
-    "link": "https://www.ndtv.com/world-news/delta-flight-makes-emergency-landing-after-unruly-passenger-punches-man-attempts-to-access-cockpit-11057115#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/telangana-inter-2nd-year-exams-from-february-26-direct-link-to-download-hall-tickets-here-11057114#publisher=newsstand",
-    "category": "india",
-    "title": "Telangana Inter 2nd Year Exams From February 26, Download Hall Tickets Here",
-    "summary": "Telangana Inter 2nd Year Exams 2026: The examinations will be held from February 26 to March 18.",
-    "image": "https://c.ndtvimg.com/2025-05/dbsgtf8k_exams_295x200_12_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 10:58:40 +0530",
-    "link": "https://www.ndtv.com/education/telangana-inter-2nd-year-exams-from-february-26-direct-link-to-download-hall-tickets-here-11057114#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/india-built-what-no-other-country-can-frances-macron-at-ai-impact-summit-11056974#publisher=newsstand",
-    "category": "india",
-    "title": "\"India Built What No Other Country Can\": France's Macron At AI Impact Summit",
-    "summary": "France President Emmanuel Macron began his address at the India AI Impact Summit Thursday with a 'namaste' and praise for India for having \"built what no other country can\".",
-    "image": "https://c.ndtvimg.com/2026-02/dk1nqtog_macron_625x300_19_February_26.jpg",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 10:58:27 +0530",
-    "link": "https://www.ndtv.com/india-news/india-built-what-no-other-country-can-frances-macron-at-ai-impact-summit-11056974#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-turn-big-bear-on-it-stocks-pull-out-another-rs-11000-crore-in-2-weeks/articleshow/128540876.cms",
-    "category": "finance",
-    "title": "FIIs turn big bear on IT stocks, pull out another Rs 11,000 crore in 2 weeks",
-    "summary": "Foreign institutional investors are rapidly exiting Indian IT stocks, pulling out nearly Rs 11,000 crore in early February and over Rs 74,000 crore so far in 2025, amid fears that advanced AI tools from firms like Anthropic and Palantir Technologies ",
-    "image": "https://img.etimg.com/photo/msid-128540876,imgsize-128926.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 10:57:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-turn-big-bear-on-it-stocks-pull-out-another-rs-11000-crore-in-2-weeks/articleshow/128540876.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/meet-ankur-vora-who-will-represent-gates-foundation-at-india-ai-impact-summit-instead-of-bill-gates-11056945#publisher=newsstand",
-    "category": "india",
-    "title": "Meet Ankur Vora, Who Will Represent Gates Foundation At India AI Summit",
-    "summary": "Ankur Vora is currently based in Seattle, Washington",
-    "image": "https://c.ndtvimg.com/2026-02/6ujjlars_ankur-vora_625x300_19_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 10:56:01 +0530",
-    "link": "https://www.ndtv.com/india-news/meet-ankur-vora-who-will-represent-gates-foundation-at-india-ai-impact-summit-instead-of-bill-gates-11056945#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-foreign-buying-of-us-stocks-jumps-134-in-2025-despite-tariffs/articleshow/128540769.cms",
-    "category": "finance",
-    "title": "US Stock Market | Foreign buying of US stocks jumps 134% in 2025 despite tariffs",
-    "summary": "Foreign investors more than doubled their purchases of US equities in 2025, defying market volatility triggered by President Donald Trump\u2019s tariffs. Net buying surged 134% to $720.1 billion from $307.5 billion in 2024, according to US Treasury Depart",
-    "image": "https://img.etimg.com/photo/msid-128540769,imgsize-765180.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 10:54:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-foreign-buying-of-us-stocks-jumps-134-in-2025-despite-tariffs/articleshow/128540769.cms"
+    "id": "https://www.bbc.com/news/articles/c747nqply93o#0",
+    "category": "global",
+    "title": "British couple jailed by Iran for 10 years, family says",
+    "summary": "Lindsay and Craig Foreman were arrested in January 2025 and have allegedly been held in \"dire\" conditions.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Feb 2026 07:38:52 GMT",
+    "link": "https://www.bbc.com/news/articles/c747nqply93o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1524998.html",
@@ -260,16 +280,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1524997.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/crm83kkrn9xo#0",
-    "category": "global",
-    "title": "PM says 'nobody is above the law' over Andrew allegations",
-    "summary": "Police are currently considering allegations against Andrew, who has consistently denied any wrongdoing.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Feb 2026 06:08:57 GMT",
-    "link": "https://www.bbc.com/news/articles/crm83kkrn9xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c204zpz0lyro#0",
     "category": "global",
     "title": "White House says Iran would be 'wise' to make deal, as US ramps up military presence",
@@ -278,16 +288,6 @@
     "source": "BBC",
     "pubDate": "Thu, 19 Feb 2026 06:08:07 GMT",
     "link": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c747nqply93o#0",
-    "category": "global",
-    "title": "British couple jailed by Iran for 10 years, family says",
-    "summary": "Lindsay and Craig Foreman were arrested in January 2025 and have allegedly been held in \"dire\" conditions.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Feb 2026 06:04:57 GMT",
-    "link": "https://www.bbc.com/news/articles/c747nqply93o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525012.html",
