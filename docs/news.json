@@ -20,16 +20,6 @@
     "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/sport/articles/c0q3nejy1pjo#0",
-    "category": "global",
-    "title": "GB curlers emerge from epic day with medal hopes revived",
-    "summary": "Team GB's Winter Olympics curling medal hopes in both the men's and women's events are somehow still alive after a day of epic drama in Cortina.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 18 Feb 2026 20:23:36 GMT",
-    "link": "https://www.bbc.com/sport/articles/c0q3nejy1pjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1524946.html",
     "category": "sports",
     "title": "Matthew Mott joins Lancashire as T20 consultant",
@@ -48,16 +38,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 18 Feb 2026 17:55:05 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1524970.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/sport/football/articles/c4g82mr3l3vo#0",
-    "category": "global",
-    "title": "Vinicius: Eight years at Real Madrid, 20 cases of alleged racist abuse",
-    "summary": "Spanish football expert Guillem Balague details how Vincius Jr has become a global symbol of resistance against discrimination.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 18 Feb 2026 17:40:56 GMT",
-    "link": "https://www.bbc.com/sport/football/articles/c4g82mr3l3vo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1524883.html",
@@ -90,16 +70,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1524934.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cjd9xnjyy8po#0",
-    "category": "global",
-    "title": "Teenage girls lured into forced sex by gangs in London, BBC finds",
-    "summary": "Our investigation reveals gangs from a range of ethnic backgrounds are operating widely in the capital, exploiting girls and young women.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 18 Feb 2026 17:01:16 GMT",
-    "link": "https://www.bbc.com/news/articles/cjd9xnjyy8po?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1524954.html",
     "category": "sports",
     "title": "Agha hails Pakistan's 'complete performance' after Namibia win",
@@ -118,16 +88,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 18 Feb 2026 14:27:38 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1524919.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1524922.html",
-    "category": "sports",
-    "title": "India bring in Washington Sundar and opt to bat; Croes in for Netherlands",
-    "summary": "Back from the slower surface of Colombo, India went back to Arshdeep Singh in place of Kuldeep Yadav",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413700/413746.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 18 Feb 2026 14:11:11 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1524922.html?ex_cid=OTC-RSS"
   },
   {
     "id": "4ri2LVmhlv34kOOk94nnsi",
@@ -160,144 +120,194 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/bank-of-india-shows-strong-momentum-axis-securities-recommends-accumulate/videoshow/128498264.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gold-silver-prices-little-changed-as-traders-assess-usiran-tensions-fed-rate-cut-uncertainty-what-are-experts-saying/articleshow/128538067.cms",
     "category": "finance",
-    "title": "Bank of India shows strong momentum; Axis Securities recommends accumulate",
+    "title": "Gold, silver prices little changed as traders assess US\u2013Iran tensions, Fed rate-cut uncertainty. What are experts saying",
+    "summary": "Gold and silver prices traded marginally lower on MCX as investors assessed rising US\u2013Iran tensions and uncertainty around Federal Reserve rate cuts. While safe-haven demand supported bullion, a stronger dollar capped gains. Experts suggest caution a",
+    "image": "https://img.etimg.com/photo/msid-128538067,imgsize-126002.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 09:30:47 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gold-silver-prices-little-changed-as-traders-assess-usiran-tensions-fed-rate-cut-uncertainty-what-are-experts-saying/articleshow/128538067.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/indian-currency-debt-markets-shut-on-february-19-for-holiday/articleshow/128537888.cms",
+    "category": "finance",
+    "title": "Indian currency, debt markets shut on February 19 for holiday",
+    "summary": "Indian currency and debt markets will be closed on Thursday, February 19, for a local holiday. Trading will resume on Friday, February 20. The Indian rupee closed nearly flat on Wednesday. The benchmark 10-year bond closed lower. Market participants ",
+    "image": "https://img.etimg.com/photo/msid-128537888,imgsize-47754.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 09:25:12 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/indian-currency-debt-markets-shut-on-february-19-for-holiday/articleshow/128537888.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/this-indian-smallcap-fund-beating-93-of-peers-bets-on-internet-value-stocks/articleshow/128537861.cms",
+    "category": "finance",
+    "title": "This Indian smallcap fund beating 93% of peers bets on internet value stocks",
+    "summary": "Bandhan Small Cap Fund, which outperformed 93% of peers last year, is investing in beaten-down Indian internet firms like Paytm and Info Edge. The fund manager sees opportunity in unpopular value stocks with potential for significant gains, even amid",
+    "image": "https://img.etimg.com/photo/msid-128537861,imgsize-708779.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 09:24:32 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/this-indian-smallcap-fund-beating-93-of-peers-bets-on-internet-value-stocks/articleshow/128537861.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-100-pts-nifty-above-25800-led-by-it-stocks-smart-rebound/articleshow/128537821.cms",
+    "category": "finance",
+    "title": "Sensex rises over 100 pts, Nifty above 25,800 led by IT stocks\u2019 smart rebound",
+    "summary": "Indian equity benchmarks, Nifty and Sensex, opened higher on Thursday, extending their winning streak for a fourth consecutive session. Gains in IT and metal stocks propelled the frontline indices upwards, with Sensex trading over 100 points higher a",
+    "image": "https://img.etimg.com/photo/msid-128537821,imgsize-16064.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 09:24:23 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-100-pts-nifty-above-25800-led-by-it-stocks-smart-rebound/articleshow/128537821.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/aurobindo-pharma-among-4-fampo-stocks-saw-a-high-increase-in-futures-open-interest/slideshow/128537963.cms",
+    "category": "finance",
+    "title": "\u200bAurobindo Pharma among 4 F&amp;O stocks saw a high increase in futures open interest",
     "summary": "",
-    "image": "https://img.etimg.com/photo/msid-128498264,imgsize-51772.cms",
+    "image": "https://img.etimg.com/photo/msid-128537845,imgsize-93168.cms",
     "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 07:00:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/bank-of-india-shows-strong-momentum-axis-securities-recommends-accumulate/videoshow/128498264.cms"
+    "pubDate": "Thu, 19 Feb 2026 09:23:48 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/aurobindo-pharma-among-4-fampo-stocks-saw-a-high-increase-in-futures-open-interest/slideshow/128537963.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128533209.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-fed-rate-checks-on-dollaryen-spark-intervention-speculation/articleshow/128537656.cms",
     "category": "finance",
-    "title": "GIFT Nifty up 30 points; here's the trading setup for today's session",
-    "summary": "Indian equity markets continued their upward trend for a third consecutive session, signaling a gradual recovery. Analysts anticipate sustained market strength with a positive bias, influenced by global market sentiment and domestic sector-specific d",
-    "image": "https://img.etimg.com/photo/msid-128533209,imgsize-88221.cms",
+    "title": "US Stock Market | Fed rate checks on dollar\u2013yen spark intervention speculation",
+    "summary": "The US Federal Reserve sought market quotes on the dollar-yen exchange rate last month. This uncommon step, requested by the US Treasury, stirred speculation about potential coordinated action between Washington and Tokyo. The development drew attent",
+    "image": "https://img.etimg.com/photo/msid-128537656,imgsize-141180.cms",
     "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 06:30:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128533209.cms"
+    "pubDate": "Thu, 19 Feb 2026 09:20:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-fed-rate-checks-on-dollaryen-spark-intervention-speculation/articleshow/128537656.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-cochin-shipyard-bharat-forge-hul-dr-reddys-lt/articleshow/128533117.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/dr-reddys-laboratories-shares-in-focus-after-acquiring-india-trademarks-for-two-hrt-drugs-for-32-million/articleshow/128537483.cms",
     "category": "finance",
-    "title": "Stocks in news: Cochin Shipyard, Bharat Forge, HUL, Dr Reddy's, L&amp;T",
-    "summary": "Indian markets saw modest gains for a third straight session. Key stocks like Cochin Shipyard and Bharat Forge are in focus. Cochin Shipyard secured new orders. Bharat Forge is exploring technology collaborations. Hindustan Unilever plans manufacturi",
-    "image": "https://img.etimg.com/photo/msid-128533117,imgsize-47238.cms",
+    "title": "Dr. Reddy\u2019s Laboratories shares in focus after acquiring India trademarks for two HRT drugs for $32 million",
+    "summary": "Dr. Reddy's Laboratories is set to attract investor attention after acquiring the India trademarks for specialty brands Progynova\u00ae and Cyclo-Progynova\u00ae from Mercury Pharma Group Limited for USD 32.15 million. This domestic acquisition significantly s",
+    "image": "https://img.etimg.com/photo/msid-128537483,imgsize-522418.cms",
     "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 06:26:32 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-cochin-shipyard-bharat-forge-hul-dr-reddys-lt/articleshow/128533117.cms"
+    "pubDate": "Thu, 19 Feb 2026 09:11:24 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/dr-reddys-laboratories-shares-in-focus-after-acquiring-india-trademarks-for-two-hrt-drugs-for-32-million/articleshow/128537483.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-after-tech-boosts-us-equities/articleshow/128533022.cms",
-    "category": "finance",
-    "title": "Global Market Today | Asian stocks rise after tech boosts US equities",
-    "summary": "Asian stocks climbed for a second day, mirroring a rebound in US tech shares and strong economic data. Oil prices held onto recent gains, marking their largest increase since October. Investors are reassessing the impact of artificial intelligence on",
-    "image": "https://img.etimg.com/photo/msid-128533022,imgsize-252278.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 06:22:01 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-after-tech-boosts-us-equities/articleshow/128533022.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/india-set-to-become-a-meaningful-part-of-lgt-biz-regulatory-complexity-a-hurdle-prince-max-von-und-zu-liechtenstein/articleshow/128532737.cms",
-    "category": "finance",
-    "title": "India set to become a meaningful part of LGT biz; regulatory complexity a hurdle: Prince Max von und zu Liechtenstein",
-    "summary": "LGT Group sees India as a key growth market. Prince Max von und zu Liechtenstein highlights India's potential to become a very meaningful part of their global business. While regulatory hurdles exist, LGT is optimistic about its expansion. The firm f",
-    "image": "https://img.etimg.com/photo/msid-128532737,imgsize-10998.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 06:10:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/india-set-to-become-a-meaningful-part-of-lgt-biz-regulatory-complexity-a-hurdle-prince-max-von-und-zu-liechtenstein/articleshow/128532737.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/metal-stocks-glitter-on-dalal-street-eye-stronger-march-quarter/articleshow/128532575.cms",
-    "category": "finance",
-    "title": "Metal stocks glitter on Dalal Street, eye stronger March quarter",
-    "summary": "Indian metal stocks are performing strongly. Prices for steel and non-ferrous metals have risen significantly. This is due to increased demand, government policies, and limited supply. Steel companies are seeing better earnings. Non-ferrous producers",
-    "image": "https://img.etimg.com/photo/msid-128532575,imgsize-73896.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 06:03:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/metal-stocks-glitter-on-dalal-street-eye-stronger-march-quarter/articleshow/128532575.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ma-funding-norms-open-up-a-15-b-opportunity-for-banks/articleshow/128532445.cms",
-    "category": "finance",
-    "title": "M&amp;A funding norms open up a $15-b opportunity for banks",
-    "summary": "New Reserve Bank of India guidelines liberalize merger and acquisition financing, allowing Indian banks to fund up to 75% of acquisition costs with a 3:1 debt-equity ratio. This unlocks a potential $10-15 billion annual opportunity for domestic lende",
-    "image": "https://img.etimg.com/photo/msid-128532445,imgsize-121170.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 05:57:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ma-funding-norms-open-up-a-15-b-opportunity-for-banks/articleshow/128532445.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/unique-transaction-id-to-be-must-for-otc-derivatives-deals-rbi/articleshow/128532381.cms",
-    "category": "finance",
-    "title": "Unique transaction ID to be must for OTC derivatives deals: RBI",
-    "summary": "The Reserve Bank of India will mandate unique transaction identifiers (UTIs) for all over-the-counter derivative trades starting January 1, 2027. This move aims to enhance traceability and risk monitoring for instruments like FX and interest rate der",
-    "image": "https://img.etimg.com/photo/msid-128532381,imgsize-367412.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Feb 2026 05:51:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/unique-transaction-id-to-be-must-for-otc-derivatives-deals-rbi/articleshow/128532381.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/court-denies-bail-to-contractors-in-delhi-biker-death-case-11056359#publisher=newsstand",
+    "id": "https://www.ndtv.com/feature/meet-param-powerful-made-in-india-robodog-developed-by-bengaluru-startup-11056708#publisher=newsstand",
     "category": "india",
-    "title": "Court Denies Bail To Contractors In Delhi Biker Death Case",
-    "summary": "Kamal Dhyani was found dead in a construction pit in Janakpuri in Delhi.",
-    "image": "https://c.ndtvimg.com/2026-02/fefh8mqo_janakpuri-case_625x300_07_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Meet Param, 'Powerful' Made-In-India Robodog Developed By Bengaluru Startup",
+    "summary": "The startup has previously exhibited the robot dog in front of Prime Minister Narendra Modi last month at a programme marking a decade of the Startup India initiative.",
+    "image": "https://c.ndtvimg.com/2026-02/77mi97eg_as_625x300_19_February_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 05:16:53 +0530",
-    "link": "https://www.ndtv.com/india-news/court-denies-bail-to-contractors-in-delhi-biker-death-case-11056359#publisher=newsstand"
+    "pubDate": "Thu, 19 Feb 2026 09:08:53 +0530",
+    "link": "https://www.ndtv.com/feature/meet-param-powerful-made-in-india-robodog-developed-by-bengaluru-startup-11056708#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/in-assam-only-500-appeals-filed-after-electoral-rolls-special-revision-poll-body-chief-11056345#publisher=newsstand",
+    "id": "https://www.ndtv.com/opinion/machismo-vs-national-survival-can-rahul-stalin-really-afford-to-break-away-11056704#publisher=newsstand",
     "category": "india",
-    "title": "In Assam, Only 500 Appeals Filed After Electoral Rolls Special Revision",
-    "summary": "The poll body will keep in mind the Rongali Bihu festival while announcing election dates, Kumar said.",
-    "image": "https://c.ndtvimg.com/2025-10/vfba8olk_eci-gyanesh-kumar_625x300_27_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Opinion: Opinion | Machismo vs Survival: Can Rahul-Stalin Really Afford to Break Away?",
+    "summary": "Congress breaking away will weaken the DMK alliance, but it would not necessarily strengthen the Congress, either.",
+    "image": "https://i.ndtvimg.com/i/2016-05/rahul-gandhi-with-mk-stalin_650x400_81462630494.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 04:53:44 +0530",
-    "link": "https://www.ndtv.com/india-news/in-assam-only-500-appeals-filed-after-electoral-rolls-special-revision-poll-body-chief-11056345#publisher=newsstand"
+    "pubDate": "Thu, 19 Feb 2026 09:07:08 +0530",
+    "link": "https://www.ndtv.com/opinion/machismo-vs-national-survival-can-rahul-stalin-really-afford-to-break-away-11056704#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/mark-zuckerberg-quizzed-on-kids-instagram-use-in-social-media-trial-11056218#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/3rd-world-aliens-maga-leader-carlos-turcios-remark-on-hanuman-statue-in-us-sparks-row-11056721#publisher=newsstand",
     "category": "india",
-    "title": "Mark Zuckerberg Quizzed On Kids' Instagram Use In Social Media Trial",
-    "summary": "Meta CEO Mark Zuckerberg arrives to the Los Angeles Superior Court on Wednesday.",
-    "image": "https://c.ndtvimg.com/2026-02/cr21gf3s_mark-zuckerberg_625x300_19_February_26.jpeg",
+    "title": "'3rd World Aliens': MAGA Leader's Remark On Hanuman Statue In US Sparks Row",
+    "summary": "Unveiled in 2024, the statue is one of the tallest Hindu monuments in the United States.",
+    "image": "https://c.ndtvimg.com/2026-02/7hpj0bj4_carlos-turcios_625x300_19_February_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 04:25:52 +0530",
-    "link": "https://www.ndtv.com/world-news/mark-zuckerberg-quizzed-on-kids-instagram-use-in-social-media-trial-11056218#publisher=newsstand"
+    "pubDate": "Thu, 19 Feb 2026 09:07:04 +0530",
+    "link": "https://www.ndtv.com/world-news/3rd-world-aliens-maga-leader-carlos-turcios-remark-on-hanuman-statue-in-us-sparks-row-11056721#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/donald-trump-warns-uk-over-indian-ocean-base-diego-garcia-amid-iran-tensions-11056298#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/3rd-world-aliens-maga-leader-carlos-turcios-remark-on-hanuman-statue-in-us-sparks-row-11056721#publisher=newsstand",
     "category": "india",
-    "title": "\"Don't Give Away Diego Garcia\": Trump Warns UK Amid Iran Tensions",
-    "summary": "Trump said that \"this land should not be taken away from the UK\", as it is vital for an attack on Iran",
-    "image": "https://c.ndtvimg.com/2026-02/4uv1hr98_donald-trump-keir-starmer_625x300_19_February_26.jpeg",
+    "title": "'3rd World Aliens': MAGA Leader's Remark On Hanuman Statue In US Sparks Row",
+    "summary": "Unveiled in 2024, the statue is one of the tallest Hindu monuments in the United States.",
+    "image": "https://c.ndtvimg.com/2026-02/7hpj0bj4_carlos-turcios_625x300_19_February_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 04:23:05 +0530",
-    "link": "https://www.ndtv.com/world-news/donald-trump-warns-uk-over-indian-ocean-base-diego-garcia-amid-iran-tensions-11056298#publisher=newsstand"
+    "pubDate": "Thu, 19 Feb 2026 09:07:04 +0530",
+    "link": "https://www.ndtv.com/world-news/3rd-world-aliens-maga-leader-carlos-turcios-remark-on-hanuman-statue-in-us-sparks-row-11056721#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-withdrawing-all-forces-from-syria-report-11056232#publisher=newsstand",
-    "category": "india",
-    "title": "US Withdrawing All Forces From Syria: Report",
-    "summary": "The Wall Street Journal reported the US was withdrawing all of its roughly 1,000 troops from Syria.",
-    "image": "https://c.ndtvimg.com/2026-02/79jk7a2c_us-troops-withdrawing-syria_625x300_19_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 03:47:34 +0530",
-    "link": "https://www.ndtv.com/world-news/us-withdrawing-all-forces-from-syria-report-11056232#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/cochin-shipyard-shares-in-focus-after-360-million-lng-contract-win-from-cma-cgm-group/articleshow/128537372.cms",
+    "category": "finance",
+    "title": "Cochin Shipyard shares in focus after $360 million LNG contract win from CMA CGM Group",
+    "summary": "Cochin Shipyard secured a significant $360 million contract to build six LNG-powered container vessels for France's CMA CGM Group. This deal boosts its order book to Rs 23,000 crore, enhancing future revenue visibility. The first vessel is slated for",
+    "image": "https://img.etimg.com/photo/msid-128537372,imgsize-93262.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Feb 2026 09:06:54 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/cochin-shipyard-shares-in-focus-after-360-million-lng-contract-win-from-cma-cgm-group/articleshow/128537372.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/8-of-9-missing-skiers-found-dead-in-california-avalanche-cops-11055972#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/bill-gates-to-not-deliver-keynote-address-at-india-ai-summit-11056641#publisher=newsstand",
     "category": "india",
-    "title": "8 Of 9 Missing Skiers Found Dead In California Avalanche: Cops",
-    "summary": "Eight of the nine skiers missing in California after an avalanche have been found dead and one remains missing, police said Wednesday.",
-    "image": "https://c.ndtvimg.com/2026-02/isv6d8b4_california-avalanche-_625x300_19_February_26.jpeg",
+    "title": "Bill Gates To Skip Keynote Address At India AI Summit Amid Epstein Files Row",
+    "summary": "Bill Gates' name was also dropped from the list of key participants for the India AI Impact Summit",
+    "image": "https://i.ndtvimg.com/i/2017-03/bill-gates-afp_650x400_41490065286.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 01:14:39 +0530",
-    "link": "https://www.ndtv.com/world-news/8-of-9-missing-skiers-found-dead-in-california-avalanche-cops-11055972#publisher=newsstand"
+    "pubDate": "Thu, 19 Feb 2026 09:06:26 +0530",
+    "link": "https://www.ndtv.com/india-news/bill-gates-to-not-deliver-keynote-address-at-india-ai-summit-11056641#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/uk-to-impose-48-hour-online-takedown-rule-for-non-consensual-intimate-images-11056273#publisher=newsstand",
+    "category": "india",
+    "title": "UK To Impose 48-Hour Online Takedown Rule For Non-Consensual Intimate Images",
+    "summary": "Britain will require technology companies to take down intimate images shared online without consent within 48 hours or else face fines of up to 10% of eligible global",
+    "image": "https://c.ndtvimg.com/2024-03/2ofr2pjo_phone-_625x300_01_March_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 08:44:09 +0530",
+    "link": "https://www.ndtv.com/world-news/uk-to-impose-48-hour-online-takedown-rule-for-non-consensual-intimate-images-11056273#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cbse-board-exams-2026-live-updates-class-10-12-exams-shift-key-guidelines-instructions-11013045#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE Boards Day 3 LIVE: Class 12 Engineering Graphics, Dance, Horticulture Papers Today",
+    "summary": "CBSE Board Exams 2026 LIVE Updates:  Entry to examination centres will close sharply at 10 am.",
+    "image": "https://c.ndtvimg.com/2025-11/l9qbbjbk_cbse-board_625x300_20_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 08:43:49 +0530",
+    "link": "https://www.ndtv.com/education/cbse-board-exams-2026-live-updates-class-10-12-exams-shift-key-guidelines-instructions-11013045#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/billionaire-les-wexner-says-world-class-con-man-jeffrey-epstein-duped-him-11056360#publisher=newsstand",
+    "category": "india",
+    "title": "Billionaire Les Wexner Says \"World Class Con Man\" Jeffrey Epstein Duped Him",
+    "summary": "Les Wexner's name appears more than 1,000 times in the Epstein files.",
+    "image": "https://c.ndtvimg.com/2026-02/j40a1e5c_les-wexner-epstein_625x300_19_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Feb 2026 08:38:33 +0530",
+    "link": "https://www.ndtv.com/world-news/billionaire-les-wexner-says-world-class-con-man-jeffrey-epstein-duped-him-11056360#publisher=newsstand"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1524994.html",
+    "category": "sports",
+    "title": "Bangladesh's new sports minister wants to 'resolve issue' with India quickly",
+    "summary": "\"We want to maintain friendly relations with all our neighboring countries,\" new sports minister Aminul Haque says",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/408100/408196.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 19 Feb 2026 03:47:30 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1524994.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cjd9xx04n8go#0",
+    "category": "global",
+    "title": "Veterans threaten MoD with legal action over LGBT compensation scheme",
+    "summary": "Lawyers for the pair say thousands of veterans could potentially be impacted.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Feb 2026 02:51:07 GMT",
+    "link": "https://www.bbc.com/news/articles/cjd9xx04n8go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx2d041wl6po#0",
+    "category": "global",
+    "title": "Major special education support shake-up risks political backlash",
+    "summary": "Leaks suggest plans for a complete redesign of special educational needs and disabilities support in schools.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Feb 2026 01:32:15 GMT",
+    "link": "https://www.bbc.com/news/articles/cx2d041wl6po?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cn71xyjpdl2o#0",
@@ -330,24 +340,14 @@
     "link": "https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/india-will-lead-global-south-one-day-mohan-bhagwat-in-lucknow-11055938#publisher=newsstand",
-    "category": "india",
-    "title": "India Will Lead Global South One Day: Mohan Bhagwat In Lucknow",
-    "summary": "Bhagwat's remarks assume significance, as they come amid the recent tariff controversy with the US.",
-    "image": "https://c.ndtvimg.com/2026-02/hrrnu5co_mohan-bhagwat_625x300_18_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 00:51:02 +0530",
-    "link": "https://www.ndtv.com/india-news/india-will-lead-global-south-one-day-mohan-bhagwat-in-lucknow-11055938#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/former-army-chief-opens-up-about-rift-with-volodymyr-zelensky-seen-as-his-top-rival-11055683#publisher=newsstand",
-    "category": "india",
-    "title": "Former Ukraine Army Chief Opens Up About Rift With Zelensky",
-    "summary": "The revelation threatens to polarise public opinion in Ukraine at a critical moment in the war",
-    "image": "https://c.ndtvimg.com/2026-02/dodnbcqg_zelensky-afp_625x300_18_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Feb 2026 00:42:06 +0530",
-    "link": "https://www.ndtv.com/world-news/former-army-chief-opens-up-about-rift-with-volodymyr-zelensky-seen-as-his-top-rival-11055683#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/c98g1klxnpxo#0",
+    "category": "global",
+    "title": "Hamas is reasserting control in Gaza despite its heavy losses fighting Israel",
+    "summary": "Gazans say Hamas is again extending its control over security, tax revenue and government services.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Feb 2026 00:04:44 GMT",
+    "link": "https://www.bbc.com/news/articles/c98g1klxnpxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
