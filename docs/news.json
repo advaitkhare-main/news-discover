@@ -30,6 +30,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.bbc.com/sport/videos/cpd8zdzpl6eo#0",
+    "category": "global",
+    "title": "How GB's curlers made it through for a chance at gold",
+    "summary": "Watch the key turning points and how Great Britain's curlers \"raised their game\" during their 8-5 over Switzerland in the men's semi-final.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Feb 2026 22:44:48 GMT",
+    "link": "https://www.bbc.com/sport/videos/cpd8zdzpl6eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cx2g8rz7yedo#0",
     "category": "global",
     "title": "Single vaccine could protect against all coughs, colds and flus, researchers say",
@@ -48,16 +58,6 @@
     "source": "BBC",
     "pubDate": "Thu, 19 Feb 2026 22:20:22 GMT",
     "link": "https://www.bbc.com/news/videos/cvg192yp9geo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/sport/articles/cn9e1elzjdzo#0",
-    "category": "global",
-    "title": "GB men into Olympic curling final as women squeezed out",
-    "summary": "Bruce Mouat and his rink have guaranteed Team GB's fourth medal of these Winter Olympics after seeing off unbeaten Switzerland 8-5 to reach the men's curling final in Cortina.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Feb 2026 21:52:38 GMT",
-    "link": "https://www.bbc.com/sport/articles/cn9e1elzjdzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525185.html",
@@ -110,16 +110,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1525129.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525145.html",
-    "category": "sports",
-    "title": "Bates, Devine, Tahuhu to miss home Zimbabwe series",
-    "summary": "The selectors named the uncapped duo of Nensi Patel and Kayley Knight",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/389500/389519.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 19 Feb 2026 17:46:52 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525145.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -150,6 +140,156 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
+    "id": "https://www.ndtv.com/education/cbse-board-exams-2026-live-updates-class-12-physics-six-class-10-papers-today-11097760#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE Board Exams 2026 Live: Class 12 Physics Paper To End At 1.30pm",
+    "summary": "CBSE Board Exams 2026 Live: The exams began on February 17, with over 43 lakh students appearing.",
+    "image": "https://c.ndtvimg.com/2025-05/dbsgtf8k_exams_295x200_12_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Feb 2026 13:05:30 +0530",
+    "link": "https://www.ndtv.com/education/cbse-board-exams-2026-live-updates-class-12-physics-six-class-10-papers-today-11097760#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/is-your-health-insurance-going-to-cover-everything-you-need-or-do-you-need-a-medical-contingency-fund-11111518#publisher=newsstand",
+    "category": "india",
+    "title": "Is Your Health Insurance Going To Cover Everything You Need Or Do You Need A Medical Contingency Fund?",
+    "summary": "A contingency fund provides resilience, flexibility, and peace of mind.",
+    "image": "https://c.ndtvimg.com/2019-01/q1nvhrp8_health-insurance-unsplash_625x300_10_January_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Feb 2026 13:01:54 +0530",
+    "link": "https://www.ndtv.com/health/is-your-health-insurance-going-to-cover-everything-you-need-or-do-you-need-a-medical-contingency-fund-11111518#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/from-polite-prompts-to-power-grids-the-growing-debate-over-ais-energy-use-11111593#publisher=newsstand",
+    "category": "india",
+    "title": "From Polite Prompts To Power Grids: The Growing Debate Over AI's Energy Use",
+    "summary": "The debate at NDTV AI summit reflected broader industry discussion about AI computational power",
+    "image": "https://c.ndtvimg.com/2026-02/e51mnf48_ai-needs-power_625x300_20_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Feb 2026 13:01:31 +0530",
+    "link": "https://www.ndtv.com/world-news/from-polite-prompts-to-power-grids-the-growing-debate-over-ais-energy-use-11111593#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/sunita-williams-barry-butch-wilmore-stranded-in-space-labeled-one-of-worst-nasa-disasters-jared-isaacman-slams-boeing-starliner-11111599#publisher=newsstand",
+    "category": "india",
+    "title": "Sunita Williams Stranded In Space Labeled One Of Worst NASA Disasters",
+    "summary": "Sunita Williams and Butch Wilmore at the International Space Station",
+    "image": "https://c.ndtvimg.com/2026-02/spfa1up8_sunita-williams_625x300_20_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Feb 2026 13:00:25 +0530",
+    "link": "https://www.ndtv.com/world-news/sunita-williams-barry-butch-wilmore-stranded-in-space-labeled-one-of-worst-nasa-disasters-jared-isaacman-slams-boeing-starliner-11111599#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/actor-eric-dane-dies-just-10-months-after-als-diagnosis-why-it-can-turn-aggressive-fast-11111373#publisher=newsstand",
+    "category": "india",
+    "title": "Actor Eric Dane Dies Just 10 Months After ALS Diagnosis: Why It Can Turn Aggressive Fast",
+    "summary": "ALS is a progressive disease and it can take about 2-5 years from the time of diagnosis to death. Some people might live for 5 years or more, others might survive with the condition for over a decade.",
+    "image": "https://c.ndtvimg.com/2026-02/qp1tnp7_eric-dane_625x300_20_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Feb 2026 12:59:58 +0530",
+    "link": "https://www.ndtv.com/health/actor-eric-dane-dies-just-10-months-after-als-diagnosis-why-it-can-turn-aggressive-fast-11111373#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/jgb-yields-fall-as-inflation-cools-pm-takaichi-reiterates-fiscal-pledge/articleshow/128597446.cms",
+    "category": "finance",
+    "title": "JGB yields fall as inflation cools, PM Takaichi reiterates fiscal pledge",
+    "summary": "Japanese government bonds saw gains on Friday. Cooling inflation reduced the need for central bank rate hikes. Prime Minister Sanae Takaichi reaffirmed her commitment to responsible fiscal policy. This led to a decrease in the benchmark 10-year JGB y",
+    "image": "https://img.etimg.com/photo/msid-128597446,imgsize-96949.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Feb 2026 12:54:47 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/jgb-yields-fall-as-inflation-cools-pm-takaichi-reiterates-fiscal-pledge/articleshow/128597446.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/west-bengal-class-12-mathematics-exam-2026-board-to-award-full-marks-for-out-of-syllabus-questions-11111551#publisher=newsstand",
+    "category": "india",
+    "title": "West Bengal Class 12 Mathematics Exam 2026: Board To Award Full Marks For 3 Out-Of-Syllabus Questions",
+    "summary": "WB Class 12 (HS) 2026 Exam: The board has therefore decided to grant full marks",
+    "image": "https://c.ndtvimg.com/2025-02/8nio45ng_cbse-board-exams-2025_625x300_14_February_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Feb 2026 12:50:31 +0530",
+    "link": "https://www.ndtv.com/education/west-bengal-class-12-mathematics-exam-2026-board-to-award-full-marks-for-out-of-syllabus-questions-11111551#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/supreme-court-dismisses-plea-that-sought-ban-on-naming-mosques-after-babur-11111549#publisher=newsstand",
+    "category": "india",
+    "title": "Supreme Court Dismisses Plea That Sought Ban On Naming Mosques After Babur",
+    "summary": "A bench of Justices Vikram Nath and Sandeep Mehta declined to entertain the plea (File)",
+    "image": "https://c.ndtvimg.com/2026-02/0euk8l9c_supreme-court_625x300_18_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Feb 2026 12:47:44 +0530",
+    "link": "https://www.ndtv.com/india-news/supreme-court-dismisses-plea-that-sought-ban-on-naming-mosques-after-babur-11111549#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/global-investors-stung-by-ai-could-turn-to-india-lured-by-domestic-demand-growth/articleshow/128597140.cms",
+    "category": "finance",
+    "title": "Global investors stung by AI could turn to India, lured by domestic demand, growth",
+    "summary": "India's economy is poised for strong growth, attracting foreign investment. As global AI markets face a shakeout, India's domestic demand and improving currency offer a compelling alternative. This shift could see billions in foreign capital return, ",
+    "image": "https://img.etimg.com/photo/msid-128597140,imgsize-71350.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Feb 2026 12:46:35 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-investors-stung-by-ai-could-turn-to-india-lured-by-domestic-demand-growth/articleshow/128597140.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/ai-can-transform-healthcare-in-areas-lacking-specialists-ex-who-deputy-director-general-soumya-swaminathan-11111485#publisher=newsstand",
+    "category": "india",
+    "title": "AI Can Transform Healthcare In Areas Lacking Specialists: Ex-WHO Deputy Director-General Soumya Swaminathan",
+    "summary": "Former Deputy Director-General of the World Health Organisation, Soumya Swaminathan, on Friday said artificial intelligence can have a significant positive impact on healthcare, especially in regions where specialist doctors are scarce.",
+    "image": "https://c.ndtvimg.com/2022-10/4cgvdl_soumya-swaminathan_625x300_02_October_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Feb 2026 12:39:24 +0530",
+    "link": "https://www.ndtv.com/health/ai-can-transform-healthcare-in-areas-lacking-specialists-ex-who-deputy-director-general-soumya-swaminathan-11111485#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-ease-after-record-run-banks-anchor-weekly-advance/articleshow/128596663.cms",
+    "category": "finance",
+    "title": "Global Markets | Australian shares ease after record run; banks anchor weekly advance",
+    "summary": "Australian shares saw weekly gains despite a Friday dip. Strong corporate earnings, especially from banks, supported the market. Investors are now watching results from Woodside Energy, Woolworths, Coles, and Qantas. Miners experienced a slight fall,",
+    "image": "https://img.etimg.com/photo/msid-128596663,imgsize-11476.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Feb 2026 12:34:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-ease-after-record-run-banks-anchor-weekly-advance/articleshow/128596663.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/fundamentals-intact-but-markets-search-for-fresh-triggers-says-karthikraj-lakshmanan/articleshow/128596379.cms",
+    "category": "finance",
+    "title": "Fundamentals intact but markets search for fresh triggers, says Karthikraj Lakshmanan",
+    "summary": "Indian equities are navigating uncertainties, with strong fundamentals and a supportive macro environment. Despite a disconnect between on-paper strength and market tickers, experts anticipate double-digit GDP and earnings growth by FY27.  Investors ",
+    "image": "https://img.etimg.com/photo/msid-128596379,imgsize-35428.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Feb 2026 12:30:52 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/fundamentals-intact-but-markets-search-for-fresh-triggers-says-karthikraj-lakshmanan/articleshow/128596379.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gmdc-shares-rise-over-4-after-india-joins-us-ai-initiative-pax-silica/articleshow/128595827.cms",
+    "category": "finance",
+    "title": "GMDC shares rise over 4% after India joins US' AI initiative Pax Silica",
+    "summary": "Gujarat Mineral Development Corporation (GMDC) shares rose 4.4% after India joined the US-led Pax Silica initiative focused on AI and supply chain security. This partnership, aimed at bolstering economic and national security, follows India's partici",
+    "image": "https://img.etimg.com/photo/msid-128595827,imgsize-5540.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Feb 2026 12:27:48 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gmdc-shares-rise-over-4-after-india-joins-us-ai-initiative-pax-silica/articleshow/128595827.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/gaudium-ivf-ipo-day-1-subscribes-40-gmp-brokerage-views-and-key-details/articleshow/128596137.cms",
+    "category": "finance",
+    "title": "Gaudium IVF IPO Day 1: Subscribes 40%, GMP, brokerage views, and key details",
+    "summary": "Gaudium IVF and Women Health IPO opened with nearly 40% subscription on Day 1, driven by strong retail demand. GMP \u0938\u0902\u0915\u0947\u0924 moderate listing gains. Brokerages recommend subscribing, citing growth potential in India\u2019s fertility services market, though va",
+    "image": "https://img.etimg.com/photo/msid-128596137,imgsize-5996.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Feb 2026 12:20:25 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gaudium-ivf-ipo-day-1-subscribes-40-gmp-brokerage-views-and-key-details/articleshow/128596137.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/deven-choksey-on-reliances-110-billion-ai-bet-and-what-it-means-for-investors-and-indias-tech-future/articleshow/128596031.cms",
+    "category": "finance",
+    "title": "Deven Choksey on Reliance's $110 billion AI bet and what it means for investors and India's tech future",
+    "summary": "Reliance Industries plans a massive $110 billion investment in data centers and AI infrastructure. This move aims to utilize cheap solar power for computing. By 2030, Reliance targets 1 gigawatt of data center capacity, potentially generating signifi",
+    "image": "https://img.etimg.com/photo/msid-128596031,imgsize-23364.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Feb 2026 12:18:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/deven-choksey-on-reliances-110-billion-ai-bet-and-what-it-means-for-investors-and-indias-tech-future/articleshow/128596031.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/godfrey-phillips-shares-fall-5-as-investors-sell-on-rise-after-26-three-day-rally/articleshow/128595141.cms",
     "category": "finance",
     "title": "Godfrey Phillips shares fall 5% as investors sell on rise after 26% three-day rally",
@@ -160,154 +300,14 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/godfrey-phillips-shares-fall-5-as-investors-sell-on-rise-after-26-three-day-rally/articleshow/128595141.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/india-poised-to-join-us-led-pax-silica-today-elite-global-tech-alliance-11099818#publisher=newsstand",
-    "category": "india",
-    "title": "\"World Trusts Us\": Ashwini Vaishnaw After India Joins Key US-Led Pax Silica",
-    "summary": "India on Friday is expected to join the Pax Silica  a US-led strategic alliance launched in December 2025 to secure the global AI and semiconductor supply chain and reduce dependence on non-aligned nations.",
-    "image": "https://c.ndtvimg.com/2026-02/bu6ovg34_pax-silica_650x400_20_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Feb 2026 11:44:33 +0530",
-    "link": "https://www.ndtv.com/india-news/india-poised-to-join-us-led-pax-silica-today-elite-global-tech-alliance-11099818#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/nse-levies-extra-15-margin-on-vodafone-idea-sail-16-other-fo-stocks-effective-from-march/articleshow/128594670.cms",
-    "category": "finance",
-    "title": "NSE levies extra 15% margin on Vodafone Idea, SAIL, 16 other F&amp;O stocks; effective from March",
-    "summary": "The NSE will impose an additional 15% margin on 18 stocks in the F&amp;O segment from March 2026, targeting securities where top clients hold over 20% of the Market Wide Position Limit. This measure aims to mitigate risks associated with highly lever",
-    "image": "https://img.etimg.com/photo/msid-128594670,imgsize-280904.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Feb 2026 11:40:12 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-levies-extra-15-margin-on-vodafone-idea-sail-16-other-fo-stocks-effective-from-march/articleshow/128594670.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/200-tariff-11-jets-down-donald-trump-inflates-his-claim-on-india-pak-ceasefire-11093521#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Claims 11 Jets Downed During Op Sindoor. A Hint At Major Pak Losses?",
-    "summary": "Trump spoke about ending the war between India and Pakistan last summer",
-    "image": "https://c.ndtvimg.com/2026-02/ko50l2lc_pak-jet-afp_625x300_20_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Feb 2026 11:38:57 +0530",
-    "link": "https://www.ndtv.com/world-news/200-tariff-11-jets-down-donald-trump-inflates-his-claim-on-india-pak-ceasefire-11093521#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/ever-heard-of-jock-itch-or-tinea-why-that-rash-might-be-more-than-just-irritation-11072351#publisher=newsstand",
-    "category": "india",
-    "title": "Ever Heard Of Jock Itch Or Tinea? Why That Rash Might Be More Than Just Irritation",
-    "summary": "Persistent itchy rashes may be fungal infections like tinea, not irritation, seek proper treatment.",
-    "image": "https://c.ndtvimg.com/2023-05/lv8asgqo_ringworm_625x300_13_May_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Feb 2026 11:38:44 +0530",
-    "link": "https://www.ndtv.com/health/ever-heard-of-jock-itch-or-tinea-why-that-rash-might-be-more-than-just-irritation-11072351#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-state-west-virginia-sues-apple-over-use-of-icloud-for-storing-child-sex-abuse-images-11109803#publisher=newsstand",
-    "category": "india",
-    "title": "US State Sues Apple Over Alleged Use Of ICloud For Storing Child Sex Abuse Material",
-    "summary": "Apple has been under pressure from some child safety advocates",
-    "image": "https://c.ndtvimg.com/2026-02/ai98bd48_apple_625x300_20_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Feb 2026 11:38:26 +0530",
-    "link": "https://www.ndtv.com/world-news/us-state-west-virginia-sues-apple-over-use-of-icloud-for-storing-child-sex-abuse-images-11109803#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/uk-ex-prince-andrews-arrest-on-jeffrey-epstein-links-puts-spotlight-on-lord-mountbatten-abuse-claims-kincora-boys-home-scandal-11107543#publisher=newsstand",
-    "category": "india",
-    "title": "UK Ex-Prince Andrew's Arrest Puts Spotlight On Lord Mountbatten Abuse Claims",
-    "summary": "The last viceroy of India, Lord Mountbatten, died in 1979",
-    "image": "https://c.ndtvimg.com/2026-02/b9vcibmg_mountabtten-andrew_625x300_20_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Feb 2026 11:37:51 +0530",
-    "link": "https://www.ndtv.com/world-news/uk-ex-prince-andrews-arrest-on-jeffrey-epstein-links-puts-spotlight-on-lord-mountbatten-abuse-claims-kincora-boys-home-scandal-11107543#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/almost-half-of-antibiotic-prescribing-for-surgery-is-inappropriate-new-report-shows-11108213#publisher=newsstand",
-    "category": "india",
-    "title": "Almost Half Of Antibiotic Prescribing For Surgery Is Inappropriate, New Report Shows",
-    "summary": "Inappropriate antibiotic prescribing around the time of surgery and long-term prescribing in aged care are among a mixed bag of findings of a recent report into antibiotic use and resistance in Australia.",
-    "image": "https://c.ndtvimg.com/2025-11/hvnd20eo_antibiotics-in-india_625x300_20_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Feb 2026 11:26:25 +0530",
-    "link": "https://www.ndtv.com/india-news/almost-half-of-antibiotic-prescribing-for-surgery-is-inappropriate-new-report-shows-11108213#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/jeffrey-epstein-told-me-his-darkest-secrets-jeffrey-epstein-survivor-rina-oh-recalls-once-silenced-horror-to-ndtv-ex-prince-andrew-epstein-files-11105662#publisher=newsstand",
-    "category": "india",
-    "title": "\"Epstein Told Me His Darkest Secrets\": Survivor Recalls Once-Silenced Horror To NDTV",
-    "summary": "Oh recalled the time when she realised the situation was much darker than she thought.",
-    "image": "https://c.ndtvimg.com/2026-02/0qf2kufc_epstein-survivor_625x300_20_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Feb 2026 11:24:30 +0530",
-    "link": "https://www.ndtv.com/world-news/jeffrey-epstein-told-me-his-darkest-secrets-jeffrey-epstein-survivor-rina-oh-recalls-once-silenced-horror-to-ndtv-ex-prince-andrew-epstein-files-11105662#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/cbse-board-exams-2026-live-updates-class-12-physics-six-class-10-papers-today-11097760#publisher=newsstand",
-    "category": "india",
-    "title": "CBSE Board Exams 2026 Live: Class 12 Physics Paper Underway, Analysis This Afternoon",
-    "summary": "CBSE Board Exams 2026 Live: The exams began on February 17, with over 43 lakh students appearing.",
-    "image": "https://c.ndtvimg.com/2025-05/dbsgtf8k_exams_295x200_12_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Feb 2026 11:22:43 +0530",
-    "link": "https://www.ndtv.com/education/cbse-board-exams-2026-live-updates-class-12-physics-six-class-10-papers-today-11097760#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/markets-likely-to-look-past-geopolitics-as-oil-risks-remain-contained-says-andrew-freris/articleshow/128593485.cms",
-    "category": "finance",
-    "title": "Markets likely to look past geopolitics as oil risks remain contained, says Andrew Freris",
-    "summary": "Markets are increasingly accustomed to geopolitical shocks, with investors likely to overlook conflicts unless they significantly impact growth or inflation. While crude oil remains a key variable, strong US production and OPEC decisions are balancin",
-    "image": "https://img.etimg.com/photo/msid-128593485,imgsize-5100.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Feb 2026 11:11:14 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/markets-likely-to-look-past-geopolitics-as-oil-risks-remain-contained-says-andrew-freris/articleshow/128593485.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/abb-india-shares-jump-7-on-record-orders-strong-q4-demand/articleshow/128593040.cms",
-    "category": "finance",
-    "title": "ABB India shares jump 7% on record orders, strong Q4 demand",
-    "summary": "ABB India shares saw a significant jump following the announcement of its financial results. The company reported its highest-ever orders and revenue for the full financial year 2025. Order inflows in the December quarter were particularly strong, ma",
-    "image": "https://img.etimg.com/photo/msid-128593040,imgsize-56628.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Feb 2026 10:56:45 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/abb-india-shares-jump-7-on-record-orders-strong-q4-demand/articleshow/128593040.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/firstcry-operator-brainbees-solutions-shares-surge-13-after-4-day-slide/articleshow/128592851.cms",
-    "category": "finance",
-    "title": "FirstCry operator Brainbees Solutions shares surge 13% after 4-day slide",
-    "summary": "Brainbees Solutions shares jumped after a four-day decline post-Q3 earnings, backed by strong trading volumes. The rebound follows a 52-week low a day earlier, though the stock remains down 40% over the past year and trades below key moving averages.",
-    "image": "https://img.etimg.com/photo/msid-128592851,imgsize-3544.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Feb 2026 10:51:39 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/firstcry-operator-brainbees-solutions-shares-surge-13-after-4-day-slide/articleshow/128592851.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/google-bigger-than-india-gdp-sanjeev-bikhchandani-exposes-the-flaw-in-that-viral-claim/articleshow/128592508.cms",
-    "category": "finance",
-    "title": "Google bigger than India GDP? Sanjeev Bikhchandani exposes the flaw in that viral claim",
-    "summary": "A viral post claiming Google is \u201cbigger\u201d than India drew a sharp rebuttal from Sanjeev Bikhchandani, who explained that comparing market cap with GDP is fundamentally flawed. He noted that a valid comparison would use Google\u2019s revenue, not its valuat",
-    "image": "https://img.etimg.com/photo/msid-128592508,imgsize-81188.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Feb 2026 10:41:19 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/google-bigger-than-india-gdp-sanjeev-bikhchandani-exposes-the-flaw-in-that-viral-claim/articleshow/128592508.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-dip-as-u-s-iran-tensions-push-oil-up/articleshow/128591911.cms",
-    "category": "finance",
-    "title": "Indian bonds dip as U.S.-Iran tensions push oil up",
-    "summary": "India's government bond yields climbed Friday as escalating U.S.-Iran tensions pushed oil prices to a six-month high, dampening risk appetite. Traders remained cautious ahead of the weekly debt auction, with rising crude prices and supply concerns ad",
-    "image": "https://img.etimg.com/photo/msid-128591911,imgsize-4952.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Feb 2026 10:22:39 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-dip-as-u-s-iran-tensions-push-oil-up/articleshow/128591911.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/why-global-capital-is-looking-at-india-differently-this-year/articleshow/128591894.cms",
-    "category": "finance",
-    "title": "Why global capital is looking at India differently this year",
-    "summary": "India's economic resilience, fueled by digital infrastructure and evolving regulations, is attracting global capital. The latest budget reinforces this, with initiatives like GIFT City offering fiscal clarity and regulatory certainty. This focus on l",
-    "image": "https://img.etimg.com/photo/msid-128591894,imgsize-47264.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Feb 2026 10:22:02 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-global-capital-is-looking-at-india-differently-this-year/articleshow/128591894.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1525202.html",
+    "category": "sports",
+    "title": "BCB central contracts: Taskin, Mushfiqur demoted; no player in A+ category",
+    "summary": "Fast bowler joins captains Najmul Hossain Shanto, Mehidy Hasan Miraz and Litton Das in category A",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/402900/402973.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 20 Feb 2026 07:28:30 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525202.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c78j01n775ko#0",
@@ -316,7 +316,7 @@
     "summary": "The actor, who also starred in HBO's Euphoria, battled the most common form of motor neurone disease.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 20 Feb 2026 06:01:11 GMT",
+    "pubDate": "Fri, 20 Feb 2026 07:19:44 GMT",
     "link": "https://www.bbc.com/news/articles/c78j01n775ko?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -360,16 +360,6 @@
     "link": "https://www.bbc.com/news/articles/c0k1xkllknmo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/czx41k51595o#0",
-    "category": "global",
-    "title": "Epstein eyed record label investment to access women, files suggest",
-    "summary": "His associate said the music industry was \"related to P\", a way Epstein apparently often referred to women.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 20 Feb 2026 01:07:40 GMT",
-    "link": "https://www.bbc.com/news/articles/czx41k51595o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cvg3n7j8xyqo#0",
     "category": "global",
     "title": "Cats may hold clues for human cancer treatment",
@@ -378,6 +368,16 @@
     "source": "BBC",
     "pubDate": "Fri, 20 Feb 2026 01:04:25 GMT",
     "link": "https://www.bbc.com/news/articles/cvg3n7j8xyqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ce8n4l8elpgo#0",
+    "category": "global",
+    "title": "The Russian village that lost its men to war",
+    "summary": "In the remote village of Sedanka in Russia's Far East, almost all of its fighting-age men have left to join the Ukraine war.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 20 Feb 2026 00:29:39 GMT",
+    "link": "https://www.bbc.com/news/articles/ce8n4l8elpgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
