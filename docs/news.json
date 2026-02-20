@@ -40,16 +40,6 @@
     "link": "https://www.bbc.com/news/articles/cx2g8rz7yedo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/videos/cvg192yp9geo#0",
-    "category": "global",
-    "title": "Watch: The day Andrew Mountbatten-Windsor was arrested",
-    "summary": "The former prince spent the day at a police station in Norfolk, before being released under investigation.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Feb 2026 22:20:22 GMT",
-    "link": "https://www.bbc.com/news/videos/cvg192yp9geo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1525185.html",
     "category": "sports",
     "title": "Associates need 'more opportunities against best nations' - Saad Bin Zafar",
@@ -68,16 +58,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 19 Feb 2026 21:14:41 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525149.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525183.html",
-    "category": "sports",
-    "title": "Jonathan Trott on England role: 'I don't know what future holds'",
-    "summary": "Outgoing Afghanistan head coach says he'd be interested in leading a team 'so close to his heart'",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413872.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 19 Feb 2026 20:17:17 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525183.html?ex_cid=OTC-RSS"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
@@ -110,6 +90,116 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
+    "id": "https://www.ndtv.com/world-news/2-indians-thrashed-in-racial-assault-in-israel-attack-planned-on-whatsapp-11112614#publisher=newsstand",
+    "category": "india",
+    "title": "2 Indians Thrashed In \"Racial Assault\" In Israel, Attack Planned On WhatsApp",
+    "summary": "The attack comes after India joined over 100 UN member states condemning Israel's West Bank expansion.",
+    "image": "https://c.ndtvimg.com/2026-02/kbspvdgs_indian-attack_625x300_20_February_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Feb 2026 16:42:29 +0530",
+    "link": "https://www.ndtv.com/world-news/2-indians-thrashed-in-racial-assault-in-israel-attack-planned-on-whatsapp-11112614#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/mumbai-news/bombay-high-court-raps-navy-over-skyscraper-near-base-intel-failure-11112616#publisher=newsstand",
+    "category": "india",
+    "title": "\"Intel Failure\": Bombay High Court Raps Navy Over Skyscraper Near Base",
+    "summary": "The court questioned how such extensive construction went unnoticed for years.",
+    "image": "https://c.ndtvimg.com/2026-02/apaqh2r8_bombay-high-court_625x300_11_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Feb 2026 16:42:05 +0530",
+    "link": "https://www.ndtv.com/mumbai-news/bombay-high-court-raps-navy-over-skyscraper-near-base-intel-failure-11112616#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/woman-highlights-plastic-packaging-issue-on-vande-bharat-journey-irctc-responds-11112354#publisher=newsstand",
+    "category": "india",
+    "title": "Woman Highlights Issue Of Heating Food Sealed In Plastic Packaging On Vande Bharat, IRCTC Responds",
+    "summary": "The passenger was travelling on the Vande Bharat train.",
+    "image": "https://c.ndtvimg.com/2026-02/d1gq4rno_viral-video_625x300_20_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Feb 2026 16:41:06 +0530",
+    "link": "https://www.ndtv.com/offbeat/woman-highlights-plastic-packaging-issue-on-vande-bharat-journey-irctc-responds-11112354#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/lawrence-bishnois-deadly-sisterhood-inside-gangsters-lady-don-army-11112601#publisher=newsstand",
+    "category": "india",
+    "title": "Lawrence Bishnoi's Deadly Sisterhood: Inside Gangster's 'Lady Don' Army",
+    "summary": "Some assumed command, while others built their own network.",
+    "image": "https://c.ndtvimg.com/2026-02/6sdp5k8s_indias-newage-lady-dons-inside-the-criminal-networks-led-by-women-linked-to-major-gangs_625x300_20_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Feb 2026 16:38:00 +0530",
+    "link": "https://www.ndtv.com/india-news/lawrence-bishnois-deadly-sisterhood-inside-gangsters-lady-don-army-11112601#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/love-driving-your-car-5-health-issues-you-are-likely-to-experience-11112533#publisher=newsstand",
+    "category": "india",
+    "title": "Love Driving Your Car? 5 Health Issues You Are Likely To Experience",
+    "summary": "Love Driving Your Car? 5 Health Issues You Are Likely To Experience",
+    "image": "https://c.ndtvimg.com/2026-02/ou3orp0c_health-issues-due-to-driving-_625x300_20_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Feb 2026 16:37:36 +0530",
+    "link": "https://www.ndtv.com/health/love-driving-your-car-5-health-issues-you-are-likely-to-experience-11112533#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/rajasthan-university-result-2026-out-direct-link-to-check-undergraduate-postgraduate-courses-results-11112469#publisher=newsstand",
+    "category": "india",
+    "title": "Rajasthan University Undergraduate, PG Exam Results Out, Here's Direct Link To Check",
+    "summary": "UNIRAJ result 2026: Students can download their mark sheets for future use.",
+    "image": "https://c.ndtvimg.com/2026-02/i6mot55_rajasthan-university-result-2026_625x300_20_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Feb 2026 16:37:31 +0530",
+    "link": "https://www.ndtv.com/education/rajasthan-university-result-2026-out-direct-link-to-check-undergraduate-postgraduate-courses-results-11112469#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/punjab-congress-prepare-for-jail-navjot-kaur-sidhu-accuses-raja-warring-of-land-grab-11112589#publisher=newsstand",
+    "category": "india",
+    "title": "'Prepare For Jail': Navjot Kaur Sidhu Accuses Raja Warring Of Land Grab",
+    "summary": "Raja Warring has responded to the allegations with a mix of defiance and sarcasm.",
+    "image": "https://c.ndtvimg.com/2025-12/eo9fhljg_navjot-kaur-suspended_160x120_08_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Feb 2026 16:36:11 +0530",
+    "link": "https://www.ndtv.com/india-news/punjab-congress-prepare-for-jail-navjot-kaur-sidhu-accuses-raja-warring-of-land-grab-11112589#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/board-of-peace-gaza-meet-donald-trump-fast-asleep-about-to-fall-trump-goes-viral-for-wrong-reasons-again-11111765#publisher=newsstand",
+    "category": "india",
+    "title": "'Fast Asleep, About To Fall': Trump Goes Viral For Wrong Reasons, Again",
+    "summary": "Earlier footage from a Cabinet meeting also showed Trump with his eyes closed.",
+    "image": "https://c.ndtvimg.com/2026-02/0en8js1_trump_625x300_20_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Feb 2026 16:34:42 +0530",
+    "link": "https://www.ndtv.com/world-news/board-of-peace-gaza-meet-donald-trump-fast-asleep-about-to-fall-trump-goes-viral-for-wrong-reasons-again-11111765#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-among-4-stocks-that-hit-52-week-high-rally-up-to-43-in-a-month/slideshow/128604997.cms",
+    "category": "finance",
+    "title": "Hitachi Energy among 4 stocks that hit 52-week high; rally up to 43% in a month",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-128604789,imgsize-8388.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Feb 2026 16:27:04 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-among-4-stocks-that-hit-52-week-high-rally-up-to-43-in-a-month/slideshow/128604997.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-on-track-for-2026-ipo-despite-market-jitters-ceo-says/articleshow/128603866.cms",
+    "category": "finance",
+    "title": "Milky Mist on track for 2026 IPO despite market jitters, CEO says",
+    "summary": "Indian dairy products maker Milky Mist will push \u200bahead with its planned \u200binitial public offering this year despite volatile markets, its \u200bCEO said, adding the company expects to maintain about 30% annual revenue growth.",
+    "image": "https://img.etimg.com/photo/msid-128603866,imgsize-65560.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Feb 2026 16:01:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-on-track-for-2026-ipo-despite-market-jitters-ceo-says/articleshow/128603866.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-posts-steepest-weekly-drop-in-a-month-nears-91-per-dollar/articleshow/128603360.cms",
+    "category": "finance",
+    "title": "Rupee posts steepest weekly drop in a month, nears 91 per dollar",
+    "summary": "The Indian rupee experienced its steepest weekly fall in a month, nearing the 91-per-dollar mark due to portfolio outflows and geopolitical tensions. Central bank intervention helped stabilize the currency, while a strong dollar index, driven by U.S.",
+    "image": "https://img.etimg.com/photo/msid-128603360,imgsize-124630.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Feb 2026 15:46:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-posts-steepest-weekly-drop-in-a-month-nears-91-per-dollar/articleshow/128603360.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/shapoorji-pallonji-real-estate-to-develop-a-residential-project-on-pokhran-road-2-thane/articleshow/128603277.cms",
     "category": "finance",
     "title": "Shapoorji Pallonji Real Estate to develop a residential project on Pokhran Road 2, Thane",
@@ -123,7 +213,7 @@
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-ends-317-points-higher-nifty-above-25550-aided-by-lt-ril/articleshow/128603029.cms",
     "category": "finance",
     "title": "Market Wrap: Sensex ends 317 points higher, Nifty above 25,550 aided by L&amp;T, RIL",
-    "summary": "Nifty ended at 25,571.25, gaining 116.90 points or 0.46%, the BSE Sensex settled 316.57 points or 0.38% higher at 82,814.71.",
+    "summary": "India\u2019s markets rebounded from early losses, ending the session on a positive note. Broad-based buying supported gains, led by major industrial, energy, and consumer stocks. Public sector banks, auto, and FMCG sectors outperformed, while IT and selec",
     "image": "https://img.etimg.com/photo/msid-128603029,imgsize-122142.cms",
     "source": "ET",
     "pubDate": "Fri, 20 Feb 2026 15:45:56 +0530",
@@ -150,86 +240,6 @@
     "link": "https://economictimes.indiatimes.com/markets/bonds/uk-5-year-gilt-yields-hit-lowest-since-september-2024/articleshow/128602965.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/india-ai-impact-summit-youth-congress-shirtless-protest-qr-codes-facial-recognition-technology-to-be-used-india-us-trade-deal-11112172#publisher=newsstand",
-    "category": "india",
-    "title": "Shirtless Youth Congress Workers Came To AI Summit \"Fully Prepared\"",
-    "summary": "The gaggle of Youth Congress workers who stripped shirtless in an embarrassing moment at the India AI Impact Summit and rushed about waving t-shirts and shouting slogans against the India-US deal, came 'fully prepared', government sources said.",
-    "image": "https://c.ndtvimg.com/2026-02/ve642k04_youth-congress-topless-protest_625x300_20_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Feb 2026 15:24:05 +0530",
-    "link": "https://www.ndtv.com/india-news/india-ai-impact-summit-youth-congress-shirtless-protest-qr-codes-facial-recognition-technology-to-be-used-india-us-trade-deal-11112172#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/whose-card-is-this-pakistan-soldiers-cry-in-baloch-custody-as-deadline-nears-11112192#publisher=newsstand",
-    "category": "india",
-    "title": "\"Whose Card Is This\": Pakistan Soldiers Cry In Baloch Custody As Deadline Nears",
-    "summary": "The deadline will reportedly expire on February 22.",
-    "image": "https://c.ndtvimg.com/2026-02/bk671b4g_bla-soilders_625x300_20_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Feb 2026 15:23:10 +0530",
-    "link": "https://www.ndtv.com/world-news/whose-card-is-this-pakistan-soldiers-cry-in-baloch-custody-as-deadline-nears-11112192#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/unfortunate-blame-game-supreme-court-tells-high-court-to-appoint-judicial-officers-for-sir-process-11112091#publisher=newsstand",
-    "category": "india",
-    "title": "'Unfortunate Blame Game': Supreme Court Seeks Judicial Officers For Bengal SIR",
-    "summary": "The Mamata Banerjee government and the Election Commission has clashed over SIR exercise",
-    "image": "https://c.ndtvimg.com/2026-01/3is60d24_mamata-banerjee_625x300_15_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Feb 2026 15:22:59 +0530",
-    "link": "https://www.ndtv.com/india-news/unfortunate-blame-game-supreme-court-tells-high-court-to-appoint-judicial-officers-for-sir-process-11112091#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/mani-sankar-mukhopadhyay-brighest-star-of-bengali-literature-dies-at-92-11112158#publisher=newsstand",
-    "category": "india",
-    "title": "Mani Sankar Mukhopadhyay, \"Brighest Star\" Of Bengali Literature, Dies At 92",
-    "summary": "Sankar was among those Bengali writers who immortalised Kolkata through his words.",
-    "image": "https://c.ndtvimg.com/2026-02/s12afmm_mani-sankar-mukhopadhyay_625x300_20_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Feb 2026 15:14:15 +0530",
-    "link": "https://www.ndtv.com/india-news/mani-sankar-mukhopadhyay-brighest-star-of-bengali-literature-dies-at-92-11112158#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/blood-pressure-medicines-9-tips-to-follow-for-effective-results-11112151#publisher=newsstand",
-    "category": "india",
-    "title": "Blood Pressure Medicines: 9 Tips To Follow For Effective Results",
-    "summary": "Consistency is key when it comes to blood pressure medication",
-    "image": "https://c.ndtvimg.com/2025-11/l3cli09c_medicine_625x300_10_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Feb 2026 15:13:53 +0530",
-    "link": "https://www.ndtv.com/health/blood-pressure-medicines-9-tips-to-follow-for-effective-results-11112151#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/cbse-board-exams-2026-live-updates-class-12-physics-six-class-10-papers-today-11097760#publisher=newsstand",
-    "category": "india",
-    "title": "CBSE Board Exams 2026 Live: How Was Class 12 Physics Paper? Detailed Analysis Here",
-    "summary": "CBSE Board Exams 2026 Live: The exams began on February 17, with over 43 lakh students appearing.",
-    "image": "https://c.ndtvimg.com/2025-05/dbsgtf8k_exams_295x200_12_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Feb 2026 15:13:31 +0530",
-    "link": "https://www.ndtv.com/education/cbse-board-exams-2026-live-updates-class-12-physics-six-class-10-papers-today-11097760#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/asked-not-to-smoke-man-throws-lighter-into-fuel-tank-at-chhattisgarhs-raipur-petrol-pump-11112011#publisher=newsstand",
-    "category": "india",
-    "title": "Asked Not To Smoke, Man Throws Lighter Into Fuel Tank At Raipur Petrol Pump",
-    "summary": "Some of the burning fuel even splashed onto the two men.",
-    "image": "https://c.ndtvimg.com/2026-02/8o5liouc_chhatt_625x300_20_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Feb 2026 15:09:40 +0530",
-    "link": "https://www.ndtv.com/india-news/asked-not-to-smoke-man-throws-lighter-into-fuel-tank-at-chhattisgarhs-raipur-petrol-pump-11112011#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/india-is-becoming-a-superpower-in-ai-top-israeli-official-nir-dagan-at-india-ai-impact-summit-2026-11112100#publisher=newsstand",
-    "category": "india",
-    "title": "\"India Is Becoming A Superpower In AI\": Top Israeli Official",
-    "summary": "India has also formally joined Pax Silica, a US-led technology alliance",
-    "image": "https://c.ndtvimg.com/2026-02/anssuheg_ai-impact-summit_625x300_20_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Feb 2026 15:08:18 +0530",
-    "link": "https://www.ndtv.com/india-news/india-is-becoming-a-superpower-in-ai-top-israeli-official-nir-dagan-at-india-ai-impact-summit-2026-11112100#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/nestle-britannia-among-4-high-conviction-fmcg-and-retail-picks-from-axis-direct-heres-why/slideshow/128602153.cms",
     "category": "finance",
     "title": "Nestle, Britannia among 4 high-conviction FMCG and retail picks from Axis Direct, here\u2019s why",
@@ -240,44 +250,14 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/nestle-britannia-among-4-high-conviction-fmcg-and-retail-picks-from-axis-direct-heres-why/slideshow/128602153.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/gaurav-jogani-sees-jewellery-footwear-driving-consumer-discretionary-growth/articleshow/128601066.cms",
-    "category": "finance",
-    "title": "Gaurav Jogani sees jewellery, footwear driving consumer discretionary growth",
-    "summary": "Jewellery and footwear sectors are driving growth in consumer discretionary spending. Quick-service restaurants are adapting with pricing strategies. Margins are improving due to cost management. Experts see limited downside in valuations. Key metric",
-    "image": "https://img.etimg.com/photo/msid-128601066,imgsize-44402.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Feb 2026 14:43:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/gaurav-jogani-sees-jewellery-footwear-driving-consumer-discretionary-growth/articleshow/128601066.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/indian-it-companies-returned-rs-4-8-lakh-crore-cash-to-shareholders-spent-little-on-rd-will-the-ai-cost-prove-existential/articleshow/128601186.cms",
-    "category": "finance",
-    "title": "Indian IT companies returned Rs 4.8 lakh crore cash to shareholders, spent little on R&amp;D. Will the AI cost prove exi",
-    "summary": "Indian IT stocks face a sharp correction amid concerns over AI disruption and low R&amp;D investment. Aequitas highlights heavy shareholder payouts over reinvestment, raising long-term competitiveness questions. While risks to revenue and margins per",
-    "image": "https://img.etimg.com/photo/msid-128601186,imgsize-56786.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Feb 2026 14:41:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-it-companies-returned-rs-4-8-lakh-crore-cash-to-shareholders-spent-little-on-rd-will-the-ai-cost-prove-existential/articleshow/128601186.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/10-stocks-slip-up-to-30-in-a-month-rebound-potential-ahead/slideshow/128599628.cms",
-    "category": "finance",
-    "title": "10 stocks slip up to 30% in a month. Rebound potential ahead?",
-    "summary": "Indian equities experienced significant volatility last month, with many BSE500 stocks seeing sharp declines. However, analyst forecasts suggest potential rebounds for several of these battered stocks, with some projected to offer substantial upside ",
-    "image": "https://img.etimg.com/photo/msid-128599308,imgsize-35586.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Feb 2026 13:43:41 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-stocks-slip-up-to-30-in-a-month-rebound-potential-ahead/slideshow/128599628.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce8w0n061ryo#0",
-    "category": "global",
-    "title": "Asos co-founder dies after Thailand apartment block fall",
-    "summary": "Quentin Griffiths co-founded Asos in 2000 and remained a significant shareholder after leaving the firm five years later.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 20 Feb 2026 10:32:44 GMT",
-    "link": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss"
+    "id": "https://www.espncricinfo.com/ci/content/story/1525216.html",
+    "category": "sports",
+    "title": "NZ get Santner boost ahead of Super Eights, but Ferguson still a 'wait and see'",
+    "summary": "New Zealand - who play all three Super Eight games in Colombo - face their first opponents Pakistan on Saturday",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413500/413516.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 20 Feb 2026 11:24:21 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525216.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525212.html",
@@ -286,8 +266,48 @@
     "summary": "More than 50 Pakistani players have registered for Piccadilly event in March, out of 950 players",
     "image": "http://p.imgci.com/db/PICTURES/CMS/365600/365653.jpg",
     "source": "Cricinfo",
-    "pubDate": "Fri, 20 Feb 2026 10:12:44 GMT",
+    "pubDate": "Fri, 20 Feb 2026 11:16:48 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525212.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0k1xkllknmo#0",
+    "category": "global",
+    "title": "Austrian climber found guilty after girlfriend froze to death on mountain",
+    "summary": "The woman died of hypothermia during a climbing trip on the Grossglockner mountain in January 2025.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 20 Feb 2026 11:10:31 GMT",
+    "link": "https://www.bbc.com/news/articles/c0k1xkllknmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ce8w0n061ryo#0",
+    "category": "global",
+    "title": "Asos co-founder dies after Thailand apartment block fall",
+    "summary": "Quentin Griffiths co-founded Asos in 2000 and remained a significant shareholder after leaving the firm five years later.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 20 Feb 2026 11:09:15 GMT",
+    "link": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c93w4egd3gzo#0",
+    "category": "global",
+    "title": "Higher tax helped UK government reach record January surplus",
+    "summary": "The government took in more from tax receipts than expected, official data suggests.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 20 Feb 2026 11:05:15 GMT",
+    "link": "https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn9e1q4797wo#0",
+    "category": "global",
+    "title": "Why was Andrew arrested and is he still in line for the throne?",
+    "summary": "What we know about Andrew Mountbatten-Windsor's arrest on suspicion of misconduct in public office.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 20 Feb 2026 10:50:54 GMT",
+    "link": "https://www.bbc.com/news/articles/cn9e1q4797wo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c78j01n775ko#0",
@@ -296,7 +316,7 @@
     "summary": "The actor, who also starred in HBO's Euphoria, battled the most common form of motor neurone disease.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 20 Feb 2026 09:54:00 GMT",
+    "pubDate": "Fri, 20 Feb 2026 10:33:48 GMT",
     "link": "https://www.bbc.com/news/articles/c78j01n775ko?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -318,16 +338,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 20 Feb 2026 09:26:25 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525100.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c93w4egd3gzo#0",
-    "category": "global",
-    "title": "UK government finances better than expected in January",
-    "summary": "The government took in more from tax receipts than expected, official data suggests.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 20 Feb 2026 08:33:57 GMT",
-    "link": "https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525201.html",
@@ -358,16 +368,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 20 Feb 2026 02:00:12 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525186.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0k1xkllknmo#0",
-    "category": "global",
-    "title": "Austrian climber found guilty after girlfriend froze to death on mountain",
-    "summary": "The woman died of hypothermia during a climbing trip on the Grossglockner mountain in January 2025.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 20 Feb 2026 01:10:28 GMT",
-    "link": "https://www.bbc.com/news/articles/c0k1xkllknmo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/czx41k51595o#0",
