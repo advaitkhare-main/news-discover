@@ -30,6 +30,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-new-home-sales-fall-in-december-inventory-declines/articleshow/128639985.cms",
+    "category": "finance",
+    "title": "US new home sales fall in December; inventory declines",
+    "summary": "New U.S. single-family home sales dipped 1.7% in December, yet builders reduced inventory, potentially enabling more construction starts. The supply of homes under construction reached a nearly 4-1/2 year low.  Meanwhile, declining mortgage rates off",
+    "image": "https://img.etimg.com/photo/msid-128639985,imgsize-122606.cms",
+    "source": "ET",
+    "pubDate": "Sat, 21 Feb 2026 14:57:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-new-home-sales-fall-in-december-inventory-declines/articleshow/128639985.cms"
+  },
+  {
     "id": "https://www.ndtv.com/education/toss-april-may-2026-exam-class-10-and-12-time-table-released-complete-schedule-heretelangana-open-school-society-2026-exam-class-10-and-12-time-table-11117168#publisher=newsstand",
     "category": "india",
     "title": "Telangana Open School Society 2026 Exams: Class 10, 12 Time Table Released, Complete Schedule Here",
@@ -180,14 +190,14 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-what-the-current-long-short-ratio-tells-about-fii-positioning-sudeep-shah-on-ola-newgen-4-more-top-weekly-movers/articleshow/128635975.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/fund-manager-talk-multi-asset-funds-are-about-balance-not-chasing-gold-dsp-mfs-aparna-karnik/articleshow/128635697.cms",
-    "category": "finance",
-    "title": "Fund Manager Talk | Multi-asset funds are about balance, not chasing gold: DSP MF\u2019s Aparna Karnik",
-    "summary": "Aparna Karnik, Fund Manager at DSP Mutual Fund, says multi-asset funds focus on balance, not chasing short-term gains in gold or equities. Disciplined diversification, calibrated equity exposure, systematic rebalancing, and selective allocations to R",
-    "image": "https://img.etimg.com/photo/msid-128635697,imgsize-419234.cms",
-    "source": "ET",
-    "pubDate": "Sat, 21 Feb 2026 11:46:29 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/fund-manager-talk-multi-asset-funds-are-about-balance-not-chasing-gold-dsp-mfs-aparna-karnik/articleshow/128635697.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1525288.html",
+    "category": "sports",
+    "title": "Patterson, Hadley fire NSW into One-Day Cup decider",
+    "summary": "Patterson made 125 not out from 89 balls as NSW chased 275 in 31 overs after Hadley bagged 5 for 69",
+    "image": "http://p.imgci.com",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 21 Feb 2026 10:16:58 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525288.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c1kgv837wvdo#0",
@@ -196,8 +206,18 @@
     "summary": "The former Duke of York is eighth in line to the throne meaning he remains eligible to be King.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sat, 21 Feb 2026 08:27:32 GMT",
+    "pubDate": "Sat, 21 Feb 2026 10:09:28 GMT",
     "link": "https://www.bbc.com/news/articles/c1kgv837wvdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1525212.html",
+    "category": "sports",
+    "title": "ECB push back at Pakistan 'shadow-ban' reports ahead of Hundred auction",
+    "summary": "More than 50 Pakistani players have registered for Piccadilly event in March, out of 950 players",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/365600/365653.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 21 Feb 2026 09:42:16 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525212.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525296.html",
@@ -280,14 +300,14 @@
     "link": "https://www.bbc.com/news/articles/c4g0ke64v3no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cnv61zv534eo#0",
+    "id": "https://www.bbc.com/news/articles/cddn2e11zm8o#0",
     "category": "global",
-    "title": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
-    "summary": "Far-left militants are suspected of being behind Quentin Deranque's death and the party of Jean-Luc M\u00e9lenchon is being widely condemned.",
+    "title": "Civilians to soldiers: how four years of war has changed ordinary Ukrainians",
+    "summary": "Six Ukrainian men and women in uniform reveal how Russia's invasion in 2022 has changed them.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sat, 21 Feb 2026 00:32:16 GMT",
-    "link": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Sat, 21 Feb 2026 00:22:28 GMT",
+    "link": "https://www.bbc.com/news/articles/cddn2e11zm8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
@@ -358,26 +378,6 @@
     "source": "BBC",
     "pubDate": "Fri, 20 Feb 2026 18:05:35 GMT",
     "link": "https://www.bbc.com/news/articles/czx4y1l1nq4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525259.html",
-    "category": "sports",
-    "title": "Zampa four-for, Marsh 64* take Australia to big consolation win against Oman",
-    "summary": "They were already out of the running for the Super Eight, but produced a clinical nine-wicket win at Pallekele",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413886.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 20 Feb 2026 17:26:05 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525259.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525258.html",
-    "category": "sports",
-    "title": "Conrad's SA hope to 'expose India under pressure'",
-    "summary": "South Africa coach wants to use the weight of scrutiny and expectation on India against them",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413700/413765.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 20 Feb 2026 17:08:59 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525258.html?ex_cid=OTC-RSS"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
