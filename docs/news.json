@@ -120,14 +120,14 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-nifty-braces-for-fresh-breakout-after-us-supreme-court-verdict-boost/articleshow/128644501.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-turn-buyers-in-february-with-rs-16912-crore-worth-of-equity-inflows-is-this-a-sign-of-trend-reversal/articleshow/128641902.cms",
-    "category": "finance",
-    "title": "FIIs turn buyers in February with Rs 16,912 crore worth of equity inflows. Is this a sign of trend reversal?",
-    "summary": "Foreign institutional investors (FIIs) turned net buyers in February, investing Rs 16,912 crore amid improved Q3 corporate earnings. While outflows hit Rs 35,962 crore in January, buying returned across financial services and capital goods. Analysts ",
-    "image": "https://img.etimg.com/photo/msid-128641902,imgsize-3085296.cms",
-    "source": "ET",
-    "pubDate": "Sat, 21 Feb 2026 16:16:21 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-turn-buyers-in-february-with-rs-16912-crore-worth-of-equity-inflows-is-this-a-sign-of-trend-reversal/articleshow/128641902.cms"
+    "id": "https://www.bbc.com/sport/articles/c4g265jn0w7o#1",
+    "category": "global",
+    "title": "Team GB face uphill task for four-man bobsleigh medal",
+    "summary": "Team GB face an uphill task to win an Olympic medal in the four-man bobsleigh event as they sit seventh at the halfway point in Cortina.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 21 Feb 2026 16:38:30 GMT",
+    "link": "https://www.bbc.com/sport/articles/c4g265jn0w7o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525368.html",
@@ -136,8 +136,18 @@
     "summary": "The drizzle that started at the toss only grew heavier and never quite relented",
     "image": "http://p.imgci.com/db/PICTURES/CMS/413900/413917.jpg",
     "source": "Cricinfo",
-    "pubDate": "Sat, 21 Feb 2026 16:12:49 GMT",
+    "pubDate": "Sat, 21 Feb 2026 16:23:02 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525368.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-turn-buyers-in-february-with-rs-16912-crore-worth-of-equity-inflows-is-this-a-sign-of-trend-reversal/articleshow/128641902.cms",
+    "category": "finance",
+    "title": "FIIs turn buyers in February with Rs 16,912 crore worth of equity inflows. Is this a sign of trend reversal?",
+    "summary": "Foreign institutional investors (FIIs) turned net buyers in February, investing Rs 16,912 crore amid improved Q3 corporate earnings. While outflows hit Rs 35,962 crore in January, buying returned across financial services and capital goods. Analysts ",
+    "image": "https://img.etimg.com/photo/msid-128641902,imgsize-3085296.cms",
+    "source": "ET",
+    "pubDate": "Sat, 21 Feb 2026 16:16:21 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-turn-buyers-in-february-with-rs-16912-crore-worth-of-equity-inflows-is-this-a-sign-of-trend-reversal/articleshow/128641902.cms"
   },
   {
     "id": "https://www.bbc.com/news/articles/cqxde59d3gwo#0",
@@ -290,16 +300,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/record-dates-for-angel-one-stock-split-nbcc-dividend-next-week-check-corporate-actions-in-4-more-stocks/slideshow/128636862.cms"
   },
   {
-    "id": "https://www.bbc.com/sport/articles/c4g265jn0w7o#1",
-    "category": "global",
-    "title": "Team GB face uphill task for four-man bobsleigh medal",
-    "summary": "Team GB face an uphill task to win an Olympic medal in the four-man bobsleigh event as they sit seventh at the halfway point in Cortina.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 21 Feb 2026 12:23:38 GMT",
-    "link": "https://www.bbc.com/sport/articles/c4g265jn0w7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/videos/c1d6ell32weo#0",
     "category": "global",
     "title": "Watch: Baby monkey Punch cuddles soft toy after being abandoned by mother",
@@ -332,7 +332,7 @@
   {
     "id": "https://www.bbc.com/sport/articles/c338y36kngzo#1",
     "category": "global",
-    "title": "GB go for men's curling gold and Atkin in halfpipe final - Saturday's guide",
+    "title": "GB go for men's curling gold - Saturday's guide",
     "summary": "What's happening and who to look out for at the 2026 Winter Olympics in Milan-Cortina.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
