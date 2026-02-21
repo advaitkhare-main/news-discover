@@ -180,6 +180,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/record-dates-for-angel-one-stock-split-nbcc-dividend-next-week-check-corporate-actions-in-4-more-stocks/slideshow/128636862.cms"
   },
   {
+    "id": "https://www.espncricinfo.com/ci/content/story/1525294.html",
+    "category": "sports",
+    "title": "Mandhana, Rodrigues and Patil script famous India series win",
+    "summary": "The visitors put together a superb all-round display to secure just their second series win in Australia",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413900/413908.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 21 Feb 2026 12:07:38 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525294.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/commodities/news/us-iran-conflict-may-spike-indias-crude-prices-and-fuel-inflation/articleshow/128636049.cms",
     "category": "finance",
     "title": "US-Iran conflict may spike India\u2019s crude prices and fuel inflation",
@@ -188,6 +198,16 @@
     "source": "ET",
     "pubDate": "Sat, 21 Feb 2026 12:01:37 +0530",
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/us-iran-conflict-may-spike-indias-crude-prices-and-fuel-inflation/articleshow/128636049.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn8146l0n55o#0",
+    "category": "global",
+    "title": "Trump brings in new 10% tariff as Supreme Court rejects his global import taxes",
+    "summary": "The Supreme Court decision striking down some of Trump's most sweeping tariffs injects new uncertainty into global trade.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 21 Feb 2026 11:58:18 GMT",
+    "link": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525285.html",
@@ -250,16 +270,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1525296.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525294.html",
-    "category": "sports",
-    "title": "India bat first, Patil replaces Gaud, Australia recall Harris for Carey",
-    "summary": "Shreyanka Patil returns in place of Kranti Gaud while Australia recall Grace Harris and drop Nicola Carey just two games into her comeback",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413500/413556.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 21 Feb 2026 08:19:21 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525294.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c9wn8lw0kgjo#0",
     "category": "global",
     "title": "Palestinian Authority in dire straits as Israel's hold on West Bank deepens",
@@ -298,16 +308,6 @@
     "source": "Cricinfo",
     "pubDate": "Sat, 21 Feb 2026 02:01:39 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525280.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn8146l0n55o#0",
-    "category": "global",
-    "title": "Trump brings in new 10% tariff as Supreme Court rejects his global import taxes",
-    "summary": "The Supreme Court decision striking down some of Trump's most sweeping tariffs injects new uncertainty into global trade.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 21 Feb 2026 01:43:05 GMT",
-    "link": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c4g0ke64v3no#0",
@@ -350,6 +350,16 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
+    "id": "https://www.bbc.com/sport/videos/cq574067y5do#1",
+    "category": "global",
+    "title": "Watch: Six athletes crash in 'extraordinary' speed skating semi-final",
+    "summary": "An \"extraordinary\" women's 1500m speed skating semi-final at the 2026 Winter Olympics sees six of the seven skaters crash, with China's Yang Jingru - the only athlete not to fall - finishing first.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 20 Feb 2026 21:14:25 GMT",
+    "link": "https://www.bbc.com/sport/videos/cq574067y5do?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1525271.html",
     "category": "sports",
     "title": "Zampa: 'Probably the worst-feeling four-for I've ever got'",
@@ -360,24 +370,14 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1525271.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c05v77mv69vo#1",
+    "id": "https://www.bbc.com/sport/articles/ce3gqz1yyyyo#1",
     "category": "global",
-    "title": "Met asks Andrew's protection officers what they saw or heard in Epstein inquiry",
-    "summary": "Officers will continue searching Andrew's former Windsor home until Monday, the BBC understands.",
+    "title": "Four men, one aim - to end 102-year wait for Winter Olympic curling gold",
+    "summary": "All eyes will be on Team GB's Bruce Mouat, Grant Hardie, Hammy McMillan and Bobby Lammie on Saturday (18:05 GMT) when they take on Canada with a gold medal at stake at the Winter Olympics.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 20 Feb 2026 18:11:43 GMT",
-    "link": "https://www.bbc.com/news/articles/c05v77mv69vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/czx4y1l1nq4o#1",
-    "category": "global",
-    "title": "Andrew and King Charles: A personal battle of royal brothers",
-    "summary": "The problems facing the monarchy over Andrew Mountbatten-Windsor are also a family problem between brothers.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 20 Feb 2026 18:05:35 GMT",
-    "link": "https://www.bbc.com/news/articles/czx4y1l1nq4o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Fri, 20 Feb 2026 17:30:20 GMT",
+    "link": "https://www.bbc.com/sport/articles/ce3gqz1yyyyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
