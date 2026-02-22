@@ -40,74 +40,34 @@
     "link": "https://www.ndtv.com/world-news/irans-gen-z-rallies-for-second-day-as-fears-of-war-with-us-mount-11122289#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/why-are-you-protecting-the-congress-pm-modi-asks-media-11122283#publisher=newsstand",
-    "category": "india",
-    "title": "\"Why Are You Protecting The Congress?\" PM Modi Asks Media",
-    "summary": "Prime Minister Narendra Modi launched his sharpest attack yet on the Congress over the protests by the Youth Congress during the recently concluded AI Impact Summit and the resulting deadlock in Parliament.",
-    "image": "https://c.ndtvimg.com/2026-02/7v1li80k_narendra-modi_625x300_22_February_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 22 Feb 2026 23:30:40 +0530",
-    "link": "https://www.ndtv.com/india-news/why-are-you-protecting-the-congress-pm-modi-asks-media-11122283#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/2-arrested-in-bengals-murshidabad-for-sharing-indian-sim-otps-to-pakistan-11122278#publisher=newsstand",
-    "category": "india",
-    "title": "2 Arrested In Bengal's Murshidabad For Sharing Indian SIM OTPs To Pakistan",
-    "summary": "Police said both the accused are SIM card sellers.",
-    "image": "https://c.ndtvimg.com/2026-02/7ee4mshs_murshirabad_625x300_22_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 22 Feb 2026 23:28:51 +0530",
-    "link": "https://www.ndtv.com/india-news/2-arrested-in-bengals-murshidabad-for-sharing-indian-sim-otps-to-pakistan-11122278#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/sir-in-manipur-must-check-abnormal-growth-ex-union-minister-rajkumar-ranjan-singh-11122200#publisher=newsstand",
-    "category": "india",
-    "title": "'SIR In Manipur Must Check Abnormal Growth': Ex Union Minister",
-    "summary": "Rajkumar Ranjan Singh expressed appreciation to Centre and EC for SIR exercise in Manipur",
-    "image": "https://c.ndtvimg.com/2023-05/kad751cg_rk-ranjan_625x300_21_May_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 22 Feb 2026 23:03:33 +0530",
-    "link": "https://www.ndtv.com/india-news/sir-in-manipur-must-check-abnormal-growth-ex-union-minister-rajkumar-ranjan-singh-11122200#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/bengaluru-lake-crisis-no-potable-water-in-indias-silicon-valley-11122174#publisher=newsstand",
-    "category": "india",
-    "title": "Bengaluru Lake Crisis: No Potable Water In India's 'Silicon Valley'",
-    "summary": "Several of Bengaluru's most well-known lakes recorded disturbing pollution levels.",
-    "image": "https://c.ndtvimg.com/2023-03/2vl2sq2_bengaluru-generic-getty-_625x300_29_March_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 22 Feb 2026 22:55:59 +0530",
-    "link": "https://www.ndtv.com/india-news/bengaluru-lake-crisis-no-potable-water-in-indias-silicon-valley-11122174#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/21-priests-to-bring-soil-from-ayodhya-for-bengal-ram-temple-11122161#publisher=newsstand",
-    "category": "india",
-    "title": "21 Priests To Bring Soil From Ayodhya For Bengal Ram Temple",
-    "summary": "21 priests from Santipur will travel to Ayodhya on 25th February (File)",
-    "image": "https://c.ndtvimg.com/2026-02/u460it7c_priests_625x300_22_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 22 Feb 2026 22:53:43 +0530",
-    "link": "https://www.ndtv.com/india-news/21-priests-to-bring-soil-from-ayodhya-for-bengal-ram-temple-11122161#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/mamata-banerjee-india-bloc-chief-mani-shankar-aiyars-message-to-rahul-gandhi-11121956#publisher=newsstand",
-    "category": "india",
-    "title": "Mamata Banerjee INDIA Bloc Chief: Mani Shankar Aiyar's Message To Rahul Gandhi",
-    "summary": "Congress's Mani Shankar Aiyar, known for his controversial statements on multiple issues, this time advised his party's senior leader Rahul Gandhi to leave INDIA Bloc's driving seat to leaders of the regional parties.",
-    "image": "https://c.ndtvimg.com/2026-02/h7d4gc6k_mani-shankar-aiyar_625x300_22_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 22 Feb 2026 22:23:58 +0530",
-    "link": "https://www.ndtv.com/india-news/mamata-banerjee-india-bloc-chief-mani-shankar-aiyars-message-to-rahul-gandhi-11121956#publisher=newsstand"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cy4wywnrdd8o#0",
     "category": "global",
-    "title": "Mexico's most wanted man 'El Mencho' killed in military operation",
+    "title": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
     "summary": "Nemesio Oseguera Cervantes, known as \"El Mencho\", is head of one of Mexico's most powerful drug cartels.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sun, 22 Feb 2026 19:15:50 GMT",
+    "pubDate": "Sun, 22 Feb 2026 20:16:00 GMT",
     "link": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1525526.html",
+    "category": "sports",
+    "title": "David Miller: India are 'beatable' but South Africa won't get carried away",
+    "summary": "The South Africa batter said their 76-run win against them proved a point, but kept his eyes on the ball with two Super Eight fixtures left to play",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413900/413958.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 22 Feb 2026 19:50:00 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525526.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cp32l9w9pgyo#0",
+    "category": "global",
+    "title": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
+    "summary": "The suspect was carrying a shotgun and fuel can when he was killed, officers said. Trump was in Washington DC at the time.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 22 Feb 2026 19:30:35 GMT",
+    "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525522.html",
@@ -116,7 +76,7 @@
     "summary": "Her unbeaten 93 and two-for headlined a 37-run win that gave South Africa a 1-0 lead in the three-match ODI series",
     "image": "http://p.imgci.com/db/PICTURES/CMS/413900/413966.jpg",
     "source": "Cricinfo",
-    "pubDate": "Sun, 22 Feb 2026 19:13:59 GMT",
+    "pubDate": "Sun, 22 Feb 2026 19:20:09 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525522.html?ex_cid=OTC-RSS"
   },
   {
@@ -148,16 +108,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 22 Feb 2026 17:48:56 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525450.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cp32l9w9pgyo#0",
-    "category": "global",
-    "title": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
-    "summary": "The suspect was carrying a shotgun and fuel can when he was killed, officers said. Trump was in Washington DC at the time.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 22 Feb 2026 17:32:34 GMT",
-    "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cy7jnvdzpr7o#0",
@@ -290,16 +240,6 @@
     "link": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525457.html",
-    "category": "sports",
-    "title": "Markram's SA bat first against India; no place for Axar",
-    "summary": "SA made four changes, bringing back all first-choice players who were rested for their last fixture",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413900/413949.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 22 Feb 2026 13:51:08 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525457.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cz9qkjvg033o#0",
     "category": "global",
     "title": "Met officers working for Andrew told to guard Epstein's home, emails show",
@@ -338,6 +278,66 @@
     "source": "ET",
     "pubDate": "Sun, 22 Feb 2026 12:56:47 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sam-altmans-ego-is-a-turn-off-why-aswath-damodaran-would-invest-in-anthropic-over-openai/articleshow/128669249.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/india-desires-to-build-ties-with-bangladeshs-new-government-says-indian-envoy-11122428#publisher=newsstand",
+    "category": "india",
+    "title": "India Desires To Build Ties With Bangladesh's New Government, Says Indian Envoy",
+    "summary": "The Indian envoy said that India looks to build on its ties with Bangladesh and strengthen cooperation.",
+    "image": "https://c.ndtvimg.com/2026-02/jlrt0n4g_pranay-verma_625x300_23_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Feb 2026 00:32:28 +0530",
+    "link": "https://www.ndtv.com/india-news/india-desires-to-build-ties-with-bangladeshs-new-government-says-indian-envoy-11122428#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/probe-agency-ed-sets-target-of-filing-500-chargesheets-in-fy26-11122423#publisher=newsstand",
+    "category": "india",
+    "title": "Probe Agency ED Sets Target Of Filing 500 Chargesheets In FY26",
+    "summary": "Officials were told that the focus must be on \"meaningful\" achievement of targets.",
+    "image": "https://c.ndtvimg.com/2023-02/uvocqub_ed-generic-enforcement-directorate-generic_625x300_20_February_23.jpg",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Feb 2026 00:30:02 +0530",
+    "link": "https://www.ndtv.com/india-news/probe-agency-ed-sets-target-of-filing-500-chargesheets-in-fy26-11122423#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/report-on-ajit-pawar-plane-crash-to-be-released-by-saturday-union-minister-11122414#publisher=newsstand",
+    "category": "india",
+    "title": "Report On Ajit Pawar Plane Crash To Be Released By Saturday: Union Minister",
+    "summary": "The preliminary report on the Learjet 45 plane crash in Baramati in which NCP leader Ajit Pawar and four others died, will be released on or before February 28, Union Minister of State for Civil Aviation Murlidhar Mohol said on Sunday.",
+    "image": "https://c.ndtvimg.com/2024-06/8g8hb3d_murlidhar-mohol-x_625x300_09_June_24.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Feb 2026 00:24:46 +0530",
+    "link": "https://www.ndtv.com/india-news/report-on-ajit-pawar-plane-crash-to-be-released-by-saturday-union-minister-11122414#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/attempt-to-externalise-failures-india-slams-paks-strikes-on-afghanistan-11122413#publisher=newsstand",
+    "category": "india",
+    "title": "Attempt To \"Externalise\" Failures: India Slams Pak's Strikes On Afghanistan",
+    "summary": "Islamabad claimed that at least 70 terrorists were killed in the military strikes. (File)",
+    "image": "https://c.ndtvimg.com/2026-02/n3dqfnsc_afghanistan_625x300_22_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Feb 2026 00:24:39 +0530",
+    "link": "https://www.ndtv.com/india-news/attempt-to-externalise-failures-india-slams-paks-strikes-on-afghanistan-11122413#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/looking-forward-to-our-discussions-pm-modi-to-israel-pm-netanyahu-11122395#publisher=newsstand",
+    "category": "india",
+    "title": "\"Looking Forward To Our Discussions\": PM Modi To Israel PM Netanyahu",
+    "summary": "Prime Minister Narendra Modi, in response to Israeli Prime Minister Netanyahu's cordial message before his upcoming visit on Wednesday, stated that he was looking forward to their upcoming discussions.",
+    "image": "https://c.ndtvimg.com/2025-09/48u14cqc_modi-netanyahu-_625x300_07_September_25.jpg",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Feb 2026 00:14:57 +0530",
+    "link": "https://www.ndtv.com/world-news/looking-forward-to-our-discussions-pm-modi-to-israel-pm-netanyahu-11122395#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/partners-in-innovation-security-israel-pm-netanyahu-on-pm-modis-visit-11122393#publisher=newsstand",
+    "category": "india",
+    "title": "\"Partners In Innovation, Security\": Israel PM Netanyahu On PM Modi's Visit",
+    "summary": "Israeli Prime Minister Benjamin Netanyahu on Sunday termed Prime Minister Narendra Modi's upcoming visit to Israel as \"historic\".",
+    "image": "https://i.ndtvimg.com/i/2018-01/narendra-modi-benjamin-netanyahu-reuters_650x400_51516163384.jpg",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Feb 2026 00:14:33 +0530",
+    "link": "https://www.ndtv.com/world-news/partners-in-innovation-security-israel-pm-netanyahu-on-pm-modis-visit-11122393#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/india-news/gautam-adani-pays-obeisance-at-baba-baidyanath-temple-in-jharkhands-deoghar-11122364#publisher=newsstand",
