@@ -30,54 +30,84 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/india-news/odisha-bride-kidnapped-at-gunpoint-by-ex-lover-while-returning-from-own-wedding-11120855#publisher=newsstand",
+    "id": "https://www.ndtv.com/feature/from-rs-3-lakh-to-rs-90-lakh-savings-bengaluru-techies-financial-leap-after-masters-in-us-11121350#publisher=newsstand",
     "category": "india",
-    "title": "Newlywed Couple Was On Way Home, Bride's Ex Lover Kidnaps Her At Gunpoint",
-    "summary": "Further investigation is underway, say officials.",
-    "image": "https://c.ndtvimg.com/2026-02/hfv7ntg8_odisha-kidnapped-bride_625x300_22_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "From Rs 3 Lakh To Rs 90 Lakh Savings: Bengaluru Techie's Financial Leap After Master's In US",
+    "summary": "The post argued that pursuing a master's abroad can be a valid financial \"turning point.\"",
+    "image": "https://c.ndtvimg.com/2025-11/m2t9n5r_techie-_625x300_17_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Sun, 22 Feb 2026 17:25:00 +0530",
-    "link": "https://www.ndtv.com/india-news/odisha-bride-kidnapped-at-gunpoint-by-ex-lover-while-returning-from-own-wedding-11120855#publisher=newsstand"
+    "pubDate": "Sun, 22 Feb 2026 19:05:59 +0530",
+    "link": "https://www.ndtv.com/feature/from-rs-3-lakh-to-rs-90-lakh-savings-bengaluru-techies-financial-leap-after-masters-in-us-11121350#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/posters-threaten-terror-attacks-kashmiri-pandits-seek-security-in-jammu-and-kashmir-11121338#publisher=newsstand",
+    "category": "india",
+    "title": "Posters Threaten Terror Attacks, Kashmiri Pandits Seek Security In J&K",
+    "summary": "Kashmiri Pandits have expressed concern over threats by Pakistan-backed terrorist groups",
+    "image": "https://c.ndtvimg.com/2019-10/qg39gk78_kashmir-generic-journey-basket_625x300_13_October_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 22 Feb 2026 18:50:32 +0530",
+    "link": "https://www.ndtv.com/india-news/posters-threaten-terror-attacks-kashmiri-pandits-seek-security-in-jammu-and-kashmir-11121338#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/2-terrorists-killed-in-operation-in-j-ks-kishtwar-2-ak-47-rifles-recovered-11120639#publisher=newsstand",
+    "category": "india",
+    "title": "Pak's Jaish Terrorist Who Evaded Endgame 20 Times Among 3 Shot Dead In J&K",
+    "summary": "Jaish-e-Mohammed terrorist Saifullah",
+    "image": "https://c.ndtvimg.com/2026-02/feikte48_saifullah_625x300_22_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 22 Feb 2026 18:46:45 +0530",
+    "link": "https://www.ndtv.com/india-news/2-terrorists-killed-in-operation-in-j-ks-kishtwar-2-ak-47-rifles-recovered-11120639#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/video-flightradar-data-shows-us-air-forces-039-quot-air-bridge-quot-to-support-potential-iran-strike-11121287#publisher=newsstand",
+    "category": "india",
+    "title": "Video: US Sets Up Massive \"Air Bridge\" To Move Forces Towards Middle East",
+    "summary": "Iran has warned that any attack will be met with retaliation.",
+    "image": "https://c.ndtvimg.com/2026-02/tgq4pm2c_us-middle-east-flight-data_625x300_22_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sun, 22 Feb 2026 18:46:22 +0530",
+    "link": "https://www.ndtv.com/world-news/video-flightradar-data-shows-us-air-forces-039-quot-air-bridge-quot-to-support-potential-iran-strike-11121287#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/gautam-adani-reviews-projects-worth-over-rs-40-000-crore-in-jharkhand-bihar-11121320#publisher=newsstand",
+    "category": "india",
+    "title": "Gautam Adani Reviews Projects Worth Over Rs 40,000 Crore In Jharkhand, Bihar",
+    "summary": "The project is aimed at supporting rising industrial and urban demand in the state.",
+    "image": "https://c.ndtvimg.com/2026-02/5a68hsrc_adani_625x300_22_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 22 Feb 2026 18:44:55 +0530",
+    "link": "https://www.ndtv.com/india-news/gautam-adani-reviews-projects-worth-over-rs-40-000-crore-in-jharkhand-bihar-11121320#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/study-reveals-how-physical-activity-repairs-the-blood-brain-barrier-to-improve-memory-and-protect-brain-from-alzheimers-11117214#publisher=newsstand",
+    "category": "india",
+    "title": "Study Reveals How Physical Activity Repairs The Blood-Brain Barrier To Improve Memory And Protect Brain From Alzheimer's",
+    "summary": "Researchers at UC San Francisco have identified a biological process that may explain why exercise sharpens thinking and memory.",
+    "image": "https://c.ndtvimg.com/2026-02/tb2ah6do_indian-man-exercise-freepik_625x300_07_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 22 Feb 2026 18:42:45 +0530",
+    "link": "https://www.ndtv.com/health/study-reveals-how-physical-activity-repairs-the-blood-brain-barrier-to-improve-memory-and-protect-brain-from-alzheimers-11117214#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/lifestyle-coach-shares-smart-iftar-habits-to-follow-while-breaking-your-fast-during-ramadan-11121172#publisher=newsstand",
+    "category": "india",
+    "title": "Lifestyle Coach Shares Smart Iftar Habits To Follow While Breaking Your Fast During Ramadan",
+    "summary": "Fitness coach Luke Coutinho shares expert tips on how to break your fast the right way so you can nourish your body and stay energised for the rest of the month.",
+    "image": "https://c.ndtvimg.com/2026-02/lncpib0s_ramadan_625x300_19_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 22 Feb 2026 18:31:07 +0530",
+    "link": "https://www.ndtv.com/health/lifestyle-coach-shares-smart-iftar-habits-to-follow-while-breaking-your-fast-during-ramadan-11121172#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/how-nearly-20-000-isis-linked-individuals-vanished-in-syria-security-collapse-11120887#publisher=newsstand",
     "category": "india",
-    "title": "How Nearly 20,000 ISIS-Linked Individuals Vanished In Syria Security Collapse",
+    "title": "How Guards Abandoned Posts, Let 20,000 ISIS Affiliates Escape Syria Camp",
     "summary": "The Kurdishled SDF said they were \"compelled\" to withdraw from AlHol.",
     "image": "https://c.ndtvimg.com/2026-02/u6hvnetg_isis-camp-reuters-_625x300_22_February_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Sun, 22 Feb 2026 17:23:10 +0530",
+    "pubDate": "Sun, 22 Feb 2026 18:00:54 +0530",
     "link": "https://www.ndtv.com/world-news/how-nearly-20-000-isis-linked-individuals-vanished-in-syria-security-collapse-11120887#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/inside-delhi-polices-10-day-op-to-bring-down-hammer-on-lashkar-module-11120868#publisher=newsstand",
-    "category": "india",
-    "title": "16 SIMs, 8 Phones, 1 Deadly Plot: How Pak-Backed Terror Plot Was Busted",
-    "summary": "The Delhi Police's Special Cell foiled a major terrorist plot in an operation that lasted 10 days",
-    "image": "https://c.ndtvimg.com/2026-02/pebr2t78_terror-module_625x300_22_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 22 Feb 2026 17:22:10 +0530",
-    "link": "https://www.ndtv.com/india-news/inside-delhi-polices-10-day-op-to-bring-down-hammer-on-lashkar-module-11120868#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/battle-for-purvanchal-votes-haryana-chief-minister-to-campaign-in-ludhiana-11121047#publisher=newsstand",
-    "category": "india",
-    "title": "Battle For Purvanchal Votes: Haryana Chief Minister To Campaign In Ludhiana",
-    "summary": "As political activity begins to gather pace ahead of the 2027 Punjab assembly election, the BJP is sharpening its outreach to migrant voters -- particularly the sizeable Purvanchali community settled across the state's industrial towns.",
-    "image": "https://i.ndtvimg.com/i/2017-03/bjp-rally-afp-650_650x400_61488535688.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 22 Feb 2026 17:18:44 +0530",
-    "link": "https://www.ndtv.com/india-news/battle-for-purvanchal-votes-haryana-chief-minister-to-campaign-in-ludhiana-11121047#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/heart-stopping-cctv-shows-girl-blocking-closing-lift-doors-to-rescue-toddlers-11120947#publisher=newsstand",
-    "category": "india",
-    "title": "Heart-Stopping CCTV Shows Girl Blocking Closing Lift Doors To Rescue Toddlers",
-    "summary": "Some praised the girl's bravery, while others raised concerns about lift safety and maintenance.",
-    "image": "https://c.ndtvimg.com/2026-02/t8881154_-girl-blocking-malfunctioning-lift-doors_625x300_22_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Sun, 22 Feb 2026 17:08:04 +0530",
-    "link": "https://www.ndtv.com/india-news/heart-stopping-cctv-shows-girl-blocking-closing-lift-doors-to-rescue-toddlers-11120947#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/us-supreme-court-ruling-on-tariffs-why-emkay-sees-india-as-beneficiary-amid-trumps-flip-flops/articleshow/128674948.cms",
@@ -88,36 +118,6 @@
     "source": "ET",
     "pubDate": "Sun, 22 Feb 2026 17:00:35 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/us-supreme-court-ruling-on-tariffs-why-emkay-sees-india-as-beneficiary-amid-trumps-flip-flops/articleshow/128674948.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/bhupen-borah-gaurav-gogoi-congress-has-no-funds-to-contest-assam-polls-ex-state-chief-joins-bjp-11120968#publisher=newsstand",
-    "category": "india",
-    "title": "'Congress Has No Funds To Contest Assam Polls': Ex State Chief Joins BJP",
-    "summary": "Former Assam Congress chief Bhupen Borah joined the BJP today",
-    "image": "https://c.ndtvimg.com/2026-02/gvbk2hh_bhupen-borah_625x300_22_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 22 Feb 2026 16:56:50 +0530",
-    "link": "https://www.ndtv.com/india-news/bhupen-borah-gaurav-gogoi-congress-has-no-funds-to-contest-assam-polls-ex-state-chief-joins-bjp-11120968#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/2-terrorists-killed-in-operation-in-j-ks-kishtwar-2-ak-47-rifles-recovered-11120639#publisher=newsstand",
-    "category": "india",
-    "title": "2 Terrorists Killed In Major Op In J&K's Kishtwar, 2 AK-47 Rifles Recovered",
-    "summary": "File photo",
-    "image": "https://c.ndtvimg.com/2024-11/r8563eno_jammu-and-kashmir-encounter_625x300_13_November_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 22 Feb 2026 16:54:10 +0530",
-    "link": "https://www.ndtv.com/india-news/2-terrorists-killed-in-operation-in-j-ks-kishtwar-2-ak-47-rifles-recovered-11120639#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/nutritionist-suggests-sprinkling-cinnamon-on-fruits-says-it-helps-in-blood-sugar-control-11120888#publisher=newsstand",
-    "category": "india",
-    "title": "Nutritionist Suggests Sprinkling Cinnamon On Fruits, Says It Helps In Blood Sugar Control",
-    "summary": "Nutritionist Deepsikha Jain explains why sprinkling cinnamon on your fruits is a smart choice.",
-    "image": "https://c.ndtvimg.com/2025-05/7cpbtgnc_cinnamon_625x300_10_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 22 Feb 2026 16:44:06 +0530",
-    "link": "https://www.ndtv.com/health/nutritionist-suggests-sprinkling-cinnamon-on-fruits-says-it-helps-in-blood-sugar-control-11120888#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/128674326.cms",
@@ -170,14 +170,14 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-seth-klarmans-top-tips-for-navigating-volatile-markets/articleshow/128671357.cms"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525450.html",
-    "category": "sports",
-    "title": "High stakes for a rare West Indies-Zimbabwe clash",
-    "summary": "Both teams finished on top of their groups and Monday's meeting will be only the fifth T20I between the sides",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413400/413476.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 22 Feb 2026 13:34:13 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525450.html?ex_cid=OTC-RSS"
+    "id": "https://www.bbc.com/news/articles/clyz8d79djeo#0",
+    "category": "global",
+    "title": "Explosions kill police officer and injure 25 in western Ukraine",
+    "summary": "Twenty-five people were injured by explosions overnight in what officials are calling a terror attack.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 22 Feb 2026 14:19:02 GMT",
+    "link": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525447.html",
@@ -186,8 +186,28 @@
     "summary": "Defending a modest total of 146 after Phil Salt's lone hand, Will Jacks takes three as Sri Lanka are rolled for 95",
     "image": "http://p.imgci.com/db/PICTURES/CMS/413900/413938.jpg",
     "source": "Cricinfo",
-    "pubDate": "Sun, 22 Feb 2026 13:32:37 GMT",
+    "pubDate": "Sun, 22 Feb 2026 14:06:07 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525447.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1525450.html",
+    "category": "sports",
+    "title": "High stakes for a rare West Indies-Zimbabwe clash",
+    "summary": "Both teams finished on top of their groups and Monday's meeting will be only the fifth T20I between the sides",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413400/413476.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 22 Feb 2026 13:52:35 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525450.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1525457.html",
+    "category": "sports",
+    "title": "Markram's SA bat first against India; no place for Axar",
+    "summary": "SA made four changes, bringing back all first-choice players who were rested for their last fixture",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413900/413949.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 22 Feb 2026 13:51:08 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525457.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cz9qkjvg033o#0",
@@ -198,16 +218,6 @@
     "source": "BBC",
     "pubDate": "Sun, 22 Feb 2026 13:22:53 GMT",
     "link": "https://www.bbc.com/news/articles/cz9qkjvg033o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525457.html",
-    "category": "sports",
-    "title": "Markram's SA bat first against India; no place for Axar",
-    "summary": "SA made four changes, bringing back all first-choice players who were rested for their last fixture",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413900/413949.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 22 Feb 2026 13:22:33 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525457.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/clygnnz6d9lo#0",
@@ -250,26 +260,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sam-altmans-ego-is-a-turn-off-why-aswath-damodaran-would-invest-in-anthropic-over-openai/articleshow/128669249.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c5yj2kzkrj0o#0",
-    "category": "global",
-    "title": "Iran students stage first large anti-government protests since deadly crackdown",
-    "summary": "The student protesters honoured thousands of those killed when nationwide mass protests were put down last month.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 22 Feb 2026 12:39:15 GMT",
-    "link": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/clyz8d79djeo#0",
-    "category": "global",
-    "title": "Explosions kill police officer and injure 25 in western Ukraine",
-    "summary": "Twenty-five people were injured by explosions overnight in what officials are calling a terror attack.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 22 Feb 2026 12:15:21 GMT",
-    "link": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1525420.html",
     "category": "sports",
     "title": "Shepherd could return against Zimbabwe as Sammy says 'everybody is available'",
@@ -278,6 +268,16 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 22 Feb 2026 10:25:34 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525420.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/sport/ice-hockey/articles/c795eq5jpy5o#1",
+    "category": "global",
+    "title": "Canada and USA to meet in charged Olympic finale",
+    "summary": "Milan-Cortina 2026 has been one of the most eventful Winter Olympics in history - in sporting and political terms - so it is appropriate that the final medal event could be the most enticing of all.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 22 Feb 2026 09:53:32 GMT",
+    "link": "https://www.bbc.com/sport/ice-hockey/articles/c795eq5jpy5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525414.html",
@@ -310,6 +310,16 @@
     "link": "https://www.bbc.com/sport/articles/c3wlx1z86q3o?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.com/sport/articles/ce3gqz1yyyyo#1",
+    "category": "global",
+    "title": "Not the medal they wanted - but GB curlers bring spotlight to sport",
+    "summary": "Who are Great Britain's silver medal-winning curlers? And what might be next for them after another heartbreak?",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 22 Feb 2026 06:39:56 GMT",
+    "link": "https://www.bbc.com/sport/articles/ce3gqz1yyyyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1525283.html",
     "category": "sports",
     "title": "Ranaweera's four-for leads Sri Lanka to tense win over West Indies",
@@ -338,16 +348,6 @@
     "source": "BBC",
     "pubDate": "Sun, 22 Feb 2026 01:22:06 GMT",
     "link": "https://www.bbc.com/news/articles/cn71mvz8ne5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4gqwnlv01do#0",
-    "category": "global",
-    "title": "The Baftas 2026 takes place tonight. Here's everything you need to know",
-    "summary": "The biggest night in the British film calendar is upon us - find out who's nominated and how to watch.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 22 Feb 2026 00:02:43 GMT",
-    "link": "https://www.bbc.com/news/articles/c4gqwnlv01do?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
