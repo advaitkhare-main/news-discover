@@ -42,7 +42,7 @@
   {
     "id": "https://www.bbc.com/news/articles/c86ygl6821go#0",
     "category": "global",
-    "title": "Mescal and Abrams go red carpet official, a 'strong language' apology and other Bafta highlights",
+    "title": "Mescal and Abrams go red carpet official, a 'strong language' apology and other key Bafta moments",
     "summary": "This year's Bafta Film Awards had it all... A-listers, a touch of royalty, Paddington Bear - and the sun even came out, for what felt like the first time all year.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -110,16 +110,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1525447.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525526.html",
-    "category": "sports",
-    "title": "David Miller: India are 'beatable' but South Africa won't get carried away",
-    "summary": "The South Africa batter said their 76-run win against them proved a point, but kept his eyes on the ball with two Super Eight fixtures left to play",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413900/413958.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 22 Feb 2026 19:50:00 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525526.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1525522.html",
     "category": "sports",
     "title": "All-round Sune Luus hands South Africa series lead against Pakistan",
@@ -130,184 +120,184 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1525522.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525450.html",
-    "category": "sports",
-    "title": "High stakes for a rare West Indies-Zimbabwe clash",
-    "summary": "Both teams finished on top of their groups and Monday's meeting will be only the fifth T20I between the sides",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413400/413476.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 22 Feb 2026 17:48:56 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525450.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cj0dme87l84o#0",
-    "category": "global",
-    "title": "Former PM Gordon Brown urges police probe into whether Andrew used RAF bases to meet Epstein",
-    "summary": "Reports say the former prime minister has demanded a full investigation into Andrew's role as UK trade envoy.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 22 Feb 2026 15:15:42 GMT",
-    "link": "https://www.bbc.com/news/articles/cj0dme87l84o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/goldman-sachs-raises-oil-price-forecast-for-q4-of-2026/articleshow/128698632.cms",
-    "category": "finance",
-    "title": "Goldman Sachs raises oil price forecast for Q4 of 2026",
-    "summary": "Goldman Sachs has revised its 2026 crude oil forecasts upwards, anticipating Brent at $60 and WTI at $56 per barrel. This adjustment stems from lower-than-expected OECD stockpiles, even with assumptions of no Iran-related disruptions.  The bank fores",
-    "image": "https://img.etimg.com/photo/msid-128698632,imgsize-48620.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Feb 2026 09:46:42 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/goldman-sachs-raises-oil-price-forecast-for-q4-of-2026/articleshow/128698632.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/us-supreme-court-blocks-trump-tariffs-arnab-das-on-what-it-means-for-global-markets/articleshow/128698466.cms",
-    "category": "finance",
-    "title": "US Supreme Court blocks Trump tariffs: Arnab Das on what it means for global markets",
-    "summary": "Global markets cheered as the US Supreme Court limited presidential emergency tariff powers. This ruling restores checks and balances in the US trade system. While abrupt tariff shocks may lessen, the US drive to reshape global trade continues. Inves",
-    "image": "https://img.etimg.com/photo/msid-128698466,imgsize-65396.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Feb 2026 09:46:14 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/us-supreme-court-blocks-trump-tariffs-arnab-das-on-what-it-means-for-global-markets/articleshow/128698466.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ai-scare-for-sip-investors-will-a-prolonged-slump-in-it-stocks-affect-mutual-fund-returns/articleshow/128698457.cms",
-    "category": "finance",
-    "title": "AI scare for SIP investors: Will a prolonged slump in IT stocks affect mutual fund returns?",
-    "summary": "Indian retail investors are worried as IT stocks face a sharp correction due to artificial intelligence fears. This downturn could impact mutual fund returns, affecting both lump sum investments and SIPs. Many diversified funds have significant IT ex",
-    "image": "https://img.etimg.com/photo/msid-128698457,imgsize-2851437.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Feb 2026 09:39:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-scare-for-sip-investors-will-a-prolonged-slump-in-it-stocks-affect-mutual-fund-returns/articleshow/128698457.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-rising-today-sensex-surges-over-600-pts-nifty-above-25700-us-tariff-ruling-other-key-factors-fuel-rally/articleshow/128698058.cms",
-    "category": "finance",
-    "title": "Sensex surges over 600 pts, Nifty above 25,700; US tariff ruling, other key factors fuel rally",
-    "summary": "Indian stock markets surged on Monday, with the 30-stock index and Nifty both trading significantly higher. This positive movement was a direct reaction to the US Supreme Court's Friday decision to strike down President Donald Trump's global tariffs.",
-    "image": "https://img.etimg.com/photo/msid-128698058,imgsize-3192836.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Feb 2026 09:37:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-rising-today-sensex-surges-over-600-pts-nifty-above-25700-us-tariff-ruling-other-key-factors-fuel-rally/articleshow/128698058.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-shares-in-focus-amid-plans-to-cut-physical-stores/articleshow/128697995.cms",
-    "category": "finance",
-    "title": "Ola Electric shares in focus amid plans to cut physical stores",
-    "summary": "Ola Electric plans to cut its store network to 550 outlets amid declining market share and operational challenges. The company reported weaker sales and continued losses, though slightly improved year-on-year. With an oversold RSI and shifting invest",
-    "image": "https://img.etimg.com/photo/msid-128697995,imgsize-85730.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Feb 2026 09:20:02 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-shares-in-focus-amid-plans-to-cut-physical-stores/articleshow/128697995.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-stock-price-today-live-23-feb-2026/liveblog/128697873.cms",
-    "category": "finance",
-    "title": "UPL Share Price Live Updates: UPL Experiences Decline Below 100-Day EMA",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-128697873,imgsize-9370.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Feb 2026 09:16:04 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-stock-price-today-live-23-feb-2026/liveblog/128697873.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/how-retail-investors-are-playing-a-risky-game-by-swimming-against-the-market-tide-to-survive-nifty-bears/articleshow/128697760.cms",
-    "category": "finance",
-    "title": "How retail investors are playing a risky game by swimming against the market tide to survive Nifty bears",
-    "summary": "Indian retail investors are making bold moves in the stock market. They are buying stocks that have fallen in value and selling those that have performed well. This strategy, while providing market liquidity, often hurts personal investment returns. ",
-    "image": "https://img.etimg.com/photo/msid-128697760,imgsize-2806830.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Feb 2026 09:10:15 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-retail-investors-are-playing-a-risky-game-by-swimming-against-the-market-tide-to-survive-nifty-bears/articleshow/128697760.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/exclusive-can-cheap-valuations-shield-it-stocks-from-ai-disruption-s-naren-explains/articleshow/128682497.cms",
-    "category": "finance",
-    "title": "Exclusive | Can cheap valuations shield IT stocks from AI disruption? S Naren explains",
-    "summary": "Valuations in Indian IT stocks have become attractive amid AI disruption concerns, but S Naren of ICICI Prudential AMC stresses that low multiples alone are insufficient. Clarity on long-term growth and AI's true impact is crucial for investor confid",
-    "image": "https://img.etimg.com/photo/msid-128682497,imgsize-44068.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Feb 2026 09:00:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/exclusive-can-cheap-valuations-shield-it-stocks-from-ai-disruption-s-naren-explains/articleshow/128682497.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/mexico-news-live-updates-nemesio-el-mencho-oseguera-killed-powerful-drug-lord-el-mencho-killed-by-mexican-army-cartel-goes-on-rampage-11122833#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/netherlands-youngest-and-first-openly-gay-prime-minister-rob-jetten-to-take-oath-11122948#publisher=newsstand",
     "category": "india",
-    "title": "Powerful Drug Lord 'El Mencho' Killed By Mexican Army, Cartel Goes On Rampage",
-    "summary": "Oseguera, the 59-year-old leader of Jalisco New Generation Cartel, was wounded in a clash",
-    "image": "https://c.ndtvimg.com/2026-02/5q13tr4o_el-mencho-_625x300_23_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Netherland's Youngest And First Openly Gay Prime Minister To Take Oath",
+    "summary": "etten said he wanted to \"bring the Netherlands back to the heart of Europe\".",
+    "image": "https://c.ndtvimg.com/2026-02/itlmru84_rob-jetten_625x300_23_February_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 23 Feb 2026 08:37:44 +0530",
-    "link": "https://www.ndtv.com/world-news/mexico-news-live-updates-nemesio-el-mencho-oseguera-killed-powerful-drug-lord-el-mencho-killed-by-mexican-army-cartel-goes-on-rampage-11122833#publisher=newsstand"
+    "pubDate": "Mon, 23 Feb 2026 10:51:23 +0530",
+    "link": "https://www.ndtv.com/world-news/netherlands-youngest-and-first-openly-gay-prime-minister-rob-jetten-to-take-oath-11122948#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/bangalore-news/9-month-pregnant-woman-allegedly-assaulted-by-husband-in-laws-in-bengaluru-11123359#publisher=newsstand",
+    "category": "india",
+    "title": "9-Month Pregnant Woman Allegedly Assaulted By Husband, In-Laws In Bengaluru",
+    "summary": "The woman sought legal action against her husband and in-laws for the alleged cruelty and assault.",
+    "image": "https://c.ndtvimg.com/2026-02/ch16lskg_bengaluru-pregnant-woman-assault_625x300_23_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Feb 2026 10:50:16 +0530",
+    "link": "https://www.ndtv.com/bangalore-news/9-month-pregnant-woman-allegedly-assaulted-by-husband-in-laws-in-bengaluru-11123359#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/trumps-swollen-ankles-spark-health-concerns-again-edema-causes-risks-and-what-it-means-11123323#publisher=newsstand",
+    "category": "india",
+    "title": "Trump's Swollen Ankles Spark Health Concerns Again: Edema Causes, Risks And What It Means",
+    "summary": "The image shared by podcaster Josh Pate drew attention to Donald Trump's swollen ankles",
+    "image": "https://c.ndtvimg.com/2026-02/cgb9e4ak_trump-on-josh-pate-podcast_625x300_23_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Feb 2026 10:47:39 +0530",
+    "link": "https://www.ndtv.com/health/trumps-swollen-ankles-spark-health-concerns-again-edema-causes-risks-and-what-it-means-11123323#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/textile-stocks-mixed-gokaldas-exports-drops-4-welspun-jumps-5-after-us-sc-tariff-ruling/articleshow/128700173.cms",
+    "category": "finance",
+    "title": "Textile stocks mixed: Gokaldas Exports drops 4%, Welspun jumps 5% after US SC tariff ruling",
+    "summary": "Indian textile stocks saw mixed trading on Monday. This followed a US Supreme Court ruling on tariffs. President Trump then imposed new global tariffs. This has created uncertainty for trade deals. India is studying the implications. A key trade meet",
+    "image": "https://img.etimg.com/photo/msid-128700173,imgsize-60678.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Feb 2026 10:47:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/textile-stocks-mixed-gokaldas-exports-drops-4-welspun-jumps-5-after-us-sc-tariff-ruling/articleshow/128700173.cms"
   },
   {
     "id": "https://www.ndtv.com/world-news/el-mencho-mexico-jalisco-new-generation-cartel-cjng-leader-killed-live-updates-military-us-canada-mexican-soldiers-violence-erupts-in-mexico-11122871#publisher=newsstand",
     "category": "india",
     "title": "Mexico Cartel Leader Killed LIVE: Indian Embassy Issues Advisory For Citizens In Mexico After Killing Of Drug Lord 'El M",
     "summary": "Mexican soldiers killed drug kingpin live news",
-    "image": "https://c.ndtvimg.com/2026-02/ug7jbof4_mexico_625x300_23_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "image": "https://c.ndtvimg.com/2026-02/43p9u5js_mexico_625x300_23_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 23 Feb 2026 08:37:01 +0530",
+    "pubDate": "Mon, 23 Feb 2026 10:45:12 +0530",
     "link": "https://www.ndtv.com/world-news/el-mencho-mexico-jalisco-new-generation-cartel-cjng-leader-killed-live-updates-military-us-canada-mexican-soldiers-violence-erupts-in-mexico-11122871#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/who-was-el-mencho-mexicos-most-wanted-drug-lord-with-15-million-bounty-jalisco-new-generation-drug-cartel-cjng-boss-nemesio-ruben-oseguera-cervantes-11122921#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/el-mencho-killed-us-canada-issue-travel-warnings-for-mexico-after-drug-kingpin-killing-11122884#publisher=newsstand",
     "category": "india",
-    "title": "Who Was 'El Mencho', Mexico's Most Wanted Drug Lord With $15 Million Bounty",
-    "summary": "El Mencho killing: Oseguera was arrested in the US, where he served time in prison for a few years",
-    "image": "https://c.ndtvimg.com/2026-02/6jmsuf3_el-mencho_625x300_23_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "US, Canada Issue Travel Warnings For Mexico After Drug Kingpin Killing",
+    "summary": "Several US and Canadian airlines cancelled flights to parts of Mexico.",
+    "image": "https://i.ndtvimg.com/i/2017-05/us-canada-border-reuters_650x400_41494472270.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 23 Feb 2026 08:35:36 +0530",
-    "link": "https://www.ndtv.com/world-news/who-was-el-mencho-mexicos-most-wanted-drug-lord-with-15-million-bounty-jalisco-new-generation-drug-cartel-cjng-boss-nemesio-ruben-oseguera-cervantes-11122921#publisher=newsstand"
+    "pubDate": "Mon, 23 Feb 2026 10:44:13 +0530",
+    "link": "https://www.ndtv.com/world-news/el-mencho-killed-us-canada-issue-travel-warnings-for-mexico-after-drug-kingpin-killing-11122884#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/pm-modi-on-india-impact-ai-summit-world-wholeheartedly-praised-indias-potential-at-ai-impact-summit-11123011#publisher=newsstand",
-    "category": "india",
-    "title": "World Wholeheartedly Praised India's Potential At AI Impact Summit: PM Modi",
-    "summary": "The India Impact AI Summit brought together more than 500 global AI leaders.",
-    "image": "https://c.ndtvimg.com/2026-02/aeonnd0g_pm-modi-india-ai-impact-expo-pti-_625x300_17_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 23 Feb 2026 08:30:37 +0530",
-    "link": "https://www.ndtv.com/india-news/pm-modi-on-india-impact-ai-summit-world-wholeheartedly-praised-indias-potential-at-ai-impact-summit-11123011#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-stall-on-geopolitical-risk-heavy-supply/articleshow/128699988.cms",
+    "category": "finance",
+    "title": "India bonds stall on geopolitical risk, heavy supply",
+    "summary": "Indian government bonds traded narrowly as geopolitical tensions and a large debt supply weighed on demand. While easing oil price jitters offered some relief, traders remained cautious ahead of significant state and central government debt auctions.",
+    "image": "https://img.etimg.com/photo/msid-128699988,imgsize-49592.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Feb 2026 10:40:55 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-stall-on-geopolitical-risk-heavy-supply/articleshow/128699988.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/rss-chief-mohan-bhagwat-sangh-doesnt-practice-hindutva-politics-believes-in-nation-building-11122366#publisher=newsstand",
+    "id": "https://www.ndtv.com/feature/draft-income-tax-rules-2026-all-about-transactions-with-mandatory-pan-quoting-11123327#publisher=newsstand",
     "category": "india",
-    "title": "Sangh Doesn't Practice Hindutva Politics, Believes In Nation Building: RSS Chief",
-    "summary": "Mohan Bhagwat said that some people mistake the Sangh for a paramilitary organisation.",
-    "image": "https://c.ndtvimg.com/2026-02/tof59eo4_mohan-bhagwat_625x300_21_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Draft Income-Tax Rules 2026: All About Transactions With Mandatory PAN Quoting",
+    "summary": "The government has released Draft Income-tax Rules, 2026, to replace the existing rules framed under the old Income Tax Rules, 1962.",
+    "image": "https://c.ndtvimg.com/2024-09/15dmuj8g_pan-card_625x300_03_September_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 23 Feb 2026 08:29:45 +0530",
-    "link": "https://www.ndtv.com/india-news/rss-chief-mohan-bhagwat-sangh-doesnt-practice-hindutva-politics-believes-in-nation-building-11122366#publisher=newsstand"
+    "pubDate": "Mon, 23 Feb 2026 10:40:07 +0530",
+    "link": "https://www.ndtv.com/feature/draft-income-tax-rules-2026-all-about-transactions-with-mandatory-pan-quoting-11123327#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/mukul-roy-death-ex-railway-minister-and-once-chanakya-of-bengal-politics-mukul-roy-dies-at-71-11122979#publisher=newsstand",
+    "id": "https://www.ndtv.com/karnataka-news/let-my-mother-in-law-die-note-found-in-karnataka-belagavi-temples-donation-box-11123326#publisher=newsstand",
     "category": "india",
-    "title": "Ex-Railway Minister And Once 'Chanakya Of Politics' Mukul Roy Dies At 71",
-    "summary": "Mukul Roy was one of the founding members of the Trinamool Congress party.",
-    "image": "https://i.ndtvimg.com/i/2017-11/mukul-roy-pti_650x400_51509816865.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "\"Let My Mother-In-Law Die\": Note Found In Karnataka Temple's Donation Box",
+    "summary": "The message carried no name or clue",
+    "image": "https://c.ndtvimg.com/2026-02/ogvcd8ko_karnataka_625x300_23_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 23 Feb 2026 08:23:22 +0530",
-    "link": "https://www.ndtv.com/india-news/mukul-roy-death-ex-railway-minister-and-once-chanakya-of-bengal-politics-mukul-roy-dies-at-71-11122979#publisher=newsstand"
+    "pubDate": "Mon, 23 Feb 2026 10:39:55 +0530",
+    "link": "https://www.ndtv.com/karnataka-news/let-my-mother-in-law-die-note-found-in-karnataka-belagavi-temples-donation-box-11123326#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/mexico-el-mencho-killed-most-powerful-drug-cartel-decapitated-chaos-erupts-11122784#publisher=newsstand",
-    "category": "india",
-    "title": "Most Powerful Drug Cartel Decapitated, Mexico In Chaos",
-    "summary": "Oseguera Cervantes had been significantly involved in drug trafficking activities since the 1990s.",
-    "image": "https://c.ndtvimg.com/2026-02/ama0l9qg_mencho-violence_625x300_23_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 23 Feb 2026 08:17:59 +0530",
-    "link": "https://www.ndtv.com/world-news/mexico-el-mencho-killed-most-powerful-drug-cartel-decapitated-chaos-erupts-11122784#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/indian-markets-show-signs-of-revival-as-broader-market-stage-comeback-devang-mehta/articleshow/128699818.cms",
+    "category": "finance",
+    "title": "Indian markets show signs of revival as broader market stage comeback: Devang Mehta",
+    "summary": "Indian equity markets show signs of recovery after an 18-month downturn, with improved market breadth and strong earnings growth across segments.  Quality stocks are attracting renewed interest, and PSU banks offer attractive valuations and a dual pr",
+    "image": "https://img.etimg.com/photo/msid-128699818,imgsize-73994.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Feb 2026 10:39:21 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/indian-markets-show-signs-of-revival-as-broader-market-stage-comeback-devang-mehta/articleshow/128699818.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/mexico-drug-lord-killed-cars-burnt-roads-blocked-violence-after-el-mencho-killing-11122989#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/us-suspends-global-entry-as-partial-government-shutdown-drags-on-11122761#publisher=newsstand",
     "category": "india",
-    "title": "Video: Cars Burnt, Roads Blocked, Violence In Mexico After 'El Mencho' Killed",
-    "summary": "Cartels burnt vehicles in nearly a dozen Mexican states and even destroyed roads.",
-    "image": "https://c.ndtvimg.com/2026-02/ug7jbof4_mexico_625x300_23_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "US Suspends Global Entry As Partial Government Shutdown Drags On",
+    "summary": "The turmoil at security and customs lanes is tied to a partial government shutdown.",
+    "image": "https://c.ndtvimg.com/2025-10/pt3ln7gs_us-airport_625x300_02_October_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 23 Feb 2026 08:14:41 +0530",
-    "link": "https://www.ndtv.com/world-news/mexico-drug-lord-killed-cars-burnt-roads-blocked-violence-after-el-mencho-killing-11122989#publisher=newsstand"
+    "pubDate": "Mon, 23 Feb 2026 10:39:18 +0530",
+    "link": "https://www.ndtv.com/world-news/us-suspends-global-entry-as-partial-government-shutdown-drags-on-11122761#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/upl-shares-drop-10-after-restructuring-announcement-nuvama-downgrades-to-hold/articleshow/128699788.cms",
+    "category": "finance",
+    "title": "UPL shares drop 10% after restructuring announcement, Nuvama downgrades to \u2018Hold\u2019",
+    "summary": "UPL shares fell 10% after announcing a restructuring to merge global crop protection units into UPL Global, alongside a downgrade by Nuvama to Hold. While the move may unlock value, concerns over leverage and dilution persist. The stock remains under",
+    "image": "https://img.etimg.com/photo/msid-128699788,imgsize-10336.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Feb 2026 10:33:15 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/upl-shares-drop-10-after-restructuring-announcement-nuvama-downgrades-to-hold/articleshow/128699788.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/idfc-first-bank-fraud-how-a-rs-590-crore-hit-erased-rs-14000-crore-in-investor-wealth/articleshow/128699537.cms",
+    "category": "finance",
+    "title": "IDFC First Bank fraud: How a Rs 590 crore hit erased Rs 14,000 crore in investor wealth",
+    "summary": "IDFC First Bank's market capitalization plummeted by Rs 14,438 crore after a Rs 590 crore fraud at its Chandigarh branch. Employees allegedly conducted unauthorized transactions in Haryana state government accounts, leading to a significant deposit b",
+    "image": "https://img.etimg.com/photo/msid-128699537,imgsize-3096213.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Feb 2026 10:27:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/idfc-first-bank-fraud-how-a-rs-590-crore-hit-erased-rs-14000-crore-in-investor-wealth/articleshow/128699537.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fading-vibes-internet-stocks-fall-up-to-28-so-far-in-2026-brokerages-back-paytm-groww-5-more-after-q3/articleshow/128699243.cms",
+    "category": "finance",
+    "title": "Fading vibes: Internet stocks fall up to 28% so far in 2026. Brokerages back Paytm, Groww, 5 more after Q3",
+    "summary": "Indian internet companies showed mixed Q3 results, with some reporting strong revenue and profit growth while others struggled. Despite a general decline in stock prices, brokerages remain optimistic about select platforms like Paytm, Groww, and Lens",
+    "image": "https://img.etimg.com/photo/msid-128699243,imgsize-2829878.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Feb 2026 10:11:07 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fading-vibes-internet-stocks-fall-up-to-28-so-far-in-2026-brokerages-back-paytm-groww-5-more-after-q3/articleshow/128699243.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-shifting-tides-global-markets-challenge-wall-streets-long-held-dominance/articleshow/128699168.cms",
+    "category": "finance",
+    "title": "US Market | Shifting Tides: Global markets challenge Wall Street\u2019s long-held dominance",
+    "summary": "U.S. investors are shifting billions from domestic equities to overseas markets, ending a decade-long \"buy America\" trend. This reallocation is driven by concerns over U.S. tech valuations and a search for more attractive opportunities in regions lik",
+    "image": "https://img.etimg.com/photo/msid-128699168,imgsize-47264.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Feb 2026 10:07:58 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-shifting-tides-global-markets-challenge-wall-streets-long-held-dominance/articleshow/128699168.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-tariff-turmoil-clouds-fed-outlook-ripple-effects-felt-across-us-global-and-indian-markets/articleshow/128698833.cms",
+    "category": "finance",
+    "title": "US Market | Tariff turmoil clouds Fed outlook; ripple effects felt across US, global and Indian markets",
+    "summary": "A U.S. Supreme Court ruling striking down Trump-era tariffs has injected fresh policy uncertainty into financial markets. This complicates the Federal Reserve's inflation outlook and interest rate decisions, as the administration signals intent to re",
+    "image": "https://img.etimg.com/photo/msid-128698833,imgsize-37770.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Feb 2026 09:54:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-tariff-turmoil-clouds-fed-outlook-ripple-effects-felt-across-us-global-and-indian-markets/articleshow/128698833.cms"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1525526.html",
+    "category": "sports",
+    "title": "David Miller: India are 'beatable' but South Africa won't get carried away",
+    "summary": "The South Africa batter said their 76-run win against them proved a point, but kept his eyes on the ball with two Super Eight fixtures left to play",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413900/413958.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 23 Feb 2026 06:00:24 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525526.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1525550.html",
+    "category": "sports",
+    "title": "A plan for every play: South Africa go 'out of the box' to suffocate India",
+    "summary": "\"An offspinner getting a wicket in the first over is pretty much becoming a habit,\" Varun Aaron says after India go down to South Africa by 76 runs in a T20 World Cup Super Eight game",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413900/413976.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 23 Feb 2026 05:53:46 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525550.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525534.html",
@@ -316,8 +306,28 @@
     "summary": "Axar Patel was left out of hosts' line-up for their 76-run defeat at the hands of South Africa",
     "image": "http://p.imgci.com/db/PICTURES/CMS/413900/413962.jpg",
     "source": "Cricinfo",
-    "pubDate": "Mon, 23 Feb 2026 03:16:32 GMT",
+    "pubDate": "Mon, 23 Feb 2026 05:47:16 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525534.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c795qgejzpxo#0",
+    "category": "global",
+    "title": "Violence erupts in Mexico after drug lord El Mencho killed",
+    "summary": "The death of the most-wanted Jalisco cartel chief sparks retaliatory violence in at least a dozen states in Mexico.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 23 Feb 2026 05:30:58 GMT",
+    "link": "https://www.bbc.com/news/articles/c795qgejzpxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cdr232j8kgvo#0",
+    "category": "global",
+    "title": "Andrew charged taxpayers for massage when envoy, claim ex-civil servants",
+    "summary": "Whistleblower former civil servants claim there was too little scrutiny of Andrew's costs as UK trade envoy.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 23 Feb 2026 05:09:45 GMT",
+    "link": "https://www.bbc.com/news/articles/cdr232j8kgvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525537.html",
@@ -338,16 +348,6 @@
     "source": "BBC",
     "pubDate": "Mon, 23 Feb 2026 01:44:43 GMT",
     "link": "https://www.bbc.com/news/articles/c8r1pmz3zgzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy4wywnrdd8o#0",
-    "category": "global",
-    "title": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
-    "summary": "Nemesio Oseguera Cervantes, known as \"El Mencho\", headed one of Mexico's most powerful drug cartels.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 23 Feb 2026 00:55:41 GMT",
-    "link": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
