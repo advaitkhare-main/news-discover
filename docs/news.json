@@ -30,16 +30,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/czx7e100r48o#0",
-    "category": "global",
-    "title": "Hamnet's Jessie Buckley and I Swear's Robert Aramayo win big at the Baftas",
-    "summary": "Brit Aramayo beat US stars such Leonardo DiCaprio and Timoth\u00e9e Chalamet, while One Battle After Another picked up six awards.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 22 Feb 2026 22:10:21 GMT",
-    "link": "https://www.bbc.com/news/articles/czx7e100r48o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cvgj9p15y87o#0",
     "category": "global",
     "title": "Zelensky tells BBC Putin has started WW3 and must be stopped",
@@ -50,14 +40,124 @@
     "link": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/maharashtra-teacher-assaults-30-students-over-bent-motorcycle-number-plate-11124780#publisher=newsstand",
+    "id": "https://www.ndtv.com/feature/american-company-buys-tickets-on-every-us-flight-to-evacuate-employee-amid-mexico-unrest-11125193#publisher=newsstand",
     "category": "india",
-    "title": "Maharashtra Teacher Assaults 30 Students Over Bent Motorcycle Number Plate",
-    "summary": "Images from the school showed students with severe red welts across their arms and legs.",
-    "image": "https://c.ndtvimg.com/2026-02/g0j3vpi8_students-hit-_625x300_23_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "American Company Books Every US-Bound Flight To Evacuate Employee Amid Mexico Unrest",
+    "summary": "Vercel arranged seats on every available flight headed to the United States from Guadalajara.",
+    "image": "https://c.ndtvimg.com/2026-02/fi20cjh8_mexico-unrest_625x300_23_February_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 23 Feb 2026 16:52:31 +0530",
-    "link": "https://www.ndtv.com/india-news/maharashtra-teacher-assaults-30-students-over-bent-motorcycle-number-plate-11124780#publisher=newsstand"
+    "pubDate": "Mon, 23 Feb 2026 18:15:20 +0530",
+    "link": "https://www.ndtv.com/feature/american-company-buys-tickets-on-every-us-flight-to-evacuate-employee-amid-mexico-unrest-11125193#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/7-tips-to-maintain-strong-skin-barrier-and-keep-skin-healthy-during-seasonal-changes-11124844#publisher=newsstand",
+    "category": "india",
+    "title": "7 Tips To Maintain Strong Skin Barrier And Keep Skin Healthy During Seasonal Changes",
+    "summary": "Keeping your skin barrier strong can help to avert skin problems and keep the skin healthy through the summer season. Here are some tips to maintain a strong skin barrier.",
+    "image": "https://c.ndtvimg.com/2026-02/atrg9s7k_best-summer-ready-skincare-products-india_625x300_18_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Feb 2026 18:08:52 +0530",
+    "link": "https://www.ndtv.com/health/7-tips-to-maintain-strong-skin-barrier-and-keep-skin-healthy-during-seasonal-changes-11124844#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/novo-nordisks-cagrisema-delivers-23-weight-loss-in-trial-but-still-trails-eli-lillys-tirzepatide-11125328#publisher=newsstand",
+    "category": "india",
+    "title": "Novo Nordisk's CagriSema Delivers 23% Weight Loss In Trial But Still Trails Eli Lilly's Tirzepatide",
+    "summary": "CagriSema is a once-weekly subcutaneous injection, which is being investigated by Novo Nordisk as a treatment for adults with overweight or obesity.",
+    "image": "https://c.ndtvimg.com/2026-02/rd1hi7ao_ozempic_625x300_09_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Feb 2026 18:07:59 +0530",
+    "link": "https://www.ndtv.com/health/novo-nordisks-cagrisema-delivers-23-weight-loss-in-trial-but-still-trails-eli-lillys-tirzepatide-11125328#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/nemesio-ruben-oseguera-cervantes-el-mencho-death-son-sentenced-daughter-fined-brother-caught-inside-the-el-mencho-dynasty-11125139#publisher=newsstand",
+    "category": "india",
+    "title": "Son Sentenced, Daughter Fined, Brother Caught: Inside The El Mencho Dynasty",
+    "summary": "El Mencho was fatally wounded during the raid and later died.",
+    "image": "https://c.ndtvimg.com/2026-02/kib6sc8k_el-mencho-dynasty_625x300_23_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Feb 2026 18:03:08 +0530",
+    "link": "https://www.ndtv.com/world-news/nemesio-ruben-oseguera-cervantes-el-mencho-death-son-sentenced-daughter-fined-brother-caught-inside-the-el-mencho-dynasty-11125139#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-george-soros-its-not-whether-youre-right-or-wrong-thats-important-but-how-much-money-you-make-when-youre-right-and-how-much-you-lose-when-youre-wrong-/articleshow/128704156.cms",
+    "category": "finance",
+    "title": "Market quote of the day by George Soros | \u201cIt\u2019s not whether you\u2019re right or wrong that\u2019s important, but how much money y",
+    "summary": "George Soros\u2019 philosophy emphasises that investing success isn\u2019t about being right every time but about managing outcomes so gains outweigh losses. By focusing on asymmetric payoffs, disciplined risk management, and emotional resilience, investors ca",
+    "image": "https://img.etimg.com/photo/msid-128704156,imgsize-10186.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Feb 2026 18:02:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-george-soros-its-not-whether-youre-right-or-wrong-thats-important-but-how-much-money-you-make-when-youre-right-and-how-much-you-lose-when-youre-wrong-/articleshow/128704156.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/us-iran-crisis-2-things-trump-may-not-have-thought-through-about-going-to-war-11125296#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion | The Unsettling Iranian 'War Logic' Trump May Be Ignoring",
+    "summary": "Any attempts by Trump to forcibly \"hold\" Iranian land are likely to be met with an unprecedented fury, perhaps of the kind that America has never faced before.",
+    "image": "https://c.ndtvimg.com/2026-02/mrj6mlhs_us-iran_625x300_22_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Feb 2026 18:01:35 +0530",
+    "link": "https://www.ndtv.com/opinion/us-iran-crisis-2-things-trump-may-not-have-thought-through-about-going-to-war-11125296#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/security-tightened-at-delhi-metro-stations-after-series-of-bomb-threats-11125336#publisher=newsstand",
+    "category": "india",
+    "title": "Security Tightened At Delhi Metro Stations After Series Of Bomb Threats",
+    "summary": "Teams of the bomb disposal squad and dog squad have been deployed at sensitive locations",
+    "image": "https://c.ndtvimg.com/2026-02/m9ptfa78_delhi-metro-generic_625x300_23_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Feb 2026 18:01:15 +0530",
+    "link": "https://www.ndtv.com/india-news/security-tightened-at-delhi-metro-stations-after-series-of-bomb-threats-11125336#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/bmi-at-age-10-growth-rate-up-to-age-18-are-important-factors-for-diabetes-heart-disease-study-11125146#publisher=newsstand",
+    "category": "india",
+    "title": "Childhood Body Weight Predicts Future Diabetes And Heart Disease Risk: New Study",
+    "summary": "A new study in Nature Communications shows that body weight at age ten and growth patterns through adolescence are strongly linked to future risks of diabetes, high cholesterol, and heart disease.",
+    "image": "https://c.ndtvimg.com/2026-02/l94d9do_obese-child_625x300_23_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Feb 2026 18:00:37 +0530",
+    "link": "https://www.ndtv.com/health/bmi-at-age-10-growth-rate-up-to-age-18-are-important-factors-for-diabetes-heart-disease-study-11125146#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/a-rajya-sabha-strategy-congress-mla-quits-pre-poll-focus-on-magic-number-58-11125318#publisher=newsstand",
+    "category": "india",
+    "title": "Rajya Sabha Poll Strategy? Congress MLA Quits, Focus On Magic Number 58",
+    "summary": "Madhya Pradesh politics has suddenly turned restless. A resignation, two days of silence, and a carefully worded clarification have triggered a fresh political storm in state capital Bhopal.",
+    "image": "https://c.ndtvimg.com/2026-02/s8j7m1sg_hemant-katare-resigns-58-vote-magic-number_625x300_23_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Feb 2026 17:58:45 +0530",
+    "link": "https://www.ndtv.com/india-news/a-rajya-sabha-strategy-congress-mla-quits-pre-poll-focus-on-magic-number-58-11125318#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-tick-higher-as-us-iran-jitters-ease-but-hefty-debt-sales-loom/articleshow/128713782.cms",
+    "category": "finance",
+    "title": "Indian bonds tick higher as US-Iran jitters ease, but hefty debt sales loom",
+    "summary": "Indian government bonds edged \u200bhigher on Monday as geopolitical \u200bjitters ebbed ahead of a third round of \u200bU.S.-Iran nuclear talks, though heavy debt supply due this week capped gains.",
+    "image": "https://img.etimg.com/photo/msid-128713782,imgsize-27804.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Feb 2026 17:52:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-tick-higher-as-us-iran-jitters-ease-but-hefty-debt-sales-loom/articleshow/128713782.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/idfc-first-bank-shares-record-worst-crash-since-march-2020-end-16-lower/articleshow/128713582.cms",
+    "category": "finance",
+    "title": "IDFC First Bank shares record worst crash since March 2020, end 16% lower",
+    "summary": "IDFC First Bank ended 16% lower on Monday\u2014their worst fall since March 2020\u2014after the lender uncovered a Rs 590-crore fraud at its Chandigarh branch involving Haryana government-linked accounts. The bank suspended four officials, initiated forensic a",
+    "image": "https://img.etimg.com/photo/msid-128713582,imgsize-24244.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Feb 2026 17:44:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/idfc-first-bank-shares-record-worst-crash-since-march-2020-end-16-lower/articleshow/128713582.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-idfc-first-bank-adani-ports-among-6-stocks-that-were-in-focus-on-monday/slideshow/128712231.cms",
+    "category": "finance",
+    "title": "Gainers &amp; Losers: IDFC First Bank, Adani Ports among 6 stocks that were in focus on Monday",
+    "summary": "Indian markets rallied on Monday even as stocks like IDFC First Bank, AU SFB, UPL and HAL saw sharp moves, while Kitex Garments and Adani Ports gained on sector-specific triggers.\u200b",
+    "image": "https://img.etimg.com/photo/msid-128712231,imgsize-922726.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Feb 2026 17:08:12 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-idfc-first-bank-adani-ports-among-6-stocks-that-were-in-focus-on-monday/slideshow/128712231.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-says-these-hidden-charges-in-trading-can-wipe-out-low-brokerage-advantage/articleshow/128711447.cms",
@@ -70,16 +170,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-says-these-hidden-charges-in-trading-can-wipe-out-low-brokerage-advantage/articleshow/128711447.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/cbse-class-12-accountancy-exam-on-feb-24-which-chapters-carry-highest-weightage-11124919#publisher=newsstand",
-    "category": "india",
-    "title": "CBSE Class 12 Accountancy Exam On Feb 24: Which Chapters Carry Highest Weightage?",
-    "summary": "CBSE Class 12 Board Exams: students should ensure their handwriting is neat",
-    "image": "https://c.ndtvimg.com/2025-03/fpvj1lp_icai_625x300_01_March_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 23 Feb 2026 16:49:41 +0530",
-    "link": "https://www.ndtv.com/education/cbse-class-12-accountancy-exam-on-feb-24-which-chapters-carry-highest-weightage-11124919#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-wall-street-futures-dip-as-tariff-doubts-hit-risk-appetite/articleshow/128711181.cms",
     "category": "finance",
     "title": "US Market | Wall Street futures dip as tariff doubts hit risk appetite",
@@ -88,26 +178,6 @@
     "source": "ET",
     "pubDate": "Mon, 23 Feb 2026 16:43:11 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-wall-street-futures-dip-as-tariff-doubts-hit-risk-appetite/articleshow/128711181.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/after-living-abroad-bengaluru-man-hails-city-as-world-class-says-fixing-basics-can-make-it-best-11124694#publisher=newsstand",
-    "category": "india",
-    "title": "After Living Abroad, Bengaluru Man Hails City As \"World-Class\", Says Fixing Basics Can Make It Best",
-    "summary": "This post quickly became a topic of discussion on social media.",
-    "image": "https://c.ndtvimg.com/2026-02/2a05p1b_bengaluru-viral-news_625x300_23_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 23 Feb 2026 16:41:08 +0530",
-    "link": "https://www.ndtv.com/offbeat/after-living-abroad-bengaluru-man-hails-city-as-world-class-says-fixing-basics-can-make-it-best-11124694#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/india-china-step-up-outreach-to-tarique-rahmans-bangladesh-government-11124736#publisher=newsstand",
-    "category": "india",
-    "title": "India, China Step Up Outreach To Tarique Rahman's Bangladesh Government",
-    "summary": "Prime Minister Narendra Modi has already invited Tarique Rahman to New Delhi.",
-    "image": "https://c.ndtvimg.com/2026-02/bbsghcq4_bangladesh_625x300_23_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 23 Feb 2026 16:40:33 +0530",
-    "link": "https://www.ndtv.com/india-news/india-china-step-up-outreach-to-tarique-rahmans-bangladesh-government-11124736#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-today-all-eyes-on-big-tech-earnings-as-ai-anxiety-and-tariff-turmoil-keep-investors-on-edge/articleshow/128711069.cms",
@@ -120,16 +190,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-today-all-eyes-on-big-tech-earnings-as-ai-anxiety-and-tariff-turmoil-keep-investors-on-edge/articleshow/128711069.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/up-wedding-called-off-after-dog-disrupts-ceremony-bride-runs-to-in-laws-11124229#publisher=newsstand",
-    "category": "india",
-    "title": "Bride's Pet Dog Triggers Violent Clash Between Families At UP Wedding",
-    "summary": "The injured were taken to a nearby hospital for treatment. (Representational)",
-    "image": "https://c.ndtvimg.com/2026-02/udbfs35s_up-dog-marriage-split_625x300_23_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 23 Feb 2026 16:37:12 +0530",
-    "link": "https://www.ndtv.com/india-news/up-wedding-called-off-after-dog-disrupts-ceremony-bride-runs-to-in-laws-11124229#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/hal-shares-decline-5-on-tejas-crash-reports-company-denies-incident/articleshow/128710822.cms",
     "category": "finance",
     "title": "HAL shares decline 5% on Tejas crash reports; company denies incident",
@@ -140,74 +200,44 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/hal-shares-decline-5-on-tejas-crash-reports-company-denies-incident/articleshow/128710822.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/ladli-behna-freeze-triggers-political-showdown-in-madhya-pradesh-assembly-11124839#publisher=newsstand",
-    "category": "india",
-    "title": "Ladli Behna Freeze Triggers Political Showdown In Madhya Pradesh Assembly",
-    "summary": "Over the last 30 months, the state has transferred Rs 48,632.70 crore to beneficiaries.",
-    "image": "https://c.ndtvimg.com/2023-12/1mrbm7lg_mp-assembly-session_625x300_21_December_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 23 Feb 2026 16:34:52 +0530",
-    "link": "https://www.ndtv.com/india-news/ladli-behna-freeze-triggers-political-showdown-in-madhya-pradesh-assembly-11124839#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/cz6edwg06n1o#0",
+    "category": "global",
+    "title": "BBC sorry for airing racial slur shouted by guest with Tourette's at Baftas",
+    "summary": "Actors Michael B Jordan and Delroy Lindo were on stage at the time during the award ceremony in London.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 23 Feb 2026 12:44:47 GMT",
+    "link": "https://www.bbc.com/news/articles/cz6edwg06n1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/ai-summit-protest-widens-rift-between-congress-india-bloc-allies-11124821#publisher=newsstand",
-    "category": "india",
-    "title": "AI Summit Protest Widens Rift Between Congress, INDIA Bloc Allies",
-    "summary": "The semi-naked protest by the Youth Congress at the AI Summit has become a political albatross for the party's main unit.",
-    "image": "https://c.ndtvimg.com/2025-04/uo2ntsq_india-block_625x300_01_April_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 23 Feb 2026 16:32:46 +0530",
-    "link": "https://www.ndtv.com/india-news/ai-summit-protest-widens-rift-between-congress-india-bloc-allies-11124821#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/cr5lrny83dgo#0",
+    "category": "global",
+    "title": "Australia backs removing Andrew from royal line of succession",
+    "summary": "Andrew Mountbatten-Windsor remains eighth in line to the throne despite being stripped of his titles.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 23 Feb 2026 12:32:25 GMT",
+    "link": "https://www.bbc.com/news/articles/cr5lrny83dgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/health/how-genomics-could-be-the-key-to-identifying-rare-diseases-at-an-early-stage-doctor-explains-11124644#publisher=newsstand",
-    "category": "india",
-    "title": "Is Early Detection Of Rare Diseases Hidden In Your Genes?",
-    "summary": "In many countries, newborn screening programmes test babies for certain inherited conditions.",
-    "image": "https://c.ndtvimg.com/2026-01/e5eulvsc_rare-diseases-impact-children-more_625x300_20_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 23 Feb 2026 16:30:40 +0530",
-    "link": "https://www.ndtv.com/health/how-genomics-could-be-the-key-to-identifying-rare-diseases-at-an-early-stage-doctor-explains-11124644#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1525587.html",
+    "category": "sports",
+    "title": "Afghanistan to host Sri Lanka for white-ball series in March in the UAE",
+    "summary": "The tour ends on March 25, just one day before the IPL and PSL get underway",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/406400/406499.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 23 Feb 2026 12:15:25 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525587.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-said-to-begin-700-million-ipo-process-for-india-unit/articleshow/128710193.cms",
-    "category": "finance",
-    "title": "Carlsberg said to begin $700 million IPO process for India unit",
-    "summary": "Danish brewer Carlsberg is gearing up for a significant move in India. The company is reportedly preparing for a potential listing of its Indian operations. This offering could raise as much as $700 million. Banks have been appointed to advise on the",
-    "image": "https://img.etimg.com/photo/msid-128710193,imgsize-154340.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Feb 2026 16:13:32 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-said-to-begin-700-million-ipo-process-for-india-unit/articleshow/128710193.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-7-paise-to-close-at-90-87-against-us-dollar/articleshow/128709885.cms",
-    "category": "finance",
-    "title": "Rupee rises 7 paise to close at 90.87 against US dollar",
-    "summary": "The rupee gained 7 paise to settle at 90.87 (provisional) against the US dollar on Monday, aided by a sharp fall in global crude oil prices and a weaker greenback amid renewed global trade-related uncertainties.",
-    "image": "https://img.etimg.com/photo/msid-128709885,imgsize-65214.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Feb 2026 16:10:39 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-7-paise-to-close-at-90-87-against-us-dollar/articleshow/128709885.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/gold-at-5200-oil-at-70-heres-what-happens-next-with-precious-metals-and-crude/articleshow/128709822.cms",
-    "category": "finance",
-    "title": "Gold at \u20b95,200, oil at $70: Here's what happens next with precious metals and crude",
-    "summary": "Gold and silver are climbing due to policy uncertainty and central bank buying. Crude oil prices remain elevated by geopolitical risks, with a potential $4-$5 premium. Even a limited strike on Iran will not fully remove this risk. OPEC+ is expected t",
-    "image": "https://img.etimg.com/photo/msid-128709822,imgsize-10338.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Feb 2026 16:10:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/gold-at-5200-oil-at-70-heres-what-happens-next-with-precious-metals-and-crude/articleshow/128709822.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-bank-of-baroda-among-6-psu-bank-stocks-that-hit-52-week-high-rally-up-to-19-in-a-month/slideshow/128709833.cms",
-    "category": "finance",
-    "title": "SBI, Bank Of Baroda among 6 PSU bank stocks that hit 52-week high; rally up to 19% in a month",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-128709637,imgsize-50488.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Feb 2026 15:57:29 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-bank-of-baroda-among-6-psu-bank-stocks-that-hit-52-week-high-rally-up-to-19-in-a-month/slideshow/128709833.cms"
+    "id": "https://www.bbc.com/news/articles/cx2rv212wwyo#0",
+    "category": "global",
+    "title": "UK set to be among worst hit by Trump's 15% global tariff, analysis suggests",
+    "summary": "US allies will suffer the biggest hit from the president's latest announcement, think tank Global Trade Alert says.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 23 Feb 2026 12:08:18 GMT",
+    "link": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c795qgejzpxo#0",
@@ -238,16 +268,6 @@
     "source": "BBC",
     "pubDate": "Mon, 23 Feb 2026 10:45:09 GMT",
     "link": "https://www.bbc.com/news/articles/c4g4dgxl9n5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c20jn073gj4o#0",
-    "category": "global",
-    "title": "Netflix boss defends bid for Warner Bros as Paramount deadline looms",
-    "summary": "Ted Sarandos says his company's offer is better for industry growth as it is \"buying assets we don't currently have\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 23 Feb 2026 10:41:49 GMT",
-    "link": "https://www.bbc.com/news/articles/c20jn073gj4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525568.html",
@@ -290,16 +310,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1525508.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cx2407zy9zxo#0",
-    "category": "global",
-    "title": "Last surviving teacher of Aberfan disaster still remembers faces of the children who died",
-    "summary": "Mair Morgan says the disaster that killed 144 people remains etched into her memory.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 23 Feb 2026 06:07:28 GMT",
-    "link": "https://www.bbc.com/news/articles/cx2407zy9zxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c4gj20xzw39o#0",
     "category": "global",
     "title": "Steve Rosenberg: Four years into its full-scale war in Ukraine, Russia is feeling the effects",
@@ -308,16 +318,6 @@
     "source": "BBC",
     "pubDate": "Mon, 23 Feb 2026 06:01:59 GMT",
     "link": "https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525526.html",
-    "category": "sports",
-    "title": "Miller: India are 'beatable' and South Africa will 'keep wanting more'",
-    "summary": "The South Africa batter said their 76-run win against them proved a point, but kept his eyes on the ball with two Super Eight fixtures left to play",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413900/413958.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 23 Feb 2026 06:00:24 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525526.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525550.html",
@@ -332,7 +332,7 @@
   {
     "id": "https://www.bbc.com/news/articles/cdr232j8kgvo#0",
     "category": "global",
-    "title": "Andrew charged taxpayers for massage services when UK trade envoy, claim ex-civil servants",
+    "title": "Andrew charged taxpayers for massage services when envoy, claim ex-civil servants",
     "summary": "Whistleblower former civil servants claim there was too little scrutiny of Andrew's costs as UK trade envoy.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
