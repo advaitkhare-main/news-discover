@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://www.ndtv.com/india-news/centre-blocks-5-ott-platforms-for-streaming-obscene-content-11132062#publisher=newsstand",
+    "category": "india",
+    "title": "Centre Blocks 5 OTT Platforms For Streaming Obscene Content",
+    "summary": "These rules aim to maintain public decency, safeguard national interests.",
+    "image": "https://i.gadgets360cdn.com/large/apps_unsplash_1753435895838.jpg",
+    "source": "NDTV",
+    "pubDate": "Wed, 25 Feb 2026 00:55:12 +0530",
+    "link": "https://www.ndtv.com/india-news/centre-blocks-5-ott-platforms-for-streaming-obscene-content-11132062#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/louvres-director-resigns-months-after-mega-jewels-heist-in-paris-11131949#publisher=newsstand",
     "category": "india",
     "title": "Louvre's Director Resigns Months After Mega Jewels Heist In Paris",
@@ -70,16 +80,6 @@
     "link": "https://www.ndtv.com/india-news/4-years-of-war-zelensky-says-ukraine-unbroken-russia-vows-to-fight-on-11130066#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/after-el-menchos-death-cartels-turn-to-fake-news-to-spread-fear-in-mexico-11129683#publisher=newsstand",
-    "category": "india",
-    "title": "After El Mencho's Death, Cartels Turn To Fake News To Spread Fear In Mexico",
-    "summary": "Mexican cartels have long used social media for propaganda efforts.",
-    "image": "https://c.ndtvimg.com/2026-02/0akicpqc_el-mencho_625x300_23_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 25 Feb 2026 00:13:07 +0530",
-    "link": "https://www.ndtv.com/world-news/after-el-menchos-death-cartels-turn-to-fake-news-to-spread-fear-in-mexico-11129683#publisher=newsstand"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -140,6 +140,16 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-anthropic-touts-new-ai-tools-weeks-after-legal-plug-in-spurred-market-rout/articleshow/128755520.cms"
   },
   {
+    "id": "https://www.bbc.com/weather/articles/cedzvwe1nn5o#0",
+    "category": "global",
+    "title": "UK temperatures expected to reach 18C after rainy start to 2026",
+    "summary": "How high will temperatures reach and how long will stay mild? Darren Bett has the details.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 24 Feb 2026 20:20:12 GMT",
+    "link": "https://www.bbc.com/weather/articles/cedzvwe1nn5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/govt-to-divest-up-to-4-stake-in-irfc-via-ofs-starting-wednesday-sets-floor-price-at-rs-104-per-share/articleshow/128754932.cms",
     "category": "finance",
     "title": "Govt to divest up to 4% stake in IRFC via OFS starting Wednesday, sets floor price at Rs 104 per share",
@@ -148,6 +158,26 @@
     "source": "ET",
     "pubDate": "Tue, 24 Feb 2026 20:17:39 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/govt-to-divest-up-to-4-stake-in-irfc-via-ofs-starting-wednesday-sets-floor-price-at-rs-104-per-share/articleshow/128754932.cms"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1525796.html",
+    "category": "sports",
+    "title": "Focus on Samson at India nets after Rinku returns home",
+    "summary": "Axar Patel, who sat out of India's previous two games, bowled and batted during training and might come back into contention on a black-soil surface",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414047.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 24 Feb 2026 20:14:48 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525796.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c05vey47yddo#0",
+    "category": "global",
+    "title": "Mandelson's lawyers say he was arrested over 'baseless' claim he was a flight risk",
+    "summary": "The peer's lawyers say there is no truth in the suggestion he was planning to leave the UK.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 24 Feb 2026 20:13:35 GMT",
+    "link": "https://www.bbc.com/news/articles/c05vey47yddo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-pnb-and-sell-ofss-on-wednesday-hdfc-securities-explains-why/articleshow/128754710.cms",
@@ -178,26 +208,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 24 Feb 2026 19:43:28 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525839.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525796.html",
-    "category": "sports",
-    "title": "Focus on Samson at India nets after Rinku returns home",
-    "summary": "Axar Patel, who sat out of India's previous two games, bowled and batted during training and might come back into contention on a black-soil surface",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414047.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 24 Feb 2026 19:29:57 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525796.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c05vey47yddo#0",
-    "category": "global",
-    "title": "Mandelson's lawyers say he was arrested over 'baseless' claim he was a flight risk",
-    "summary": "The peer's lawyers say there is no truth in the suggestion he was planning to leave the UK.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 24 Feb 2026 18:53:54 GMT",
-    "link": "https://www.bbc.com/news/articles/c05vey47yddo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c80jd955889o#0",
@@ -278,16 +288,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 24 Feb 2026 14:57:25 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525792.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/weather/articles/cedzvwe1nn5o#0",
-    "category": "global",
-    "title": "UK temperatures expected to reach 18C after rainy start to 2026",
-    "summary": "How high will temperatures reach and how long will stay mild? Darren Bett has the details.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 24 Feb 2026 14:05:58 GMT",
-    "link": "https://www.bbc.com/weather/articles/cedzvwe1nn5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525775.html",
