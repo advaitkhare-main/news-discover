@@ -1,45 +1,5 @@
 [
   {
-    "id": "https://www.ndtv.com/india-news/delhi-police-himachal-pradesh-police-drama-follows-youth-congress-workers-arrest-cops-file-case-against-cops-11136732#publisher=newsstand",
-    "category": "india",
-    "title": "Drama Follows Youth Congress Workers' Arrest, Cops File Case Against Cops",
-    "summary": "The latest confrontation occurred near the Shoghi Barrier between Shimla and Solan.",
-    "image": "https://c.ndtvimg.com/2026-02/qgmsoi6c_delhi-police-vs-himachal-police-_625x300_25_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 25 Feb 2026 23:58:24 +0530",
-    "link": "https://www.ndtv.com/india-news/delhi-police-himachal-pradesh-police-drama-follows-youth-congress-workers-arrest-cops-file-case-against-cops-11136732#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/kerala-in-use-from-2nd-century-bc-shashi-tharoors-history-lesson-on-name-change-11136960#publisher=newsstand",
-    "category": "india",
-    "title": "'Kerala' In Use From 2nd-Century BC: Shashi Tharoor's History Lesson On Name Change",
-    "summary": "The renaming of \"Kerala\" to \"Keralam\" is not just a \"trivial\" issue to focus on when key issues are going unattended, it also jettison's a name with far more antiquity, senior Congress leader and Thiruvananthapuram MP Shashi Tharoor has told NDTV.",
-    "image": "https://c.ndtvimg.com/2026-02/1fm3figs_shashi-tharoor_625x300_08_February_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 25 Feb 2026 23:51:52 +0530",
-    "link": "https://www.ndtv.com/india-news/kerala-in-use-from-2nd-century-bc-shashi-tharoors-history-lesson-on-name-change-11136960#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/president-murmu-hails-ayush-medicine-s-role-in-health-11135525#publisher=newsstand",
-    "category": "india",
-    "title": "President Murmu Hails Ayush Medicine's Role In Health",
-    "summary": "The President Droupadi Murmu on Wednesday said Ayush systems of medicine have made an invaluable contribution to citizens' health.",
-    "image": "https://c.ndtvimg.com/2026-01/f3bk4nog_droupadi-murmu-jaipur-visit_625x300_13_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 25 Feb 2026 23:51:33 +0530",
-    "link": "https://www.ndtv.com/health/president-murmu-hails-ayush-medicine-s-role-in-health-11135525#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/windpipes-were-cut-delhi-man-slits-throats-of-pregnant-wife-3-daughters-11136935#publisher=newsstand",
-    "category": "india",
-    "title": "\"Windpipes Were Cut\": Delhi Man Slits Throats Of Pregnant Wife, 3 Daughters",
-    "summary": "The bodies were first noticed in the morning by relatives and neighbours.",
-    "image": "https://c.ndtvimg.com/2026-02/plfbmo74_delhi_625x300_25_February_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 25 Feb 2026 23:42:30 +0530",
-    "link": "https://www.ndtv.com/india-news/windpipes-were-cut-delhi-man-slits-throats-of-pregnant-wife-3-daughters-11136935#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/yes-bank-bookmyforex-forex-card-breach-costs-customers-rs-2-5-crore-hits-5000-users/articleshow/128788616.cms",
     "category": "finance",
     "title": "Yes Bank-BookMyForex forex card breach costs customers Rs 2.5 crore, hits 5,000 users",
@@ -68,6 +28,16 @@
     "source": "ET",
     "pubDate": "Wed, 25 Feb 2026 21:08:12 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/128787445.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8d5792yj9qo#0",
+    "category": "global",
+    "title": "Met apologises to Commons Speaker for sharing Mandelson tip-off",
+    "summary": "Sir Lindsay Hoyle tells MPs he was acting \"in good faith as is my duty and responsibility\" as he felt information was \"relevant\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 25 Feb 2026 20:30:46 GMT",
+    "link": "https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-circle-shares-surge-20-as-revenue-tops-expectations-on-strong-stablecoin-circulation/articleshow/128786342.cms",
@@ -118,16 +88,6 @@
     "source": "ET",
     "pubDate": "Wed, 25 Feb 2026 19:36:36 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/hsbc-india-profit-up-11-led-by-corporate-institutional-business/articleshow/128785136.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c8d5792yj9qo#0",
-    "category": "global",
-    "title": "Met apologises to Commons Speaker for sharing Mandelson tip-off",
-    "summary": "Sir Lindsay Hoyle tells MPs he was acting \"in good faith as is my duty and responsibility\" as he felt information was \"relevant\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 25 Feb 2026 18:41:29 GMT",
-    "link": "https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525974.html",
@@ -300,44 +260,84 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://www.ndtv.com/india-news/portion-on-judiciary-in-ncert-class-8-book-will-be-removed-government-sources-amid-huge-row-11134543#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/madhya-pradesh-minor-studying-in-class-10-delivers-baby-during-board-exam-in-pithampur-11135130#publisher=newsstand",
     "category": "india",
-    "title": "'Portion On Judiciary Will Be Removed': Government Sources Amid NCERT Row",
-    "summary": "Reference to \"corruption at various levels of the judiciary\" will be removed from NCERT Class VIII textbooks, high-level government sources told NDTV Wednesday afternoon.",
-    "image": "https://c.ndtvimg.com/2026-02/ufes5i2_ncert-class-8-new-book_625x300_24_February_26.jpeg",
+    "title": "Class 10 Student Delivers Baby During Board Exam In Madhya Pradesh",
+    "summary": "Further investigation into the matter is underway, police further said.",
+    "image": "https://c.ndtvimg.com/2023-12/h0353598_newborn-baby-generic_625x300_13_December_23.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 00:09:53 +0530",
-    "link": "https://www.ndtv.com/india-news/portion-on-judiciary-in-ncert-class-8-book-will-be-removed-government-sources-amid-huge-row-11134543#publisher=newsstand"
+    "pubDate": "Thu, 26 Feb 2026 00:39:06 +0530",
+    "link": "https://www.ndtv.com/india-news/madhya-pradesh-minor-studying-in-class-10-delivers-baby-during-board-exam-in-pithampur-11135130#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/india-has-major-role-to-play-israeli-minister-sharren-haskel-on-peace-in-middle-east-11136998#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/admit-card-with-pass-certificate-can-be-accepted-top-court-on-bengal-sir-11135710#publisher=newsstand",
     "category": "india",
-    "title": "\"India Has Major Role To Play\": Israeli Minister On Peace In Middle East",
-    "summary": "Hasked said that US President Donald Trump's diplomatic channel is heading the right way",
-    "image": "https://c.ndtvimg.com/2026-02/jq5ot03g_israel-minister_625x300_26_February_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Admit Card With Pass Certificate Can Be Accepted: Top Court On Bengal SIR",
+    "summary": "Polls will happen in West Bengal in 2026.",
+    "image": "https://c.ndtvimg.com/2025-04/mb4j95l8_-supreme-court_625x300_04_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 00:05:59 +0530",
-    "link": "https://www.ndtv.com/world-news/india-has-major-role-to-play-israeli-minister-sharren-haskel-on-peace-in-middle-east-11136998#publisher=newsstand"
+    "pubDate": "Thu, 26 Feb 2026 00:36:29 +0530",
+    "link": "https://www.ndtv.com/india-news/admit-card-with-pass-certificate-can-be-accepted-top-court-on-bengal-sir-11135710#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/over-5-000-tribals-join-bjp-in-assams-goalpara-weeks-before-elections-11136997#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/speaker-om-birla-re-constitutes-panel-to-probe-yashwant-varma-judge-in-cash-row-11137051#publisher=newsstand",
     "category": "india",
-    "title": "Over 5,000 Tribals Join BJP In Assam's Goalpara, Weeks Before Elections",
-    "summary": "The programme witnessed an overwhelming response.",
-    "image": "https://c.ndtvimg.com/2026-02/vihdvn2_himanta-biswa-sarma_625x300_17_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Speaker Om Birla Re-Constitutes Panel To Probe Judge In Cash Row",
+    "summary": "In August, Om Birla had formed a three-member panel to investigate Justice Yashwant Varma.",
+    "image": "https://c.ndtvimg.com/2025-03/d6j44u6g_yashwant-varma-cash-row_650x400_24_March_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 00:05:57 +0530",
-    "link": "https://www.ndtv.com/india-news/over-5-000-tribals-join-bjp-in-assams-goalpara-weeks-before-elections-11136997#publisher=newsstand"
+    "pubDate": "Thu, 26 Feb 2026 00:32:41 +0530",
+    "link": "https://www.ndtv.com/india-news/speaker-om-birla-re-constitutes-panel-to-probe-yashwant-varma-judge-in-cash-row-11137051#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/anti-terror-agency-nia-arrests-2-more-in-red-fort-blast-case-11136983#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/armed-robbers-loot-jewellery-worth-rs-60-lakh-in-delhis-chandni-chowk-11137054#publisher=newsstand",
     "category": "india",
-    "title": "Anti-Terror Agency NIA Arrests 2 More In Red Fort Blast Case",
-    "summary": "The NIA had sought a 15-day custody to extract more specific details from the accused.",
-    "image": "https://c.ndtvimg.com/2025-11/9laojrhs_delhi-red-fort-car-blast-live-updates_625x300_10_November_25.jpeg",
+    "title": "Armed Robbers Loot Jewellery Worth Rs 60 Lakh In Delhi's Chandni Chowk",
+    "summary": "Three armed assailants looted gold jewellery worth approximately Rs 60 lakh from a shop in the Kinari Bazar area of Chandni Chowk in Delhi on Wednesday.",
+    "image": "https://c.ndtvimg.com/2022-11/oot8t25k_police-generic_625x300_07_November_22.jpg",
     "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 00:00:13 +0530",
-    "link": "https://www.ndtv.com/india-news/anti-terror-agency-nia-arrests-2-more-in-red-fort-blast-case-11136983#publisher=newsstand"
+    "pubDate": "Thu, 26 Feb 2026 00:32:31 +0530",
+    "link": "https://www.ndtv.com/india-news/armed-robbers-loot-jewellery-worth-rs-60-lakh-in-delhis-chandni-chowk-11137054#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/rajasthan-cabinet-removes-2-child-norm-for-local-body-polls-after-3-decades-11137041#publisher=newsstand",
+    "category": "india",
+    "title": "Rajasthan Cabinet Removes 2-Child Norm For Local Body Polls After 3 Decades",
+    "summary": "Political observers believe the move could widen participation.",
+    "image": "https://c.ndtvimg.com/2024-11/gfmimcfo_andhra-pradesh-2child-policy_625x300_19_November_24.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 00:28:32 +0530",
+    "link": "https://www.ndtv.com/india-news/rajasthan-cabinet-removes-2-child-norm-for-local-body-polls-after-3-decades-11137041#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/it-was-a-mistake-lucknow-man-who-murdered-father-chopped-his-body-11137030#publisher=newsstand",
+    "category": "india",
+    "title": "\"It Was A Mistake\": Lucknow Man Who Murdered Father, Chopped His Body",
+    "summary": "The severed limbs were wrapped in polythene and dumped in bushes.",
+    "image": "https://c.ndtvimg.com/2026-02/nb1df58c_lucknow-drum-murder_625x300_24_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 00:22:35 +0530",
+    "link": "https://www.ndtv.com/india-news/it-was-a-mistake-lucknow-man-who-murdered-father-chopped-his-body-11137030#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/no-cockpit-voice-flight-data-recorder-in-plane-that-crashed-in-jharkhand-11137021#publisher=newsstand",
+    "category": "india",
+    "title": "No Cockpit Voice, Flight Data Recorder In Plane That Crashed In Jharkhand",
+    "summary": "The aircraft's maximum take-off weight was 4,583 kg.",
+    "image": "https://c.ndtvimg.com/2026-02/fdk1cp4c_jharkhand-plane-crash_625x300_25_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 00:15:13 +0530",
+    "link": "https://www.ndtv.com/india-news/no-cockpit-voice-flight-data-recorder-in-plane-that-crashed-in-jharkhand-11137021#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/pm-modi-knesset-address-benjamin-netanyahu-india-israel-modi-hug-netanyahus-high-praise-for-brother-pm-modi-11136519#publisher=newsstand",
+    "category": "india",
+    "title": "\"Modi Hug Is Special\": Netanyahu's High Praise For \"Brother\" PM Modi",
+    "summary": "During his visit, Prime Minister Modi addressed Israel's parliament, the Knesset.",
+    "image": "https://c.ndtvimg.com/2026-02/tof50pdg_pm-modi-hug_625x300_25_February_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 00:12:17 +0530",
+    "link": "https://www.ndtv.com/world-news/pm-modi-knesset-address-benjamin-netanyahu-india-israel-modi-hug-netanyahus-high-praise-for-brother-pm-modi-11136519#publisher=newsstand"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
