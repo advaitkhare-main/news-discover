@@ -10,36 +10,6 @@
     "link": "https://www.bbc.com/news/videos/cqlgz0xk5zyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525974.html",
-    "category": "sports",
-    "title": "Sussex acknowledge 'wake-up call' after finances show \u00a31.3 million loss",
-    "summary": "Club was put into special measures by ECB last month, with four board members resigning",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/309600/309690.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 25 Feb 2026 18:25:26 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525974.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx2g3vmde0eo#0",
-    "category": "global",
-    "title": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
-    "summary": "Culiac\u00e1n in northern Mexico has seen a surge in violence as rival factions of the Sinaloa cartel battle for control.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 25 Feb 2026 17:00:49 GMT",
-    "link": "https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525936.html",
-    "category": "sports",
-    "title": "South Africa wary of West Indies' SA20 knowledge",
-    "summary": "Hope, Rutherford, Chase, Hosein and Motie spent the SA20 season facing South Africa's top players. Does that give West Indies an edge in a high-stakes game?",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/411800/411805.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 25 Feb 2026 15:56:33 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525936.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -58,6 +28,126 @@
     "source": "VentureBeat",
     "pubDate": "Tue, 13 Jan 2026 13:00:00 GMT",
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+  },
+  {
+    "id": "https://www.ndtv.com/education/nbems-creates-history-with-guinness-world-record-for-ai-in-healthcare-live-stream-11139295#publisher=newsstand",
+    "category": "india",
+    "title": "NBEMS Creates History With Guinness World Record For AI In Healthcare Live Stream",
+    "summary": "NBEMS Sets Guinness Record For AI In Healthcare Livestream",
+    "image": "https://c.ndtvimg.com/2026-02/avvssdt8_nbems-sets-guinness-record-for-ai-in-healthcare-livestream_625x300_26_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 14:50:38 +0530",
+    "link": "https://www.ndtv.com/education/nbems-creates-history-with-guinness-world-record-for-ai-in-healthcare-live-stream-11139295#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/why-is-period-pain-worse-on-the-first-day-4-reasons-behind-day-1-cramps-11139249#publisher=newsstand",
+    "category": "india",
+    "title": "Why Is Period Pain Worse On The First Day? 4 Reasons Behind Day 1 Cramps",
+    "summary": "Period cramps often peak on Day 1 due to a surge in prostaglandins that trigger intense uterine contractions.",
+    "image": "https://c.ndtvimg.com/2026-02/lee04s7o_period-pain-freepik_625x300_26_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 14:49:32 +0530",
+    "link": "https://www.ndtv.com/health/why-is-period-pain-worse-on-the-first-day-4-reasons-behind-day-1-cramps-11139249#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/delhi-househelp-stages-fake-probe-agency-raid-at-86-year-old-architects-home-11139193#publisher=newsstand",
+    "category": "india",
+    "title": "Uniform, 'Probe Agency' Raid: How Househelp Looted Lakhs From Delhi Architect",
+    "summary": "The househelp was arrested along with her sister-in-law",
+    "image": "https://c.ndtvimg.com/2026-02/atii440c_delhi-robbery_625x300_26_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 14:47:36 +0530",
+    "link": "https://www.ndtv.com/india-news/delhi-househelp-stages-fake-probe-agency-raid-at-86-year-old-architects-home-11139193#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/inside-mexican-drug-lord-el-menchos-final-hiding-place-unmade-beds-insomnia-medicines-11138469#publisher=newsstand",
+    "category": "india",
+    "title": "Unmade Beds, Insomnia Medicines: Inside El Mencho's Final Hiding Place",
+    "summary": "The luxurious villa features stone walls and a red-tiled roof.",
+    "image": "https://c.ndtvimg.com/2026-02/huehenlo_el-mencho-villa_625x300_26_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 14:47:25 +0530",
+    "link": "https://www.ndtv.com/world-news/inside-mexican-drug-lord-el-menchos-final-hiding-place-unmade-beds-insomnia-medicines-11138469#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/national-science-day-2026-why-india-celebrates-february-28-whats-special-this-year-11139274#publisher=newsstand",
+    "category": "india",
+    "title": "Why India Celebrates Feb 28 As National Science Day 2026, What's Special This Year",
+    "summary": "National Science Day 2026: The Government of India declared February 28 as National Science Day in 1986.",
+    "image": "https://c.ndtvimg.com/2026-02/piia4608_national-science-day-2026_625x300_26_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 14:47:03 +0530",
+    "link": "https://www.ndtv.com/education/national-science-day-2026-why-india-celebrates-february-28-whats-special-this-year-11139274#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/avimukteshwarananda-joshimath-politics-spirals-in-up-after-shankaracharya-accused-in-child-abuse-case-11139279#publisher=newsstand",
+    "category": "india",
+    "title": "Politics Spirals In UP After Shankaracharya Accused In Child Abuse Case",
+    "summary": "Avimukteshwarananda is Shankaracharya and head of Jyotish Peeth in Joshimath",
+    "image": "https://c.ndtvimg.com/2026-01/mnas8j1s_shankaracharya-avimukteshwaranand_625x300_30_January_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 14:46:57 +0530",
+    "link": "https://www.ndtv.com/india-news/avimukteshwarananda-joshimath-politics-spirals-in-up-after-shankaracharya-accused-in-child-abuse-case-11139279#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/nasas-james-webb-telescope-captures-dying-star-nebula-that-looks-like-a-giant-brain-11138602#publisher=newsstand",
+    "category": "india",
+    "title": "NASA Captures Stunning Images Of Dying Star That Looks Like Brain",
+    "summary": "The latest photo was captured by the James Webb Space Telescope",
+    "image": "https://c.ndtvimg.com/2026-02/gmn5n8sc_nasa-dying-star_625x300_26_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 14:42:37 +0530",
+    "link": "https://www.ndtv.com/world-news/nasas-james-webb-telescope-captures-dying-star-nebula-that-looks-like-a-giant-brain-11138602#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/demand-for-plush-toy-carried-by-punch-rises-stuffed-orangutan-listed-for-rs-29-000-on-ebay-11139248#publisher=newsstand",
+    "category": "india",
+    "title": "Demand For Plush Toy Carried By Punch Rises, Stuffed Orangutan Listed For Rs 29,000 On eBay",
+    "summary": "The President and Chief Sustainability Officer of IKEA Japan also visited the zoo to donate multiple replacements of the orangutan soft toy for Punch.",
+    "image": "https://c.ndtvimg.com/2026-02/3sl83r0k_punch_625x300_22_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 14:41:03 +0530",
+    "link": "https://www.ndtv.com/offbeat/demand-for-plush-toy-carried-by-punch-rises-stuffed-orangutan-listed-for-rs-29-000-on-ebay-11139248#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gold-silver-soared-in-2025-stocks-were-major-drags-what-could-2026-have-in-store-for-investors/articleshow/128808368.cms",
+    "category": "finance",
+    "title": "Gold, silver soared in 2025, stocks were major drags. What could 2026 have in store for investors?",
+    "summary": "After gold and silver delivered spectacular gains in 2025, Indian equities enter 2026 shaped by slower global rate cuts, geopolitical risks and a shift from slowdown to recovery. Largecaps may stay resilient, while mid and smallcaps could benefit fro",
+    "image": "https://img.etimg.com/photo/msid-128808368,imgsize-136418.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 14:35:16 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gold-silver-soared-in-2025-stocks-were-major-drags-what-could-2026-have-in-store-for-investors/articleshow/128808368.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/psu-banks-better-placed-on-loan-deposit-metrics-microfinance-cycle-nearing-normalisation-says-yuvraj-choudhary/articleshow/128807790.cms",
+    "category": "finance",
+    "title": "PSU banks better placed on loan-deposit metrics; microfinance cycle nearing normalisation, says Yuvraj Choudhary",
+    "summary": "Public sector banks are showing resilience in their loan-to-deposit ratios, with a significant gap compared to private peers. Despite concerns, PSU banks are leading credit growth and demonstrating improved asset quality and return on equity, suggest",
+    "image": "https://img.etimg.com/photo/msid-128807790,imgsize-2684.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 14:16:07 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/psu-banks-better-placed-on-loan-deposit-metrics-microfinance-cycle-nearing-normalisation-says-yuvraj-choudhary/articleshow/128807790.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/jane-streets-troubles-shift-from-nifty-bank-to-crypto-is-a-bigger-storm-brewing/articleshow/128807513.cms",
+    "category": "finance",
+    "title": "Jane Street's troubles shift from Nifty Bank to crypto. Is a bigger storm brewing?",
+    "summary": "Jane Street faces a lawsuit for alleged insider trading linked to the TerraUSD and Luna collapse. The firm denies the claims, calling them a bid to extract money.  This comes as Jane Street also faced market manipulation charges in India.  The crypto",
+    "image": "https://img.etimg.com/photo/msid-128807513,imgsize-83876.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 14:11:57 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jane-streets-troubles-shift-from-nifty-bank-to-crypto-is-a-bigger-storm-brewing/articleshow/128807513.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/turnaround-play-6-q3-profit-makers-rally-up-to-55-in-3-months/slideshow/128808076.cms",
+    "category": "finance",
+    "title": "Turnaround Play: 6 Q3 profit makers rally up to 55% in 3 months",
+    "summary": "Twenty-seven BSE-listed companies with market caps over Rs 3,000 crore turned profitable sequentially in the December quarter. While six stocks saw share price surges of 10-55%, many others declined, with the top five laggards dropping 20-40% in thre",
+    "image": "https://img.etimg.com/photo/msid-128807495,imgsize-4940.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 13:57:58 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/turnaround-play-6-q3-profit-makers-rally-up-to-55-in-3-months/slideshow/128808076.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/hal-bel-and-other-defence-stocks-jump-up-to-5-on-potential-india-israel-defence-deal/articleshow/128807416.cms",
@@ -100,124 +190,44 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-nikkei-crosses-59000-for-first-time-on-software-rally-gains-shrink-on-profit-taking/articleshow/128806426.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/nicolas-maduros-lawyer-barry-pollack-claims-team-trump-blocking-venezuela-from-paying-fees-11138893#publisher=newsstand",
-    "category": "india",
-    "title": "Maduro's Lawyer Claims Team Trump Blocking Venezuela From Paying Fees",
-    "summary": "Nicolas Maduro (L) and his lawyer Barry Pollack",
-    "image": "https://c.ndtvimg.com/2026-02/r9k7o82_nicolas-maduros-lawyer-barry-pollack_625x300_26_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 13:14:55 +0530",
-    "link": "https://www.ndtv.com/world-news/nicolas-maduros-lawyer-barry-pollack-claims-team-trump-blocking-venezuela-from-paying-fees-11138893#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1526028.html",
+    "category": "sports",
+    "title": "Unchanged South Africa opt to bowl, West Indies pick Chase for Hosein",
+    "summary": "This is the first 3pm local time game in Ahmedabad in this T20 World Cup",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413336.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Feb 2026 09:38:57 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526028.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/world-news/video-two-heroic-skiers-rescue-man-buried-in-deep-snow-in-california-resort-11138902#publisher=newsstand",
-    "category": "india",
-    "title": "Video: Two 'Heroic' Skiers Rescue Man Buried In Deep Snow In California Resort",
-    "summary": "A man buried alive in deep snow was rescued by two quick-thinking skiers.",
-    "image": "https://c.ndtvimg.com/2026-02/mje77f94_as_625x300_26_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 13:14:38 +0530",
-    "link": "https://www.ndtv.com/world-news/video-two-heroic-skiers-rescue-man-buried-in-deep-snow-in-california-resort-11138902#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/c9dnx445w4do#0",
+    "category": "global",
+    "title": "Royal Mail bosses to be called to Parliament over letter delivery failures",
+    "summary": "It comes after hundreds of people contacted BBC Your Voice to express frustration over late deliveries.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Feb 2026 09:33:55 GMT",
+    "link": "https://www.bbc.com/news/articles/c9dnx445w4do?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/apple-in-talks-with-banks-to-start-payment-service-in-india-11138878#publisher=newsstand",
-    "category": "india",
-    "title": "Apple In Talks With Banks To Start Payment Service In India",
-    "summary": "Apple Pay relies on Face ID or Touch ID to approve payments.",
-    "image": "https://c.ndtvimg.com/2026-01/85mmmno_apple-pay_625x300_22_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 13:11:26 +0530",
-    "link": "https://www.ndtv.com/india-news/apple-in-talks-with-banks-to-start-payment-service-in-india-11138878#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1526025.html",
+    "category": "sports",
+    "title": "Imran Tahir to make Dolphins comeback at 46 for CSA One Day Cup",
+    "summary": "Dolphins are going to be without a number of their first-choice players, who will travel to New Zealand with South Africa's T20I squad, for the domestic one-day tournament",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/388100/388167.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Feb 2026 09:24:13 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526025.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/education/how-ncert-books-are-published-and-what-triggered-supreme-courts-crackdown-11138649#publisher=newsstand",
-    "category": "india",
-    "title": "How NCERT Books Are Published And What Triggered Supreme Court's Crackdown",
-    "summary": "NCERT Chapter on the Judiciary: The Supreme Court has imposed a blanket ban on circulating the book.",
-    "image": "https://c.ndtvimg.com/2026-02/ufes5i2_ncert-class-8-new-book_625x300_24_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 13:07:52 +0530",
-    "link": "https://www.ndtv.com/education/how-ncert-books-are-published-and-what-triggered-supreme-courts-crackdown-11138649#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/united-nations-approves-first-carbon-credits-under-paris-agreement-11138445#publisher=newsstand",
-    "category": "india",
-    "title": "United Nations Approves First Carbon Credits Under Paris Agreement",
-    "summary": "Critics fear that if set up poorly, such schemes can undermine efforts to curb global warming.",
-    "image": "https://c.ndtvimg.com/2023-12/fqr0jm9o_carbon-emissions-generic-pixabay_625x300_09_December_23.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 13:05:28 +0530",
-    "link": "https://www.ndtv.com/world-news/united-nations-approves-first-carbon-credits-under-paris-agreement-11138445#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/himachal-delhi-police-they-went-to-arrest-3-men-were-detained-themselves-the-cop-vs-cop-thriller-11138748#publisher=newsstand",
-    "category": "india",
-    "title": "They Went To Arrest 3 Men, Were Detained Themselves: The Cop vs Cop Thriller",
-    "summary": "Himachal vs Delhi cops seen arguing over three Congress Youth Workers' arrest",
-    "image": "https://c.ndtvimg.com/2026-02/feqj7dlc_cops-_625x300_26_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 13:04:38 +0530",
-    "link": "https://www.ndtv.com/india-news/himachal-delhi-police-they-went-to-arrest-3-men-were-detained-themselves-the-cop-vs-cop-thriller-11138748#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/kilmar-abrego-garcia-asks-us-judge-to-dismiss-his-criminal-case-says-its-vindictive-11138230#publisher=newsstand",
-    "category": "india",
-    "title": "Kilmar Abrego Garcia Asks US Judge To Dismiss His Criminal Case, Says It's Vindictive",
-    "summary": "While Abrego Garcia is a Salvadoran citizen, a court order prevents him from being deported there.",
-    "image": "https://c.ndtvimg.com/2025-06/f7tepkgs_-kilmar-abrego-garcia_625x300_07_June_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 13:01:36 +0530",
-    "link": "https://www.ndtv.com/world-news/kilmar-abrego-garcia-asks-us-judge-to-dismiss-his-criminal-case-says-its-vindictive-11138230#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/are-you-taking-too-much-protein-powder-safe-intake-explained-11138613#publisher=newsstand",
-    "category": "india",
-    "title": "Are You Taking Too Much Protein Powder? Safe Intake Explained",
-    "summary": "Protein plays a vital role in muscle repair and growth",
-    "image": "https://c.ndtvimg.com/2025-11/lv8tk79s_protein-powders_625x300_10_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 13:01:23 +0530",
-    "link": "https://www.ndtv.com/health/are-you-taking-too-much-protein-powder-safe-intake-explained-11138613#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/it-will-outlast-ai-hype-private-banks-beat-psus-ajay-tyagis-contrarian-playbook/articleshow/128805930.cms",
-    "category": "finance",
-    "title": "IT will outlast AI hype, private banks beat PSUs: Ajay Tyagi's contrarian playbook",
-    "summary": "Contrarian investor Ajay Tyagi of UTI AMC remains bullish on Indian IT services, citing historical resilience against technological shifts like AI. He favors leading quick commerce players despite intense competition and sees a positive earnings tren",
-    "image": "https://img.etimg.com/photo/msid-128805930,imgsize-6118.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 13:00:06 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/it-will-outlast-ai-hype-private-banks-beat-psus-ajay-tyagis-contrarian-playbook/articleshow/128805930.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/iit-professors-entrepreneurial-bet-pays-rs-1000-crore-students-too-strike-ipo-riches/articleshow/128805806.cms",
-    "category": "finance",
-    "title": "IIT professor's entrepreneurial bet pays Rs 1,000 crore, students too strike IPO riches",
-    "summary": "An entrepreneurial leap by IIT-Bombay professor Shashikanth Suryanarayanan has turned into a windfall as his stake in Sedemac Mechatronics is valued at nearly Rs 1,000 crore ahead of its IPO. Former students-turned-cofounders are also set to reap sig",
-    "image": "https://img.etimg.com/photo/msid-128805806,imgsize-153339.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 12:49:15 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/iit-professors-entrepreneurial-bet-pays-rs-1000-crore-students-too-strike-ipo-riches/articleshow/128805806.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-ai-shares-locked-in-20-upper-circuit-on-us-transport-agency-deal/articleshow/128805097.cms",
-    "category": "finance",
-    "title": "Smallcap AI shares locked in 20% upper circuit on US transport agency deal",
-    "summary": "Shares of XTGlobal Infotech hit the 20% upper circuit at Rs 33.18 on the BSE after the company secured an AI Enablement for Engineering Services contract from a US-based state transportation agency. The six-month engagement is valued at about $796,90",
-    "image": "https://img.etimg.com/photo/msid-128805097,imgsize-14793.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 12:23:54 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-ai-shares-locked-in-20-upper-circuit-on-us-transport-agency-deal/articleshow/128805097.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-hit-record-high-for-second-day-miners-health-tech-fuel-rally/articleshow/128804618.cms",
-    "category": "finance",
-    "title": "Global Markets | Australian shares hit record high for second day; miners, health, tech fuel rally",
-    "summary": "Australian stocks hit a fresh record high for the second day, driven by strong performances from miners, healthcare, and tech sectors amid a robust earnings season and rising commodity prices.  Miners, in particular, saw significant gains, with BHP a",
-    "image": "https://img.etimg.com/photo/msid-128804618,imgsize-418624.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 12:03:14 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-hit-record-high-for-second-day-miners-health-tech-fuel-rally/articleshow/128804618.cms"
+    "id": "https://www.bbc.com/news/articles/c30968817q3o#0",
+    "category": "global",
+    "title": "Racism and staff shortages factors in 'failing' maternity care, report finds",
+    "summary": "The interim report has identified problems \"at every stage\" of the maternity journey in England.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Feb 2026 09:16:54 GMT",
+    "link": "https://www.bbc.com/news/articles/c30968817q3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525989.html",
@@ -248,16 +258,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 26 Feb 2026 07:59:17 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526018.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c30968817q3o#0",
-    "category": "global",
-    "title": "Racism and staff shortages factors in 'failing' maternity care, report finds",
-    "summary": "The interim report has identified problems \"at every stage\" of the maternity journey in England.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Feb 2026 07:55:00 GMT",
-    "link": "https://www.bbc.com/news/articles/c30968817q3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c3v7z9dxe0qo#0",
@@ -310,9 +310,19 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1525918.html?ex_cid=OTC-RSS"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cpqwv9vvzx9o#0",
+    "category": "global",
+    "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
+    "summary": "Israeli forces blocked Palestinian ambulances while a 14-year-old lay bleeding for at least 45 minutes.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Feb 2026 06:01:11 GMT",
+    "link": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cewzg77k721o#0",
     "category": "global",
-    "title": "UK's first geothermal power plant set to go live",
+    "title": "Earth's heat to power 10,000 homes in renewable energy first for UK",
     "summary": "Water super-heated by rocks will also provide the UK's first domestic supply of the critical mineral lithium.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -328,16 +338,6 @@
     "source": "BBC",
     "pubDate": "Thu, 26 Feb 2026 01:18:20 GMT",
     "link": "https://www.bbc.com/news/articles/cy59gznnz0zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c2d1ne15w5go#0",
-    "category": "global",
-    "title": "There's a solution for e-bike parking chaos - but it's not problem-free",
-    "summary": "Introducing dedicated parking bays has not completely solved the issue.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Feb 2026 00:05:11 GMT",
-    "link": "https://www.bbc.com/news/articles/c2d1ne15w5go?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
