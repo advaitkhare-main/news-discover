@@ -50,26 +50,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1525963.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/ckgly01vjmlo#0",
-    "category": "global",
-    "title": "Man accused of driving wife to suicide claims she lied about abuse, jury told",
-    "summary": "Christopher Trybus, 43, is charged with manslaughter, coercive control and two counts of rape.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 25 Feb 2026 17:24:07 GMT",
-    "link": "https://www.bbc.com/news/articles/ckgly01vjmlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/crl45dp1gg5o#0",
-    "category": "global",
-    "title": "John Lewis pulls out of housebuilding business",
-    "summary": "The retailer began expanding into housebuilding in 2020 but it is scrapping those plans to focus on retail instead.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 25 Feb 2026 17:14:49 GMT",
-    "link": "https://www.bbc.com/news/articles/crl45dp1gg5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cx2g3vmde0eo#0",
     "category": "global",
     "title": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
@@ -110,26 +90,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1525918.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525910.html",
-    "category": "sports",
-    "title": "Maharaj plays down Ahmedabad advantage as pitches keep SA guessing",
-    "summary": "While playing majority of their games in Ahmedabad has offered South Africa stability and routine, the ever-changing surfaces mean they must adapt quickly",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413500/413517.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 25 Feb 2026 14:43:57 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525910.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525915.html",
-    "category": "sports",
-    "title": "'Not a big thing': Dogra downplays head-butting incident in Ranji final",
-    "summary": "The J&amp;K captain head-butted Karnataka substitute fielder KV Aneesh while both players were wearing helmets",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414066.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 25 Feb 2026 13:57:39 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525915.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -150,184 +110,224 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://www.ndtv.com/world-news/gerald-brown-ex-us-air-force-fighter-pilot-arrested-for-training-chinese-military-personnel-11137627#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/recent-sepsis-from-a-dog-lick-case-is-not-isolated-why-regular-screening-and-vaccines-matter-for-your-pets-health-11136305#publisher=newsstand",
     "category": "india",
-    "title": "Ex-US Air Force F-35 Pilot Arrested For Training Chinese Military Personnel",
-    "summary": "Gerala Brown had a 24-year career in the US Air Force (Representative)",
-    "image": "https://c.ndtvimg.com/2026-02/t19nbeek_f35_625x300_26_February_26.jpeg",
+    "title": "Recent Sepsis From A Dog Lick Case Is Not Isolated: Why Regular Screening and Vaccines Matter For Your Pet's Health",
+    "summary": "Your pet's health depends on your ability go for regular screenings and vaccinations",
+    "image": "https://c.ndtvimg.com/2026-02/38ij0jpk_pet-health_625x300_25_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 07:11:09 +0530",
-    "link": "https://www.ndtv.com/world-news/gerald-brown-ex-us-air-force-fighter-pilot-arrested-for-training-chinese-military-personnel-11137627#publisher=newsstand"
+    "pubDate": "Thu, 26 Feb 2026 09:29:46 +0530",
+    "link": "https://www.ndtv.com/health/recent-sepsis-from-a-dog-lick-case-is-not-isolated-why-regular-screening-and-vaccines-matter-for-your-pets-health-11136305#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/watch-dramatic-footage-shows-moment-sinkhole-swallows-2-cars-at-traffic-signal-in-us-11137631#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-off-to-a-positive-start-as-it-stocks-spark-surge/articleshow/128801614.cms",
+    "category": "finance",
+    "title": "Sensex, Nifty off to a positive start as IT stocks spark surge",
+    "summary": "Indian stock markets are on the rise for a second day. The Sensex opened higher by over 140 points. The Nifty is trading above 25,500. Technology stocks are leading the gains, following their Wall Street counterparts. Major IT firms like Tech Mahindr",
+    "image": "https://img.etimg.com/photo/msid-128801614,imgsize-1759799.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 09:28:57 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-off-to-a-positive-start-as-it-stocks-spark-surge/articleshow/128801614.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/irfc-ofs-open-for-retail-investors-today-should-you-wait-or-subscribe/articleshow/128801534.cms",
+    "category": "finance",
+    "title": "IRFC OFS open for retail investors today. Should you wait or subscribe?",
+    "summary": "IRFC's Offer for Sale (OFS) opened flat at Rs 104, with the government divesting a 2% stake. The issue saw 95% subscription from non-retail investors on the first day. Experts suggest IRFC remains fundamentally strong, with the OFS presenting a tacti",
+    "image": "https://img.etimg.com/photo/msid-128801534,imgsize-2822952.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 09:21:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/irfc-ofs-open-for-retail-investors-today-should-you-wait-or-subscribe/articleshow/128801534.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/silver-slips-rs-5500-gold-at-rs-1-6-lakh/10-gram-as-traders-navigate-tariff-geopolitical-uncertainty-time-to-be-cautious/articleshow/128801464.cms",
+    "category": "finance",
+    "title": "Silver slips Rs 5,500; gold at Rs 1.6 lakh/10 gram as traders navigate tariff, geopolitical uncertainty. Time to be caut",
+    "summary": "Gold and silver prices opened lower on Thursday due to ongoing US tariff policy uncertainty and US-Iran tensions, despite a weaker dollar. MCX futures for gold and silver saw significant declines. In international markets, spot gold and silver prices",
+    "image": "https://img.etimg.com/photo/msid-128801464,imgsize-273341.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 09:19:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-slips-rs-5500-gold-at-rs-1-6-lakh/10-gram-as-traders-navigate-tariff-geopolitical-uncertainty-time-to-be-cautious/articleshow/128801464.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/science/nasas-curiosity-rover-probes-spiderwebs-on-mars-heres-what-it-means-11137816#publisher=newsstand",
     "category": "india",
-    "title": "Watch: Dramatic Footage Shows Moment Sinkhole Swallows 2 Cars At Traffic Signal In US",
-    "summary": "Two vehicles fall into a sinkhole at Omaha's 67th and Pacific intersection.",
-    "image": "https://c.ndtvimg.com/2026-02/dpq0glek_as_625x300_26_February_26.jpeg",
+    "title": "NASA's Curiosity Rover Probes \"Spiderwebs\" On Mars. Here's What It Means",
+    "summary": "Curiosity Mars rover captured a panorama of boxwork formations.",
+    "image": "https://c.ndtvimg.com/2026-02/stfv6s68_mars_625x300_26_February_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 07:02:43 +0530",
-    "link": "https://www.ndtv.com/world-news/watch-dramatic-footage-shows-moment-sinkhole-swallows-2-cars-at-traffic-signal-in-us-11137631#publisher=newsstand"
+    "pubDate": "Thu, 26 Feb 2026 09:19:55 +0530",
+    "link": "https://www.ndtv.com/science/nasas-curiosity-rover-probes-spiderwebs-on-mars-heres-what-it-means-11137816#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/canada-changes-tune-on-indian-interference-ahead-of-pm-carneys-india-visit-11137929#publisher=newsstand",
+    "category": "india",
+    "title": "Canada Changes Tune On 'Indian Interference' Ahead Of PM Carney's India Visit",
+    "summary": "Canada has roughly 2.8 million people who are either Indian or of Indian origin.",
+    "image": "https://c.ndtvimg.com/2026-02/h1mj8uks_modi-carney_625x300_24_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 09:19:51 +0530",
+    "link": "https://www.ndtv.com/world-news/canada-changes-tune-on-indian-interference-ahead-of-pm-carneys-india-visit-11137929#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bharti-airtels-rs-20000-crore-nbfc-gambit-a-jio-style-pivot-or-costly-distraction/articleshow/128801474.cms",
+    "category": "finance",
+    "title": "Bharti Airtel's Rs 20,000 crore NBFC gambit: A Jio-style pivot or costly distraction?",
+    "summary": "Bharti Airtel is injecting Rs 20,000 crore into its new NBFC, Airtel Money Limited. This move positions the company as a direct lender, competing with established players. Airtel aims to leverage its vast customer base and data capabilities. The comp",
+    "image": "https://img.etimg.com/photo/msid-128801474,imgsize-3030101.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 09:18:32 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharti-airtels-rs-20000-crore-nbfc-gambit-a-jio-style-pivot-or-costly-distraction/articleshow/128801474.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/mumbai-news/mumbai-air-pollution-crisp-coastal-breeze-to-smell-of-dust-mumbais-air-pollution-crisis-worsens-11134462#publisher=newsstand",
+    "category": "india",
+    "title": "Inside Mumbai's Worsening Air Pollution Crisis",
+    "summary": "Mumbai Air Pollution: Experts say Mumbai's worsening air quality is not caused by a single factor.",
+    "image": "https://c.ndtvimg.com/2026-02/ese292fo_mumbai-air-pollution-ani-_625x300_25_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 09:16:08 +0530",
+    "link": "https://www.ndtv.com/mumbai-news/mumbai-air-pollution-crisp-coastal-breeze-to-smell-of-dust-mumbais-air-pollution-crisis-worsens-11134462#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/actor-ranya-rao-named-in-rs-102-crore-gold-smuggling-case-chargesheet-11137954#publisher=newsstand",
+    "category": "india",
+    "title": "Actor Ranya Rao Named In Rs 102-Crore Gold Smuggling Case Chargesheet",
+    "summary": "Ranya Rao  is currently lodged at the Bengaluru Central Prison.",
+    "image": "https://c.ndtvimg.com/2025-03/mkj5624g_ranya-rao-gold-split_625x300_11_March_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 09:14:38 +0530",
+    "link": "https://www.ndtv.com/india-news/actor-ranya-rao-named-in-rs-102-crore-gold-smuggling-case-chargesheet-11137954#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/education/cbse-board-exams-2026-live-updates-class-12-geography-paper-today-11137603#publisher=newsstand",
     "category": "india",
-    "title": "CBSE Board Exams 2026 Live: Essential Last-Minute Checklist Before You Leave For The Exam",
+    "title": "CBSE Board Exams 2026 LIVE: Class 12 Geography Exam Final Revision Plan And Guidelines",
     "summary": "Class 12 Geography Exam LIVE: CBSE has advised students to reach examination centres well in advance.",
     "image": "https://c.ndtvimg.com/2026-02/ommm2gag_students_625x300_26_February_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 06:50:15 +0530",
+    "pubDate": "Thu, 26 Feb 2026 09:13:33 +0530",
     "link": "https://www.ndtv.com/education/cbse-board-exams-2026-live-updates-class-12-geography-paper-today-11137603#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/jd-vance-warns-iran-ahead-of-talks-cant-let-craziest-worst-regime-have-nuclear-weapons-donald-trump-11137606#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/ipo-boom-set-to-accelerate-in-2026-fundraising-may-surpass-20-billion-nipun-goel/articleshow/128781112.cms",
+    "category": "finance",
+    "title": "IPO boom set to accelerate in 2026; fundraising may surpass $20 billion: Nipun Goel",
+    "summary": "India's IPO market is set for a strong year, with fundraising expected to surpass last year's $20 billion. Over 170 draft IPO documents have been filed. Valuations are more realistic now. New-age companies will lead listings. Private equity funds hav",
+    "image": "https://img.etimg.com/photo/msid-128781112,imgsize-16474.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 09:11:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/ipo-boom-set-to-accelerate-in-2026-fundraising-may-surpass-20-billion-nipun-goel/articleshow/128781112.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/pm-modi-netanyahu-deepen-india-israel-bond-with-defence-trade-pledge-11137917#publisher=newsstand",
     "category": "india",
-    "title": "\"Can't Let Craziest, Worst Regime Have Nuclear Weapons\": JD Vance Warns Iran",
-    "summary": "JD Vance said they were \"hopeful that we're able to come to a good resolution\" (File photo)",
-    "image": "https://c.ndtvimg.com/2025-05/43arpot8_jd-vance_625x300_09_May_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "PM Modi, Netanyahu Deepen India-Israel Bond With Defence, Trade Pledge",
+    "summary": "PM Modi shares a close personal bond with Netanyahu",
+    "image": "https://c.ndtvimg.com/2026-02/5vr4vq3_modi-netanyahu_625x300_26_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 06:47:41 +0530",
-    "link": "https://www.ndtv.com/world-news/jd-vance-warns-iran-ahead-of-talks-cant-let-craziest-worst-regime-have-nuclear-weapons-donald-trump-11137606#publisher=newsstand"
+    "pubDate": "Thu, 26 Feb 2026 09:07:14 +0530",
+    "link": "https://www.ndtv.com/world-news/pm-modi-netanyahu-deepen-india-israel-bond-with-defence-trade-pledge-11137917#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-climb-nvidia-pares-earlier-gains/articleshow/128799100.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-tcs-other-it-stocks-to-remain-in-focus-after-tech-rally-following-strong-nvidia-earnings/articleshow/128801158.cms",
     "category": "finance",
-    "title": "Global Market Today | Asian stocks climb, Nvidia pares earlier gains",
-    "summary": "Asian markets are rising for the fourth day. Concerns about artificial intelligence are easing. Nvidia's sales forecast is upbeat. This is boosting Asian chipmakers. South Korea's Kospi Index reached a record high. The dollar weakened. Gold edged up.",
-    "image": "https://img.etimg.com/photo/msid-128799100,imgsize-252278.cms",
+    "title": "Infosys, TCS, other IT stocks to remain in focus after tech rally following strong Nvidia earnings",
+    "summary": "Indian IT stocks are poised for focus following Nvidia's robust quarterly earnings, which spurred a Wall Street rally. This positive sentiment emerges amidst recent volatility in the IT sector, triggered by AI startup Anthropic's new tools. Analysts ",
+    "image": "https://img.etimg.com/photo/msid-128801158,imgsize-118682.cms",
     "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 06:43:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-climb-nvidia-pares-earlier-gains/articleshow/128799100.cms"
+    "pubDate": "Thu, 26 Feb 2026 09:04:34 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-tcs-other-it-stocks-to-remain-in-focus-after-tech-rally-following-strong-nvidia-earnings/articleshow/128801158.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-earnings-fail-to-lift-stocks-amid-ai-woes/articleshow/128799063.cms",
-    "category": "finance",
-    "title": "US Stock Market | Earnings fail to lift stocks amid AI woes",
-    "summary": "Despite a strong corporate earnings season with 13% growth and positive future guidance, the S&amp;P 500 declined. Investors are grappling with uncertainty surrounding AI's disruptive potential, geopolitical risks impacting energy markets, and concer",
-    "image": "https://img.etimg.com/photo/msid-128799063,imgsize-18696.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 06:40:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-earnings-fail-to-lift-stocks-amid-ai-woes/articleshow/128799063.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/samsung-unveils-galaxy-s26-ultra-with-built-in-privacy-display-ai-upgrades-11137589#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/google-launches-ai-professional-certificate-to-equip-students-with-real-world-artificial-intelligence-skills-11137817#publisher=newsstand",
     "category": "india",
-    "title": "Samsung Unveils Galaxy S26 Ultra With Built-In Privacy Display, AI Upgrades",
-    "summary": "Samsung's Galaxy S26 smartphone series.",
-    "image": "https://c.ndtvimg.com/2026-02/ir052sgg_galaxy-s26-ultra-bloomberg_625x300_26_February_26.jpeg",
+    "title": "Google Rolls Out AI Career Certificate: A Gateway To Tomorrow's Tech Jobs",
+    "summary": "New Google AI Certificate Offers Practical Skills And Project Portfolio",
+    "image": "https://c.ndtvimg.com/2026-01/qnp064m4_google-_625x300_18_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 06:38:08 +0530",
-    "link": "https://www.ndtv.com/india-news/samsung-unveils-galaxy-s26-ultra-with-built-in-privacy-display-ai-upgrades-11137589#publisher=newsstand"
+    "pubDate": "Thu, 26 Feb 2026 09:04:27 +0530",
+    "link": "https://www.ndtv.com/education/google-launches-ai-professional-certificate-to-equip-students-with-real-world-artificial-intelligence-skills-11137817#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/export-uncertainty-may-dull-domestic-momentum-for-solar-companies/articleshow/128799006.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/irfc-shares-in-focus-as-government-wont-exercise-greenshoe-option-in-ofs-retail-participation-opens-today/articleshow/128801212.cms",
     "category": "finance",
-    "title": "Export uncertainty may dull domestic momentum for solar companies",
-    "summary": "US imposition of a 125.87% countervailing duty on Indian solar modules is set to impact domestic companies by potentially lowering module prices. Exporters may redirect unsold inventory to India, while companies like Waaree Energies are strengthening",
-    "image": "https://img.etimg.com/photo/msid-128799006,imgsize-249644.cms",
+    "title": "IRFC shares in focus as government won\u2019t exercise greenshoe option in OFS; retail participation opens today",
+    "summary": "IRFC shares are in focus after the government chose not to exercise the greenshoe option in its OFS amid undersubscription from institutional investors. While retail bidding opens today, the PSU continues to report steady financial performance, with ",
+    "image": "https://img.etimg.com/photo/msid-128801212,imgsize-708847.cms",
     "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 06:37:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/export-uncertainty-may-dull-domestic-momentum-for-solar-companies/articleshow/128799006.cms"
+    "pubDate": "Thu, 26 Feb 2026 09:04:08 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/irfc-shares-in-focus-as-government-wont-exercise-greenshoe-option-in-ofs-retail-participation-opens-today/articleshow/128801212.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/cuba-kills-4-on-us-registered-speedboat-that-opened-fire-on-soldiers-11137587#publisher=newsstand",
-    "category": "india",
-    "title": "Cuba Kills 4 On US-Registered Speedboat That Opened Fire On Soldiers",
-    "summary": "Havana did not reveal the nationalities of the passengers (File photo)",
-    "image": "https://c.ndtvimg.com/2026-02/no2jpbi_cuba_625x300_26_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 06:37:20 +0530",
-    "link": "https://www.ndtv.com/world-news/cuba-kills-4-on-us-registered-speedboat-that-opened-fire-on-soldiers-11137587#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/sp-groups-rs-25000-crore-bond-issue-price-likely-to-be-lower/articleshow/128798854.cms",
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/pngs-reva-diamond-jewellery-ipo-day-3-gmp-subscription-status-broker-views-and-key-details/articleshow/128801171.cms",
     "category": "finance",
-    "title": "SP Group's Rs 25,000 crore bond issue price likely to be lower",
-    "summary": "Shapoorji Pallonji Group is set to raise approximately \u20b925,000 crore through a bond issue. This fundraising effort, planned for early April, is expected to have a lower pricing than previous borrowings. Improved prospects for asset sales and a potent",
-    "image": "https://img.etimg.com/photo/msid-128798854,imgsize-19756.cms",
+    "title": "PNGS Reva Diamond Jewellery IPO Day 3: GMP, subscription status, broker views and key details",
+    "summary": "PNGS Reva Diamond Jewellery\u2019s Rs 380 crore IPO enters its final day with 83% subscription and zero GMP, signalling muted listing expectations. While strong financials and margins support long-term prospects, brokerages remain divided, citing valuatio",
+    "image": "https://img.etimg.com/photo/msid-128801171,imgsize-19416.cms",
     "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 06:24:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/sp-groups-rs-25000-crore-bond-issue-price-likely-to-be-lower/articleshow/128798854.cms"
+    "pubDate": "Thu, 26 Feb 2026 09:01:48 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/pngs-reva-diamond-jewellery-ipo-day-3-gmp-subscription-status-broker-views-and-key-details/articleshow/128801171.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/open-ai-spy-a-secret-chinese-campaign-was-exposed-by-1-mistake-using-chatgpt-as-a-diary-11137014#publisher=newsstand",
-    "category": "india",
-    "title": "A Secret Chinese Campaign Was Exposed By 1 Mistake: Using ChatGPT As A Diary",
-    "summary": "Beyond Chinese dissidents, the campaign also extended to world leaders.",
-    "image": "https://c.ndtvimg.com/2026-02/vhhevkko_open-ai_625x300_26_February_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 06:22:41 +0530",
-    "link": "https://www.ndtv.com/world-news/open-ai-spy-a-secret-chinese-campaign-was-exposed-by-1-mistake-using-chatgpt-as-a-diary-11137014#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1525997.html",
+    "category": "sports",
+    "title": "South Africa win ODI series as all-round Dercksen swings high-scoring contest away from Pakistan",
+    "summary": "The two teams combined to put up 706 runs in Centurion on Wednesday, but Annerie Dercksen's 68-ball 90 and 3 for 59 proved to be the difference",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414089.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Feb 2026 03:49:39 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525997.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/education/cbse-board-exams-2026-live-class-10-science-paper-today-check-final-revision-plan-and-guidelines-11132601#publisher=newsstand",
-    "category": "india",
-    "title": "CBSE Board Exams 2026 Highlights: Class 10 Science Paper Review, Section-Wise Analysis Here",
-    "summary": "CBSE Board Exams 2026 Highlights",
-    "image": "https://c.ndtvimg.com/2025-05/5j5ljap4_cbse-board-class-10th-12th-result-2025-_625x300_12_May_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 06:21:23 +0530",
-    "link": "https://www.ndtv.com/education/cbse-board-exams-2026-live-class-10-science-paper-today-check-final-revision-plan-and-guidelines-11132601#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/c5ykq2ykd6zo#0",
+    "category": "global",
+    "title": "Hong Kong tycoon Jimmy Lai wins appeal against lesser conviction",
+    "summary": "The 78-year-old Lai, however, remains detained for a separate national security case.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Feb 2026 03:41:47 GMT",
+    "link": "https://www.bbc.com/news/articles/c5ykq2ykd6zo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/analysts-cautious-on-irfc-ofs-see-limited-upside/articleshow/128798797.cms",
-    "category": "finance",
-    "title": "Analysts cautious on IRFC OFS, see limited upside",
-    "summary": "The government is selling a stake in Indian Railway Finance Corporation. Analysts suggest caution for investors. The offer for sale aims to meet public shareholding norms. The floor price offers limited discount. IRFC has seen loan growth supported b",
-    "image": "https://img.etimg.com/photo/msid-128798797,imgsize-5342.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 06:17:17 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/analysts-cautious-on-irfc-ofs-see-limited-upside/articleshow/128798797.cms"
+    "id": "https://www.bbc.com/news/articles/c24drvj8yl2o#0",
+    "category": "global",
+    "title": "Four shot dead on US-registered speedboat were Cuban nationals, Cuba says",
+    "summary": "The passengers were armed and intended to \"carry out an infiltration for terrorist purposes\", the Cuban government said.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Feb 2026 03:15:58 GMT",
+    "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128790341.cms",
-    "category": "finance",
-    "title": "Pre-market action: Here's the trade setup for today's session",
-    "summary": "Equities advanced on Wednesday amid positive global cues, though trade uncertainties kept sentiment cautious. Analysts anticipate a range-bound market, guided by macro developments and sector-specific catalysts, with immediate support at 25300 and re",
-    "image": "https://img.etimg.com/photo/msid-128790341,imgsize-80439.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 06:11:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128790341.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1525989.html",
+    "category": "sports",
+    "title": "Matthews' century leads West Indies to six-wicket victory",
+    "summary": "The captain led from the front having earlier claimed two wickets to prevent Sri Lanka taking the series 3-0",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/401300/401391.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Feb 2026 02:42:34 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525989.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-irfc-adani-ports-lodha-developers-lupin-ril/articleshow/128789709.cms",
-    "category": "finance",
-    "title": "Stocks in news: IRFC, Adani Ports, Lodha Developers, Lupin, RIL",
-    "summary": "Markets closed higher despite initial volatility on the first day of the new expiry series, though analysts suggest potential for further downside. Several companies like IRFC, Adani Ports, Lodha Developers, Lupin, and RIL are in focus due to signifi",
-    "image": "https://img.etimg.com/photo/msid-128789709,imgsize-54812.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 06:11:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-irfc-adani-ports-lodha-developers-lupin-ril/articleshow/128789709.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-board-clears-rs-3000-crore-ncd-fundraise/articleshow/128798730.cms",
-    "category": "finance",
-    "title": "Vedanta board clears Rs 3,000 crore NCD fundraise",
-    "summary": "Vedanta's board has greenlit a \u20b93,000 crore fundraising initiative via unsecured, rated, and listed non-convertible debentures. These instruments, with a face value of \u20b91,00,000 each, are slated for listing on the BSE. CRISIL has assigned a 'CRISIL A",
-    "image": "https://img.etimg.com/photo/msid-128798730,imgsize-111868.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 06:08:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-board-clears-rs-3000-crore-ncd-fundraise/articleshow/128798730.cms"
+    "id": "https://www.bbc.com/news/articles/cy59gznnz0zo#0",
+    "category": "global",
+    "title": "This coastal idyll banned\u00a0'harmful'\u00a0holiday lets. Eight years on, has it worked?",
+    "summary": "A ban on new holiday homes sees more permanent residents but some say the policy harms tourism.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Feb 2026 01:18:20 GMT",
+    "link": "https://www.bbc.com/news/articles/cy59gznnz0zo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c2d1ne15w5go#0",
     "category": "global",
-    "title": "There's a solution for e-bike parking chaos - but its not problem free",
+    "title": "There's a solution for e-bike parking chaos - but its not problem-free",
     "summary": "Introducing dedicated parking bays has not completely solved the issue.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Thu, 26 Feb 2026 00:05:11 GMT",
     "link": "https://www.bbc.com/news/articles/c2d1ne15w5go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4g5qx357dzo#0",
-    "category": "global",
-    "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings",
-    "summary": "New evidence reveals what happened when 19 people were shot dead in  Kathmandu last September.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Feb 2026 00:02:48 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c30968817q3o#0",
