@@ -50,16 +50,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1525940.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525918.html",
-    "category": "sports",
-    "title": "SA vs WI: Clash of heavyweights in another high-stakes battle in Ahmedabad",
-    "summary": "South Africa and West Indies are both unbeaten in the tournament so far and whoever wins on Thursday will get much closer to a semi-final spot",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/412600/412634.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 25 Feb 2026 15:27:27 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525918.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -80,6 +70,126 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://www.ndtv.com/education/ctet-february-2026-re-exams-set-for-two-centres-in-bihar-11138481#publisher=newsstand",
+    "category": "india",
+    "title": "CTET February 2026 Re-Exams Set For Two Centres In Bihar",
+    "summary": "CBSE postponed the CTET Paper-II exam held on February 7, 2026, at two Bihar centres due to administrative issues; the rescheduled exam will be on March 1, 2026.",
+    "image": "https://c.ndtvimg.com/2024-12/rt2doas8_exam_625x300_10_December_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 12:15:23 +0530",
+    "link": "https://www.ndtv.com/education/ctet-february-2026-re-exams-set-for-two-centres-in-bihar-11138481#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/inside-bill-gates-affair-with-russian-woman-and-their-epstein-connection-11138111#publisher=newsstand",
+    "category": "india",
+    "title": "Inside Bill Gates' Affair With Russian Woman And Their Epstein Connection",
+    "summary": "Bill Gates met Mila Antonova at a bridge event in Washington, DC in 2009.",
+    "image": "https://c.ndtvimg.com/2026-02/grfcprrc_bill-gates-mila-antonova-_625x300_26_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 12:10:35 +0530",
+    "link": "https://www.ndtv.com/world-news/inside-bill-gates-affair-with-russian-woman-and-their-epstein-connection-11138111#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/lucknow-drum-murder-case-stolen-money-liquor-licence-and-a-slap-what-led-to-lucknow-drum-murder-akshat-singh-manvendra-singh-11138523#publisher=newsstand",
+    "category": "india",
+    "title": "NEET Exam Wasn't The Reason Lucknow Man Killed, Chopped Up His Father",
+    "summary": "The grisly crime was witnessed by the accused's sister.",
+    "image": "https://c.ndtvimg.com/2026-02/nb1df58c_lucknow-drum-murder_625x300_24_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 12:10:04 +0530",
+    "link": "https://www.ndtv.com/india-news/lucknow-drum-murder-case-stolen-money-liquor-licence-and-a-slap-what-led-to-lucknow-drum-murder-akshat-singh-manvendra-singh-11138523#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/shashi-tharoor-rejects-pro-modi-tag-says-principles-intact-and-no-shift-in-loyalty-11138608#publisher=newsstand",
+    "category": "india",
+    "title": "Shashi Tharoor Rejects 'Pro-Modi' Tag, Says Principles Intact And No Shift In Loyalty",
+    "summary": "Shashi Tharoor said his political conduct has remained consistent throughout his 17 years in public life.",
+    "image": "https://c.ndtvimg.com/2026-02/jabemlto_shashi-tharoor_625x300_26_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 12:08:53 +0530",
+    "link": "https://www.ndtv.com/india-news/shashi-tharoor-rejects-pro-modi-tag-says-principles-intact-and-no-shift-in-loyalty-11138608#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/delhi-news/delhis-indira-gandhi-international-airport-to-shut-one-of-4-runways-for-3-months-for-major-repair-work-11138607#publisher=newsstand",
+    "category": "india",
+    "title": "Delhi Airport To Shut One Of 4 Runways For 3 Months For Major Repair Work",
+    "summary": "The shutdown coincides with the peak summer travel season at the country's busiest airport.",
+    "image": "https://i.ndtvimg.com/i/2017-03/delhi-igi-airport-pti_650x400_61490527737.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 12:08:40 +0530",
+    "link": "https://www.ndtv.com/delhi-news/delhis-indira-gandhi-international-airport-to-shut-one-of-4-runways-for-3-months-for-major-repair-work-11138607#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/j-k-development-budget-more-than-pak-imf-bailout-indias-la-la-land-jibe-11138573#publisher=newsstand",
+    "category": "india",
+    "title": "'J&K Development Budget More Than Pak IMF Bailout': India's 'La La Land' Jibe",
+    "summary": "India's representative accused Pakistan of attempting to destabilise J&K",
+    "image": "https://c.ndtvimg.com/2026-02/gerg3mb_anupama-singh_625x300_26_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 12:07:22 +0530",
+    "link": "https://www.ndtv.com/world-news/j-k-development-budget-more-than-pak-imf-bailout-indias-la-la-land-jibe-11138573#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/tanmay-bhat-says-he-had-no-hunger-suppression-while-on-weight-loss-drugs-heres-why-11138435#publisher=newsstand",
+    "category": "india",
+    "title": "Tanmay Bhat Says He Had No Hunger Suppression While On Weight Loss Drugs; Here's Why",
+    "summary": "A BDNF gene variant that is prone to weakened satiety signalling",
+    "image": "https://c.ndtvimg.com/2023-02/kcarjfv_tanmay-bhat_625x300_14_February_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 12:07:03 +0530",
+    "link": "https://www.ndtv.com/health/tanmay-bhat-says-he-had-no-hunger-suppression-while-on-weight-loss-drugs-heres-why-11138435#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/indias-bafta-winner-boong-and-the-town-that-once-was-11138577#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion | A BAFTA Award, Straight From The Ashes Of Manipur's Moreh",
+    "summary": "The shooting for 'Boong' in Moreh wrapped up barely a week before violence engulfed the township. Many who stood behind and before the camera are today internally displaced.",
+    "image": "https://c.ndtvimg.com/2026-02/03qpfaag_boong_625x300_24_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 12:03:33 +0530",
+    "link": "https://www.ndtv.com/opinion/indias-bafta-winner-boong-and-the-town-that-once-was-11138577#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-hit-record-high-for-second-day-miners-health-tech-fuel-rally/articleshow/128804618.cms",
+    "category": "finance",
+    "title": "Global Markets | Australian shares hit record high for second day; miners, health, tech fuel rally",
+    "summary": "Australian stocks hit a fresh record high for the second day, driven by strong performances from miners, healthcare, and tech sectors amid a robust earnings season and rising commodity prices.  Miners, in particular, saw significant gains, with BHP a",
+    "image": "https://img.etimg.com/photo/msid-128804618,imgsize-418624.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 12:03:14 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-hit-record-high-for-second-day-miners-health-tech-fuel-rally/articleshow/128804618.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/liraglutide-still-a-decent-market-despite-novos-price-moves-siddharth-mittal-biocon/articleshow/128804478.cms",
+    "category": "finance",
+    "title": "Liraglutide still a \u2018decent market\u2019 despite Novo\u2019s price moves: Siddharth Mittal, Biocon",
+    "summary": "Biocon CEO Siddharth Mittal outlines the company's strategy in the competitive GLP-1 market.  Focusing on liraglutide's launch in the US and Europe, he highlights opportunities in emerging markets.  While semaglutide is a longer-term play, Biocon is ",
+    "image": "https://img.etimg.com/photo/msid-128804478,imgsize-5940.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 11:57:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/liraglutide-still-a-decent-market-despite-novos-price-moves-siddharth-mittal-biocon/articleshow/128804478.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-is-said-to-invite-banks-to-pitch-for-2-5-bllion-ipo/articleshow/128804242.cms",
+    "category": "finance",
+    "title": "NSE is said to invite banks to pitch for nearly Rs 23,000 crore IPO",
+    "summary": "National Stock Exchange of India Ltd. has invited banks to pitch for roles in its long-delayed IPO, signalling fresh momentum for one of India\u2019s biggest potential listings. The exchange, guided by Rothschild &amp; Co., is moving to appoint advisers a",
+    "image": "https://img.etimg.com/photo/msid-128804242,imgsize-185300.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 11:47:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-is-said-to-invite-banks-to-pitch-for-2-5-bllion-ipo/articleshow/128804242.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/waaree-premier-energies-shares-rise-2-as-brokers-brush-off-us-cvd-fears/articleshow/128804004.cms",
+    "category": "finance",
+    "title": "Waaree, Premier Energies shares rise 2% as brokers brush off US CVD fears",
+    "summary": "Indian solar energy stocks saw gains on Thursday. Brokerages reassured investors, downplaying the impact of new US import duties. Companies like Waaree Energies and Premier Energies are expected to remain largely unaffected. This is due to their sour",
+    "image": "https://img.etimg.com/photo/msid-128804004,imgsize-73308.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 11:35:10 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/waaree-premier-energies-shares-rise-2-as-brokers-brush-off-us-cvd-fears/articleshow/128804004.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/tejas-networks-shares-rocket-10-snap-4-day-losing-streak-whats-triggering-the-massive-surge/articleshow/128803467.cms",
     "category": "finance",
     "title": "Tejas Networks shares rocket 10%, snap 4-day losing streak. What\u2019s triggering the massive surge?",
@@ -88,86 +198,6 @@
     "source": "ET",
     "pubDate": "Thu, 26 Feb 2026 11:10:08 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/tejas-networks-shares-rocket-10-snap-4-day-losing-streak-whats-triggering-the-massive-surge/articleshow/128803467.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/health/overstretching-can-be-harmful-follow-these-tips-to-do-it-properly-11135915#publisher=newsstand",
-    "category": "india",
-    "title": "Overstretching Can Be Harmful, Follow These Tips To Do It Properly",
-    "summary": "While mild discomfort is normal, sharp or intense pain is a warning sign",
-    "image": "https://c.ndtvimg.com/2026-01/ap6340co_streching_625x300_08_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 11:06:26 +0530",
-    "link": "https://www.ndtv.com/health/overstretching-can-be-harmful-follow-these-tips-to-do-it-properly-11135915#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/tried-to-trap-me-tenant-exposes-bengaluru-landlords-unnotified-rent-agreement-change-11138318#publisher=newsstand",
-    "category": "india",
-    "title": "'Tried To Trap Me': Tenant Exposes Bengaluru Landlord's Unnotified Rent Agreement Change",
-    "summary": "A Bengaluru tenant exposes landlord's secret notice period increase from one to two months.",
-    "image": "https://c.ndtvimg.com/2026-02/flb4jcv4_bengaluru-_625x300_02_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 11:00:36 +0530",
-    "link": "https://www.ndtv.com/offbeat/tried-to-trap-me-tenant-exposes-bengaluru-landlords-unnotified-rent-agreement-change-11138318#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/opinion/opinion-indias-warm-hospitality-to-jewish-community-11138273#publisher=newsstand",
-    "category": "india",
-    "title": "Opinion: Opinion| India's Warm Hospitality To Jewish Community",
-    "summary": "In keeping with India's ancient tradition of warmth and hospitality to visitors, the Jewish community was welcomed in India and flourished here, even 3,000 years ago.",
-    "image": "https://c.ndtvimg.com/2026-02/41oe51s_the-oheldavid-synagogue_625x300_26_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 10:59:18 +0530",
-    "link": "https://www.ndtv.com/opinion/opinion-indias-warm-hospitality-to-jewish-community-11138273#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/from-fintech-to-financial-israel-wants-part-in-indias-growth-story-11138304#publisher=newsstand",
-    "category": "india",
-    "title": "FinTech To Financial: Israel Wants Part In India's Growth Story",
-    "summary": "Defence remains one of the most sensitive yet central pillars of India-Israel ties.",
-    "image": "https://c.ndtvimg.com/2026-02/b5gs2uco_modi-netanyahu_625x300_26_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 10:58:15 +0530",
-    "link": "https://www.ndtv.com/world-news/from-fintech-to-financial-israel-wants-part-in-indias-growth-story-11138304#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/kolkata-news/kolkata-metro-gets-battery-backup-system-for-power-outage-emergencies-blue-line-11138297#publisher=newsstand",
-    "category": "india",
-    "title": "Kolkata Metro Gets Battery Backup System For Power Outage Emergencies",
-    "summary": "The system will efficiently handle spikes in power demand.",
-    "image": "https://c.ndtvimg.com/2026-02/8gquru8_kolkata-metro_625x300_26_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 10:56:45 +0530",
-    "link": "https://www.ndtv.com/kolkata-news/kolkata-metro-gets-battery-backup-system-for-power-outage-emergencies-blue-line-11138297#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/dressed-for-succession-kim-jong-un-daughter-kim-ju-ae-match-coats-fuel-speculation-in-north-korea-11138289#publisher=newsstand",
-    "category": "india",
-    "title": "Dressed For Succession? Kim Jong Un, Daughter Match Coats, Fuel Speculation",
-    "summary": "Kim Jong Un and his daughter Kim Ju Ae at the military parade",
-    "image": "https://c.ndtvimg.com/2026-02/okprlba4_kim-jong-un-kim-ju-ae_625x300_26_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 10:55:33 +0530",
-    "link": "https://www.ndtv.com/world-news/dressed-for-succession-kim-jong-un-daughter-kim-ju-ae-match-coats-fuel-speculation-in-north-korea-11138289#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/uttar-pradesh-diploma-in-elementary-education-2026-1st-and-3rd-semester-results-out-11138282#publisher=newsstand",
-    "category": "india",
-    "title": "UP DElEd 2026 Results Released For Basic Training Certificate Exams",
-    "summary": "Check Your UP D.El.Ed Semester Exam Scores At btcresult.in",
-    "image": "https://i.ndtvimg.com/i/2017-10/exam-result_650x400_51508568554.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 10:52:21 +0530",
-    "link": "https://www.ndtv.com/education/uttar-pradesh-diploma-in-elementary-education-2026-1st-and-3rd-semester-results-out-11138282#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/anil-ambani-appears-before-probe-agency-ed-in-money-laundering-case-11138193#publisher=newsstand",
-    "category": "india",
-    "title": "Anil Ambani Appears Before Probe Agency ED In Money Laundering Case",
-    "summary": "Reliance Group chairman Anil Ambani on Thursday appeared before the Delhi office of the Enforcement Directorate (ED) in connection with a money laundering case, a day after his Mumbai house worth Rs 3,716 crore was attached by the agency.",
-    "image": "https://c.ndtvimg.com/2026-02/mdcqe0ns_anil-ambani-supreme-court_625x300_04_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 10:47:22 +0530",
-    "link": "https://www.ndtv.com/india-news/anil-ambani-appears-before-probe-agency-ed-in-money-laundering-case-11138193#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/forex/rupee-stuck-in-range-missing-tech-and-commodity-lift-for-em-peers/articleshow/128802824.cms",
@@ -200,64 +230,54 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/did-angel-one-shares-really-crash-90-heres-why-you-should-ignore-the-massive-plunge/articleshow/128802458.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/dipan-mehta-bets-on-nbfcs-says-cleaned-up-books-signal-fresh-upside/articleshow/128802430.cms",
-    "category": "finance",
-    "title": "Dipan Mehta bets on NBFCs, says cleaned-up books signal fresh upside",
-    "summary": "Dipan Mehta of Elixir Equities offers a selective outlook, favoring NBFCs and pharma while cautioning on metals and avoiding certain largecaps. He sees strength in diversified NBFCs and potential in solar despite current underperformance, but advises",
-    "image": "https://img.etimg.com/photo/msid-128802430,imgsize-23624.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 10:18:18 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/dipan-mehta-bets-on-nbfcs-says-cleaned-up-books-signal-fresh-upside/articleshow/128802430.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1525997.html",
+    "category": "sports",
+    "title": "South Africa win ODI series as all-round Dercksen swings high-scoring contest away from Pakistan",
+    "summary": "The two teams combined to put up 706 runs in Centurion on Wednesday, but Annerie Dercksen's 68-ball 90 and 3 for 59 proved to be the difference",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414089.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Feb 2026 06:46:41 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525997.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sanofi-consumer-healthcare-shares-zoom-14-after-q4-profit-jumps-50-declares-dividend-of-rs-75/articleshow/128802402.cms",
-    "category": "finance",
-    "title": "Sanofi Consumer Healthcare shares zoom 14% after Q4 profit jumps 50%; declares dividend of Rs 75",
-    "summary": "Sanofi Consumer Healthcare shares surged over 14% following a robust 50% year-on-year net profit increase to Rs 66.5 crore in Q4. Driven by product relaunches and strong export growth, the company reported a 47% revenue jump. Full-year profit rose 33",
-    "image": "https://img.etimg.com/photo/msid-128802402,imgsize-33685.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 10:14:57 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sanofi-consumer-healthcare-shares-zoom-14-after-q4-profit-jumps-50-declares-dividend-of-rs-75/articleshow/128802402.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-hawkish-turn-bojs-takata-warns-of-inflation-overshoot/articleshow/128802358.cms",
-    "category": "finance",
-    "title": "Global Market | Japan\u2019s hawkish turn? BOJ\u2019s Takata warns of inflation overshoot",
-    "summary": "Bank of Japan board member Hajime Takata is urging a shift from fighting deflation to preventing inflation overshoot, advocating for gradual interest rate hikes. He believes Japan has met its inflation target and emerged from stagnation, warning that",
-    "image": "https://img.etimg.com/photo/msid-128802358,imgsize-344570.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 10:12:27 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-hawkish-turn-bojs-takata-warns-of-inflation-overshoot/articleshow/128802358.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/frightful-february-for-it-stocks-how-anthropics-6-ai-tools-sparked-a-multi-billion-dollar-meltdown-in-4-weeks/articleshow/128802165.cms",
-    "category": "finance",
-    "title": "Frightful February for IT stocks: How Anthropic\u2019s 6 AI tools sparked a multi-billion dollar meltdown in 4 weeks",
-    "summary": "Indian IT stocks have seen a sharp downturn in February, with the Nifty IT index dropping 21%. This decline was triggered by new AI launches and capabilities from startup Anthropic, raising investor concerns about potential disruptions to the sector.",
-    "image": "https://img.etimg.com/photo/msid-128802165,imgsize-3113036.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 10:01:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/frightful-february-for-it-stocks-how-anthropics-6-ai-tools-sparked-a-multi-billion-dollar-meltdown-in-4-weeks/articleshow/128802165.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1525989.html",
+    "category": "sports",
+    "title": "Matthews' century leads West Indies to six-wicket victory",
+    "summary": "The captain led from the front having earlier claimed two wickets to prevent Sri Lanka taking the series 3-0",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/401300/401391.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Feb 2026 06:46:19 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525989.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525985.html",
     "category": "sports",
     "title": "Shanaka blames 'negativity' as Sri Lanka crash out of World Cup",
-    "summary": "Captain says crticism of team is impacting on mental health, calls on government to intervene",
+    "summary": "Dasun Shanaka says criticism of the team is impacting the players' mental health, calls on government to intervene",
     "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414083.jpg",
     "source": "Cricinfo",
-    "pubDate": "Thu, 26 Feb 2026 05:18:24 GMT",
+    "pubDate": "Thu, 26 Feb 2026 06:37:03 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525985.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1525963.html",
     "category": "sports",
-    "title": "Ravindra, Santner, McConchie eliminate Sri Lanka",
+    "title": "Ravindra, Santner and McConchie eliminate Sri Lanka",
     "summary": "A stunning rearguard from Santner and McConchie with the bat, followed by Ravindra's four-for, gave New Zealand a massive win",
     "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414080.jpg",
     "source": "Cricinfo",
-    "pubDate": "Thu, 26 Feb 2026 05:09:40 GMT",
+    "pubDate": "Thu, 26 Feb 2026 06:24:13 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1525963.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1525918.html",
+    "category": "sports",
+    "title": "SA vs WI: Clash of heavyweights in another high-stakes battle in Ahmedabad",
+    "summary": "South Africa and West Indies are both unbeaten in the tournament so far and whoever wins on Thursday will get much closer to a semi-final spot",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/412600/412634.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Feb 2026 06:07:30 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1525918.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cewzg77k721o#0",
@@ -270,34 +290,14 @@
     "link": "https://www.bbc.com/news/articles/cewzg77k721o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525997.html",
-    "category": "sports",
-    "title": "South Africa win ODI series as all-round Dercksen swings high-scoring contest away from Pakistan",
-    "summary": "The two teams combined to put up 706 runs in Centurion on Wednesday, but Annerie Dercksen's 68-ball 90 and 3 for 59 proved to be the difference",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414089.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 26 Feb 2026 04:12:38 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525997.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c24drvj8yl2o#0",
     "category": "global",
-    "title": "Four shot dead on US-registered speedboat were Cuban nationals, Cuba says",
-    "summary": "The passengers were armed and intended to \"carry out an infiltration for terrorist purposes\", the Cuban government said.",
+    "title": "Cuba says it shot dead four people on US-registered speedboat",
+    "summary": "The passengers were Cuban nationals living in the US and intended to \"carry out an infiltration for terrorist purposes\", the Cuban government says.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Thu, 26 Feb 2026 03:15:58 GMT",
     "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525989.html",
-    "category": "sports",
-    "title": "Matthews' century leads West Indies to six-wicket victory",
-    "summary": "The captain led from the front having earlier claimed two wickets to prevent Sri Lanka taking the series 3-0",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/401300/401391.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 26 Feb 2026 02:42:34 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525989.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cy59gznnz0zo#0",
@@ -312,7 +312,7 @@
   {
     "id": "https://www.bbc.com/news/articles/c2d1ne15w5go#0",
     "category": "global",
-    "title": "There's a solution for e-bike parking chaos - but its not problem-free",
+    "title": "There's a solution for e-bike parking chaos - but it's not problem-free",
     "summary": "Introducing dedicated parking bays has not completely solved the issue.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -322,7 +322,7 @@
   {
     "id": "https://www.bbc.com/news/articles/c4g5qx357dzo#0",
     "category": "global",
-    "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings",
+    "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings in Nepal",
     "summary": "New evidence reveals what happened when 19 people were shot dead in  Kathmandu last September.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
