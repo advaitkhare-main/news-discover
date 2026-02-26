@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.bbc.com/news/videos/cqlgz0xk5zyo#0",
-    "category": "global",
-    "title": "Watch: BBC on streets of Mexican city gripped by deadly cartel violence",
-    "summary": "BBC international correspondent Quentin Sommerville travelled to Culiac\u00e1n in northern Sinaloa state following an explosion in violence.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 25 Feb 2026 22:35:14 GMT",
-    "link": "https://www.bbc.com/news/videos/cqlgz0xk5zyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -30,6 +20,156 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/stock-market-quote-of-the-day-by-john-bogle-dont-look-for-the-needle-in-the-haystack-just-buy-the-haystack/articleshow/128808010.cms",
+    "category": "finance",
+    "title": "Stock market quote of the day by John Bogle | \"Don't look for the needle in the haystack. Just buy the haystack!\"",
+    "summary": "John Bogle's philosophy advocates for owning the entire market through index funds rather than attempting to pick individual winning stocks. This approach mitigates the difficulty of stock picking, reduces company-specific risk through diversificatio",
+    "image": "https://img.etimg.com/photo/msid-128808010,imgsize-33180.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 18:00:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/stock-market-quote-of-the-day-by-john-bogle-dont-look-for-the-needle-in-the-haystack-just-buy-the-haystack/articleshow/128808010.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/canara-bank-raises-rs-5000-crore-via-10-year-tier-ii-bonds-at-7-24-coupon/articleshow/128813797.cms",
+    "category": "finance",
+    "title": "Canara Bank raises Rs 5,000 crore via 10-year tier-II bonds at 7.24% coupon",
+    "summary": "State-run lender Canara Bank on Thursday raised Rs 5,000 crore through a bond sale.",
+    "image": "https://img.etimg.com/photo/msid-128813797,imgsize-63364.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 17:51:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/canara-bank-raises-rs-5000-crore-via-10-year-tier-ii-bonds-at-7-24-coupon/articleshow/128813797.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-fall-ahead-of-debt-auction-growth-data/articleshow/128813683.cms",
+    "category": "finance",
+    "title": "Indian bonds fall ahead of debt auction, growth data",
+    "summary": "Indian government bonds \u200bended lower on Thursday after a \u200bchoppy session, as traders looked ahead to the penultimate \u200bdebt auction of the current financial year and the first GDP growth data under a new series.",
+    "image": "https://img.etimg.com/photo/msid-128813683,imgsize-121016.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 17:49:18 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-fall-ahead-of-debt-auction-growth-data/articleshow/128813683.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-markets-warner-bros-posts-6-fall-in-quarterly-revenue-deal-talks-in-focus/articleshow/128813584.cms",
+    "category": "finance",
+    "title": "US Markets | Warner Bros posts 6% fall in quarterly revenue, deal talks in focus",
+    "summary": "Warner Bros Discovery, at the center of a high-stakes bidding war, reported \u200ba 6% drop in quarterly revenue, \u200bhurt by declines for its traditional TV and film businesses \u200bthough its HBO Max streaming service gained subscribers with buzzy series like ",
+    "image": "https://img.etimg.com/photo/msid-128813584,imgsize-77552.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 17:45:23 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-markets-warner-bros-posts-6-fall-in-quarterly-revenue-deal-talks-in-focus/articleshow/128813584.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-berkshire-ceo-greg-abel-to-lay-out-thinking-for-a-post-warren-buffett-world/articleshow/128813369.cms",
+    "category": "finance",
+    "title": "US Stocks: Berkshire CEO Greg Abel to lay out thinking for a post-Warren Buffett world",
+    "summary": "Berkshire Hathaway's new Chief Executive Greg Abel faces numerous \u200bchallenges as the successor to famed billionaire Warren Buffett.",
+    "image": "https://img.etimg.com/photo/msid-128813369,imgsize-56588.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 17:40:18 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-berkshire-ceo-greg-abel-to-lay-out-thinking-for-a-post-warren-buffett-world/articleshow/128813369.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/world-economic-forum-ceo-borge-brende-quits-amid-probe-over-epstein-ties-11140029#publisher=newsstand",
+    "category": "india",
+    "title": "World Economic Forum CEO Borge Brende Quits Amid Probe Over Epstein Ties",
+    "summary": "The CEO of the World Economic Forum, Borge Brende, said on Thursday that he was stepping down after an investigation was launched into his relationship with late paedophile Jeffrey Epstein.",
+    "image": "https://c.ndtvimg.com/2026-02/im9qc8tc_borge-brende-afp_625x300_05_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 17:17:45 +0530",
+    "link": "https://www.ndtv.com/world-news/world-economic-forum-ceo-borge-brende-quits-amid-probe-over-epstein-ties-11140029#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/feature/indian-techie-with-h-1b-visa-returns-from-us-after-quitting-toxic-job-says-he-still-misses-american-lifestyle-11139712#publisher=newsstand",
+    "category": "india",
+    "title": "Indian Techie Returns From US After Quitting \"Toxic\" Job, Says He Still Misses American Lifestyle",
+    "summary": "The environment was so taxing that he frequently sat in his car and cried after work.",
+    "image": "https://c.ndtvimg.com/2026-02/r35h3gqk_techie-returns-to-india_625x300_26_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 17:16:08 +0530",
+    "link": "https://www.ndtv.com/feature/indian-techie-with-h-1b-visa-returns-from-us-after-quitting-toxic-job-says-he-still-misses-american-lifestyle-11139712#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/as-bride-who-was-shot-fights-for-life-father-worries-who-will-marry-her-11140078#publisher=newsstand",
+    "category": "india",
+    "title": "As Bride Who Was Shot Fights for Life, Father Worries: \"Who Will Marry Her?\"",
+    "summary": "This was not the first time the accused tried to sabotage Aarti's wedding.",
+    "image": "https://c.ndtvimg.com/2026-02/airo3tb8_bihar-bride-shot-during-wedding-ceremony_625x300_25_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 17:12:12 +0530",
+    "link": "https://www.ndtv.com/india-news/as-bride-who-was-shot-fights-for-life-father-worries-who-will-marry-her-11140078#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/delhi-police-vs-himachal-police-face-off-what-law-says-about-such-a-clash-11140069#publisher=newsstand",
+    "category": "india",
+    "title": "Delhi Police vs Himachal Police Face-Off: What Law Says About Such A Clash",
+    "summary": "The 24-hour face-off between Delhi Police and Himachal Police led to major traffic issues",
+    "image": "https://c.ndtvimg.com/2026-02/ukk2id3c_delhi-police-shimla-police_625x300_26_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 17:11:10 +0530",
+    "link": "https://www.ndtv.com/india-news/delhi-police-vs-himachal-police-face-off-what-law-says-about-such-a-clash-11140069#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/google-hearts-rain-down-for-japans-viral-baby-monkey-11139976#publisher=newsstand",
+    "category": "india",
+    "title": "Try Searching 'Punch The Monkey' On Google, You'll Get A Fun Surprise",
+    "summary": "Punch the monkey being dragged by adult macaques sparked concern online.",
+    "image": "https://c.ndtvimg.com/2026-02/qf06nido_punch-the-monkey_625x300_26_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 17:08:27 +0530",
+    "link": "https://www.ndtv.com/offbeat/google-hearts-rain-down-for-japans-viral-baby-monkey-11139976#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/yoga-myths-busted-expert-tells-how-yoga-is-about-more-than-asanas-11140028#publisher=newsstand",
+    "category": "india",
+    "title": "Yoga Myths Busted: Expert Tells How Yoga Is About More Than Asanas",
+    "summary": "Asanas are just one part of what yoga stands for, says expert Sailendra S Raane.",
+    "image": "https://c.ndtvimg.com/2026-01/05d11jlc_yoga_625x300_08_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 17:06:10 +0530",
+    "link": "https://www.ndtv.com/health/yoga-myths-busted-expert-tells-how-yoga-is-about-more-than-asanas-11140028#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/aiadmks-contempt-notice-against-anti-corruption-body-over-cash-for-jobs-row-11140013#publisher=newsstand",
+    "category": "india",
+    "title": "AIADMK's Contempt Notice Against Anti-Corruption Body Over \"Cash-For-Jobs\" Row",
+    "summary": "Despite the explicit judicial direction, the DVAC is yet to register an FIR.",
+    "image": "https://c.ndtvimg.com/2025-09/sj3u82ms_madras-high-court-decision_625x300_18_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 17:02:52 +0530",
+    "link": "https://www.ndtv.com/india-news/aiadmks-contempt-notice-against-anti-corruption-body-over-cash-for-jobs-row-11140013#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/congress-and-its-dangerous-dance-with-the-jamaat-in-kerala-11139759#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion | Congress's 'Jamaat' Experiment In Kerala Can Backfire Badly. But Does It Care?",
+    "summary": "The Jamaat has always been sort of a political pariah in the state. Why, then, is the Congress warming up to it?",
+    "image": "https://c.ndtvimg.com/2026-02/8nhnrumc_satheesan_625x300_26_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Feb 2026 17:00:52 +0530",
+    "link": "https://www.ndtv.com/opinion/congress-and-its-dangerous-dance-with-the-jamaat-in-kerala-11139759#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-xtglobal-tejas-networks-among-5-top-movers-on-thursday/slideshow/128811973.cms",
+    "category": "finance",
+    "title": "Gainers &amp; Losers: XTGlobal, Tejas Networks among 5 top movers on Thursday",
+    "summary": "India\u2019s benchmark indices ended flat amid selling in financial stocks. Individual stocks were active, with XTglobal, Tejas Networks and Sanofi Consumer rallying, Angel One adjusting for stock split, and Home First declining.",
+    "image": "https://img.etimg.com/photo/msid-128811973,imgsize-42336.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 16:50:26 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-xtglobal-tejas-networks-among-5-top-movers-on-thursday/slideshow/128811973.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/data-patterns-among-5-small-cap-stocks-that-hit-52-week-high-rally-up-to-50-in-a-month/slideshow/128811874.cms",
+    "category": "finance",
+    "title": "Data Patterns among 5 smallcap stocks that hit 52-week high; rally up to 50% in a month",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-128811717,imgsize-51440.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Feb 2026 16:42:39 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/data-patterns-among-5-small-cap-stocks-that-hit-52-week-high-rally-up-to-50-in-a-month/slideshow/128811874.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/q4-earnings-upgrades-likely-it-may-see-more-derating-metals-in-bull-run-gv-giri/articleshow/128811291.cms",
     "category": "finance",
     "title": "Q4 earnings upgrades likely, IT may see more derating; metals in bull run: GV Giri",
@@ -40,163 +180,53 @@
     "link": "https://economictimes.indiatimes.com/markets/expert-view/q4-earnings-upgrades-likely-it-may-see-more-derating-metals-in-bull-run-gv-giri/articleshow/128811291.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/centre-had-no-intention-of-disrespecting-judiciary-minister-on-ncert-row-11139611#publisher=newsstand",
-    "category": "india",
-    "title": "Centre Had No Intention Of Disrespecting Judiciary: Minister On NCERT Row",
-    "summary": "Education minister Dharmendra Pradhan expressed his regret today over the inclusion of the controversial chapter on judiciary in schoolbooks, saying he holds the judiciary in \"highest regard\" and has already taken action in the matter.",
-    "image": "https://c.ndtvimg.com/2026-02/cf9db4gc_ncert_625x300_26_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 16:16:25 +0530",
-    "link": "https://www.ndtv.com/india-news/centre-had-no-intention-of-disrespecting-judiciary-minister-on-ncert-row-11139611#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1526059.html",
+    "category": "sports",
+    "title": "Jammu & Kashmir eye big lead despite Mayank Agarwal ton",
+    "summary": "On a surface that hardly showed signs of breaking up just yet, Nabi's accuracy cracked the game open to turn the finale decisively towards J&K",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414100/414107.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Feb 2026 12:50:42 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526059.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/world-news/indian-origin-doctor-neha-gupta-told-911-daughter-drowned-in-pool-autopsy-nailed-her-11139683#publisher=newsstand",
-    "category": "india",
-    "title": "Indian-Origin Doctor Told 911 Daughter Drowned In Pool. Autopsy Nailed Her",
-    "summary": "Neha Gupta is due back in court in May.",
-    "image": "https://c.ndtvimg.com/2025-07/3d0v1i58_neha-gupta_625x300_04_July_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 16:07:57 +0530",
-    "link": "https://www.ndtv.com/world-news/indian-origin-doctor-neha-gupta-told-911-daughter-drowned-in-pool-autopsy-nailed-her-11139683#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1526042.html",
+    "category": "sports",
+    "title": "George Munsey joins Notts for Vitality Blast campaign",
+    "summary": "Elsewhere, James Rew locks in three-year contract extension at Somerset",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/395300/395317.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Feb 2026 12:50:32 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526042.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/feature/brief-claude-ai-outage-led-to-90-productivity-drop-in-silicon-valley-claims-startup-founder-11139589#publisher=newsstand",
-    "category": "india",
-    "title": "Brief Claude AI Outage Led To \"90% Productivity Drop In Silicon Valley\", Claims Startup Founder",
-    "summary": "Similar sentiments emerged across social media and developer forums",
-    "image": "https://c.ndtvimg.com/2026-02/lov3j70k_yuchen-jin_625x300_26_February_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 16:00:44 +0530",
-    "link": "https://www.ndtv.com/feature/brief-claude-ai-outage-led-to-90-productivity-drop-in-silicon-valley-claims-startup-founder-11139589#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/cly07pyde00o#0",
+    "category": "global",
+    "title": "UK asylum claims drop slightly in 2025 as small boat arrivals rise by 13%",
+    "summary": "Some 100,625 people claimed asylum in the year to December and about 40% of these arrived by small boats, figures show.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Feb 2026 12:48:35 GMT",
+    "link": "https://www.bbc.com/news/articles/cly07pyde00o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/opinion/supreme-court-ncert-row-how-do-you-really-teach-children-about-judiciary-11139596#publisher=newsstand",
-    "category": "india",
-    "title": "Opinion: Opinion | Supreme Court-NCERT Row: How Do You Really Teach Children About Judiciary?",
-    "summary": "India's constitutional journey has been marked by landmark judgments as well as legitimate criticism over delays and infrastructure deficits. Both truths coexist. The art of civic education lies in presenting them proportionately.",
-    "image": "https://c.ndtvimg.com/2026-02/s8t065lc_supreme-court-ncert-textbook-social-science-_650x400_25_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 15:57:49 +0530",
-    "link": "https://www.ndtv.com/opinion/supreme-court-ncert-row-how-do-you-really-teach-children-about-judiciary-11139596#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/watching-muscle-related-content-on-social-media-raises-steroid-use-intentions-in-men-study-11139002#publisher=newsstand",
-    "category": "india",
-    "title": "Watching Muscle-Related Content On Social Media Raises Steroid Use Intentions In Men: Study",
-    "summary": "Anabolic-androgenic steroids are synthetic substances that mimic the effects of testosterone",
-    "image": "https://c.ndtvimg.com/2026-02/74r2vhg_steroid-use_625x300_26_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 15:57:41 +0530",
-    "link": "https://www.ndtv.com/health/watching-muscle-related-content-on-social-media-raises-steroid-use-intentions-in-men-study-11139002#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/noel-tatas-tough-ask-on-ipo-stalled-vote-on-chairman-tenure/articleshow/128810379.cms",
-    "category": "finance",
-    "title": "Noel Tata\u2019s tough ask on IPO stalled vote on Chairman tenure",
-    "summary": "An early agenda item for Tata Sons Pvt.\u2019s six board directors when they convened at 11:30 a.m. on Tuesday at Bombay House the group\u2019s storied headquarters was expected to be straightforward: approving a third term for Natarajan Chandrasekaran as chai",
-    "image": "https://img.etimg.com/photo/msid-128810379,imgsize-26626.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 15:56:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/noel-tatas-tough-ask-on-ipo-stalled-vote-on-chairman-tenure/articleshow/128810379.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/no-fee-for-air-ticket-changes-within-48-hours-aviation-body-11139592#publisher=newsstand",
-    "category": "india",
-    "title": "No Fee For Air Ticket Changes Within 48 Hours: Aviation Body",
-    "summary": "The revised CAR was issued on February 24.",
-    "image": "https://c.ndtvimg.com/2024-07/btig2k1_flight-generic_625x300_21_July_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 15:50:15 +0530",
-    "link": "https://www.ndtv.com/india-news/no-fee-for-air-ticket-changes-within-48-hours-aviation-body-11139592#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-a-tad-higher-interbank-paying-interest-boosts-forward-premiums/articleshow/128810152.cms",
-    "category": "finance",
-    "title": "Rupee ends a tad higher, interbank paying interest boosts forward premiums",
-    "summary": "The Indian rupee closed marginally \u200bstronger on Thursday, comforted \u200bby strength in regional currencies while elevated demand to \u200bbuy dollars at the daily reference rate kept gains in check.",
-    "image": "https://img.etimg.com/photo/msid-128810152,imgsize-41576.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 15:47:58 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-a-tad-higher-interbank-paying-interest-boosts-forward-premiums/articleshow/128810152.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/feature/zomato-founder-deepinder-goyal-wins-ey-entrepreneur-of-the-year-2025-in-mumbai-11139575#publisher=newsstand",
-    "category": "india",
-    "title": "Zomato Founder Deepinder Goyal Wins EY Entrepreneur Of The Year 2025 In Mumbai",
-    "summary": "Deepinder Goyal steered Zomato's expansion in a highly competitive market.",
-    "image": "https://c.ndtvimg.com/2024-07/gu5giebg_deepinder-goyal-zomato_625x300_15_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 15:47:39 +0530",
-    "link": "https://www.ndtv.com/feature/zomato-founder-deepinder-goyal-wins-ey-entrepreneur-of-the-year-2025-in-mumbai-11139575#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/death-of-software-anand-mahindra-calls-ai-doom-greatly-exaggerated-amid-it-stock-crash/articleshow/128810044.cms",
-    "category": "finance",
-    "title": "\u2018Death of Software?\u2019 Anand Mahindra calls AI doom \u2018Greatly Exaggerated\u2019 amid IT stock crash",
-    "summary": "Indian IT stocks face sharp corrections amid AI disruption fears. Anand Mahindra advises against extreme AI doomsday predictions. He believes AI will pressure IT firms to adapt, focusing on outcomes and value delivery. While some roles may change, ne",
-    "image": "https://img.etimg.com/photo/msid-128810044,imgsize-22680.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 15:43:38 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/death-of-software-anand-mahindra-calls-ai-doom-greatly-exaggerated-amid-it-stock-crash/articleshow/128810044.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-nifty-sensex-end-flat-in-a-volatile-trade-as-heavyweight-hdfc-bank-drags-market/articleshow/128809816.cms",
-    "category": "finance",
-    "title": "Market Wrap: Nifty, Sensex end flat in a volatile trade as heavyweight HDFC Bank drags market",
-    "summary": "Indian benchmark indices Nifty and BSE Sensex ended flat on Thursday, weighed down by selling in financial stocks led by HDFC Bank. Market sentiment stayed weak as technical indicators signalled fading momentum, while global cues remained mixed acros",
-    "image": "https://img.etimg.com/photo/msid-128809816,imgsize-122142.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 15:42:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-nifty-sensex-end-flat-in-a-volatile-trade-as-heavyweight-hdfc-bank-drags-market/articleshow/128809816.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/food/aiims-nagpur-students-allege-worms-found-in-hostel-mess-food-administration-institutes-enquiry-11139385#publisher=newsstand",
-    "category": "india",
-    "title": "AIIMS-Nagpur Students Allege Worms Found In Hostel Mess Food; Administration Institutes Enquiry",
-    "summary": "AIIMS Nagpur students reported insects and foreign objects in hostel mess food, prompting an inquiry by the administration despite no formal complaints received.",
-    "image": "https://c.ndtvimg.com/2026-02/p5sr5n1s_aiims_625x300_26_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Feb 2026 15:40:12 +0530",
-    "link": "https://www.ndtv.com/food/aiims-nagpur-students-allege-worms-found-in-hostel-mess-food-administration-institutes-enquiry-11139385#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/euro-zone-yields-steady-at-multi-month-lows-as-investors-await-inflation-data/articleshow/128809898.cms",
-    "category": "finance",
-    "title": "Euro zone yields steady at multi-month lows as investors await inflation data",
-    "summary": "Euro zone government bond yields steadied \u200bnear multi-month \u200blows after Nvidia's results beat expectations, \u200bsupporting risk appetite, with investors now awaiting inflation data from Germany, France and Spain on Friday.",
-    "image": "https://img.etimg.com/photo/msid-128809898,imgsize-127484.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 15:37:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/euro-zone-yields-steady-at-multi-month-lows-as-investors-await-inflation-data/articleshow/128809898.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/vedanta-to-raise-up-to-rs-3000-cr-via-debentures/articleshow/128809799.cms",
-    "category": "finance",
-    "title": "Vedanta to raise up to Rs 3,000 cr via debentures",
-    "summary": "The committee of Directors of Vedanta Ltd has approved raising up to Rs 3,000 crore through debentures on a private placement basis.",
-    "image": "https://img.etimg.com/photo/msid-128809799,imgsize-45046.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 15:33:10 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/vedanta-to-raise-up-to-rs-3000-cr-via-debentures/articleshow/128809799.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-subdued-on-mixed-earnings-tech-in-focus-after-nvidia-beat/articleshow/128808972.cms",
-    "category": "finance",
-    "title": "Global Markets | European shares subdued on mixed earnings; tech in focus after Nvidia beat",
-    "summary": "European shares were muted on Thursday as investors assessed a slate of mixed corporate earnings from the \u200clikes of \u2060Schneider \u2060and Syensqo, while mulling the outlook for artificial intelligence post \u200bU.S. chip-leader Nvidia's strong forecasts.",
-    "image": "https://img.etimg.com/photo/msid-128808972,imgsize-52826.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Feb 2026 15:01:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-subdued-on-mixed-earnings-tech-in-focus-after-nvidia-beat/articleshow/128808972.cms"
+    "id": "https://www.bbc.com/news/articles/c1mjx1grj3yo#0",
+    "category": "global",
+    "title": "Soham murderer Ian Huntley seriously injured in prison attack",
+    "summary": "The 52-year-old is serving a life sentence after being convicted of murdering schoolgirls Holly Wells and Jessica Chapman.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Feb 2026 12:41:17 GMT",
+    "link": "https://www.bbc.com/news/articles/c1mjx1grj3yo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c62dnwwgryeo#0",
     "category": "global",
     "title": "Jersey approves assisted dying law",
-    "summary": "The Jersey vote means five parliaments across the British Isles are now debating assisted dying.",
+    "summary": "Once the law is given Royal Assent the first legal assisted deaths could happen as early as 2027.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 26 Feb 2026 11:34:29 GMT",
+    "pubDate": "Thu, 26 Feb 2026 12:37:28 GMT",
     "link": "https://www.bbc.com/news/articles/c62dnwwgryeo?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -206,38 +236,38 @@
     "summary": "People at the start of their careers are particularly affected by the UK's weak job market.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 26 Feb 2026 11:34:11 GMT",
+    "pubDate": "Thu, 26 Feb 2026 12:10:25 GMT",
     "link": "https://www.bbc.com/news/articles/c62gzl2yl24o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cwygr2nzdp9o#0",
+    "id": "https://www.espncricinfo.com/ci/content/story/1526051.html",
+    "category": "sports",
+    "title": "NZ coach Walter banks on his side's 'great' problem-solving ability",
+    "summary": "Despite taking the least wickets in this tournament, he is not worried as long as they are restricting teams",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414080.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Feb 2026 12:07:31 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526051.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c3v7z5eyewko#0",
     "category": "global",
-    "title": "Nigeria to hold inquest into death of Chimamanda Ngozi Adichie's toddler",
-    "summary": "The internationally acclaimed writer has accused Nigerian hospital Euracare of negligence, which it denies.",
+    "title": "Instagram to alert parents if teens search for self-harm and suicide content",
+    "summary": "Meta says it will help parents support their children - but safety campaigners have accused them of \"passing the buck\".",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 26 Feb 2026 11:10:08 GMT",
-    "link": "https://www.bbc.com/news/articles/cwygr2nzdp9o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 26 Feb 2026 11:59:41 GMT",
+    "link": "https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526042.html",
-    "category": "sports",
-    "title": "George Munsey joins Notts for Vitality Blast campaign",
-    "summary": "Scotland batter signs as local player and will be available throughout competition",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/395300/395317.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 26 Feb 2026 11:04:18 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526042.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525985.html",
-    "category": "sports",
-    "title": "Shanaka blames 'negativity' as Sri Lanka crash out of World Cup",
-    "summary": "Dasun Shanaka says criticism of the team is impacting the players' mental health, calls on government to intervene",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414083.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 26 Feb 2026 10:24:10 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525985.html?ex_cid=OTC-RSS"
+    "id": "https://www.bbc.com/news/articles/c4gjm82lj3jo#0",
+    "category": "global",
+    "title": "Traitor Rachel on winning the show, her mum's death - and what's next",
+    "summary": "Rachel Duffy has spoken publicly for the first time about winning The Traitors and then losing her mother.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Feb 2026 10:30:12 GMT",
+    "link": "https://www.bbc.com/news/articles/c4gjm82lj3jo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526028.html",
@@ -280,16 +310,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1525989.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c24drvj8yl2o#0",
-    "category": "global",
-    "title": "Cuba says it shot dead four people on US-registered speedboat",
-    "summary": "The passengers were Cuban nationals living in the US and intended to \"carry out an infiltration for terrorist purposes\", the Cuban government says.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Feb 2026 08:16:40 GMT",
-    "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1526018.html",
     "category": "sports",
     "title": "Maharoof expects 'some hard decisions' after Sri Lanka's T20 World Cup exit",
@@ -310,16 +330,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1525997.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1525963.html",
-    "category": "sports",
-    "title": "Ravindra, Santner and McConchie eliminate Sri Lanka",
-    "summary": "A stunning rearguard from Santner and McConchie with the bat, followed by Ravindra's four-for, gave New Zealand a massive win",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414080.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 26 Feb 2026 06:24:13 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1525963.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cpqwv9vvzx9o#0",
     "category": "global",
     "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
@@ -328,16 +338,6 @@
     "source": "BBC",
     "pubDate": "Thu, 26 Feb 2026 06:01:11 GMT",
     "link": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy59gznnz0zo#0",
-    "category": "global",
-    "title": "This coastal idyll banned\u00a0'harmful'\u00a0holiday lets. Eight years on, has it worked?",
-    "summary": "A ban on new holiday homes sees more permanent residents but some say the policy harms tourism.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Feb 2026 01:18:20 GMT",
-    "link": "https://www.bbc.com/news/articles/cy59gznnz0zo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
