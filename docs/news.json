@@ -30,16 +30,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1526059.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526093.html",
-    "category": "sports",
-    "title": "Can resourceful New Zealand lock in semi-final spot against already-qualified England?",
-    "summary": "Victory in Colombo would secure last-four berth but narrow defeat might also be enough",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414074.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 26 Feb 2026 18:50:22 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526093.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
     "category": "scitech",
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -78,6 +68,16 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 05 Jan 2026 07:45:00 GMT",
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ai-stocks-in-bubble-zone-howard-marks-on-how-to-invest-in-this-new-world/articleshow/128844390.cms",
+    "category": "finance",
+    "title": "AI stocks in bubble zone? Howard Marks on how to invest in this new world",
+    "summary": "Amid fears that artificial intelligence is just a bubble ready to be popped, billionaire investor Howard Marks said that it is very real and capable of doing a lot of work. However, he remains inconclusive regarding whether investing in AI will be pr",
+    "image": "https://img.etimg.com/photo/msid-128844390,imgsize-84028.cms",
+    "source": "ET",
+    "pubDate": "Fri, 27 Feb 2026 15:40:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-stocks-in-bubble-zone-howard-marks-on-how-to-invest-in-this-new-world/articleshow/128844390.cms"
   },
   {
     "id": "https://www.ndtv.com/health/chatgpt-health-under-assesses-emergencies-big-study-warns-of-safety-risks-11144407#publisher=newsstand",
@@ -130,6 +130,16 @@
     "link": "https://www.ndtv.com/india-news/kolkata-earthquake-video-union-minister-was-speaking-at-kolkata-event-then-quake-struck-11144363#publisher=newsstand"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/short-term-traders-should-stay-cautious-more-weakness-likely-ahead-ca-rudramurthy-bv/articleshow/128842464.cms",
+    "category": "finance",
+    "title": "Short-term traders should stay cautious; more weakness likely ahead: CA Rudramurthy BV",
+    "summary": "Indian stock markets faced a turbulent week. The Nifty index dropped below 25,300, a key support level. Bank Nifty also weakened, adding to market concerns. Experts suggest this indicates a potential for further declines in the short term. Investors ",
+    "image": "https://img.etimg.com/photo/msid-128842464,imgsize-20964.cms",
+    "source": "ET",
+    "pubDate": "Fri, 27 Feb 2026 14:32:41 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/short-term-traders-should-stay-cautious-more-weakness-likely-ahead-ca-rudramurthy-bv/articleshow/128842464.cms"
+  },
+  {
     "id": "https://www.ndtv.com/south/if-dmk-wins-eps-loses-ops-on-revenge-angle-in-tamil-nadu-switch-11144351#publisher=newsstand",
     "category": "india",
     "title": "\"If DMK Wins, EPS Loses\": OPS On 'Revenge' Angle In Tamil Nadu Switch",
@@ -150,6 +160,16 @@
     "link": "https://www.ndtv.com/health/can-lazy-eye-be-corrected-causes-treatments-and-why-early-care-matters-11143799#publisher=newsstand"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/these-12-largecap-stocks-rally-50-80-in-less-than-a-year-do-you-own-any/slideshow/128842362.cms",
+    "category": "finance",
+    "title": "These 12 largecap stocks rally 50-80% in less than a year. Do you own any?",
+    "summary": "Large-cap leaders have quietly outperformed this year, with a dozen stocks delivering powerful 50\u201380% gains in under twelve months.",
+    "image": "https://img.etimg.com/photo/msid-128842172,imgsize-9102.cms",
+    "source": "ET",
+    "pubDate": "Fri, 27 Feb 2026 14:12:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/these-12-largecap-stocks-rally-50-80-in-less-than-a-year-do-you-own-any/slideshow/128842362.cms"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/kolkata-earthquake-today-massive-earthquake-tremors-felt-in-kolkata-offices-evacuated-11144197#publisher=newsstand",
     "category": "india",
     "title": "Strong Earthquake Tremors Felt In Kolkata, Offices Evacuated",
@@ -160,13 +180,103 @@
     "link": "https://www.ndtv.com/india-news/kolkata-earthquake-today-massive-earthquake-tremors-felt-in-kolkata-offices-evacuated-11144197#publisher=newsstand"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/chris-wood-picks-indigo-adani-power-in-india-portfolio-reshuffle/articleshow/128842078.cms",
+    "category": "finance",
+    "title": "Chris Wood picks IndiGo, Adani Power in India portfolio reshuffle",
+    "summary": "Jeffries' Christopher Wood has reshuffled his India portfolio, adding Adani Power and InterGlobe Aviation (IndiGo) while exiting Home First Finance and Le Travenues Technology (Ixigo). The ace investor remains overweight on India, citing reforms, str",
+    "image": "https://img.etimg.com/photo/msid-128842078,imgsize-49112.cms",
+    "source": "ET",
+    "pubDate": "Fri, 27 Feb 2026 14:06:49 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/chris-wood-picks-indigo-adani-power-in-india-portfolio-reshuffle/articleshow/128842078.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-notch-best-february-since-2019-as-earnings-outshine-rate-headwinds/articleshow/128841942.cms",
+    "category": "finance",
+    "title": "Global Markets | Australian shares notch best February since 2019 as earnings outshine rate headwinds",
+    "summary": "Australian shares ended a muted Friday slightly \u200bhigher, as gains in miners countered losses in banks and consumer staples, while a strong corporate season helped the benchmark clock its best February since 2019.",
+    "image": "https://img.etimg.com/photo/msid-128841942,imgsize-11476.cms",
+    "source": "ET",
+    "pubDate": "Fri, 27 Feb 2026 14:01:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-notch-best-february-since-2019-as-earnings-outshine-rate-headwinds/articleshow/128841942.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-closes-at-record-high-logs-biggest-monthly-gain-in-four/articleshow/128841809.cms",
+    "category": "finance",
+    "title": "Global Markets | Japan's Nikkei closes at record high, logs biggest monthly gain in four",
+    "summary": "Japan's \u200bbenchmark Nikkei share average closed \u200bat a record high on Friday, posting \u200bits biggest monthly gain in four months, as investors bet on corporate earnings strength.",
+    "image": "https://img.etimg.com/photo/msid-128841809,imgsize-76206.cms",
+    "source": "ET",
+    "pubDate": "Fri, 27 Feb 2026 13:57:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-closes-at-record-high-logs-biggest-monthly-gain-in-four/articleshow/128841809.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/compass-to-share-real-estate-listings-that-have-yet-to-hit-the-market-broadly-with-redfin/articleshow/128841655.cms",
+    "category": "finance",
+    "title": "Compass to share real estate listings that have yet to hit the market broadly with Redfin",
+    "summary": "Compass will allow its property listings that have yet to hit the broader market to appear immediately on fellow real estate brokerage Redfin's portal, part of three-year agreement announced Thursday.",
+    "image": "https://img.etimg.com/photo/msid-128841655,imgsize-1380048.cms",
+    "source": "ET",
+    "pubDate": "Fri, 27 Feb 2026 13:52:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/compass-to-share-real-estate-listings-that-have-yet-to-hit-the-market-broadly-with-redfin/articleshow/128841655.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/calm-before-a-big-move-says-a-balasubramanian-picks-it-auto-banking-for-next-rally/articleshow/128841396.cms",
+    "category": "finance",
+    "title": "Calm before a big move, says A Balasubramanian; picks IT, auto &amp; banking for next rally",
+    "summary": "Indian equity markets show mixed signals, but Aditya Birla Sun Life AMC CEO A Balasubramanian believes a rally is imminent. Positive macro data and corporate earnings are overlooked due to AI fears and global noise. He sees opportunities in IT, auto,",
+    "image": "https://img.etimg.com/photo/msid-128841396,imgsize-48500.cms",
+    "source": "ET",
+    "pubDate": "Fri, 27 Feb 2026 13:47:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/calm-before-a-big-move-says-a-balasubramanian-picks-it-auto-banking-for-next-rally/articleshow/128841396.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c9v01g7vylzo#0",
+    "category": "global",
+    "title": "Soham murderer Ian Huntley remains in hospital following prison attack",
+    "summary": "Huntley, who is serving a life sentence for murdering two schoolgirls, has significant head trauma, the BBC understands.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 27 Feb 2026 10:29:33 GMT",
+    "link": "https://www.bbc.com/news/articles/c9v01g7vylzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1526194.html",
+    "category": "sports",
+    "title": "Amelia Kerr and Isabella Gaze power New Zealand to series win",
+    "summary": "Amelia Kerr and Isabella Gaze followed their record partnership from the first game as they added 163 for the opening wicket, the second-highest for New Zealand in T20Is",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414100/414163.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 27 Feb 2026 10:17:33 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526194.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c07jm1kp228o#0",
+    "category": "global",
+    "title": "Arrest after Churchill statue defaced with graffiti",
+    "summary": "The statue of the former prime minster at Westminster was vandalised with slogans daubed in red paint.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 27 Feb 2026 10:15:27 GMT",
+    "link": "https://www.bbc.com/news/articles/c07jm1kp228o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cwygp3dqenwo#0",
+    "category": "global",
+    "title": "From plumber to Parliament, who is the Green Party's new MP?",
+    "summary": "Spencer marked her victory by apologising to customers for potentially having to cancel work due to her Westminster move.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 27 Feb 2026 09:56:03 GMT",
+    "link": "https://www.bbc.com/news/articles/cwygp3dqenwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cx2ly3p4q7qo#0",
     "category": "global",
-    "title": "Gregg Wallace and BBC settle damages claim",
+    "title": "Gregg Wallace discontinues data claim against BBC",
     "summary": "Court documents state the claim against the BBC and BBC Studios has been \"discontinued\".",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 27 Feb 2026 08:50:14 GMT",
+    "pubDate": "Fri, 27 Feb 2026 09:52:10 GMT",
     "link": "https://www.bbc.com/news/articles/cx2ly3p4q7qo?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -180,16 +290,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1526151.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cd6z3e1vdvzo#0",
-    "category": "global",
-    "title": "Hillary Clinton tells House panel she 'had no idea' of Epstein's crimes",
-    "summary": "The ex-secretary of state called for President Trump to be questioned under oath about his past association with the sex offender.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 27 Feb 2026 07:19:18 GMT",
-    "link": "https://www.bbc.com/news/articles/cd6z3e1vdvzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1526164.html",
     "category": "sports",
     "title": "Kumble and du Plessis worried about India's sixth bowling option",
@@ -198,16 +298,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 27 Feb 2026 07:03:49 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526164.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4g3l0yzyxdo#0",
-    "category": "global",
-    "title": "Six planets to be visible at same time in celestial 'parade' - here's how to see them",
-    "summary": "Six planets - Mercury, Venus, Saturn, Jupiter, Uranus and Neptune - will all be visible in the night sky.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 27 Feb 2026 06:54:50 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g3l0yzyxdo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526139.html",
@@ -248,16 +338,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 27 Feb 2026 05:41:00 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526163.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/clyz4ellkd7o#0",
-    "category": "global",
-    "title": "Watch: 'Working hard used to get you something', says plumber Hannah Spencer in victory speech",
-    "summary": "In her acceptance speech, Hannah Spencer said she was \u201cno different from every single person in this constituency\u201d.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 27 Feb 2026 05:18:55 GMT",
-    "link": "https://www.bbc.com/news/videos/clyz4ellkd7o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526124.html",
