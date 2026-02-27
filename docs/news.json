@@ -40,36 +40,6 @@
     "link": "https://www.bbc.com/news/articles/cp85jdqdyq7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cvg3qg20544o#0",
-    "category": "global",
-    "title": "Chris Mason: Gorton and Denton by-election could be a three-way tussle",
-    "summary": "Plenty think it could be a three-way tussle between Labour, Reform and the Greens, the BBC's political editor writes.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Feb 2026 22:01:46 GMT",
-    "link": "https://www.bbc.com/news/articles/cvg3qg20544o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c86y466v0x6o#0",
-    "category": "global",
-    "title": "MoD launches review into whether Epstein used RAF bases",
-    "summary": "Records and emails will be reviewed to determine whether the convicted sex offender used military bases when visiting the UK.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Feb 2026 20:52:51 GMT",
-    "link": "https://www.bbc.com/news/articles/c86y466v0x6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526139.html",
-    "category": "sports",
-    "title": "India in a West Indies frame of mind",
-    "summary": "\"The brand of cricket we played today and since last year, the same intent, we want to keep\" - Tilak Varma",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414100/414128.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 26 Feb 2026 20:44:20 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526139.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1526059.html",
     "category": "sports",
     "title": "Jammu & Kashmir eye big lead despite Mayank Agarwal ton",
@@ -130,16 +100,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1526110.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526106.html",
-    "category": "sports",
-    "title": "Jonathan Batty, Hemang Badani set for Southern Brave coaching jobs",
-    "summary": "All change on south coast as new owners extend links with Delhi WPL/IPL franchises",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/411200/411254.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 26 Feb 2026 15:52:01 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526106.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
     "category": "scitech",
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -180,114 +140,194 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128833925.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/from-rs-157-to-just-rs-25-ola-electric-shares-plunge-84-from-peak-should-you-catch-this-falling-knife/articleshow/128836371.cms",
     "category": "finance",
-    "title": "Pre-market action: Here's the trade setup for today's session",
-    "summary": "Markets are expected to trade range-bound with stock-specific action driven by domestic demand and policy. Analysts recommend focusing on domestic-facing sectors like PSU banks, autos, healthcare, metals, and capital goods due to stronger demand visi",
-    "image": "https://img.etimg.com/photo/msid-128833925,imgsize-111646.cms",
+    "title": "From Rs 157 to just Rs 25: Ola Electric shares plunge 84% from peak. Should you catch this falling knife?",
+    "summary": "Ola Electric shares have plummeted 84% from their peak, wiping out significant investor wealth and now trading below their issue price. The company faces intense competition, regulatory scrutiny, and declining market share, leading to downgrades from",
+    "image": "https://img.etimg.com/photo/msid-128836371,imgsize-882562.cms",
     "source": "ET",
-    "pubDate": "Fri, 27 Feb 2026 06:43:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128833925.cms"
+    "pubDate": "Fri, 27 Feb 2026 09:25:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-rs-157-to-just-rs-25-ola-electric-shares-plunge-84-from-peak-should-you-catch-this-falling-knife/articleshow/128836371.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vishal-mega-mart-bandhan-bank-indian-oil-bharti-airtel-bpcl/articleshow/128833862.cms",
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/silver-zooms-rs-8300-near-rs-2-7-lakh-gold-opens-flat-amid-us-iran-talks-tariff-uncertainty-where-are-prices-headed/articleshow/128836252.cms",
     "category": "finance",
-    "title": "Stocks in news: Vishal Mega Mart, Bandhan Bank, Indian Oil, Bharti Airtel, BPCL",
-    "summary": "Markets traded with volatility on Thursday, ending almost unchanged amid mixed cues. Vishal Mega Mart promoter entity plans to sell a 6.5% stake at a discount. Bharti Airtel's entry into the NBFC space is seen as a strategic growth driver, while Band",
-    "image": "https://img.etimg.com/photo/msid-128833862,imgsize-54812.cms",
+    "title": "Silver jumps Rs 8,300/kg, nears Rs 2.7 lakh; gold flat as US-Iran talks, tariff uncertainty cloud outlook",
+    "summary": "Silver and gold prices surged on MCX Friday. Investors watched US-Iran negotiations and tariff concerns. Gold futures for April 2026 and silver futures for March 2026 saw significant gains. Experts suggest buying gold and silver on dips. Physical gol",
+    "image": "https://img.etimg.com/photo/msid-128836252,imgsize-43008.cms",
     "source": "ET",
-    "pubDate": "Fri, 27 Feb 2026 06:38:38 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vishal-mega-mart-bandhan-bank-indian-oil-bharti-airtel-bpcl/articleshow/128833862.cms"
+    "pubDate": "Fri, 27 Feb 2026 09:21:46 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-zooms-rs-8300-near-rs-2-7-lakh-gold-opens-flat-amid-us-iran-talks-tariff-uncertainty-where-are-prices-headed/articleshow/128836252.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-slide-after-decline-in-us-tech-stocks/articleshow/128833759.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-in-focus-as-wall-streets-tech-rally-loses-steam-infosys-wipro-adrs-rise-up-to-3/articleshow/128836112.cms",
     "category": "finance",
-    "title": "Global Market Today | Asian markets retreat following decline in US stocks",
-    "summary": "Asian stocks saw a slight dip from their peak levels. This followed a downturn in Wall Street markets. Investor sentiment was impacted by a subdued response to Nvidia's earnings report. Despite this, Asian equities continue to outperform global bench",
-    "image": "https://img.etimg.com/photo/msid-128833759,imgsize-252278.cms",
+    "title": "IT stocks in focus as Wall Street\u2019s tech rally loses steam; Infosys, Wipro ADRs rise up to 3%",
+    "summary": "Indian IT stocks remain in focus despite a tech sell-off on Wall Street, with Infosys and Wipro ADRs showing gains. While AI disruption worries have led to a recent 20% decline in Indian IT shares, experts believe the sector is poised to benefit from",
+    "image": "https://img.etimg.com/photo/msid-128836112,imgsize-83602.cms",
     "source": "ET",
-    "pubDate": "Fri, 27 Feb 2026 06:31:34 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-slide-after-decline-in-us-tech-stocks/articleshow/128833759.cms"
+    "pubDate": "Fri, 27 Feb 2026 09:18:17 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-in-focus-as-wall-streets-tech-rally-loses-steam-infosys-wipro-adrs-rise-up-to-3/articleshow/128836112.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-players-must-put-id-info-in-social-media-posts-sebi/articleshow/128833701.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/360-ones-mayur-patel-spots-opportunities-in-4-sectors-for-your-fy27-portfolio/articleshow/128815890.cms",
     "category": "finance",
-    "title": "Market players must put ID info in social media posts: Sebi",
-    "summary": "The Securities and Exchange Board of India (Sebi) has mandated that all market intermediaries must prominently display their registered name and registration number on social media platforms when sharing securities market-related content. This new ru",
-    "image": "https://img.etimg.com/photo/msid-128833701,imgsize-92166.cms",
+    "title": "360 ONE's Mayur Patel spots opportunities in 4 sectors for your FY27 portfolio",
+    "summary": "Mayur Patel of 360 ONE Asset Management sees improving structural drivers in financials, telecom, commercial vehicles, and integrated solar manufacturing, which are not fully valued for their medium-long term earnings. He highlights easing liquidity,",
+    "image": "https://img.etimg.com/photo/msid-128815890,imgsize-78460.cms",
     "source": "ET",
-    "pubDate": "Fri, 27 Feb 2026 06:23:54 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-players-must-put-id-info-in-social-media-posts-sebi/articleshow/128833701.cms"
+    "pubDate": "Fri, 27 Feb 2026 09:00:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/360-ones-mayur-patel-spots-opportunities-in-4-sectors-for-your-fy27-portfolio/articleshow/128815890.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/video-two-heroic-skiers-rescue-man-buried-in-deep-snow-in-california-resort-11138902#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/netweb-technologies-shares-in-focus-on-ai-data-centre-collaboration-with-vertiv-check-details/articleshow/128835909.cms",
+    "category": "finance",
+    "title": "Netweb Technologies shares in focus on AI, data centre collaboration with Vertiv. Check details",
+    "summary": "Netweb Technologies India Ltd announced a collaboration with Vertiv to jointly develop and validate GPU-based AI infrastructure solutions. The partnership integrates Netweb\u2019s rack-scale GPU platforms with Vertiv\u2019s cooling and power systems, targeting",
+    "image": "https://img.etimg.com/photo/msid-128835909,imgsize-46054.cms",
+    "source": "ET",
+    "pubDate": "Fri, 27 Feb 2026 08:58:46 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/netweb-technologies-shares-in-focus-on-ai-data-centre-collaboration-with-vertiv-check-details/articleshow/128835909.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/afghanistan-pakistan-war-news-pakistans-f-16-fighter-jet-shot-down-kabuls-big-claim-11143030#publisher=newsstand",
     "category": "india",
-    "title": "Video: Two 'Heroic' Skiers Rescue Man Buried In Deep Snow In California Resort",
-    "summary": "A man buried alive in deep snow was rescued by two quick-thinking skiers.",
-    "image": "https://c.ndtvimg.com/2026-02/mje77f94_as_625x300_26_February_26.jpeg",
+    "title": "Pak Lost Another Prized F-16? Yes, Says Afghanistan, Shares Video",
+    "summary": "The video shows wreckage of a Pakistani F-16 with serial number 85610",
+    "image": "https://c.ndtvimg.com/2026-02/13fop104_pak-f16-plane_625x300_27_February_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 27 Feb 2026 06:11:20 +0530",
-    "link": "https://www.ndtv.com/world-news/video-two-heroic-skiers-rescue-man-buried-in-deep-snow-in-california-resort-11138902#publisher=newsstand"
+    "pubDate": "Fri, 27 Feb 2026 08:56:45 +0530",
+    "link": "https://www.ndtv.com/world-news/afghanistan-pakistan-war-news-pakistans-f-16-fighter-jet-shot-down-kabuls-big-claim-11143030#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/see-what-she-wore-netanyahu-flags-saffron-connect-between-pm-modi-and-wife-sara-11137737#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/doomsday-or-deep-value-indias-it-stocks-at-crossroads-after-20-crash/articleshow/128835881.cms",
+    "category": "finance",
+    "title": "Doomsday or deep value: India's IT stocks at crossroads after 20% crash",
+    "summary": "India's Nifty IT index is experiencing a significant downturn, with investors fearing artificial intelligence could render the current IT model obsolete. While some analysts see an attractive entry point due to market overreaction, others warn of sus",
+    "image": "https://img.etimg.com/photo/msid-128835881,imgsize-14293.cms",
+    "source": "ET",
+    "pubDate": "Fri, 27 Feb 2026 08:56:41 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/doomsday-or-deep-value-indias-it-stocks-at-crossroads-after-20-crash/articleshow/128835881.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/video-afghanistan-shares-wreckage-of-pakistan-precious-white-elephant-f-16-11143091#publisher=newsstand",
     "category": "india",
-    "title": "Videos: Netanyahu's Indian Attire, Wife's Saffron Sync With PM Modi During His Visit",
-    "summary": "Israeli PM Benjamin Netanyahu pointing towards PM Modi's pocket square in the viral clip",
-    "image": "https://c.ndtvimg.com/2026-02/1htpv9ss_as_625x300_26_February_26.jpeg",
+    "title": "Video: Afghanistan Shows Wreckage Of Pakistan Precious 'White Elephant' F-16",
+    "summary": "Afghan forces have claimed they downed a Pakistani F-16 fighter jet",
+    "image": "https://c.ndtvimg.com/2026-02/5qbvtpu4_pakistan-f16_625x300_27_February_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 27 Feb 2026 06:10:30 +0530",
-    "link": "https://www.ndtv.com/world-news/see-what-she-wore-netanyahu-flags-saffron-connect-between-pm-modi-and-wife-sara-11137737#publisher=newsstand"
+    "pubDate": "Fri, 27 Feb 2026 08:53:54 +0530",
+    "link": "https://www.ndtv.com/world-news/video-afghanistan-shares-wreckage-of-pakistan-precious-white-elephant-f-16-11143091#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/feature/anthropic-drops-its-core-safety-pledge-amid-deadline-threat-from-us-government-11138106#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/afghanistan-pakistan-war-pak-will-crush-aggressive-ambitions-shehbaz-sharif-warns-afghanistan-11143028#publisher=newsstand",
     "category": "india",
-    "title": "Anthropic Drops Its Core Safety Pledge Amid Deadline Threat From US Government",
-    "summary": "Led by CEO Dario Amodei, Anthropic has ended its AI safety pledge to remain competitive.",
-    "image": "https://c.ndtvimg.com/2026-02/h4rkd0ec_anthropic-ceo-dario-amodei_625x300_19_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "'Pak Will Crush Aggressive Ambitions': Shehbaz Sharif Warns Afghanistan",
+    "summary": "Shehbaz Sharif said \"entire nation stands shoulder to shoulder with the Pakistan armed forces\"",
+    "image": "https://c.ndtvimg.com/2026-02/q7914cqg_shehbaz-sharif_625x300_27_February_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 27 Feb 2026 06:09:28 +0530",
-    "link": "https://www.ndtv.com/feature/anthropic-drops-its-core-safety-pledge-amid-deadline-threat-from-us-government-11138106#publisher=newsstand"
+    "pubDate": "Fri, 27 Feb 2026 08:51:22 +0530",
+    "link": "https://www.ndtv.com/world-news/afghanistan-pakistan-war-pak-will-crush-aggressive-ambitions-shehbaz-sharif-warns-afghanistan-11143028#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-invites-investment-banks-to-pitch-for-managing-ipo/articleshow/128833399.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hindalco-shares-in-focus-as-us-govt-shutdown-delays-125-million-aluchem-deal-process/articleshow/128835800.cms",
     "category": "finance",
-    "title": "NSE invites investment banks to pitch for managing IPO",
-    "summary": "The National Stock Exchange has invited 15 investment bankers to pitch for managing its upcoming IPO, with JPMorgan Chase and Kotak Mahindra Capital among those in contention. The exchange is expected to file its draft red herring prospectus in April",
-    "image": "https://img.etimg.com/photo/msid-128833399,imgsize-185300.cms",
+    "title": "Hindalco shares in focus as US govt shutdown delays $125 million AluChem deal process",
+    "summary": "Hindalco Industries said the CFIUS review of its proposed acquisition of AluChem Companies has been temporarily suspended due to a partial US government shutdown. The delay has put the transaction on hold, even as the company faces operational setbac",
+    "image": "https://img.etimg.com/photo/msid-128835800,imgsize-65808.cms",
     "source": "ET",
-    "pubDate": "Fri, 27 Feb 2026 06:07:55 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-invites-investment-banks-to-pitch-for-managing-ipo/articleshow/128833399.cms"
+    "pubDate": "Fri, 27 Feb 2026 08:50:55 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindalco-shares-in-focus-as-us-govt-shutdown-delays-125-million-aluchem-deal-process/articleshow/128835800.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-tightens-locker-access-rules/articleshow/128833365.cms",
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/omnitech-engineering-ipo-day-3-check-gmp-subscription-status-and-broker-views/articleshow/128835768.cms",
     "category": "finance",
-    "title": "HDFC Bank tightens locker access rules",
-    "summary": "HDFC Bank has enhanced locker security with mandatory biometric authentication linked to Aadhaar. A bank representative will now monitor locker room exits. Annual locker fees have also seen a significant increase. These changes align with RBI guideli",
-    "image": "https://img.etimg.com/photo/msid-128833365,imgsize-97066.cms",
+    "title": "Omnitech Engineering IPO Day 3: Check GMP, subscription status, and broker views",
+    "summary": "Omnitech Engineering's Rs 583 crore IPO is nearing its close with a modest grey market premium, suggesting a potential listing gain around Rs 230. The issue, comprising a fresh issue and an offer for sale, has seen cautious investor interest so far. ",
+    "image": "https://img.etimg.com/photo/msid-128835768,imgsize-84399.cms",
     "source": "ET",
-    "pubDate": "Fri, 27 Feb 2026 06:04:29 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-tightens-locker-access-rules/articleshow/128833365.cms"
+    "pubDate": "Fri, 27 Feb 2026 08:48:42 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/omnitech-engineering-ipo-day-3-check-gmp-subscription-status-and-broker-views/articleshow/128835768.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/rising-ai-pressure-weak-december-quarter-performance-weigh-on-capillary-shares/articleshow/128833249.cms",
-    "category": "finance",
-    "title": "Rising AI pressure, weak Q3 performance weigh on Capillary shares",
-    "summary": "Capillary Technologies India's stock has fallen 35% from its peak due to AI threats and a muted December quarter. The company, which offers a SaaS platform for customer engagement, faces potential revenue and profit contraction. Despite management's ",
-    "image": "https://img.etimg.com/photo/msid-128833249,imgsize-67710.cms",
-    "source": "ET",
-    "pubDate": "Fri, 27 Feb 2026 05:57:45 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/rising-ai-pressure-weak-december-quarter-performance-weigh-on-capillary-shares/articleshow/128833249.cms"
+    "id": "https://www.ndtv.com/world-news/ellie-aghayeva-columbia-student-detained-by-us-immigration-agents-released-after-mamdani-meets-trump-11142930#publisher=newsstand",
+    "category": "india",
+    "title": "Columbia Student Detained By US Immigration Agents Released After Mamdani Meets Trump",
+    "summary": "\"I am safe and okay,\" Ellie Aghayeva wrote on Instagram",
+    "image": "https://c.ndtvimg.com/2026-02/221vt1gc_ellie-aghayeva_625x300_27_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Feb 2026 08:44:15 +0530",
+    "link": "https://www.ndtv.com/world-news/ellie-aghayeva-columbia-student-detained-by-us-immigration-agents-released-after-mamdani-meets-trump-11142930#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-alternates-raises-rs-1700-crore-fund/articleshow/128833165.cms",
-    "category": "finance",
-    "title": "Motilal Oswal Alternates raises Rs 1,700-crore fund",
-    "summary": "Motilal Oswal Alternates has achieved the first close of its maiden private credit fund, India Credit Excellence Fund-I, at \u20b91,700 crore. The fund aims for a \u20b93,000 crore corpus and will provide secured lending and customized solutions to profitable,",
-    "image": "https://img.etimg.com/photo/msid-128833165,imgsize-42830.cms",
-    "source": "ET",
-    "pubDate": "Fri, 27 Feb 2026 05:44:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-alternates-raises-rs-1700-crore-fund/articleshow/128833165.cms"
+    "id": "https://www.ndtv.com/world-news/pak-declares-open-war-bombs-kabul-kandahar-after-afghanistan-attacks-11142824#publisher=newsstand",
+    "category": "india",
+    "title": "Pak Declares \"Open War\", Bombs Kabul After Afghan Attack, Claims 133 Killed",
+    "summary": "Afghanistan Pakistan Attacks: The Afghan defence ministry reported eight of its soldiers have been killed",
+    "image": "https://c.ndtvimg.com/2026-02/t2umgk1s_pak-afghan-clashes_625x300_27_February_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Feb 2026 08:40:43 +0530",
+    "link": "https://www.ndtv.com/world-news/pak-declares-open-war-bombs-kabul-kandahar-after-afghanistan-attacks-11142824#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cbse-class-12-chemistry-exam-on-feb-28-check-last-minute-tips-from-educators-11143032#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE Class 12 Chemistry Exam On Feb 28: Check Last-Minute Tips From Educators",
+    "summary": "Follow the order - Given data, Formula, Substitution, Final answer",
+    "image": "https://c.ndtvimg.com/2025-07/4dhf0ap4_students_625x300_21_July_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Feb 2026 08:29:49 +0530",
+    "link": "https://www.ndtv.com/education/cbse-class-12-chemistry-exam-on-feb-28-check-last-minute-tips-from-educators-11143032#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/gurgaon-news/26-year-old-nepali-woman-allegedly-gang-raped-in-gurugram-1-arrested-11142952#publisher=newsstand",
+    "category": "india",
+    "title": "26-Year-Old Nepali Woman Allegedly Gang-Raped In Gurugram, 1 Arrested",
+    "summary": "Police have arrested the auto driver after registering an FIR",
+    "image": "https://c.ndtvimg.com/2019-12/pasi7rqs_gurgaon-police-generic_625x300_19_December_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Feb 2026 08:14:40 +0530",
+    "link": "https://www.ndtv.com/gurgaon-news/26-year-old-nepali-woman-allegedly-gang-raped-in-gurugram-1-arrested-11142952#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/9-arrested-in-rs-1-500-crore-multi-states-cyber-fraud-case-11142909#publisher=newsstand",
+    "category": "india",
+    "title": "9 Arrested In Rs 1,500-Crore Multi-States Cyber Fraud Case",
+    "summary": "The probe so far has found transactions of approximately Rs 1500 crore",
+    "image": "https://c.ndtvimg.com/2025-01/6lak746g_cybercrime_625x300_20_January_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Feb 2026 08:13:24 +0530",
+    "link": "https://www.ndtv.com/india-news/9-arrested-in-rs-1-500-crore-multi-states-cyber-fraud-case-11142909#publisher=newsstand"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c5y6p5ypgmzo#0",
+    "category": "global",
+    "title": "Netflix drops bid for Warner Bros, clearing way for Paramount takeover",
+    "summary": "Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 27 Feb 2026 04:02:46 GMT",
+    "link": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1526151.html",
+    "category": "sports",
+    "title": "Molineux out of the series, India bat with Verma and Renuka rested",
+    "summary": "Molineux ruled out of the rest of the multiformat series with back soreness",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414100/414142.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 27 Feb 2026 04:01:04 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526151.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1526139.html",
+    "category": "sports",
+    "title": "India in a West Indies frame of mind",
+    "summary": "\"The brand of cricket we played today and since last year, the same intent, we want to keep\" - Tilak Varma",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414100/414128.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 27 Feb 2026 04:00:59 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526139.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cd6z3e1vdvzo#0",
@@ -310,56 +350,6 @@
     "link": "https://www.bbc.com/news/articles/c1jkzr9gel7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/after-ncert-row-information-ministry-asked-to-stop-circulation-of-book-11142290#publisher=newsstand",
-    "category": "india",
-    "title": "After NCERT Row, Information Ministry Asked To Stop Circulation Of Book",
-    "summary": "The NCERT on Wednesday also apologised for the \"inappropriate content\"",
-    "image": "https://c.ndtvimg.com/2026-02/nlcqvhf4_ncert_625x300_27_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Feb 2026 00:35:07 +0530",
-    "link": "https://www.ndtv.com/india-news/after-ncert-row-information-ministry-asked-to-stop-circulation-of-book-11142290#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/afghanistan-attacks-border-posts-claims-dozens-killed-pakistan-hits-back-11142276#publisher=newsstand",
-    "category": "india",
-    "title": "Afghanistan Attacks Border Posts, Claims Dozens Killed, Pakistan Hits Back",
-    "summary": "Pakistan's military launched its air strikes on Afghanistan days ago.",
-    "image": "https://c.ndtvimg.com/2026-02/9inkmmm8_afghanistan-pak-afp_625x300_26_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Feb 2026 00:31:27 +0530",
-    "link": "https://www.ndtv.com/world-news/afghanistan-attacks-border-posts-claims-dozens-killed-pakistan-hits-back-11142276#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/thankful-to-media-for-bringing-issue-into-public-top-court-on-ncert-row-11140863#publisher=newsstand",
-    "category": "india",
-    "title": "'Thankful To Media For Bringing Issue Into Public': Top Court On NCERT Row",
-    "summary": "Court listed the matter for further hearing on March 11.",
-    "image": "https://c.ndtvimg.com/2026-02/s8t065lc_supreme-court-ncert-textbook-social-science-_650x400_25_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Feb 2026 00:22:16 +0530",
-    "link": "https://www.ndtv.com/india-news/thankful-to-media-for-bringing-issue-into-public-top-court-on-ncert-row-11140863#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/police-students-injured-in-clash-during-jnu-protest-march-several-detained-11142126#publisher=newsstand",
-    "category": "india",
-    "title": "Police, Students Injured In Clash During JNU Protest March, Several Detained",
-    "summary": "The JNUSU also alleged that a portrait of B R Ambedkar was damaged during the police action.",
-    "image": "https://c.ndtvimg.com/2026-02/h2d5i1cc_jnu_625x300_26_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Feb 2026 00:13:27 +0530",
-    "link": "https://www.ndtv.com/india-news/police-students-injured-in-clash-during-jnu-protest-march-several-detained-11142126#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/inside-irans-missile-power-why-it-alarms-west-and-how-far-they-can-reach-11142231#publisher=newsstand",
-    "category": "india",
-    "title": "Inside Iran's Missile Power: Why It Alarms West And How Far They Can Reach",
-    "summary": "Many of Iran's missile sites are in and around Tehran.",
-    "image": "https://c.ndtvimg.com/2024-10/6mm5qch8_iran-missile-reuters_625x300_02_October_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Feb 2026 00:11:25 +0530",
-    "link": "https://www.ndtv.com/world-news/inside-irans-missile-power-why-it-alarms-west-and-how-far-they-can-reach-11142231#publisher=newsstand"
-  },
-  {
     "id": "https://www.bbc.com/weather/articles/c1e9d20pg2lo#0",
     "category": "global",
     "title": "UK winter nowhere near a record breaker despite floods and storms",
@@ -368,6 +358,16 @@
     "source": "BBC",
     "pubDate": "Fri, 27 Feb 2026 00:06:49 GMT",
     "link": "https://www.bbc.com/weather/articles/c1e9d20pg2lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cq570d12y9do#0",
+    "category": "global",
+    "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
+    "summary": "The Twitter co-founder says he believes the majority of firms will make similar changes \"within the next year.\"",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 27 Feb 2026 00:06:40 GMT",
+    "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cge82vq9x9ro#0",
