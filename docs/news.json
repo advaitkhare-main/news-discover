@@ -80,164 +80,94 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/earthquake-in-kolkata-sparks-meme-fest-online-netizens-react-with-humour-11144250#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/chatgpt-health-under-assesses-emergencies-big-study-warns-of-safety-risks-11144407#publisher=newsstand",
     "category": "india",
-    "title": "Earthquake In Kolkata Sparks Meme Fest Online, Netizens React With Humour",
-    "summary": "An earthquake in Bangladesh caused tremors in Kolkata, sparking a wave of funny memes and humorous reactions online as netizens coped with the unexpected event.",
-    "image": "https://c.ndtvimg.com/2026-02/l89opcso_strong-tremors-jolt-kolkata_625x300_27_February_26.jpeg",
+    "title": "ChatGPT Health Under-Assesses Emergencies, Big Study Warns Of Safety Risks",
+    "summary": "The findings showed an inverted U-shaped performance pattern, where the AI handled moderate cases relatively well but struggled at the extremes.",
+    "image": "https://c.ndtvimg.com/2025-10/dteafkck_chatgpt-go_625x300_29_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 27 Feb 2026 13:42:59 +0530",
-    "link": "https://www.ndtv.com/offbeat/earthquake-in-kolkata-sparks-meme-fest-online-netizens-react-with-humour-11144250#publisher=newsstand"
+    "pubDate": "Fri, 27 Feb 2026 14:48:48 +0530",
+    "link": "https://www.ndtv.com/health/chatgpt-health-under-assesses-emergencies-big-study-warns-of-safety-risks-11144407#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/solar-infra-blamed-for-madhya-pradesh-tigress-death-why-its-alarming-11144125#publisher=newsstand",
+    "category": "india",
+    "title": "Solar Infra Blamed For Madhya Pradesh Tigress's Death. Why It's Alarming",
+    "summary": "The alleged death is under probe, Chief Conservator of Forests (Shahdol Circle) said.",
+    "image": "https://c.ndtvimg.com/2026-02/s55egikc_mp-tiger_625x300_27_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Feb 2026 14:43:59 +0530",
+    "link": "https://www.ndtv.com/india-news/solar-infra-blamed-for-madhya-pradesh-tigress-death-why-its-alarming-11144125#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/kolkata-news/was-very-scary-social-media-flooded-with-kolkata-earthquake-11144406#publisher=newsstand",
+    "category": "india",
+    "title": "\"Was Very Scary\": Social Media Flooded With Kolkata Earthquake Posts",
+    "summary": "People run out of a building after an earthquake was felt in Kolkata",
+    "image": "https://c.ndtvimg.com/2026-02/p4q8v0u4_earthquake_625x300_27_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Feb 2026 14:42:30 +0530",
+    "link": "https://www.ndtv.com/kolkata-news/was-very-scary-social-media-flooded-with-kolkata-earthquake-11144406#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/kolkata-earthquake-live-updates-strong-tremors-felt-in-west-bengals-capital-kolkata-11144231#publisher=newsstand",
+    "category": "india",
+    "title": "Kolkata Earthquake Live Updates: Poll Body Officials Run Out Of Building",
+    "summary": "Kolkata earthquake Live Updates: An earthquake of magnitude 4.9 momentarily shook Kolkata this afternoon. People rushed out of homes, offices, and schools out of panic.",
+    "image": "https://c.ndtvimg.com/kolkata-generic-istock_625x300_1529056538395.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Feb 2026 14:37:38 +0530",
+    "link": "https://www.ndtv.com/india-news/kolkata-earthquake-live-updates-strong-tremors-felt-in-west-bengals-capital-kolkata-11144231#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/kolkata-earthquake-video-union-minister-was-speaking-at-kolkata-event-then-quake-struck-11144363#publisher=newsstand",
+    "category": "india",
+    "title": "Video: Union Minister Was Speaking At Kolkata Event, Then Quake Struck",
+    "summary": "Union Minister Sukanta Majumdar was speaking at an event in Kolkata",
+    "image": "https://c.ndtvimg.com/2026-02/vlib6hrk_sukanta-majumdar_625x300_27_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Feb 2026 14:36:10 +0530",
+    "link": "https://www.ndtv.com/india-news/kolkata-earthquake-video-union-minister-was-speaking-at-kolkata-event-then-quake-struck-11144363#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/south/if-dmk-wins-eps-loses-ops-on-revenge-angle-in-tamil-nadu-switch-11144351#publisher=newsstand",
+    "category": "india",
+    "title": "\"If DMK Wins, EPS Loses\": OPS On 'Revenge' Angle In Tamil Nadu Switch",
+    "summary": "The DMK's newest recruit - expelled AIADMK leader and ex-Chief Minister O Panneerselvam - spoke to NDTV Friday, shortly after he was welcomed onboard by his new boss, MK Stalin.",
+    "image": "https://c.ndtvimg.com/2026-02/t4e29apc_panneerselvam-stalin_625x300_27_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Feb 2026 14:15:59 +0530",
+    "link": "https://www.ndtv.com/south/if-dmk-wins-eps-loses-ops-on-revenge-angle-in-tamil-nadu-switch-11144351#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/can-lazy-eye-be-corrected-causes-treatments-and-why-early-care-matters-11143799#publisher=newsstand",
+    "category": "india",
+    "title": "Can Lazy Eye Be Corrected? Causes, Treatments, And Why Early Care Matters",
+    "summary": "The good news is that amblyopia can often be treated successfully, especially if detected early",
+    "image": "https://c.ndtvimg.com/2026-02/5skqp4f_amblyopia_625x300_27_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Feb 2026 14:14:59 +0530",
+    "link": "https://www.ndtv.com/health/can-lazy-eye-be-corrected-causes-treatments-and-why-early-care-matters-11143799#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/india-news/kolkata-earthquake-today-massive-earthquake-tremors-felt-in-kolkata-offices-evacuated-11144197#publisher=newsstand",
     "category": "india",
     "title": "Strong Earthquake Tremors Felt In Kolkata, Offices Evacuated",
-    "summary": "Kolkata Earthquake Today: The magnitude of the earthquake was immediately not clear.",
+    "summary": "Kolkata Earthquake Today: The magnitude of the earthquake was 4.9",
     "image": "https://c.ndtvimg.com/2026-02/glnkhe8g_kolkata-earthquake_625x300_27_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 27 Feb 2026 13:40:33 +0530",
+    "pubDate": "Fri, 27 Feb 2026 14:07:07 +0530",
     "link": "https://www.ndtv.com/india-news/kolkata-earthquake-today-massive-earthquake-tremors-felt-in-kolkata-offices-evacuated-11144197#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/kolkata-earthquake-live-updates-strong-tremors-felt-in-west-bengals-capital-kolkata-11144231#publisher=newsstand",
-    "category": "india",
-    "title": "Kolkata earthquake Live Updates: Strong Tremors Felt In West Bengal's Capital Kolkata",
-    "summary": "",
-    "image": "https://c.ndtvimg.com/kolkata-generic-istock_625x300_1529056538395.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Feb 2026 13:39:33 +0530",
-    "link": "https://www.ndtv.com/india-news/kolkata-earthquake-live-updates-strong-tremors-felt-in-west-bengals-capital-kolkata-11144231#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/dont-doubt-judicial-officers-supreme-court-in-bengal-vs-poll-body-11144213#publisher=newsstand",
-    "category": "india",
-    "title": "'Don't Doubt Judicial Officers': Supreme Court In Bengal vs Poll Body",
-    "summary": "The Mamata Banerjee government vs EC matter has reached the Supreme Court",
-    "image": "https://c.ndtvimg.com/2025-04/g1mofss8_mamata-banerjee-supreme-court-split-_650x400_03_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Feb 2026 13:34:08 +0530",
-    "link": "https://www.ndtv.com/india-news/dont-doubt-judicial-officers-supreme-court-in-bengal-vs-poll-body-11144213#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/who-is-justice-sushrut-arvind-dharmadhikari-madras-high-court-chief-justice-pick-bhopal-gas-tragedy-case-kerala-story-2-case-11144210#publisher=newsstand",
-    "category": "india",
-    "title": "Who Is Justice Dharmadhikari, Madras High Court Chief Justice Pick",
-    "summary": "Justice Dharmadhikari has delivered many key rulings.",
-    "image": "https://c.ndtvimg.com/2026-02/lva052jk_justice_625x300_27_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Feb 2026 13:33:56 +0530",
-    "link": "https://www.ndtv.com/india-news/who-is-justice-sushrut-arvind-dharmadhikari-madras-high-court-chief-justice-pick-bhopal-gas-tragedy-case-kerala-story-2-case-11144210#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/are-you-overcaffeinated-signs-you-are-consuming-too-much-caffeine-11144093#publisher=newsstand",
-    "category": "india",
-    "title": "Are You Overcaffeinated? Signs You Are Consuming Too Much Caffeine",
-    "summary": "Difficulty sleeping is one of the most common signs of caffeine overconsumption",
-    "image": "https://c.ndtvimg.com/2024-05/nn74534_headache-_625x300_17_May_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Feb 2026 13:23:16 +0530",
-    "link": "https://www.ndtv.com/health/are-you-overcaffeinated-signs-you-are-consuming-too-much-caffeine-11144093#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/solar-infra-blamed-for-madhya-pradesh-tigress-death-why-its-alarming-11144125#publisher=newsstand",
-    "category": "india",
-    "title": "Solar Infra Blamed For Madhya Pradesh Tigress' Death. Why It's Alarming",
-    "summary": "The alleged death is under probe, Chief Conservator of Forests (Shahdol Circle) said.",
-    "image": "https://c.ndtvimg.com/2026-02/s55egikc_mp-tiger_625x300_27_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Feb 2026 13:23:01 +0530",
-    "link": "https://www.ndtv.com/india-news/solar-infra-blamed-for-madhya-pradesh-tigress-death-why-its-alarming-11144125#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/bjps-ai-driven-strategy-assembly-charge-sheets-for-2026-state-polls-11144174#publisher=newsstand",
-    "category": "india",
-    "title": "BJP's AI-Driven Strategy, \"Assembly Charge Sheets\" For 2026 State Polls",
-    "summary": "Representational Image",
-    "image": "https://c.ndtvimg.com/2023-04/kh7g0i2_bjp-generic-1200_625x300_08_April_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Feb 2026 13:22:51 +0530",
-    "link": "https://www.ndtv.com/india-news/bjps-ai-driven-strategy-assembly-charge-sheets-for-2026-state-polls-11144174#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-falling-today-rs-3-lakh-crore-wiped-out-sensex-tumbles-600-points-nifty-below-25300-key-factors-behind-market-decline/articleshow/128840525.cms",
-    "category": "finance",
-    "title": "Rs 3 lakh crore wiped out! Sensex tumbles 600 points, Nifty below 25,300. 4 key factors behind market decline",
-    "summary": "Indian stock markets experienced a sharp decline for the second consecutive session, with significant drops in FMCG, auto, realty, and pharma sectors. This selloff erased over Rs 3.4 lakh crore in investor wealth, influenced by heavy FII selling and ",
-    "image": "https://img.etimg.com/photo/msid-128840525,imgsize-110834.cms",
-    "source": "ET",
-    "pubDate": "Fri, 27 Feb 2026 13:13:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-falling-today-rs-3-lakh-crore-wiped-out-sensex-tumbles-600-points-nifty-below-25300-key-factors-behind-market-decline/articleshow/128840525.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/global-funds-make-2-1-billion-comeback-on-d-street-as-earnings-outlook-improves/articleshow/128840159.cms",
-    "category": "finance",
-    "title": "Global funds make $2.1 billion comeback on D-Street as earnings outlook improves",
-    "summary": "Foreign investors are returning to Indian stocks. This is the fastest pace in eight months. Stabilizing corporate earnings and a US trade deal are supporting this trend. Global funds have bought nearly $2.1 billion of local shares in February. This s",
-    "image": "https://img.etimg.com/photo/msid-128840159,imgsize-24333.cms",
-    "source": "ET",
-    "pubDate": "Fri, 27 Feb 2026 12:42:08 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-funds-make-2-1-billion-comeback-on-d-street-as-earnings-outlook-improves/articleshow/128840159.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-initiate-coverage-on-lg-electronics-fractal-analytics-hitachi-5-other-stocks-with-up-to-55-upside-do-you-own-any/slideshow/128840178.cms",
-    "category": "finance",
-    "title": "\u200bBrokerages initiate coverage on LG Electronics, Fractal Analytics, Hitachi, 5 other stocks with up to 55% upside. Do yo",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-128839850,imgsize-5328.cms",
-    "source": "ET",
-    "pubDate": "Fri, 27 Feb 2026 12:30:40 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-initiate-coverage-on-lg-electronics-fractal-analytics-hitachi-5-other-stocks-with-up-to-55-upside-do-you-own-any/slideshow/128840178.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/lt-finance-utkarsh-sfb-fusion-finance-tank-up-to-11-as-bihar-passes-mfi-bill-2026-heres-whats-causing-pain/articleshow/128839193.cms",
-    "category": "finance",
-    "title": "L&amp;T Finance, Utkarsh SFB, Fusion Finance tank up to 11% as Bihar passes MFI Bill 2026. Here\u2019s what\u2019s causing pain",
-    "summary": "Shares of microfinance-linked lenders fell sharply after Bihar passed a bill tightening regulations on MFIs. While the move may have limited immediate financial impact, analysts warn of slower credit growth, rising compliance costs, and potential ass",
-    "image": "https://img.etimg.com/photo/msid-128839193,imgsize-509072.cms",
-    "source": "ET",
-    "pubDate": "Fri, 27 Feb 2026 12:05:09 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/lt-finance-utkarsh-sfb-fusion-finance-tank-up-to-11-as-bihar-passes-mfi-bill-2026-heres-whats-causing-pain/articleshow/128839193.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/block-shares-surge-25-as-ex-twitter-ceo-jack-dorsey-lays-off-4000-employees-due-to-ai-heres-why/articleshow/128839063.cms",
-    "category": "finance",
-    "title": "Block shares surge 25% as ex-Twitter CEO Jack Dorsey lays off 4,000 employees due to AI; here's why",
-    "summary": "Block Inc. is reducing its workforce by 4,000 employees. CEO Jack Dorsey believes artificial intelligence tools will enable a smaller team to perform better. This strategic move aims to make Block a more valuable, intelligence-native company. The com",
-    "image": "https://img.etimg.com/photo/msid-128839063,imgsize-41698.cms",
-    "source": "ET",
-    "pubDate": "Fri, 27 Feb 2026 11:57:22 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/block-shares-surge-25-as-ex-twitter-ceo-jack-dorsey-lays-off-4000-employees-due-to-ai-heres-why/articleshow/128839063.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/maheshwari-bets-on-psu-banks-flags-microfinance-reset-as-structural-positive/articleshow/128838742.cms",
-    "category": "finance",
-    "title": "Nischal  Maheshwari bets on PSU banks, flags microfinance reset as structural positive",
-    "summary": "Market expert Nischal Maheshwari advocates a selective, valuation-conscious strategy across sectors like microfinance, banks, metals, autos, power, and defence. He highlights opportunities in PSU lenders and commercial vehicles, while cautioning on m",
-    "image": "https://img.etimg.com/photo/msid-128838742,imgsize-20578.cms",
-    "source": "ET",
-    "pubDate": "Fri, 27 Feb 2026 11:44:24 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/maheshwari-bets-on-psu-banks-flags-microfinance-reset-as-structural-positive/articleshow/128838742.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-mortgage-rate-dips-below-6-but-economists-dont-expect-a-housing-boom/articleshow/128838471.cms",
-    "category": "finance",
-    "title": "US mortgage rate dips below 6% but economists don't expect a housing boom",
-    "summary": "US 30-year fixed mortgage rates dipped below 6% for the first time in 3.5 years, reaching 5.98%. This decline, linked to Treasury yield drops, is seen as temporary by economists. While a psychological boost, it's unlikely to significantly revive hous",
-    "image": "https://img.etimg.com/photo/msid-128838471,imgsize-447570.cms",
-    "source": "ET",
-    "pubDate": "Fri, 27 Feb 2026 11:23:15 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-mortgage-rate-dips-below-6-but-economists-dont-expect-a-housing-boom/articleshow/128838471.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/jgb-yields-fall-on-demand-for-portfolio-adjustment/articleshow/128838427.cms",
-    "category": "finance",
-    "title": "JGB yields fall on demand for portfolio adjustment",
-    "summary": "Japan's government bond yields declined on Friday. Investors bought bonds to align portfolios with market indexes. This demand increased as large volumes of Japanese government bonds mature soon. Tokyo price data showed inflation slowed, falling belo",
-    "image": "https://img.etimg.com/photo/msid-128838427,imgsize-106970.cms",
-    "source": "ET",
-    "pubDate": "Fri, 27 Feb 2026 11:21:07 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/jgb-yields-fall-on-demand-for-portfolio-adjustment/articleshow/128838427.cms"
+    "id": "https://www.bbc.com/news/articles/cx2ly3p4q7qo#0",
+    "category": "global",
+    "title": "Gregg Wallace and BBC settle damages claim",
+    "summary": "Court documents state the claim against the BBC and BBC Studios has been \"discontinued\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 27 Feb 2026 08:50:14 GMT",
+    "link": "https://www.bbc.com/news/articles/cx2ly3p4q7qo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526151.html",
@@ -270,6 +200,16 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1526164.html?ex_cid=OTC-RSS"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c4g3l0yzyxdo#0",
+    "category": "global",
+    "title": "Six planets to be visible at same time in celestial 'parade' - here's how to see them",
+    "summary": "Six planets - Mercury, Venus, Saturn, Jupiter, Uranus and Neptune - will all be visible in the night sky.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 27 Feb 2026 06:54:50 GMT",
+    "link": "https://www.bbc.com/news/articles/c4g3l0yzyxdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1526139.html",
     "category": "sports",
     "title": "India in a West Indies frame of mind",
@@ -298,16 +238,6 @@
     "source": "BBC",
     "pubDate": "Fri, 27 Feb 2026 06:02:12 GMT",
     "link": "https://www.bbc.com/news/articles/c1w5848vq51o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c9q5wdeg4j8o#0",
-    "category": "global",
-    "title": "Blackouts and emergency aid: Why the Cuban Revolution faces its biggest threat yet",
-    "summary": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 27 Feb 2026 06:00:38 GMT",
-    "link": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526163.html",
@@ -350,24 +280,14 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1525997.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/weather/articles/c1e9d20pg2lo#0",
+    "id": "https://www.bbc.com/news/articles/c5y6p5ypgmzo#0",
     "category": "global",
-    "title": "UK winter nowhere near a record breaker despite floods and storms",
-    "summary": "While some parts of the country have had a very wet winter and significant flooding, others have actually been drier than normal as Ben Rich explains.",
+    "title": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
+    "summary": "Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 27 Feb 2026 00:06:49 GMT",
-    "link": "https://www.bbc.com/weather/articles/c1e9d20pg2lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cq570d12y9do#0",
-    "category": "global",
-    "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
-    "summary": "The Twitter co-founder says he believes the majority of firms will make similar changes \"within the next year.\"",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 27 Feb 2026 00:06:40 GMT",
-    "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Fri, 27 Feb 2026 04:32:38 GMT",
+    "link": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cge82vq9x9ro#0",
