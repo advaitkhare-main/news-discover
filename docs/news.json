@@ -110,14 +110,14 @@
     "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-news-iran-supreme-leader-ayatollah-ali-khamenei-targeted-in-strikes-israel-11149405#publisher=newsstand"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c20l1v0ldqzo#2",
+    "id": "https://www.bbc.com/news/articles/cx2dyz6p3weo#1",
     "category": "global",
-    "title": "UK planes 'in the sky' in Middle East as part of defensive operation, PM says",
-    "summary": "Sir Keir Starmer says protections for British bases and personnel have been stepped up to their highest level.",
+    "title": "What we know so far: Supreme Leader's compound hit and Iran's retaliatory strikes",
+    "summary": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Kuwait and the UAE.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sat, 28 Feb 2026 19:17:11 GMT",
-    "link": "https://www.bbc.com/news/articles/c20l1v0ldqzo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Sat, 28 Feb 2026 20:06:48 GMT",
+    "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526392.html",
@@ -126,8 +126,28 @@
     "summary": "England Women training camp postponed as board reiterates safety is 'top priority'",
     "image": "http://p.imgci.com/db/PICTURES/CMS/328900/328970.jpg",
     "source": "Cricinfo",
-    "pubDate": "Sat, 28 Feb 2026 19:06:04 GMT",
+    "pubDate": "Sat, 28 Feb 2026 19:34:54 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526392.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cg5nm6v2p4no#1",
+    "category": "global",
+    "title": "Iran retaliation raises questions about US air defences",
+    "summary": "Iran's strike on US Navy base in Bahrain will worry Washington and its allies in the region.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 28 Feb 2026 19:34:00 GMT",
+    "link": "https://www.bbc.com/news/articles/cg5nm6v2p4no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c20l1v0ldqzo#2",
+    "category": "global",
+    "title": "UK planes 'in the sky' in Middle East as part of defensive operation, PM says",
+    "summary": "Sir Keir Starmer says protections for British bases and personnel have been stepped up to their highest level.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 28 Feb 2026 19:17:11 GMT",
+    "link": "https://www.bbc.com/news/articles/c20l1v0ldqzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526314.html",
@@ -210,16 +230,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1526304.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cx2dyz6p3weo#1",
-    "category": "global",
-    "title": "What we know so far: Supreme Leader's compound hit and Iran's retaliatory strikes",
-    "summary": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Kuwait and the UAE.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 28 Feb 2026 17:32:26 GMT",
-    "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/commodities/news/iran-israel-war-up-20-in-2026-crude-oil-stares-at-80-a-barrel/articleshow/128884731.cms",
     "category": "finance",
     "title": "Iran-Israel war: Up 20% in 2026, crude oil stares at $80 a barrel",
@@ -228,16 +238,6 @@
     "source": "ET",
     "pubDate": "Sat, 28 Feb 2026 17:21:13 +0530",
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/iran-israel-war-up-20-in-2026-crude-oil-stares-at-80-a-barrel/articleshow/128884731.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cde46np2nklo#2",
-    "category": "global",
-    "title": "Burnham would probably have won by-election, Labour deputy leader says",
-    "summary": "Lucy Powell tells the BBC that Labour needs to make more use of the Greater Manchester mayor.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 28 Feb 2026 17:10:37 GMT",
-    "link": "https://www.bbc.com/news/articles/cde46np2nklo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526321.html",
@@ -270,7 +270,7 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-tests-support-zone-amid-corrective-market-phase-cautious-week-seen-ahead/articleshow/128881857.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c05v8jzjn40o#1",
+    "id": "https://www.bbc.com/news/articles/c05v8jzjn40o#2",
     "category": "global",
     "title": "Inside Iran, panic as strikes hit but for some it's a moment of relief",
     "summary": "Iranians talk about what is happening inside the country, despite an almost total internet blackout.",
