@@ -30,14 +30,34 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/two-israeli-tv-networks-report-photo-of-khameneis-body-shown-to-trump-netanyahu-11151731#publisher=newsstand",
+    "category": "india",
+    "title": "Photo Of Khamenei's Body Shown To Trump, Netanyahu: Israeli Media",
+    "summary": "\"Senior Israeli officials were informed of Khamenei's elimination,'' according to reports.",
+    "image": "https://c.ndtvimg.com/2025-05/33kku108_ayatollah-ali-khamenei_625x300_20_May_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 01 Mar 2026 01:49:57 +0530",
+    "link": "https://www.ndtv.com/world-news/two-israeli-tv-networks-report-photo-of-khameneis-body-shown-to-trump-netanyahu-11151731#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/ayatollah-ali-khamenei-death-iran-supreme-leader-may-be-no-longer-alive-says-netanyahu-11151611#publisher=newsstand",
     "category": "india",
-    "title": "\"There Are Signs\" Iran Supreme Leader Khamenei Is Dead, Says Netanyahu",
-    "summary": "The Israeli prime minister was addressing reporters hours after the US and Israel carried out strikes on Iran.",
+    "title": "\"There Are Many Signs\" Iran Supreme Leader Khamenei Is Dead, Says Netanyahu",
+    "summary": "Iran Foreign Ministry Spokesperson Esmail Baghaei, however, said the Ayatollah was \"safe and sound\".",
     "image": "https://c.ndtvimg.com/2023-11/dr2j50l_ayatollah-ali-khamenei_625x300_01_November_23.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Sun, 01 Mar 2026 00:44:55 +0530",
+    "pubDate": "Sun, 01 Mar 2026 01:42:45 +0530",
     "link": "https://www.ndtv.com/world-news/ayatollah-ali-khamenei-death-iran-supreme-leader-may-be-no-longer-alive-says-netanyahu-11151611#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/morbi-cops-unearth-charred-remains-of-man-buried-by-family-execution-squad-11151689#publisher=newsstand",
+    "category": "india",
+    "title": "Man Killed, Body Burnt And Buried Over Land Dispute In Gujarat's Morbi",
+    "summary": "Police have recovered the alleged murder weapons (Representational)",
+    "image": "https://c.ndtvimg.com/2024-06/olj5u4a8_police-generic-image_625x300_18_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 01 Mar 2026 01:27:23 +0530",
+    "link": "https://www.ndtv.com/india-news/morbi-cops-unearth-charred-remains-of-man-buried-by-family-execution-squad-11151689#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/ahead-of-iran-attack-cia-assessed-khamenei-would-be-replaced-if-killed-11151624#publisher=newsstand",
@@ -90,24 +110,14 @@
     "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-news-oil-tankers-avoid-strait-of-hormuz-after-naval-warnings-follow-us-strikes-11151554#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-news-iran-israel-news-explosion-at-the-palm-in-dubai-smoke-seen-rising-from-hotel-11150960#publisher=newsstand",
-    "category": "india",
-    "title": "Explosion At The Palm In Dubai, Smoke Seen Rising From Building",
-    "summary": "Dubai residents heard several loud bangs.",
-    "image": "https://c.ndtvimg.com/2026-02/jc81ocko_palm-strike_625x300_28_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 28 Feb 2026 23:59:27 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-news-explosion-at-the-palm-in-dubai-smoke-seen-rising-from-hotel-11150960#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-news-iran-israel-news-iran-supreme-leader-ayatollah-ali-khamenei-targeted-in-strikes-israel-11149405#publisher=newsstand",
-    "category": "india",
-    "title": "First Visual Of US-Israel Strike On Iran Supreme Leader Khamenei's Compound",
-    "summary": "Ayatollah Ali Khamenei was reportedly not in Tehran at the time of strikes.",
-    "image": "https://c.ndtvimg.com/2026-02/fuqk46b4_satellite-image-shows-massive-damage-near-khameneis-house-in-tehran_625x300_28_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 28 Feb 2026 23:50:54 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-news-iran-supreme-leader-ayatollah-ali-khamenei-targeted-in-strikes-israel-11149405#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/c0rjpr575g9o#2",
+    "category": "global",
+    "title": "Flights cancelled as travel warnings issued after strikes on Iran",
+    "summary": "BA, Virgin Atlantic and Wizz Air are among major airlines to overhaul their schedules in light of the attacks.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 28 Feb 2026 20:23:09 GMT",
+    "link": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cx2dyz6p3weo#1",
@@ -288,16 +298,6 @@
     "source": "ET",
     "pubDate": "Sat, 28 Feb 2026 15:31:59 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/iran-israel-tensions-likely-to-trigger-choppy-trade-on-monday-what-should-investors-do/articleshow/128881495.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0rjpr575g9o#2",
-    "category": "global",
-    "title": "Flights cancelled as travel warnings issued after strikes on Iran",
-    "summary": "BA, Virgin Atlantic and Wizz Air are among major airlines to overhaul their schedules in light of the attacks.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 28 Feb 2026 15:16:32 GMT",
-    "link": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/vanguards-india-portfolio-shines-12-stocks-rally-up-to-120-in-fy26-8-fresh-q3-picks/slideshow/128881719.cms",
