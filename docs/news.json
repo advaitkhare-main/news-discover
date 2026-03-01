@@ -120,6 +120,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-worries-push-nifty-it-etfs-down-up-to-21-in-feb-nasdaq-etfs-fall-only-5-heres-why/articleshow/128915040.cms"
   },
   {
+    "id": "https://www.espncricinfo.com/ci/content/story/1526539.html",
+    "category": "sports",
+    "title": "SA coach Conrad embracing 'favourites' tag heading into T20 World Cup semi-finals",
+    "summary": "After securing their seventh straight win at the T20 World Cup, the South Africa head coach feels confident heading into the semi-finals",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/401800/401888.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 01 Mar 2026 16:13:55 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526539.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-likely-to-soar-tomorrow-amid-escalating-middle-east-war-what-lies-ahead/articleshow/128913167.cms",
     "category": "finance",
     "title": "Gold, silver prices likely to soar tomorrow amid escalating Middle East war; what lies ahead?",
@@ -128,6 +138,46 @@
     "source": "ET",
     "pubDate": "Sun, 01 Mar 2026 16:13:33 +0530",
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-likely-to-soar-tomorrow-amid-escalating-middle-east-war-what-lies-ahead/articleshow/128913167.cms"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1526457.html",
+    "category": "sports",
+    "title": "Zimbabwe's return home delayed following West Asia airspace closure",
+    "summary": "ESPNcricinfo understands Zimbabwe were to return home on Emirates flights on Monday, which would take them from Delhi to Dubai to Harare",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413845.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 01 Mar 2026 15:54:52 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526457.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/crrxkjxg1zpo#2",
+    "category": "global",
+    "title": "UK troops and civilians in Middle East put at risk by Iran strikes, Healey says",
+    "summary": "British military personnel at a base in Bahrain were \"within several hundred yards\" of a strike, the defence secretary says.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 01 Mar 2026 15:48:51 GMT",
+    "link": "https://www.bbc.com/news/articles/crrxkjxg1zpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c1l7rvqq51eo#1",
+    "category": "global",
+    "title": "At least 153 dead after reported strike on school, Iran says",
+    "summary": "Iran has blamed the US and Israel for the strike; the US is looking into reports of the incident, while the IDF says it is \"not aware\" of operations in the area.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 01 Mar 2026 15:32:26 GMT",
+    "link": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0rjpr575g9o#2",
+    "category": "global",
+    "title": "Flights cancelled and new travel warnings issued after Iran strikes",
+    "summary": "BA and Virgin Atlantic are among major airlines to ground services to the Middle East in light of the attacks.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 01 Mar 2026 15:22:44 GMT",
+    "link": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-key-factors-that-will-drive-stock-market-action-on-monday/articleshow/128911893.cms",
@@ -160,16 +210,6 @@
     "link": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526457.html",
-    "category": "sports",
-    "title": "Zimbabwe's return home delayed following West Asia airspace closure",
-    "summary": "ESPNcricinfo understands Zimbabwe were to return home on Emirates flights on Monday, which would take them from Delhi to Dubai to Harare",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413845.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 01 Mar 2026 14:54:38 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526457.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/cabinet-clears-iifcls-ipo-plans-modalities-being-finalised-likely-next-fiscal-md-rohit-rishi/articleshow/128911332.cms",
     "category": "finance",
     "title": "Cabinet clears IIFCL's IPO plans; modalities being finalised, likely next fiscal: MD Rohit Rishi",
@@ -182,22 +222,12 @@
   {
     "id": "https://www.bbc.com/news/articles/c86y5540vnno#1",
     "category": "global",
-    "title": "The months-long, US-Israeli mission to find and kill Iran's supreme leader",
+    "title": "The months of planning behind US-Israeli mission to target Iran's supreme leader",
     "summary": "A piece of crucial intelligence arrived just hours before the attack on a compound in central Tehran.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Sun, 01 Mar 2026 14:45:56 GMT",
     "link": "https://www.bbc.com/news/articles/c86y5540vnno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c1l7rvqq51eo#1",
-    "category": "global",
-    "title": "At least 148 dead after reported strike on school, Iran says",
-    "summary": "Iran has blamed the US and Israel for the strike; the US is looking into reports of the incident, while the IDF says it is \"not aware\" of operations in the area.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 01 Mar 2026 14:40:36 GMT",
-    "link": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c4g0pnnj8xyo#1",
@@ -260,16 +290,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1526513.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/crrxkjxg1zpo#2",
-    "category": "global",
-    "title": "UK troops and civilians in Middle East put at risk by Iran strikes, Healey says",
-    "summary": "British military personnel at a base in Bahrain were \"within several hundred yards\" of a strike, the defence secretary says.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 01 Mar 2026 13:45:28 GMT",
-    "link": "https://www.bbc.com/news/articles/crrxkjxg1zpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1526514.html",
     "category": "sports",
     "title": "Unchanged India opt to bowl; Hosein replaces King for West Indies",
@@ -288,16 +308,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 01 Mar 2026 13:16:41 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526449.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0rjpr575g9o#2",
-    "category": "global",
-    "title": "Flights cancelled and new travel warnings issued after Iran strikes",
-    "summary": "BA and Virgin Atlantic are among major airlines to ground services to the Middle East in light of the attacks.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 01 Mar 2026 11:52:57 GMT",
-    "link": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526412.html",
@@ -338,16 +348,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 01 Mar 2026 06:46:52 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526439.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526430.html",
-    "category": "sports",
-    "title": "Nensi Patel and Jess Kerr lead New Zealand to series sweep over Zimbabwe",
-    "summary": "It was yet another one-sided contest, with Zimbabwe restricted to 64 for 9 and New Zealand then cantering past the target in just 5.4 overs without losing a wicket",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414241.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 01 Mar 2026 04:56:53 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526430.html?ex_cid=OTC-RSS"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
