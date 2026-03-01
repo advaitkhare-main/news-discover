@@ -30,64 +30,44 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-likely-to-soar-tomorrow-amid-escalating-middle-east-war-what-lies-ahead/articleshow/128913167.cms",
+    "id": "https://www.ndtv.com/world-news/iran-news-iran-israel-new-explosions-in-dubai-abu-dhabi-doha-manama-as-iran-retaliates-11154278#publisher=newsstand",
+    "category": "india",
+    "title": "New Explosions In Dubai, Abu Dhabi, Doha, Manama As Iran Retaliates",
+    "summary": "Residents have reported hearing fresh explosions in Dubai and other cities",
+    "image": "https://c.ndtvimg.com/2026-03/mksiv8jg_dubai-reuters_625x300_01_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 01 Mar 2026 17:49:03 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-new-explosions-in-dubai-abu-dhabi-doha-manama-as-iran-retaliates-11154278#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/how-to-improve-non-rem-sleep-expert-shares-3-simple-ways-to-improve-deep-sleep-11154157#publisher=newsstand",
+    "category": "india",
+    "title": "How To Improve Non-REM Sleep: Expert Shares 3 Simple Ways To Improve Deep Sleep",
+    "summary": "Nutritionist Anjali Mukherjee shares three simple ways to improve non-REM sleep and wake up feeling refreshed.",
+    "image": "https://c.ndtvimg.com/2026-02/vjghet0o_sleep-quality_625x300_18_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 01 Mar 2026 17:45:08 +0530",
+    "link": "https://www.ndtv.com/health/how-to-improve-non-rem-sleep-expert-shares-3-simple-ways-to-improve-deep-sleep-11154157#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/ayatollah-khamenei-iran-israel-trump-dubai-bahrain-abu-dhabi-ndtv-explainer-how-is-a-supreme-leader-chosen-who-will-succeed-khamenei-11154290#publisher=newsstand",
+    "category": "india",
+    "title": "NDTV Explainer: How Is A Supreme Leader Chosen, Who Will Succeed Khamenei",
+    "summary": "The Iranian constitution assigns the choice of supreme leader to the Assembly of Experts.",
+    "image": "https://c.ndtvimg.com/2026-03/abrf20ps_khamenei_625x300_01_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 01 Mar 2026 17:42:48 +0530",
+    "link": "https://www.ndtv.com/world-news/ayatollah-khamenei-iran-israel-trump-dubai-bahrain-abu-dhabi-ndtv-explainer-how-is-a-supreme-leader-chosen-who-will-succeed-khamenei-11154290#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ai-worries-push-nifty-it-etfs-down-up-to-21-in-feb-nasdaq-etfs-fall-only-5-heres-why/articleshow/128915040.cms",
     "category": "finance",
-    "title": "Gold, silver prices likely to soar tomorrow amid escalating Middle East war; what lies ahead?",
-    "summary": "The prices of gold and silver will remain in focus tomorrow after US-Israel\u2019s strikes on Iran killed the country\u2019s supreme leader, Ayatollah Ali Khamenei. Analysts expect high volatility as elevated geopolitical tensions can push investors towards sa",
-    "image": "https://img.etimg.com/photo/msid-128913167,imgsize-942436.cms",
+    "title": "AI worries push Nifty IT ETFs down up to 21% in Feb, Nasdaq ETFs fall only 5%: Here\u2019s why",
+    "summary": "The Nifty IT index closed February around 20% lower, while the tech-heavy Nasdaq declined only 4% during the same month.",
+    "image": "https://img.etimg.com/photo/msid-128915040,imgsize-84408.cms",
     "source": "ET",
-    "pubDate": "Sun, 01 Mar 2026 16:13:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-likely-to-soar-tomorrow-amid-escalating-middle-east-war-what-lies-ahead/articleshow/128913167.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-news-iran-attacks-oil-tanker-passing-through-strait-of-hormuz-near-coast-of-oman-11153819#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Attacks Oil Tanker In Strait Of Hormuz, 15 Indian Crew Members On Board",
-    "summary": "The Strait of Hormuz is a strategic route for global oil shipping",
-    "image": "https://c.ndtvimg.com/2026-03/va6p7vhc_tanker-hit-near-oman_625x300_01_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 01 Mar 2026 16:13:28 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-news-iran-attacks-oil-tanker-passing-through-strait-of-hormuz-near-coast-of-oman-11153819#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-news-israel-shares-aerial-footage-of-bombing-irans-terror-regime-in-tehran-11153884#publisher=newsstand",
-    "category": "india",
-    "title": "Israel Shares Aerial Footage Of Bombing \"Iran's Terror Regime\" In Tehran",
-    "summary": "Israel released footage of airstrikes on Iranian positions",
-    "image": "https://c.ndtvimg.com/2026-03/s7f8anbk_blast-_625x300_01_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 01 Mar 2026 16:13:13 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-news-israel-shares-aerial-footage-of-bombing-irans-terror-regime-in-tehran-11153884#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/return-to-reason-uae-warns-iran-after-dubai-abu-dhabi-attacked-11153894#publisher=newsstand",
-    "category": "india",
-    "title": "'Return To Reason': UAE Warns Iran After Dubai, Abu Dhabi Attacked",
-    "summary": "Anwar Gargash, warned Iran to not target its neighbours",
-    "image": "https://c.ndtvimg.com/2026-03/3lf627nk_dubai-attack_625x300_01_March_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 01 Mar 2026 16:12:14 +0530",
-    "link": "https://www.ndtv.com/world-news/return-to-reason-uae-warns-iran-after-dubai-abu-dhabi-attacked-11153894#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-news-ayatollah-ali-khamenei-vladimir-putin-khameneis-killing-cynical-violation-of-morality-international-law-putin-11153848#publisher=newsstand",
-    "category": "india",
-    "title": "Khamenei's Killing \"Cynical Violation Of Morality, International Law\": Putin",
-    "summary": "Russian President Vladimir Putin has expressed condolences over the death of Iran's supreme leader Ayatollah Ali Khamenei in US and Israeli strikes as a \"cynical violation\" of morality and law - once again underscoring which side of the divide he is",
-    "image": "https://c.ndtvimg.com/2026-01/67qg0b0c_putin_625x300_22_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 01 Mar 2026 16:11:19 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-news-ayatollah-ali-khamenei-vladimir-putin-khameneis-killing-cynical-violation-of-morality-international-law-putin-11153848#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/khamenei-is-dead-but-is-trumps-iran-problem-over-new-us-challeges-explained-11153794#publisher=newsstand",
-    "category": "india",
-    "title": "Khamenei Dead But Is Trump's Iran Problem Over? New US Challeges Explained",
-    "summary": "Trump argued that he attacked Iran because it rejected to renounce its nuclear programme",
-    "image": "https://c.ndtvimg.com/2026-02/vuqf2or_trump-khamenei_625x300_17_February_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 01 Mar 2026 16:03:21 +0530",
-    "link": "https://www.ndtv.com/world-news/khamenei-is-dead-but-is-trumps-iran-problem-over-new-us-challeges-explained-11153794#publisher=newsstand"
+    "pubDate": "Sun, 01 Mar 2026 17:37:02 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-worries-push-nifty-it-etfs-down-up-to-21-in-feb-nasdaq-etfs-fall-only-5-heres-why/articleshow/128915040.cms"
   },
   {
     "id": "https://www.ndtv.com/world-news/iran-news-khamenei-successor-alireza-arafi-appointed-to-irans-leadership-council-after-ayatollah-ali-khamenei-killed-in-us-israel-strikes-11153802#publisher=newsstand",
@@ -96,28 +76,58 @@
     "summary": "Senior Iranian leader Alireza Arafi was on Sunday appointed as the jurist member of Iran's Leadership Council, a body tasked with fulfilling the Supreme Leader's role until the Assembly of Experts elects a new leader, Iranian state media reported.",
     "image": "https://c.ndtvimg.com/2026-03/732nlh3s_ayatollah-arafi_625x300_01_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Sun, 01 Mar 2026 16:00:59 +0530",
+    "pubDate": "Sun, 01 Mar 2026 17:29:16 +0530",
     "link": "https://www.ndtv.com/world-news/iran-news-khamenei-successor-alireza-arafi-appointed-to-irans-leadership-council-after-ayatollah-ali-khamenei-killed-in-us-israel-strikes-11153802#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/dubai-abu-dhabi-khameini-israel-attacks-iran-bahrains-5-star-hotel-complex-crowne-plaza-manama-shrouded-in-smoke-amid-irans-retaliation-11154220#publisher=newsstand",
     "category": "india",
-    "title": "US-Israel Attacks Iran LIVE Updates: \"Khamenei Killing Declaration Of War Against Muslims\": Iran President",
-    "summary": "Israel Iran Conflict LIVE Updates: Iran's state TV has confirmed the death of Ali Khamenei",
-    "image": "https://c.ndtvimg.com/2026-03/blhe8us4_iran_625x300_01_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Bahrain's 5-Star Hotel Complex Shrouded In Smoke Amid Iran's Retaliation",
+    "summary": "The fresh attack comes hours after Iran vowed to avenge Khamenei's death.",
+    "image": "https://c.ndtvimg.com/2026-03/magjq48o_crown_625x300_01_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Sun, 01 Mar 2026 15:51:21 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
+    "pubDate": "Sun, 01 Mar 2026 17:26:54 +0530",
+    "link": "https://www.ndtv.com/world-news/dubai-abu-dhabi-khameini-israel-attacks-iran-bahrains-5-star-hotel-complex-crowne-plaza-manama-shrouded-in-smoke-amid-irans-retaliation-11154220#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/we-belong-to-god-iran-embassy-in-islamabad-posts-image-with-khamenei-s-robe-scarf-on-empty-chair-11153466#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/delhi-sarvodaya-vidyalaya-to-start-nursery-class-1-admissions-for-2026-27-on-march-2-11154173#publisher=newsstand",
     "category": "india",
-    "title": "\"We Belong To God\": Iran Embassy In Pak Shares Post With Khamenei's Robe",
-    "summary": "Iran's supreme leader Ayatollah Ali Khamenei was killed in a joint Israeli-US attack",
-    "image": "https://c.ndtvimg.com/2021-05/254soh38_ayatollah-ali-khamenei-afp_625x300_07_May_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Delhi Sarvodaya Vidyalaya To Start Nursery, Class 1 Admissions For 2026-27 On March 2",
+    "summary": "Admission Guidelines Released For Sarvodaya Vidyalaya Schools In Delhi",
+    "image": "https://i.ndtvimg.com/i/2017-12/nursery-admission_650x400_41513753215.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Sun, 01 Mar 2026 15:50:37 +0530",
-    "link": "https://www.ndtv.com/world-news/we-belong-to-god-iran-embassy-in-islamabad-posts-image-with-khamenei-s-robe-scarf-on-empty-chair-11153466#publisher=newsstand"
+    "pubDate": "Sun, 01 Mar 2026 17:13:42 +0530",
+    "link": "https://www.ndtv.com/education/delhi-sarvodaya-vidyalaya-to-start-nursery-class-1-admissions-for-2026-27-on-march-2-11154173#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-news-israel-shares-aerial-footage-of-bombing-irans-terror-regime-in-tehran-11153884#publisher=newsstand",
+    "category": "india",
+    "title": "Israel Shares Aerial Footage Of Bombing \"Iran's Terror Regime\" In Tehran",
+    "summary": "Israel released footage of airstrikes on Iranian positions",
+    "image": "https://c.ndtvimg.com/2026-03/s7f8anbk_blast-_625x300_01_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 01 Mar 2026 17:11:13 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-news-israel-shares-aerial-footage-of-bombing-irans-terror-regime-in-tehran-11153884#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/can-a-spoonful-of-peanut-butter-improve-muscle-function-this-and-other-benefits-explained-11154104#publisher=newsstand",
+    "category": "india",
+    "title": "Can A Spoonful Of Peanut Butter Improve Muscle Function? This And Other Benefits Explained",
+    "summary": "The new trial tested whether peanut butter supplementation improves physical function, muscle strength, and muscle mass in older adults at risk of falls.",
+    "image": "https://c.ndtvimg.com/2023-05/fekf1vmo_peanut-butter-1_625x300_30_May_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 01 Mar 2026 17:08:10 +0530",
+    "link": "https://www.ndtv.com/health/can-a-spoonful-of-peanut-butter-improve-muscle-function-this-and-other-benefits-explained-11154104#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-likely-to-soar-tomorrow-amid-escalating-middle-east-war-what-lies-ahead/articleshow/128913167.cms",
+    "category": "finance",
+    "title": "Gold, silver prices likely to soar tomorrow amid escalating Middle East war; what lies ahead?",
+    "summary": "The prices of gold and silver will remain in focus tomorrow after US-Israel\u2019s strikes on Iran killed the country\u2019s supreme leader, Ayatollah Ali Khamenei. Analysts expect high volatility as elevated geopolitical tensions can push investors towards sa",
+    "image": "https://img.etimg.com/photo/msid-128913167,imgsize-942436.cms",
+    "source": "ET",
+    "pubDate": "Sun, 01 Mar 2026 16:13:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-likely-to-soar-tomorrow-amid-escalating-middle-east-war-what-lies-ahead/articleshow/128913167.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-key-factors-that-will-drive-stock-market-action-on-monday/articleshow/128911893.cms",
@@ -180,14 +190,14 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-the-great-disruptor-and-where-smart-money-is-moving/articleshow/128910727.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/is-broader-market-under-the-grip-of-a-stealth-sell-off/articleshow/128910652.cms",
-    "category": "finance",
-    "title": "Is broader market under the grip of a stealth sell-off?",
-    "summary": "There has been a seismic shift in the market dynamics since November 2025. Until then, markets were largely range-bound in a side-ways setup. The indices weren\u2019t doing much, but stock-specific, bottom-up investing was being rewarded. The broader mark",
-    "image": "https://img.etimg.com/photo/msid-128910652,imgsize-13770.cms",
-    "source": "ET",
-    "pubDate": "Sun, 01 Mar 2026 14:14:06 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/is-broader-market-under-the-grip-of-a-stealth-sell-off/articleshow/128910652.cms"
+    "id": "https://www.bbc.com/news/articles/c363zkp1pgxo#1",
+    "category": "global",
+    "title": "One killed and 11 injured at Dubai and Abu Dhabi airports as Iran strikes region",
+    "summary": "Falling debris from intercepted Iranian drones and missiles cause widespread damage across the Gulf.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 01 Mar 2026 12:12:02 GMT",
+    "link": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/crrxkjxg1zpo#2",
@@ -196,8 +206,38 @@
     "summary": "British military personnel at a base in Bahrain were \"within several hundred yards\" of a strike, the defence secretary says.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sun, 01 Mar 2026 11:01:05 GMT",
+    "pubDate": "Sun, 01 Mar 2026 12:10:37 GMT",
     "link": "https://www.bbc.com/news/articles/crrxkjxg1zpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0rjpr575g9o#2",
+    "category": "global",
+    "title": "Flights cancelled and new travel warnings issued after Iran strikes",
+    "summary": "BA and Virgin Atlantic are among major airlines to ground services to the Middle East in light of the attacks.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 01 Mar 2026 11:52:57 GMT",
+    "link": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1526412.html",
+    "category": "sports",
+    "title": "Healy plunders 158 off 98 balls in final ODI as Australia secure huge win",
+    "summary": "Beth Mooney also struck an unbeaten century as India's bowlers were flayed around Hobart",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414249.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 01 Mar 2026 11:49:46 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526412.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c1l7rvqq51eo#1",
+    "category": "global",
+    "title": "At least 148 dead after reported strike on school, Iran says",
+    "summary": "Iran has blamed the US and Israel for the strike; the US is looking into reports of the incident, while the IDF says it is \"not aware\" of operations in the area.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 01 Mar 2026 11:40:44 GMT",
+    "link": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cx2dyz6p3weo#1",
@@ -210,16 +250,6 @@
     "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c363zkp1pgxo#1",
-    "category": "global",
-    "title": "One killed and 11 injured at Dubai and Abu Dhabi airports as Iran strikes region",
-    "summary": "Falling debris from intercepted Iranian drones and missiles cause widespread damage across the Gulf.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 01 Mar 2026 10:01:37 GMT",
-    "link": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1526473.html",
     "category": "sports",
     "title": "Zimbabwe bat with injuries to Ngarava, Musekiwa; Three changes for SA",
@@ -230,16 +260,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1526473.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c0rjpr575g9o#2",
-    "category": "global",
-    "title": "Flights in and out of Middle East cancelled and diverted after Iran strikes",
-    "summary": "BA and Virgin Atlantic are among major airlines to ground services to the Middle East in light of the attacks.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 01 Mar 2026 08:49:32 GMT",
-    "link": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1526449.html",
     "category": "sports",
     "title": "'All contingencies covered' as NZ wait for Matt Henry to come back",
@@ -248,16 +268,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 01 Mar 2026 08:07:45 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526449.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526412.html",
-    "category": "sports",
-    "title": "Healy plunders 158 off 98 balls in final ODI; Australia pile up 409",
-    "summary": "Beth Mooney also struck an unbeaten century as India's bowlers were flayed around Hobart",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414249.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 01 Mar 2026 07:51:50 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526412.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526439.html",
@@ -310,6 +320,16 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1526413.html?ex_cid=OTC-RSS"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c79572zx234o#2",
+    "category": "global",
+    "title": "The real winners and losers at the Brit Awards",
+    "summary": "From Harry Styles' trousers, to Jade's red carpet confession - here's what went down at the Brits.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 01 Mar 2026 02:39:16 GMT",
+    "link": "https://www.bbc.com/news/articles/c79572zx234o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cn48dwm818no#1",
     "category": "global",
     "title": "Trump's bet on Iranian regime change could be his biggest gamble yet",
@@ -320,16 +340,6 @@
     "link": "https://www.bbc.com/news/articles/cn48dwm818no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c3gdnpjvj4ko#1",
-    "category": "global",
-    "title": "How Ayatollah Khamenei kept an iron grip on power for almost 40 years",
-    "summary": "Iranian state TV confirms the supreme leader has been killed on the first day of massive US and Israeli air strikes on the country.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 01 Mar 2026 01:47:42 GMT",
-    "link": "https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1526404.html",
     "category": "sports",
     "title": "Test match dropped from Australia tour of West Indies",
@@ -338,16 +348,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 01 Mar 2026 00:39:32 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526404.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cre0xy1w1n3o#2",
-    "category": "global",
-    "title": "Olivia Dean crowned new UK queen of pop as Brit Awards hit the north",
-    "summary": "The singer won four awards, including best artist and album, as the Brits headed to Manchester.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 28 Feb 2026 23:29:07 GMT",
-    "link": "https://www.bbc.com/news/articles/cre0xy1w1n3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
