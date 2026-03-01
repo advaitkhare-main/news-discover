@@ -30,14 +30,14 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cp32ddzdjxko#2",
+    "id": "https://www.bbc.com/news/articles/cgjznzgly0po#2",
     "category": "global",
-    "title": "Major changes to asylum system set to come into force",
-    "summary": "From Monday, asylum seekers granted refugee status in the UK will be offered only temporary protection.",
+    "title": "Deadly Texas bar shooting 'potentially act of terrorism', FBI says",
+    "summary": "Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sun, 01 Mar 2026 22:04:54 GMT",
-    "link": "https://www.bbc.com/news/articles/cp32ddzdjxko?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Sun, 01 Mar 2026 23:17:32 GMT",
+    "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cqj9g11p1ezo#1",
@@ -46,8 +46,28 @@
     "summary": "The prime minister says it remains the case that the UK will \"not join offensive action now\".",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sun, 01 Mar 2026 21:59:04 GMT",
+    "pubDate": "Sun, 01 Mar 2026 22:56:45 GMT",
     "link": "https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cdjm8pn0ld8o#2",
+    "category": "global",
+    "title": "UK mounts operation to support thousands of Britons in Middle East",
+    "summary": "Officials are understood to be working on plans to evacuate British nationals, should airspace remain closed.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 01 Mar 2026 22:21:33 GMT",
+    "link": "https://www.bbc.com/news/articles/cdjm8pn0ld8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cp32ddzdjxko#2",
+    "category": "global",
+    "title": "Major changes to asylum system set to come into force",
+    "summary": "From Monday, asylum seekers granted refugee status in the UK will be offered only temporary protection.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 01 Mar 2026 22:04:54 GMT",
+    "link": "https://www.bbc.com/news/articles/cp32ddzdjxko?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526588.html",
@@ -98,16 +118,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 01 Mar 2026 18:24:41 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526556.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0rjpr575g9o#2",
-    "category": "global",
-    "title": "Flights cancelled and new travel warnings issued after Iran strikes",
-    "summary": "BA and Virgin Atlantic are among major airlines to ground services to the Middle East in light of the attacks.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 01 Mar 2026 18:05:14 GMT",
-    "link": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cx2lgvg5rl1o#1",
@@ -250,16 +260,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-the-great-disruptor-and-where-smart-money-is-moving/articleshow/128910727.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c70n99e396jo#2",
-    "category": "global",
-    "title": "Catherine shares first message entirely in Welsh for St David's Day",
-    "summary": "The Princess of Wales says Wales is \"very close to our hearts\" in video message.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 01 Mar 2026 14:11:49 GMT",
-    "link": "https://www.bbc.com/news/articles/c70n99e396jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1526513.html",
     "category": "sports",
     "title": "South Africa go into semis unbeaten despite Raza's heroics",
@@ -300,13 +300,33 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
+    "id": "https://www.ndtv.com/world-news/israel-iran-war-tehran-khamenei-uae-dubai-us-can-use-british-military-bases-for-iran-missile-strikes-uk-pm-starmer-11156174#publisher=newsstand",
+    "category": "india",
+    "title": "US Can Use British Military Bases For Iran Missile Strikes: UK PM Starmer",
+    "summary": "Starmer reiterated that Britain was not involved in the joint US-Israel air strikes",
+    "image": "https://c.ndtvimg.com/2026-02/4i6fsb8k_keir-starmer_625x300_27_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 04:06:25 +0530",
+    "link": "https://www.ndtv.com/world-news/israel-iran-war-tehran-khamenei-uae-dubai-us-can-use-british-military-bases-for-iran-missile-strikes-uk-pm-starmer-11156174#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/israel-iran-war-tehran-khamenei-uae-dubai-us-says-3-troops-killed-5-seriously-wounded-during-iran-attacks-11156163#publisher=newsstand",
+    "category": "india",
+    "title": "US Says 3 Troops Killed, 5 Seriously Wounded During Iran Attacks",
+    "summary": "Trump has launched several military operations during his second term",
+    "image": "https://c.ndtvimg.com/2026-03/q9bqc4ho_donald-trump-warning-to-iran-_625x300_01_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 04:01:53 +0530",
+    "link": "https://www.ndtv.com/world-news/israel-iran-war-tehran-khamenei-uae-dubai-us-says-3-troops-killed-5-seriously-wounded-during-iran-attacks-11156163#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/israel-iran-war-tehran-khamenei-uae-dubai-6-injured-in-jerusalem-after-iran-missile-barrage-report-11156066#publisher=newsstand",
     "category": "india",
     "title": "6 Injured In Jerusalem After Iran Missile Barrage: Report",
     "summary": "Israeli police said searches were being conducted in the Jerusalem",
-    "image": "https://c.ndtvimg.com/2019-06/1d5dqf78_missile-generic-rocket-generic_625x300_05_June_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "image": "https://c.ndtvimg.com/2026-03/irb9hrus_jerusalem_625x300_02_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 02:56:10 +0530",
+    "pubDate": "Mon, 02 Mar 2026 03:36:13 +0530",
     "link": "https://www.ndtv.com/world-news/israel-iran-war-tehran-khamenei-uae-dubai-6-injured-in-jerusalem-after-iran-missile-barrage-report-11156066#publisher=newsstand"
   },
   {
@@ -358,26 +378,6 @@
     "source": "NDTV",
     "pubDate": "Mon, 02 Mar 2026 00:59:41 +0530",
     "link": "https://www.ndtv.com/india-news/2-ministers-team-india-cricketer-under-adjudication-for-bengal-voter-list-11155900#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/iran-israel-tehran-pm-modi-chairs-high-level-security-meet-over-iran-israel-situation-11155863#publisher=newsstand",
-    "category": "india",
-    "title": "PM Modi Chairs High-Level Security Meet Over Iran-Israel Situation",
-    "summary": "Prime Minister Narendra Modi on Sunday night chaired a meeting of the Cabinet Committee on Security, the highest decision-making body on security and strategic matters of the country.",
-    "image": "https://c.ndtvimg.com/2026-03/st99uot4_pm-modi-meet-_625x300_02_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 00:44:30 +0530",
-    "link": "https://www.ndtv.com/india-news/iran-israel-tehran-pm-modi-chairs-high-level-security-meet-over-iran-israel-situation-11155863#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/srinagars-lal-chowk-sealed-off-amid-protests-over-khameneis-death-11155841#publisher=newsstand",
-    "category": "india",
-    "title": "Srinagar's Lal Chowk Sealed Off Amid Protests Over Khamenei's Death",
-    "summary": "Lal Chowk, the epicentre of the protests, has been sealed off.",
-    "image": "https://c.ndtvimg.com/2026-03/h7s1ab2k_lala-chowk_625x300_02_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 00:31:37 +0530",
-    "link": "https://www.ndtv.com/india-news/srinagars-lal-chowk-sealed-off-amid-protests-over-khameneis-death-11155841#publisher=newsstand"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
