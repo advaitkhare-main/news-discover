@@ -20,6 +20,16 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://www.ndtv.com/india-news/tamil-nadu-deepam-row-court-suggests-5-person-team-light-lamp-on-hill-11160872#publisher=newsstand",
+    "category": "india",
+    "title": "Tamil Nadu Deepam Row: Court Suggests 5-Person Team Light Lamp On Hill",
+    "summary": "A group of five persons named by the court could be permitted to proceed to the hilltop pillar known as Deepathoon to offer symbolic prayers for 15 minutes, the Madurai Bench of the Madras High Court has suggested.",
+    "image": "https://c.ndtvimg.com/2025-12/j5kr721_karthigai-deepam-_625x300_10_December_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 03 Mar 2026 00:56:22 +0530",
+    "link": "https://www.ndtv.com/india-news/tamil-nadu-deepam-row-court-suggests-5-person-team-light-lamp-on-hill-11160872#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/no-us-boots-on-iran-yet-but-will-go-as-far-as-needed-pete-hegseth-11159583#publisher=newsstand",
     "category": "india",
     "title": "No US Boots On Iran Yet, But Will Go As Far As Needed: Pete Hegseth",
@@ -90,16 +100,6 @@
     "link": "https://www.ndtv.com/world-news/israel-attacks-iran-pm-modi-speaks-to-saudi-crown-prince-other-gulf-leaders-on-iran-conflict-11160762#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-aircraft-leave-spain-after-it-refuses-use-of-bases-for-iran-attacks-11160812#publisher=newsstand",
-    "category": "india",
-    "title": "US Aircraft Leave Spain After It Refuses Use Of Bases For Iran Attacks",
-    "summary": "Fifteen US aircraft have left the Rota and Moron military bases in southern Spain since the US and Israel launched weekend attacks on Iran, maps by flight tracking website FlightRadar24 showed on Monday.",
-    "image": "https://c.ndtvimg.com/2026-03/i0vlq94_f15e-strike-eagle_625x300_02_March_26.jpg",
-    "source": "NDTV",
-    "pubDate": "Tue, 03 Mar 2026 00:16:41 +0530",
-    "link": "https://www.ndtv.com/world-news/us-aircraft-leave-spain-after-it-refuses-use-of-bases-for-iran-attacks-11160812#publisher=newsstand"
-  },
-  {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
     "category": "scitech",
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -150,6 +150,16 @@
     "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-worst-day-in-a-month-ends-at-91-48/1-amid-us-israel-and-iran-war/articleshow/128950899.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cly8gqj9r6go#1",
+    "category": "global",
+    "title": "What is behind the strategy to take out Iran's leadership?",
+    "summary": "Security correspondent Gordon Corera looks at what is likely to happen now that joint US and Israeli attacks have taken out some of the Iran's most senior leadership.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 02 Mar 2026 21:27:17 GMT",
+    "link": "https://www.bbc.com/news/articles/cly8gqj9r6go?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/clean-max-enviro-energy-bulk-deal-citigroup-sells-8-3-lakh-shares-worth-rs-70-crore/articleshow/128950302.cms",
     "category": "finance",
     "title": "Clean Max Enviro Energy bulk deal: Citigroup sells 8.3 lakh shares worth Rs 70 crore",
@@ -198,16 +208,6 @@
     "source": "ET",
     "pubDate": "Mon, 02 Mar 2026 20:07:19 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-nasdaq-drops-over-1-on-fears-of-protracted-middle-east-conflict/articleshow/128949371.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cly8gqj9r6go#1",
-    "category": "global",
-    "title": "What is behind the strategy to take out Iran's leadership?",
-    "summary": "Security correspondent Gordon Corera looks at what is likely to happen now that joint US and Israeli attacks have taken out some of the Iran's most senior leadership.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 02 Mar 2026 19:52:20 GMT",
-    "link": "https://www.bbc.com/news/articles/cly8gqj9r6go?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cj0dnq2v0e2o#1",
@@ -262,7 +262,7 @@
   {
     "id": "https://www.bbc.com/news/articles/c178z0p902vo#1",
     "category": "global",
-    "title": "Three days in, we still have no idea where this war is heading",
+    "title": "Jeremy Bowen: Three days in, we still have no idea where this war is heading",
     "summary": "It's hard to predict how the war will end - but those fighting know how they would like it to.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
