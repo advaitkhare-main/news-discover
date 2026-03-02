@@ -30,16 +30,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/videos/cvgk8vj56v1o#1",
-    "category": "global",
-    "title": "Watch: Retaliations continue on day two of US-Israel attacks on Iran",
-    "summary": "Donald Trump warned of more US deaths after three US service members have been killed in action on the second day of US-Israel attack on Iran.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 01 Mar 2026 23:18:27 GMT",
-    "link": "https://www.bbc.com/news/videos/cvgk8vj56v1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cgjznzgly0po#2",
     "category": "global",
     "title": "Deadly Texas bar shooting 'potentially act of terrorism', FBI says",
@@ -130,9 +120,129 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/forget-equities-load-up-on-gold-and-mining-stocks-ajay-srivastava-makes-a-case-for-portfolio-overhaul/articleshow/128944159.cms",
+    "category": "finance",
+    "title": "Forget equities, load up on gold and mining stocks:  Ajay Srivastava makes a case for portfolio overhaul",
+    "summary": "Amidst Middle East tensions, Ajay Srivastava advocates a 33-33-33 portfolio of precious metals, Indian equities, and international stocks. He advises against FMCG and domestic consumption, favoring hard assets like gold, silver, and base metals due t",
+    "image": "https://img.etimg.com/photo/msid-128944159,imgsize-16064.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 15:59:34 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/forget-equities-load-up-on-gold-and-mining-stocks-ajay-srivastava-makes-a-case-for-portfolio-overhaul/articleshow/128944159.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-top-intelligence-officials-killed-in-saturdays-strikes-on-iran-israel-11158247#publisher=newsstand",
+    "category": "india",
+    "title": "Top Intelligence Officials Killed In Saturday's Strikes On Iran: Israel",
+    "summary": "Israel had earlier said at least 40 top Iranian commanders and leaders were killed",
+    "image": "https://c.ndtvimg.com/2026-03/l2qmdt1g_tehran-attack_650x400_02_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 15:43:17 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-top-intelligence-officials-killed-in-saturdays-strikes-on-iran-israel-11158247#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-us-used-claude-ai-to-attack-iran-us-made-lucas-drones-iran-shahed-kamikaze-suicide-drones-cyberwarfare-11158183#publisher=newsstand",
+    "category": "india",
+    "title": "Cheap Drones, Claude AI, Cyberattacks: US-Israel's War On Iran",
+    "summary": "US-Israel's 'Epic Fury' strikes on Iran blend billion-dollar F-22s/Tomahawks with cheap LUCAS drones ($35k), Claude AI targeting, and cyber hacks (BadeSaba app, blackouts).",
+    "image": "https://c.ndtvimg.com/2026-03/kpbif2jo_lucas-drone-used-by-us-in-iran_625x300_02_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 15:43:12 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-us-used-claude-ai-to-attack-iran-us-made-lucas-drones-iran-shahed-kamikaze-suicide-drones-cyberwarfare-11158183#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/lts-5-drop-an-overreaction-but-the-middle-east-risk-is-real-says-sumit-kishore-of-axis-capital/articleshow/128943632.cms",
+    "category": "finance",
+    "title": "L&amp;T's 5% drop an overreaction but the Middle East risk is real, says Sumit Kishore of Axis Capital",
+    "summary": "Larsen &amp; Toubro shares fell nearly 5% amid Middle East tensions, but an analyst believes it's too early to cut earnings estimates. While the company has substantial exposure to the region, its diversified project footprint and strong order pipeli",
+    "image": "https://img.etimg.com/photo/msid-128943632,imgsize-20318.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 15:38:21 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/lts-5-drop-an-overreaction-but-the-middle-east-risk-is-real-says-sumit-kishore-of-axis-capital/articleshow/128943632.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-news-iran-shares-video-of-f-15-fighter-jet-spiralling-crashing-in-kuwait-11157056#publisher=newsstand",
+    "category": "india",
+    "title": "F-15 Seen Crashing On Camera, Kuwait Says Several US Warplanes Fell",
+    "summary": "Iran claimed Monday it shot down a F-15 fighter jet as the war with US-backed Israel entered a third day, dragging the West Asia region and the world into a second major military conflict.",
+    "image": "https://c.ndtvimg.com/2026-03/trr9432g_us-fighter-jet_650x400_02_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 15:36:31 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-news-iran-shares-video-of-f-15-fighter-jet-spiralling-crashing-in-kuwait-11157056#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/india-trails-china-in-health-insurance-customisation-despite-rapid-digital-growth-report-11158086#publisher=newsstand",
+    "category": "india",
+    "title": "India Trails China In Health Insurance Customisation Despite Rapid Digital Growth: Report",
+    "summary": "Around 50 per cent of insurers in India provide customisation support for clients with more than 1,000 employees, which is lower than the 92 per cent reported in China, according to a report released on Monday.",
+    "image": "https://c.ndtvimg.com/2026-02/a1953jd4_health-insurance_625x300_20_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 15:31:29 +0530",
+    "link": "https://www.ndtv.com/health/india-trails-china-in-health-insurance-customisation-despite-rapid-digital-growth-report-11158086#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/what-is-the-best-time-to-drink-coffee-for-maximum-energy-boost-11158194#publisher=newsstand",
+    "category": "india",
+    "title": "What Is The Best Time To Drink Coffee For Maximum Energy Boost?",
+    "summary": "Coffee contains caffeine, which is a natural stimulant",
+    "image": "https://c.ndtvimg.com/2026-03/vf9dhjsg_coffee-at-office_625x300_02_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 15:29:47 +0530",
+    "link": "https://www.ndtv.com/health/what-is-the-best-time-to-drink-coffee-for-maximum-energy-boost-11158194#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/as-india-targets-a-1020-trillion-economy-fixed-income-deserves-a-larger-role-in-portfolios-vineet-agrawal/articleshow/128943520.cms",
+    "category": "finance",
+    "title": "As India targets a $10\u201320 trillion economy, fixed income deserves a larger role in portfolios: Vineet Agrawal",
+    "summary": "Global markets face geopolitical risks and trade disruptions. Investors are increasingly seeking stability in portfolios. Fixed income instruments offer predictable cash flows and diversification. India's economic growth necessitates a stronger role ",
+    "image": "https://img.etimg.com/photo/msid-128943520,imgsize-2339180.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 15:28:39 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/as-india-targets-a-1020-trillion-economy-fixed-income-deserves-a-larger-role-in-portfolios-vineet-agrawal/articleshow/128943520.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/chennai-doctors-launch-first-ever-universal-health-code-for-the-human-body-11157761#publisher=newsstand",
+    "category": "india",
+    "title": "Chennai Doctors Launch First-Ever Universal Health Code For The Human Body",
+    "summary": "The book simplifies human physiology in an easy and illustrated way to empower people with knowledge which will help them make better choices about food, lifestyle and preventive health.",
+    "image": "https://c.ndtvimg.com/2026-03/nj8u5rks_universal-health-code_625x300_02_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 15:26:33 +0530",
+    "link": "https://www.ndtv.com/health/chennai-doctors-launch-first-ever-universal-health-code-for-the-human-body-11157761#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-saudi-arabia-denies-reports-it-lobbied-trump-to-attack-iran-11158207#publisher=newsstand",
+    "category": "india",
+    "title": "Saudi Arabia Denies Reports It Lobbied Trump To Attack Iran",
+    "summary": "Saudi Prince made private phone calls to Trump last month pushing for a strike on Iran, said reports",
+    "image": "https://c.ndtvimg.com/2026-03/6pel1i68_trump-saudi-prince-afp_625x300_01_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 15:25:21 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-saudi-arabia-denies-reports-it-lobbied-trump-to-attack-iran-11158207#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/iran-israel-war-iran-conflict-iran-news-saudi-aramco-shuts-ras-tanura-refinery-after-irans-drone-attacks-11158043#publisher=newsstand",
+    "category": "india",
+    "title": "Saudi Aramco Shuts Ras Tanura Refinery After Iran's Drone Attacks",
+    "summary": "Two drones were intercepted at Ras Tanura, with debris causing limited fire, said Saudi defence ministry.",
+    "image": "https://c.ndtvimg.com/2026-03/dhvhifd8_saudi-arabia-ras-tanura-facility_625x300_02_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 15:23:50 +0530",
+    "link": "https://www.ndtv.com/india-news/iran-israel-war-iran-conflict-iran-news-saudi-aramco-shuts-ras-tanura-refinery-after-irans-drone-attacks-11158043#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-to-double-at-10000-in-next-5-years-jefferies-chris-wood-makes-bold-prediction/articleshow/128943442.cms",
+    "category": "finance",
+    "title": "Gold price to double at $10,000 in next 5 years? Jefferies\u2019 Chris Wood makes bold prediction!",
+    "summary": "Chris Wood of Jefferies sees gold potentially hitting $10,000 in five years, backed by geopolitical tensions, central bank accumulation and structural shifts in global reserves. He flags short-term consolidation risks but maintains a long-term bullis",
+    "image": "https://img.etimg.com/photo/msid-128943442,imgsize-83332.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 15:19:56 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-to-double-at-10000-in-next-5-years-jefferies-chris-wood-makes-bold-prediction/articleshow/128943442.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-shares-plunge-6-as-escalating-iran-israel-war-spark-concerns-around-haifa-port/articleshow/128942878.cms",
     "category": "finance",
-    "title": "Adani Ports shares plunge 6% as escalating Iran-Israel war spark concerns around Haifa port",
+    "title": "Adani Ports shares plunge 6% as escalating Iran-Israel war sparks concerns around Haifa port",
     "summary": "Adani Ports shares fell sharply as the Iran\u2013Israel conflict intensified, raising concerns over potential disruptions at its Haifa Port operations. While the company said all assets remain secure, escalating retaliatory strikes and rising geopolitical",
     "image": "https://img.etimg.com/photo/msid-128942878,imgsize-32066.cms",
     "source": "ET",
@@ -164,140 +274,10 @@
     "category": "finance",
     "title": "Stock Market Holi Holiday 2026: Will NSE &amp; BSE be closed on March 3 or 4?",
     "summary": "Indian stock markets, BSE and NSE, will be closed on Tuesday, March 3, for the Holi holiday. The Multi Commodity Exchange of India will have a partial closure. The National Commodity &amp; Derivatives Exchange will remain shut all day. The article al",
-    "image": "https://img.etimg.com/photo/msid-128942634,imgsize-7268.cms",
+    "image": "https://img.etimg.com/photo/msid-128942634,imgsize-3459771.cms",
     "source": "ET",
     "pubDate": "Mon, 02 Mar 2026 14:35:21 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holi-holiday-2026-will-nse-bse-be-closed-on-march-3-or-4/articleshow/128942634.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/german-2-year-bond-yields-nudge-higher-as-middle-east-conflict-sparks-inflation-concerns/articleshow/128942448.cms",
-    "category": "finance",
-    "title": "German 2-year bond yields nudge higher as Middle East conflict sparks inflation concerns",
-    "summary": "Short-dated euro zone government bond yields nudged above multi-month \u200blows on Monday, as concern mounted \u200bover the impact of prolonged conflict in the Middle East \u200bon global growth and inflation.",
-    "image": "https://img.etimg.com/photo/msid-128942448,imgsize-42278.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 14:29:27 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/german-2-year-bond-yields-nudge-higher-as-middle-east-conflict-sparks-inflation-concerns/articleshow/128942448.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-bitcoin-and-safe-havens-christopher-wood-on-navigating-global-market-risks/articleshow/128942379.cms",
-    "category": "finance",
-    "title": "Gold, Bitcoin, and safe havens: Christopher Wood on navigating global market risks",
-    "summary": "Christopher Wood advises caution for leveraged gold investors, suggesting a 6-18 month consolidation period but sees gold reaching $10,000 in five years. He highlights gold and oil stocks as key hedges against geopolitical risks. Wood also discusses ",
-    "image": "https://img.etimg.com/photo/msid-128942379,imgsize-5990.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 14:23:10 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-bitcoin-and-safe-havens-christopher-wood-on-navigating-global-market-risks/articleshow/128942379.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/european-shares-touch-two-week-lows-on-middle-east-conflict/articleshow/128942358.cms",
-    "category": "finance",
-    "title": "European shares touch two-week lows on Middle East conflict",
-    "summary": "European markets tumbled Monday as Middle East tensions escalated, pushing energy and defense stocks higher.  The STOXX 600 saw a significant drop, its lowest since mid-February.  Airlines and banks bore the brunt of the sell-off, while oil prices an",
-    "image": "https://img.etimg.com/photo/msid-128942358,imgsize-44356.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 14:21:25 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/european-shares-touch-two-week-lows-on-middle-east-conflict/articleshow/128942358.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-doubled-their-stake-in-6-stocks-3-surge-over-15-just-2-months/slideshow/128942424.cms",
-    "category": "finance",
-    "title": "FIIs doubled their stake in 6 stocks; 3 surge over 15% just 2 months",
-    "summary": "FIIs boosted stakes across 300+ stocks in Q3 FY26\u2014doubling exposure in six names\u2014though returns since January have diverged sharply.",
-    "image": "https://img.etimg.com/photo/msid-128942070,imgsize-981886.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 14:07:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-doubled-their-stake-in-6-stocks-3-surge-over-15-just-2-months/slideshow/128942424.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-israel-war-ras-tanura-irans-drones-hit-aramco-oil-refinery-in-saudi-arabia-11157608#publisher=newsstand",
-    "category": "india",
-    "title": "On Camera: Iran's Drones Hit Aramco Oil Refinery In Saudi Arabia",
-    "summary": "Saudi Aramco has temporarily shut its Ras Tanura refinery after the facility was struck by a drone.",
-    "image": "https://c.ndtvimg.com/2026-03/mv19j364_iran-drones-hit-aramco-oil-refinery-x-_650x400_02_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 13:46:52 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-ras-tanura-irans-drones-hit-aramco-oil-refinery-in-saudi-arabia-11157608#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/rice-vs-quinoa-which-is-better-for-your-gut-11155493#publisher=newsstand",
-    "category": "india",
-    "title": "Rice vs Quinoa: Which Is Better For Your Gut?",
-    "summary": "Rice vs quinoa are both staple and a superfood respectively that possess gut-nourishing properties",
-    "image": "https://c.ndtvimg.com/2026-03/30eh8lcs_both-staple-rice-and-superfood-quinoa-possess-gutnourishing-properties_625x300_01_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 13:43:47 +0530",
-    "link": "https://www.ndtv.com/health/rice-vs-quinoa-which-is-better-for-your-gut-11155493#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand",
-    "category": "india",
-    "title": "US-Israel Attacks Iran LIVE Updates:PM Modi Expresses 'Deep Concern' Over Middle East Crisis, Calls for Dialogue",
-    "summary": "Israel Iran Conflict LIVE Updates: Iran's state TV has confirmed the death of Ali Khamenei",
-    "image": "https://c.ndtvimg.com/2026-03/qo7ed50c_tehran_625x300_02_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 13:40:12 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/how-iran-transformed-from-secular-monarchy-to-shia-islamic-republic-iran-us-israel-conflict-11157548#publisher=newsstand",
-    "category": "india",
-    "title": "How Iran Transformed From Secular Monarchy To Shia Islamic Republic",
-    "summary": "Before Islam arrived, the region we now call Iran was the heartland of ancient Persian empires",
-    "image": "https://c.ndtvimg.com/2026-03/47qembog_iran_625x300_02_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 13:39:11 +0530",
-    "link": "https://www.ndtv.com/world-news/how-iran-transformed-from-secular-monarchy-to-shia-islamic-republic-iran-us-israel-conflict-11157548#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/iran-israel-news-uncertainty-caution-indians-await-flight-resumption-amid-middle-east-chaos-11157700#publisher=newsstand",
-    "category": "india",
-    "title": "Uncertainty, Caution: Indians Await Flight Resumption Amid Middle East Chaos",
-    "summary": "Air India has suspended or rerouted certain services to and from parts of the Middle East.",
-    "image": "https://c.ndtvimg.com/2026-03/uiciucec_airport_625x300_02_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 13:38:11 +0530",
-    "link": "https://www.ndtv.com/india-news/iran-israel-news-uncertainty-caution-indians-await-flight-resumption-amid-middle-east-chaos-11157700#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/situation-in-west-asia-matter-of-deep-worry-india-stands-for-peace-and-stability-says-pm-modi-11157575#publisher=newsstand",
-    "category": "india",
-    "title": "\"India Stands For Peace\": PM Modi On 'Worrying' Situation In West Asia",
-    "summary": "PM Modi's remarks came a day after he chaired a meeting of the Cabinet Committee on Security, the highest decision-making body on security and strategic matters, to discuss the evolving situation due to the fresh conflict in West Asia.",
-    "image": "https://c.ndtvimg.com/2026-03/v6an0ljc_iran_625x300_02_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 13:36:46 +0530",
-    "link": "https://www.ndtv.com/india-news/situation-in-west-asia-matter-of-deep-worry-india-stands-for-peace-and-stability-says-pm-modi-11157575#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/india-post-gds-result-2026-check-state-wise-expected-cut-off-here-11157519#publisher=newsstand",
-    "category": "india",
-    "title": "India Post GDS Result 2026: Check State-Wise Expected Cut-Off, Circle-Wise List Here",
-    "summary": "GDS 2026 Circle-Wise Result: Cut-off indicates the minimum marks required",
-    "image": "https://c.ndtvimg.com/2026-03/hv8opvjg_asd_625x300_02_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 13:35:37 +0530",
-    "link": "https://www.ndtv.com/education/india-post-gds-result-2026-check-state-wise-expected-cut-off-here-11157519#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-israel-war-us-israel-strike-irans-konarak-naval-base-3-ships-sunk-11157512#publisher=newsstand",
-    "category": "india",
-    "title": "US-Israel Strike Iran's Konarak Naval Base, 3 Ships Sunk",
-    "summary": "Iran continues to reel from the joint US, Israeli attacks. Latest satellite imagery, released yesterday, appears to show damaged buildings at Konarak naval base in southern Iran along the Gulf of Oman.",
-    "image": "https://c.ndtvimg.com/2026-03/13duu204_konarak-naval-base-afp_625x300_02_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 13:33:40 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-us-israel-strike-irans-konarak-naval-base-3-ships-sunk-11157512#publisher=newsstand"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c75evve6l63o#1",
-    "category": "global",
-    "title": "Oil prices jump after attack on Iran threatens crucial Strait of Hormuz",
-    "summary": "Experts have warned that a prolonged conflict could push global energy prices even higher.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 02 Mar 2026 09:03:52 GMT",
-    "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cm2r0q310e3o#1",
@@ -306,7 +286,7 @@
     "summary": "No casualties were reported and the base sustained \"minimal damage\", the Ministry of Defence said.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 02 Mar 2026 07:40:00 GMT",
+    "pubDate": "Mon, 02 Mar 2026 10:37:36 GMT",
     "link": "https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -316,8 +296,28 @@
     "summary": "The prime minister says it remains the case that the UK will \"not join offensive action now\".",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 02 Mar 2026 07:22:48 GMT",
+    "pubDate": "Mon, 02 Mar 2026 10:00:38 GMT",
     "link": "https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c75evve6l63o#1",
+    "category": "global",
+    "title": "Oil prices jump and shares fall as conflict escalates",
+    "summary": "Experts have warned that a prolonged conflict could push global energy prices even higher.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 02 Mar 2026 09:56:32 GMT",
+    "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/ce8wed33e07o#1",
+    "category": "global",
+    "title": "Video appears to show US F-15 fighter jet crashing in Kuwait",
+    "summary": "Kuwait's ministry of defence confirmed \"several American fighter aircraft came down this morning\", with crews \"unscathed\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 02 Mar 2026 09:43:33 GMT",
+    "link": "https://www.bbc.com/news/videos/ce8wed33e07o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526608.html",
