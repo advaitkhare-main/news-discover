@@ -30,16 +30,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cgjznzgly0po#2",
-    "category": "global",
-    "title": "Deadly Texas bar shooting 'potentially act of terrorism', FBI says",
-    "summary": "Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 01 Mar 2026 23:17:32 GMT",
-    "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c1jk922dgjgo#1",
     "category": "global",
     "title": "Allies of US in the Gulf bear brunt of Iran attacks",
@@ -120,6 +110,116 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-3-us-f-15-jets-shot-down-by-kuwaiti-air-defences-in-friendly-fire-incident-11158659#publisher=newsstand",
+    "category": "india",
+    "title": "3 US F-15 Jets Shot Down By Kuwaiti Air Defences In Friendly Fire Incident",
+    "summary": "Iran Israel War: 3 US F-15 Jets Shot Down By Kuwaiti Air Defences In Friendly Fire Incident",
+    "image": "https://c.ndtvimg.com/2026-03/jseunud8_us-jet-shot-down-by-kuwait-_650x400_02_March_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 16:43:27 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-3-us-f-15-jets-shot-down-by-kuwaiti-air-defences-in-friendly-fire-incident-11158659#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-news-iran-israel-irans-ancient-religious-landscape-before-islam-11157954#publisher=newsstand",
+    "category": "india",
+    "title": "Iran's Ancient Religious Landscape Before Islam",
+    "summary": "Zoroastrianism spread slowly at first in ancient Iran",
+    "image": "https://c.ndtvimg.com/2026-03/e9noqp6c_zoroastrianism-unsplash_625x300_02_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 16:43:22 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-irans-ancient-religious-landscape-before-islam-11157954#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/assam-on-day-2-of-yatra-himanta-biswa-sarma-gets-bulldozer-salute-11158628#publisher=newsstand",
+    "category": "india",
+    "title": "On Day 2 Of Yatra, Himanta Biswa Sarma Gets 'Bulldozer Salute'",
+    "summary": "Flower petals were showered on the chief minister using a JCB.",
+    "image": "https://c.ndtvimg.com/2026-03/ehbfepks_himanta-biswa-sarma-bulldozer-salute_625x300_02_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 16:38:00 +0530",
+    "link": "https://www.ndtv.com/india-news/assam-on-day-2-of-yatra-himanta-biswa-sarma-gets-bulldozer-salute-11158628#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/israel-iran-war-iran-attacks-qatar-cannot-go-unanswered-qatar-flags-iran-attack-targeted-civilian-infra-11158592#publisher=newsstand",
+    "category": "india",
+    "title": "\"Cannot Go Unanswered\": Qatar Flags Iran Attack Targeted Civilian Infra",
+    "summary": "Iran missiles landed in Qatar's Doha when it retaliated to the US strike",
+    "image": "https://c.ndtvimg.com/2026-03/ve8pu5oo_doha-attack_625x300_02_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 16:32:32 +0530",
+    "link": "https://www.ndtv.com/world-news/israel-iran-war-iran-attacks-qatar-cannot-go-unanswered-qatar-flags-iran-attack-targeted-civilian-infra-11158592#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/indias-joint-health-crisis-new-data-links-office-chairs-to-faster-ageing-11158431#publisher=newsstand",
+    "category": "india",
+    "title": "India's Joint Health Crisis: New Data Links Office Chairs To Faster Ageing",
+    "summary": "New data has found that there is an active link between office chairs and the age of your joints",
+    "image": "https://c.ndtvimg.com/2026-03/enlehjr4_indian-working-professional-sitting-on-a-chair-_625x300_02_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 16:30:14 +0530",
+    "link": "https://www.ndtv.com/health/indias-joint-health-crisis-new-data-links-office-chairs-to-faster-ageing-11158431#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/tarc-ltd-expects-rs-4500-cr-revenue-from-luxury-housing-project-in-delhi/articleshow/128944724.cms",
+    "category": "finance",
+    "title": "TARC Ltd expects Rs 4,500 cr revenue from luxury housing project in Delhi",
+    "summary": "Listed realty firm TARC Ltd is expecting a total revenue of around Rs 4,500 crore from its ongoing ultra-luxury housing project in the national capital amid strong demand and limited supply, a top company official said.",
+    "image": "https://img.etimg.com/photo/msid-128944724,imgsize-25096.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 16:28:14 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/tarc-ltd-expects-rs-4500-cr-revenue-from-luxury-housing-project-in-delhi/articleshow/128944724.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/university-of-birmingham-announces-rs-10-lakh-pg-scholarship-for-indian-students-apply-today-11158562#publisher=newsstand",
+    "category": "india",
+    "title": "University Of Birmingham Announces Rs 10 Lakh PG Scholarship For Indian Students, Apply Today",
+    "summary": "Apply By May 2026 For Birmingham Masters Scholarship",
+    "image": "https://c.ndtvimg.com/2026-01/vssors7o_sd_625x300_28_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 16:27:17 +0530",
+    "link": "https://www.ndtv.com/education/university-of-birmingham-announces-rs-10-lakh-pg-scholarship-for-indian-students-apply-today-11158562#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-netanyahus-office-targeted-in-surprise-missile-attacks-iran-revolutionary-guards-11158402#publisher=newsstand",
+    "category": "india",
+    "title": "Netanyahu's Office Targeted In \"Surprise Missile Attacks,\" Claims Iran",
+    "summary": "The Iranian attacks have so far killed five people in the Gulf, according to authorities",
+    "image": "https://c.ndtvimg.com/2019-09/3pt3goso_benjamin-netanyahu-reuters_625x300_20_September_19.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 16:27:02 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-netanyahus-office-targeted-in-surprise-missile-attacks-iran-revolutionary-guards-11158402#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/telegram-ceo-calls-dubai-statistically-safer-than-europe-amid-iranian-attacks-elon-musk-reacts-11158479#publisher=newsstand",
+    "category": "india",
+    "title": "Telegram CEO Calls Dubai \"Statistically Safer\" Than Europe, Elon Musk Reacts",
+    "summary": "Durov has based Telegram's operations in Dubai since 2017.",
+    "image": "https://c.ndtvimg.com/2025-07/7hbqn4qo_pavel-durov-and-elon-musk_625x300_17_July_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 16:26:18 +0530",
+    "link": "https://www.ndtv.com/world-news/telegram-ceo-calls-dubai-statistically-safer-than-europe-amid-iranian-attacks-elon-musk-reacts-11158479#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/iran-crisis-jolts-japan-bond-yields-muddies-boj-rate-outlook/articleshow/128944642.cms",
+    "category": "finance",
+    "title": "Iran crisis jolts Japan bond yields, muddies BOJ rate outlook",
+    "summary": "Market expectations for Japanese bond yields and the central bank's \u200bnext rate increase have been thrown into disarray as investors fear an extended conflict in the Middle East will have knock-on effects on the yen and domestic inflation.",
+    "image": "https://img.etimg.com/photo/msid-128944642,imgsize-223864.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 16:21:42 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/iran-crisis-jolts-japan-bond-yields-muddies-boj-rate-outlook/articleshow/128944642.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-drops-to-one-month-low-as-escalating-middle-east-war-keeps-traders-on-edge/articleshow/128944562.cms",
+    "category": "finance",
+    "title": "Rupee drops to one-month low as escalating Middle East war keeps traders on edge",
+    "summary": "The rupee fell to its weakest \u200bin a month, while the \u200bcost of hedging against further depreciation against the dollar rose, \u200bas the escalating military conflict in the Middle East kept financial markets across the globe on edge.",
+    "image": "https://img.etimg.com/photo/msid-128944562,imgsize-252188.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 16:17:17 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-drops-to-one-month-low-as-escalating-middle-east-war-keeps-traders-on-edge/articleshow/128944562.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/forget-equities-load-up-on-gold-and-mining-stocks-ajay-srivastava-makes-a-case-for-portfolio-overhaul/articleshow/128944159.cms",
     "category": "finance",
     "title": "Forget equities, load up on gold and mining stocks:  Ajay Srivastava makes a case for portfolio overhaul",
@@ -128,26 +228,6 @@
     "source": "ET",
     "pubDate": "Mon, 02 Mar 2026 15:59:34 +0530",
     "link": "https://economictimes.indiatimes.com/markets/expert-view/forget-equities-load-up-on-gold-and-mining-stocks-ajay-srivastava-makes-a-case-for-portfolio-overhaul/articleshow/128944159.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-israel-war-top-intelligence-officials-killed-in-saturdays-strikes-on-iran-israel-11158247#publisher=newsstand",
-    "category": "india",
-    "title": "Top Intelligence Officials Killed In Saturday's Strikes On Iran: Israel",
-    "summary": "Israel had earlier said at least 40 top Iranian commanders and leaders were killed",
-    "image": "https://c.ndtvimg.com/2026-03/l2qmdt1g_tehran-attack_650x400_02_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 15:43:17 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-top-intelligence-officials-killed-in-saturdays-strikes-on-iran-israel-11158247#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-israel-war-us-used-claude-ai-to-attack-iran-us-made-lucas-drones-iran-shahed-kamikaze-suicide-drones-cyberwarfare-11158183#publisher=newsstand",
-    "category": "india",
-    "title": "Cheap Drones, Claude AI, Cyberattacks: US-Israel's War On Iran",
-    "summary": "US-Israel's 'Epic Fury' strikes on Iran blend billion-dollar F-22s/Tomahawks with cheap LUCAS drones ($35k), Claude AI targeting, and cyber hacks (BadeSaba app, blackouts).",
-    "image": "https://c.ndtvimg.com/2026-03/kpbif2jo_lucas-drone-used-by-us-in-iran_625x300_02_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 15:43:12 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-us-used-claude-ai-to-attack-iran-us-made-lucas-drones-iran-shahed-kamikaze-suicide-drones-cyberwarfare-11158183#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/lts-5-drop-an-overreaction-but-the-middle-east-risk-is-real-says-sumit-kishore-of-axis-capital/articleshow/128943632.cms",
@@ -160,36 +240,6 @@
     "link": "https://economictimes.indiatimes.com/markets/expert-view/lts-5-drop-an-overreaction-but-the-middle-east-risk-is-real-says-sumit-kishore-of-axis-capital/articleshow/128943632.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-israel-war-news-iran-shares-video-of-f-15-fighter-jet-spiralling-crashing-in-kuwait-11157056#publisher=newsstand",
-    "category": "india",
-    "title": "F-15 Seen Crashing On Camera, Kuwait Says Several US Warplanes Fell",
-    "summary": "Iran claimed Monday it shot down a F-15 fighter jet as the war with US-backed Israel entered a third day, dragging the West Asia region and the world into a second major military conflict.",
-    "image": "https://c.ndtvimg.com/2026-03/trr9432g_us-fighter-jet_650x400_02_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 15:36:31 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-news-iran-shares-video-of-f-15-fighter-jet-spiralling-crashing-in-kuwait-11157056#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/india-trails-china-in-health-insurance-customisation-despite-rapid-digital-growth-report-11158086#publisher=newsstand",
-    "category": "india",
-    "title": "India Trails China In Health Insurance Customisation Despite Rapid Digital Growth: Report",
-    "summary": "Around 50 per cent of insurers in India provide customisation support for clients with more than 1,000 employees, which is lower than the 92 per cent reported in China, according to a report released on Monday.",
-    "image": "https://c.ndtvimg.com/2026-02/a1953jd4_health-insurance_625x300_20_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 15:31:29 +0530",
-    "link": "https://www.ndtv.com/health/india-trails-china-in-health-insurance-customisation-despite-rapid-digital-growth-report-11158086#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/what-is-the-best-time-to-drink-coffee-for-maximum-energy-boost-11158194#publisher=newsstand",
-    "category": "india",
-    "title": "What Is The Best Time To Drink Coffee For Maximum Energy Boost?",
-    "summary": "Coffee contains caffeine, which is a natural stimulant",
-    "image": "https://c.ndtvimg.com/2026-03/vf9dhjsg_coffee-at-office_625x300_02_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 15:29:47 +0530",
-    "link": "https://www.ndtv.com/health/what-is-the-best-time-to-drink-coffee-for-maximum-energy-boost-11158194#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/bonds/as-india-targets-a-1020-trillion-economy-fixed-income-deserves-a-larger-role-in-portfolios-vineet-agrawal/articleshow/128943520.cms",
     "category": "finance",
     "title": "As India targets a $10\u201320 trillion economy, fixed income deserves a larger role in portfolios: Vineet Agrawal",
@@ -198,36 +248,6 @@
     "source": "ET",
     "pubDate": "Mon, 02 Mar 2026 15:28:39 +0530",
     "link": "https://economictimes.indiatimes.com/markets/bonds/as-india-targets-a-1020-trillion-economy-fixed-income-deserves-a-larger-role-in-portfolios-vineet-agrawal/articleshow/128943520.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/health/chennai-doctors-launch-first-ever-universal-health-code-for-the-human-body-11157761#publisher=newsstand",
-    "category": "india",
-    "title": "Chennai Doctors Launch First-Ever Universal Health Code For The Human Body",
-    "summary": "The book simplifies human physiology in an easy and illustrated way to empower people with knowledge which will help them make better choices about food, lifestyle and preventive health.",
-    "image": "https://c.ndtvimg.com/2026-03/nj8u5rks_universal-health-code_625x300_02_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 15:26:33 +0530",
-    "link": "https://www.ndtv.com/health/chennai-doctors-launch-first-ever-universal-health-code-for-the-human-body-11157761#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-israel-war-saudi-arabia-denies-reports-it-lobbied-trump-to-attack-iran-11158207#publisher=newsstand",
-    "category": "india",
-    "title": "Saudi Arabia Denies Reports It Lobbied Trump To Attack Iran",
-    "summary": "Saudi Prince made private phone calls to Trump last month pushing for a strike on Iran, said reports",
-    "image": "https://c.ndtvimg.com/2026-03/6pel1i68_trump-saudi-prince-afp_625x300_01_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 15:25:21 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-saudi-arabia-denies-reports-it-lobbied-trump-to-attack-iran-11158207#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/iran-israel-war-iran-conflict-iran-news-saudi-aramco-shuts-ras-tanura-refinery-after-irans-drone-attacks-11158043#publisher=newsstand",
-    "category": "india",
-    "title": "Saudi Aramco Shuts Ras Tanura Refinery After Iran's Drone Attacks",
-    "summary": "Two drones were intercepted at Ras Tanura, with debris causing limited fire, said Saudi defence ministry.",
-    "image": "https://c.ndtvimg.com/2026-03/dhvhifd8_saudi-arabia-ras-tanura-facility_625x300_02_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 15:23:50 +0530",
-    "link": "https://www.ndtv.com/india-news/iran-israel-war-iran-conflict-iran-news-saudi-aramco-shuts-ras-tanura-refinery-after-irans-drone-attacks-11158043#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-to-double-at-10000-in-next-5-years-jefferies-chris-wood-makes-bold-prediction/articleshow/128943442.cms",
@@ -250,34 +270,14 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-shares-plunge-6-as-escalating-iran-israel-war-spark-concerns-around-haifa-port/articleshow/128942878.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pakistans-kse-30-index-crashes-10-biggest-drop-on-record-as-mideast-tensions-escalate/articleshow/128942631.cms",
-    "category": "finance",
-    "title": "Pakistan's KSE-30 index crashes 10%, biggest drop on record as Mideast tensions escalate",
-    "summary": "Pakistan's KSE-30 Index experienced its largest-ever plunge, falling 7.3% after geopolitical tensions in the Middle East escalated due to US and Israeli strikes on Iran.  Pro-Iran protests across the country, resulting in at least 30 deaths, further ",
-    "image": "https://img.etimg.com/photo/msid-128942631,imgsize-37158.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 14:41:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pakistans-kse-30-index-crashes-10-biggest-drop-on-record-as-mideast-tensions-escalate/articleshow/128942631.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/shanghai-stocks-close-at-10-year-high-as-iran-conflict-boosts-energy-and-gold-shares-hk-drops/articleshow/128942654.cms",
-    "category": "finance",
-    "title": "Shanghai stocks close at 10-year high as Iran conflict boosts energy and gold shares; HK drops",
-    "summary": "Shanghai stocks closed at a 10-year high on Monday, bucking \u200bregional weakness in the wake of \u200bthe Iran conflict as investors snapped up energy, gold and defence shares.",
-    "image": "https://img.etimg.com/photo/msid-128942654,imgsize-89788.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 14:40:34 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/shanghai-stocks-close-at-10-year-high-as-iran-conflict-boosts-energy-and-gold-shares-hk-drops/articleshow/128942654.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holi-holiday-2026-will-nse-bse-be-closed-on-march-3-or-4/articleshow/128942634.cms",
-    "category": "finance",
-    "title": "Stock Market Holi Holiday 2026: Will NSE &amp; BSE be closed on March 3 or 4?",
-    "summary": "Indian stock markets, BSE and NSE, will be closed on Tuesday, March 3, for the Holi holiday. The Multi Commodity Exchange of India will have a partial closure. The National Commodity &amp; Derivatives Exchange will remain shut all day. The article al",
-    "image": "https://img.etimg.com/photo/msid-128942634,imgsize-3459771.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 14:35:21 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holi-holiday-2026-will-nse-bse-be-closed-on-march-3-or-4/articleshow/128942634.cms"
+    "id": "https://www.bbc.com/news/articles/cgjznzgly0po#2",
+    "category": "global",
+    "title": "Deadly Texas bar shooting 'potentially act of terrorism', FBI says",
+    "summary": "Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 02 Mar 2026 11:24:48 GMT",
+    "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cm2r0q310e3o#1",
@@ -313,7 +313,7 @@
     "id": "https://www.bbc.com/news/videos/ce8wed33e07o#1",
     "category": "global",
     "title": "Video appears to show US F-15 fighter jet crashing in Kuwait",
-    "summary": "Kuwait's ministry of defence confirmed \"several American fighter aircraft came down this morning\", with crews \"unscathed\".",
+    "summary": "The US says six of its F-15 jets were \"mistakenly shot down by Kuwaiti air defenses\", with all crew in a stable condition.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Mon, 02 Mar 2026 09:43:33 GMT",
