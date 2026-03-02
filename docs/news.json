@@ -70,16 +70,6 @@
     "link": "https://www.bbc.com/news/articles/cdjm8pn0ld8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c1jk922dgjgo#1",
-    "category": "global",
-    "title": "Allies of US in the Gulf bear brunt of Iran attacks",
-    "summary": "Iran's attacks on Gulf Arab states suggest the Islamic Republic is targeting not just the US military but also civilian infrastructure.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 01 Mar 2026 22:19:03 GMT",
-    "link": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cp32ddzdjxko#2",
     "category": "global",
     "title": "Major changes to asylum system set to come into force",
@@ -130,6 +120,16 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1526556.html?ex_cid=OTC-RSS"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cx2lgvg5rl1o#1",
+    "category": "global",
+    "title": "Iran's regime is still intact - the coming days will show if it can hold out",
+    "summary": "Iran's surviving leaders are in crisis mode, battling to project security as US and Israel strikes continue.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 01 Mar 2026 18:05:06 GMT",
+    "link": "https://www.bbc.com/news/articles/cx2lgvg5rl1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1526545.html",
     "category": "sports",
     "title": "Shamas, bowlers lead Pakistan to consolation win against South Africa",
@@ -148,16 +148,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 01 Mar 2026 16:21:05 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526539.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526457.html",
-    "category": "sports",
-    "title": "Zimbabwe's return home delayed following West Asia airspace closure",
-    "summary": "ESPNcricinfo understands Zimbabwe were to return home on Emirates flights on Monday, which would take them from Delhi to Dubai to Harare",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413845.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 01 Mar 2026 15:54:52 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526457.html?ex_cid=OTC-RSS"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
@@ -190,173 +180,183 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-climbs-2-as-us-israel-strikes-on-iran-raise-regional-temperature/articleshow/128932675.cms",
-    "category": "finance",
-    "title": "Gold climbs 2% as US-Israel strikes on Iran raise regional temperature",
-    "summary": "Gold prices saw a significant jump on Monday. This surge followed major strikes by the U.S. and Israel on Iran, leading to the death of Supreme Leader Ayatollah Ali Khamenei. The events have heightened global tensions and economic uncertainty. Gold, ",
-    "image": "https://img.etimg.com/photo/msid-128932675,imgsize-111040.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 06:44:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-climbs-2-as-us-israel-strikes-on-iran-raise-regional-temperature/articleshow/128932675.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-jumps-as-iran-conflict-escalates-disrupts-shipping/articleshow/128932555.cms",
-    "category": "finance",
-    "title": "Oil jumps as Iran conflict escalates, disrupts shipping",
-    "summary": "Brent crude futures shot up to $82.37, the highest since January 2025, in the first futures trading after the U.S. and Israel launched strikes on Iran and \u200ckilled its Supreme Leader \u2060Ali \u2060Khamenei on Saturday. As of 0054 GMT, Brent futures were at $7",
-    "image": "https://img.etimg.com/photo/msid-128932555,imgsize-24526.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 06:35:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-jumps-as-iran-conflict-escalates-disrupts-shipping/articleshow/128932555.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/sensex-falls-1100-nifty-330-as-markets-open-for-first-time-since-iran-strikes-11156721#publisher=newsstand",
     "category": "india",
-    "title": "US-Israel Attacks Iran LIVE Updates: Israel Launches Strikes On Hezbollah Targets Across Lebanon",
-    "summary": "Israel Iran Conflict LIVE Updates: Iran's state TV has confirmed the death of Ali Khamenei",
-    "image": "https://c.ndtvimg.com/2026-03/8nj8gkto_iran_625x300_02_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Sensex Falls 1,100 Points, Nifty 330 As Markets Open After Iran Strikes",
+    "summary": "Investors sell off risk assets as Iran conflict rattles global markets.",
+    "image": "https://c.ndtvimg.com/2026-03/8nj8gkto_iran_625x300_02_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 06:34:20 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
+    "pubDate": "Mon, 02 Mar 2026 09:34:36 +0530",
+    "link": "https://www.ndtv.com/india-news/sensex-falls-1100-nifty-330-as-markets-open-for-first-time-since-iran-strikes-11156721#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128932370.cms",
+    "id": "https://www.ndtv.com/world-news/iran-israel-news-these-airlines-have-cancelled-flights-after-middle-east-strikes-11156584#publisher=newsstand",
+    "category": "india",
+    "title": "These Airlines Have Cancelled Flights After US And Israel Struck Iran",
+    "summary": "Tens of thousands of passengers were stranded worldwide.",
+    "image": "https://c.ndtvimg.com/2026-03/q7pnpbv_air-services_625x300_02_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 09:25:58 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-news-these-airlines-have-cancelled-flights-after-middle-east-strikes-11156584#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-news-us-officials-skeptical-of-regime-change-in-tehran-after-khamenei-killing-11156487#publisher=newsstand",
+    "category": "india",
+    "title": "US Officials Skeptical Of Regime Change In Iran After Khamenei Killing",
+    "summary": "Sources said defections would likely be a precondition of any successful revolution.",
+    "image": "https://c.ndtvimg.com/2026-03/m5u3q9qk_us-iran_625x300_02_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 09:18:31 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-news-us-officials-skeptical-of-regime-change-in-tehran-after-khamenei-killing-11156487#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/why-is-china-silent-on-iran-war-an-expert-decodes-beijings-hidden-play-11156707#publisher=newsstand",
+    "category": "india",
+    "title": "Why Is China Silent On Iran? An Expert Decodes Beijing's Hidden Play",
+    "summary": "Iran anchors a 25-year cooperation framework with Beijing",
+    "image": "https://c.ndtvimg.com/2026-02/i3qvkck4_xi-jinping-afp_625x300_03_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 09:13:25 +0530",
+    "link": "https://www.ndtv.com/world-news/why-is-china-silent-on-iran-war-an-expert-decodes-beijings-hidden-play-11156707#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/gold-silver-prices-today-march-2-2026-gold-silver-surge-as-iran-conflict-deepens-check-prices-in-your-city-11156544#publisher=newsstand",
+    "category": "india",
+    "title": "Gold, Silver Surge As Iran Conflict Deepens, Check Prices In Your City",
+    "summary": "Gold prices in India climbed sharply on Monday.",
+    "image": "https://c.ndtvimg.com/2026-02/osp4j2g8_gold-silver_625x300_26_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 09:12:10 +0530",
+    "link": "https://www.ndtv.com/india-news/gold-silver-prices-today-march-2-2026-gold-silver-surge-as-iran-conflict-deepens-check-prices-in-your-city-11156544#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-news-certain-death-trump-vows-to-avenge-1st-us-deaths-as-middle-east-war-intensifies-11156301#publisher=newsstand",
+    "category": "india",
+    "title": "\"Certain Death\": Trump Vows To Avenge 1st US Deaths As Iran War Intensifies",
+    "summary": "President Donald Trump vowed to avenge the first US deaths in the war he launched to topple Iran's cleric-run state, which fired missiles across the Middle East even as the headquarters of its elite Revolutionary Guards was reduced to rubble.",
+    "image": "https://c.ndtvimg.com/2026-03/6dtjm5gg_trump_625x300_02_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 09:11:45 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-news-certain-death-trump-vows-to-avenge-1st-us-deaths-as-middle-east-war-intensifies-11156301#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/dubai-abu-dhabi-amid-strikes-by-iran-uaes-misinformation-on-war-warning-for-residents-11155558#publisher=newsstand",
+    "category": "india",
+    "title": "Amid Strikes By Iran, \"Misinformation On War\" Warning For Dubai Residents",
+    "summary": "The United Arab Emirates has announced that the circulation of \"unverified information about wars, security or national safety\" will be punishable with a jail term and/or a steep fine.",
+    "image": "https://c.ndtvimg.com/2026-03/3lf627nk_dubai-attack_625x300_01_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 09:02:38 +0530",
+    "link": "https://www.ndtv.com/world-news/dubai-abu-dhabi-amid-strikes-by-iran-uaes-misinformation-on-war-warning-for-residents-11155558#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-news-3-us-troops-killed-5-seriously-wounded-during-iran-attacks-11156329#publisher=newsstand",
+    "category": "india",
+    "title": "3 US Soldiers Killed During Iran Ops, Trump Says \"There Will Likely Be More\"",
+    "summary": "Before the strikes, Trump had built up the largest US military presence in the Middle East in decades.",
+    "image": "https://c.ndtvimg.com/2026-03/a67586hk_us-base_625x300_02_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 09:02:20 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-news-3-us-troops-killed-5-seriously-wounded-during-iran-attacks-11156329#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/nifty-it-in-sell-on-rise-mode-may-fall-another-8-10-rupak-de/articleshow/128920170.cms",
     "category": "finance",
-    "title": "Pre-market action: Here's the trade setup for today's session",
-    "summary": "Indian markets are poised for a gap-down opening with heightened volatility due to the US-Iran conflict. Oil marketing companies, paints, and aviation sectors may face margin pressure from rising input costs. Conversely, upstream oil producers and de",
-    "image": "https://img.etimg.com/photo/msid-128932370,imgsize-111647.cms",
+    "title": "Nifty IT in sell-on-rise mode, may fall another 8-10%: Rupak De",
+    "summary": "The Nifty IT index faces sustained technical pressure, with recent recovery attempts lacking conviction and failing to alter the bearish structure. Analysts suggest a sell-on-rise bias for the sector, anticipating further downside if key resistance l",
+    "image": "https://img.etimg.com/photo/msid-128920170,imgsize-59438.cms",
     "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 06:22:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128932370.cms"
+    "pubDate": "Mon, 02 Mar 2026 09:00:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/nifty-it-in-sell-on-rise-mode-may-fall-another-8-10-rupak-de/articleshow/128920170.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-adani-ports-fino-payments-bank-gail-bel-spicejet/articleshow/128932296.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/extended-valuations-cap-smallcap-upside-largecaps-preferred-marcellus-krishnan-vr/articleshow/128920054.cms",
     "category": "finance",
-    "title": "Stocks in news: Adani Ports, Fino Payments Bank, GAIL, BEL, SpiceJet",
-    "summary": "Equity markets faced pressure last week due to geopolitical tensions and tech stock weakness. Investors are reacting to the Iran-US-Israel conflict, with analysts predicting a negative near-term impact. Several stocks like Adani Ports, Fino Payments ",
-    "image": "https://img.etimg.com/photo/msid-128932296,imgsize-54812.cms",
+    "title": "Extended valuations cap smallcap upside, largecaps preferred: Marcellus\u2019 Krishnan VR",
+    "summary": "Despite a 16-month period of subdued returns, mid- and small-cap valuations remain elevated, limiting rebound potential. Krishnan VR of Marcellus Investment Managers favors large caps for their better risk-reward, anticipating an earnings recovery in",
+    "image": "https://img.etimg.com/photo/msid-128920054,imgsize-29502.cms",
     "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 06:16:45 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-adani-ports-fino-payments-bank-gail-bel-spicejet/articleshow/128932296.cms"
+    "pubDate": "Mon, 02 Mar 2026 09:00:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/extended-valuations-cap-smallcap-upside-largecaps-preferred-marcellus-krishnan-vr/articleshow/128920054.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/crash-that-killed-ajit-pawar-was-one-of-many-ndtv-checks-10-year-data-11155529#publisher=newsstand",
-    "category": "india",
-    "title": "Crash That Killed Ajit Pawar Was One Of Many: NDTV Checks 10-Year Data",
-    "summary": "In 2016, an air ambulance operating from Patna to Delhi went down in Najafgarh. Unlike the Red Airways crash that killed all seven on board, everyone in this accident survived. The pilots were hailed as heroes for averting a disaster.",
-    "image": "https://c.ndtvimg.com/2026-02/cuipjfac_ajit-pawar-plane-crash-site-in-baramati_625x300_12_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 06:10:53 +0530",
-    "link": "https://www.ndtv.com/india-news/crash-that-killed-ajit-pawar-was-one-of-many-ndtv-checks-10-year-data-11155529#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/rumble-in-the-strait-of-hormuz-to-jolt-markets-today-see-details-11155647#publisher=newsstand",
-    "category": "india",
-    "title": "Rumble In The Strait Of Hormuz To Jolt Markets Today? See Details",
-    "summary": "Tighter margins and currency volatility would be the order of the day",
-    "image": "https://c.ndtvimg.com/2026-03/f51chkdo_stock-market-generic_625x300_01_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 06:10:25 +0530",
-    "link": "https://www.ndtv.com/india-news/rumble-in-the-strait-of-hormuz-to-jolt-markets-today-see-details-11155647#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-oil-prices-surge-stocks-skid-in-flight-from-risk/articleshow/128932190.cms",
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-surges-12-after-us-israel-strikes-on-iran-spark-strait-of-hormuz-disruption-fears-can-prices-top-100/articleshow/128935045.cms",
     "category": "finance",
-    "title": "Global Market Today | Oil prices surge, stocks skid in flight from risk",
-    "summary": "Middle East conflict escalates, pushing oil prices sharply higher and triggering a sell-off in global shares. Investors seek refuge in the dollar, gold, and bonds as the Strait of Hormuz faces potential disruption. The prolonged conflict risks reigni",
-    "image": "https://img.etimg.com/photo/msid-128932190,imgsize-50120.cms",
+    "title": "Oil surges 12% after US-Israel strikes on Iran spark Strait of Hormuz disruption fears. Can prices top $100?",
+    "summary": "Oil prices have surged significantly due to escalating attacks between Iran and Israel. Tankers have been damaged, disrupting crucial shipments from the Middle East. This situation poses a considerable risk to India, which imports a large portion of ",
+    "image": "https://img.etimg.com/photo/msid-128935045,imgsize-490325.cms",
     "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 06:08:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-oil-prices-surge-stocks-skid-in-flight-from-risk/articleshow/128932190.cms"
+    "pubDate": "Mon, 02 Mar 2026 08:51:21 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-surges-12-after-us-israel-strikes-on-iran-spark-strait-of-hormuz-disruption-fears-can-prices-top-100/articleshow/128935045.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/break-below-25100-may-take-nifty-down-to-24300-analysts/articleshow/128932026.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-spicejet-other-tourism-stocks-in-focus-after-us-israel-attack-on-iran-leads-to-airspace-closure/articleshow/128934649.cms",
     "category": "finance",
-    "title": "Break below 25,100 may take Nifty down to 24,300: Analysts",
-    "summary": "Indian stock market benchmark Nifty faces a weak outlook for the upcoming week. Analysts suggest a potential fall to 24,700 and 24,300 if the 25,100 support level is breached. Investors are advised to consider selling opportunities on any rise.",
-    "image": "https://img.etimg.com/photo/msid-128932026,imgsize-58226.cms",
+    "title": "IndiGo, SpiceJet, other tourism stocks in focus after US, Israel attack on Iran leads to airspace closure",
+    "summary": "Airspace closures across the Middle East following US and Israeli strikes on Iran have disrupted flights and triggered volatility in aviation and travel stocks such as IndiGo and SpiceJet. Airlines face rising costs and demand risks, while widespread",
+    "image": "https://img.etimg.com/photo/msid-128934649,imgsize-116630.cms",
     "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 06:01:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/break-below-25100-may-take-nifty-down-to-24300-analysts/articleshow/128932026.cms"
+    "pubDate": "Mon, 02 Mar 2026 08:47:53 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-spicejet-other-tourism-stocks-in-focus-after-us-israel-attack-on-iran-leads-to-airspace-closure/articleshow/128934649.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/oil-shock-ai-worries-to-weigh-on-indian-markets-amid-rising-global-uncertainty/articleshow/128931962.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/live-blog/gold-silver-price-today-live-updates-iran-israel-us-war-impact-on-mcx-gold-silver-rate-ali-khamenei-death-news-mcx-share-price/liveblog/128934885.cms",
     "category": "finance",
-    "title": "Oil shock, AI worries to weigh on Indian markets amid rising global uncertainty",
-    "summary": "Indian stock markets are bracing for a weak opening this week. Rising oil prices due to US-Israeli actions against Iran are a major concern. This geopolitical tension could push crude oil prices to $100 a barrel. Investors are likely to shift towards",
-    "image": "https://img.etimg.com/photo/msid-128931962,imgsize-297714.cms",
+    "title": "Gold Silver Price Today Live Updates: Gold rises nearly 2% amid escalating geopolitical tensions; silver retreats. Check",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-128934885,imgsize-96692.cms",
     "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 05:52:31 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-shock-ai-worries-to-weigh-on-indian-markets-amid-rising-global-uncertainty/articleshow/128931962.cms"
+    "pubDate": "Mon, 02 Mar 2026 08:44:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/gold-silver-price-today-live-updates-iran-israel-us-war-impact-on-mcx-gold-silver-rate-ali-khamenei-death-news-mcx-share-price/liveblog/128934885.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/israel-iran-war-tehran-khamenei-uae-dubai-us-combat-ops-to-continue-until-all-objectives-achieved-trump-on-iran-11156285#publisher=newsstand",
-    "category": "india",
-    "title": "\"Combat Ops To Continue Until All Objectives Achieved\": Trump On Iran",
-    "summary": "\"We have very strong objectives,\" Trump said.",
-    "image": "https://c.ndtvimg.com/2026-03/q9bqc4ho_donald-trump-warning-to-iran-_625x300_01_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 05:31:10 +0530",
-    "link": "https://www.ndtv.com/world-news/israel-iran-war-tehran-khamenei-uae-dubai-us-combat-ops-to-continue-until-all-objectives-achieved-trump-on-iran-11156285#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/regulators-concerns-pertain-to-pockets-of-speculation-not-entire-derivatives-market-tuhin-kanta-pandey/articleshow/128931686.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-power-among-4-stocks-close-crossing-below-vwap/slideshow/128934900.cms",
     "category": "finance",
-    "title": "Regulator's concerns pertain to pockets of speculation, not entire derivatives market: Tuhin Kanta Pandey",
-    "summary": "Sebi Chairperson Tuhin Kanta Pandey emphasized a principle-driven, data-backed approach to curb excessive speculation in equity derivatives, particularly focusing on short-tenor index options. He clarified that recent measures target specific pockets",
-    "image": "https://img.etimg.com/photo/msid-128931686,imgsize-13972.cms",
+    "title": "Reliance Power among 4 stocks close crossing below VWAP",
+    "summary": "On February 27, four Nifty500 stocks closed more than 1.5% below their VWAP levels, indicating emerging bearish pressure. A close below VWAP suggests stocks ended the session beneath their volume-weighted average price, reflecting rising selling inte",
+    "image": "https://img.etimg.com/photo/msid-128934803,imgsize-66696.cms",
     "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 05:31:06 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/regulators-concerns-pertain-to-pockets-of-speculation-not-entire-derivatives-market-tuhin-kanta-pandey/articleshow/128931686.cms"
+    "pubDate": "Mon, 02 Mar 2026 08:41:28 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-power-among-4-stocks-close-crossing-below-vwap/slideshow/128934900.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/pm-modi-speaks-to-israeli-pm-netanyahu-stresses-safety-of-civilians-utmost-priority-11156239#publisher=newsstand",
-    "category": "india",
-    "title": "Safety Of Civilians \"Utmost Priority,\" PM Modi Tells Israeli PM Netanyahu",
-    "summary": "PM Modi also reiterated \"The need for an early cessation of hostilities.\"",
-    "image": "https://c.ndtvimg.com/2026-02/pfbcnkv8_modi-netanyahu_625x300_26_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 05:26:55 +0530",
-    "link": "https://www.ndtv.com/world-news/pm-modi-speaks-to-israeli-pm-netanyahu-stresses-safety-of-civilians-utmost-priority-11156239#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/abu-dhabi-dubai-stock-markets-shut-on-march-2-3-amid-escalating-middle-east-tensions/articleshow/128934748.cms",
+    "category": "finance",
+    "title": "Abu Dhabi, Dubai stock markets shut on March 2-3 amid escalating Middle East tensions",
+    "summary": "Abu Dhabi and Dubai stock markets will shut down for two days, March 2nd and 3rd, due to rising Middle East tensions. This precautionary measure, announced by the Capital Market Authority, aims to ensure stability amidst escalating regional conflicts",
+    "image": "https://img.etimg.com/photo/msid-128934748,imgsize-65580.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 08:38:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/abu-dhabi-dubai-stock-markets-shut-on-march-2-3-amid-escalating-middle-east-tensions/articleshow/128934748.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/israel-iran-war-tehran-khamenei-uae-dubai-us-can-use-british-military-bases-for-iran-missile-strikes-uk-pm-starmer-11156174#publisher=newsstand",
-    "category": "india",
-    "title": "US Can Use British Military Bases For Iran Missile Strikes: UK PM Starmer",
-    "summary": "Starmer reiterated that Britain was not involved in the joint US-Israel air strikes",
-    "image": "https://c.ndtvimg.com/2026-02/4i6fsb8k_keir-starmer_625x300_27_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 04:06:25 +0530",
-    "link": "https://www.ndtv.com/world-news/israel-iran-war-tehran-khamenei-uae-dubai-us-can-use-british-military-bases-for-iran-missile-strikes-uk-pm-starmer-11156174#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/redington-among-4-stocks-showing-bullish-rsi-upswing/slideshow/128934728.cms",
+    "category": "finance",
+    "title": "Redington among 4 stocks showing bullish RSI upswing",
+    "summary": "On February 27, four Nifty500 stocks were flagged in the RSI Trending Up scan after rising over 2%. Their RSI values crossed above 50 from lower levels, signalling improving momentum and growing buying interest. Traders track this technical indicator",
+    "image": "https://img.etimg.com/photo/msid-128934625,imgsize-53640.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 08:33:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/redington-among-4-stocks-showing-bullish-rsi-upswing/slideshow/128934728.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/israel-iran-war-tehran-khamenei-uae-dubai-us-says-3-troops-killed-5-seriously-wounded-during-iran-attacks-11156163#publisher=newsstand",
-    "category": "india",
-    "title": "US Says 3 Troops Killed, 5 Seriously Wounded During Iran Attacks",
-    "summary": "Trump has launched several military operations during his second term",
-    "image": "https://c.ndtvimg.com/2026-03/q9bqc4ho_donald-trump-warning-to-iran-_625x300_01_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 04:01:53 +0530",
-    "link": "https://www.ndtv.com/world-news/israel-iran-war-tehran-khamenei-uae-dubai-us-says-3-troops-killed-5-seriously-wounded-during-iran-attacks-11156163#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/israel-iran-war-tehran-khamenei-uae-dubai-6-injured-in-jerusalem-after-iran-missile-barrage-report-11156066#publisher=newsstand",
-    "category": "india",
-    "title": "6 Injured In Jerusalem After Iran Missile Barrage: Report",
-    "summary": "Israeli police said searches were being conducted in the Jerusalem",
-    "image": "https://c.ndtvimg.com/2026-03/irb9hrus_jerusalem_625x300_02_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 03:36:13 +0530",
-    "link": "https://www.ndtv.com/world-news/israel-iran-war-tehran-khamenei-uae-dubai-6-injured-in-jerusalem-after-iran-missile-barrage-report-11156066#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1526600.html",
+    "category": "sports",
+    "title": "All-round Athapaththu takes Sri Lanka 1-0 up against West Indies",
+    "summary": "Karishma Ramharack was dismissed obstructing the field for WI, who were bowled out for 101",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/411100/411189.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 02 Mar 2026 03:52:30 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526600.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cm2r0q310e3o#1",
     "category": "global",
     "title": "RAF responding to suspected drone strike at UK base in Cyprus, MoD says",
-    "summary": "The MoD said they were responding to the attack at RAF Akrotiri at around midnight local time.",
+    "summary": "The BBC understands there were no casualties in the suspected strike on RAF Akrotiri.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 02 Mar 2026 01:18:54 GMT",
+    "pubDate": "Mon, 02 Mar 2026 03:29:58 GMT",
     "link": "https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -366,17 +366,17 @@
     "summary": "The home side have brought Rachel Trenaman and Maitlan Brown in for the pink-ball game at the WACA",
     "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414253.jpg",
     "source": "Cricinfo",
-    "pubDate": "Mon, 02 Mar 2026 00:52:37 GMT",
+    "pubDate": "Mon, 02 Mar 2026 03:00:53 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526595.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c75evve6l63o#1",
     "category": "global",
-    "title": "Oil prices jump after ships attacked near Strait of Hormuz",
+    "title": "Oil prices rise after ships attacked near Strait of Hormuz",
     "summary": "Experts have warned that a prolonged conflict could push global energy prices even higher.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 02 Mar 2026 00:36:19 GMT",
+    "pubDate": "Mon, 02 Mar 2026 02:12:41 GMT",
     "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
   },
   {
