@@ -40,16 +40,6 @@
     "link": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cp32ddzdjxko#2",
-    "category": "global",
-    "title": "Major changes to asylum system set to come into force",
-    "summary": "From Monday, asylum seekers granted refugee status in the UK will be offered only temporary protection.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 01 Mar 2026 22:04:54 GMT",
-    "link": "https://www.bbc.com/news/articles/cp32ddzdjxko?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1526588.html",
     "category": "sports",
     "title": "Shai Hope takes 'blame' for West Indies' exit",
@@ -58,16 +48,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 01 Mar 2026 21:19:54 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526588.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526587.html",
-    "category": "sports",
-    "title": "Sanju Samson delivered 'when the team needed him the most' - Gautam Gambhir",
-    "summary": "India coach believed wicketkeeper-batter would come good at the right time",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414297.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 01 Mar 2026 20:17:56 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526587.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cx2lgvg5rl1o#1",
@@ -110,54 +90,154 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-israel-war-3-us-f-15-jets-shot-down-by-kuwaiti-air-defences-in-friendly-fire-incident-11158659#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/indian-man-stranded-amid-middle-east-tensions-praises-qatar-airways-for-smooth-management-11158292#publisher=newsstand",
     "category": "india",
-    "title": "3 US F-15 Jets Shot Down By Kuwaiti Air Defences In Friendly Fire Incident",
-    "summary": "Iran Israel War: 3 US F-15 Jets Shot Down By Kuwaiti Air Defences In Friendly Fire Incident",
-    "image": "https://c.ndtvimg.com/2026-03/jseunud8_us-jet-shot-down-by-kuwait-_650x400_02_March_26.jpg",
+    "title": "Passenger Praises Qatar Airways For Smooth Management Amid Middle East Tensions",
+    "summary": "He also praised the hotel staff.",
+    "image": "https://c.ndtvimg.com/2026-03/501niduo_iranisrael_625x300_02_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 16:43:27 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-3-us-f-15-jets-shot-down-by-kuwaiti-air-defences-in-friendly-fire-incident-11158659#publisher=newsstand"
+    "pubDate": "Mon, 02 Mar 2026 18:13:55 +0530",
+    "link": "https://www.ndtv.com/india-news/indian-man-stranded-amid-middle-east-tensions-praises-qatar-airways-for-smooth-management-11158292#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-news-iran-israel-irans-ancient-religious-landscape-before-islam-11157954#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/india-canada-academic-ties-strengthen-as-13-university-pacts-signed-mcgill-university-to-launch-ai-centre-in-india-11159079#publisher=newsstand",
     "category": "india",
-    "title": "Iran's Ancient Religious Landscape Before Islam",
-    "summary": "Zoroastrianism spread slowly at first in ancient Iran",
-    "image": "https://c.ndtvimg.com/2026-03/e9noqp6c_zoroastrianism-unsplash_625x300_02_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "India-Canada Academic Ties Strengthen As 13 University Pacts Signed; McGill University To Launch AI Centre In India",
+    "summary": "India Canada Strengthen Education Ties With New AI Centre Plans",
+    "image": "https://c.ndtvimg.com/2026-03/jogp5f1k_canadian-universities-are-launching-new-talent-partnerships-in-india_625x300_02_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 16:43:22 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-irans-ancient-religious-landscape-before-islam-11157954#publisher=newsstand"
+    "pubDate": "Mon, 02 Mar 2026 18:13:28 +0530",
+    "link": "https://www.ndtv.com/education/india-canada-academic-ties-strengthen-as-13-university-pacts-signed-mcgill-university-to-launch-ai-centre-in-india-11159079#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/assam-on-day-2-of-yatra-himanta-biswa-sarma-gets-bulldozer-salute-11158628#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/missing-mans-body-found-in-vegetarian-biryani-shops-deep-freezer-in-lucknow-11159169#publisher=newsstand",
     "category": "india",
-    "title": "On Day 2 Of Yatra, Himanta Biswa Sarma Gets 'Bulldozer Salute'",
-    "summary": "Flower petals were showered on the chief minister using a JCB.",
-    "image": "https://c.ndtvimg.com/2026-03/ehbfepks_himanta-biswa-sarma-bulldozer-salute_625x300_02_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Missing Man's Body Found In Vegetarian Biryani Shop's Deep Freezer In Lucknow",
+    "summary": "The deep freezer from where the missing man's body was recovered",
+    "image": "https://c.ndtvimg.com/2026-03/tr1m18fg_freezer_625x300_02_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 16:38:00 +0530",
-    "link": "https://www.ndtv.com/india-news/assam-on-day-2-of-yatra-himanta-biswa-sarma-gets-bulldozer-salute-11158628#publisher=newsstand"
+    "pubDate": "Mon, 02 Mar 2026 18:10:43 +0530",
+    "link": "https://www.ndtv.com/india-news/missing-mans-body-found-in-vegetarian-biryani-shops-deep-freezer-in-lucknow-11159169#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/israel-iran-war-iran-attacks-qatar-cannot-go-unanswered-qatar-flags-iran-attack-targeted-civilian-infra-11158592#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/saudi-to-retaliate-if-iran-mounts-concerted-attack-on-oil-facilities-report-11159058#publisher=newsstand",
     "category": "india",
-    "title": "\"Cannot Go Unanswered\": Qatar Flags Iran Attack Targeted Civilian Infra",
-    "summary": "Iran missiles landed in Qatar's Doha when it retaliated to the US strike",
-    "image": "https://c.ndtvimg.com/2026-03/ve8pu5oo_doha-attack_625x300_02_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Saudi To Retaliate If Iran Mounts Concerted Attack On Oil Facilities: Report",
+    "summary": "Military retaliation would be a possible option if Iran were seen as launching a targeted campaign.",
+    "image": "https://c.ndtvimg.com/2026-03/dhvhifd8_saudi-arabia-ras-tanura-facility_625x300_02_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 16:32:32 +0530",
-    "link": "https://www.ndtv.com/world-news/israel-iran-war-iran-attacks-qatar-cannot-go-unanswered-qatar-flags-iran-attack-targeted-civilian-infra-11158592#publisher=newsstand"
+    "pubDate": "Mon, 02 Mar 2026 18:07:05 +0530",
+    "link": "https://www.ndtv.com/world-news/saudi-to-retaliate-if-iran-mounts-concerted-attack-on-oil-facilities-report-11159058#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/health/indias-joint-health-crisis-new-data-links-office-chairs-to-faster-ageing-11158431#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/iran-targets-6th-ship-in-hormuz-strait-video-shows-billowing-smoke-11159019#publisher=newsstand",
     "category": "india",
-    "title": "India's Joint Health Crisis: New Data Links Office Chairs To Faster Ageing",
-    "summary": "New data has found that there is an active link between office chairs and the age of your joints",
-    "image": "https://c.ndtvimg.com/2026-03/enlehjr4_indian-working-professional-sitting-on-a-chair-_625x300_02_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Iran Targets 6th Ship In Hormuz Strait, Video Shows Billowing Smoke",
+    "summary": "Iran's state-run media has claimed that sixth ship has been targetted in the Strait of Hormuz, which t7he Islamic nation has declared shut. The closure is in retaliation to Saturday's air strikes by US and Israel.",
+    "image": "https://c.ndtvimg.com/2026-03/1nkji6gc_ship-iran_625x300_02_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 16:30:14 +0530",
-    "link": "https://www.ndtv.com/health/indias-joint-health-crisis-new-data-links-office-chairs-to-faster-ageing-11158431#publisher=newsstand"
+    "pubDate": "Mon, 02 Mar 2026 18:02:27 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-targets-6th-ship-in-hormuz-strait-video-shows-billowing-smoke-11159019#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-quote-of-the-day-by-peter-thiel-the-most-contrarian-thing-of-all-is-not-to-oppose-the-crowd-but-to-think-for-yourself-/articleshow/128942328.cms",
+    "category": "finance",
+    "title": "Stock market quote of the day by Peter Thiel | \u201cThe most contrarian thing of all is not to oppose the crowd but to think",
+    "summary": "True contrarian investing isn't about opposing the crowd, but about independent thought rooted in first principles. Genuine contrarians analyze fundamentals, not just market sentiment, to uncover overlooked risks or opportunities. This disciplined ap",
+    "image": "https://img.etimg.com/photo/msid-128942328,imgsize-60874.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 18:00:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-quote-of-the-day-by-peter-thiel-the-most-contrarian-thing-of-all-is-not-to-oppose-the-crowd-but-to-think-for-yourself-/articleshow/128942328.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/gas-leak-at-chemical-unit-in-maharashtras-palghar-no-injuries-reported-11158973#publisher=newsstand",
+    "category": "india",
+    "title": "Gas Leak At Chemical Unit In Maharashtra's Palghar, No Injuries Reported",
+    "summary": "The administration has advised local residents to stay away from the affected area.",
+    "image": "https://c.ndtvimg.com/2022-08/rbm5tbt8_do-not-cross-police-generic_625x300_23_August_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 17:44:46 +0530",
+    "link": "https://www.ndtv.com/india-news/gas-leak-at-chemical-unit-in-maharashtras-palghar-no-injuries-reported-11158973#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-israel-missile-attack-on-lebanon-hezbollah-31-dead-in-strike-on-lebanon-israel-says-ready-for-multi-front-scenario-11158981#publisher=newsstand",
+    "category": "india",
+    "title": "31 Dead In Strike On Lebanon, Israel Says \"Ready For Multi-Front Scenario\"",
+    "summary": "Israel targeted Hezbollah leadership Monday after the Tehran-backed group's overnight missile response to the assassination of Iran Supreme Leader Ayatollah Ali Khamenei.",
+    "image": "https://c.ndtvimg.com/2024-05/fcc8q4q8_israel-military-reuters_625x300_26_May_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 17:43:31 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-israel-missile-attack-on-lebanon-hezbollah-31-dead-in-strike-on-lebanon-israel-says-ready-for-multi-front-scenario-11158981#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/abandoned-as-child-chinese-woman-builds-fashion-brand-worth-36-million-11156908#publisher=newsstand",
+    "category": "india",
+    "title": "Abandoned As Child, Chinese Woman Builds Fashion Brand Worth $36 Million",
+    "summary": "eventually launched her own brand, Mix Selection, in 2020. (Representational)",
+    "image": "https://c.ndtvimg.com/2026-03/qui2esbk_china_625x300_02_March_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Mon, 02 Mar 2026 17:30:11 +0530",
+    "link": "https://www.ndtv.com/world-news/abandoned-as-child-chinese-woman-builds-fashion-brand-worth-36-million-11156908#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-adani-ports-tejas-networks-and-indigo-among-8-big-movers-on-monday/slideshow/128946286.cms",
+    "category": "finance",
+    "title": "\u200bGainers &amp; Losers: Adani Ports, Tejas Networks and Indigo among 8 big movers on Monday",
+    "summary": "Eight key stocks \u2014 including big movers like Tejas Networks, Adani Ports, L&amp;T and Indigo \u2014 saw sharp swings on Monday as escalating Middle East tensions, rising crude prices and defence orders drove intense sector-wide volatility.",
+    "image": "https://img.etimg.com/photo/msid-128946286,imgsize-922726.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 17:27:16 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-adani-ports-tejas-networks-and-indigo-among-8-big-movers-on-monday/slideshow/128946286.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/explained-what-usisrael-war-on-iran-means-for-indian-stocks-and-oil-prices/videoshow/128945465.cms",
+    "category": "finance",
+    "title": "Explained: What US\u2011Israel war on Iran means for Indian stocks and oil prices",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-128945465,imgsize-113464.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 16:52:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/explained-what-usisrael-war-on-iran-means-for-indian-stocks-and-oil-prices/videoshow/128945465.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/amid-west-asia-tensions-gold-may-hit-6000/ounce-nifty-near-term-returns-can-remain-flat-report/articleshow/128945319.cms",
+    "category": "finance",
+    "title": "Amid West Asia tensions, gold may hit $6,000/ounce, Nifty near-term returns can remain flat: Report",
+    "summary": "Gold prices could surge to USD 6,000 per troy ounce and rupee may weaken to 92-92.5 against USD if the Middle East conflict escalates further, according to a report by Elara Capital.",
+    "image": "https://img.etimg.com/photo/msid-128945319,imgsize-48292.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 16:49:04 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/amid-west-asia-tensions-gold-may-hit-6000/ounce-nifty-near-term-returns-can-remain-flat-report/articleshow/128945319.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/analysis-fresh-middle-east-curve-ball-raises-risks-for-weary-world-markets/articleshow/128945043.cms",
+    "category": "finance",
+    "title": "Fresh Middle East curve ball raises risks for weary world markets",
+    "summary": "Conflict in the Middle East has moved from a fringe risk \u200bto a top worry for investors unsettled by the prospect of a power struggle in Iran and a protracted regional war, with ramifications \u200bfor everything from global trade to inflation.",
+    "image": "https://img.etimg.com/photo/msid-128945043,imgsize-62738.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 16:42:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/analysis-fresh-middle-east-curve-ball-raises-risks-for-weary-world-markets/articleshow/128945043.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-wipro-and-3-other-large-cap-stocks-hit-52-week-lows-slip-up-to-17-in-a-month/slideshow/128945156.cms",
+    "category": "finance",
+    "title": "TCS, Wipro and 3 other large cap stocks hit 52-week lows; slip up to 17% in a month",
+    "summary": "On Monday, the benchmark Sensex tumbled nearly 1,048 points, closing at 80,238. Amid the broader market decline, five stocks in the BSE 100 LargeCap TMC index hit fresh 52-week lows.",
+    "image": "https://img.etimg.com/photo/msid-128945025,imgsize-204217.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 16:35:15 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-wipro-and-3-other-large-cap-stocks-hit-52-week-lows-slip-up-to-17-in-a-month/slideshow/128945156.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/top-5-listed-realty-firms-sale-bookings-up-20-pc-to-rs-84000-cr-in-apr-dec-fy26/articleshow/128944894.cms",
+    "category": "finance",
+    "title": "Top 5 listed realty firms' sale bookings up 20 pc to Rs 84,000 cr in Apr-Dec FY26",
+    "summary": "India's five major listed real estate firms' sales bookings rose 20 per cent to nearly Rs 84,000 crore in the first nine months of this fiscal, driven mainly by strong demand for luxury homes.",
+    "image": "https://img.etimg.com/photo/msid-128944894,imgsize-128614.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 16:34:04 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/top-5-listed-realty-firms-sale-bookings-up-20-pc-to-rs-84000-cr-in-apr-dec-fy26/articleshow/128944894.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/tarc-ltd-expects-rs-4500-cr-revenue-from-luxury-housing-project-in-delhi/articleshow/128944724.cms",
@@ -170,124 +250,24 @@
     "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/tarc-ltd-expects-rs-4500-cr-revenue-from-luxury-housing-project-in-delhi/articleshow/128944724.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/university-of-birmingham-announces-rs-10-lakh-pg-scholarship-for-indian-students-apply-today-11158562#publisher=newsstand",
-    "category": "india",
-    "title": "University Of Birmingham Announces Rs 10 Lakh PG Scholarship For Indian Students, Apply Today",
-    "summary": "Apply By May 2026 For Birmingham Masters Scholarship",
-    "image": "https://c.ndtvimg.com/2026-01/vssors7o_sd_625x300_28_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 16:27:17 +0530",
-    "link": "https://www.ndtv.com/education/university-of-birmingham-announces-rs-10-lakh-pg-scholarship-for-indian-students-apply-today-11158562#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1526626.html",
+    "category": "sports",
+    "title": "PCB fines Pakistan players for underwhelming T20 World Cup campaign",
+    "summary": "They have been fined PKR 5 million (US$ 18,000 approx.) after missing out on the semi-finals of an ICC men's event for the fourth successive time",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413500/413584.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 02 Mar 2026 12:37:46 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526626.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-israel-war-netanyahus-office-targeted-in-surprise-missile-attacks-iran-revolutionary-guards-11158402#publisher=newsstand",
-    "category": "india",
-    "title": "Netanyahu's Office Targeted In \"Surprise Missile Attacks,\" Claims Iran",
-    "summary": "The Iranian attacks have so far killed five people in the Gulf, according to authorities",
-    "image": "https://c.ndtvimg.com/2019-09/3pt3goso_benjamin-netanyahu-reuters_625x300_20_September_19.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 16:27:02 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-netanyahus-office-targeted-in-surprise-missile-attacks-iran-revolutionary-guards-11158402#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/telegram-ceo-calls-dubai-statistically-safer-than-europe-amid-iranian-attacks-elon-musk-reacts-11158479#publisher=newsstand",
-    "category": "india",
-    "title": "Telegram CEO Calls Dubai \"Statistically Safer\" Than Europe, Elon Musk Reacts",
-    "summary": "Durov has based Telegram's operations in Dubai since 2017.",
-    "image": "https://c.ndtvimg.com/2025-07/7hbqn4qo_pavel-durov-and-elon-musk_625x300_17_July_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 02 Mar 2026 16:26:18 +0530",
-    "link": "https://www.ndtv.com/world-news/telegram-ceo-calls-dubai-statistically-safer-than-europe-amid-iranian-attacks-elon-musk-reacts-11158479#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/iran-crisis-jolts-japan-bond-yields-muddies-boj-rate-outlook/articleshow/128944642.cms",
-    "category": "finance",
-    "title": "Iran crisis jolts Japan bond yields, muddies BOJ rate outlook",
-    "summary": "Market expectations for Japanese bond yields and the central bank's \u200bnext rate increase have been thrown into disarray as investors fear an extended conflict in the Middle East will have knock-on effects on the yen and domestic inflation.",
-    "image": "https://img.etimg.com/photo/msid-128944642,imgsize-223864.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 16:21:42 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/iran-crisis-jolts-japan-bond-yields-muddies-boj-rate-outlook/articleshow/128944642.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-drops-to-one-month-low-as-escalating-middle-east-war-keeps-traders-on-edge/articleshow/128944562.cms",
-    "category": "finance",
-    "title": "Rupee drops to one-month low as escalating Middle East war keeps traders on edge",
-    "summary": "The rupee fell to its weakest \u200bin a month, while the \u200bcost of hedging against further depreciation against the dollar rose, \u200bas the escalating military conflict in the Middle East kept financial markets across the globe on edge.",
-    "image": "https://img.etimg.com/photo/msid-128944562,imgsize-252188.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 16:17:17 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-drops-to-one-month-low-as-escalating-middle-east-war-keeps-traders-on-edge/articleshow/128944562.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/forget-equities-load-up-on-gold-and-mining-stocks-ajay-srivastava-makes-a-case-for-portfolio-overhaul/articleshow/128944159.cms",
-    "category": "finance",
-    "title": "Forget equities, load up on gold and mining stocks:  Ajay Srivastava makes a case for portfolio overhaul",
-    "summary": "Amidst Middle East tensions, Ajay Srivastava advocates a 33-33-33 portfolio of precious metals, Indian equities, and international stocks. He advises against FMCG and domestic consumption, favoring hard assets like gold, silver, and base metals due t",
-    "image": "https://img.etimg.com/photo/msid-128944159,imgsize-16064.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 15:59:34 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/forget-equities-load-up-on-gold-and-mining-stocks-ajay-srivastava-makes-a-case-for-portfolio-overhaul/articleshow/128944159.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/lts-5-drop-an-overreaction-but-the-middle-east-risk-is-real-says-sumit-kishore-of-axis-capital/articleshow/128943632.cms",
-    "category": "finance",
-    "title": "L&amp;T's 5% drop an overreaction but the Middle East risk is real, says Sumit Kishore of Axis Capital",
-    "summary": "Larsen &amp; Toubro shares fell nearly 5% amid Middle East tensions, but an analyst believes it's too early to cut earnings estimates. While the company has substantial exposure to the region, its diversified project footprint and strong order pipeli",
-    "image": "https://img.etimg.com/photo/msid-128943632,imgsize-20318.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 15:38:21 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/lts-5-drop-an-overreaction-but-the-middle-east-risk-is-real-says-sumit-kishore-of-axis-capital/articleshow/128943632.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/as-india-targets-a-1020-trillion-economy-fixed-income-deserves-a-larger-role-in-portfolios-vineet-agrawal/articleshow/128943520.cms",
-    "category": "finance",
-    "title": "As India targets a $10\u201320 trillion economy, fixed income deserves a larger role in portfolios: Vineet Agrawal",
-    "summary": "Global markets face geopolitical risks and trade disruptions. Investors are increasingly seeking stability in portfolios. Fixed income instruments offer predictable cash flows and diversification. India's economic growth necessitates a stronger role ",
-    "image": "https://img.etimg.com/photo/msid-128943520,imgsize-2339180.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 15:28:39 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/as-india-targets-a-1020-trillion-economy-fixed-income-deserves-a-larger-role-in-portfolios-vineet-agrawal/articleshow/128943520.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-to-double-at-10000-in-next-5-years-jefferies-chris-wood-makes-bold-prediction/articleshow/128943442.cms",
-    "category": "finance",
-    "title": "Gold price to double at $10,000 in next 5 years? Jefferies\u2019 Chris Wood makes bold prediction!",
-    "summary": "Chris Wood of Jefferies sees gold potentially hitting $10,000 in five years, backed by geopolitical tensions, central bank accumulation and structural shifts in global reserves. He flags short-term consolidation risks but maintains a long-term bullis",
-    "image": "https://img.etimg.com/photo/msid-128943442,imgsize-83332.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 15:19:56 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-to-double-at-10000-in-next-5-years-jefferies-chris-wood-makes-bold-prediction/articleshow/128943442.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-shares-plunge-6-as-escalating-iran-israel-war-spark-concerns-around-haifa-port/articleshow/128942878.cms",
-    "category": "finance",
-    "title": "Adani Ports shares plunge 6% as escalating Iran-Israel war sparks concerns around Haifa port",
-    "summary": "Adani Ports shares fell sharply as the Iran\u2013Israel conflict intensified, raising concerns over potential disruptions at its Haifa Port operations. While the company said all assets remain secure, escalating retaliatory strikes and rising geopolitical",
-    "image": "https://img.etimg.com/photo/msid-128942878,imgsize-32066.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 14:50:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-shares-plunge-6-as-escalating-iran-israel-war-spark-concerns-around-haifa-port/articleshow/128942878.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cgjznzgly0po#2",
+    "id": "https://www.bbc.com/news/articles/cp32ddzdjxko#2",
     "category": "global",
-    "title": "Deadly Texas bar shooting 'potentially act of terrorism', FBI says",
-    "summary": "Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead.",
+    "title": "Refugee status becomes temporary in asylum shake-up",
+    "summary": "Adults and accompanied children claiming asylum will only receive refugee status for 30 months under the changes.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 02 Mar 2026 11:24:48 GMT",
-    "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cm2r0q310e3o#1",
-    "category": "global",
-    "title": "Iranian drone hit RAF base, Cyprus president says",
-    "summary": "No casualties were reported and the base sustained \"minimal damage\", the Ministry of Defence said.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 02 Mar 2026 10:37:36 GMT",
-    "link": "https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 02 Mar 2026 12:30:29 GMT",
+    "link": "https://www.bbc.com/news/articles/cp32ddzdjxko?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cqj9g11p1ezo#2",
@@ -296,8 +276,18 @@
     "summary": "The prime minister says it remains the case that the UK will \"not join offensive action now\".",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 02 Mar 2026 10:00:38 GMT",
+    "pubDate": "Mon, 02 Mar 2026 12:23:50 GMT",
     "link": "https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cm2r0q310e3o#1",
+    "category": "global",
+    "title": "Two drones headed to RAF base intercepted, Cyprus says",
+    "summary": "No casualties were reported and the base sustained \"minimal damage\", the Ministry of Defence said.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 02 Mar 2026 12:07:13 GMT",
+    "link": "https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c75evve6l63o#1",
@@ -338,6 +328,16 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 02 Mar 2026 07:12:52 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526604.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cd9gkknee0zo#2",
+    "category": "global",
+    "title": "Scotland becomes first UK country to allow water cremations",
+    "summary": "The process - called alkaline hydrolysis - will offer families a third option instead of burial or traditional cremation.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 02 Mar 2026 06:10:44 GMT",
+    "link": "https://www.bbc.com/news/articles/cd9gkknee0zo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526271.html",
