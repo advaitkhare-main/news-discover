@@ -50,16 +50,6 @@
     "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cqj9g11p1ezo#2",
-    "category": "global",
-    "title": "UK will allow US to use bases to strike Iranian missile sites, PM says",
-    "summary": "The prime minister says it remains the case that the UK will \"not join offensive action now\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 01 Mar 2026 22:56:45 GMT",
-    "link": "https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c1jk922dgjgo#1",
     "category": "global",
     "title": "Allies of US in the Gulf bear brunt of Iran attacks",
@@ -100,26 +90,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1526587.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526553.html",
-    "category": "sports",
-    "title": "Samson: One of the greatest days of my life",
-    "summary": "Samson hit an unbeaten 97 off 50 - a record score for India while chasing in men's T20 World Cups",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414298.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 01 Mar 2026 18:58:14 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526553.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526556.html",
-    "category": "sports",
-    "title": "Samson special leads India into the semi-finals",
-    "summary": "West Indies posted 195 in a must-win game but would rue their captain Hope's 32 off 33 balls",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414298.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 01 Mar 2026 18:24:41 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526556.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cx2lgvg5rl1o#1",
     "category": "global",
     "title": "Iran's regime is still intact - the coming days will show if it can hold out",
@@ -158,6 +128,56 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 05 Jan 2026 07:45:00 GMT",
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/best-places-to-hide-in-war-20-stocks-analysts-say-to-bet-on-amid-us-iran-conflict/articleshow/128940309.cms",
+    "category": "finance",
+    "title": "Best places to hide in war: 20 stocks analysts say to bet on amid US-Iran conflict",
+    "summary": "Global markets are experiencing volatility due to Middle East tensions. Indian equities are bracing for this uncertainty. Analysts suggest certain stocks in energy, metals, IT, pharma, defence, and banking could offer relative safety. Investors are a",
+    "image": "https://img.etimg.com/photo/msid-128940309,imgsize-88740.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 12:47:56 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/best-places-to-hide-in-war-20-stocks-analysts-say-to-bet-on-amid-us-iran-conflict/articleshow/128940309.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-end-flat-as-energy-gold-miners-offset-bank-losses-on-middle-east-conflict/articleshow/128940173.cms",
+    "category": "finance",
+    "title": "Global Markets | Australian shares end flat as energy, gold miners offset bank losses on Middle East conflict",
+    "summary": "Australian shares ended flat as Middle East conflict dampened investor sentiment. While miners and energy stocks surged on safe-haven demand, financials and airlines tumbled. The S&amp;P/ASX 200 index saw minimal movement, reflecting geopolitical ris",
+    "image": "https://img.etimg.com/photo/msid-128940173,imgsize-158360.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 12:41:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-end-flat-as-energy-gold-miners-offset-bank-losses-on-middle-east-conflict/articleshow/128940173.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-calls-israel-iran-conflict-a-buying-opportunity-warns-hormuz-crude-shock-risks-for-india/articleshow/128939979.cms",
+    "category": "finance",
+    "title": "Jefferies calls Israel-Iran conflict a buying opportunity; warns Hormuz, crude shock risks for India",
+    "summary": "Jefferies sees the Israel-Iran conflict as a potential buying opportunity but warns of macro risks if crude prices spike due to Hormuz disruption. India faces exposure through oil imports, exports and remittances, with sectors like aviation and OMCs ",
+    "image": "https://img.etimg.com/photo/msid-128939979,imgsize-552151.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 12:33:08 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-calls-israel-iran-conflict-a-buying-opportunity-warns-hormuz-crude-shock-risks-for-india/articleshow/128939979.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/sebi-chief-draws-sharp-distinction-between-futures-and-options-pinpoints-where-the-real-problem-lies/articleshow/128939897.cms",
+    "category": "finance",
+    "title": "SEBI chief draws sharp distinction between Futures and Options &amp; pinpoints where the real problem lies",
+    "summary": "India's market regulator, SEBI, is clarifying the debate on derivatives trading. Chairperson Tuhin Kanta Pandey emphasizes that futures and options are distinct. The real concern lies with short-dated options and expiry-day speculation, not the entir",
+    "image": "https://img.etimg.com/photo/msid-128939897,imgsize-29410.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 12:31:19 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/sebi-chief-draws-sharp-distinction-between-futures-and-options-pinpoints-where-the-real-problem-lies/articleshow/128939897.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-gail-bel-share-price-02-march-2026/liveblog/128933492.cms",
+    "category": "finance",
+    "title": "Sensex Today | Nifty 50 | Stock Market LIVE Updates: Sensex tanks over 1,600 pts, Nifty below 24,700; India VIX surges 2",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-128933492,imgsize-2431334.cms",
+    "source": "ET",
+    "pubDate": "Mon, 02 Mar 2026 12:21:08 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-gail-bel-share-price-02-march-2026/liveblog/128933492.cms"
   },
   {
     "id": "https://www.ndtv.com/world-news/iran-israel-war-clouds-of-smoke-seen-rising-from-us-embassy-in-kuwait-11157243#publisher=newsstand",
@@ -212,8 +232,8 @@
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-deploys-ai-tool-sudarshan-removes-1-2-lakh-misleading-finfluencer-posts-tuhin-kanta-pandey/articleshow/128939153.cms",
     "category": "finance",
-    "title": "SEBI deploys AI tool 'Sudarshan', removes 1.2 lakh misleading 'finfluencer' posts: Tuhin Kanta Pandey",
-    "summary": "The Securities and Exchange Board of India has removed over 1.2 lakh misleading posts by unregistered financial influencers. Using an AI tool named Sudarshan, SEBI tracks violations in the digital space. The regulator is also warning retail investors",
+    "title": "Sebi deploys AI tool 'Sudarshan', removes 1.2 lakh misleading 'finfluencer' posts: Tuhin Kanta Pandey",
+    "summary": "The Securities and Exchange Board of India has removed over 1.2 lakh misleading posts by unregistered financial influencers. Using an AI tool named Sudarshan, Sebi tracks violations in the digital space. The regulator is also warning retail investors",
     "image": "https://img.etimg.com/photo/msid-128939153,imgsize-198784.cms",
     "source": "ET",
     "pubDate": "Mon, 02 Mar 2026 12:04:44 +0530",
@@ -270,54 +290,54 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-crude-markets-on-edge-as-middle-east-tensions-mount-whats-next-for-oil-prices/articleshow/128939077.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-show-resilience-amid-middle-east-tensions-matt-orton/articleshow/128938584.cms",
-    "category": "finance",
-    "title": "Global markets show resilience amid Middle East tensions: Matt Orton",
-    "summary": "Global markets opened this week with limited declines despite Middle East tensions, as investors had largely anticipated the escalation. Crude prices eased from initial jumps, with the Strait of Hormuz's future being a key factor for energy prices.",
-    "image": "https://img.etimg.com/photo/msid-128938584,imgsize-10914.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 11:29:50 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-show-resilience-amid-middle-east-tensions-matt-orton/articleshow/128938584.cms"
+    "id": "https://www.bbc.com/news/articles/cm2r0q310e3o#1",
+    "category": "global",
+    "title": "Iranian drone crashed into RAF base, Cyprus president says",
+    "summary": "No casualties were reported and the base sustained \"minimal damage\", the Ministry of Defence said.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 02 Mar 2026 07:40:00 GMT",
+    "link": "https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/asian-paints-other-paint-stocks-plunge-up-to-6-as-israel-iran-war-fuels-rally-in-crude-oil-prices-what-lies-ahead/articleshow/128938387.cms",
-    "category": "finance",
-    "title": "Asian Paints, other paint stocks plunge up to 6% as Israel-Iran war fuels rally in crude oil prices: What lies ahead?",
-    "summary": "Paint stocks like Asian Paints and Indigo Paints plunged up to 6% as crude oil prices surged due to escalating Middle East tensions following attacks on Iran. The conflict, particularly around the Strait of Hormuz, has raised concerns about oil suppl",
-    "image": "https://img.etimg.com/photo/msid-128938387,imgsize-117109.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 11:22:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/asian-paints-other-paint-stocks-plunge-up-to-6-as-israel-iran-war-fuels-rally-in-crude-oil-prices-what-lies-ahead/articleshow/128938387.cms"
+    "id": "https://www.bbc.com/news/articles/cqj9g11p1ezo#2",
+    "category": "global",
+    "title": "UK will allow US to use bases to strike Iranian missile sites, PM says",
+    "summary": "The prime minister says it remains the case that the UK will \"not join offensive action now\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 02 Mar 2026 07:22:48 GMT",
+    "link": "https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/tejas-networks-shares-skyrocket-60-in-just-4-sessions-whats-triggering-the-sharp-surge/articleshow/128937931.cms",
-    "category": "finance",
-    "title": "Tejas Networks shares skyrocket 60% in just 4 sessions! What\u2019s triggering the sharp surge?",
-    "summary": "Tejas Networks shares soared over 15% to Rs 503, marking a 60% surge in four sessions, driven by strong volumes and a new manufacturing deal with NEC for 5G massive MIMO radios. Despite a recent quarterly loss and revenue dip, the company anticipates",
-    "image": "https://img.etimg.com/photo/msid-128937931,imgsize-7304.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 10:59:01 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/tejas-networks-shares-skyrocket-60-in-just-4-sessions-whats-triggering-the-sharp-surge/articleshow/128937931.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1526608.html",
+    "category": "sports",
+    "title": "India to host Afghanistan for one Test and three ODIs in June",
+    "summary": "This will only be the second Test between the two sides, after the first one was played in 2018",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/383300/383380.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 02 Mar 2026 07:16:58 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526608.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/treasury-bonds-dollar-remain-reliable-safe-havens-in-crisis-peter-cardillo/articleshow/128937781.cms",
-    "category": "finance",
-    "title": "Treasury bonds, dollar remain reliable safe havens in crisis: Peter Cardillo",
-    "summary": "Global markets opened cautiously as geopolitical tensions escalated, boosting demand for safe-haven assets like the U.S. dollar and Treasury bonds. Oil prices experienced a 'shock trade' due to uncertainty surrounding the Strait of Hormuz, a critical",
-    "image": "https://img.etimg.com/photo/msid-128937781,imgsize-28638.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 10:56:20 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/treasury-bonds-dollar-remain-reliable-safe-havens-in-crisis-peter-cardillo/articleshow/128937781.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1526604.html",
+    "category": "sports",
+    "title": "'Need to do more to beat India' - Du Plessis, Kumble say WI 'played it safe'",
+    "summary": "West Indies also did not make India think too much about their sixth bowling option, which has been one of their areas of concerns",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414278.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 02 Mar 2026 07:12:52 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526604.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-holidays-in-march-2026-nse-bse-to-remain-shut-on-3-days-this-month-check-list/articleshow/128937700.cms",
-    "category": "finance",
-    "title": "Stock Market holidays in March 2026: NSE, BSE to remain shut on 3 days this month; check list",
-    "summary": "NSE Holidays March 2026: Indian stock markets face three closures in March 2026. Holi, Shri Ram Navami, and Shri Mahavir Jayanti will halt trading. This marks the highest monthly holiday count for the year. Investors are questioning the March 3 Holi ",
-    "image": "https://img.etimg.com/photo/msid-128937700,imgsize-48412.cms",
-    "source": "ET",
-    "pubDate": "Mon, 02 Mar 2026 10:55:37 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-holidays-in-march-2026-nse-bse-to-remain-shut-on-3-days-this-month-check-list/articleshow/128937700.cms"
+    "id": "https://www.bbc.com/news/articles/c75evve6l63o#1",
+    "category": "global",
+    "title": "Oil prices rise after ships attacked near Strait of Hormuz",
+    "summary": "Experts have warned that a prolonged conflict could push global energy prices even higher.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 02 Mar 2026 06:53:43 GMT",
+    "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526271.html",
@@ -328,16 +348,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 02 Mar 2026 05:41:22 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526271.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cm2r0q310e3o#1",
-    "category": "global",
-    "title": "RAF base in Cyprus targeted in suspected drone strike, MoD says",
-    "summary": "The BBC understands there were no casualties in the suspected strike on RAF Akrotiri in southern Cyprus.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 02 Mar 2026 05:24:27 GMT",
-    "link": "https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526439.html",
@@ -368,16 +378,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 02 Mar 2026 03:00:53 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526595.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c75evve6l63o#1",
-    "category": "global",
-    "title": "Oil prices rise after ships attacked near Strait of Hormuz",
-    "summary": "Experts have warned that a prolonged conflict could push global energy prices even higher.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 02 Mar 2026 02:12:41 GMT",
-    "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
