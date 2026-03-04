@@ -40,6 +40,16 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-moderna-rises-on-2-25-billion-settlement-clearing-covid-vaccine-patent-dispute-overhang/articleshow/129036871.cms"
   },
   {
+    "id": "https://www.espncricinfo.com/ci/content/story/1526891.html",
+    "category": "sports",
+    "title": "Conrad: 'Tonight wasn't a choke, it was a bloody walloping'",
+    "summary": "South Africa head coach admits his team \"didn't have a sniff\" against New Zealand, and got a proper <i>snotklap</i>",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414364.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 04 Mar 2026 21:16:03 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526891.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/129035583.cms",
     "category": "finance",
     "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
@@ -50,6 +60,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/129035583.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cdxzzqe82d2o#1",
+    "category": "global",
+    "title": "How depleted weapons stockpiles could affect the Iran conflict",
+    "summary": "Weapons stocks will not alone decide the outcome of this conflict, but it's certainly a significant factor, writes the BBC's Jonathan Beale.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 04 Mar 2026 20:57:50 GMT",
+    "link": "https://www.bbc.com/news/articles/cdxzzqe82d2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-balrampur-chini-and-abbott-india-on-thursday-for-gains-up-to-5/articleshow/129035321.cms",
     "category": "finance",
     "title": "Market Trading Guide: Buy Balrampur Chini and Abbott India on Thursday for gains up to 5%",
@@ -58,6 +78,16 @@
     "source": "ET",
     "pubDate": "Wed, 04 Mar 2026 20:57:39 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-balrampur-chini-and-abbott-india-on-thursday-for-gains-up-to-5/articleshow/129035321.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/cd6zzg2g7vno#1",
+    "category": "global",
+    "title": "Video of US torpedo hitting Iranian warship released by Pentagon",
+    "summary": "US Secretary of Defense Pete Hegseth said the US military has sunk \"an Iranian warship\" in the Indian Ocean with a torpedo.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 04 Mar 2026 20:56:07 GMT",
+    "link": "https://www.bbc.com/news/videos/cd6zzg2g7vno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-goldman-says-global-equities-face-correction-risks-but-bear-market-unlikely/articleshow/129035019.cms",
@@ -110,6 +140,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-sold-about-rs-11000-crore-worth-indian-stocks-in-2-days-of-us-iran-war/articleshow/129032843.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cj4zze5lzjpo#1",
+    "category": "global",
+    "title": "'Every day feels like a month': Iranians describe life under 'constant' US-Israeli strikes",
+    "summary": "Iranians are coping with daily strikes, internet blackouts, and security crackdowns - all while trying to stay in touch with loved ones.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 04 Mar 2026 19:31:24 GMT",
+    "link": "https://www.bbc.com/news/articles/cj4zze5lzjpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c7955ewj7gwo#2",
     "category": "global",
     "title": "MP says she has seen nothing to suspect husband has broken law, after China spying arrests",
@@ -128,16 +168,6 @@
     "source": "BBC",
     "pubDate": "Wed, 04 Mar 2026 18:14:04 GMT",
     "link": "https://www.bbc.com/news/articles/cr5ll27z52do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/clygglq6v9go#1",
-    "category": "global",
-    "title": "Iran postpones Khamenei funeral as US-Israeli bombardment continues",
-    "summary": "An official says more preparations are needed for the three-day ceremony in Tehran, where the supreme leader will lie in state.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 04 Mar 2026 18:10:50 GMT",
-    "link": "https://www.bbc.com/news/articles/clygglq6v9go?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526875.html",
@@ -170,16 +200,6 @@
     "link": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c5y5505w4lzo#1",
-    "category": "global",
-    "title": "UK warship HMS Dragon not expected to sail to Cyprus until next week",
-    "summary": "HMS Dragon is being loaded with ammunition in Portsmouth having just recently come out of maintenance.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 04 Mar 2026 16:15:01 GMT",
-    "link": "https://www.bbc.com/news/articles/c5y5505w4lzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1526831.html",
     "category": "sports",
     "title": "Sulakshan Kulkarni takes over as Oman head coach",
@@ -198,16 +218,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 04 Mar 2026 15:23:54 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526791.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/cd6zzg2g7vno#1",
-    "category": "global",
-    "title": "Video of US torpedo hitting Iranian warship released by Pentagon",
-    "summary": "US Secretary of Defense Pete Hegseth said the US military has sunk \"an Iranian warship\" in the Indian Ocean with a torpedo.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 04 Mar 2026 15:05:10 GMT",
-    "link": "https://www.bbc.com/news/videos/cd6zzg2g7vno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526822.html",
@@ -248,16 +258,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 04 Mar 2026 14:15:41 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526793.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526810.html",
-    "category": "sports",
-    "title": "Brook: England get a 'bad rap' about playing spin",
-    "summary": "England captain leans into slow-bowling strengths ahead of crucial semi-final at the Wankhede",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414348.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 04 Mar 2026 14:10:54 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526810.html?ex_cid=OTC-RSS"
   },
   {
     "id": "1dxpkoyNmn8ceRMHCKLlT8",
