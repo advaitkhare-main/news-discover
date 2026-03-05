@@ -30,16 +30,6 @@
     "link": "https://www.bbc.com/news/articles/c3rzj9jy9e8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526891.html",
-    "category": "sports",
-    "title": "Conrad: 'Tonight wasn't a choke, it was a bloody walloping'",
-    "summary": "South Africa head coach admits his team \"didn't have a sniff\" against New Zealand, and got a proper <i>snotklap</i>",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414364.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 04 Mar 2026 21:16:03 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526891.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cdxzzqe82d2o#1",
     "category": "global",
     "title": "How depleted weapons stockpiles could affect the Iran conflict",
@@ -68,16 +58,6 @@
     "source": "BBC",
     "pubDate": "Wed, 04 Mar 2026 18:39:13 GMT",
     "link": "https://www.bbc.com/news/articles/c7955ewj7gwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cr5ll27z52do#2",
-    "category": "global",
-    "title": "Russia blames Ukrainian naval drones as tanker sinks in Mediterranean",
-    "summary": "The Arctic Metagaz went down between Libya and Malta after it was hit by explosions and a fire, Libyan officials say.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 04 Mar 2026 18:14:04 GMT",
-    "link": "https://www.bbc.com/news/articles/cr5ll27z52do?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526875.html",
@@ -150,16 +130,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1526788.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526793.html",
-    "category": "sports",
-    "title": "India vs England chapter 3: the match that could define eras",
-    "summary": "The two teams are meeting in the semi-finals for the third straight edition, on the back of less than perfect campaigns, and seeking a historic third title",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414304.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 04 Mar 2026 14:15:41 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526793.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "1dxpkoyNmn8ceRMHCKLlT8",
     "category": "scitech",
     "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -180,84 +150,194 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-south-korea-leads-asian-shares-higher-gold-gains/articleshow/129060341.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/west-asia-conflict-and-ai-disruption-cast-twin-shadows-over-indias-market-outlook-sanjeev-prasad/articleshow/129066693.cms",
     "category": "finance",
-    "title": "Global Market Today | South Korea leads Asian shares higher, gold gains",
-    "summary": "Asian equities rebounded, tracking US stock gains fueled by positive economic data, despite ongoing Iran war uncertainty. South Korea's Kospi surged 11%, and the MSCI Asia Pacific Index rose 2.8%. Oil prices continued their ascent for a fifth day, wh",
-    "image": "https://img.etimg.com/photo/msid-129060341,imgsize-107306.cms",
+    "title": "West Asia conflict and AI disruption cast twin shadows over India's market outlook: Sanjeev Prasad",
+    "summary": "West Asian conflict hits Indian equities at a vulnerable time, with stretched valuations and AI concerns already present. Sanjeev Prasad of Kotak Institutional Equities highlights oil supply disruption as a major threat, potentially impacting current",
+    "image": "https://img.etimg.com/photo/msid-129066693,imgsize-16436.cms",
     "source": "ET",
-    "pubDate": "Thu, 05 Mar 2026 06:39:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-south-korea-leads-asian-shares-higher-gold-gains/articleshow/129060341.cms"
+    "pubDate": "Thu, 05 Mar 2026 09:28:20 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/west-asia-conflict-and-ai-disruption-cast-twin-shadows-over-indias-market-outlook-sanjeev-prasad/articleshow/129066693.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-up-more-than-1-in-early-asian-trade/articleshow/129060077.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/silver-jumps-rs-8700/kg-gold-rises-rs-1600/10g-as-middle-east-conflict-enters-day-6-time-to-buy-or-wait-for-dip/articleshow/129066766.cms",
     "category": "finance",
-    "title": "Oil price up more than 1 % in early Asian trade",
-    "summary": "Oil prices were up more than one percent in early Asian trade on Thursday off the back of persistent worries about supplies because of the Middle East conflict. But following days of market declines, Asian stocks rose in early trade Thursday.",
-    "image": "https://img.etimg.com/photo/msid-129060077,imgsize-1387939.cms",
+    "title": "Silver jumps Rs 8,700/kg, gold rises Rs 1,600/10g as Middle East conflict enters day 6. Time to buy or wait for dip?",
+    "summary": "Gold and silver prices opened sharply higher on the Multi-Commodity Exchange of India on Thursday. Escalating Middle East tensions boosted safe-haven demand. A softer US dollar also made bullion more attractive. MCX Gold futures for April 2026 delive",
+    "image": "https://img.etimg.com/photo/msid-129066766,imgsize-68592.cms",
     "source": "ET",
-    "pubDate": "Thu, 05 Mar 2026 06:31:37 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-up-more-than-1-in-early-asian-trade/articleshow/129060077.cms"
+    "pubDate": "Thu, 05 Mar 2026 09:27:21 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/silver-jumps-rs-8700/kg-gold-rises-rs-1600/10g-as-middle-east-conflict-enters-day-6-time-to-buy-or-wait-for-dip/articleshow/129066766.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/rupee-crashes-past-92-per-dollar-for-first-time-as-war-fears-roil-markets/articleshow/129060049.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/iran-war-shock-for-nifty-bulls-how-to-tweak-your-portfolio-for-peace-of-mind/articleshow/129066221.cms",
     "category": "finance",
-    "title": "Rupee crashes past 92 per dollar for first time as war fears roil markets",
-    "summary": "The Indian rupee hit a record low of 92.16 against the dollar, mirroring a sharp rise in equity fear gauges. This depreciation was driven by West Asian war disruptions impacting oil and gas supplies, prompting a flight to safe-haven dollar assets. Th",
-    "image": "https://img.etimg.com/photo/msid-129060049,imgsize-41576.cms",
+    "title": "Iran war shock for Nifty bulls: How to tweak your portfolio for peace of mind",
+    "summary": "Indian stock markets are experiencing a sharp decline due to escalating Middle East tensions.  Experts advise against panic selling, urging investors to identify quality businesses for long-term gains.  Brokerages are recalibrating portfolios, favori",
+    "image": "https://img.etimg.com/photo/msid-129066221,imgsize-2930694.cms",
     "source": "ET",
-    "pubDate": "Thu, 05 Mar 2026 06:30:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/rupee-crashes-past-92-per-dollar-for-first-time-as-war-fears-roil-markets/articleshow/129060049.cms"
+    "pubDate": "Thu, 05 Mar 2026 09:13:53 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/iran-war-shock-for-nifty-bulls-how-to-tweak-your-portfolio-for-peace-of-mind/articleshow/129066221.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/west-asia-tensions-trigger-worst-market-fall-since-budget-day/articleshow/129059834.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-koreas-kospi-leaps-12-rebounds-from-worst-ever-crash/articleshow/129066043.cms",
     "category": "finance",
-    "title": "West Asia tensions trigger worst market fall since Budget day",
-    "summary": "Indian equity indices experienced their sharpest single-day fall since February 1, plummeting 1.5% due to escalating West Asia conflict and rising oil prices. This triggered a risk-off sentiment, leading to significant foreign portfolio investor exit",
-    "image": "https://img.etimg.com/photo/msid-129059834,imgsize-151062.cms",
+    "title": "Global Market | South Korea's KOSPI leaps 12%, rebounds from worst-ever crash",
+    "summary": "South Korea's KOSPI index surged 12% on Thursday, recovering from its worst-ever daily drop, fueled by hopes of U.S.-Iran diplomatic progress. Global oil price stabilization and Wall Street's resilience also boosted market sentiment. The government a",
+    "image": "https://img.etimg.com/photo/msid-129066043,imgsize-84660.cms",
     "source": "ET",
-    "pubDate": "Thu, 05 Mar 2026 06:26:08 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/west-asia-tensions-trigger-worst-market-fall-since-budget-day/articleshow/129059834.cms"
+    "pubDate": "Thu, 05 Mar 2026 09:09:47 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-koreas-kospi-leaps-12-rebounds-from-worst-ever-crash/articleshow/129066043.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-consumer-rides-high-on-strong-q3-new-launches/articleshow/129059640.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hul-shares-in-focus-after-fmcg-major-completes-rs-307-cr-stake-sale-in-wellbeing-nutrition/articleshow/129066024.cms",
     "category": "finance",
-    "title": "Bajaj Consumer rides high on strong Q3, new launches",
-    "summary": "Bajaj Consumer Care stock shows resilience. Its flagship Almond Drops hair oil is driving double-digit volume growth. The company is investing in brands and distribution. Analysts are positive, retaining a 'Buy' rating. Input costs remain a watch poi",
-    "image": "https://img.etimg.com/photo/msid-129059640,imgsize-10166.cms",
+    "title": "HUL shares in focus after FMCG major completes Rs 307 cr stake sale in Wellbeing Nutrition",
+    "summary": "Hindustan Unilever has completed the sale of its stake in Wellbeing Nutrition for Rs 307 crore. USV Private Limited acquired a majority stake in the wellness supplement brand. Wellbeing Nutrition offers various health products and has seen revenue gr",
+    "image": "https://img.etimg.com/photo/msid-129066024,imgsize-289848.cms",
     "source": "ET",
-    "pubDate": "Thu, 05 Mar 2026 06:19:50 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-consumer-rides-high-on-strong-q3-new-launches/articleshow/129059640.cms"
+    "pubDate": "Thu, 05 Mar 2026 09:09:17 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hul-shares-in-focus-after-fmcg-major-completes-rs-307-cr-stake-sale-in-wellbeing-nutrition/articleshow/129066024.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/west-asia-tensions-rattle-capital-goods-stocks-lt-kec-slide/articleshow/129059405.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-south-korea-activates-68-bn-market-stability-fund-over-mideast-crisis/articleshow/129065643.cms",
     "category": "finance",
-    "title": "West Asia tensions rattle capital goods stocks; L&amp;T, KEC slide",
-    "summary": "Engineering and capital goods stocks are under pressure due to the Iran-Israel conflict, with the BSE Capital Goods index falling nearly 4%. Companies like Larsen &amp; Toubro and KEC International face potential project cancellations and execution d",
-    "image": "https://img.etimg.com/photo/msid-129059405,imgsize-494192.cms",
+    "title": "Global Markets | South Korea activates $68 bn market stability fund over Mideast crisis",
+    "summary": "South Korean President Lee Jae myung ordered the activation of a $68 billion market stabilisation fund to counter rising volatility driven by the escalating Middle East crisis.",
+    "image": "https://img.etimg.com/photo/msid-129065643,imgsize-94049.cms",
     "source": "ET",
-    "pubDate": "Thu, 05 Mar 2026 06:14:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/west-asia-tensions-rattle-capital-goods-stocks-lt-kec-slide/articleshow/129059405.cms"
+    "pubDate": "Thu, 05 Mar 2026 08:59:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-south-korea-activates-68-bn-market-stability-fund-over-mideast-crisis/articleshow/129065643.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/129039703.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-among-5-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/129065593.cms",
     "category": "finance",
-    "title": "Pre-market action: Here's the trade setup for today's session",
-    "summary": "Indian indices saw a sharp correction on Wednesday amid escalating Middle East tensions, with analysts predicting a weak but oversold short-term outlook. Key support for traders is seen at 24,300, while resistance lies at 24,600. The India VIX surged",
-    "image": "https://img.etimg.com/photo/msid-129039703,imgsize-111647.cms",
+    "title": "Swiggy among 5 stocks flashing bullish signals, hinting at a possible uptrend",
+    "summary": "Five large-cap stocks, including Swiggy and Fractal Analytics, formed a bullish White Marubozu candlestick pattern on technical charts, signalling strong buying pressure and hinting at a potential near-term uptrend as buyers dominated trading from op",
+    "image": "https://img.etimg.com/photo/msid-129065414,imgsize-102420.cms",
     "source": "ET",
-    "pubDate": "Thu, 05 Mar 2026 06:11:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/129039703.cms"
+    "pubDate": "Thu, 05 Mar 2026 08:54:20 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-among-5-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/129065593.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-mrf-shriram-finance-indigo-bse-glenmark-pharma/articleshow/129039361.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-in-focus-after-sebi-approves-launch-of-fo-contracts-for-bse-sensex-next-30-index/articleshow/129065217.cms",
     "category": "finance",
-    "title": "Stocks in news: MRF, Shriram Finance, IndiGo, BSE, Glenmark Pharma",
-    "summary": "Indian equities are declining amid rising crude oil prices, with Nifty below its trendline and weak RSI momentum. Several stocks like MRF, Shriram Finance, IndiGo, BSE, and Glenmark Pharma are in focus due to significant news. Shriram Finance secured",
-    "image": "https://img.etimg.com/photo/msid-129039361,imgsize-52870.cms",
+    "title": "BSE shares jump 3% after SEBI approves launch of F&amp;O contracts for BSE Sensex Next 30 index",
+    "summary": "Bombay Stock Exchange shares saw a rise on Thursday. This followed market regulator SEBI's approval for BSE to introduce derivative contracts. These contracts will be for the BSE Sensex Next 30 index. The index tracks the next largest and most liquid",
+    "image": "https://img.etimg.com/photo/msid-129065217,imgsize-1719000.cms",
     "source": "ET",
-    "pubDate": "Thu, 05 Mar 2026 06:11:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-mrf-shriram-finance-indigo-bse-glenmark-pharma/articleshow/129039361.cms"
+    "pubDate": "Thu, 05 Mar 2026 08:52:06 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-in-focus-after-sebi-approves-launch-of-fo-contracts-for-bse-sensex-next-30-index/articleshow/129065217.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/israel-iran-us-war-india-rejects-report-claiming-us-using-its-ports-for-iran-strikes-11170167#publisher=newsstand",
+    "category": "india",
+    "title": "\"Baseless\": India Rejects Report Claiming US Using Its Ports For Iran Strikes",
+    "summary": "Representational Image",
+    "image": "https://c.ndtvimg.com/2026-03/trv96424_us-navy_625x300_05_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 08:21:12 +0530",
+    "link": "https://www.ndtv.com/india-news/israel-iran-us-war-india-rejects-report-claiming-us-using-its-ports-for-iran-strikes-11170167#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iris-dena-news-live-updates-us-submarine-iranian-warship-indian-ocean-iran-israel-us-war-naval-exercise-11168461#publisher=newsstand",
+    "category": "india",
+    "title": "Iris Dena Highlights: \"Single Mark 48 Torpedo\" Used To Sink Iranian Warship: US",
+    "summary": "IRIS Dena was returning from India after participating in the 2026 International Fleet Review",
+    "image": "https://c.ndtvimg.com/2026-03/6rtqv6oc_iris-dena-indian-navy_625x300_04_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 08:18:21 +0530",
+    "link": "https://www.ndtv.com/world-news/iris-dena-news-live-updates-us-submarine-iranian-warship-indian-ocean-iran-israel-us-war-naval-exercise-11168461#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/nepal-elections-voting-2026-live-updates-nepal-votes-today-in-first-elections-after-gen-z-protests-led-to-kp-sharma-olis-fall-pushpa-kamal-dahal-prach-11169980#publisher=newsstand",
+    "category": "india",
+    "title": "Nepal Elections 2026\u00a0Live Updates: Nepal Votes In Key Polls After Gen Z Protests",
+    "summary": "General elections in Nepal Voting Live News: Nepal has seen 32 changes in government since 1990",
+    "image": "https://c.ndtvimg.com/2026-03/2op9g6to_nepal-polls_625x300_05_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 08:16:31 +0530",
+    "link": "https://www.ndtv.com/world-news/nepal-elections-voting-2026-live-updates-nepal-votes-today-in-first-elections-after-gen-z-protests-led-to-kp-sharma-olis-fall-pushpa-kamal-dahal-prach-11169980#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/donald-trump-rates-us-war-performance-against-iran-as-15-out-of-10-us-israel-iran-war-middle-east-conflict-11170180#publisher=newsstand",
+    "category": "india",
+    "title": "\"15 Out Of 10\": Trump Rates US War Performance Against Iran",
+    "summary": "Donald Trump  pledged that he would \"continue forward\" with joint air campaign with Israel",
+    "image": "https://c.ndtvimg.com/2026-03/bsh594g4_trump_625x300_05_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 08:12:57 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trump-rates-us-war-performance-against-iran-as-15-out-of-10-us-israel-iran-war-middle-east-conflict-11170180#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-us-iran-will-fight-until-last-moment-geopolitical-strategist-velina-tchakarova-to-ndtv-on-ongoing-war-11170183#publisher=newsstand",
+    "category": "india",
+    "title": "\"Iran Will Fight Until Last Moment\": Geopolitical Strategist To NDTV On Ongoing War",
+    "summary": "Velina Tchakarova said the escalating war is \"very hard to predict\".",
+    "image": "https://c.ndtvimg.com/2026-03/k172ppvg_geopol-_625x300_05_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 08:09:19 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-us-iran-will-fight-until-last-moment-geopolitical-strategist-velina-tchakarova-to-ndtv-on-ongoing-war-11170183#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cbse-board-exams-2026-live-class-12-psychology-class-10-language-papers-today-check-details-11170187#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE Board Exams For Class 12 Psychology, Class 10 Language Papers Today",
+    "summary": "CBSE Class 10 exams will conclude on March 10, while Class 12 exams will end on April 10.",
+    "image": "https://c.ndtvimg.com/2025-11/l9qbbjbk_cbse-board_625x300_20_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 08:09:18 +0530",
+    "link": "https://www.ndtv.com/education/cbse-board-exams-2026-live-class-12-psychology-class-10-language-papers-today-check-details-11170187#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-us-war-pentagon-identifies-6-us-soldiers-killed-in-kuwait-drone-strike-11170145#publisher=newsstand",
+    "category": "india",
+    "title": "Pentagon Identifies 6 US Soldiers Killed In Kuwait Drone Strike",
+    "summary": "The soldiers died Sunday when a drone hit a command center in Port Shuaiba, Kuwait",
+    "image": "https://c.ndtvimg.com/2026-03/lf2sv6a_us-soldiers_625x300_05_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 07:53:46 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-us-war-pentagon-identifies-6-us-soldiers-killed-in-kuwait-drone-strike-11170145#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/feature/using-meta-ai-glasses-kenyan-tech-workers-are-watching-you-poop-undress-and-have-sex-11170133#publisher=newsstand",
+    "category": "india",
+    "title": "Using Meta AI Glasses? Kenyan Tech Workers Are Watching You Poop, Undress And Have Sex",
+    "summary": "Kenyan workers review Meta AI glasses footage, including private moments for data labelling.",
+    "image": "https://c.ndtvimg.com/2026-01/pn7olqd4_rayban-meta-glasses_625x300_25_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 07:46:25 +0530",
+    "link": "https://www.ndtv.com/feature/using-meta-ai-glasses-kenyan-tech-workers-are-watching-you-poop-undress-and-have-sex-11170133#publisher=newsstand"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1526891.html",
+    "category": "sports",
+    "title": "Conrad: 'Tonight wasn't a choke, it was a bloody walloping'",
+    "summary": "South Africa head coach admits his team \"didn't have a sniff\" against New Zealand, and got a proper <i>snotklap</i>",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414374.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 05 Mar 2026 03:39:09 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526891.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1526902.html",
+    "category": "sports",
+    "title": "Final spot in the bag, Henry can catch his breath after frenetic but 'special' week",
+    "summary": "Matt Henry flew back home to be around for his son's birth and flew back for the T20 World Cup semi-final, all during the crisis in West Asia, will now \"get ready for what's to come\"",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414357.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 05 Mar 2026 02:43:27 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526902.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cpqwwvnp7z8o#2",
+    "category": "global",
+    "title": "Dentists who failed to see enough NHS patients return \u00a3900m of government funding",
+    "summary": "Sum represents \u00a31 out of every \u00a37 they have been given by NHS as dentists opt to chase private work.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 05 Mar 2026 02:34:16 GMT",
+    "link": "https://www.bbc.com/news/articles/cpqwwvnp7z8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cj322v8pjp5o#2",
