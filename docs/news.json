@@ -50,16 +50,6 @@
     "link": "https://www.bbc.com/news/articles/cj4zze5lzjpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c7955ewj7gwo#2",
-    "category": "global",
-    "title": "MP says she has seen nothing to suspect husband has broken law, after China spying arrests",
-    "summary": "The Met Police suspect three men of assisting Chinese intelligence services in the UK.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 04 Mar 2026 18:39:13 GMT",
-    "link": "https://www.bbc.com/news/articles/c7955ewj7gwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c0e55g03v2zo#1",
     "category": "global",
     "title": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
@@ -68,26 +58,6 @@
     "source": "BBC",
     "pubDate": "Wed, 04 Mar 2026 16:56:17 GMT",
     "link": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526831.html",
-    "category": "sports",
-    "title": "Sulakshan Kulkarni takes over as Oman head coach",
-    "summary": "He takes over from Duleep Mendis, who held the position for 14 years",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413345.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 04 Mar 2026 15:42:26 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526831.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526791.html",
-    "category": "sports",
-    "title": "Babar, Ayub dropped from ODI side; Farhan called-up for Bangladesh series",
-    "summary": "There are six uncapped players in the squad of 15 for the three-match series",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/379500/379596.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 04 Mar 2026 15:23:54 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526791.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cdxzzkkkwjqo#1",
@@ -118,6 +88,116 @@
     "source": "VentureBeat",
     "pubDate": "Thu, 22 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/indian-origin-youtuber-nancy-grewal-stabbed-to-death-in-canada-11170913#publisher=newsstand",
+    "category": "india",
+    "title": "Indian-Origin YouTuber Nancy Grewal Stabbed To Death In Canada",
+    "summary": "Nancy Grewal was famous for criticising Khalistanis in her social media posts.",
+    "image": "https://c.ndtvimg.com/2026-03/5kfca90s_nancy-grewal_625x300_05_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 11:54:52 +0530",
+    "link": "https://www.ndtv.com/world-news/indian-origin-youtuber-nancy-grewal-stabbed-to-death-in-canada-11170913#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/nitish-kumar-rajya-sabha-theres-been-a-desire-in-my-heart-nitish-kumar-to-move-to-rajya-sabha-11170762#publisher=newsstand",
+    "category": "india",
+    "title": "Nitish Kumar Announces Rajya Sabha Plan, Spells Out A '4-House Club' Desire",
+    "summary": "Nitish Kumar Rajya Sabha: \"There's Been A Desire In My Heart\": Nitish Kumar To Move To Rajya Sabha",
+    "image": "https://c.ndtvimg.com/2022-04/9dnakivg_nitish-kumar-pti_625x300_01_April_22.jpg",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 11:53:40 +0530",
+    "link": "https://www.ndtv.com/india-news/nitish-kumar-rajya-sabha-theres-been-a-desire-in-my-heart-nitish-kumar-to-move-to-rajya-sabha-11170762#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/why-attacking-turkey-a-nato-member-is-a-high-risk-bet-for-iran-11170883#publisher=newsstand",
+    "category": "india",
+    "title": "Why Attacking Turkey, A NATO Member, Is A High-Risk Bet For Iran",
+    "summary": "A direct attack on Turkey's territory would alter the legal and military framework of the conflict.",
+    "image": "https://c.ndtvimg.com/2026-03/8nj8gkto_iran_625x300_02_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 11:52:59 +0530",
+    "link": "https://www.ndtv.com/world-news/why-attacking-turkey-a-nato-member-is-a-high-risk-bet-for-iran-11170883#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-us-war-iran-fires-missiles-at-israel-blasts-heard-in-tehran-as-war-escalates-11170697#publisher=newsstand",
+    "category": "india",
+    "title": "Iran Launches 19th Wave Of Strikes On Israel, Blasts Heard In Tehran",
+    "summary": "Several explosions were also heard in Tehran (File photo)",
+    "image": "https://c.ndtvimg.com/2026-03/d7u6ofoc_iran-war_625x300_05_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 11:46:45 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-us-war-iran-fires-missiles-at-israel-blasts-heard-in-tehran-as-war-escalates-11170697#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/telangana-news/congress-picks-telangana-chief-minister-revanth-reddys-aide-vem-narender-reddy-for-rajya-sabha-cash-for-vote-scandal-11170924#publisher=newsstand",
+    "category": "india",
+    "title": "Congress Picks Telangana Chief Minister Revanth Reddy's Aide For Rajya Sabha",
+    "summary": "Congress has fielded Vem Narender Reddy to the Rajya Sabha from Telangana.",
+    "image": "https://c.ndtvimg.com/2026-03/1p4v0t3s_vem-narender-reddy-revanth-reddy_625x300_05_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 11:42:41 +0530",
+    "link": "https://www.ndtv.com/telangana-news/congress-picks-telangana-chief-minister-revanth-reddys-aide-vem-narender-reddy-for-rajya-sabha-cash-for-vote-scandal-11170924#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/diagnosed-with-prediabetes-should-you-be-worried-8-tips-to-reverse-it-naturally-11170887#publisher=newsstand",
+    "category": "india",
+    "title": "Diagnosed With Prediabetes? Should You Be Worried? 8 Tips To Reverse It Naturally",
+    "summary": "Reversing prediabetes is absolutely possible through dedicated lifestyle changes",
+    "image": "https://c.ndtvimg.com/2026-03/1e8iv9a8_diabetes_625x300_05_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 11:42:05 +0530",
+    "link": "https://www.ndtv.com/health/diagnosed-with-prediabetes-should-you-be-worried-8-tips-to-reverse-it-naturally-11170887#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/china-begins-its-biggest-political-two-sessions-meetings-what-it-is-11170565#publisher=newsstand",
+    "category": "india",
+    "title": "China Begins Its Biggest Political 'Two Sessions' Meetings: What It Is",
+    "summary": "China's 15th Five-Year Plan is expected to be approved by delegates.",
+    "image": "https://c.ndtvimg.com/2026-03/oa7nrge4_china-meeting_625x300_05_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 11:40:03 +0530",
+    "link": "https://www.ndtv.com/world-news/china-begins-its-biggest-political-two-sessions-meetings-what-it-is-11170565#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-donald-trump-says-we-are-doing-very-well-in-war-against-iran-middle-east-conflict-11170767#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Says \"We Are Doing Very Well\" In War Against Iran",
+    "summary": "Trump in recent days has offered shifting rationales for why the US and Israel launched strikes on Iran",
+    "image": "https://c.ndtvimg.com/2026-03/5lg86cvg_trump_625x300_05_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 11:39:19 +0530",
+    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-donald-trump-says-we-are-doing-very-well-in-war-against-iran-middle-east-conflict-11170767#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-shares-surge-4-as-class-8-truck-orders-jump-159-year-on-year-check-details/articleshow/129071760.cms",
+    "category": "finance",
+    "title": "Bharat Forge shares surge 4% as Class 8 truck orders jump 159% year-on-year. Check details",
+    "summary": "Bharat Forge shares rose 4% after strong growth in North America\u2019s Class 8 truck orders, which jumped 159% year-on-year in February. The surge signals improving demand in the commercial vehicle cycle, a key export market for the company, which also r",
+    "image": "https://img.etimg.com/photo/msid-129071760,imgsize-619306.cms",
+    "source": "ET",
+    "pubDate": "Thu, 05 Mar 2026 11:19:11 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-shares-surge-4-as-class-8-truck-orders-jump-159-year-on-year-check-details/articleshow/129071760.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-jumps-20-from-february-lows-of-60000-approaches-72000-as-institutional-demand-revives/articleshow/129071319.cms",
+    "category": "finance",
+    "title": "Bitcoin jumps 20% from February lows of $60,000, approaches $72,000 as institutional demand revives",
+    "summary": "Bitcoin has surged past $72,000, driven by renewed institutional interest and significant inflows into US spot Bitcoin ETFs. Major altcoins like Ethereum, BNB, and Solana are also showing strong gains. Analysts suggest this recovery, despite cautious",
+    "image": "https://img.etimg.com/photo/msid-129071319,imgsize-33844.cms",
+    "source": "ET",
+    "pubDate": "Thu, 05 Mar 2026 11:14:04 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-jumps-20-from-february-lows-of-60000-approaches-72000-as-institutional-demand-revives/articleshow/129071319.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/lt-shares-rise-2-after-falling-for-4-days-heres-why-motilal-oswal-still-remains-cautious/articleshow/129070924.cms",
+    "category": "finance",
+    "title": "L&amp;T shares rise 2% after falling for 4 days: Here's why Motilal Oswal still remains cautious",
+    "summary": "L&amp;T shares rose over 2% after four days of losses as hopes of easing Iran-Israel tensions lifted sentiment. However, Motilal Oswal remains cautious, citing the company\u2019s significant Middle East exposure, risks to EPC execution, and potential valu",
+    "image": "https://img.etimg.com/photo/msid-129070924,imgsize-62782.cms",
+    "source": "ET",
+    "pubDate": "Thu, 05 Mar 2026 11:01:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/lt-shares-rise-2-after-falling-for-4-days-heres-why-motilal-oswal-still-remains-cautious/articleshow/129070924.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/oil-is-driving-everything-and-it-is-still-too-early-to-call-a-peak-geoff-dennis/articleshow/129070391.cms",
@@ -170,114 +250,24 @@
     "link": "https://economictimes.indiatimes.com/markets/expert-view/wait-for-dust-to-settle-before-taking-fresh-bets-says-maulik-patel/articleshow/129069191.cms"
   },
   {
-    "id": "https://www.ndtv.com/feature/watch-indian-stuck-in-israel-shares-crazy-experience-of-war-amid-iranian-missile-attacks-11170608#publisher=newsstand",
-    "category": "india",
-    "title": "Watch: Indian Stuck In Israel Shares 'Crazy Experience' Of War Amid Iranian Missile Attacks",
-    "summary": "Indian influencer shares experience hiding in shelters amid Iran-Israel missile attacks.",
-    "image": "https://c.ndtvimg.com/2026-03/qptc4r7s_as_625x300_05_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 05 Mar 2026 10:20:18 +0530",
-    "link": "https://www.ndtv.com/feature/watch-indian-stuck-in-israel-shares-crazy-experience-of-war-amid-iranian-missile-attacks-11170608#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1526917.html",
+    "category": "sports",
+    "title": "Halliday's maiden ODI century, Kerr sisters' seven wickets hand Zimbabwe a walloping",
+    "summary": "Brooke Halliday struck 157*, the joint-third-highest score by a NZ batter in ODIs, as Zimbabwe went down by a record 180 runs",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414371.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 05 Mar 2026 06:37:10 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526917.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-record-low-beyond-92/1-amid-geopolitical-tensions-rbi-steps-in-to-limit-slide/articleshow/129068866.cms",
-    "category": "finance",
-    "title": "Rupee hits record low beyond 92/$1 amid geopolitical tensions; RBI steps in to limit slide",
-    "summary": "The Indian rupee hit a record low of 92.15 against the dollar, mirroring a surge in equity fear gauges. This depreciation is attributed to West Asian war-induced oil and gas supply disruptions, prompting a flight to safe-haven dollar assets. Central ",
-    "image": "https://img.etimg.com/photo/msid-129068866,imgsize-38644.cms",
-    "source": "ET",
-    "pubDate": "Thu, 05 Mar 2026 10:19:19 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-record-low-beyond-92/1-amid-geopolitical-tensions-rbi-steps-in-to-limit-slide/articleshow/129068866.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/sedemac-mechatronics-ipo-day-2-gmp-subscription-status-key-details/articleshow/129069000.cms",
-    "category": "finance",
-    "title": "Sedemac Mechatronics IPO Day 2: GMP, subscription status, key details",
-    "summary": "The Rs 1,087 crore Sedemac Mechatronics IPO entered Day 2 with 27% subscription on the first day, driven by QIB demand. The grey market premium stands at Rs 60, indicating modest listing gains. While financial growth is strong, high valuations and cu",
-    "image": "https://img.etimg.com/photo/msid-129069000,imgsize-4014.cms",
-    "source": "ET",
-    "pubDate": "Thu, 05 Mar 2026 10:17:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sedemac-mechatronics-ipo-day-2-gmp-subscription-status-key-details/articleshow/129069000.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-ukraine-offers-help-to-middle-east-to-stop-irans-shaheds-drones-but-for-a-price-11170584#publisher=newsstand",
-    "category": "india",
-    "title": "Ukraine Offers Help To Middle East To Stop Iranian Drones. But For A Price",
-    "summary": "Volodymyr Zelensky  made his offer after cities across Middle East became a target for Iranian drone",
-    "image": "https://c.ndtvimg.com/2026-03/ffkl882_volodymyr-zelensky-shaheds-drone_625x300_05_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 05 Mar 2026 10:17:30 +0530",
-    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-ukraine-offers-help-to-middle-east-to-stop-irans-shaheds-drones-but-for-a-price-11170584#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-israel-us-war-middle-east-bombs-missiles-falling-indian-tourists-stranded-in-bahrain-amid-iran-war-11170560#publisher=newsstand",
-    "category": "india",
-    "title": "\"Our Condition's Terrible\": Indian Tourists Stranded In Bahrain Amid Iran War",
-    "summary": "The Iran war has entered its sixth day.",
-    "image": "https://c.ndtvimg.com/2026-03/a0rjpjtg_bahrain_625x300_05_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 05 Mar 2026 10:16:10 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-us-war-middle-east-bombs-missiles-falling-indian-tourists-stranded-in-bahrain-amid-iran-war-11170560#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-fed-chair-nominee-kevin-warsh-faces-political-hurdles-economic-tests/articleshow/129068833.cms",
-    "category": "finance",
-    "title": "US Stock Market | Fed Chair nominee Kevin Warsh faces political hurdles, economic tests",
-    "summary": "President Trump nominated former Fed Governor Kevin Warsh to chair the Federal Reserve, signaling a potential shift towards lower interest rates.  While Republicans largely view Warsh as qualified, his confirmation faces challenges from Senator Thom ",
-    "image": "https://img.etimg.com/photo/msid-129068833,imgsize-204908.cms",
-    "source": "ET",
-    "pubDate": "Thu, 05 Mar 2026 10:14:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-fed-chair-nominee-kevin-warsh-faces-political-hurdles-economic-tests/articleshow/129068833.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/loco-pilot-refuses-to-work-beyond-9-hour-shift-train-halted-for-3-hours-in-bihar-11170569#publisher=newsstand",
-    "category": "india",
-    "title": "Loco Pilot Refuses To Work Beyond 9-Hour Shift, Train Halted For 3 Hours In Bihar",
-    "summary": "As per railway guidelines, a loco pilot can work only 9-10 hours at a stretch to ensure safe operations",
-    "image": "https://c.ndtvimg.com/2026-03/1f42g1n8_train_625x300_05_March_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 05 Mar 2026 10:08:53 +0530",
-    "link": "https://www.ndtv.com/india-news/loco-pilot-refuses-to-work-beyond-9-hour-shift-train-halted-for-3-hours-in-bihar-11170569#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/pakistani-man-asif-merchant-accused-of-plotting-to-kill-donald-trump-joe-biden-nikki-hayley-says-iran-forced-him-11170514#publisher=newsstand",
-    "category": "india",
-    "title": "\"No Other Option\": Pak Man Accused Of 'Plotting To Kill Trump' Blames Iran",
-    "summary": "Asif Merchant's wife and three children live in Pakistan.",
-    "image": "https://c.ndtvimg.com/2026-03/5fantc6c_asif-merchant_625x300_05_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 05 Mar 2026 10:07:29 +0530",
-    "link": "https://www.ndtv.com/world-news/pakistani-man-asif-merchant-accused-of-plotting-to-kill-donald-trump-joe-biden-nikki-hayley-says-iran-forced-him-11170514#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-traders-hope-for-sensex-nifty-recovery-after-wall-street-gains-11170011#publisher=newsstand",
-    "category": "india",
-    "title": "Stock Market Live: Sensex, Nifty Open In Green After Wall Street Gains",
-    "summary": "Stock Market Today News LIVE: Iran war has triggered fears of oil supply disruption, spooking markets.",
-    "image": "https://c.ndtvimg.com/2026-02/9h0lfcrk_stock-market-closing-today_625x300_24_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 05 Mar 2026 10:03:48 +0530",
-    "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-traders-hope-for-sensex-nifty-recovery-after-wall-street-gains-11170011#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-israel-us-war-pentagon-identifies-6-us-soldiers-killed-in-kuwait-drone-strike-11170145#publisher=newsstand",
-    "category": "india",
-    "title": "Pentagon Identifies 6 US Soldiers Killed In Kuwait Drone Strike",
-    "summary": "The soldiers died Sunday when a drone hit a command center in Port Shuaiba, Kuwait",
-    "image": "https://c.ndtvimg.com/2026-03/lf2sv6a_us-soldiers_625x300_05_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 05 Mar 2026 09:55:19 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-us-war-pentagon-identifies-6-us-soldiers-killed-in-kuwait-drone-strike-11170145#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/nitish-kumar-bihar-chief-minister-rajya-sabha-why-nitish-kumar-may-move-to-rajya-sabha-and-who-can-replace-him-11170534#publisher=newsstand",
-    "category": "india",
-    "title": "Why Nitish Kumar May Move To Rajya Sabha, And Who Can Replace Him",
-    "summary": "Nitish Kumar, reports say, will file nomination for the Rajya Sabha polls today",
-    "image": "https://c.ndtvimg.com/2026-03/frob80hs_nitish-kumar_625x300_04_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 05 Mar 2026 09:54:37 +0530",
-    "link": "https://www.ndtv.com/india-news/nitish-kumar-bihar-chief-minister-rajya-sabha-why-nitish-kumar-may-move-to-rajya-sabha-and-who-can-replace-him-11170534#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1526916.html",
+    "category": "sports",
+    "title": "India will have to be aggressive to spoil Healy's farewell",
+    "summary": "Australia only need a draw at the WACA to secure the multi-format series outright but will be motivated to send off their captain with a victory",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/376000/376066.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 05 Mar 2026 06:30:03 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526916.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526793.html",
@@ -348,6 +338,16 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 05 Mar 2026 02:43:27 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526902.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cpqwwvnp7z8o#2",
+    "category": "global",
+    "title": "Dentists who failed to see enough NHS patients return \u00a3900m of government funding",
+    "summary": "Sum represents \u00a31 out of every \u00a37 they have been given by NHS as dentists opt to chase private work.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 05 Mar 2026 02:34:16 GMT",
+    "link": "https://www.bbc.com/news/articles/cpqwwvnp7z8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
