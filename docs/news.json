@@ -10,6 +10,16 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c5yjj28jjd0o#1",
+    "category": "global",
+    "title": "US Senate vote fails to rein in Trump war powers on Iran",
+    "summary": "The measure, passed largely along party lines, would halt US military action until approved by Congress.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 04 Mar 2026 23:42:08 GMT",
+    "link": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c0j559146e6o#2",
     "category": "global",
     "title": "Mahmood to set out curbs to asylum seeker support",
@@ -42,7 +52,7 @@
   {
     "id": "https://www.bbc.com/news/articles/cj4zze5lzjpo#1",
     "category": "global",
-    "title": "'Every day feels like a month': Iranians describe life under 'constant' US-Israeli strikes",
+    "title": "'Every day feels like a month': Iranians describe life under US-Israeli strikes",
     "summary": "Iranians are coping with daily strikes, internet blackouts, and security crackdowns - all while trying to stay in touch with loved ones.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -80,84 +90,114 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/india-news/iran-israel-war-only-military-conflict-no-solution-to-any-issue-pm-modi-on-iran-ukraine-wars-11171398#publisher=newsstand",
+    "category": "india",
+    "title": "\"Only Military Conflict No Solution To Any Issue\": PM Modi On Iran, Ukraine Wars",
+    "summary": "Citing global challenges, the Prime Minister also called for a reform of the global institutions.",
+    "image": "https://c.ndtvimg.com/2026-03/2kpl4vq8_pm-modi-_625x300_05_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 05 Mar 2026 13:58:21 +0530",
+    "link": "https://www.ndtv.com/india-news/iran-israel-war-only-military-conflict-no-solution-to-any-issue-pm-modi-on-iran-ukraine-wars-11171398#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/iran-war-doomsday-minuteman-iii-missile-us-tests-missile-that-can-strike-anywhere-on-earth-amid-iran-israel-war-11171090#publisher=newsstand",
     "category": "india",
     "title": "US Tests 'Doomsday' Missile Amid Iran War. It Can Strike Any Place On Earth",
     "summary": "Minuteman III is a nuclear-capable missile",
     "image": "https://c.ndtvimg.com/2026-03/tjrf0f08_minutemaniii_625x300_05_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 05 Mar 2026 13:01:45 +0530",
+    "pubDate": "Thu, 05 Mar 2026 13:55:52 +0530",
     "link": "https://www.ndtv.com/world-news/iran-war-doomsday-minuteman-iii-missile-us-tests-missile-that-can-strike-anywhere-on-earth-amid-iran-israel-war-11171090#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-israel-us-war-us-will-regret-this-iran-on-submarine-attack-2-000-miles-from-its-shores-11171036#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/upsc-result-2025-live-updates-cse-final-merit-list-expected-anytime-this-week-11171418#publisher=newsstand",
     "category": "india",
-    "title": "\"Guest Of India Struck In International Waters\": Iran On US Submarine Attack",
-    "summary": "A Pentagon video purporting to have captured the attack showed the warship being hit by a huge explosion",
-    "image": "https://c.ndtvimg.com/2026-03/dvntrtvo_iran-ship_650x400_05_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "UPSC Result 2025 Live: CSE Final Merit List Expected Anytime This Week",
+    "summary": "How To Check UPSC CSE 2025 Results Online After Interviews",
+    "image": "https://c.ndtvimg.com/2024-04/6ul6i29_upsc-generic-civil-services-exam-generic-ani_625x300_17_April_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 05 Mar 2026 12:58:28 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-us-war-us-will-regret-this-iran-on-submarine-attack-2-000-miles-from-its-shores-11171036#publisher=newsstand"
+    "pubDate": "Thu, 05 Mar 2026 13:43:26 +0530",
+    "link": "https://www.ndtv.com/education/upsc-result-2025-live-updates-cse-final-merit-list-expected-anytime-this-week-11171418#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/ap-ssc-hall-ticket-2026-out-soon-live-when-where-and-how-to-download-direct-link-here-11171012#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/ts-ssc-hall-ticket-2026-live-updates-direct-link-to-download-class-10-admit-card-here-11171427#publisher=newsstand",
     "category": "india",
-    "title": "AP SSC Hall Ticket 2026: When, Where, How To Download Class 10 Admit Card",
-    "summary": "AP SSC Hall Ticket 2026: The AP SSC Public Examinations 2026 will be conducted from March 16 to April 1.",
-    "image": "https://c.ndtvimg.com/2026-03/runp8n8g_ap-ssc-hall-ticket-2026_625x300_05_March_26.jpeg",
+    "title": "TS SSC Hall Ticket 2026 Live: Direct Link To Download Class 10 Admit Card Here",
+    "summary": "TS SSC Hall Ticket 2026 Live: The hall ticket is a mandatory document required to enter the exam hall.",
+    "image": "https://c.ndtvimg.com/2026-03/3mofjeig_ts-ssc-hall-ticket-2026-live_625x300_05_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 05 Mar 2026 12:57:53 +0530",
-    "link": "https://www.ndtv.com/education/ap-ssc-hall-ticket-2026-out-soon-live-when-where-and-how-to-download-direct-link-here-11171012#publisher=newsstand"
+    "pubDate": "Thu, 05 Mar 2026 13:43:04 +0530",
+    "link": "https://www.ndtv.com/education/ts-ssc-hall-ticket-2026-live-updates-direct-link-to-download-class-10-admit-card-here-11171427#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/what-would-winston-churchill-make-of-war-with-iran-11171158#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/mark-carney-pm-narendra-modi-canadas-carney-praises-unique-pm-narendra-modi-25-years-and-not-a-day-off-11171407#publisher=newsstand",
     "category": "india",
-    "title": "What Would Winston Churchill Make Of War With Iran?",
-    "summary": "Winston Churchill would have stood shoulder to shoulder with Washington in a confrontation with Tehran.",
-    "image": "https://c.ndtvimg.com/2026-03/78fugaac_winston-churchill-iran_625x300_05_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "\"25 Years And Not A Day Off\": Canada's Carney Praises \"Unique\" PM Modi",
+    "summary": "Mark Carney said that PM Modi's political outreach remains remarkably extensive",
+    "image": "https://c.ndtvimg.com/2026-03/kqu1d4bc_pm-modimark-carney-meeting_625x300_05_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 05 Mar 2026 12:54:34 +0530",
-    "link": "https://www.ndtv.com/world-news/what-would-winston-churchill-make-of-war-with-iran-11171158#publisher=newsstand"
+    "pubDate": "Thu, 05 Mar 2026 13:39:15 +0530",
+    "link": "https://www.ndtv.com/world-news/mark-carney-pm-narendra-modi-canadas-carney-praises-unique-pm-narendra-modi-25-years-and-not-a-day-off-11171407#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-2-indians-killed-in-iran-attack-on-oil-tanker-skylight-in-strait-of-hormuz-near-oman-port-11171213#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/sharad-pawar-parth-pawar-rajya-sabha-election-different-generations-opposite-camps-2-pawars-set-to-be-rajya-sabha-mps-11171402#publisher=newsstand",
     "category": "india",
-    "title": "2 Indians Killed In Iran Attack On Oil Tanker 'Skylight' In Strait Of Hormuz",
-    "summary": "Captain Ashish Kumar's bones have been recovered.",
-    "image": "https://c.ndtvimg.com/2026-03/q6904kkg_ashish-kumar-indian-killed-in-strait-of-hormuz_625x300_05_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Different Generations, Opposite Camps: 2 Pawars Set To Be Rajya Sabha MPs",
+    "summary": "Sharad Pawar and Parth Pawar are set to become Rajya Sabha MPs",
+    "image": "https://c.ndtvimg.com/2026-03/4m3fg9hs_sharad-pawar_625x300_05_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 05 Mar 2026 12:53:28 +0530",
-    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-2-indians-killed-in-iran-attack-on-oil-tanker-skylight-in-strait-of-hormuz-near-oman-port-11171213#publisher=newsstand"
+    "pubDate": "Thu, 05 Mar 2026 13:38:05 +0530",
+    "link": "https://www.ndtv.com/india-news/sharad-pawar-parth-pawar-rajya-sabha-election-different-generations-opposite-camps-2-pawars-set-to-be-rajya-sabha-mps-11171402#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/telangana-student-16-gives-birth-in-toilet-hours-after-appearing-for-exam-11170842#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/us-senator-tim-sheehy-on-snapping-arm-of-protester-he-came-looking-for-confrontation-got-one-11171325#publisher=newsstand",
     "category": "india",
-    "title": "Telangana Student, 16, Gives Birth In Toilet Hours After Appearing For Exam",
-    "summary": "The girl is a first-year intermediate student at a residential girls' school Representational Image)",
-    "image": "https://c.ndtvimg.com/2026-03/jk3ofqe_pregnant-teen-generic-telangana_625x300_05_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "US Senator Tim Sheehy On Snapping Arm Of Protester: \"He Came Looking For Confrontation, Got One\"",
+    "summary": "Capitol Police identified the man arrested as Brian McGinnis.",
+    "image": "https://c.ndtvimg.com/2026-03/enlei2co_brian-mcginnis_625x300_05_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 05 Mar 2026 12:52:28 +0530",
-    "link": "https://www.ndtv.com/india-news/telangana-student-16-gives-birth-in-toilet-hours-after-appearing-for-exam-11170842#publisher=newsstand"
+    "pubDate": "Thu, 05 Mar 2026 13:36:41 +0530",
+    "link": "https://www.ndtv.com/world-news/us-senator-tim-sheehy-on-snapping-arm-of-protester-he-came-looking-for-confrontation-got-one-11171325#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/ap-ssc-hall-ticket-2026-out-live-download-link-activated-check-how-to-access-11171209#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/russia-ukraine-war-iran-war-as-us-steps-up-iran-attack-ukraine-f-16-fighter-jets-starve-of-american-made-missiles-11171326#publisher=newsstand",
     "category": "india",
-    "title": "AP SSC Hall Ticket 2026 (OUT) Live: Download Link Activated, Check How To Access",
-    "summary": "AP SSC Hall Ticket 2026 (OUT) Live: The exams will be conducted from March 16 to April 1.",
-    "image": "https://c.ndtvimg.com/2026-03/86n53c8k_ap-ssc-hall-ticket-2026-download-link_625x300_05_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Months Before Iran War, Ukraine's F-16 Fighter Jets Starved Of US-Made Missiles: Report",
+    "summary": "Ukraine only had a handful of US-made AIM-9 \"Sidewinder\" missiles for F-16s",
+    "image": "https://c.ndtvimg.com/2026-03/gqk4icns_ukraine-f16-fighter-jets_625x300_05_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 05 Mar 2026 12:52:25 +0530",
-    "link": "https://www.ndtv.com/education/ap-ssc-hall-ticket-2026-out-live-download-link-activated-check-how-to-access-11171209#publisher=newsstand"
+    "pubDate": "Thu, 05 Mar 2026 13:24:06 +0530",
+    "link": "https://www.ndtv.com/world-news/russia-ukraine-war-iran-war-as-us-steps-up-iran-attack-ukraine-f-16-fighter-jets-starve-of-american-made-missiles-11171326#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/health/holi-2026-health-kit-doctor-shares-checklist-every-family-must-go-through-11163119#publisher=newsstand",
-    "category": "india",
-    "title": "Holi 2026 Health Kit: Doctor Shares Checklist Every Family Must Go Through",
-    "summary": "A Holi health kit doesn't have to be expensive",
-    "image": "https://c.ndtvimg.com/2026-03/2tv632o4_first-aid-kit-freepik_625x300_03_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 05 Mar 2026 12:51:54 +0530",
-    "link": "https://www.ndtv.com/health/holi-2026-health-kit-doctor-shares-checklist-every-family-must-go-through-11163119#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/geopolitics-crude-risk-and-the-it-conundrum-sridhar-sivaram-on-why-investors-may-need-to-stay-selective/articleshow/129077039.cms",
+    "category": "finance",
+    "title": "Geopolitics, crude risk and the IT conundrum: Sridhar Sivaram on why investors may need to stay selective",
+    "summary": "Geopolitical tensions in West Asia are creating market uncertainty, impacting energy supplies and capital flows. While Indian equities have shown resilience, prolonged conflict could significantly affect the economy due to heavy reliance on GCC for e",
+    "image": "https://img.etimg.com/photo/msid-129077039,imgsize-15606.cms",
+    "source": "ET",
+    "pubDate": "Thu, 05 Mar 2026 13:10:28 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/geopolitics-crude-risk-and-the-it-conundrum-sridhar-sivaram-on-why-investors-may-need-to-stay-selective/articleshow/129077039.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/private-banks-energy-and-telecom-look-attractive-amid-market-swings-rahul-shah/articleshow/129076627.cms",
+    "category": "finance",
+    "title": "Private banks, energy and telecom look attractive amid market swings: Rahul Shah",
+    "summary": "Amidst global uncertainty, market volatility presents opportunities for long-term investors, according to Rahul Shah. He highlights mispricing as a chance to build portfolios, favoring resilient largecaps like private banks, telecom, consumer discret",
+    "image": "https://img.etimg.com/photo/msid-129076627,imgsize-20278.cms",
+    "source": "ET",
+    "pubDate": "Thu, 05 Mar 2026 13:01:29 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/private-banks-energy-and-telecom-look-attractive-amid-market-swings-rahul-shah/articleshow/129076627.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-gain-as-investors-pick-up-battered-stocks-banks-lead/articleshow/129076606.cms",
+    "category": "finance",
+    "title": "Global Markets | Australian shares gain as investors pick up battered stocks; banks lead",
+    "summary": "Indian shares saw a modest rebound on Thursday, with banks, energy, and tech stocks leading the charge after a significant two-day slump.  Investors bought into beaten-down sectors, buoyed by global market gains.  Australia's resource-heavy index off",
+    "image": "https://img.etimg.com/photo/msid-129076606,imgsize-11476.cms",
+    "source": "ET",
+    "pubDate": "Thu, 05 Mar 2026 12:59:53 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-gain-as-investors-pick-up-battered-stocks-banks-lead/articleshow/129076606.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/aswath-damodaran-runs-his-3p-test-on-citrinis-viral-ai-doomsday-scenario/articleshow/129076096.cms",
@@ -210,34 +250,24 @@
     "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-firm-on-rbi-buying-hopes-stronger-rupee/articleshow/129073676.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-shares-surge-4-as-class-8-truck-orders-jump-159-year-on-year-check-details/articleshow/129071760.cms",
-    "category": "finance",
-    "title": "Bharat Forge shares surge 4% as Class 8 truck orders jump 159% year-on-year. Check details",
-    "summary": "Bharat Forge shares rose 4% after strong growth in North America\u2019s Class 8 truck orders, which jumped 159% year-on-year in February. The surge signals improving demand in the commercial vehicle cycle, a key export market for the company, which also r",
-    "image": "https://img.etimg.com/photo/msid-129071760,imgsize-619306.cms",
-    "source": "ET",
-    "pubDate": "Thu, 05 Mar 2026 11:19:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-shares-surge-4-as-class-8-truck-orders-jump-159-year-on-year-check-details/articleshow/129071760.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1526927.html",
+    "category": "sports",
+    "title": "Sammy issues plea as West Indies remain stuck in Kolkata hotel",
+    "summary": "West Indies have not been given an official update in terms of their travel schedule but the first batch of Zimbabwe squad members have now left for home",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414382.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 05 Mar 2026 08:22:46 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526927.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-jumps-20-from-february-lows-of-60000-approaches-72000-as-institutional-demand-revives/articleshow/129071319.cms",
-    "category": "finance",
-    "title": "Bitcoin jumps 20% from February lows of $60,000, approaches $72,000 as institutional demand revives",
-    "summary": "Bitcoin has surged past $72,000, driven by renewed institutional interest and significant inflows into US spot Bitcoin ETFs. Major altcoins like Ethereum, BNB, and Solana are also showing strong gains. Analysts suggest this recovery, despite cautious",
-    "image": "https://img.etimg.com/photo/msid-129071319,imgsize-33844.cms",
-    "source": "ET",
-    "pubDate": "Thu, 05 Mar 2026 11:14:04 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-jumps-20-from-february-lows-of-60000-approaches-72000-as-institutional-demand-revives/articleshow/129071319.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/lt-shares-rise-2-after-falling-for-4-days-heres-why-motilal-oswal-still-remains-cautious/articleshow/129070924.cms",
-    "category": "finance",
-    "title": "L&amp;T shares rise 2% after falling for 4 days: Here's why Motilal Oswal still remains cautious",
-    "summary": "L&amp;T shares rose over 2% after four days of losses as hopes of easing Iran-Israel tensions lifted sentiment. However, Motilal Oswal remains cautious, citing the company\u2019s significant Middle East exposure, risks to EPC execution, and potential valu",
-    "image": "https://img.etimg.com/photo/msid-129070924,imgsize-62782.cms",
-    "source": "ET",
-    "pubDate": "Thu, 05 Mar 2026 11:01:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/lt-shares-rise-2-after-falling-for-4-days-heres-why-motilal-oswal-still-remains-cautious/articleshow/129070924.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1526929.html",
+    "category": "sports",
+    "title": "Du Plessis: 'You lose the powerplay, you more often than not lose the game'",
+    "summary": "Faf du Plessis feels that South Africa should have worked harder to keep wickets in hand and gone for broke later in the innings when the surface became easier",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414349.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 05 Mar 2026 08:22:45 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526929.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c3v77yzn5gxo#2",
@@ -246,8 +276,28 @@
     "summary": "The firm was unable to cope during high demand, Ofwat says, leading to \"immense stress\" for customers.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 05 Mar 2026 07:32:49 GMT",
+    "pubDate": "Thu, 05 Mar 2026 08:12:30 GMT",
     "link": "https://www.bbc.com/news/articles/c3v77yzn5gxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1526913.html",
+    "category": "sports",
+    "title": "Head falls cheaply after Thornton bags career-best haul",
+    "summary": "New South Wales middle and lower order provided what could be vital runs in the race for second spot",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414378.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 05 Mar 2026 08:12:25 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526913.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1526911.html",
+    "category": "sports",
+    "title": "Sam Harper shines to put Victoria on top on 14-wicket day",
+    "summary": "Harper continued his stunning form making 93 as Victoria posted 222, with Meredith taking 4 for 53, before Tasmania slumped to 52 for 4",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414375.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 05 Mar 2026 08:10:16 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1526911.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c0e55g03v2zo#1",
@@ -280,46 +330,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1526916.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526793.html",
-    "category": "sports",
-    "title": "India vs England chapter 3: the match that could define eras",
-    "summary": "The two teams are meeting in the semi-finals for the third straight edition, on the back of less than perfect campaigns, and seeking a historic third title",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414304.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 05 Mar 2026 05:40:17 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526793.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526875.html",
-    "category": "sports",
-    "title": "Markram: 'Not a slap in the face, but it feels like it'",
-    "summary": "The South Africa captain expected the Eden Gardens track to play much better for the batters in the first semi-final",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414362.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 05 Mar 2026 05:14:54 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526875.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526891.html",
-    "category": "sports",
-    "title": "Conrad: 'Tonight wasn't a choke, it was a bloody walloping'",
-    "summary": "South Africa head coach admits his team \"didn't have a sniff\" against New Zealand, and got a proper <i>snotklap</i>",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414374.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 05 Mar 2026 05:07:09 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526891.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1526873.html",
-    "category": "sports",
-    "title": "Flying Finn launches NZ into the final with record ton",
-    "summary": "South Africa were knocked out by the pairing of Henry-Ravindra with ball and Allen-Seifert with bat",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414363.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 05 Mar 2026 04:25:54 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1526873.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1526900.html",
     "category": "sports",
     "title": "Labuschagne named domestic One-Day Cup player of the year",
@@ -338,16 +348,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 05 Mar 2026 02:43:27 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526902.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cpqwwvnp7z8o#2",
-    "category": "global",
-    "title": "Dentists who failed to see enough NHS patients return \u00a3900m of government funding",
-    "summary": "Sum represents \u00a31 out of every \u00a37 they have been given by NHS as dentists opt to chase private work.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 05 Mar 2026 02:34:16 GMT",
-    "link": "https://www.bbc.com/news/articles/cpqwwvnp7z8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
