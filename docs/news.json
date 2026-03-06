@@ -60,6 +60,16 @@
     "link": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cj6d023rjpzo#1",
+    "category": "global",
+    "title": "Israelis back war with Iran despite uncertainty and fatigue",
+    "summary": "Israelis broadly support the US-Israeli military campaign with Iran, even if they are tired of air raid alerts and constant upheaval.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 05 Mar 2026 19:24:39 GMT",
+    "link": "https://www.bbc.com/news/articles/cj6d023rjpzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1526927.html",
     "category": "sports",
     "title": "West Indies players may fly home soon by charter flight",
@@ -78,16 +88,6 @@
     "source": "BBC",
     "pubDate": "Thu, 05 Mar 2026 18:40:22 GMT",
     "link": "https://www.bbc.com/news/articles/c93jj3gz8x0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5yqqyly9n0o#1",
-    "category": "global",
-    "title": "Iran school and nearby military base struck multiple times, satellite image reveals",
-    "summary": "Iranian authorities say the attack, which took place on Saturday, killed 168 people.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 05 Mar 2026 17:46:24 GMT",
-    "link": "https://www.bbc.com/news/articles/c5yqqyly9n0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
@@ -130,6 +130,126 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-shares-fall-3-after-ubs-cuts-target-price-what-are-analysts-worried-about/articleshow/129139738.cms",
+    "category": "finance",
+    "title": "IndiGo shares fall 3% after UBS cuts target price. What are analysts worried about?",
+    "summary": "Shares of InterGlobe Aviation, parent of IndiGo, fell after UBS cut its target price to Rs 5,480 while retaining a Buy rating. The brokerage warned that ongoing geopolitical tensions, higher crude prices and a weaker rupee could hurt airline capacity",
+    "image": "https://img.etimg.com/photo/msid-129139738,imgsize-49364.cms",
+    "source": "ET",
+    "pubDate": "Fri, 06 Mar 2026 12:50:28 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-shares-fall-3-after-ubs-cuts-target-price-what-are-analysts-worried-about/articleshow/129139738.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/mukesh-ambanis-record-ipo-of-jio-delayed-by-regulatory-limbo/articleshow/129138139.cms",
+    "category": "finance",
+    "title": "Mukesh Ambani\u2019s record IPO of Jio delayed by regulatory limbo",
+    "summary": "Mukesh Ambani's ambitious Jio Platforms IPO faces potential delays due to the Indian government's slow formalization of new listing rules.  Reliance aims to file the draft prospectus before April, contingent on government notification.  This mega IPO",
+    "image": "https://img.etimg.com/photo/msid-129138139,imgsize-993700.cms",
+    "source": "ET",
+    "pubDate": "Fri, 06 Mar 2026 12:15:55 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/mukesh-ambanis-record-ipo-of-jio-delayed-by-regulatory-limbo/articleshow/129138139.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/karnataka-social-media-ban-siddaramaiah-karnataka-to-ban-social-media-for-children-below-16-11176180#publisher=newsstand",
+    "category": "india",
+    "title": "Karnataka To Ban Social Media For Children Below 16",
+    "summary": "Karnataka Chief Minister Siddaramaiah today proposed a ban on social media use for children below the age of 16 in the state. The announcement",
+    "image": "https://c.ndtvimg.com/2025-12/11msq6ss_social-media-accounts_625x300_31_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 06 Mar 2026 12:14:57 +0530",
+    "link": "https://www.ndtv.com/india-news/karnataka-social-media-ban-siddaramaiah-karnataka-to-ban-social-media-for-children-below-16-11176180#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-rs-17000-crore-worth-of-it-stocks-in-february-will-ai-eat-software/articleshow/129138061.cms",
+    "category": "finance",
+    "title": "FIIs dump Rs 17,000 crore worth of IT stocks in February. Will AI eat software?",
+    "summary": "Foreign institutional investors dumped nearly Rs 17,000 crore worth of Indian IT stocks in February amid rising concerns that artificial intelligence could disrupt the traditional software services model. While brokerages warn of further downside and",
+    "image": "https://img.etimg.com/photo/msid-129138061,imgsize-2930537.cms",
+    "source": "ET",
+    "pubDate": "Fri, 06 Mar 2026 12:14:42 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-rs-17000-crore-worth-of-it-stocks-in-february-will-ai-eat-software/articleshow/129138061.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cbse-class-10-social-science-exam-on-march-7-check-smart-revision-tips-from-educators-11176232#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE Class 10 Social Science Exam On March 7: Check Smart Revision Tips From Educators",
+    "summary": "CBSE Board Exams 2026: helping students prepare more effectively for the test",
+    "image": "https://c.ndtvimg.com/2025-05/5j5ljap4_cbse-board-class-10th-12th-result-2025-_625x300_12_May_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 06 Mar 2026 12:12:43 +0530",
+    "link": "https://www.ndtv.com/education/cbse-class-10-social-science-exam-on-march-7-check-smart-revision-tips-from-educators-11176232#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/iran-israel-us-war-abnormality-becoming-new-normal-rajnath-singh-on-iran-war-11176241#publisher=newsstand",
+    "category": "india",
+    "title": "\"Abnormality Becoming New Normal\": Rajnath Singh On Iran War",
+    "summary": "Rajnath Singh called for India to provide leadership in the maritime sector.",
+    "image": "https://c.ndtvimg.com/2025-12/cv162828_rajnath-singh_625x300_25_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 06 Mar 2026 12:12:31 +0530",
+    "link": "https://www.ndtv.com/india-news/iran-israel-us-war-abnormality-becoming-new-normal-rajnath-singh-on-iran-war-11176241#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/orkla-india-shares-rally-10-biggest-single-day-jump-since-listing-as-citi-initiates-buy-call/articleshow/129137879.cms",
+    "category": "finance",
+    "title": "Orkla India shares rally 10%, biggest single-day jump since listing as Citi initiates 'Buy' call",
+    "summary": "Orkla India shares surged nearly 10% after Citi Research initiated coverage with a Buy rating and a target price of Rs 750. The brokerage expects steady revenue and earnings growth driven by product mix improvement, distribution expansion and interna",
+    "image": "https://img.etimg.com/photo/msid-129137879,imgsize-3904.cms",
+    "source": "ET",
+    "pubDate": "Fri, 06 Mar 2026 12:10:54 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/orkla-india-shares-rally-10-biggest-single-day-jump-since-listing-as-citi-initiates-buy-call/articleshow/129137879.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-live-updates-israel-tehran-mossad-cia-for-ayatollah-khamenei-death-came-in-form-of-a-blue-sparrow-from-space-11176027#publisher=newsstand",
+    "category": "india",
+    "title": "A Blue Sparrow Left Earth's Atmosphere, Returned As Khamenei Executioner",
+    "summary": "For more than two decades, Israel' Unit 8200, had monitored the movements of Ayatollah Khamenei.",
+    "image": "https://c.ndtvimg.com/2026-03/t6dudvmk_khamenei-afp-_625x300_06_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 06 Mar 2026 12:07:57 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-live-updates-israel-tehran-mossad-cia-for-ayatollah-khamenei-death-came-in-form-of-a-blue-sparrow-from-space-11176027#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/two-iaf-pilots-killed-in-assam-crash-all-about-the-sukhoi-su-30mki-fighter-jet-11176194#publisher=newsstand",
+    "category": "india",
+    "title": "2 Pilots Killed In Sukhoi Su-30MKI Crash In Assam: All About The Jet",
+    "summary": "The aircraft is known for its long operational range.",
+    "image": "https://c.ndtvimg.com/2026-03/bg58kivk_sukhoi-_625x300_06_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 06 Mar 2026 12:07:57 +0530",
+    "link": "https://www.ndtv.com/india-news/two-iaf-pilots-killed-in-assam-crash-all-about-the-sukhoi-su-30mki-fighter-jet-11176194#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cbse-class-12-psychology-exam-2026-check-paper-analysis-and-student-reactions-11171948#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE Class 12 Psychology Exam 2026: Check Paper Analysis And Student Reactions",
+    "summary": "Experts Highlight Application Focus In CBSE Class 12 Psychology Test",
+    "image": "https://c.ndtvimg.com/2026-02/mn0ajfh_moradabad-cbse-students_625x300_20_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 06 Mar 2026 12:04:06 +0530",
+    "link": "https://www.ndtv.com/education/cbse-class-12-psychology-exam-2026-check-paper-analysis-and-student-reactions-11171948#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-iran-israel-war-did-israel-bomb-a-painted-iran-helicopter-viral-video-sparks-fierce-online-debate-11175932#publisher=newsstand",
+    "category": "india",
+    "title": "Did Israel Bomb A Helicopter Painting? How Iran Might Be Fooling Enemies",
+    "summary": "IDF video shows a strike on what appears to be a helicopter.",
+    "image": "https://c.ndtvimg.com/2026-03/rugd4bls_idf-strike-video_625x300_06_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 06 Mar 2026 12:02:44 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-iran-israel-war-did-israel-bomb-a-painted-iran-helicopter-viral-video-sparks-fierce-online-debate-11175932#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/delhi-man-killed-as-2-families-clash-after-water-balloon-hits-woman-on-holi-11176191#publisher=newsstand",
+    "category": "india",
+    "title": "Delhi Man Killed As 2 Families Clash After Water Balloon Hits Woman On Holi",
+    "summary": "Dispute was triggered by a stray splash from a balloon filled with coloured water (File photo)",
+    "image": "https://c.ndtvimg.com/2026-03/t447u35s_holi-generic_625x300_06_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 06 Mar 2026 12:02:22 +0530",
+    "link": "https://www.ndtv.com/india-news/delhi-man-killed-as-2-families-clash-after-water-balloon-hits-woman-on-holi-11176191#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/markets-still-digesting-west-asia-shock-domestic-sectors-offer-relative-comfort-says-dharmesh-kant/articleshow/129135983.cms",
     "category": "finance",
     "title": "Markets still digesting West Asia shock; domestic sectors offer relative comfort, says Dharmesh Kant",
@@ -150,56 +270,6 @@
     "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/62-women-plan-to-invest-in-crypto-in-next-612-months-bitcoin-remains-top-entry-asset-coinswitch/articleshow/129135809.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/neet-ug-2026-application-window-closing-on-march-8-exam-scheduled-for-may-3-11175961#publisher=newsstand",
-    "category": "india",
-    "title": "NEET (UG) 2026 Application Window Closing On March 8; Exam Scheduled For May 3",
-    "summary": "NEET (UG) 2026: The exam will be conducted in pen-and-paper mode for a duration of three hours.",
-    "image": "https://c.ndtvimg.com/2025-08/vs0fm4rk_medical_625x300_17_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 06 Mar 2026 11:21:12 +0530",
-    "link": "https://www.ndtv.com/education/neet-ug-2026-application-window-closing-on-march-8-exam-scheduled-for-may-3-11175961#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/nepal-election-2026-results-live-updates-balendra-shah-gagan-thapa-kp-sharma-oli-nepal-to-count-votes-shortly-for-first-polls-held-after-gen-z-protest-11175123#publisher=newsstand",
-    "category": "india",
-    "title": "Nepal Election 2026 Results Live Updates: Balen Shah's Rastriya Swatantra Party Leads In 47 Constituencies",
-    "summary": "Nepal General Election 2026 Results LIVE: Nepal's first polls since Gen Z protests was held on Thursday",
-    "image": "https://c.ndtvimg.com/2026-03/b86d21kk_nepal_625x300_06_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 06 Mar 2026 11:21:11 +0530",
-    "link": "https://www.ndtv.com/world-news/nepal-election-2026-results-live-updates-balendra-shah-gagan-thapa-kp-sharma-oli-nepal-to-count-votes-shortly-for-first-polls-held-after-gen-z-protest-11175123#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/eating-berries-apples-and-citrus-fruits-can-lift-up-womens-mood-says-new-study-11175735#publisher=newsstand",
-    "category": "india",
-    "title": "Eating Berries, Apples And Citrus Fruits Can Lift Up Women's Mood, Says New Study",
-    "summary": "A new long-term study suggests that women who regularly eat flavonoid-rich fruits like berries, apples and citrus fruits may experience greater happiness and optimism.",
-    "image": "https://c.ndtvimg.com/2026-03/pi0hlecg_woman-berries-freepik_625x300_06_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 06 Mar 2026 11:21:00 +0530",
-    "link": "https://www.ndtv.com/health/eating-berries-apples-and-citrus-fruits-can-lift-up-womens-mood-says-new-study-11175735#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-iran-israel-war-did-israel-bomb-a-painted-iran-helicopter-viral-video-sparks-fierce-online-debate-11175932#publisher=newsstand",
-    "category": "india",
-    "title": "Did Israel Bomb A Painted Iran Helicopter? Viral Video Sparks Fierce Online Debate",
-    "summary": "IDF video shows a strike on what appears to be a helicopter.",
-    "image": "https://c.ndtvimg.com/2026-03/rugd4bls_idf-strike-video_625x300_06_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 06 Mar 2026 11:19:56 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-iran-israel-war-did-israel-bomb-a-painted-iran-helicopter-viral-video-sparks-fierce-online-debate-11175932#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/why-womens-hormones-dont-follow-the-male-pattern-doctor-explains-biological-differences-11175916#publisher=newsstand",
-    "category": "india",
-    "title": "Why Women's Hormones Don't Follow The Male Pattern: Doctor Explains Biological Differences",
-    "summary": "Male hormone levels maintain day-to-day stability while female hormones experience continuous changes throughout both the menstrual cycle and various life stages.",
-    "image": "https://c.ndtvimg.com/2026-03/ra206i34_thyroid-_625x300_05_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 06 Mar 2026 11:16:34 +0530",
-    "link": "https://www.ndtv.com/health/why-womens-hormones-dont-follow-the-male-pattern-doctor-explains-biological-differences-11175916#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-fall-as-traders-eye-auction-rbi-buying/articleshow/129135378.cms",
     "category": "finance",
     "title": "Indian bonds fall as traders eye auction, RBI buying",
@@ -218,76 +288,6 @@
     "source": "ET",
     "pubDate": "Fri, 06 Mar 2026 11:13:47 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/big-railway-psu-merger-on-the-way-ircon-rvnl-shares-rally-up-to-12-on-merger-reports/articleshow/129135350.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/nose-tongue-cut-madhya-pradesh-woman-70-found-mutilated-in-field-dies-11175942#publisher=newsstand",
-    "category": "india",
-    "title": "Nose, Tongue Cut: Madhya Pradesh Woman, 70, Found Mutilated In Field, Dies",
-    "summary": "The woman was rushed to a hospital but died due to her injuries during treatment.",
-    "image": "https://c.ndtvimg.com/2024-05/qms8uhig_madhya-pradesh-police-generic-_625x300_19_May_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 06 Mar 2026 11:13:29 +0530",
-    "link": "https://www.ndtv.com/india-news/nose-tongue-cut-madhya-pradesh-woman-70-found-mutilated-in-field-dies-11175942#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/markwayne-mullin-us-homeland-chief-nominee-after-donald-trump-fired-kristi-noem-11175931#publisher=newsstand",
-    "category": "india",
-    "title": "Markwayne Mullin: US Homeland Chief Nominee After Trump Fired Kristi Noem",
-    "summary": "Markwayne Mullin will need confirmation from the Republican-majority Senate to take up his post.",
-    "image": "https://c.ndtvimg.com/2026-03/95cuu1p_mullin_625x300_06_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 06 Mar 2026 11:11:29 +0530",
-    "link": "https://www.ndtv.com/world-news/markwayne-mullin-us-homeland-chief-nominee-after-donald-trump-fired-kristi-noem-11175931#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/probe-agency-ed-arrests-2-chartered-accountants-in-rs-641-crore-cyber-fraud-11175915#publisher=newsstand",
-    "category": "india",
-    "title": "Probe Agency ED Arrests 2 Chartered Accountants In Rs 641 Crore Cyber Fraud",
-    "summary": "Directorate of Enforcement officials had conducted searches at several locations.",
-    "image": "https://c.ndtvimg.com/2023-02/uvocqub_ed-generic-enforcement-directorate-generic_625x300_20_February_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 06 Mar 2026 11:07:37 +0530",
-    "link": "https://www.ndtv.com/india-news/probe-agency-ed-arrests-2-chartered-accountants-in-rs-641-crore-cyber-fraud-11175915#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/stock-broking-firm-shreni-shares-files-ipo-papers-with-sebi/articleshow/129134948.cms",
-    "category": "finance",
-    "title": "Stock broking firm Shreni Shares files IPO papers with Sebi",
-    "summary": "Stock broking firm Shreni Shares is planning an Initial Public Offering. The company has filed preliminary papers with Sebi. The public issue includes a fresh share sale and an offer for sale by existing shareholders. Proceeds will fund working capit",
-    "image": "https://img.etimg.com/photo/msid-129134948,imgsize-8092.cms",
-    "source": "ET",
-    "pubDate": "Fri, 06 Mar 2026 11:04:43 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/stock-broking-firm-shreni-shares-files-ipo-papers-with-sebi/articleshow/129134948.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/grse-cochin-shipyard-mazagon-dock-shares-rally-to-up-18-in-two-days-heres-whats-triggering-the-surge/articleshow/129134940.cms",
-    "category": "finance",
-    "title": "GRSE, Cochin Shipyard &amp; Mazagon Dock shares rally up to 18% in two days. Here\u2019s what\u2019s triggering the surge",
-    "summary": "Shares of defence shipbuilders surged despite broader market weakness, with Mazagon Dock rising 18% in two days and Cochin Shipyard gaining 9%. The rally follows escalating geopolitical tensions and reports of a naval strike near Sri Lanka, raising e",
-    "image": "https://img.etimg.com/photo/msid-129134940,imgsize-104272.cms",
-    "source": "ET",
-    "pubDate": "Fri, 06 Mar 2026 11:04:22 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/grse-cochin-shipyard-mazagon-dock-shares-rally-to-up-18-in-two-days-heres-whats-triggering-the-surge/articleshow/129134940.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-will-return-to-indian-stocks-if-any-of-these-two-conditions-are-met-chris-wood-of-jefferies/articleshow/129134370.cms",
-    "category": "finance",
-    "title": "FIIs will return to Indian stocks if any of these two conditions are met: Chris Wood of Jefferies",
-    "summary": "According to Christopher Wood, foreign institutional investors (FIIs) may return strongly to India equities if the global semiconductor cycle peaks or if the domestic market sees a sharp correction. In his GREED &amp; Fear note for Jefferies, he said",
-    "image": "https://img.etimg.com/photo/msid-129134370,imgsize-45016.cms",
-    "source": "ET",
-    "pubDate": "Fri, 06 Mar 2026 10:51:32 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-will-return-to-indian-stocks-if-any-of-these-two-conditions-are-met-chris-wood-of-jefferies/articleshow/129134370.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/oil-disruption-fears-and-war-rhetoric-keeping-markets-on-edge-santosh-rao/articleshow/129133918.cms",
-    "category": "finance",
-    "title": "Oil disruption fears and war rhetoric keeping markets on edge: Santosh Rao",
-    "summary": "Global markets are on edge due to ongoing geopolitical tensions. Investors face uncertainty about equities and the global economy. Sharp market swings are occurring as headlines shift. Experts suggest the situation may continue for some time. Concern",
-    "image": "https://img.etimg.com/photo/msid-129133918,imgsize-15420.cms",
-    "source": "ET",
-    "pubDate": "Fri, 06 Mar 2026 10:40:42 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/oil-disruption-fears-and-war-rhetoric-keeping-markets-on-edge-santosh-rao/articleshow/129133918.cms"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527053.html",
@@ -330,16 +330,6 @@
     "link": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cgrzd72wp5zo#2",
-    "category": "global",
-    "title": "Sheep are disappearing from the UK's hills - and its dinner plates",
-    "summary": "Have we have passed \"peak sheep\" in the UK?",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 06 Mar 2026 04:22:00 GMT",
-    "link": "https://www.bbc.com/news/articles/cgrzd72wp5zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1526980.html",
     "category": "sports",
     "title": "Litton Das back in Bangladesh ODI squad for series against Pakistan",
@@ -348,6 +338,16 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 06 Mar 2026 03:53:04 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1526980.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c3v77w5d437o#2",
+    "category": "global",
+    "title": "Travelodge staff gave sex attacker key to woman's room, then offered \u00a330 refund",
+    "summary": "The woman, who woke to find Kyran Smith sexually assaulting her, branded a \u00a330 reward offer \"insulting\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 06 Mar 2026 03:42:22 GMT",
+    "link": "https://www.bbc.com/news/articles/c3v77w5d437o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527004.html",
