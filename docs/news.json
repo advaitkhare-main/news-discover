@@ -80,6 +80,26 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/fractals-ai-clients-keep-spending-more-every-year-heres-the-number-that-explains-why-srikanth-velamakanni/articleshow/129153585.cms",
+    "category": "finance",
+    "title": "Fractal's AI clients keep spending more every year; here's the number that explains why: Srikanth Velamakanni",
+    "summary": "Fractal Analytics demonstrates strong client retention with a 114% net revenue retention, indicating existing clients are increasing their spending. The company's success is attributed to deep institutional knowledge rather than technology lock-in. T",
+    "image": "https://img.etimg.com/photo/msid-129153585,imgsize-62658.cms",
+    "source": "ET",
+    "pubDate": "Fri, 06 Mar 2026 17:41:39 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/fractals-ai-clients-keep-spending-more-every-year-heres-the-number-that-explains-why-srikanth-velamakanni/articleshow/129153585.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/more-women-among-next-gen-investors-marcellus-outlines-trends-from-indias-new-investment-landscape/articleshow/129151401.cms",
+    "category": "finance",
+    "title": "More women among next gen investors? Marcellus outlines trends from India\u2019s new investment landscape",
+    "summary": "Indian women are experiencing a significant transformation, excelling in education and increasingly participating in the workforce and entrepreneurship. This rise in financial independence is making them influential investors, with growing bank accou",
+    "image": "https://img.etimg.com/photo/msid-129151401,imgsize-14048.cms",
+    "source": "ET",
+    "pubDate": "Fri, 06 Mar 2026 16:54:10 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/more-women-among-next-gen-investors-marcellus-outlines-trends-from-indias-new-investment-landscape/articleshow/129151401.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/iit-bombays-small-investment-of-rs-4080-in-sedemac-turns-to-rs-55-crore-in-ipo/articleshow/129150215.cms",
     "category": "finance",
     "title": "IIT Bombay's small investment of Rs 4,080 in Sedemac turns to Rs 55 crore in IPO",
@@ -220,24 +240,34 @@
     "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-deploys-12-billion-to-defend-rupee-as-iran-war-jolts-markets-bankers/articleshow/129144515.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bybit-intercepts-300-million-in-crypto-scams-using-ai-risk-framework/articleshow/129144443.cms",
-    "category": "finance",
-    "title": "Bybit intercepts $300 million in crypto scams using AI risk framework",
-    "summary": "Bybit said it intercepted and recovered over $300 million in scam linked cryptocurrency withdrawals in Q4 2025 using an artificial intelligence driven risk control framework. The system flagged suspicious transactions across multiple risk tiers and h",
-    "image": "https://img.etimg.com/photo/msid-129144443,imgsize-33844.cms",
-    "source": "ET",
-    "pubDate": "Fri, 06 Mar 2026 14:28:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bybit-intercepts-300-million-in-crypto-scams-using-ai-risk-framework/articleshow/129144443.cms"
+    "id": "https://www.bbc.com/news/articles/c4ge52x4w37o#1",
+    "category": "global",
+    "title": "Emirates resumes some Dubai flights \u2013 what's the latest on travel to UK?",
+    "summary": "New flights to the UK from the Middle East follow days of widespread air travel disruption which had left Britons stranded.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 06 Mar 2026 12:37:55 GMT",
+    "link": "https://www.bbc.com/news/articles/c4ge52x4w37o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/niftys-primary-trend-still-bearish-24300-key-level-to-watch-vinay-rajani/articleshow/129144179.cms",
-    "category": "finance",
-    "title": "Nifty\u2019s primary trend still bearish, 24,300 key level to watch: Vinay Rajani",
-    "summary": "Equity markets are experiencing renewed volatility as brief optimism fades, pushing benchmark indices back into consolidation. Investors remain cautious, with the Nifty's primary trend seen as bearish, trading below key moving averages.  However, sel",
-    "image": "https://img.etimg.com/photo/msid-129144179,imgsize-45744.cms",
-    "source": "ET",
-    "pubDate": "Fri, 06 Mar 2026 14:23:58 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/niftys-primary-trend-still-bearish-24300-key-level-to-watch-vinay-rajani/articleshow/129144179.cms"
+    "id": "https://www.bbc.com/news/articles/c14m57k8vgeo#2",
+    "category": "global",
+    "title": "Surge in jet fuel prices could push up air fares, analysts warn",
+    "summary": "Disruption to supplies from the Gulf due to the Middle East conflict has pushed the cost up by more than 80%.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 06 Mar 2026 12:10:27 GMT",
+    "link": "https://www.bbc.com/news/articles/c14m57k8vgeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cgrzd72wp5zo#2",
+    "category": "global",
+    "title": "Sheep are disappearing from our hills - and our dinner plates",
+    "summary": "Have we have passed \"peak sheep\" in the UK?",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 06 Mar 2026 11:57:15 GMT",
+    "link": "https://www.bbc.com/news/articles/cgrzd72wp5zo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cly1jxdv439o#2",
@@ -280,16 +310,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1527044.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c4geel78nd0o#2",
-    "category": "global",
-    "title": "Meet the UK's Eurovision entrant: 'The BBC is taking a risk on me'",
-    "summary": "Look Mum No Computer unveils his \"completely wacky\" song, and says he's surprised it was selected.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 06 Mar 2026 08:18:02 GMT",
-    "link": "https://www.bbc.com/news/articles/c4geel78nd0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1527042.html",
     "category": "sports",
     "title": "O'Neill stars with ball and bat but Tasmania bowlers given them a chance",
@@ -298,16 +318,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 06 Mar 2026 08:13:48 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1527042.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cq8gw0k0330o#1",
-    "category": "global",
-    "title": "Passengers describe 'surreal' scramble to reach first government flight out of Middle East",
-    "summary": "The plane landed at London's Stansted Airport in the early hours of Friday morning.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 06 Mar 2026 08:13:44 GMT",
-    "link": "https://www.bbc.com/news/articles/cq8gw0k0330o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527053.html",
@@ -328,16 +338,6 @@
     "source": "BBC",
     "pubDate": "Fri, 06 Mar 2026 04:52:33 GMT",
     "link": "https://www.bbc.com/news/articles/c93wxxe9410o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cgrzd72wp5zo#2",
-    "category": "global",
-    "title": "Sheep are disappearing from the UK's hills - and its dinner plates",
-    "summary": "Have we have passed \"peak sheep\" in the UK?",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 06 Mar 2026 04:22:00 GMT",
-    "link": "https://www.bbc.com/news/articles/cgrzd72wp5zo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1526980.html",
