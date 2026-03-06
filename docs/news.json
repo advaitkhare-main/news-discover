@@ -30,6 +30,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/delhi-news/security-tightened-in-delhi-after-man-killed-in-holi-clash-4-arrested-11179900#publisher=newsstand",
+    "category": "india",
+    "title": "Security Tightened In Delhi After Man Killed In Holi Clash; 4 Arrested",
+    "summary": "Security has been tightened in the Uttam Nagar area of Delhi after a 25-year-old man succumbed to injuries he sustained during a fight that broke out between neighbours from different communities during Holi celebrations earlier this week.",
+    "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 07 Mar 2026 03:36:30 +0530",
+    "link": "https://www.ndtv.com/delhi-news/security-tightened-in-delhi-after-man-killed-in-holi-clash-4-arrested-11179900#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/mamata-banerjee-launches-protest-against-bengal-voter-roll-deletions-11179819#publisher=newsstand",
     "category": "india",
     "title": "Mamata Banerjee Launches Protest Against Bengal Voter Roll Deletions",
@@ -100,16 +110,6 @@
     "link": "https://www.ndtv.com/world-news/nepal-election-2026-results-live-updates-balendra-shah-gagan-thapa-kp-sharma-oli-nepal-to-count-votes-shortly-for-first-polls-held-after-gen-z-protest-11175123#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-israel-war-us-pressing-sri-lanka-not-to-repatriate-iranian-ships-crew-report-11179565#publisher=newsstand",
-    "category": "india",
-    "title": "US Pressing Sri Lanka Not To Repatriate Iranian Ship's Crew: Report",
-    "summary": "On Thursday, Sri Lanka began offloading 208 crew members from a second Iranian ship.",
-    "image": "https://c.ndtvimg.com/2026-03/a9rsaqi8_sri-lanka-ship-f35-_625x300_04_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 07 Mar 2026 00:08:43 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-us-pressing-sri-lanka-not-to-repatriate-iranian-ships-crew-report-11179565#publisher=newsstand"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -148,6 +148,26 @@
     "source": "VentureBeat",
     "pubDate": "Fri, 16 Jan 2026 14:01:00 GMT",
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cy031ylgepro#1",
+    "category": "global",
+    "title": "Oil price at two-year high after Qatar warns all Gulf production could stop within days",
+    "summary": "Energy Minister Saad al-Kaabi says oil could hit $150 a barrel if the Iran conflict continues over the coming weeks.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 06 Mar 2026 23:14:33 GMT",
+    "link": "https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c75ekve9yq9o#1",
+    "category": "global",
+    "title": "Huge US bomber lands at UK air base",
+    "summary": "The aircraft is the fastest bomber in the US Air Force and is piloted by a crew of four.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 06 Mar 2026 22:21:53 GMT",
+    "link": "https://www.bbc.com/news/articles/c75ekve9yq9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c2k8339xn9jo#1",
@@ -250,16 +270,6 @@
     "link": "https://www.bbc.com/news/articles/cze0xr9g5lno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cy031ylgepro#1",
-    "category": "global",
-    "title": "Oil price at two-year high after Qatar warns all Gulf production could stop within days",
-    "summary": "Energy Minister Saad al-Kaabi says oil could hit $150 a barrel if the Iran conflict continues over the coming weeks.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 06 Mar 2026 18:29:32 GMT",
-    "link": "https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/crrx1jgr4jjo#1",
     "category": "global",
     "title": "Flight paths squeezed as Iran conflict closes more airspace",
@@ -288,16 +298,6 @@
     "source": "BBC",
     "pubDate": "Fri, 06 Mar 2026 17:01:40 GMT",
     "link": "https://www.bbc.com/news/articles/cpw004xqxnjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwy9xlp46zgo#1",
-    "category": "global",
-    "title": "'We couldn't sleep because of fear': Residents flee as Israel pounds south Beirut",
-    "summary": "Communities across huge swathes of Lebanon have been told by Israel to leave their homes due to military action against Hezbollah.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 06 Mar 2026 16:23:57 GMT",
-    "link": "https://www.bbc.com/news/articles/cwy9xlp46zgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527085.html",
