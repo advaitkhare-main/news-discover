@@ -230,14 +230,44 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-goldman-sachs-tata-mutual-fund-buy-stake-in-rs-695-crore-block-deal/articleshow/129159306.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cy031ylgepro#1",
+    "category": "global",
+    "title": "Oil price jumps after Qatar warns all Gulf production could stop within days",
+    "summary": "Energy Minister Saad al-Kaabi says oil could hit $150 a barrel if the Iran conflict continues over the coming weeks.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 06 Mar 2026 17:25:52 GMT",
+    "link": "https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c2lrwv5p7e7o#2",
     "category": "global",
     "title": "Three women interviewed under caution as part of Mohamed Al Fayed investigation",
     "summary": "The women have been interviewed under suspicion of aiding and abetting rape and human trafficking, the Met Police says.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 06 Mar 2026 16:34:01 GMT",
+    "pubDate": "Fri, 06 Mar 2026 17:04:19 GMT",
     "link": "https://www.bbc.com/news/articles/c2lrwv5p7e7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cpw004xqxnjo#1",
+    "category": "global",
+    "title": "Iranian schools, hospital and landmarks among civilian sites hit during US-Israeli strikes",
+    "summary": "A local in Tehran tell BBC Verify that the city has been turned into a \"ghost town\" as residents flee.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 06 Mar 2026 17:01:40 GMT",
+    "link": "https://www.bbc.com/news/articles/cpw004xqxnjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cwy9xlp46zgo#1",
+    "category": "global",
+    "title": "'We couldn't sleep because of fear': Residents flee as Israel pounds south Beirut",
+    "summary": "Communities across huge swathes of Lebanon have been told by Israel to leave their homes due to military action against Hezbollah.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 06 Mar 2026 16:23:57 GMT",
+    "link": "https://www.bbc.com/news/articles/cwy9xlp46zgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527085.html",
@@ -258,16 +288,6 @@
     "source": "BBC",
     "pubDate": "Fri, 06 Mar 2026 15:00:26 GMT",
     "link": "https://www.bbc.com/news/articles/c4ge52x4w37o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cze0xr9g5lno#2",
-    "category": "global",
-    "title": "Driver jailed for killing student in van crash",
-    "summary": "Christopher Jackson is jailed for killing Aalia Mahomed, 20, by crashing into her with his van.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 06 Mar 2026 14:48:43 GMT",
-    "link": "https://www.bbc.com/news/articles/cze0xr9g5lno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cvg88v948d8o#2",
@@ -298,16 +318,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 06 Mar 2026 13:14:27 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1527053.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4g88q764njo#1",
-    "category": "global",
-    "title": "'Worst night' of Israeli strikes so far, Tehran residents tell BBC",
-    "summary": "Iranians in the capital tell the BBC of \"constant explosions\", as the US warned attacks will intensify.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 06 Mar 2026 12:53:52 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g88q764njo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cly1jxdv439o#2",
@@ -378,15 +388,5 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 06 Mar 2026 02:26:51 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1527041.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4g5574pwreo#1",
-    "category": "global",
-    "title": "Five ways the Iran war could affect you - in charts",
-    "summary": "With fuel and gas prices having risen in recent days, here are some ways the conflict could affect households.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 06 Mar 2026 00:05:31 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss"
   }
 ]
