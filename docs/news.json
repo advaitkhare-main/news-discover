@@ -30,6 +30,56 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/india-news/90-year-old-woman-raped-by-4-masked-men-in-madhya-pradesh-cops-11183315#publisher=newsstand",
+    "category": "india",
+    "title": "90-Year-Old Woman Raped By 4 Masked Men In Madhya Pradesh: Cops",
+    "summary": "Further investigation is underway, say officials. (Representational)",
+    "image": "https://c.ndtvimg.com/2024-06/olj5u4a8_police-generic-image_625x300_18_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 07 Mar 2026 22:46:44 +0530",
+    "link": "https://www.ndtv.com/india-news/90-year-old-woman-raped-by-4-masked-men-in-madhya-pradesh-cops-11183315#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/womens-health-insurance-ownership-rises-in-india-why-women-need-to-invest-in-their-health-more-11183260#publisher=newsstand",
+    "category": "india",
+    "title": "Women's Health Insurance Ownership Rises In India: Why Women Need To Invest In Their Health More",
+    "summary": "While there has been an increase in financial independence among women, personal health insurance ownership still lags far behind which leaves them vulnerable to escalating medical costs and health risks.",
+    "image": "https://c.ndtvimg.com/2026-03/ptq2640g_health-insurance_625x300_07_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 07 Mar 2026 22:44:49 +0530",
+    "link": "https://www.ndtv.com/health/womens-health-insurance-ownership-rises-in-india-why-women-need-to-invest-in-their-health-more-11183260#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/assam-group-stranded-in-dubai-posts-video-in-social-media-asking-for-help-11183269#publisher=newsstand",
+    "category": "india",
+    "title": "Assam Group Stuck In Dubai Posts Video, Appeals For Help",
+    "summary": "Further details are awaited",
+    "image": "https://c.ndtvimg.com/2026-03/ru1k9mic_assamese-stuck-in-dubai_625x300_07_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 07 Mar 2026 22:40:51 +0530",
+    "link": "https://www.ndtv.com/india-news/assam-group-stranded-in-dubai-posts-video-in-social-media-asking-for-help-11183269#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-news-iran-israel-us-war-news-middle-east-news-hours-after-presidents-apology-a-warning-to-neighbours-from-iran-11183104#publisher=newsstand",
+    "category": "india",
+    "title": "Hours After President's Apology, A Warning To Neighbours From Iran",
+    "summary": "Iran's hardline judiciary chief said the Islamic republic would continue targeting regional neighbours",
+    "image": "https://c.ndtvimg.com/2026-03/v0r8mc8_missile-cities_625x300_06_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 07 Mar 2026 22:21:39 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-us-war-news-middle-east-news-hours-after-presidents-apology-a-warning-to-neighbours-from-iran-11183104#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/iran-news-iran-israel-us-war-news-middle-east-news-bombs-cannot-bring-regime-change-omar-abdullah-slams-us-strikes-on-iran-11183205#publisher=newsstand",
+    "category": "india",
+    "title": "'Bombs Cannot Bring Regime Change': Omar Abdullah Slams US Strikes On Iran",
+    "summary": "Jammu and Kashmir CM Omar Abdullah has strongly condemned the US and Israeli attack on Iran",
+    "image": "https://c.ndtvimg.com/2026-03/e8t33aq8_omar-abdullah-afp_625x300_07_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 07 Mar 2026 22:16:35 +0530",
+    "link": "https://www.ndtv.com/india-news/iran-news-iran-israel-us-war-news-middle-east-news-bombs-cannot-bring-regime-change-omar-abdullah-slams-us-strikes-on-iran-11183205#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/president-droupadi-murmu-jabs-mamata-banerjee-ahead-of-west-bengal-elections-live-updates-narendra-modi-amit-shah-slams-trinamool-congress-11182974#publisher=newsstand",
     "category": "india",
     "title": "President Jabs Mamata Banerjee Live Updates: Trinamool Hit New Low, Says Amit Shah",
@@ -60,54 +110,14 @@
     "link": "https://www.ndtv.com/india-news/west-bengal-elections-bengal-polls-droupadi-murmu-is-mamata-banerjee-upset-with-me-president-jabs-11182594#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-news-iran-israel-us-war-news-middle-east-news-hours-after-presidents-apology-a-warning-to-neighbours-from-iran-11183104#publisher=newsstand",
-    "category": "india",
-    "title": "Hours After President's Apology, A Warning To Neighbours From Iran",
-    "summary": "Iran's hardline judiciary chief said the Islamic republic would continue targeting regional neighbours",
-    "image": "https://c.ndtvimg.com/2026-03/v0r8mc8_missile-cities_625x300_06_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 07 Mar 2026 21:54:35 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-us-war-news-middle-east-news-hours-after-presidents-apology-a-warning-to-neighbours-from-iran-11183104#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-accuses-us-of-attacking-freshwater-desalination-plant-on-gulf-island-11183072#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Accuses US Of Attacking Freshwater Desalination Plant On Gulf Island",
-    "summary": "(File Image)",
-    "image": "https://c.ndtvimg.com/2025-07/gikt23dg_abbas-araghchi_625x300_22_July_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 07 Mar 2026 21:42:51 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-accuses-us-of-attacking-freshwater-desalination-plant-on-gulf-island-11183072#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/lost-at-railway-station-at-4-man-reunites-with-father-after-decades-in-china-11182683#publisher=newsstand",
-    "category": "india",
-    "title": "Lost At Railway Station At 4, Man Reunites With Father After Decades In China",
-    "summary": "Representative Image",
-    "image": "https://c.ndtvimg.com/2026-03/a11qomv4_viral-news_625x300_07_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Sat, 07 Mar 2026 21:38:43 +0530",
-    "link": "https://www.ndtv.com/offbeat/lost-at-railway-station-at-4-man-reunites-with-father-after-decades-in-china-11182683#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/international-womens-day-2026-history-significance-and-theme-11183003#publisher=newsstand",
-    "category": "india",
-    "title": "International Women's Day 2026: History, Significance And Theme",
-    "summary": "The day also draws attention to the importance of gender equality and women's empowerment.",
-    "image": "https://c.ndtvimg.com/2026-03/0i0v1e3k_international-womens-day_625x300_07_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 07 Mar 2026 21:33:07 +0530",
-    "link": "https://www.ndtv.com/offbeat/international-womens-day-2026-history-significance-and-theme-11183003#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/science/want-to-live-longer-scientists-say-the-ideal-number-of-children-may-be-2-or-3-11182958#publisher=newsstand",
-    "category": "india",
-    "title": "Want To Live Longer? Scientists Say The 'Ideal' Number Of Children May Be 2 Or 3",
-    "summary": "Scientists also examined biological ageing using \"epigenetic clocks\".",
-    "image": "https://c.ndtvimg.com/2026-03/8j4f3k2c_scientists-also-examined-biological-ageing-using-epigenetic-clocks_625x300_07_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Sat, 07 Mar 2026 21:10:46 +0530",
-    "link": "https://www.ndtv.com/science/want-to-live-longer-scientists-say-the-ideal-number-of-children-may-be-2-or-3-11182958#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1527284.html",
+    "category": "sports",
+    "title": "Lord's mourns Mick Hunt, legendary groundsman for 49 years",
+    "summary": "Iconic figure oversaw MCC's pitch preparations for almost half a century",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/279200/279213.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 07 Mar 2026 17:44:51 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1527284.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-defensive-stock-specific-approach-advised-to-protect-gains/articleshow/129212825.cms",
@@ -328,16 +338,6 @@
     "source": "BBC",
     "pubDate": "Sat, 07 Mar 2026 10:13:42 GMT",
     "link": "https://www.bbc.com/news/articles/c80jmm00379o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1527191.html",
-    "category": "sports",
-    "title": "Labuschagne takes four but Queensland crash towards defeat",
-    "summary": "A poor forecast for the last day yet deny Western Australia victory but the home side's hopes of reaching the final would still have taken a huge hit",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414400/414469.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 07 Mar 2026 08:57:12 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1527191.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cn4ggqgyk51o#1",
