@@ -40,36 +40,6 @@
     "link": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1527447.html",
-    "category": "sports",
-    "title": "Gambhir dedicates T20 World Cup win to Dravid, Laxman",
-    "summary": "\"Stop celebrating milestones, celebrate trophies, because the bigger purpose of a team sport is to win trophies, not score individual runs,\" India coach said",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414559.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 08 Mar 2026 21:08:41 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1527447.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1527442.html",
-    "category": "sports",
-    "title": "Suryakumar: LA28 Olympic gold the next goal",
-    "summary": "India captain said 'everything changed post-2024' for the white-ball sides",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414571.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 08 Mar 2026 20:51:03 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1527442.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1527414.html",
-    "category": "sports",
-    "title": "India crush New Zealand for third T20 World Cup title",
-    "summary": "Abhishek, Samson and Kishan all smashed half-centuries to amass 255 before Bumrah's four-for helped set up a massive win",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414567.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 08 Mar 2026 20:27:22 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1527414.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1527405.html",
     "category": "sports",
     "title": "Abhishek: Coach and captain told me I was going to win big games",
@@ -180,124 +150,204 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/coal-india-gearing-up-for-breakout-after-15-months-of-consolidation-shivangi-sarda/videoshow/129081791.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-ongc-shares-in-focus-as-us-israel-iran-war-lifts-oil-prices-by-another-20/articleshow/129307851.cms",
     "category": "finance",
-    "title": "Coal India gearing up for breakout after 15 months of consolidation: Shivangi Sarda",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-129081791,imgsize-39284.cms",
+    "title": "Reliance Industries, ONGC shares in focus as US, Israel-Iran war lifts oil prices by another 20%",
+    "summary": "Upstream oil company shares are poised for gains as crude prices surged significantly due to escalating U.S.-Israeli conflict with Iran, triggering Middle East supply concerns. Analysts predict further price hikes, potentially reaching $150 a barrel,",
+    "image": "https://img.etimg.com/photo/msid-129307851,imgsize-11704.cms",
     "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 07:00:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/coal-india-gearing-up-for-breakout-after-15-months-of-consolidation-shivangi-sarda/videoshow/129081791.cms"
+    "pubDate": "Mon, 09 Mar 2026 09:22:50 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-ongc-shares-in-focus-as-us-israel-iran-war-lifts-oil-prices-by-another-20/articleshow/129307851.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/om-birla-what-is-the-process-to-impeach-a-lok-sabha-speaker-what-constitution-says-11187757#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/silver-falls-rs-3600-gold-below-rs-1-6-lakh-as-inflation-risks-from-rising-crude-outweigh-safe-haven-demand-what-should-you-do/articleshow/129307690.cms",
+    "category": "finance",
+    "title": "Silver falls Rs 3,600, gold below Rs 1.6 lakh amid crude-driven inflation fears. What should you do?",
+    "summary": "Gold and silver prices declined sharply on MCX as a stronger U.S. dollar and rising crude oil prices fuelled inflation concerns, reducing expectations of near-term rate cuts. Analysts say bullion may remain volatile amid geopolitical tensions and cur",
+    "image": "https://img.etimg.com/photo/msid-129307690,imgsize-87302.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Mar 2026 09:18:04 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-falls-rs-3600-gold-below-rs-1-6-lakh-as-inflation-risks-from-rising-crude-outweigh-safe-haven-demand-what-should-you-do/articleshow/129307690.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-on-the-verge-of-a-30-breakout-25-years-of-market-history-says-its-possible-in-fy27/articleshow/129307146.cms",
+    "category": "finance",
+    "title": "Nifty on the verge of a 30% breakout? 25 years of market history says it's possible in FY27",
+    "summary": "Nifty has experienced a prolonged period of flat returns, mirroring historical patterns that have preceded significant market rallies. Analysis of 25 years of data suggests a potential 30% surge in the next 12 months and a 76% gain over three years. ",
+    "image": "https://img.etimg.com/photo/msid-129307146,imgsize-2511578.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Mar 2026 09:05:12 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-on-the-verge-of-a-30-breakout-25-years-of-market-history-says-its-possible-in-fy27/articleshow/129307146.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gail-petronet-lng-other-gas-stocks-in-focus-amid-rising-expectations-of-prolonged-iran-israel-war/articleshow/129307021.cms",
+    "category": "finance",
+    "title": "GAIL, Petronet LNG, other gas stocks in focus amid rising expectations of prolonged Iran-Israel war",
+    "summary": "Gas stocks such as GAIL and Petronet LNG may remain in focus as the Iran-Israel conflict raises fears of prolonged disruption in the Strait of Hormuz, a key route for global energy shipments. Concerns over LNG and LPG supply risks, along with geopoli",
+    "image": "https://img.etimg.com/photo/msid-129307021,imgsize-211752.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Mar 2026 09:02:20 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gail-petronet-lng-other-gas-stocks-in-focus-amid-rising-expectations-of-prolonged-iran-israel-war/articleshow/129307021.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/nifty-slide-may-extend-to-23535-but-mean-reversion-bounce-possible-says-anand-james/articleshow/129271844.cms",
+    "category": "finance",
+    "title": "Nifty slide may extend to 23,535 but mean-reversion bounce possible, says Anand James",
+    "summary": "Nifty's breach below its 200-day moving average intensifies correction fears, with geopolitical tensions and weak global cues weighing on sentiment. Geojit Investments' Anand James outlines key support levels for Nifty, discusses the potential for a ",
+    "image": "https://img.etimg.com/photo/msid-129271844,imgsize-37394.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Mar 2026 09:00:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/nifty-slide-may-extend-to-23535-but-mean-reversion-bounce-possible-says-anand-james/articleshow/129271844.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/dont-go-all-in-yet-amisha-vora-has-a-precise-blueprint-for-investing-through-this-storm/articleshow/129154863.cms",
+    "category": "finance",
+    "title": "Don't go all in yet: Amisha Vora has a precise blueprint for investing through this storm",
+    "summary": "During market stress, Amisha Vora advises investors against impulsive reactions, advocating for emotional resilience and staged capital deployment. She emphasizes a disciplined approach, suggesting a review of portfolios and a balanced allocation inc",
+    "image": "https://img.etimg.com/photo/msid-129154863,imgsize-36472.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Mar 2026 09:00:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/dont-go-all-in-yet-amisha-vora-has-a-precise-blueprint-for-investing-through-this-storm/articleshow/129154863.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/nikkei-drops-7-as-surge-in-oil-prices-fans-economic-slowdown-fears/articleshow/129306847.cms",
+    "category": "finance",
+    "title": "Nikkei drops 7% as surge in oil prices fans economic slowdown fears",
+    "summary": "Japanese stock markets experienced a sharp decline on Monday. The Nikkei index dropped significantly, reaching a two-month low. This downturn was driven by a surge in oil prices, sparking concerns about inflation and a potential economic slowdown. In",
+    "image": "https://img.etimg.com/photo/msid-129306847,imgsize-189308.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Mar 2026 08:58:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/nikkei-drops-7-as-surge-in-oil-prices-fans-economic-slowdown-fears/articleshow/129306847.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bel-hal-other-defence-stocks-in-focus-as-middle-east-war-enters-day-10-what-are-experts-saying/articleshow/129306631.cms",
+    "category": "finance",
+    "title": "BEL, HAL, other defence stocks fall up to 3% as Middle East war enters day 10. What are experts saying?",
+    "summary": "Indian defence stocks such as BEL, HAL and BDL fell up to 3% even as escalating tensions in the Middle East boost investor interest in the sector. Analysts say strong government spending, growing order books and rising geopolitical uncertainties coul",
+    "image": "https://img.etimg.com/photo/msid-129306631,imgsize-455273.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Mar 2026 08:57:58 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bel-hal-other-defence-stocks-in-focus-as-middle-east-war-enters-day-10-what-are-experts-saying/articleshow/129306631.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/stock-marketlive-updates-sensex-nifty-likely-to-crash-as-oil-crosses-105-mark-11187870#publisher=newsstand",
     "category": "india",
-    "title": "What Is The Process To Impeach A Lok Sabha Speaker? What Constitution Says",
-    "summary": "According to agenda paper for Monday, the resolution is the only item listed as the business of the day.",
-    "image": "https://c.ndtvimg.com/2024-06/78c91mcc_lok-sabha-generic-ians_625x300_06_June_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Stock Market LIVE: Sensex, Nifty Likely To Crash As Oil Crosses $105-Mark",
+    "summary": "Stock Market News Live News: Oil prices likely to prompt equities sell-off.",
+    "image": "https://c.ndtvimg.com/2026-02/ohnqh70k_bear-market_650x400_27_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 09 Mar 2026 06:43:32 +0530",
-    "link": "https://www.ndtv.com/india-news/om-birla-what-is-the-process-to-impeach-a-lok-sabha-speaker-what-constitution-says-11187757#publisher=newsstand"
+    "pubDate": "Mon, 09 Mar 2026 08:19:48 +0530",
+    "link": "https://www.ndtv.com/india-news/stock-marketlive-updates-sensex-nifty-likely-to-crash-as-oil-crosses-105-mark-11187870#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/129300913.cms",
-    "category": "finance",
-    "title": "GIFT Nifty down 730 points; here's the trading setup for today's session",
-    "summary": "Indian equities extended losses on Friday amid escalating geopolitical tensions in West Asia, keeping investor risk appetite subdued. The India VIX surged, indicating increased market fear. Foreign portfolio investors were net sellers, while domestic",
-    "image": "https://img.etimg.com/photo/msid-129300913,imgsize-111647.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 06:43:31 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/129300913.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-kwality-walls-au-small-finance-bank-yes-bank-pb-fintech-tata-power/articleshow/129300721.cms",
-    "category": "finance",
-    "title": "Stocks in news: Kwality Walls, AU Small Finance Bank, YES Bank, PB Fintech, Tata Power",
-    "summary": "Indian markets faced pressure on Friday, losing some recent gains due to cautious global sentiment and profit-taking. Several companies like PB Fintech, Kwality Walls, Cipla, AU Small Finance Bank, YES Bank, and Tata Power are in focus. Block deals o",
-    "image": "https://img.etimg.com/photo/msid-129300721,imgsize-54812.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 06:38:29 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-kwality-walls-au-small-finance-bank-yes-bank-pb-fintech-tata-power/articleshow/129300721.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-israel-us-war-news-live-khameneis-son-mojtaba-khamenei-named-irans-new-supreme-leader-11187447#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand",
     "category": "india",
-    "title": "Khamenei's Son Mojtaba Named Iran's New Supreme Leader",
-    "summary": "The Supreme Leader's position gives Mojtaba the final say in all matters of state in Iran (file)",
-    "image": "https://c.ndtvimg.com/2026-03/7l39gtdo_mojtaba_625x300_04_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Iran-Israel War LIVE Updates: Saudi Arabia Warns Iran It Will Be \"Biggest Loser\" Amid Continued Attacks",
+    "summary": "US-Israel-Iran War Live News: In Israel, sirens warning of incoming missiles sounded across the country",
+    "image": "https://c.ndtvimg.com/2026-03/pvsukf7c_israel_625x300_09_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 09 Mar 2026 06:32:13 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-us-war-news-live-khameneis-son-mojtaba-khamenei-named-irans-new-supreme-leader-11187447#publisher=newsstand"
+    "pubDate": "Mon, 09 Mar 2026 08:07:15 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-slide-oil-surges-on-risk-of-lengthy-middle-east-conflict/articleshow/129300463.cms",
-    "category": "finance",
-    "title": "Global Market Today | Asian shares slide, oil surges on risk of lengthy Middle East conflict",
-    "summary": "Surging oil prices are fueling inflation fears and potentially higher interest rates globally, causing Asian share markets to slide. Investors are seeking liquidity in the U.S. dollar as geopolitical tensions in the Middle East threaten prolonged ene",
-    "image": "https://img.etimg.com/photo/msid-129300463,imgsize-64658.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 06:31:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-slide-oil-surges-on-risk-of-lengthy-middle-east-conflict/articleshow/129300463.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/oil-surges-to-100-a-barrel-as-israel-iran-war-hits-production-and-shipping-11187625#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/video-uae-releases-footage-of-air-defences-shooting-down-iranian-drones-middle-east-conflict-iran-israel-us-war-11187917#publisher=newsstand",
     "category": "india",
-    "title": "Oil Surges To $100 A Barrel As Israel-Iran War Hits Production And Shipping",
-    "summary": "The price for a barrel of Brent crude, the international standard, was at $107.97.",
-    "image": "https://c.ndtvimg.com/2022-11/i4sg58pg_oil-generic_625x300_06_November_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Video: UAE Releases Footage Of Air Defences Shooting Down Iranian Drones",
+    "summary": "A total of 1,422 Iranian UAVs have also been detected, of which 1,342 were intercepted",
+    "image": "https://c.ndtvimg.com/2026-03/gn3j2aq_uae_625x300_09_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 09 Mar 2026 06:30:32 +0530",
-    "link": "https://www.ndtv.com/world-news/oil-surges-to-100-a-barrel-as-israel-iran-war-hits-production-and-shipping-11187625#publisher=newsstand"
+    "pubDate": "Mon, 09 Mar 2026 08:03:19 +0530",
+    "link": "https://www.ndtv.com/world-news/video-uae-releases-footage-of-air-defences-shooting-down-iranian-drones-middle-east-conflict-iran-israel-us-war-11187917#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-surges-20-as-iran-war-fuels-supply-fears/articleshow/129300255.cms",
-    "category": "finance",
-    "title": "Oil surges 20% as Iran war fuels supply fears",
-    "summary": "Oil prices surged nearly 20% to their highest since July 2022 amid escalating U.S.-Israeli conflict with Iran, sparking fears of supply shortages and shipping disruptions. Middle Eastern producers are reportedly cutting output due to full storage, po",
-    "image": "https://img.etimg.com/photo/msid-129300255,imgsize-39380.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 06:26:40 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-surges-20-as-iran-war-fuels-supply-fears/articleshow/129300255.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/saudi-aramco-shares-surge-most-since-april-2023/articleshow/129299832.cms",
-    "category": "finance",
-    "title": "Saudi Aramco shares surge most since April 2023",
-    "summary": "Saudi Aramco shares saw a significant jump as the Iran conflict intensified. This ongoing situation is causing oil supply disruptions. Global oil prices are expected to rise further. United Arab Emirates and Kuwait are reducing production. Vital ship",
-    "image": "https://img.etimg.com/photo/msid-129299832,imgsize-49346.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 06:17:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/saudi-aramco-shares-surge-most-since-april-2023/articleshow/129299832.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/bobs-success-spurs-more-public-peers-to-plan-green-bond-issues/articleshow/129299589.cms",
-    "category": "finance",
-    "title": "BoB's success spurs more public peers to plan green bond issues",
-    "summary": "Indian state-run banks are planning new green bond issuances following Bank of Baroda's successful \u20b910,000-crore seven-year bond at a 7.10% coupon. Union Bank of India and State Bank of India are expected to raise significant amounts, with other publ",
-    "image": "https://img.etimg.com/photo/msid-129299589,imgsize-56190.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 06:10:57 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/bobs-success-spurs-more-public-peers-to-plan-green-bond-issues/articleshow/129299589.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/top-individual-investors-see-mixed-fortunes-in-december-quarter/articleshow/129299397.cms",
-    "category": "finance",
-    "title": "Top individual investors see mixed fortunes in December quarter",
-    "summary": "India's top investors experienced mixed results in the December quarter. While some portfolios saw gains between 2% and 11%, others faced declines of 3% to 19% amidst volatile market movements. Benchmark indices showed varied performance, with Nifty ",
-    "image": "https://img.etimg.com/photo/msid-129299397,imgsize-80324.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 06:07:08 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/top-individual-investors-see-mixed-fortunes-in-december-quarter/articleshow/129299397.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-news-live-updates-donald-trump-netanyahu-iris-dena-middle-east-war-enters-day-7-11175202#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/iit-roorkee-announced-jee-advanced-2026-date-exam-on-may-17-registration-from-april-23-11187898#publisher=newsstand",
     "category": "india",
-    "title": "US-Israel-Iran War Live Updates: Mojtaba Appointed Supreme Leader By Decisive Vote, Says Iran Body",
-    "summary": "Israel Iran War Live News: Israel and the US have been attacking Iranian sites",
-    "image": "https://c.ndtvimg.com/2026-03/36csc4sc_iran-war-ap_625x300_04_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "JEE Advanced 2026 Date Announced: Exam On May 17, Registration From April 23",
+    "summary": "IIT Roorkee Announces JEE Advanced 2026 Registration And Exam Dates",
+    "image": "https://c.ndtvimg.com/2026-03/eu8f2rmo_iit-roorkee_625x300_09_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 09 Mar 2026 03:27:11 +0530",
-    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-news-live-updates-donald-trump-netanyahu-iris-dena-middle-east-war-enters-day-7-11175202#publisher=newsstand"
+    "pubDate": "Mon, 09 Mar 2026 07:55:44 +0530",
+    "link": "https://www.ndtv.com/education/iit-roorkee-announced-jee-advanced-2026-date-exam-on-may-17-registration-from-april-23-11187898#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/science/nasa-shares-steps-to-track-artemis-ii-lunar-flyby-mission-in-real-time-11187852#publisher=newsstand",
+    "category": "india",
+    "title": "NASA Shares Steps To Track Artemis II Lunar Flyby Mission In Real Time",
+    "summary": "Artemis II is NASA's first crewed test flight in the Artemis campaign.",
+    "image": "https://c.ndtvimg.com/2026-02/1qtptvo8_artemis-ii-_625x300_05_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 09 Mar 2026 07:52:33 +0530",
+    "link": "https://www.ndtv.com/science/nasa-shares-steps-to-track-artemis-ii-lunar-flyby-mission-in-real-time-11187852#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/mojtaba-khamenei-irans-new-supreme-leader-often-seen-as-a-gatekeeper-ayatollah-ali-khamenei-iran-war-iran-israel-war-11187888#publisher=newsstand",
+    "category": "india",
+    "title": "Mojtaba Khamenei: Iran's New Supreme Leader, Often Seen As A 'Gatekeeper'",
+    "summary": "Mojtaba Khamenei has succeeded his father Ayatollah Ali Khamenei.",
+    "image": "https://c.ndtvimg.com/2026-03/lc2pqiqg_mojtaba-khamenei_625x300_06_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 09 Mar 2026 07:47:47 +0530",
+    "link": "https://www.ndtv.com/world-news/mojtaba-khamenei-irans-new-supreme-leader-often-seen-as-a-gatekeeper-ayatollah-ali-khamenei-iran-war-iran-israel-war-11187888#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/the-audacity-is-unreal-intern-fired-on-first-day-of-work-reveals-shocking-reason-11187783#publisher=newsstand",
+    "category": "india",
+    "title": "\"The Audacity Is Unreal\": Intern Fired On First Day Of Work, Reveals Shocking Reason",
+    "summary": "The incident highlight the challenges faced by interns and young professionals.",
+    "image": "https://c.ndtvimg.com/2026-03/472mmtrc_office-setup_625x300_09_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 09 Mar 2026 07:43:00 +0530",
+    "link": "https://www.ndtv.com/offbeat/the-audacity-is-unreal-intern-fired-on-first-day-of-work-reveals-shocking-reason-11187783#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-matter-of-relief-india-says-no-indian-killed-in-saudi-strike-11187857#publisher=newsstand",
+    "category": "india",
+    "title": "\"Matter Of Relief\": India Says No Indian Killed In Saudi Strike",
+    "summary": "Saudi's defence agency had said that an Indian and a Bangladeshi national were killed in the strike.",
+    "image": "https://c.ndtvimg.com/2026-03/fcvv7698_middle-wast-war-riyadh_625x300_08_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 09 Mar 2026 07:42:54 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-matter-of-relief-india-says-no-indian-killed-in-saudi-strike-11187857#publisher=newsstand"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1527447.html",
+    "category": "sports",
+    "title": "Gambhir: 'Stop celebrating milestones, celebrate trophies'",
+    "summary": "Gautam Gambhir thanks Rahul Dravid, VVS Laxman and Ajit Agarkar for their contribution to Indian cricket",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414559.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 09 Mar 2026 03:52:55 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1527447.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1527442.html",
+    "category": "sports",
+    "title": "Suryakumar: LA28 Olympic gold the next goal",
+    "summary": "India captain said 'everything changed post-2024' for the white-ball sides",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414571.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 09 Mar 2026 03:34:39 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1527442.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1527414.html",
+    "category": "sports",
+    "title": "India crush New Zealand for third T20 World Cup title",
+    "summary": "Abhishek, Samson and Kishan all smashed half-centuries to amass 255 before Bumrah's four-for helped set up a massive win",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414567.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 09 Mar 2026 03:21:56 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1527414.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c79542n0grwo#1",
+    "category": "global",
+    "title": "Oil prices surge above $110 and shares slide over Iran war",
+    "summary": "Major disruption to energy supplies threatens to push up prices for consumers and businesses around the world.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 09 Mar 2026 02:19:19 GMT",
+    "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/videos/c9wne9yxqn8o#2",
@@ -310,16 +360,6 @@
     "link": "https://www.bbc.com/news/videos/c9wne9yxqn8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-news-iran-israel-us-war-mojtaba-khamenei-news-khameneis-name-to-continue-iran-clerics-big-hint-on-next-supreme-leader-11187234#publisher=newsstand",
-    "category": "india",
-    "title": "\"Khamenei's Name To Continue\": Iran Cleric's Big Hint On Next Supreme Leader",
-    "summary": "Iranian attacks have killed 10 people in Israel.",
-    "image": "https://c.ndtvimg.com/2026-03/616q3jgc_mojtaba-khamenei_625x300_06_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 09 Mar 2026 00:35:12 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-us-war-mojtaba-khamenei-news-khameneis-name-to-continue-iran-clerics-big-hint-on-next-supreme-leader-11187234#publisher=newsstand"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cy8l2wx0027o#2",
     "category": "global",
     "title": "Huge fire at Glasgow Central Station prompts evacuations as building collapses",
@@ -328,46 +368,6 @@
     "source": "BBC",
     "pubDate": "Mon, 09 Mar 2026 00:30:44 GMT",
     "link": "https://www.bbc.com/news/articles/cy8l2wx0027o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c79542n0grwo#1",
-    "category": "global",
-    "title": "Oil prices jump above $100 for first time in four years",
-    "summary": "Major disruption to energy supplies threatens to push up prices for consumers and businesses around the world.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 09 Mar 2026 00:28:40 GMT",
-    "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/how-numbers-game-plays-out-in-oppositions-no-trust-motion-against-speaker-om-birla-11187221#publisher=newsstand",
-    "category": "india",
-    "title": "How Numbers Game Plays Out In Opposition's No-Trust Motion Against Speaker",
-    "summary": "In the current Lok Sabha, the government has the support of 293 MPs.",
-    "image": "https://c.ndtvimg.com/2026-02/s66neid_lok-sabha-speaker-om-birla_625x300_15_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 09 Mar 2026 00:22:39 +0530",
-    "link": "https://www.ndtv.com/india-news/how-numbers-game-plays-out-in-oppositions-no-trust-motion-against-speaker-om-birla-11187221#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/indian-national-among-2-killed-after-projectile-strike-in-saudi-arabia-11187188#publisher=newsstand",
-    "category": "india",
-    "title": "Indian National Among 2 Killed After 'Projectile Strike' In Saudi Arabia",
-    "summary": "Al Kharj governorate is home to a massive air base and has been targeted repeatedly over the past week.",
-    "image": "https://c.ndtvimg.com/2026-03/fcvv7698_middle-wast-war-riyadh_625x300_08_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 09 Mar 2026 00:10:20 +0530",
-    "link": "https://www.ndtv.com/world-news/indian-national-among-2-killed-after-projectile-strike-in-saudi-arabia-11187188#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/assam-elections-2026-raijor-dal-betrayed-by-congress-akhil-gogoi-slams-gaurav-gogoi-for-alliance-breakdown-11187177#publisher=newsstand",
-    "category": "india",
-    "title": "\"Betrayed By Congress\": Assam Regional Party Slams Alliance Breakdown",
-    "summary": "Akhil Gogoi blamed the \"arrogance\" of Congress's state leadership",
-    "image": "https://i.ndtvimg.com/i/2017-09/akhil-gogoi_650x400_41505331504.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 09 Mar 2026 00:06:52 +0530",
-    "link": "https://www.ndtv.com/india-news/assam-elections-2026-raijor-dal-betrayed-by-congress-akhil-gogoi-slams-gaurav-gogoi-for-alliance-breakdown-11187177#publisher=newsstand"
   },
   {
     "id": "1OII24oTfVYyF45IOoAjy8",
