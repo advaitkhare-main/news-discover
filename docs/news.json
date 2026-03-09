@@ -40,26 +40,6 @@
     "link": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/clyxp780xvro#1",
-    "category": "global",
-    "title": "'Mind boggles' at doubts over legality of Iran war, Israeli president says",
-    "summary": "Isaac Herzog says Israel is acting out of \"self-defence\" on behalf of Israel, the wider region and Europe.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 08 Mar 2026 16:53:30 GMT",
-    "link": "https://www.bbc.com/news/articles/clyxp780xvro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4g0pnnj8xyo#1",
-    "category": "global",
-    "title": "In maps: Nine days of strikes across the Middle East",
-    "summary": "Israel has continued strikes across Iran and Lebanon and the Iranian regime has carried out more attacks, as the war continues for a ninth day.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 08 Mar 2026 15:38:52 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -78,6 +58,46 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 12 Jan 2026 11:30:00 GMT",
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/strong-indian-economy-makes-current-crisis-manageable-vikas-khemani/articleshow/129321422.cms",
+    "category": "finance",
+    "title": "Strong Indian economy makes current crisis manageable: Vikas Khemani",
+    "summary": "Market turbulence offers chances to buy. Vikas Khemani of Carnelian Asset Management sees opportunity in corrections. He highlights banks, consumer sectors, and pharmaceuticals as attractive. PSU banks also present value. Khemani advises a long-term ",
+    "image": "https://img.etimg.com/photo/msid-129321422,imgsize-25768.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Mar 2026 14:01:18 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/strong-indian-economy-makes-current-crisis-manageable-vikas-khemani/articleshow/129321422.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-crash-as-crude-nears-120-any-sector-to-hide-in-as-middle-east-war-intensifies/articleshow/129321296.cms",
+    "category": "finance",
+    "title": "Sensex, Nifty crash as crude nears $120: Any sector to hide in as Middle East war intensifies?",
+    "summary": "The surge in crude oil prices triggered a sharp selloff in Indian equities on Monday. The benchmark BSE Sensex fell nearly 2,400 points shortly after opening, while the Nifty 50 dropped more than 700 points, before recovering some of the losses. All ",
+    "image": "https://img.etimg.com/photo/msid-129321296,imgsize-53626.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Mar 2026 13:54:57 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-crash-as-crude-nears-120-any-sector-to-hide-in-as-middle-east-war-intensifies/articleshow/129321296.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/strategic-oil-bets-may-outperform-in-current-geopolitical-crisis-mark-matthews/articleshow/129320865.cms",
+    "category": "finance",
+    "title": "Strategic oil bets may outperform in current geopolitical crisis: Mark Matthews",
+    "summary": "Global markets are grappling with a surge in crude oil prices, with Brent crude exceeding $100.  Strategists note that markets are already digesting this shock, impacting Asian markets significantly. India, however, may face less downside due to its ",
+    "image": "https://img.etimg.com/photo/msid-129320865,imgsize-16392.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Mar 2026 13:47:56 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/strategic-oil-bets-may-outperform-in-current-geopolitical-crisis-mark-matthews/articleshow/129320865.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-wipro-infosys-and-other-it-stocks-rose-up-to-1-despite-rs-12-lakh-crore-market-selloff/articleshow/129319661.cms",
+    "category": "finance",
+    "title": "Explained: Why Wipro, Infosys and other IT stocks rose up to 1% despite Rs 12 lakh crore market selloff",
+    "summary": "Shares of IT companies outperformed the broader market on Monday, with Wipro, LTIMindtree, and Persistent Systems rising up to 1% despite a sharp selloff that wiped out over Rs 12.39 lakh crore from BSE-listed companies\u2019 market capitalisation. Wipro ",
+    "image": "https://img.etimg.com/photo/msid-129319661,imgsize-16064.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Mar 2026 13:19:41 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-wipro-infosys-and-other-it-stocks-rose-up-to-1-despite-rs-12-lakh-crore-market-selloff/articleshow/129319661.cms"
   },
   {
     "id": "https://www.ndtv.com/education/ctet-february-2026-exam-provisional-answer-key-likely-to-be-out-soon-details-here-11189017#publisher=newsstand",
@@ -132,7 +152,7 @@
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/pg-electroplast-shares-tumble-13-after-lpg-supply-disruption-due-to-mideast-war/articleshow/129319106.cms",
     "category": "finance",
-    "title": "PG Electroplast shares tumble 13% after LPG supply disruption due to Mideast war",
+    "title": "PG Electroplast tumbles 13% after LPG supply disruption amid Mideast war",
     "summary": "Shares of PG Electroplast fell sharply after the company flagged a gas shortage under its supply agreement due to maritime restrictions linked to the Middle East conflict. The disruption has led to curbs on LPG allocations, prompting the firm to expl",
     "image": "https://img.etimg.com/photo/msid-129319106,imgsize-13734.cms",
     "source": "ET",
@@ -200,54 +220,24 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-nikkei-falls-5-as-surge-in-oil-prices-fans-economic-slowdown-fears/articleshow/129318518.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-lose-138-billion-in-value-as-oil-surge-stokes-inflation-fears/articleshow/129318389.cms",
-    "category": "finance",
-    "title": "Global Markets | Australian shares lose $138 billion in value as oil surge stokes inflation fears",
-    "summary": "Australian shares experienced a sharp 3% decline, losing over $138 billion as surging oil prices fueled inflation fears. The S&amp;P/ASX 200 index hit its lowest point since December. Miners and financials bore the brunt, while energy stocks saw gain",
-    "image": "https://img.etimg.com/photo/msid-129318389,imgsize-154922.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 12:53:10 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-lose-138-billion-in-value-as-oil-surge-stokes-inflation-fears/articleshow/129318389.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/nischal-maheshwari-sees-calm-after-storm-hold-dont-panic-amid-nifty-selloff/articleshow/129318194.cms",
-    "category": "finance",
-    "title": "Nischal Maheshwari sees calm after storm: Hold, don\u2019t panic amid Nifty selloff",
-    "summary": "Indian markets opened lower today. Global uncertainties and rising crude oil prices are impacting investor sentiment. A market strategist advises against panic. He suggests a good range for potential market bottoms. Investors should focus on domestic",
-    "image": "https://img.etimg.com/photo/msid-129318194,imgsize-20578.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 12:49:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/nischal-maheshwari-sees-calm-after-storm-hold-dont-panic-amid-nifty-selloff/articleshow/129318194.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-billionaire-buys-more-nvidia-to-calm-the-nervous-market/articleshow/129316471.cms",
-    "category": "finance",
-    "title": "Tesla billionaire buys more Nvidia to \u2018calm the nervous market\u2019",
-    "summary": "Billionaire Leo KoGuan has doubled his investment in chipmaker Nvidia. He purchased an additional one million shares. This move comes as global markets face a selloff due to the Middle East conflict. KoGuan hopes his purchase will help calm nervous m",
-    "image": "https://img.etimg.com/photo/msid-129316471,imgsize-585367.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 12:37:20 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-billionaire-buys-more-nvidia-to-calm-the-nervous-market/articleshow/129316471.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/middle-east-tensions-are-hammering-banks-narendra-solanki-says-buy-the-dip/articleshow/129316476.cms",
-    "category": "finance",
-    "title": "Middle East tensions are hammering banks; Narendra Solanki says buy the dip",
-    "summary": "Indian stock markets are facing pressure, with banking shares seeing significant declines. However, experts suggest this presents a buying opportunity for long-term investors. Escalating Middle East tensions are driving the selloff, impacting global ",
-    "image": "https://img.etimg.com/photo/msid-129316476,imgsize-25068.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 12:18:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/middle-east-tensions-are-hammering-banks-narendra-solanki-says-buy-the-dip/articleshow/129316476.cms"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c79542n0grwo#1",
     "category": "global",
     "title": "G7 nations to hold emergency meeting on oil as stock markets sink",
-    "summary": "Chancellor Rachel Reeves with join talks with reports suggest could include releases oil reserves.",
+    "summary": "Chancellor Rachel Reeves will join talks amid reports that oil reserves could be released to lower prices.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 09 Mar 2026 07:47:31 GMT",
+    "pubDate": "Mon, 09 Mar 2026 08:22:56 GMT",
     "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1527464.html",
+    "category": "sports",
+    "title": "'We need to lift each other up' - Kishan, Abhishek hail India's team belief",
+    "summary": "The duo credited India's team culture for helping them overcome personal struggles and deliver in the World Cup final",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414545.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 09 Mar 2026 07:50:29 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1527464.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527442.html",
@@ -270,6 +260,16 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1527447.html?ex_cid=OTC-RSS"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cwy8e978xl8o#1",
+    "category": "global",
+    "title": "Australia urged to protect Iranian football team after Asian Cup elimination",
+    "summary": "Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 09 Mar 2026 06:51:18 GMT",
+    "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cy577wd1xgro#2",
     "category": "global",
     "title": "Images of face released in bid to solve mystery of man found dead in wetsuit",
@@ -278,16 +278,6 @@
     "source": "BBC",
     "pubDate": "Mon, 09 Mar 2026 06:07:53 GMT",
     "link": "https://www.bbc.com/news/articles/cy577wd1xgro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy4ww4dp33jo#2",
-    "category": "global",
-    "title": "IRA bomb victims' civil court case begins against Gerry Adams",
-    "summary": "The men are seeking a ruling that Adams is personally liable for decisions to plant car bombs in London and Manchester in 1973 and 1996.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 09 Mar 2026 06:02:08 GMT",
-    "link": "https://www.bbc.com/news/articles/cy4ww4dp33jo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/clygpxq41l3o#1",
@@ -330,16 +320,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1527454.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1527464.html",
-    "category": "sports",
-    "title": "'We need to lift each other up' - Kishan, Abhishek hail India's team belief",
-    "summary": "The duo credited India's team culture for helping them overcome personal struggles and deliver in the World Cup final",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414545.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 09 Mar 2026 04:51:03 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1527464.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1527463.html",
     "category": "sports",
     "title": "Abhishek 'knew what the plan was going to be' and countered it, says du Plessis",
@@ -360,6 +340,16 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1527414.html?ex_cid=OTC-RSS"
   },
   {
+    "id": "https://www.bbc.com/news/articles/ckg2pm2kvkeo#2",
+    "category": "global",
+    "title": "Rihanna's Beverly Hills home hit by gunfire, police say",
+    "summary": "A suspect was arrested after the shooting on Sunday afternoon, Los Angeles officers say.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 09 Mar 2026 03:01:00 GMT",
+    "link": "https://www.bbc.com/news/articles/ckg2pm2kvkeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/videos/c9wne9yxqn8o#2",
     "category": "global",
     "title": "Watch: Fire crews fight blaze near Glasgow Central Station",
@@ -368,6 +358,16 @@
     "source": "BBC",
     "pubDate": "Mon, 09 Mar 2026 00:53:54 GMT",
     "link": "https://www.bbc.com/news/videos/c9wne9yxqn8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cly0ppdzj2yo#2",
+    "category": "global",
+    "title": "NHS England pauses new prescriptions of cross-sex hormones for under-18s",
+    "summary": "The health service said young people who already receive the drugs will continue to do so.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 09 Mar 2026 00:39:36 GMT",
+    "link": "https://www.bbc.com/news/articles/cly0ppdzj2yo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1OII24oTfVYyF45IOoAjy8",
