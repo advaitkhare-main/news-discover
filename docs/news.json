@@ -20,6 +20,16 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://www.ndtv.com/world-news/israel-iran-war-donald-trump-says-us-not-planning-to-send-troops-to-iran-11192420#publisher=newsstand",
+    "category": "india",
+    "title": "\"Nowhere Near\": Trump Says US Not Planning To Send Troops To Iran",
+    "summary": "Trump said US is not planning to send troops into Iran to secure enriched uranium from the nuclear sites.",
+    "image": "https://c.ndtvimg.com/2026-03/2lrj1tto_donald-trump_625x300_09_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 10 Mar 2026 02:42:24 +0530",
+    "link": "https://www.ndtv.com/world-news/israel-iran-war-donald-trump-says-us-not-planning-to-send-troops-to-iran-11192420#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/israel-iran-war-donald-trump-calls-iran-war-very-complete-threatens-to-take-over-hormuz-strait-11192357#publisher=newsstand",
     "category": "india",
     "title": "Trump Calls Iran War \"Very Complete\", Threatens To Take Over Hormuz Strait",
@@ -120,16 +130,6 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
-    "id": "https://www.ndtv.com/world-news/israel-iran-war-after-khameneis-death-iran-sent-a-signal-to-activate-sleeper-cells-report-11192094#publisher=newsstand",
-    "category": "india",
-    "title": "After Khamenei's Death, Iran Sent A Signal To Activate Sleeper Cells: Report",
-    "summary": "Iran's ambassador to the United Nations said civilian deaths in the country have reached 1,332.",
-    "image": "https://c.ndtvimg.com/2026-03/teusgg1_khamenei-afp_625x300_01_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 09 Mar 2026 23:59:31 +0530",
-    "link": "https://www.ndtv.com/world-news/israel-iran-war-after-khameneis-death-iran-sent-a-signal-to-activate-sleeper-cells-report-11192094#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-teams-up-with-kraken-to-expand-tokenization-infrastructure/articleshow/129344339.cms",
     "category": "finance",
     "title": "US Stocks: Nasdaq teams up with Kraken to expand tokenization infrastructure",
@@ -138,6 +138,16 @@
     "source": "ET",
     "pubDate": "Mon, 09 Mar 2026 21:55:01 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-teams-up-with-kraken-to-expand-tokenization-infrastructure/articleshow/129344339.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cwy8e978xl8o#1",
+    "category": "global",
+    "title": "Five Iranian footballers granted Australian visas after anthem protest",
+    "summary": "Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 09 Mar 2026 21:46:53 GMT",
+    "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-50-turns-30-ceo-highlights-43-6-market-share-as-of-feb-2026-reflects-indias-economic-rise/videoshow/129343322.cms",
@@ -278,16 +288,6 @@
     "source": "BBC",
     "pubDate": "Mon, 09 Mar 2026 16:30:11 GMT",
     "link": "https://www.bbc.com/news/articles/c24dy787revo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwy8e978xl8o#1",
-    "category": "global",
-    "title": "Five Iranian footballers 'in Australian safe house' after Asian Cup protest",
-    "summary": "Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 09 Mar 2026 16:29:46 GMT",
-    "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cvg548lyjnyo#1",
