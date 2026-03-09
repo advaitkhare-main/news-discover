@@ -40,16 +40,6 @@
     "link": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c05v28eqjyvo#2",
-    "category": "global",
-    "title": "Starmer and Trump speak for first time since president's Iran criticism",
-    "summary": "The phone call comes after a week in which Donald Trump repeatedly expressed frustration at Keir Starmer's stance on Iran.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 08 Mar 2026 16:56:34 GMT",
-    "link": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/clyxp780xvro#1",
     "category": "global",
     "title": "'Mind boggles' at doubts over legality of Iran war, Israeli president says",
@@ -88,6 +78,56 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 12 Jan 2026 11:30:00 GMT",
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sedemac-mechatronics-ipo-allotment-today-check-status-gmp-listing-details/articleshow/129315799.cms",
+    "category": "finance",
+    "title": "Sedemac Mechatronics IPO allotment today: Check status, GMP, listing details",
+    "summary": "Sedemac Mechatronics IPO allotment status will be finalized on Monday, March 9. Investors await confirmation of share allocation. The IPO saw moderate demand, with institutional investors showing strong interest. Grey market premiums indicate a poten",
+    "image": "https://img.etimg.com/photo/msid-129315799,imgsize-4014.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Mar 2026 11:58:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sedemac-mechatronics-ipo-allotment-today-check-status-gmp-listing-details/articleshow/129315799.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/war-uncertainty-deepens-market-rout-rajeev-agrawal-urges-disciplined-investing/articleshow/129315529.cms",
+    "category": "finance",
+    "title": "War uncertainty deepens market rout; Rajeev Agrawal urges disciplined investing",
+    "summary": "Global stock markets are experiencing high volatility. Geopolitical tensions and rising oil prices are causing sharp sell-offs. Investors are concerned about prolonged conflict and energy supply issues. Experts suggest rotating capital into more attr",
+    "image": "https://img.etimg.com/photo/msid-129315529,imgsize-12962.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Mar 2026 11:54:39 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/war-uncertainty-deepens-market-rout-rajeev-agrawal-urges-disciplined-investing/articleshow/129315529.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/asian-paints-berger-other-paint-stocks-fall-up-to-5-on-oils-29-spike-amid-mideast-tensions-more-pain-ahead/articleshow/129315424.cms",
+    "category": "finance",
+    "title": "Asian Paints, Berger &amp; other paint stocks fall up to 5% on oil's 29% spike amid Mideast tensions. More pain ahead?",
+    "summary": "Shares of Asian Paints, Berger Paints and Indigo Paints fell sharply on Monday after crude oil prices surged nearly 29% amid escalating Middle East tensions. Rising oil costs threaten to increase raw material expenses for paint makers, sparking conce",
+    "image": "https://img.etimg.com/photo/msid-129315424,imgsize-730622.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Mar 2026 11:51:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/asian-paints-berger-other-paint-stocks-fall-up-to-5-on-oils-29-spike-amid-mideast-tensions-more-pain-ahead/articleshow/129315424.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/1970s-like-oil-crisis-ahead-heres-why-todays-crude-spike-reminds-analysts-of-arab-oil-embargo-led-300-rally/articleshow/129314885.cms",
+    "category": "finance",
+    "title": "1970s-like oil crisis ahead? Here\u2019s why today\u2019s crude spike reminds analysts of Arab oil embargo-led 300% rally",
+    "summary": "Oil prices have reached multi-month peaks. The conflict between Iran and Israel-US has led to the closure of the Strait of Hormuz. This situation mirrors the 1970s oil crisis. Analysts warn of further price increases if the disruption continues. Inve",
+    "image": "https://img.etimg.com/photo/msid-129314885,imgsize-12014.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Mar 2026 11:46:03 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/1970s-like-oil-crisis-ahead-heres-why-todays-crude-spike-reminds-analysts-of-arab-oil-embargo-led-300-rally/articleshow/129314885.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/crude-shock-oil-prices-poised-for-biggest-ever-single-day-gain-after-29-rally/articleshow/129313684.cms",
+    "category": "finance",
+    "title": "Crude shock! Oil prices poised for biggest ever single-day gain after 29% rally",
+    "summary": "Brent crude surged nearly 29% on Monday to cross $100 per barrel, heading for its biggest single-day gain on record after the Strait of Hormuz remained shut amid the escalating Iran\u2013Israel\u2013US conflict. The disruption to a key global oil transit route",
+    "image": "https://img.etimg.com/photo/msid-129313684,imgsize-61424.cms",
+    "source": "ET",
+    "pubDate": "Mon, 09 Mar 2026 11:19:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-shock-oil-prices-poised-for-biggest-ever-single-day-gain-after-29-rally/articleshow/129313684.cms"
   },
   {
     "id": "https://www.ndtv.com/india-news/who-was-vallabh-maheshwari-shakun-group-md-killed-in-bmw-crash-on-delhi-mumbai-expressway-rajasthan-alwar-11188344#publisher=newsstand",
@@ -200,54 +240,24 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/christopher-wood-sees-anthropic-as-the-standout-player-in-evolving-ai-landscape/articleshow/129310983.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-crashes-2400-points-as-oil-tops-118-amid-west-asia-war-12-lakh-crore-wiped-out/videoshow/129310852.cms",
-    "category": "finance",
-    "title": "Sensex crashes 2,400 points as oil tops $118 amid West Asia war; \u20b912 lakh crore wiped out",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-129310852,imgsize-83082.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 10:21:38 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-crashes-2400-points-as-oil-tops-118-amid-west-asia-war-12-lakh-crore-wiped-out/videoshow/129310852.cms"
+    "id": "https://www.bbc.com/news/articles/cy577wd1xgro#2",
+    "category": "global",
+    "title": "New images could be key to solving mystery of body in wetsuit",
+    "summary": "Detectives hope the new facial reconstruction images will end an 18-month mystery.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 09 Mar 2026 06:07:53 GMT",
+    "link": "https://www.bbc.com/news/articles/cy577wd1xgro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-oil-shock-and-war-fears-jolt-global-markets-ahead-of-key-us-inflation-data/articleshow/129310588.cms",
-    "category": "finance",
-    "title": "US Stock Market | Oil shock and war fears jolt global markets ahead of key US inflation data",
-    "summary": "Global markets are facing renewed volatility as surging oil prices and escalating tensions in the Middle East raise concerns about inflation and economic growth. Investors are now closely watching upcoming US inflation data for signals on the Federal",
-    "image": "https://img.etimg.com/photo/msid-129310588,imgsize-88740.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 10:16:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-oil-shock-and-war-fears-jolt-global-markets-ahead-of-key-us-inflation-data/articleshow/129310588.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-strong-wage-data-in-japan-fuels-bets-on-more-boj-tightening/articleshow/129310507.cms",
-    "category": "finance",
-    "title": "Global Markets | Strong wage data in Japan fuels bets on more BOJ tightening",
-    "summary": "Japan\u2019s real wages rose in January for the first time in over a year as inflation cooled and base salaries recorded their strongest growth in more than three decades. The data strengthens expectations that the Bank of Japan may continue tightening mo",
-    "image": "https://img.etimg.com/photo/msid-129310507,imgsize-24270.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 10:14:42 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-strong-wage-data-in-japan-fuels-bets-on-more-boj-tightening/articleshow/129310507.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/rajputana-stainless-ipo-check-brokerages-review-subscription-gmp-and-other-details/articleshow/129310402.cms",
-    "category": "finance",
-    "title": "Rajputana Stainless IPO: Check brokerages review, subscription, GMP and other details",
-    "summary": "Rajputana Stainless's IPO opens for subscription. Grey market signals suggest modest listing gains. The company aims to raise Rs 255 crore for expansion and debt repayment.  Financials show steady profitability. Industry prospects are supportive, but",
-    "image": "https://img.etimg.com/photo/msid-129310402,imgsize-5354.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 10:12:43 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/rajputana-stainless-ipo-check-brokerages-review-subscription-gmp-and-other-details/articleshow/129310402.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/acetech-e-commerce-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/129310322.cms",
-    "category": "finance",
-    "title": "Acetech E-Commerce shares list flat at IPO price of Rs 112 on NSE SME platform",
-    "summary": "Shares of Acetech E-Commerce made a muted debut on the NSE SME Platform, listing at its IPO price of Rs 112 in line with grey market expectations. The Rs 49 crore issue was subscribed 1.14 times overall, while the company plans to use the proceeds fo",
-    "image": "https://img.etimg.com/photo/msid-129310322,imgsize-5000.cms",
-    "source": "ET",
-    "pubDate": "Mon, 09 Mar 2026 10:10:45 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/acetech-e-commerce-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/129310322.cms"
+    "id": "https://www.bbc.com/news/articles/cy4ww4dp33jo#2",
+    "category": "global",
+    "title": "IRA bomb victims' civil court case begins against Gerry Adams",
+    "summary": "The men are seeking a ruling that Adams is personally liable for decisions to plant car bombs in London and Manchester in 1973 and 1996.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 09 Mar 2026 06:02:08 GMT",
+    "link": "https://www.bbc.com/news/articles/cy4ww4dp33jo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/clygpxq41l3o#1",
@@ -258,16 +268,6 @@
     "source": "BBC",
     "pubDate": "Mon, 09 Mar 2026 05:40:05 GMT",
     "link": "https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy8l2wx0027o#2",
-    "category": "global",
-    "title": "Huge fire at Glasgow Central Station prompts evacuations as building collapses",
-    "summary": "The fire is understood to have started in a vape shop on Union Street on Sunday afternoon, with the building collapsing several hours later.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 09 Mar 2026 05:35:41 GMT",
-    "link": "https://www.bbc.com/news/articles/cy8l2wx0027o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527416.html",
@@ -352,7 +352,7 @@
   {
     "id": "https://www.bbc.com/news/articles/c79542n0grwo#1",
     "category": "global",
-    "title": "Oil prices surge above $110 and shares slide over Iran war",
+    "title": "Stock markets slump as oil prices surge over Strait of Hormuz fears",
     "summary": "Major disruption to energy supplies threatens to push up prices for consumers and businesses around the world.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
