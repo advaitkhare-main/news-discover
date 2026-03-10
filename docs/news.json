@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://www.ndtv.com/kanpur-news/meat-eating-priest-expelled-from-up-temple-after-viral-photo-sparks-row-11197707#publisher=newsstand",
+    "category": "india",
+    "title": "'Meat-Eating Priest' Expelled From UP Temple After Viral Photo Sparks Row",
+    "summary": "Controversy erupted after a photograph allegedly showing Prashant Giri consuming non-vegetarian food.",
+    "image": "https://i.ndtvimg.com/i/2018-04/temple-generic-istock_650x400_41525075611.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 11 Mar 2026 04:12:35 +0530",
+    "link": "https://www.ndtv.com/kanpur-news/meat-eating-priest-expelled-from-up-temple-after-viral-photo-sparks-row-11197707#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/absolutely-no-shortage-of-fuel-minister-piyush-goyal-amid-uncertainty-in-global-energy-supply-11197491#publisher=newsstand",
     "category": "india",
     "title": "\"Absolutely No Shortage Of Fuel\": Minister Amid Global Energy Uncertainty",
@@ -70,16 +80,6 @@
     "link": "https://www.ndtv.com/india-news/rajasthan-to-drop-2-child-norm-but-only-for-candidates-in-local-body-polls-11197336#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/in-a-first-jammu-and-kashmir-government-sacks-3-jal-shakti-workers-over-terror-links-11197335#publisher=newsstand",
-    "category": "india",
-    "title": "In A First, J&K Government Sacks 3 Jal Shakti Workers Over Terror Links",
-    "summary": "All regional parties had earlier criticised such sackings (file)",
-    "image": "https://c.ndtvimg.com/2024-09/of2p3m2_kashmir-generic_625x300_20_September_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 11 Mar 2026 00:23:55 +0530",
-    "link": "https://www.ndtv.com/india-news/in-a-first-jammu-and-kashmir-government-sacks-3-jal-shakti-workers-over-terror-links-11197335#publisher=newsstand"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -100,14 +100,14 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/argentina-president-woos-wall-street-cites-economic-turnaround-with-net-energy-exports/articleshow/129407731.cms",
-    "category": "finance",
-    "title": "Argentina President woos Wall Street, cites economic turnaround with net energy exports",
-    "summary": "Argentina's President Milei assured investors in New York that the nation's economic revival is on track, despite global market jitters. He highlighted a shift to energy exports and promised a surge in dollar reserves.  Milei emphasized U.S. backing ",
-    "image": "https://img.etimg.com/photo/msid-129407731,imgsize-41106.cms",
-    "source": "ET",
-    "pubDate": "Tue, 10 Mar 2026 22:05:04 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/argentina-president-woos-wall-street-cites-economic-turnaround-with-net-energy-exports/articleshow/129407731.cms"
+    "id": "https://www.bbc.com/news/articles/c4gqj5z4qwqo#0",
+    "category": "global",
+    "title": "First Mandelson files expected to be published on Wednesday",
+    "summary": "The documents are expected to detail parts of the process prior to Lord Mandelson's appointment as ambassador.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 10 Mar 2026 23:09:52 GMT",
+    "link": "https://www.bbc.com/news/articles/c4gqj5z4qwqo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cdxg76rgdp7o#0",
@@ -116,8 +116,28 @@
     "summary": "The bill abolishes the 92 seats reserved for peers who inherit their titles through their families.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Tue, 10 Mar 2026 21:35:05 GMT",
+    "pubDate": "Tue, 10 Mar 2026 23:02:32 GMT",
     "link": "https://www.bbc.com/news/articles/cdxg76rgdp7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c5y4wdlyy9xo#0",
+    "category": "global",
+    "title": "At least six dead in Switzerland bus fire",
+    "summary": "Police do not yet know the cause of the fire in the western Fribourg canton, which also injured a number of people.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 10 Mar 2026 22:35:37 GMT",
+    "link": "https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/argentina-president-woos-wall-street-cites-economic-turnaround-with-net-energy-exports/articleshow/129407731.cms",
+    "category": "finance",
+    "title": "Argentina President woos Wall Street, cites economic turnaround with net energy exports",
+    "summary": "Argentina's President Milei assured investors in New York that the nation's economic revival is on track, despite global market jitters. He highlighted a shift to energy exports and promised a surge in dollar reserves.  Milei emphasized U.S. backing ",
+    "image": "https://img.etimg.com/photo/msid-129407731,imgsize-41106.cms",
+    "source": "ET",
+    "pubDate": "Tue, 10 Mar 2026 22:05:04 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/argentina-president-woos-wall-street-cites-economic-turnaround-with-net-energy-exports/articleshow/129407731.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-sinks-11-to-below-90-as-trump-moots-middle-east-de-escalation/articleshow/129405702.cms",
@@ -220,16 +240,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/investors-turn-to-india-as-private-market-outpaces-regional-peers-mckinsey-survey-shows/articleshow/129400186.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cvgjqzl7wrzo#0",
-    "category": "global",
-    "title": "Glasgow Central's main station to remain closed until next week after huge fire",
-    "summary": "A huge fire destroyed a neighbouring building but Network Rail staff believe the station has not been seriously damaged.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 10 Mar 2026 17:53:17 GMT",
-    "link": "https://www.bbc.com/news/articles/cvgjqzl7wrzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/sport/horse-racing/articles/czx77n5j7y2o#0",
     "category": "global",
     "title": "The Brits travelling in their thousands to 'Costa del Cheltenham'",
@@ -298,16 +308,6 @@
     "source": "BBC",
     "pubDate": "Tue, 10 Mar 2026 14:38:24 GMT",
     "link": "https://www.bbc.com/news/articles/cwy6046nv00o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c8eg2n83y1eo#0",
-    "category": "global",
-    "title": "Eni Aluko wins Joey Barton libel case over X posts",
-    "summary": "Barton is told to pay the former England footballer more than \u00a3300k over two posts he made in 2024.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 10 Mar 2026 13:27:46 GMT",
-    "link": "https://www.bbc.com/news/articles/c8eg2n83y1eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527528.html",
