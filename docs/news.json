@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://www.ndtv.com/world-news/iran-war-about-140-us-military-personnel-injured-in-iran-war-pentagon-11197395#publisher=newsstand",
+    "category": "india",
+    "title": "About 140 US Military Personnel Injured In Iran War: Pentagon",
+    "summary": "Seven US military personnel were also killed in Iranian attacks early in the conflict.",
+    "image": "https://c.ndtvimg.com/2026-03/ur9g6fr4_iran-war_625x300_11_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 11 Mar 2026 00:51:54 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-about-140-us-military-personnel-injured-in-iran-war-pentagon-11197395#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-live-ayatollah-ali-khamenei-did-not-want-mojtaba-khamenei-as-irans-leader-iran-guards-forced-him-in-11197322#publisher=newsstand",
+    "category": "india",
+    "title": "In Khamenei's Will, He Didn't Want Son To Be Iran's Supreme Leader: Report",
+    "summary": "Khamenei had made clear in his will that he did not want his son to succeed him",
+    "image": "https://c.ndtvimg.com/2026-03/ol8084ns_khamenei-afp_625x300_11_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 11 Mar 2026 00:38:54 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-live-ayatollah-ali-khamenei-did-not-want-mojtaba-khamenei-as-irans-leader-iran-guards-forced-him-in-11197322#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand",
+    "category": "india",
+    "title": "Iran-Israel War LIVE Updates: Jaishankar Speaks To Iran's Foreign Minister About Middle East War",
+    "summary": "US-Israel-Iran War Live News: Demonstrators gather in support of the new Supreme Leader in central Tehran",
+    "image": "https://c.ndtvimg.com/2026-03/acdnojs_iran_625x300_10_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 11 Mar 2026 00:29:00 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/rajasthan-to-drop-2-child-norm-but-only-for-candidates-in-local-body-polls-11197336#publisher=newsstand",
+    "category": "india",
+    "title": "Rajasthan To Drop 2-Child Norm, But Only For Candidates In Local Bodies Polls",
+    "summary": "Rajasthan minister Jogaram Patel said they have taken scientific evidence into consideration.",
+    "image": "https://c.ndtvimg.com/2026-03/08u9jph8_rajasthan-assembly_625x300_06_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 11 Mar 2026 00:25:46 +0530",
+    "link": "https://www.ndtv.com/india-news/rajasthan-to-drop-2-child-norm-but-only-for-candidates-in-local-body-polls-11197336#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/in-a-first-jammu-and-kashmir-government-sacks-3-jal-shakti-workers-over-terror-links-11197335#publisher=newsstand",
+    "category": "india",
+    "title": "In A First, J&K Government Sacks 3 Jal Shakti Workers Over Terror Links",
+    "summary": "All regional parties had earlier criticised such sackings (file)",
+    "image": "https://c.ndtvimg.com/2024-09/of2p3m2_kashmir-generic_625x300_20_September_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 11 Mar 2026 00:23:55 +0530",
+    "link": "https://www.ndtv.com/india-news/in-a-first-jammu-and-kashmir-government-sacks-3-jal-shakti-workers-over-terror-links-11197335#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/us-iran-war-india-sourcing-oil-from-40-nations-by-alternate-routes-amid-hormuz-blockade-11197308#publisher=newsstand",
+    "category": "india",
+    "title": "India Sourcing Oil From 40 Nations By Alternate Routes Amid Hormuz Blockade",
+    "summary": "ranian attacks have practically stopped the passage of ships through Hormuz Strait.",
+    "image": "https://c.ndtvimg.com/2026-03/1nuqo8l4_strait-of-hormuz-afp_625x300_03_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 11 Mar 2026 00:12:14 +0530",
+    "link": "https://www.ndtv.com/india-news/us-iran-war-india-sourcing-oil-from-40-nations-by-alternate-routes-amid-hormuz-blockade-11197308#publisher=newsstand"
+  },
+  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -20,84 +80,24 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://www.ndtv.com/world-news/vladimir-putin-coughs-and-splutters-in-leaked-kremlin-video-sparks-speculation-about-his-health-11196632#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/go-sell-sweaters-in-ludhiana-supreme-court-chief-justice-of-india-surya-kant-to-trader-over-frivolous-petition-11197260#publisher=newsstand",
     "category": "india",
-    "title": "Putin Coughs And Splutters In Leaked Kremlin Video, Sparks Fresh Speculation About His Health",
-    "summary": "This episode has reignited long-standing, though unverified, rumours about Putin's health.",
-    "image": "https://c.ndtvimg.com/2026-03/ftqfgtbk_putin_625x300_10_March_26.jpeg",
+    "title": "\"Go Sell Sweaters In Ludhiana\": Chief Justice To Trader Over Frivolous Petition In Supreme Court",
+    "summary": "Supreme Court dismissed a petition seeking PM CARES Fund to be brought under RTI Act",
+    "image": "https://c.ndtvimg.com/2026-02/fgccp6no_supreme-court_625x300_27_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Tue, 10 Mar 2026 23:29:59 +0530",
-    "link": "https://www.ndtv.com/world-news/vladimir-putin-coughs-and-splutters-in-leaked-kremlin-video-sparks-speculation-about-his-health-11196632#publisher=newsstand"
+    "pubDate": "Tue, 10 Mar 2026 23:57:47 +0530",
+    "link": "https://www.ndtv.com/india-news/go-sell-sweaters-in-ludhiana-supreme-court-chief-justice-of-india-surya-kant-to-trader-over-frivolous-petition-11197260#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-live-lightning-or-new-missile-blue-flares-light-up-iran-skies-amid-strikes-11194280#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/bhagwant-mann-flags-risk-to-farmers-from-india-us-trade-deal-11197245#publisher=newsstand",
     "category": "india",
-    "title": "Lightning Or New Missile? Blue Flares Light Up Iran Skies Amid Strikes",
-    "summary": "US and Israel's ongoing war on Iran has entered its 10th day and caused widespread destruction",
-    "image": "https://c.ndtvimg.com/2026-03/0b8610ds_blue-missile_625x300_10_March_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Bhagwant Mann Flags Risk To Farmers From India-US Trade Deal",
+    "summary": "(File Image)",
+    "image": "https://c.ndtvimg.com/2025-12/krkmgja4_bhagwant-mann-_625x300_29_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Tue, 10 Mar 2026 23:29:04 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-live-lightning-or-new-missile-blue-flares-light-up-iran-skies-amid-strikes-11194280#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/fridge-mein-milegi-mumbai-dentists-suicide-and-shraddha-walkar-warning-11194971#publisher=newsstand",
-    "category": "india",
-    "title": "Mumbai Dentist Dies By Suicide, Boyfriend Arrested For Abetment",
-    "summary": "Stuti Sonwane, 24, was found dead in her room last morning",
-    "image": "https://c.ndtvimg.com/2026-03/h7h1ffak_mumbai-suicide_625x300_10_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 10 Mar 2026 23:19:31 +0530",
-    "link": "https://www.ndtv.com/india-news/fridge-mein-milegi-mumbai-dentists-suicide-and-shraddha-walkar-warning-11194971#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-live-us-tactical-error-ahead-of-iran-war-as-it-dismissed-ukraines-plan-11197088#publisher=newsstand",
-    "category": "india",
-    "title": "US' \"Tactical Error\" Ahead Of Iran War As It Dismissed Ukraine's Plan",
-    "summary": "The drones are particularly difficult to intercept because they fly low and slow",
-    "image": "https://c.ndtvimg.com/2026-03/htc81928_shahed-drone-afp_625x300_10_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Tue, 10 Mar 2026 23:12:01 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-live-us-tactical-error-ahead-of-iran-war-as-it-dismissed-ukraines-plan-11197088#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/40-lakh-women-get-rs-9-000-each-in-assam-under-arunodoi-scheme-11197087#publisher=newsstand",
-    "category": "india",
-    "title": "40 Lakh Women Get Rs 9,000 Each In Assam Under Arunodoi Scheme",
-    "summary": "Beneficiaries also expressed happiness after receiving the funds. (Representational)",
-    "image": "https://c.ndtvimg.com/2026-03/67111j7c_w-u-_625x300_10_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 10 Mar 2026 23:09:57 +0530",
-    "link": "https://www.ndtv.com/india-news/40-lakh-women-get-rs-9-000-each-in-assam-under-arunodoi-scheme-11197087#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/iran-us-war-why-the-war-in-middle-east-is-triggering-lpg-prices-in-india-11196989#publisher=newsstand",
-    "category": "india",
-    "title": "Why The War In Middle East Is Triggering LPG Prices In India",
-    "summary": "India's domestic LPG consumption has shown a steady upward trajectory over the past decade",
-    "image": "https://c.ndtvimg.com/2026-03/osnci9ik_lpg_625x300_10_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 10 Mar 2026 22:49:58 +0530",
-    "link": "https://www.ndtv.com/india-news/iran-us-war-why-the-war-in-middle-east-is-triggering-lpg-prices-in-india-11196989#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/us-iran-war-air-india-fares-to-rise-as-it-imposes-fuel-surcharge-amid-iran-war-11196686#publisher=newsstand",
-    "category": "india",
-    "title": "Air India Fares To Rise As It Imposes Fuel Surcharge Amid Iran War",
-    "summary": "Air India said it will charge fuel surcharge in three phases",
-    "image": "https://media.assettype.com/bloombergquint%2F2024-05%2Ff93022fb-230b-446a-8c67-8aabe0411ca3%2FAir_India_SourcE_ndtv_p.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 10 Mar 2026 22:17:45 +0530",
-    "link": "https://www.ndtv.com/india-news/us-iran-war-air-india-fares-to-rise-as-it-imposes-fuel-surcharge-amid-iran-war-11196686#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/indian-forum-in-uae-sets-up-24x7-control-room-for-stranded-indians-11196839#publisher=newsstand",
-    "category": "india",
-    "title": "Indian Forum In UAE Sets Up 24x7 Control Room For Stranded Indians",
-    "summary": "So far, IPF has handled more than 2,000 cases",
-    "image": "https://c.ndtvimg.com/2026-03/slpi8l9c_control-room_625x300_10_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 10 Mar 2026 22:15:47 +0530",
-    "link": "https://www.ndtv.com/india-news/indian-forum-in-uae-sets-up-24x7-control-room-for-stranded-indians-11196839#publisher=newsstand"
+    "pubDate": "Tue, 10 Mar 2026 23:55:39 +0530",
+    "link": "https://www.ndtv.com/india-news/bhagwant-mann-flags-risk-to-farmers-from-india-us-trade-deal-11197245#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/argentina-president-woos-wall-street-cites-economic-turnaround-with-net-energy-exports/articleshow/129407731.cms",
@@ -180,9 +180,19 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/investors-turn-to-india-as-private-market-outpaces-regional-peers-mckinsey-survey-shows/articleshow/129400186.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/ce8wk740epwo#0",
+    "category": "global",
+    "title": "Mail editor kept Catherine's pregnancy secret for days, court hears",
+    "summary": "Charlotte Griffiths says she never hacked a phone or used a private investigator as she gave evidence in the privacy trial brought by figures including Prince Harry and Sir Elton John.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 10 Mar 2026 19:00:52 GMT",
+    "link": "https://www.bbc.com/news/articles/ce8wk740epwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cvgjqzl7wrzo#0",
     "category": "global",
-    "title": "Glasgow Central's main station to remain closed until next week",
+    "title": "Glasgow Central's main station to remain closed until next week after huge fire",
     "summary": "A huge fire destroyed a neighbouring building but Network Rail staff believe the station has not been seriously damaged.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -208,6 +218,16 @@
     "source": "BBC",
     "pubDate": "Tue, 10 Mar 2026 17:36:33 GMT",
     "link": "https://www.bbc.com/news/articles/cze094zdelko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/sport/horse-racing/articles/czx77n5j7y2o#0",
+    "category": "global",
+    "title": "The Brits travelling in their thousands to 'Costa del Cheltenham'",
+    "summary": "Thousands of Britons have travelled to the Costa Blanca to enjoy Cheltenham Festival, the pinnacle event of the jump-racing calendar, from a distance.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 10 Mar 2026 17:16:55 GMT",
+    "link": "https://www.bbc.com/sport/horse-racing/articles/czx77n5j7y2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/ckg277pemzno#0",
@@ -270,6 +290,16 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1527603.html?ex_cid=OTC-RSS"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cwy6046nv00o#0",
+    "category": "global",
+    "title": "Teen had 'headache' before holiday park deaths",
+    "summary": "An inquest hears Cherish Bean and Ethan Slater died of suspected carbon monoxide poisoning.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 10 Mar 2026 14:38:24 GMT",
+    "link": "https://www.bbc.com/news/articles/cwy6046nv00o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c8eg2n83y1eo#0",
     "category": "global",
     "title": "Eni Aluko wins Joey Barton libel case over X posts",
@@ -278,26 +308,6 @@
     "source": "BBC",
     "pubDate": "Tue, 10 Mar 2026 13:27:46 GMT",
     "link": "https://www.bbc.com/news/articles/c8eg2n83y1eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/sport/articles/c1l7y1vq02yo#0",
-    "category": "global",
-    "title": "Simpson and guide Poth win Paralympic silver for GB",
-    "summary": "Neil Simpson and his guide Rob Poth win Great Britain's first medal of the Milan-Cortina Winter Paralympics with silver in the alpine combined.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 10 Mar 2026 13:09:09 GMT",
-    "link": "https://www.bbc.com/sport/articles/c1l7y1vq02yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvg8ll4l7d9o#0",
-    "category": "global",
-    "title": "Inmate charged with murder of Soham killer Ian Huntley",
-    "summary": "A prison inmate has been charged with the murder of Soham killer Ian Huntley, police say.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 10 Mar 2026 12:03:44 GMT",
-    "link": "https://www.bbc.com/news/articles/cvg8ll4l7d9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527528.html",
@@ -328,16 +338,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 10 Mar 2026 09:10:14 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1527536.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cg5nelp5enpo#0",
-    "category": "global",
-    "title": "An 'epidemic' of violence: The women and girls killed by men last year",
-    "summary": "We tracked reports and contacted police and prosecutors for a deeper look at the situation across UK.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 10 Mar 2026 06:00:04 GMT",
-    "link": "https://www.bbc.com/news/articles/cg5nelp5enpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
