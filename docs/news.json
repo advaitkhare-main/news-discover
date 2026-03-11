@@ -150,16 +150,6 @@
     "link": "https://www.bbc.com/news/videos/c2e4ljy1kp8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cn0znx4xrl9o#0",
-    "category": "global",
-    "title": "Jeremy Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
-    "summary": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 11 Mar 2026 16:45:28 GMT",
-    "link": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1527703.html",
     "category": "sports",
     "title": "Hesson: Pakistan left 'exposed' with the bat by Nahid Rana",
@@ -168,6 +158,16 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 11 Mar 2026 16:35:43 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1527703.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c1mj1pyrzryo#0",
+    "category": "global",
+    "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
+    "summary": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 11 Mar 2026 16:00:34 GMT",
+    "link": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/czj18j09wvro#0",
