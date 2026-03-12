@@ -40,16 +40,6 @@
     "link": "https://www.ndtv.com/india-news/it-is-like-auctions-electric-stove-demand-goes-through-the-roof-amid-lpg-crisis-11207695#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/apj-abdul-kalam-foresaw-this-gulf-wars-hard-lesson-on-energy-imports-11207399#publisher=newsstand",
-    "category": "india",
-    "title": "APJ Abdul Kalam Foresaw This: Gulf War's Hard Lesson On Energy Imports",
-    "summary": "Twenty years ago President APJ Abdul Kalam, the 'Missile Man' sought India to be energy independent, today his dream remains unfulfilled",
-    "image": "https://c.ndtvimg.com/2026-03/ijehe54c_kalam-_625x300_12_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 23:45:26 +0530",
-    "link": "https://www.ndtv.com/india-news/apj-abdul-kalam-foresaw-this-gulf-wars-hard-lesson-on-energy-imports-11207399#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-canadas-top-exchange-pushes-to-end-quarterly-reporting-for-all-firms/articleshow/129517330.cms",
     "category": "finance",
     "title": "Global stocks: Canada's top exchange pushes to end quarterly reporting for all firms",
@@ -108,6 +98,26 @@
     "source": "ET",
     "pubDate": "Thu, 12 Mar 2026 20:53:14 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/bofa-securities-enters-kaynes-technologies-via-rs-42-crore-block-deal-stock-down-48-in-six-months/articleshow/129514218.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4g8qpp3mpeo#0",
+    "category": "global",
+    "title": "Married at First Sight star says cancer has spread",
+    "summary": "The dating coach was diagnosed with bowel cancer in December 2023 but says treatment has been unsuccessful.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Mar 2026 20:32:05 GMT",
+    "link": "https://www.bbc.com/news/articles/c4g8qpp3mpeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c875nzlv7ddo#0",
+    "category": "global",
+    "title": "PM says Mandelson appointment was mistake as No 10 denies cover-up",
+    "summary": "Documents show Sir Keir Starmer was warned the peer's relationship with Jeffrey Epstein posed a \"reputational risk\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Mar 2026 20:31:41 GMT",
+    "link": "https://www.bbc.com/news/articles/c875nzlv7ddo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-nalco-and-tata-power-on-friday-for-gains-up-to-15/articleshow/129513438.cms",
@@ -170,16 +180,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1527785.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cwy645n4y16o#0",
-    "category": "global",
-    "title": "Wuthering Heights uni module given content warning for students",
-    "summary": "A Cardiff University module featuring Wuthering Heights carries 'distressing content' warning",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Mar 2026 17:54:57 GMT",
-    "link": "https://www.bbc.com/news/articles/cwy645n4y16o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c743g4yn4k8o#0",
     "category": "global",
     "title": "British man charged in Dubai for alleged filming of Iranian missiles",
@@ -198,16 +198,6 @@
     "source": "BBC",
     "pubDate": "Thu, 12 Mar 2026 17:08:08 GMT",
     "link": "https://www.bbc.com/news/articles/cly09j2542no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c875nzlv7ddo#0",
-    "category": "global",
-    "title": "PM says Mandelson appointment was mistake as No 10 denies cover-up",
-    "summary": "Documents show Sir Keir Starmer was warned the peer's relationship with Jeffrey Epstein posed a \"reputational risk\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Mar 2026 16:55:19 GMT",
-    "link": "https://www.bbc.com/news/articles/c875nzlv7ddo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c4g23npxpwgo#0",
@@ -334,10 +324,20 @@
     "category": "india",
     "title": "Iran-Israel War LIVE Updates: Netanyahu Says Top Iranian Nuclear Scientists Killed In Israeli Strikes",
     "summary": "US-Israel-Iran War Live News: Demonstrators gather in support of the new Supreme Leader in central Tehran",
-    "image": "https://c.ndtvimg.com/2026-03/acdnojs_iran_625x300_10_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "image": "https://c.ndtvimg.com/2026-03/rfhhng8_israel-iran-war_625x300_13_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 13 Mar 2026 01:45:53 +0530",
+    "pubDate": "Fri, 13 Mar 2026 02:12:44 +0530",
     "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-says-top-iranian-nuclear-scientists-killed-in-israeli-strikes-11207987#publisher=newsstand",
+    "category": "india",
+    "title": "Netanyahu Says Top Iranian Nuclear Scientists Killed In Israeli Strikes",
+    "summary": "Israeli Prime Minister Benjamin Netanyahu says Israeli attacks have killed top Iranian nuclear scientists.",
+    "image": "https://c.ndtvimg.com/2025-05/i0j4u8og_benjamin-netanyahu_625x300_23_May_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Mar 2026 02:04:15 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-says-top-iranian-nuclear-scientists-killed-in-israeli-strikes-11207987#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/science/nasa-says-on-track-for-artemis-2-launch-as-soon-as-april-1-11207842#publisher=newsstand",
