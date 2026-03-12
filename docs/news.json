@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c627x7g2l4vo#0",
+    "category": "global",
+    "title": "Chris Mason: Some nuggets but no huge revelations in first batch of Mandelson files",
+    "summary": "This first digital document drop about the prime minister's decision to appoint Lord Mandelson as US ambassador is interesting, but not explosive.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 11 Mar 2026 23:54:45 GMT",
+    "link": "https://www.bbc.com/news/articles/c627x7g2l4vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1527719.html",
     "category": "sports",
     "title": "Lisa Keightley 'disappointed' at lack of female head coaches in women's Hundred",
@@ -10,96 +20,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1527719.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-jones-drops-500-points-as-oil-prices-surge-despite-iea-move-to-release-reserves/articleshow/129470704.cms",
-    "category": "finance",
-    "title": "US stocks today: Dow Jones drops 500 points as oil prices surge despite IEA move to release reserves",
-    "summary": "Wall Street indexes dropped as investors weighed inflation data and a record crude oil reserve release aimed at curbing soaring energy prices amid Middle East tensions. Despite the IEA's move, oil prices climbed, and equities slipped after Iran's mil",
-    "image": "https://img.etimg.com/photo/msid-129470704,imgsize-107654.cms",
-    "source": "ET",
-    "pubDate": "Wed, 11 Mar 2026 21:37:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-jones-drops-500-points-as-oil-prices-surge-despite-iea-move-to-release-reserves/articleshow/129470704.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/129470101.cms",
-    "category": "finance",
-    "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-    "summary": "Indian stock markets, Sensex and Nifty, experienced a significant downturn on Wednesday. Both indices closed nearly 2% lower. This decline followed a surge in crude oil prices and heightened tensions in West Asia. Foreign fund outflows and selling in",
-    "image": "https://img.etimg.com/photo/msid-129470101,imgsize-116884.cms",
-    "source": "ET",
-    "pubDate": "Wed, 11 Mar 2026 21:27:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/129470101.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/campbells-cuts-annual-forecasts-as-demand-sags-shares-slump-by-5/articleshow/129467514.cms",
-    "category": "finance",
-    "title": "Campbell's cuts annual forecasts as demand sags, shares slump by 5%",
-    "summary": "Campbell's has lowered its yearly sales and profit outlook. The company is also pausing share buybacks. This move prioritizes debt reduction. Weak consumer demand and rising costs are impacting sales. New tariffs are expected to increase expenses fur",
-    "image": "https://img.etimg.com/photo/msid-129467514,imgsize-87954.cms",
-    "source": "ET",
-    "pubDate": "Wed, 11 Mar 2026 20:06:29 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/campbells-cuts-annual-forecasts-as-demand-sags-shares-slump-by-5/articleshow/129467514.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/iea-proposes-release-of-400-million-barrels-of-oil-from-strategic-stocks/articleshow/129466781.cms",
-    "category": "finance",
-    "title": "IEA announces record release of strategic stocks in response to Iran war oil price surge",
-    "summary": "The International Energy Agency has announced its largest-ever oil release of 400 million barrels to combat soaring crude prices, driven by supply disruptions from the U.S.-Israeli conflict with Iran. This unprecedented collective action aims to prev",
-    "image": "https://img.etimg.com/photo/msid-129466781,imgsize-20992.cms",
-    "source": "ET",
-    "pubDate": "Wed, 11 Mar 2026 19:48:18 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/iea-proposes-release-of-400-million-barrels-of-oil-from-strategic-stocks/articleshow/129466781.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/nhai-backed-raajmarg-infra-invit-ipo-subscribed-16-on-day-1/articleshow/129466457.cms",
-    "category": "finance",
-    "title": "NHAI-backed Raajmarg Infra InvIT IPO subscribed 16% on Day 1",
-    "summary": "Raajmarg Infra Investment Trust's Rs 6,000-crore IPO saw 16% subscription on day one, with institutional investors showing stronger interest. The InvIT, backed by NHAI, aims to unlock highway asset potential and offers a long-term investment in five ",
-    "image": "https://img.etimg.com/photo/msid-129466457,imgsize-15190.cms",
-    "source": "ET",
-    "pubDate": "Wed, 11 Mar 2026 19:40:17 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nhai-backed-raajmarg-infra-invit-ipo-subscribed-16-on-day-1/articleshow/129466457.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-says-genuine-hedging-in-options-market-is-now-harder-due-to-heavy-speculation/articleshow/129466236.cms",
-    "category": "finance",
-    "title": "Nithin Kamath says genuine hedging in options market is now harder due to heavy speculation",
-    "summary": "Zerodha co-founder Nithin Kamath highlighted a structural shift in India's options market, with a surge in weekly options trading making hedging difficult.  Trading has concentrated in ultra-short-term contracts, reducing liquidity in longer-dated op",
-    "image": "https://img.etimg.com/photo/msid-129466236,imgsize-1202135.cms",
-    "source": "ET",
-    "pubDate": "Wed, 11 Mar 2026 19:37:41 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-says-genuine-hedging-in-options-market-is-now-harder-due-to-heavy-speculation/articleshow/129466236.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-to-conduct-rs-50000-crore-omo-on-march-13/articleshow/129466021.cms",
-    "category": "finance",
-    "title": "RBI to conduct Rs 50,000 crore OMO on March 13",
-    "summary": "The Reserve Bank of India will inject Rs 50,000 crore into the banking system on March 13. This is part of a larger Rs 1 lakh crore Open Market Operation purchase of government securities. The move aims to manage liquidity ahead of expected outflows ",
-    "image": "https://img.etimg.com/photo/msid-129466021,imgsize-73036.cms",
-    "source": "ET",
-    "pubDate": "Wed, 11 Mar 2026 19:30:02 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-to-conduct-rs-50000-crore-omo-on-march-13/articleshow/129466021.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-introduces-a-simpler-nism-certification-for-research-services/articleshow/129466006.cms",
-    "category": "finance",
-    "title": "Sebi introduces a simpler NISM certification for research services",
-    "summary": "India's market regulator Sebi has introduced a simplified certification for employees in non-core research roles, aiming to ease business operations. Staff involved in sales and client interaction will now take a lighter NISM module, while those dire",
-    "image": "https://img.etimg.com/photo/msid-129466006,imgsize-198784.cms",
-    "source": "ET",
-    "pubDate": "Wed, 11 Mar 2026 19:29:47 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-introduces-a-simpler-nism-certification-for-research-services/articleshow/129466006.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cm2rg8z6p1vo#0",
-    "category": "global",
-    "title": "A 'weirdly rushed' appointment - and other key takeaways from Mandelson files",
-    "summary": "A batch of documents has revealed new details about the appointment of Lord Mandelson as ambassador.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 11 Mar 2026 18:54:27 GMT",
-    "link": "https://www.bbc.com/news/articles/cm2rg8z6p1vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cd70lgywgqqo#0",
     "category": "global",
     "title": "Starmer was warned of 'reputational risk' over Mandelson's links with Epstein, files show",
@@ -108,16 +28,6 @@
     "source": "BBC",
     "pubDate": "Wed, 11 Mar 2026 18:30:20 GMT",
     "link": "https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn9enygvezeo#0",
-    "category": "global",
-    "title": "Polanski stood by breast enlargement hypnosis claim",
-    "summary": "A newly unearthed interview from 2013 casts doubt on the Green Party leader's claim to have apologised.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 11 Mar 2026 18:15:16 GMT",
-    "link": "https://www.bbc.com/news/articles/cn9enygvezeo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527669.html",
@@ -140,26 +50,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1527706.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cr5l9d1dv9eo#0",
-    "category": "global",
-    "title": "Prison inmate charged with Huntley murder appears in court",
-    "summary": "Ian Huntley had been serving a life sentence with a minimum term of 40 years for the murders of 10-year-olds Holly Wells and Jessica Chapman.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 11 Mar 2026 17:04:45 GMT",
-    "link": "https://www.bbc.com/news/articles/cr5l9d1dv9eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/c2e4ljy1kp8o#0",
-    "category": "global",
-    "title": "Volcanic fragments rain down as Hawaii's Kilauea volcano erupts",
-    "summary": "This eruption episode sent fragments made of ash, pumice, and pieces of volcanic glass into communities, forcing highway closures and the evacuation of tourists.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 11 Mar 2026 16:52:10 GMT",
-    "link": "https://www.bbc.com/news/videos/c2e4ljy1kp8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1527703.html",
     "category": "sports",
     "title": "Hesson: Pakistan left 'exposed' with the bat by Nahid Rana",
@@ -178,16 +68,6 @@
     "source": "BBC",
     "pubDate": "Wed, 11 Mar 2026 16:00:34 GMT",
     "link": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/czj18j09wvro#0",
-    "category": "global",
-    "title": "Tourist attractions call for changes to weather apps over 'misleading' rain icons",
-    "summary": "Chester Zoo is leading a call for a change in the way \"rain icons\" are used in weather forecasts.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 11 Mar 2026 14:49:28 GMT",
-    "link": "https://www.bbc.com/news/articles/czj18j09wvro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527696.html",
@@ -210,16 +90,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1527318.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cn0znqkqkdro#0",
-    "category": "global",
-    "title": "Alternative to HRT for menopausal hot flushes now on NHS",
-    "summary": "The non-hormonal daily pill could benefit 500,000 women for whom HRT is not suitable.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 11 Mar 2026 12:54:56 GMT",
-    "link": "https://www.bbc.com/news/articles/cn0znqkqkdro?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1527660.html",
     "category": "sports",
     "title": "Nahid Rana and Tanzid Hasan complete Pakistan's demolition in opening ODI",
@@ -228,16 +98,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 11 Mar 2026 12:37:59 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1527660.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1527652.html",
-    "category": "sports",
-    "title": "Patterson guides NSW to One-Day Cup title in rain-hit contest",
-    "summary": "The match was reduced to 22 overs per side after being 12 minutes from a washout and Tasmania collapsed to 25 for 5",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414619.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 11 Mar 2026 11:53:46 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1527652.html?ex_cid=OTC-RSS"
   },
   {
     "id": "4ri2LVmhlv34kOOk94nnsi",
@@ -270,84 +130,224 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-us-must-finish-the-job-in-iran-11202864#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/cbse-board-exams-2026-live-updates-class-12-english-exam-today-11203127#publisher=newsstand",
     "category": "india",
-    "title": "\"Don't Want To Leave Early\": Trump Vows To \"Finish The Job\" In Iran",
-    "summary": "President Donald Trump said Wednesday that the United States must \"finish the job\" in Iran -- hours after suggesting the war could be over soon because Washington had run out of targets.",
-    "image": "https://c.ndtvimg.com/2026-03/4beadfg4_donald-trump_625x300_12_March_26.jpeg",
+    "title": "CBSE Board Exams 2026 Live Updates: 12th English Exam Today; Check Syllabus And Marking Scheme",
+    "summary": "CBSE Board Exams 2026 Live Updates",
+    "image": "https://c.ndtvimg.com/2026-02/7bcmh3k4_cbse-class-12-physics-exam_625x300_25_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 03:27:33 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-us-must-finish-the-job-in-iran-11202864#publisher=newsstand"
+    "pubDate": "Thu, 12 Mar 2026 06:51:59 +0530",
+    "link": "https://www.ndtv.com/education/cbse-board-exams-2026-live-updates-class-12-english-exam-today-11203127#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-un-demands-iran-stop-attacks-on-gulf-nations-11202846#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/trump-tariff-news-live-india-china-among-16-us-trading-partners-hit-by-trumps-301-tariff-probes-11203125#publisher=newsstand",
     "category": "india",
-    "title": "\"Serious Threat To Peace\": UN Demands Iran Stop Attacks On Gulf Nations",
-    "summary": "The UN on Wednesday passed a resolution calling for Iran to immediately halt its attacks on Gulf states.",
-    "image": "https://c.ndtvimg.com/2026-03/4c57irb4_un-discusses-iran-war_625x300_12_March_26.jpeg",
+    "title": "India, China Among 16 US Trading Partners Hit By Trump's '301' Tariff Probes",
+    "summary": "Canada, the second-largest US trading partner, was not mentioned as a target of the probe.",
+    "image": "https://c.ndtvimg.com/2025-09/kqll5qjo_modi-trump-afp_625x300_05_September_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 03:14:41 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-un-demands-iran-stop-attacks-on-gulf-nations-11202846#publisher=newsstand"
+    "pubDate": "Thu, 12 Mar 2026 06:51:55 +0530",
+    "link": "https://www.ndtv.com/world-news/trump-tariff-news-live-india-china-among-16-us-trading-partners-hit-by-trumps-301-tariff-probes-11203125#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-adviser-to-khamenei-calls-trump-satan-himself-vows-to-destroy-israel-11202773#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Adviser To Khamenei Calls Trump \"Satan Himself\", Vows To Destroy Israel",
-    "summary": "\"Trump is the most corrupt and stupid American president,\" Yahya Rahim Safavi said",
-    "image": "https://c.ndtvimg.com/2026-03/5umdp5vg_yahya-rahim-safavi_625x300_12_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 02:24:12 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-adviser-to-khamenei-calls-trump-satan-himself-vows-to-destroy-israel-11202773#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/129486703.cms",
+    "category": "finance",
+    "title": "Pre-market action: Here's the trade setup for today's session",
+    "summary": "Indian markets fell again on Wednesday. Foreign investors sold shares heavily. Banking and auto stocks saw significant declines. Analysts expect continued volatility. This is due to West Asia conflict developments and crude oil price movements. The r",
+    "image": "https://img.etimg.com/photo/msid-129486703,imgsize-80439.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Mar 2026 06:47:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/129486703.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/epsteins-longtime-accountant-testifies-on-his-wealth-business-ties-11202751#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/iran-war-hezbollah-says-targeted-israel-with-dozens-of-rockets-in-new-operation-11203116#publisher=newsstand",
     "category": "india",
-    "title": "Epstein's Longtime Accountant Testifies On His Wealth, Business Ties",
-    "summary": "Kahn has said that he was unaware of Epstein's sexual abuse and had not seen any of his victims.",
-    "image": "https://c.ndtvimg.com/2025-07/ebumlsbo_jeffrey-epstein_625x300_09_July_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Hezbollah Says Targeted Israel With \"Dozens Of Rockets\" In New Operation",
+    "summary": "Hezbollah said on Wednesday it had launched rockets and advanced missiles at northern Israel.",
+    "image": "https://c.ndtvimg.com/2026-03/5fi37ug8_hezbollah-attacks-israel_625x300_12_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 02:09:59 +0530",
-    "link": "https://www.ndtv.com/world-news/epsteins-longtime-accountant-testifies-on-his-wealth-business-ties-11202751#publisher=newsstand"
+    "pubDate": "Thu, 12 Mar 2026 06:42:52 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-hezbollah-says-targeted-israel-with-dozens-of-rockets-in-new-operation-11203116#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/israel-iran-war-iran-military-says-will-hit-us-israeli-economic-targets-in-region-11202665#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Military Says Will Hit US, Israeli Economic Targets In Region",
-    "summary": "Iranian media said US and Israeli strikes hit a bank in Tehran overnight.",
-    "image": "https://c.ndtvimg.com/2026-03/shtl6utk_iran-war_625x300_07_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 01:28:14 +0530",
-    "link": "https://www.ndtv.com/world-news/israel-iran-war-iran-military-says-will-hit-us-israeli-economic-targets-in-region-11202665#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-up-in-asian-trade-despite-reserves-release/articleshow/129486712.cms",
+    "category": "finance",
+    "title": "Oil up in Asian trade despite reserves release",
+    "summary": "Oil rose in Asia on Thursday even after announcements of huge releases of crude from strategic reserves in an attempt to bring down prices in the wake of the Iran war. The United States Department of Energy said Wednesday it will release 172 million ",
+    "image": "https://img.etimg.com/photo/msid-129486712,imgsize-39284.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Mar 2026 06:42:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-up-in-asian-trade-despite-reserves-release/articleshow/129486712.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-indigo-idfc-first-bank-adani-enterprises-ashok-leyland-mahanagar-gas/articleshow/129486636.cms",
+    "category": "finance",
+    "title": "Stocks in news: IndiGo, IDFC First Bank, Adani Enterprises, Ashok Leyland, Mahanagar Gas",
+    "summary": "Markets experienced a sharp decline of over 1.5% on Wednesday, driven by weak global cues and geopolitical tensions, with Nifty approaching its previous swing low. Several companies like IndiGo, IDFC First Bank, and Ashok Leyland are in focus due to ",
+    "image": "https://img.etimg.com/photo/msid-129486636,imgsize-52870.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Mar 2026 06:39:09 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-indigo-idfc-first-bank-adani-enterprises-ashok-leyland-mahanagar-gas/articleshow/129486636.cms"
   },
   {
     "id": "https://www.ndtv.com/india-news/shots-fired-at-wedding-event-attended-by-farooq-abdullah-in-jammu-and-kashmir-11202477#publisher=newsstand",
     "category": "india",
-    "title": "Farooq Abdullah On Target, Man Tries To Pull Trigger, Then A Narrow Escape",
+    "title": "Video: Farooq Abdullah Survives Assassination Attempt From Point-Blank Range",
     "summary": "J&amp;K National Conference President Farooq Abdullah, who was attending a marriage ceremony on Wednesday evening, survived an \"assassination attempt\" in Jammu after an attacker tried to shoot him at point-blank range.",
     "image": "https://c.ndtvimg.com/2026-03/37bnrrlg_farooq-abdullah_650x400_11_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 01:02:47 +0530",
+    "pubDate": "Thu, 12 Mar 2026 06:37:35 +0530",
     "link": "https://www.ndtv.com/india-news/shots-fired-at-wedding-event-attended-by-farooq-abdullah-in-jammu-and-kashmir-11202477#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/ensuring-those-stranded-may-return-safely-indias-uae-envoy-to-ndtv-11202612#publisher=newsstand",
-    "category": "india",
-    "title": "Ensuring Those Stranded Could Return Safely: India's UAE Envoy To NDTV",
-    "summary": "NDTV's Tejshree Purandare in conversation with Dr Deepak Mittal, India's envoy to the UAE",
-    "image": "https://c.ndtvimg.com/2026-03/fs6j7274_uae-_625x300_12_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 00:57:10 +0530",
-    "link": "https://www.ndtv.com/world-news/ensuring-those-stranded-may-return-safely-indias-uae-envoy-to-ndtv-11202612#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-slide-oil-advances-as-iran-war-extends/articleshow/129486524.cms",
+    "category": "finance",
+    "title": "Global Market Today |  Asian stocks slide, oil advances as Iran war extends",
+    "summary": "Global markets are experiencing a volatile week. US stock futures and Asian shares are down. Oil prices are rising again due to Middle East tensions. This is impacting inflation expectations and the US Federal Reserve's plans for interest rate cuts. ",
+    "image": "https://img.etimg.com/photo/msid-129486524,imgsize-252278.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Mar 2026 06:35:15 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-slide-oil-advances-as-iran-war-extends/articleshow/129486524.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/farooq-abdullah-firing-my-father-had-a-close-shave-omar-abdullah-after-firing-attempt-at-farooq-abdullah-11202528#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-an-unlikely-haven-as-oil-roils-markets/articleshow/129486454.cms",
+    "category": "finance",
+    "title": "Global Market | China's an unlikely haven as oil roils markets",
+    "summary": "Despite soaring oil prices due to the war in Iran, China's markets have shown surprising resilience. Investments in renewables and electric vehicles have reduced its dependence on imported fossil fuels, protecting its economy. This strategic insulati",
+    "image": "https://img.etimg.com/photo/msid-129486454,imgsize-125174.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Mar 2026 06:31:27 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-an-unlikely-haven-as-oil-roils-markets/articleshow/129486454.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/lg-indias-strong-product-line-to-sustain-margins-drive-stock-upside/articleshow/129486269.cms",
+    "category": "finance",
+    "title": "LG India's strong product line to sustain margins, drive stock upside",
+    "summary": "LG Electronics India shares are performing well, rising 8% in the past month. Analysts are optimistic, recommending 'buy' due to steady market share growth and plans for export expansion. The company expects improved performance in the March quarter ",
+    "image": "https://img.etimg.com/photo/msid-129486269,imgsize-27014.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Mar 2026 06:26:22 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/lg-indias-strong-product-line-to-sustain-margins-drive-stock-upside/articleshow/129486269.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cbse-board-exams-2026-live-updates-class-12-mathematics-paper-today-11187773#publisher=newsstand",
     "category": "india",
-    "title": "\"How He Got This Close?\" Omar Abullah On \"Assassination Attempt\" On Father",
-    "summary": "Jammu and Kashmir Chief Minister Omar Abdullah -- after an assassination attempt on his father Farooq Abdullah this evening -- questioned how the attacker had got close to the former Chief Minister despite the high security.",
-    "image": "https://c.ndtvimg.com/2026-03/eb0km7t_omar-abdullah-farooq-abdullah-firing_650x400_12_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "CBSE Board Exams 2026 Highlights: Class 12 Applied Maths Paper Rated Moderate With Strong Scoring Opportunities",
+    "summary": "CBSE Board Exams 2026 Highlights, Class 12 Mathematics Exam",
+    "image": "https://i.ndtvimg.com/i/2018-02/exam-generic-students-generic-pti_650x400_41517903905.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 00:52:13 +0530",
-    "link": "https://www.ndtv.com/india-news/farooq-abdullah-firing-my-father-had-a-close-shave-omar-abdullah-after-firing-attempt-at-farooq-abdullah-11202528#publisher=newsstand"
+    "pubDate": "Thu, 12 Mar 2026 06:19:19 +0530",
+    "link": "https://www.ndtv.com/education/cbse-board-exams-2026-live-updates-class-12-mathematics-paper-today-11187773#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-slide-as-strait-of-hormuz-attacks-rekindle-energy-crisis-fears/articleshow/129486013.cms",
+    "category": "finance",
+    "title": "Sensex, Nifty slide as Strait of Hormuz attacks rekindle energy crisis fears",
+    "summary": "Indian stock markets experienced a significant downturn on Wednesday. This decline followed a sharp rise in oil prices, triggered by escalating conflict in West Asia. The Strait of Hormuz attacks revived global energy crisis concerns. Both the Nifty ",
+    "image": "https://img.etimg.com/photo/msid-129486013,imgsize-15440.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Mar 2026 06:12:49 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-slide-as-strait-of-hormuz-attacks-rekindle-energy-crisis-fears/articleshow/129486013.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand",
+    "category": "india",
+    "title": "Iran-Israel War LIVE Updates: US To Release 172 Million Barrels From Strategic Oil Reserve To Lower Prices",
+    "summary": "US-Israel-Iran War Live News: Demonstrators gather in support of the new Supreme Leader in central Tehran",
+    "image": "https://c.ndtvimg.com/2026-03/acdnojs_iran_625x300_10_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 06:11:31 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-to-release-172-million-barrels-from-strategic-oil-reserve-to-cut-prices-11203057#publisher=newsstand",
+    "category": "india",
+    "title": "US To Release 172 Million Barrels From Strategic Oil Reserve To Cut Prices",
+    "summary": "The United States Department of Energy said Wednesday it will release 172 million barrels from the strategic petroleum reserve \"beginning next week,\" as the Middle East war disrupted oil prices.",
+    "image": "https://c.ndtvimg.com/2026-03/g6qbpomk_us-oil-reserve_625x300_12_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 06:00:12 +0530",
+    "link": "https://www.ndtv.com/world-news/us-to-release-172-million-barrels-from-strategic-oil-reserve-to-cut-prices-11203057#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/jpmorgan-turns-bullish-on-life-insurance-stocks-picks-max-financial-as-top-bet/articleshow/129485700.cms",
+    "category": "finance",
+    "title": "JPMorgan turns bullish on life insurance stocks, picks Max Financial as top bet",
+    "summary": "JP Morgan has upgraded life insurance stocks to 'overweight' due to recent price drops and anticipated growth. The brokerage favors Max Financial, SBI Life, HDFC Life, ICICI Prudential, and LIC, expecting GST exemptions to boost retail protection sal",
+    "image": "https://img.etimg.com/photo/msid-129485700,imgsize-34682.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Mar 2026 05:56:10 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/jpmorgan-turns-bullish-on-life-insurance-stocks-picks-max-financial-as-top-bet/articleshow/129485700.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/177-indians-repatriate-from-lebanon-over-500-depart-qatar-amid-iran-war-11203038#publisher=newsstand",
+    "category": "india",
+    "title": "177 Indians Repatriate From Lebanon, Over 500 Depart Qatar Amid Iran War",
+    "summary": "The first batch of 177 Indian nationals, being repatriated to Delhi in a charter flight.",
+    "image": "https://c.ndtvimg.com/2026-03/epmklk3o_iran-war_625x300_12_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 05:40:26 +0530",
+    "link": "https://www.ndtv.com/india-news/177-indians-repatriate-from-lebanon-over-500-depart-qatar-amid-iran-war-11203038#publisher=newsstand"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1527720.html",
+    "category": "sports",
+    "title": "Patterson reflects on 'wild' day after New South Wales seize their chance",
+    "summary": "The One-Day Cup final was just minutes from being called off which would have handed Tasmania the title",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414618.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 12 Mar 2026 00:41:21 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1527720.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/weather/articles/cz9q7y44ep4o#0",
+    "category": "global",
+    "title": "Wind warnings issued as colder weather and mountain snow head south",
+    "summary": "Strong winds are likely across many parts of the UK and conditions are turning colder towards the end of the week.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Mar 2026 00:41:04 GMT",
+    "link": "https://www.bbc.com/weather/articles/cz9q7y44ep4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cr4576v66kno#0",
+    "category": "global",
+    "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
+    "summary": "Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Mar 2026 00:05:52 GMT",
+    "link": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cdxg70rr2geo#0",
+    "category": "global",
+    "title": "Inquiry into student loans launched by MPs",
+    "summary": "The Treasury Committee will look at whether \"the goalposts [have] been moved in a way which is unfair\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Mar 2026 00:03:21 GMT",
+    "link": "https://www.bbc.com/news/articles/cdxg70rr2geo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c20lew24kngo#0",
+    "category": "global",
+    "title": "Hundreds of GPs tell BBC they have never refused a sick note over mental health concerns",
+    "summary": "The number of fit notes issued has been rising, with more than 11.2m approved in England last year.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Mar 2026 00:01:53 GMT",
+    "link": "https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn48n18pg1eo#0",
+    "category": "global",
+    "title": "Social media firms asked to toughen up age checks for under-13s",
+    "summary": "Instagram, Snapchat, TikTok, YouTube and Roblox are among the platforms UK regulators say aren't putting children's safety at the heart of their products.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Mar 2026 00:01:42 GMT",
+    "link": "https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
