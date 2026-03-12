@@ -1,25 +1,5 @@
 [
   {
-    "id": "https://www.bbc.com/news/articles/c627x7g2l4vo#0",
-    "category": "global",
-    "title": "Chris Mason: There may be no knockout blows from Mandelson files but it's far from over",
-    "summary": "This first digital document drop about the prime minister's decision to appoint Lord Mandelson as US ambassador is interesting, but not explosive.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 11 Mar 2026 23:54:45 GMT",
-    "link": "https://www.bbc.com/news/articles/c627x7g2l4vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cd70lgywgqqo#0",
-    "category": "global",
-    "title": "PM was warned of 'reputational risk' over Mandelson's Epstein links",
-    "summary": "Documents also suggest the peer explored the possibility of a \u00a3500,000 severance payment after being sacked as US ambassador.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 11 Mar 2026 18:30:20 GMT",
-    "link": "https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1527669.html",
     "category": "sports",
     "title": "Beth Mooney, Sophie Devine earn \u00a3210,000 Hundred paydays",
@@ -28,26 +8,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 11 Mar 2026 17:59:55 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1527669.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1527706.html",
-    "category": "sports",
-    "title": "The Hundred 2026: How the women's teams stack up after the auction",
-    "summary": "All the eight squads with each player's winning bid at the auction",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414614.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 11 Mar 2026 17:27:39 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1527706.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1527703.html",
-    "category": "sports",
-    "title": "Hesson: Pakistan left 'exposed' with the bat by Nahid Rana",
-    "summary": "Pakistan coach said they went into a shell and will have to turn things around quickly after a chastening loss",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414611.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 11 Mar 2026 16:35:43 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1527703.html?ex_cid=OTC-RSS"
   },
   {
     "id": "4ri2LVmhlv34kOOk94nnsi",
@@ -80,11 +40,101 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-share-market-sensex-nifty-crash-further-as-oil-prices-rally-amid-iran-war-11203268#publisher=newsstand",
+    "category": "india",
+    "title": "Stock Market LIVE Updates: Sensex Sheds 800 Points, Nifty Down 200 As Oil Soars",
+    "summary": "Stock Market, Sensex Today, Nifty, Share Market Live News: Markets plunged over soaring oil prices.",
+    "image": "https://c.ndtvimg.com/2026-03/vpr9ubmo_share-market-closing-today-_625x300_04_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 14:56:16 +0530",
+    "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-share-market-sensex-nifty-crash-further-as-oil-prices-rally-amid-iran-war-11203268#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-why-iran-war-becomes-a-contest-of-who-can-take-the-most-pain-11201688#publisher=newsstand",
+    "category": "india",
+    "title": "Why Iran War Becomes A Contest Of Who Can Take The Most Pain",
+    "summary": "But if the war stopped right now, both the U.S and Israel would be left with major challenges.",
+    "image": "https://c.ndtvimg.com/2026-03/ujjnbug_iran-war_625x300_12_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 14:54:28 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-why-iran-war-becomes-a-contest-of-who-can-take-the-most-pain-11201688#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/ndtv-power-play-keralam-live-updates-kerala-conclave-pinarayi-vijayan-to-address-on-keralam-model-shashi-tharoor-rajeev-chandrasekhar-john-brittas-11203193#publisher=newsstand",
+    "category": "india",
+    "title": "NDTV Power Play Keralam LIVE: Congress' KC Venugopal Shares Roadmap For Kerala Ahead Of Polls",
+    "summary": "NDTV Power Play Keralam LIVE Updates",
+    "image": "https://c.ndtvimg.com/2026-03/3ij50odk_kc-venugopal_625x300_12_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 14:53:55 +0530",
+    "link": "https://www.ndtv.com/india-news/ndtv-power-play-keralam-live-updates-kerala-conclave-pinarayi-vijayan-to-address-on-keralam-model-shashi-tharoor-rajeev-chandrasekhar-john-brittas-11203193#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/tigress-gives-birth-to-3-cubs-in-sariska-reserve-total-population-now-53-11204245#publisher=newsstand",
+    "category": "india",
+    "title": "Tigress Gives Birth To 3 Cubs In Sariska Reserve, Total Population Now 53",
+    "summary": "Tigers had become completely extinct from Sariska around 2004-05 due to poaching.",
+    "image": "https://c.ndtvimg.com/2024-12/f588nbo_sariska_625x300_30_December_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 14:53:43 +0530",
+    "link": "https://www.ndtv.com/india-news/tigress-gives-birth-to-3-cubs-in-sariska-reserve-total-population-now-53-11204245#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-news-how-india-bound-oil-tanker-crossed-war-hit-strait-of-hormuz-a-dark-tale-11204597#publisher=newsstand",
+    "category": "india",
+    "title": "A Dark Night: India-Bound Oil Tanker's Daring Dash Through Strait Of Hormuz",
+    "summary": "Shenlong, which is docked at the Jawahar Dweep Terminal at Mumbai port",
+    "image": "https://c.ndtvimg.com/2026-03/dfngvpa_shenlong-suezmax_625x300_12_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 14:51:15 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-news-how-india-bound-oil-tanker-crossed-war-hit-strait-of-hormuz-a-dark-tale-11204597#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/india-lpg-cylinder-shortage-live-updates-middle-east-iran-israel-war-centre-household-use-induction-cooktops-out-of-stock-11203389#publisher=newsstand",
+    "category": "india",
+    "title": "India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock",
+    "summary": "LPG Cylinders Crisis LIVE News Updates: Supply to commercial establishments has been restricted.",
+    "image": "https://c.ndtvimg.com/2026-03/0c836mvo_lpg-cylinder-booking-rule_625x300_11_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 14:49:40 +0530",
+    "link": "https://www.ndtv.com/india-news/india-lpg-cylinder-shortage-live-updates-middle-east-iran-israel-war-centre-household-use-induction-cooktops-out-of-stock-11203389#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/rampant-corruption-people-want-change-congress-leader-kc-venugopal-on-kerala-poll-11204729#publisher=newsstand",
+    "category": "india",
+    "title": "\"Rampant Corruption, People Want Change\": Congress Leader KC Venugopal On Kerala Poll",
+    "summary": "There is \"rampant corruption\" within the CPM-led Kerala government, Congress leader KC Venugopal said Thursday at an NDTV summit in the build-up to the April/May Assembly election.",
+    "image": "https://c.ndtvimg.com/2026-03/a8fabirs_kc-venugopal-ndtv-kerala-summit_625x300_12_March_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 14:47:20 +0530",
+    "link": "https://www.ndtv.com/india-news/rampant-corruption-people-want-change-congress-leader-kc-venugopal-on-kerala-poll-11204729#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/buttermilk-vs-coconut-water-which-offers-better-hydration-in-summers-11204276#publisher=newsstand",
+    "category": "india",
+    "title": "Buttermilk vs Coconut Water: Which Offers Better Hydration in Summers?",
+    "summary": "Image for representation purposes only",
+    "image": "https://c.ndtvimg.com/2026-03/oki2pkpo_coconut-water-and-buttermilk_625x300_12_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 14:45:13 +0530",
+    "link": "https://www.ndtv.com/health/buttermilk-vs-coconut-water-which-offers-better-hydration-in-summers-11204276#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pms-tracker-nirmal-bang-purnartha-investment-valcreate-post-gains-of-up-to-11-in-february/articleshow/129499700.cms",
+    "category": "finance",
+    "title": "PMS Tracker: Nirmal Bang, Purnartha Investment, Valcreate post gains of up to 11% in February",
+    "summary": "Portfolio management strategies delivered mixed returns in February, with a few quantitative and multicap portfolios outperforming while several small cap strategies declined. Nirmal Bang Securities\u2019 multi cap strategy led the performance chart with ",
+    "image": "https://img.etimg.com/photo/msid-129499700,imgsize-80324.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Mar 2026 14:22:54 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pms-tracker-nirmal-bang-purnartha-investment-valcreate-post-gains-of-up-to-11-in-february/articleshow/129499700.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/hotter-summer-ahead-ntpc-green-tata-power-other-power-stocks-surge-up-to-15/articleshow/129499075.cms",
     "category": "finance",
     "title": "Hotter summer ahead? NTPC Green, Tata Power, other power stocks surge up to 15%",
     "summary": "Shares of Indian power companies rose sharply as early summer heat pushed electricity demand higher. Limited solar output and supply constraints from LNG and hydro plants boosted thermal generation. Temperatures across key cities have been above norm",
-    "image": "https://img.etimg.com/photo/msid-129499075,imgsize-73898.cms",
+    "image": "https://img.etimg.com/photo/msid-129499075,imgsize-55832.cms",
     "source": "ET",
     "pubDate": "Thu, 12 Mar 2026 13:51:51 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/hotter-summer-ahead-ntpc-green-tata-power-other-power-stocks-surge-up-to-15/articleshow/129499075.cms"
@@ -100,46 +150,6 @@
     "link": "https://economictimes.indiatimes.com/markets/expert-view/crisil-warns-of-50-bps-margin-squeeze-for-india-inc-in-fy27-airlines-paints-and-chemicals-face-worst-hit/articleshow/129498668.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/bangladesh-parliament-reconvenes-first-time-since-2024-uprising-polls-11204268#publisher=newsstand",
-    "category": "india",
-    "title": "Bangladesh Parliament Reconvenes First Time Since 2024 Uprising, Polls",
-    "summary": "His appeal for unity is a bid to heal rifts in a country polarised by years of bitter rivalry.",
-    "image": "https://c.ndtvimg.com/2026-02/tiaf1n3o_tarique-rahman-afp_625x300_17_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 13:30:01 +0530",
-    "link": "https://www.ndtv.com/world-news/bangladesh-parliament-reconvenes-first-time-since-2024-uprising-polls-11204268#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/jee-main-2026-session-2-application-window-reopens-nta-allows-fresh-registrations-till-march-13-11204352#publisher=newsstand",
-    "category": "india",
-    "title": "JEE Main 2026 Session 2 Application Window Reopens, Check Key Details Here",
-    "summary": "JEE Main 2026 Session 2: Candidates must review all details before submitting the application form.",
-    "image": "https://c.ndtvimg.com/2025-11/jub7t6k8_jee-main-2026_625x300_14_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 13:29:32 +0530",
-    "link": "https://www.ndtv.com/education/jee-main-2026-session-2-application-window-reopens-nta-allows-fresh-registrations-till-march-13-11204352#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/ndtv-power-play-keralam-live-updates-kerala-conclave-pinarayi-vijayan-to-address-on-keralam-model-shashi-tharoor-rajeev-chandrasekhar-john-brittas-11203193#publisher=newsstand",
-    "category": "india",
-    "title": "NDTV Power Play Keralam LIVE: Congress' KC Venugopal Shares Roadmap For Kerala Ahead Of Polls",
-    "summary": "NDTV Power Play Keralam LIVE Updates",
-    "image": "https://c.ndtvimg.com/2026-03/3ij50odk_kc-venugopal_625x300_12_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 13:27:57 +0530",
-    "link": "https://www.ndtv.com/india-news/ndtv-power-play-keralam-live-updates-kerala-conclave-pinarayi-vijayan-to-address-on-keralam-model-shashi-tharoor-rajeev-chandrasekhar-john-brittas-11203193#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand",
-    "category": "india",
-    "title": "Iran-Israel War LIVE Updates: Iran Says It's Ready To End War, But With Conditions",
-    "summary": "US-Israel-Iran War Live News: Demonstrators gather in support of the new Supreme Leader in central Tehran",
-    "image": "https://c.ndtvimg.com/2026-03/acdnojs_iran_625x300_10_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 13:27:24 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/indias-private-credit-market-well-insulated-from-global-turbulence-rakshat-kapoor/articleshow/129498016.cms",
     "category": "finance",
     "title": "India\u2019s private credit market well insulated from global turbulence: Rakshat Kapoor",
@@ -148,46 +158,6 @@
     "source": "ET",
     "pubDate": "Thu, 12 Mar 2026 13:23:25 +0530",
     "link": "https://economictimes.indiatimes.com/markets/expert-view/indias-private-credit-market-well-insulated-from-global-turbulence-rakshat-kapoor/articleshow/129498016.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-news-get-ready-for-oil-at-200-a-barrel-iran-warning-amid-attacks-on-ships-11204215#publisher=newsstand",
-    "category": "india",
-    "title": "\"Get Ready For Oil At $200 A Barrel\": Iran Warning Amid Attacks On Ships",
-    "summary": "Debris and damaged vehicles at the site of an Israeli strike on an apartment building",
-    "image": "https://c.ndtvimg.com/2026-03/7dkg9ro_iran-oil_625x300_10_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 13:23:15 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-news-get-ready-for-oil-at-200-a-barrel-iran-warning-amid-attacks-on-ships-11204215#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/the-real-kerala-story-cpi-leaders-after-mahakumbh-fame-monalisa-marries-farman-khan-11204050#publisher=newsstand",
-    "category": "india",
-    "title": "'Real Kerala Story': CPM Leaders After 'Mahakumbh Girl' Marries Farman Khan",
-    "summary": "Kerala minister V Sivankutty praises interfaith marriage of Monalisa Bhosle and Farman Khan.",
-    "image": "https://c.ndtvimg.com/2026-03/guq8b1m_monalisa_625x300_12_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 13:21:32 +0530",
-    "link": "https://www.ndtv.com/india-news/the-real-kerala-story-cpi-leaders-after-mahakumbh-fame-monalisa-marries-farman-khan-11204050#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/rising-co2-levels-are-reflected-in-human-blood-scientists-dont-know-what-it-means-11204378#publisher=newsstand",
-    "category": "india",
-    "title": "Rising CO2 Levels Are Reflected In Human Blood. Scientists Don't Know What It Means",
-    "summary": "Our findings are not suggesting people will become suddenly unwell when atmospheric CO reaches a certain level. What the data show is a signal that warrants attention.",
-    "image": "https://c.ndtvimg.com/2026-03/ki1toe0k_blood-test-freepik_625x300_12_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 13:21:18 +0530",
-    "link": "https://www.ndtv.com/health/rising-co2-levels-are-reflected-in-human-blood-scientists-dont-know-what-it-means-11204378#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/speaker-om-birla-denies-oppositions-charges-after-no-confidence-motion-defeated-11204091#publisher=newsstand",
-    "category": "india",
-    "title": "Om Birla Denies Opposition's Charges After No-Confidence Motion Defeated",
-    "summary": "Let's run this Lok Sabha with rules and regulations, said Om Birla.",
-    "image": "https://c.ndtvimg.com/2026-03/rmmvcmnc_om-birla_650x400_12_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 13:19:25 +0530",
-    "link": "https://www.ndtv.com/india-news/speaker-om-birla-denies-oppositions-charges-after-no-confidence-motion-defeated-11204091#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-tech-turnaround-software-shares-recover-after-deep-selloff/articleshow/129497456.cms",
@@ -230,14 +200,64 @@
     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gsp-crop-sciences-rs-400-crore-ipo-to-open-on-march-16/articleshow/129496541.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-slide-as-middle-east-oil-shock-fans-rate-hike-fears/articleshow/129496110.cms",
-    "category": "finance",
-    "title": "Global Markets | Australian shares slide as Middle East oil shock fans rate hike fears",
-    "summary": "Australian shares dropped over 1% as rising oil prices, fueled by Middle East attacks, heightened inflation concerns and increased the likelihood of interest rate hikes. The S&amp;P/ASX 200 index fell 1.3%, with financials and miners leading the decl",
-    "image": "https://img.etimg.com/photo/msid-129496110,imgsize-69606.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Mar 2026 12:26:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-slide-as-middle-east-oil-shock-fans-rate-hike-fears/articleshow/129496110.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1527746.html",
+    "category": "sports",
+    "title": "Thomas O'Connor upstages dad Shayne with 13-wicket haul",
+    "summary": "Thomas rewrote family history and Otago records, bagging a match haul of 13 wickets in the Plunket Shield",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414633.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 12 Mar 2026 09:25:13 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1527746.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c875nzlv7ddo#0",
+    "category": "global",
+    "title": "Minister defends PM's handling of Mandelson appointment",
+    "summary": "Documents show Sir Keir Starmer was warned the peer's relationship with Jeffrey Epstein posed a \"reputational risk\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Mar 2026 09:22:07 GMT",
+    "link": "https://www.bbc.com/news/articles/c875nzlv7ddo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c20lew24kngo#0",
+    "category": "global",
+    "title": "Hundreds of GPs tell BBC they have never refused a fit note over mental health concerns",
+    "summary": "The number of fit notes issued has been rising, with more than 11.2m approved in England last year.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Mar 2026 09:21:42 GMT",
+    "link": "https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1527752.html",
+    "category": "sports",
+    "title": "Pakistan look to raise their game as Bangladesh target quick series win",
+    "summary": "Bangladesh played a flawless game in the first ODI, and Pakistan, who fielded four debutant batters there, might want to bring Haris Rauf in to strengthen their bowling attack",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414611.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 12 Mar 2026 08:57:01 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1527752.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c626emvy1z7o#0",
+    "category": "global",
+    "title": "John Lewis to pay first staff bonus for four years",
+    "summary": "The department store and Waitrose supermarket owner will give workers a bonus equivalent to an extra week's pay.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Mar 2026 08:30:57 GMT",
+    "link": "https://www.bbc.com/news/articles/c626emvy1z7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cq8g9e812z3o#0",
+    "category": "global",
+    "title": "My phone contents were shared with the police colleague I accused of rape",
+    "summary": "Police Scotland has been fined \u00a366,000 by a watchdog after it failed to protect sensitive personal information.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Mar 2026 07:44:46 GMT",
+    "link": "https://www.bbc.com/news/articles/cq8g9e812z3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/sport/tennis/articles/cly09grr65xo#0",
@@ -322,32 +342,12 @@
   {
     "id": "https://www.bbc.com/news/articles/cdxg70rr2geo#0",
     "category": "global",
-    "title": "Inquiry into student loans launched by MPs",
+    "title": "Student loans inquiry to look at whether system is 'unfair to graduates'",
     "summary": "The Treasury Committee will look at whether \"the goalposts [have] been moved in a way which is unfair\".",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Thu, 12 Mar 2026 00:03:21 GMT",
     "link": "https://www.bbc.com/news/articles/cdxg70rr2geo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c20lew24kngo#0",
-    "category": "global",
-    "title": "Hundreds of GPs tell BBC they have never refused a sick note over mental health concerns",
-    "summary": "The number of fit notes issued has been rising, with more than 11.2m approved in England last year.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Mar 2026 00:01:53 GMT",
-    "link": "https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn48n18pg1eo#0",
-    "category": "global",
-    "title": "Social media firms asked to toughen up age checks for under-13s",
-    "summary": "Instagram, Snapchat, TikTok, YouTube and Roblox are among the platforms UK regulators say aren't putting children's safety at the heart of their products.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Mar 2026 00:01:42 GMT",
-    "link": "https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
