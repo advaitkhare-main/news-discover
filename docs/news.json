@@ -50,16 +50,6 @@
     "link": "https://www.ndtv.com/india-news/apj-abdul-kalam-foresaw-this-gulf-wars-hard-lesson-on-energy-imports-11207399#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-us-war-ground-report-ops-normal-at-israel-haifa-port-amid-iran-attack-rumours-11207625#publisher=newsstand",
-    "category": "india",
-    "title": "Ground Report: Ops Normal At Israel's Haifa Port Amid Iran Attack Rumours",
-    "summary": "NDTV's Aditya Raj Kaul at Haifa Port in Israel",
-    "image": "https://c.ndtvimg.com/2026-03/2gsk4nts_haifa_625x300_12_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 23:38:27 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-us-war-ground-report-ops-normal-at-israel-haifa-port-amid-iran-attack-rumours-11207625#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-canadas-top-exchange-pushes-to-end-quarterly-reporting-for-all-firms/articleshow/129517330.cms",
     "category": "finance",
     "title": "Global stocks: Canada's top exchange pushes to end quarterly reporting for all firms",
@@ -140,6 +130,16 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-fed-to-cut-rates-in-june-economists-say-despite-war-inflation-risks/articleshow/129512949.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c0e531gve7do#0",
+    "category": "global",
+    "title": "UK troops at Iraq base shot down Iranian drones, Healey says",
+    "summary": "British forces based in Iraq shot down two drones overnight, Defence Secretary John Healey has confirmed.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Mar 2026 20:12:43 GMT",
+    "link": "https://www.bbc.com/news/articles/c0e531gve7do?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1527775.html",
     "category": "sports",
     "title": "Sunrisers Leeds sign Pakistan spinner Abrar Ahmed in Hundred auction",
@@ -198,16 +198,6 @@
     "source": "BBC",
     "pubDate": "Thu, 12 Mar 2026 17:08:08 GMT",
     "link": "https://www.bbc.com/news/articles/cly09j2542no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0e531gve7do#0",
-    "category": "global",
-    "title": "UK troops at Iraq base shot down Iranian drones, Healey says",
-    "summary": "British forces based in Iraq shot down two drones overnight, Defence Secretary John Healey has confirmed.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Mar 2026 17:06:56 GMT",
-    "link": "https://www.bbc.com/news/articles/c0e531gve7do?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c875nzlv7ddo#0",
@@ -340,6 +330,26 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand",
+    "category": "india",
+    "title": "Iran-Israel War LIVE Updates: Netanyahu Says Top Iranian Nuclear Scientists Killed In Israeli Strikes",
+    "summary": "US-Israel-Iran War Live News: Demonstrators gather in support of the new Supreme Leader in central Tehran",
+    "image": "https://c.ndtvimg.com/2026-03/acdnojs_iran_625x300_10_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Mar 2026 01:45:53 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/science/nasa-says-on-track-for-artemis-2-launch-as-soon-as-april-1-11207842#publisher=newsstand",
+    "category": "india",
+    "title": "NASA Says \"On Track\" For Artemis 2 Launch As Soon As April 1",
+    "summary": "NASA said Thursday that the long-delayed launch of the Artemis 2 mission, part of the US push to return to the Moon by 2028, could come as soon as April 1.",
+    "image": "https://c.ndtvimg.com/2026-03/sgd5t2a8_nasa-artemis_625x300_13_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Mar 2026 00:58:00 +0530",
+    "link": "https://www.ndtv.com/science/nasa-says-on-track-for-artemis-2-launch-as-soon-as-april-1-11207842#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/delhi-metro-enthusiast-felicitated-for-riding-first-train-on-all-new-corridors-11207769#publisher=newsstand",
     "category": "india",
     "title": "Delhi Metro Enthusiast Felicitated For Riding First Train On All New Corridors",
@@ -358,16 +368,6 @@
     "source": "NDTV",
     "pubDate": "Fri, 13 Mar 2026 00:17:28 +0530",
     "link": "https://www.ndtv.com/india-news/iran-war-latest-news-expressed-deep-concern-pm-narendra-modi-discusses-middle-east-situation-with-iran-president-11207560#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand",
-    "category": "india",
-    "title": "Iran-Israel War LIVE Updates: Strikes Kill 11 Iran-Backed Fighters Near Iraq-Syria Border, Baghdad",
-    "summary": "US-Israel-Iran War Live News: Demonstrators gather in support of the new Supreme Leader in central Tehran",
-    "image": "https://c.ndtvimg.com/2026-03/acdnojs_iran_625x300_10_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Mar 2026 00:13:17 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/us-news-smoke-rising-from-roof-active-shooter-reported-after-truck-crashes-into-synagogue-in-michigan-11207524#publisher=newsstand",
