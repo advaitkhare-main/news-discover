@@ -30,14 +30,14 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/india-news/it-is-like-auctions-electric-stove-demand-goes-through-the-roof-amid-lpg-crisis-11207695#publisher=newsstand",
-    "category": "india",
-    "title": "\"It Is Like Auctions\": Electric Stove Demand Goes Through The Roof Amid LPG Crisis",
-    "summary": "Storekeepers say that sales that would normally take a month have been completed within just three days, leaving many outlets with empty shelves and forcing buyers to compete with each other for the remaining stock.",
-    "image": "https://c.ndtvimg.com/2021-03/gqbn39fg_induction3_625x300_16_March_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 23:49:52 +0530",
-    "link": "https://www.ndtv.com/india-news/it-is-like-auctions-electric-stove-demand-goes-through-the-roof-amid-lpg-crisis-11207695#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/cx247vd1v48o#0",
+    "category": "global",
+    "title": "Boy charged over stabbing of teenage girl at Norfolk school",
+    "summary": "Armed police were scrambled to the scene and pictured as they entered classrooms.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Mar 2026 22:28:42 GMT",
+    "link": "https://www.bbc.com/news/articles/cx247vd1v48o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-canadas-top-exchange-pushes-to-end-quarterly-reporting-for-all-firms/articleshow/129517330.cms",
@@ -48,16 +48,6 @@
     "source": "ET",
     "pubDate": "Thu, 12 Mar 2026 22:25:13 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-canadas-top-exchange-pushes-to-end-quarterly-reporting-for-all-firms/articleshow/129517330.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx247vd1v48o#0",
-    "category": "global",
-    "title": "Boy charged over stabbing of teenage girl at Norfolk school",
-    "summary": "Armed police were scrambled to the scene and pictured as they entered classrooms.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Mar 2026 22:19:27 GMT",
-    "link": "https://www.bbc.com/news/articles/cx247vd1v48o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-big-bank-capital-requirements-to-fall-small-amount-under-new-plan-says-fed/articleshow/129515393.cms",
@@ -130,6 +120,16 @@
     "link": "https://www.bbc.com/news/articles/c4g8qpp3mpeo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c875nzlv7ddo#0",
+    "category": "global",
+    "title": "PM says Mandelson appointment was mistake as No 10 denies cover-up",
+    "summary": "Documents show Sir Keir Starmer was warned the peer's relationship with Jeffrey Epstein posed a \"reputational risk\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 12 Mar 2026 20:31:41 GMT",
+    "link": "https://www.bbc.com/news/articles/c875nzlv7ddo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-nalco-and-tata-power-on-friday-for-gains-up-to-15/articleshow/129513438.cms",
     "category": "finance",
     "title": "Market Trading Guide: Buy NALCO and Tata Power on Friday for gains up to 15%",
@@ -198,16 +198,6 @@
     "source": "BBC",
     "pubDate": "Thu, 12 Mar 2026 17:08:08 GMT",
     "link": "https://www.bbc.com/news/articles/cly09j2542no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4g23npxpwgo#0",
-    "category": "global",
-    "title": "Lloyds, Bank of Scotland and Halifax apps showed customers other users' transactions",
-    "summary": "The Lloyds Banking Group customers reported being able to view payments and charges from other sources.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Mar 2026 16:41:42 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/ce3g49w5zxwo#0",
@@ -320,6 +310,56 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://www.ndtv.com/world-news/us-refueling-aircraft-kc-135-crashes-in-iraq-amid-iran-war-11208162#publisher=newsstand",
+    "category": "india",
+    "title": "US Refueling Aircraft Crashes In Iraq Amid Iran War",
+    "summary": "An American KC-135 aerial refueling aircraft crashed in western Iraq, the US army said.",
+    "image": "https://c.ndtvimg.com/2026-03/f98fspjk_us-kc135-jet_625x300_13_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Mar 2026 03:54:22 +0530",
+    "link": "https://www.ndtv.com/world-news/us-refueling-aircraft-kc-135-crashes-in-iraq-amid-iran-war-11208162#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-iran-threatens-to-set-regions-oil-gas-on-fire-warns-us-will-regret-11208146#publisher=newsstand",
+    "category": "india",
+    "title": "Iran Threatens To \"Set Region's Oil, Gas On Fire\", Warns US Will Regret",
+    "summary": "Iran warned US if its own energy infrastructure and ports were attacked.",
+    "image": "https://c.ndtvimg.com/2026-03/0bbveghs_iran-war_625x300_13_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Mar 2026 03:45:43 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-iran-threatens-to-set-regions-oil-gas-on-fire-warns-us-will-regret-11208146#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/1-killed-2-injured-after-shooting-at-us-old-dominion-university-11208114#publisher=newsstand",
+    "category": "india",
+    "title": "1 Killed, 2 Injured After Shooting At US' Old Dominion University",
+    "summary": "The suspected shooter, Jalloh, is a naturalized US citizen from Sierra Leone. (Representational)",
+    "image": "https://c.ndtvimg.com/2024-07/aek4ib5o_us-police-generic_625x300_07_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Mar 2026 03:23:41 +0530",
+    "link": "https://www.ndtv.com/world-news/1-killed-2-injured-after-shooting-at-us-old-dominion-university-11208114#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/science/nasa-says-on-track-for-artemis-2-launch-as-soon-as-april-1-11207842#publisher=newsstand",
+    "category": "india",
+    "title": "NASA Says \"On Track\" For Artemis 2 Launch As Soon As April 1",
+    "summary": "The Artemis 2 mission is meant to be the first flyby of the Moon in more than half a century.",
+    "image": "https://c.ndtvimg.com/2026-03/sgd5t2a8_nasa-artemis_625x300_13_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Mar 2026 03:08:10 +0530",
+    "link": "https://www.ndtv.com/science/nasa-says-on-track-for-artemis-2-launch-as-soon-as-april-1-11207842#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-warns-lebanon-to-disarm-hezbollah-11208046#publisher=newsstand",
+    "category": "india",
+    "title": "\"Will Do Job On Ground\": Netanyahu Warns Lebanon To Act Against Hezbollah",
+    "summary": "Benjamin Netanyahu said that Lebanon is \"playing with fire\" over Hezbollah.",
+    "image": "https://c.ndtvimg.com/2025-06/ovjsqdq_benjamin-netanyahu_625x300_17_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Mar 2026 02:41:18 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-warns-lebanon-to-disarm-hezbollah-11208046#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand",
     "category": "india",
     "title": "Iran-Israel War LIVE Updates: Netanyahu Says Top Iranian Nuclear Scientists Killed In Israeli Strikes",
@@ -340,16 +380,6 @@
     "link": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-says-top-iranian-nuclear-scientists-killed-in-israeli-strikes-11207987#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/science/nasa-says-on-track-for-artemis-2-launch-as-soon-as-april-1-11207842#publisher=newsstand",
-    "category": "india",
-    "title": "NASA Says \"On Track\" For Artemis 2 Launch As Soon As April 1",
-    "summary": "NASA said Thursday that the long-delayed launch of the Artemis 2 mission, part of the US push to return to the Moon by 2028, could come as soon as April 1.",
-    "image": "https://c.ndtvimg.com/2026-03/sgd5t2a8_nasa-artemis_625x300_13_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Mar 2026 00:58:00 +0530",
-    "link": "https://www.ndtv.com/science/nasa-says-on-track-for-artemis-2-launch-as-soon-as-april-1-11207842#publisher=newsstand"
-  },
-  {
     "id": "https://www.ndtv.com/india-news/delhi-metro-enthusiast-felicitated-for-riding-first-train-on-all-new-corridors-11207769#publisher=newsstand",
     "category": "india",
     "title": "Delhi Metro Enthusiast Felicitated For Riding First Train On All New Corridors",
@@ -358,35 +388,5 @@
     "source": "NDTV",
     "pubDate": "Fri, 13 Mar 2026 00:20:48 +0530",
     "link": "https://www.ndtv.com/india-news/delhi-metro-enthusiast-felicitated-for-riding-first-train-on-all-new-corridors-11207769#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/iran-war-latest-news-expressed-deep-concern-pm-narendra-modi-discusses-middle-east-situation-with-iran-president-11207560#publisher=newsstand",
-    "category": "india",
-    "title": "\"Expressed Concern Over Loss Of Lives\": PM Holds Talks With Iran President",
-    "summary": "PM Modi has spoken to leaders of several West Asian countries in the last 10 days",
-    "image": "https://c.ndtvimg.com/2026-03/2jengr0k_iran-war-afp_650x400_12_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Mar 2026 00:17:28 +0530",
-    "link": "https://www.ndtv.com/india-news/iran-war-latest-news-expressed-deep-concern-pm-narendra-modi-discusses-middle-east-situation-with-iran-president-11207560#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-news-smoke-rising-from-roof-active-shooter-reported-after-truck-crashes-into-synagogue-in-michigan-11207524#publisher=newsstand",
-    "category": "india",
-    "title": "Armed Man Rams Vehicle Into Michigan Synagogue, Shot Dead By Security",
-    "summary": "Footage from the scene showed dozens of police vehicles surrounding the building.",
-    "image": "https://c.ndtvimg.com/2026-03/m0ugdgtk_michigan-synagogue_650x400_12_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Mar 2026 00:12:50 +0530",
-    "link": "https://www.ndtv.com/world-news/us-news-smoke-rising-from-roof-active-shooter-reported-after-truck-crashes-into-synagogue-in-michigan-11207524#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/delhi-rolls-out-gps-tracked-tankers-to-ensure-transparent-water-supply-11207746#publisher=newsstand",
-    "category": "india",
-    "title": "Delhi Rolls Out GPS-Tracked Tankers To Ensure Transparent Water Supply",
-    "summary": "Beyond tankers, the 2026 plan includes several infrastructure and service upgrades.",
-    "image": "https://c.ndtvimg.com/delhi-water-crisis_625x300_1530181536010.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Mar 2026 00:06:00 +0530",
-    "link": "https://www.ndtv.com/india-news/delhi-rolls-out-gps-tracked-tankers-to-ensure-transparent-water-supply-11207746#publisher=newsstand"
   }
 ]
