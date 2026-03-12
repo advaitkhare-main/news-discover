@@ -2,12 +2,22 @@
   {
     "id": "https://www.bbc.com/news/articles/c627x7g2l4vo#0",
     "category": "global",
-    "title": "Chris Mason: Some nuggets but no huge revelations in first batch of Mandelson files",
+    "title": "Chris Mason: There may be no knockout blows from Mandelson files but it's far from over",
     "summary": "This first digital document drop about the prime minister's decision to appoint Lord Mandelson as US ambassador is interesting, but not explosive.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Wed, 11 Mar 2026 23:54:45 GMT",
     "link": "https://www.bbc.com/news/articles/c627x7g2l4vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cd70lgywgqqo#0",
+    "category": "global",
+    "title": "PM warned of 'reputational risk' over Mandelson's Epstein links",
+    "summary": "Documents also suggest the peer explored the possibility of a \u00a3500,000 severance payment after being sacked as US ambassador.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 11 Mar 2026 18:30:20 GMT",
+    "link": "https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527669.html",
@@ -60,26 +70,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1527696.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1527318.html",
-    "category": "sports",
-    "title": "RCB vs SRH to kick off IPL 2026 in Bengaluru on March 28",
-    "summary": "The IPL has released the schedule for the first 20 matches of the season including four double-headers",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/401600/401653.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 11 Mar 2026 13:58:05 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1527318.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1527660.html",
-    "category": "sports",
-    "title": "Nahid Rana and Tanzid Hasan complete Pakistan's demolition in opening ODI",
-    "summary": "Rana's maiden five-wicket haul in ODIs shot out Pakistan for 114 before Tanzid made easy work of the chase with a rapid half-century",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414612.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 11 Mar 2026 12:37:59 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1527660.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -108,6 +98,136 @@
     "source": "VentureBeat",
     "pubDate": "Thu, 22 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/stay-invested-deploy-money-gradually-amid-market-volatility-prateek-agarwal/articleshow/129495307.cms",
+    "category": "finance",
+    "title": "Stay invested, deploy money gradually amid market volatility: Prateek Agarwal",
+    "summary": "Geopolitical tensions and trade route disruptions are making investors cautious, despite attractive stock valuations. Market participants are closely monitoring the Strait of Hormuz, as any disruption there impacts oil prices and supply chains.  Whil",
+    "image": "https://img.etimg.com/photo/msid-129495307,imgsize-83224.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Mar 2026 12:04:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/stay-invested-deploy-money-gradually-amid-market-volatility-prateek-agarwal/articleshow/129495307.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/amid-market-volatility-neeraj-dewan-sees-opportunities-in-these-three-sectors/articleshow/129494484.cms",
+    "category": "finance",
+    "title": "Amid market volatility, Neeraj Dewan sees opportunities in these three sectors",
+    "summary": "Indian stock markets face volatility due to geopolitical tensions and rising energy prices, disrupting recent stability. Despite caution, market expert Neeraj Dewan identifies selective long-term opportunities in sectors like energy, defensives, food",
+    "image": "https://img.etimg.com/photo/msid-129494484,imgsize-28404.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Mar 2026 11:42:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/amid-market-volatility-neeraj-dewan-sees-opportunities-in-these-three-sectors/articleshow/129494484.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-consolidates-near-70000-as-macro-uncertainty-offsets-institutional-demand/articleshow/129494088.cms",
+    "category": "finance",
+    "title": "Bitcoin consolidates near $70,000 as macro uncertainty offsets institutional demand",
+    "summary": "Bitcoin consolidated near $70,000 despite positive institutional demand, as macro uncertainty persisted. While Spot Bitcoin ETFs saw significant inflows and whale holdings rose, the broader crypto market capitalization edged down. Analysts suggest ca",
+    "image": "https://img.etimg.com/photo/msid-129494088,imgsize-33844.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Mar 2026 11:34:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-consolidates-near-70000-as-macro-uncertainty-offsets-institutional-demand/articleshow/129494088.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-news-live-us-owned-ship-among-2-vessels-hit-by-iran-in-the-gulf-1-dead-11203453#publisher=newsstand",
+    "category": "india",
+    "title": "Indian Killed In Underwater Drone Attack By Iran On US-Owned Oil Tanker",
+    "summary": "Iranian boat rigged with explosives is thought to have hit the two vessels (Representative Image)",
+    "image": "https://c.ndtvimg.com/2026-03/6n4n15o8_iran-attack_625x300_12_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 11:27:25 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-news-live-us-owned-ship-among-2-vessels-hit-by-iran-in-the-gulf-1-dead-11203453#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stock-to-buy-jefferies-lists-10-reasons-to-buy-its-top-crdmo-pick-sai-life-sciences/articleshow/129494038.cms",
+    "category": "finance",
+    "title": "Stock to buy: Jefferies lists 10 reasons to buy its top CRDMO pick Sai Life Sciences",
+    "summary": "Jefferies has initiated coverage on Sai Life Sciences with a 'Buy' rating and a Rs 1,300 target price, citing its integrated 'follow-the-molecule' model and strong growth outlook. The brokerage highlighted the company's healthy pipeline, global prese",
+    "image": "https://img.etimg.com/photo/msid-129494038,imgsize-36766.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Mar 2026 11:25:22 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-to-buy-jefferies-lists-10-reasons-to-buy-its-top-crdmo-pick-sai-life-sciences/articleshow/129494038.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/jammu-and-kashmir-farooq-abdullah-survives-attack-shooter-wanted-to-kill-him-for-20-years-11203139#publisher=newsstand",
+    "category": "india",
+    "title": "\"Wanted To Kill Him For 20 Years\": Farooq Abdullah Attacker Shows No Remorse",
+    "summary": "The pistol used in the crime has been seized from the accused's possession.",
+    "image": "https://c.ndtvimg.com/2026-03/143ageog_abdullah-accused_625x300_12_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 11:22:49 +0530",
+    "link": "https://www.ndtv.com/india-news/jammu-and-kashmir-farooq-abdullah-survives-attack-shooter-wanted-to-kill-him-for-20-years-11203139#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cbse-board-exams-2026-live-updates-class-12-english-exam-today-11203127#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE Board Exams 2026 Live Updates: Class 12 English Paper Begins Nationwide",
+    "summary": "CBSE Board Exams 2026 Live Updates",
+    "image": "https://c.ndtvimg.com/2026-02/7bcmh3k4_cbse-class-12-physics-exam_625x300_25_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 11:22:25 +0530",
+    "link": "https://www.ndtv.com/education/cbse-board-exams-2026-live-updates-class-12-english-exam-today-11203127#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ai-to-disrupt-banking-nomura-initiates-coverage-on-3-nbfc-stocks-that-can-beat-banks-for-next-15-years/articleshow/129493893.cms",
+    "category": "finance",
+    "title": "AI to disrupt banking? Nomura initiates coverage on 3 NBFC stocks that can beat banks for next 15 years",
+    "summary": "Nomura has initiated coverage on Tata Capital, L&amp;T Finance and Piramal Finance with Buy ratings, citing their expanding product portfolios and rapid adoption of AI-driven lending engines. The brokerage expects NBFCs to outpace banks over the next",
+    "image": "https://img.etimg.com/photo/msid-129493893,imgsize-105288.cms",
+    "source": "ET",
+    "pubDate": "Thu, 12 Mar 2026 11:22:11 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-to-disrupt-banking-nomura-initiates-coverage-on-3-nbfc-stocks-that-can-beat-banks-for-next-15-years/articleshow/129493893.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/ndtv-keralam-power-play-summit-shashi-tharoor-us-israel-iran-war-donald-trump-unpredictable-unreliable-11203858#publisher=newsstand",
+    "category": "india",
+    "title": "\"Unpredictable, Unreliable\": Shashi Tharoor's Donald Trump Report Card",
+    "summary": "Donald Trump is 'unpredictable' and 'unreliable' and there has 'never been a world leader like him, particularly at the helm of such a powerful country', a mystified Congress MP Shashi Tharoor said Thursday morning at the NDTV KeralamPower Play summ",
+    "image": "https://c.ndtvimg.com/2026-03/p5vbhup8_shashi-tharoor-ndtv-kerala-summit_625x300_12_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 11:20:24 +0530",
+    "link": "https://www.ndtv.com/india-news/ndtv-keralam-power-play-summit-shashi-tharoor-us-israel-iran-war-donald-trump-unpredictable-unreliable-11203858#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-us-war-iran-allows-india-flagged-ships-to-pass-through-strait-of-hormuz-sources-11203593#publisher=newsstand",
+    "category": "india",
+    "title": "Iran's Hormuz Clearance To India? Big Indication In BJP Leader's Post",
+    "summary": "In a big relief for New Delhi amid a worsening global energy crisis, Iran has allowed India-flagged tankers to pass through the Strait of Hormuz.",
+    "image": "https://c.ndtvimg.com/2026-03/12lmtpdk_strait-of-hormuz_625x300_03_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 11:19:20 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-us-war-iran-allows-india-flagged-ships-to-pass-through-strait-of-hormuz-sources-11203593#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/kerala-assembly-election-john-brittas-keralam-powerplay-not-graceful-enough-left-mp-flags-congress-leadership-of-india-bloc-11203812#publisher=newsstand",
+    "category": "india",
+    "title": "\"Not Graceful Enough\": Left MP Flags Congress Leadership Of INDIA Bloc",
+    "summary": "CPM MP John Brittas as the NDTV Keralam Power Play",
+    "image": "https://c.ndtvimg.com/2026-03/bogefd4o_brittas_625x300_12_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 11:15:20 +0530",
+    "link": "https://www.ndtv.com/india-news/kerala-assembly-election-john-brittas-keralam-powerplay-not-graceful-enough-left-mp-flags-congress-leadership-of-india-bloc-11203812#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/ndtv-power-play-keralam-live-updates-kerala-conclave-pinarayi-vijayan-to-address-on-keralam-model-shashi-tharoor-rajeev-chandrasekhar-john-brittas-11203193#publisher=newsstand",
+    "category": "india",
+    "title": "NDTV Power Play Keralam LIVE: \"My Responsibility Is To Bring Back UDF Into Power\": VD Satheesan",
+    "summary": "NDTV Powerplay Keralam LIVE Updates",
+    "image": "https://c.ndtvimg.com/2026-03/q0us3254_vd-satheesan_625x300_12_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 11:14:59 +0530",
+    "link": "https://www.ndtv.com/india-news/ndtv-power-play-keralam-live-updates-kerala-conclave-pinarayi-vijayan-to-address-on-keralam-model-shashi-tharoor-rajeev-chandrasekhar-john-brittas-11203193#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/food/chef-behind-worlds-best-restaurant-noma-resigns-after-explosive-abuse-allegations-11203718#publisher=newsstand",
+    "category": "india",
+    "title": "Chef Behind World's Best Restaurant Noma Resigns After Explosive Abuse Allegations",
+    "summary": "While the chef has resigned, the restaurant, which holds three Michelin stars, continues to operate.",
+    "image": "https://c.ndtvimg.com/2026-03/s9ojhnds_noma-chef_625x300_12_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 12 Mar 2026 11:11:46 +0530",
+    "link": "https://www.ndtv.com/food/chef-behind-worlds-best-restaurant-noma-resigns-after-explosive-abuse-allegations-11203718#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slip-as-brent-tops-100-per-barrel/articleshow/129493343.cms",
@@ -140,154 +260,34 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-pushes-back-fed-rate-cut-forecast-amid-mideast-conflict/articleshow/129492392.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/oil-tops-100-amid-iran-israel-tensions-asian-paints-indigo-and-other-crude-sensitive-stocks-fall-up-to-4/articleshow/129492355.cms",
-    "category": "finance",
-    "title": "Oil tops $100 amid Iran-Israel tensions; Asian Paints, IndiGo and other crude-sensitive stocks fall up to 4%",
-    "summary": "Crude oil prices surged past $100 per barrel due to escalating Middle East tensions. This development impacted shares of paint, tyre, and airline companies, with significant drops observed. Iran's actions, including attacks on tankers and fuel facili",
-    "image": "https://img.etimg.com/photo/msid-129492355,imgsize-226154.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Mar 2026 10:25:22 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-tops-100-amid-iran-israel-tensions-asian-paints-indigo-and-other-crude-sensitive-stocks-fall-up-to-4/articleshow/129492355.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1527739.html",
+    "category": "sports",
+    "title": "Handscomb finds a way in another season favouring bowlers",
+    "summary": "The Sheffield Shield has again been dominated by the bowlers, which continues a broader debate around the balance of the red-ball game in Australia",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414631.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 12 Mar 2026 06:46:48 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1527739.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-delay-among-2-reasons-why-jefferies-cuts-bharti-airtels-target-price/articleshow/129492285.cms",
-    "category": "finance",
-    "title": "Jio IPO delay among 2 reasons why Jefferies cuts Bharti Airtel\u2019s target price",
-    "summary": "Jefferies has cut its target price on Bharti Airtel to Rs 2,250 from Rs 2,575, citing a potential delay in the Reliance Jio IPO and concerns over Bharti\u2019s entry into the NBFC business. The brokerage expects tariff hikes to be pushed to December 2026 ",
-    "image": "https://img.etimg.com/photo/msid-129492285,imgsize-203680.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Mar 2026 10:22:42 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-delay-among-2-reasons-why-jefferies-cuts-bharti-airtels-target-price/articleshow/129492285.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hpcl-other-omc-stocks-tumble-4-as-oil-surges-back-above-100-iran-warns-prices-can-hit-200/articleshow/129492017.cms",
-    "category": "finance",
-    "title": "HPCL, other OMC stocks tumble 4% as oil surges back above $100; Iran warns prices can hit $200",
-    "summary": "Oil marketing company shares tumbled as crude prices surged past $100 per barrel following Iran's attacks on Middle Eastern oil tankers. Iran warned of prices potentially reaching $200, escalating regional tensions and impacting global supply routes.",
-    "image": "https://img.etimg.com/photo/msid-129492017,imgsize-981255.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Mar 2026 10:16:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hpcl-other-omc-stocks-tumble-4-as-oil-surges-back-above-100-iran-warns-prices-can-hit-200/articleshow/129492017.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fo-radar-bull-call-spread-strategy-for-astral/articleshow/129492010.cms",
-    "category": "finance",
-    "title": "F&amp;O Radar: Bull Call Spread strategy for Astral",
-    "summary": "Astral shares are showing strong bullish momentum after rallying nearly 24% since February and hitting fresh 52 week highs. The stock has broken above the key 1600 resistance and is sustaining above the 20 day EMA. Analysts suggest a bull call spread",
-    "image": "https://img.etimg.com/photo/msid-129492010,imgsize-6831.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Mar 2026 10:15:23 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-radar-bull-call-spread-strategy-for-astral/articleshow/129492010.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/ndtv-power-play-keralam-live-updates-kerala-conclave-pinarayi-vijayan-to-address-on-keralam-model-shashi-tharoor-rajeev-chandrasekhar-john-brittas-11203193#publisher=newsstand",
-    "category": "india",
-    "title": "NDTV Power Play Keralam LIVE: \"We Are Here To Fight For Better Kerala\": Shashi Tharoor",
-    "summary": "NDTV Powerplay Keralam LIVE Updates",
-    "image": "https://c.ndtvimg.com/2026-03/535s4d8g_john-brittas_625x300_12_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 10:10:59 +0530",
-    "link": "https://www.ndtv.com/india-news/ndtv-power-play-keralam-live-updates-kerala-conclave-pinarayi-vijayan-to-address-on-keralam-model-shashi-tharoor-rajeev-chandrasekhar-john-brittas-11203193#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-israel-us-war-iran-allows-india-flagged-ships-to-pass-through-strait-of-hormuz-sources-11203593#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Allows India-Flagged Ships To Pass Through Strait Of Hormuz: Sources",
-    "summary": "In a big relief for New Delhi amid a worsening global energy crisis, Iran has allowed India-flagged tankers to pass through the Strait of Hormuz.",
-    "image": "https://c.ndtvimg.com/2026-03/12lmtpdk_strait-of-hormuz_625x300_03_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 10:10:48 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-us-war-iran-allows-india-flagged-ships-to-pass-through-strait-of-hormuz-sources-11203593#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/adani-total-gas-shares-soar-nearly-40-in-just-2-days-whats-triggering-the-rally-despite-weak-market/articleshow/129491919.cms",
-    "category": "finance",
-    "title": "Adani Total Gas shares soar nearly 40% in just 2 days! What\u2019s triggering the rally despite weak market?",
-    "summary": "Shares of Adani Total Gas rose sharply on Thursday, extending a two-day rally after the government issued the Natural Gas (Supply Regulation) Order, 2026,  to prioritise gas supplies to essential sectors amid Middle East conflict-driven disruptions. ",
-    "image": "https://img.etimg.com/photo/msid-129491919,imgsize-34594.cms",
-    "source": "ET",
-    "pubDate": "Thu, 12 Mar 2026 10:10:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-total-gas-shares-soar-nearly-40-in-just-2-days-whats-triggering-the-rally-despite-weak-market/articleshow/129491919.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/health/child-actors-and-their-mental-health-struggles-experts-explain-how-therapy-helps-11203246#publisher=newsstand",
-    "category": "india",
-    "title": "Harry Potter Actor Daniel Radcliffe Calls For On-Set Therapy For Child Actors: Experts Tell Why This Is Critical",
-    "summary": "Early intervention through therapy can help prevent future struggles",
-    "image": "https://i.ndtvimg.com/i/2017-04/daniel-radcliffe-harry-potter_650x400_41492061862.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 10:04:23 +0530",
-    "link": "https://www.ndtv.com/health/child-actors-and-their-mental-health-struggles-experts-explain-how-therapy-helps-11203246#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-share-market-sensex-nifty-crash-further-as-oil-prices-rally-amid-iran-war-11203268#publisher=newsstand",
-    "category": "india",
-    "title": "Stock Market LIVE Updates: Sensex Sheds 900 Points, Nifty Down 270 As Oil Soars",
-    "summary": "Stock Market, Sensex Today, Nifty, Share Market Live News: Markets plunged over soaring oil prices.",
-    "image": "https://c.ndtvimg.com/2026-03/vpr9ubmo_share-market-closing-today-_625x300_04_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 09:59:13 +0530",
-    "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-share-market-sensex-nifty-crash-further-as-oil-prices-rally-amid-iran-war-11203268#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-israel-us-war-iran-outlines-3-conditions-to-end-war-with-us-israel-11203516#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Israel US War: Iran Outlines 3 Conditions To End War With US, Israel",
-    "summary": "Tehran has laid out its three terms for ending Iran's ongoing conflict with the United States and Israel.",
-    "image": "https://c.ndtvimg.com/2026-03/lpm2sde_tehran_625x300_09_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 09:56:03 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-us-war-iran-outlines-3-conditions-to-end-war-with-us-israel-11203516#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-news-live-us-owned-ship-among-2-vessels-hit-by-iran-in-the-gulf-1-dead-11203453#publisher=newsstand",
-    "category": "india",
-    "title": "Iranian Underwater Drone Hits US-Owned Oil Tanker In The Gulf, 1 Dead",
-    "summary": "Iranian boat rigged with explosives is thought to have hit the two vessels (Representative Image)",
-    "image": "https://c.ndtvimg.com/2026-03/6n4n15o8_iran-attack_625x300_12_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 09:47:42 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-news-live-us-owned-ship-among-2-vessels-hit-by-iran-in-the-gulf-1-dead-11203453#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/us-iran-israel-conflict-cbse-fact-checks-viral-fake-circular-claiming-exam-rescheduled-today-11203577#publisher=newsstand",
-    "category": "india",
-    "title": "CBSE Fact-Checks Viral Fake Circular Claiming Exam Rescheduled Today",
-    "summary": "CBSE Warns Against Sharing False Exam Schedule Notices",
-    "image": "https://c.ndtvimg.com/2026-03/thk9955o_cbse_625x300_12_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 09:47:32 +0530",
-    "link": "https://www.ndtv.com/education/us-iran-israel-conflict-cbse-fact-checks-viral-fake-circular-claiming-exam-rescheduled-today-11203577#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/feature/amazon-announces-90-day-code-safety-reset-amid-ai-related-outages-know-details-11203576#publisher=newsstand",
-    "category": "india",
-    "title": "Amazon Announces 90-Day Code Safety Reset Amid AI-Related Outages. Know Details",
-    "summary": "Amazon announces a 90-day code safety reset to stabilise engineering systems amid AI-related outages.",
-    "image": "https://i.ndtvimg.com/i/2018-04/amazon-logo-reuters_650x400_51524438456.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 12 Mar 2026 09:47:31 +0530",
-    "link": "https://www.ndtv.com/feature/amazon-announces-90-day-code-safety-reset-amid-ai-related-outages-know-details-11203576#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1527737.html",
+    "category": "sports",
+    "title": "Bim10 corruption: Javon Searles among three provisionally suspended",
+    "summary": "Team owner Chitranjan Rathod and official Trevon Griffith also charged under anti-corruption codes",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/276500/276501.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 12 Mar 2026 06:13:24 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1527737.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c2lrq2n7l9eo#0",
     "category": "global",
-    "title": "Liza Tarbuck leaves Radio 2 Saturday show after 14 years",
+    "title": "'It was the stuff of dreams' - Liza Tarbuck leaves Radio 2 Saturday show",
     "summary": "Shaun Keaveny, host of The Rock Show, will stand in for her until the end of the end of the month.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Thu, 12 Mar 2026 04:14:37 GMT",
     "link": "https://www.bbc.com/news/articles/c2lrq2n7l9eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c07jr2pe5j9o#0",
-    "category": "global",
-    "title": "Head chef resigns from world-famous restaurant Noma amid abuse allegations",
-    "summary": "Ren\u00e9 Redzepi had previously apologised after ex-employees of the Danish restaurant accused him of creating a toxic work environment.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 12 Mar 2026 04:09:16 GMT",
-    "link": "https://www.bbc.com/news/articles/c07jr2pe5j9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527719.html",
