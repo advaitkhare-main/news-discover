@@ -70,16 +70,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1527783.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1527746.html",
-    "category": "sports",
-    "title": "Thomas O'Connor upstages dad Shayne with 13-wicket haul",
-    "summary": "Thomas rewrote family history and Otago records, bagging a match haul of 13 wickets in the Plunket Shield",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414633.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 12 Mar 2026 09:41:47 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1527746.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -120,6 +110,136 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-adds-wipro-hyundai-motor-india-cipla-to-latest-underperform-list-heres-why/articleshow/129548981.cms",
+    "category": "finance",
+    "title": "Jefferies adds Wipro, Hyundai Motor India, Cipla to latest underperform list. Here\u2019s why",
+    "summary": "Jefferies has added Wipro, Hyundai Motor India and Cipla to its latest underperform list, citing weak growth outlook, rising competition and earnings risks. The brokerage flagged slow deal ramp ups at Wipro, market share losses for Hyundai and US rev",
+    "image": "https://img.etimg.com/photo/msid-129548981,imgsize-52676.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Mar 2026 15:48:54 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-adds-wipro-hyundai-motor-india-cipla-to-latest-underperform-list-heres-why/articleshow/129548981.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-live-explosions-hit-tehran-during-quds-day-protests-after-israel-warning-11210142#publisher=newsstand",
+    "category": "india",
+    "title": "Explosions Hit Tehran During Quds Day Protests After Israel Warning",
+    "summary": "Huge explosions struck Iran's capital on Friday where a pro-government demonstration was being held",
+    "image": "https://c.ndtvimg.com/2026-03/6q8pjhn_quds-day_625x300_13_March_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Mar 2026 15:45:36 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-live-explosions-hit-tehran-during-quds-day-protests-after-israel-warning-11210142#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/who-is-mohammad-ali-jafari-man-behind-irans-impenetrable-mosaic-defence-11210228#publisher=newsstand",
+    "category": "india",
+    "title": "Who Is Mohammad Ali Jafari, Man Behind Iran's Impenetrable 'Mosaic Defence'",
+    "summary": "Mohammad Ali Jafari is known as the architect of Iran's \"Mosaic Defence\"",
+    "image": "https://c.ndtvimg.com/2026-03/b833hk2c_mohammad-ali-jafari_625x300_13_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Mar 2026 15:39:26 +0530",
+    "link": "https://www.ndtv.com/world-news/who-is-mohammad-ali-jafari-man-behind-irans-impenetrable-mosaic-defence-11210228#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/researchers-unlocked-a-new-chemical-reaction-that-opens-new-avenues-in-drug-development-protein-science-11210270#publisher=newsstand",
+    "category": "india",
+    "title": "Researchers Unlocked A New Chemical Reaction That Opens New Avenues In Drug Development, Protein Science",
+    "summary": "Sulphur-sulphur (S-S) bonds are found in peptides and proteins",
+    "image": "https://c.ndtvimg.com/2026-02/oce647dk_cancer-drugs_625x300_01_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Mar 2026 15:38:38 +0530",
+    "link": "https://www.ndtv.com/health/researchers-unlocked-a-new-chemical-reaction-that-opens-new-avenues-in-drug-development-protein-science-11210270#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/kc-135-crash-iraq-news-4-of-6-on-board-us-refuelling-aircraft-killed-in-iraq-crash-11210111#publisher=newsstand",
+    "category": "india",
+    "title": "4 Of 6 On Board US Refuelling Aircraft Killed In Iraq Crash",
+    "summary": "Four of six crew on the US Air Force KC-135 aircraft that crashed in western Iraq have died, United States Central Command said on X Friday. Efforts to rescue the other two are ongoing, CENTCOM - the military C2 node directing US-Israel war on Iran.",
+    "image": "https://c.ndtvimg.com/2026-03/d0u30bj8_kc135-stratotanker-_625x300_13_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Mar 2026 15:37:23 +0530",
+    "link": "https://www.ndtv.com/world-news/kc-135-crash-iraq-news-4-of-6-on-board-us-refuelling-aircraft-killed-in-iraq-crash-11210111#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/no-shortage-of-fertilisers-adequate-provision-made-nirmala-sitharaman-11210031#publisher=newsstand",
+    "category": "india",
+    "title": "No Shortage Of Fertilisers, Adequate Provision Made: Nirmala Sitharaman",
+    "summary": "She was replying to the debate on supplementary demands for grants in the Lok Sabha.",
+    "image": "https://c.ndtvimg.com/2026-03/b67nk6ss_nirmala-sitharaman_625x300_13_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Mar 2026 15:35:24 +0530",
+    "link": "https://www.ndtv.com/india-news/no-shortage-of-fertilisers-adequate-provision-made-nirmala-sitharaman-11210031#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/metal-stocks-slide-up-to-7-as-dollar-hits-4-month-high-nalco-hindustan-copper-lead-fall/articleshow/129548443.cms",
+    "category": "finance",
+    "title": "Metal stocks slide up to 7% as dollar hits 4-month high; NALCO, Hindustan Copper lead fall",
+    "summary": "Metal stocks, including NALCO and Hindustan Copper fell sharply on Friday as a surging US Dollar Index and ongoing Iran\u2013Israel/US conflict dented demand. Analysts advise caution, noting that global commodity prices and infrastructure trends will shap",
+    "image": "https://img.etimg.com/photo/msid-129548443,imgsize-37046.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Mar 2026 15:35:19 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/metal-stocks-slide-up-to-7-as-dollar-hits-4-month-high-nalco-hindustan-copper-lead-fall/articleshow/129548443.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/thousands-of-chinese-boats-mass-at-sea-raising-questions-11208897#publisher=newsstand",
+    "category": "india",
+    "title": "Beijing Preparing For Conflict? Thousands Of Boats Mass In East China Sea",
+    "summary": "Experts were confident that the majority of the vessels were real and not spoofed.",
+    "image": "https://c.ndtvimg.com/2026-03/7i4vgc9k_taiwan_625x300_13_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Mar 2026 15:34:38 +0530",
+    "link": "https://www.ndtv.com/world-news/thousands-of-chinese-boats-mass-at-sea-raising-questions-11208897#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fear-levels-of-march-2020-iran-war-gives-nifty-its-worst-month-since-the-dreaded-covid-crash/articleshow/129548263.cms",
+    "category": "finance",
+    "title": "Fear levels of March 2020? Iran war gives Nifty its worst month since the dreaded Covid crash",
+    "summary": "Indian equities are suffering their worst month since the Covid crash as the Iran war, $100 crude and heavy FII selling hammer sentiment. Despite the slide, fund houses like Bajaj Finserv AMC and Axis Mutual Fund say strong earnings and resilient fun",
+    "image": "https://img.etimg.com/photo/msid-129548263,imgsize-258368.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Mar 2026 15:32:23 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fear-levels-of-march-2020-iran-war-gives-nifty-its-worst-month-since-the-dreaded-covid-crash/articleshow/129548263.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/the-gourd-family-plays-a-critical-role-in-indian-nutrition-expert-explains-why-lauki-karela-and-tinda-should-all-be-a-part-of-your-summer-diet-11209839#publisher=newsstand",
+    "category": "india",
+    "title": "The Gourd Family Plays A Critical Role In Indian Nutrition: Expert Explains Why Lauki, Karela And Tinda Should All Be A ",
+    "summary": "Image for representation purposes only",
+    "image": "https://c.ndtvimg.com/2026-03/s81mmf2s_gourds_625x300_13_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Mar 2026 15:30:08 +0530",
+    "link": "https://www.ndtv.com/health/the-gourd-family-plays-a-critical-role-in-indian-nutrition-expert-explains-why-lauki-karela-and-tinda-should-all-be-a-part-of-your-summer-diet-11209839#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/adobe-shares-plunge-9-in-pre-market-as-ceo-shantanu-narayens-exit-adds-to-ai-disruption-concerns/articleshow/129548034.cms",
+    "category": "finance",
+    "title": "Adobe shares plunge 9% in pre-market as CEO Shantanu Narayen's exit adds to AI-disruption concerns",
+    "summary": "Adobe's stock dropped significantly following the announcement of CEO Shantanu Narayen's retirement. This leadership change comes as the company navigates the evolving landscape of AI in software. Investors are watching closely to see how Adobe adapt",
+    "image": "https://img.etimg.com/photo/msid-129548034,imgsize-331886.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Mar 2026 15:24:12 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/adobe-shares-plunge-9-in-pre-market-as-ceo-shantanu-narayens-exit-adds-to-ai-disruption-concerns/articleshow/129548034.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/why-cooking-gas-cylinders-use-lpg-can-they-be-replaced-with-png-11209668#publisher=newsstand",
+    "category": "india",
+    "title": "LPG vs PNG: Why Cooking Gas Shortages Can't Be Fixed With Pipeline Gas",
+    "summary": "LPG can be liquefied under relatively low pressure, allowing large amounts of fuel to be stored.",
+    "image": "https://c.ndtvimg.com/2026-03/vh3ij77g_lpg-png_625x300_12_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 13 Mar 2026 15:14:17 +0530",
+    "link": "https://www.ndtv.com/india-news/why-cooking-gas-cylinders-use-lpg-can-they-be-replaced-with-png-11209668#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-set-for-weekly-loss-as-mideast-war-fuels-inflation-fears/articleshow/129547089.cms",
+    "category": "finance",
+    "title": "Global Markets | European shares set for weekly loss as Mideast war fuels inflation fears",
+    "summary": "European shares fell on Friday and were headed for a second weekly loss, as \u200cescalating conflict \u2060in the \u2060Middle East and inflation worries dented risk appetite.",
+    "image": "https://img.etimg.com/photo/msid-129547089,imgsize-65736.cms",
+    "source": "ET",
+    "pubDate": "Fri, 13 Mar 2026 15:07:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-set-for-weekly-loss-as-mideast-war-fuels-inflation-fears/articleshow/129547089.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/commodities/news/crude-may-touch-150/barrel-if-strait-of-hormuz-remains-closed-for-4-8-weeks-nuvama/articleshow/129546943.cms",
     "category": "finance",
     "title": "Crude may touch $150/barrel if Strait of Hormuz remains closed for 4-8 weeks: Nuvama",
@@ -128,26 +248,6 @@
     "source": "ET",
     "pubDate": "Fri, 13 Mar 2026 14:56:30 +0530",
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-may-touch-150/barrel-if-strait-of-hormuz-remains-closed-for-4-8-weeks-nuvama/articleshow/129546943.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/israel-iran-us-war-iran-war-oil-crisis-us-gas-prices-donald-trump-opinion-polls-strait-of-hormuz-global-fuel-crisis-11209775#publisher=newsstand",
-    "category": "india",
-    "title": "Oil Wars: How Iran's Hormuz Grip Is Bleeding Americans' Wallets",
-    "summary": "US President Donald Trump.",
-    "image": "https://c.ndtvimg.com/2026-02/e965t2q_trump-oil-_625x300_20_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Mar 2026 14:34:35 +0530",
-    "link": "https://www.ndtv.com/world-news/israel-iran-us-war-iran-war-oil-crisis-us-gas-prices-donald-trump-opinion-polls-strait-of-hormuz-global-fuel-crisis-11209775#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/upi-in-2026-12-features-most-users-still-dont-use-offline-payments-credit-lines-autopay-11209714#publisher=newsstand",
-    "category": "india",
-    "title": "UPI In 2026: 12 Features Most Users Still Don't Use - Offline Payments, Credit Lines, AutoPay",
-    "summary": "UPI in 2026: 12 Hidden Features Almost Every User Still Misses",
-    "image": "https://c.ndtvimg.com/2026-02/ho53rlag_upi-one-world_625x300_17_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Mar 2026 14:33:53 +0530",
-    "link": "https://www.ndtv.com/offbeat/upi-in-2026-12-features-most-users-still-dont-use-offline-payments-credit-lines-autopay-11209714#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/for-stock-hunters-in-rs-10-lakh-crore-friday-market-crash-50-stocks-rally-against-iran-war-sell-off/articleshow/129546181.cms",
@@ -160,46 +260,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/for-stock-hunters-in-rs-10-lakh-crore-friday-market-crash-50-stocks-rally-against-iran-war-sell-off/articleshow/129546181.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/middle-east-war-ticket-to-tehran-iranian-jews-in-israel-still-long-for-iran-11209937#publisher=newsstand",
-    "category": "india",
-    "title": "'Ticket To Tehran': Iranian Jews In Israel Still Long For Iran",
-    "summary": "More than 300,000 Jews of Iranian origin are thought to live in Israel today, the vast majority of whom are those who arrived after 1979 and their descendants.",
-    "image": "https://i.ndtvimg.com/i/2018-01/jews-in-india-afp_650x400_71515945154.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Mar 2026 14:31:40 +0530",
-    "link": "https://www.ndtv.com/world-news/middle-east-war-ticket-to-tehran-iranian-jews-in-israel-still-long-for-iran-11209937#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/nick-jonas-friend-maya-kibbel-dies-of-wilsons-disease-at-30-signs-and-risks-of-the-rare-disease-explained-11209330#publisher=newsstand",
-    "category": "india",
-    "title": "Nick Jonas' Friend Maya Kibbel Dies Of Wilson's Disease At 30: Signs And Risks Of The Rare Disease Explained",
-    "summary": "Nick Jonas lost his friend Maya Kibbel to Wilson's disease",
-    "image": "https://c.ndtvimg.com/2026-03/pqp5t6j8_nick-jonas-lost-his-friend-maya-kibbel-to-wilsons-disease_625x300_13_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Mar 2026 14:30:14 +0530",
-    "link": "https://www.ndtv.com/health/nick-jonas-friend-maya-kibbel-dies-of-wilsons-disease-at-30-signs-and-risks-of-the-rare-disease-explained-11209330#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/time-to-move-on-from-wheat-rice-supreme-court-pushes-for-pulses-11209851#publisher=newsstand",
-    "category": "india",
-    "title": "\"Time To Move On From Wheat, Rice\": Supreme Court Pushes For Pulses",
-    "summary": "Supreme Court also underlined that farmers must receive incentives to adopt alternative crops",
-    "image": "https://c.ndtvimg.com/2026-03/9tu8smp4_pulses_625x300_13_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Mar 2026 14:29:50 +0530",
-    "link": "https://www.ndtv.com/india-news/time-to-move-on-from-wheat-rice-supreme-court-pushes-for-pulses-11209851#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/bseb-bihar-board-class-12-result-2026-check-release-date-list-of-official-websites-to-check-marks-11209906#publisher=newsstand",
-    "category": "india",
-    "title": "Bihar Board Class 12 Result 2026: Release Date, List Of Official Websites To Check Marks",
-    "summary": "BSEB Bihar Board Class 12 Result 2026: The online result will be provisional in nature.",
-    "image": "https://c.ndtvimg.com/bihar-board-12th-result-2018_625x300_1528257516572.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Mar 2026 14:29:25 +0530",
-    "link": "https://www.ndtv.com/education/bseb-bihar-board-class-12-result-2026-check-release-date-list-of-official-websites-to-check-marks-11209906#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/2-top-stock-picks-from-ca-rudramurthy-bv-for-near-term/articleshow/129546090.cms",
     "category": "finance",
     "title": "2 top stock picks from CA Rudramurthy BV for near term",
@@ -210,74 +270,44 @@
     "link": "https://economictimes.indiatimes.com/markets/expert-view/2-top-stock-picks-from-ca-rudramurthy-bv-for-near-term/articleshow/129546090.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/qantas-to-pay-74-million-to-customers-for-cancelled-covid-flights-11208249#publisher=newsstand",
-    "category": "india",
-    "title": "Qantas To Pay $74 Million To Customers For Cancelled Covid Flights",
-    "summary": "The court will provide details of how customers can claim refunds.",
-    "image": "https://c.ndtvimg.com/2025-08/7telf38k_qantas_625x300_18_August_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Mar 2026 14:24:59 +0530",
-    "link": "https://www.ndtv.com/world-news/qantas-to-pay-74-million-to-customers-for-cancelled-covid-flights-11208249#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1527810.html",
+    "category": "sports",
+    "title": "'Proud moment for the women's game' - Devine on Hundred auction",
+    "summary": "Devine was in demand during the auction, securing a bid of \u00a3210,000 from Welsh Fire",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/408400/408415.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 13 Mar 2026 10:25:15 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1527810.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/india-news/supreme-court-news-today-supreme-court-on-menstrual-leave-nobody-will-hire-women-chief-justice-surya-kant-11209239#publisher=newsstand",
-    "category": "india",
-    "title": "'Nobody Will Hire Women': Supreme Court Turns Down Plea On Menstrual Leaves",
-    "summary": "Mandatory menstrual leave for women could 'adversely impact (their) employment' because employers 'will not hire women if we make such a law', Chief Justice Surya Kant said Friday.",
-    "image": "https://c.ndtvimg.com/2026-03/qqacu7h_woman-at-an-office-generic-aigenerated_625x300_13_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 13 Mar 2026 14:18:17 +0530",
-    "link": "https://www.ndtv.com/india-news/supreme-court-news-today-supreme-court-on-menstrual-leave-nobody-will-hire-women-chief-justice-surya-kant-11209239#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/cx28zd30078o#0",
+    "category": "global",
+    "title": "Suspect dead after ramming vehicle into Michigan synagogue",
+    "summary": "The FBI says the incident is being investigated as a \"targeted act of violence against the Jewish community\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 13 Mar 2026 10:16:36 GMT",
+    "link": "https://www.bbc.com/news/articles/cx28zd30078o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/100-crude-gives-rs-20-lakh-crore-shock-to-nifty-bulls-this-week-best-time-to-buy-the-fear/articleshow/129545259.cms",
-    "category": "finance",
-    "title": "$100 crude gives Rs 20 lakh crore shock to Nifty bulls this week. Best time to buy the fear?",
-    "summary": "Crude oil above $100 has wiped out Rs 20 lakh crore in equity wealth, hammering markets in India as the Iran conflict escalates. The rupee hit a record low, and FIIs continue to sell, yet experts and Axis Mutual Fund argue the panic may be creating a",
-    "image": "https://img.etimg.com/photo/msid-129545259,imgsize-2979880.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Mar 2026 14:04:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/100-crude-gives-rs-20-lakh-crore-shock-to-nifty-bulls-this-week-best-time-to-buy-the-fear/articleshow/129545259.cms"
+    "id": "https://www.bbc.com/news/articles/cy0dz5ql17vo#0",
+    "category": "global",
+    "title": "Four killed after US refuelling plane crashes in Iraq, military confirms",
+    "summary": "The US Central Command says rescue efforts continue after a refuelling aircraft went down over western Iraq.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 13 Mar 2026 09:55:20 GMT",
+    "link": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/why-ubs-believes-markets-under-appreciate-aquaguard-maker-eureka-forbes/articleshow/129545121.cms",
-    "category": "finance",
-    "title": "Stock to buy: UBS sees strong upside in Aquaguard-maker Eureka Forbes",
-    "summary": "UBS initiated coverage on Eureka Forbes with a 'Buy' call, identifying it as a 'steady earnings compounder' with under-appreciated scale advantages in water purifiers and services. The brokerage set a target price of Rs 640, citing market growth driv",
-    "image": "https://img.etimg.com/photo/msid-129545121,imgsize-238594.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Mar 2026 13:59:10 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-ubs-believes-markets-under-appreciate-aquaguard-maker-eureka-forbes/articleshow/129545121.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/mf-favourites-9-microcap-stocks-crash-over-50-from-their-52-week-highs/slideshow/129545196.cms",
-    "category": "finance",
-    "title": "MF Favourites: 9 microcap stocks crash over 50% from their 52-week highs",
-    "summary": "\u200bIndian equity markets are currently under pressure due to rising geopolitical tensions, particularly the escalating conflict involving Iran, Israel, and the United States. The benchmark Nifty 50 has declined nearly 10% from its 52-week high, while t",
-    "image": "https://img.etimg.com/photo/msid-129544923,imgsize-132891.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Mar 2026 13:53:25 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/mf-favourites-9-microcap-stocks-crash-over-50-from-their-52-week-highs/slideshow/129545196.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-why-you-should-ignore-the-50-plunge-in-eclerx-services-shares/articleshow/129544351.cms",
-    "category": "finance",
-    "title": "Bonus issue alert: Why you should  ignore the 50% plunge in eClerx Services shares",
-    "summary": "Shares of eClerx Services appeared to plunge 50% after turning ex-date for its 1:1 bonus issue, but the decline was only about 6% as the price adjusted for the corporate action. The stock opened sharply lower on the NSE  before extending losses amid ",
-    "image": "https://img.etimg.com/photo/msid-129544351,imgsize-28679.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Mar 2026 13:36:01 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-why-you-should-ignore-the-50-plunge-in-eclerx-services-shares/articleshow/129544351.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/muthoot-fincorp-unveils-rs-600-crore-retail-bond-issue/articleshow/129544288.cms",
-    "category": "finance",
-    "title": "Muthoot Fincorp unveils Rs 600 crore retail bond issue",
-    "summary": "Muthoot FinCorp is raising up to Rs 600 crore by selling bonds to retail investors. The bonds offer yields between 8.70% and 9.10%. This fundraising will support business growth, lending activities, and debt repayment. The issue is open until March 2",
-    "image": "https://img.etimg.com/photo/msid-129544288,imgsize-12328.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Mar 2026 13:35:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/muthoot-fincorp-unveils-rs-600-crore-retail-bond-issue/articleshow/129544288.cms"
+    "id": "https://www.bbc.com/news/articles/c75e06e0kd7o#0",
+    "category": "global",
+    "title": "UK economy flatlines as people cut back on eating out",
+    "summary": "Analysts had been expecting 0.2% growth for the UK economy at the beginning of the year.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 13 Mar 2026 09:43:21 GMT",
+    "link": "https://www.bbc.com/news/articles/c75e06e0kd7o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/crk83e2g65no#0",
@@ -290,14 +320,14 @@
     "link": "https://www.bbc.com/news/articles/crk83e2g65no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c75e06e0kd7o#0",
+    "id": "https://www.bbc.com/news/articles/clyg4wx6nxgo#0",
     "category": "global",
-    "title": "UK economy saw zero growth in January ahead of Iran war",
-    "summary": "Analysts had been expecting 0.2% growth for the UK economy at the beginning of the year.",
+    "title": "AI toys for children misread emotions and respond inappropriately, researchers warn",
+    "summary": "In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 13 Mar 2026 08:35:19 GMT",
-    "link": "https://www.bbc.com/news/articles/c75e06e0kd7o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Fri, 13 Mar 2026 09:10:53 GMT",
+    "link": "https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527807.html",
@@ -310,16 +340,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1527807.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cy0dz5ql17vo#0",
-    "category": "global",
-    "title": "Rescue operations under way after US refuelling plane crashes in Iraq",
-    "summary": "The US Central Command says rescue efforts are under way after a refuelling aircraft went down over western Iraq.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 13 Mar 2026 08:04:34 GMT",
-    "link": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/sport/tennis/articles/cz9qzkynvjlo#0",
     "category": "global",
     "title": "Jack Draper beaten after controversial umpire call",
@@ -328,6 +348,16 @@
     "source": "BBC",
     "pubDate": "Fri, 13 Mar 2026 07:01:53 GMT",
     "link": "https://www.bbc.com/sport/tennis/articles/cz9qzkynvjlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c5ygj315dx7o#0",
+    "category": "global",
+    "title": "Man's blue skin A&E panic was just bed sheet dye",
+    "summary": "Tommy Lynch rushed to hospital when he woke with blue skin but it turned out to be from his sheets.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 13 Mar 2026 06:15:37 GMT",
+    "link": "https://www.bbc.com/news/articles/c5ygj315dx7o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527755.html",
@@ -348,36 +378,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 13 Mar 2026 04:52:16 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1527797.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/weather/articles/c39we83jgydo#0",
-    "category": "global",
-    "title": "How long will the cold weather last?",
-    "summary": "Friday feels noticeably colder. Helen Willetts explains why there's been a change in temperature and looks at how long it may last.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 13 Mar 2026 03:36:27 GMT",
-    "link": "https://www.bbc.com/weather/articles/c39we83jgydo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx28zd30078o#0",
-    "category": "global",
-    "title": "Suspect dead after ramming vehicle into Michigan synagogue",
-    "summary": "The FBI says the incident is being investigated as a \"targeted act of violence against the Jewish community\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 13 Mar 2026 02:18:48 GMT",
-    "link": "https://www.bbc.com/news/articles/cx28zd30078o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4g7kwq1k11o#0",
-    "category": "global",
-    "title": "Lost Doctor Who episodes found in 'eclectic' collection",
-    "summary": "The Doctor's assistant Peter Purves was invited to a screening of the episodes in Leicester.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 13 Mar 2026 00:06:01 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g7kwq1k11o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c1je21lgn5zo#0",
