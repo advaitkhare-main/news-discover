@@ -30,6 +30,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/housing-sales-in-50-cities-dip-3-to-6-14-lakh-units-up-16-in-value-to-rs-8-4-lakh-crore-credai/articleshow/129571987.cms",
+    "category": "finance",
+    "title": "Housing sales in 50 cities dip 3% to 6.14 lakh units, up 16%  in value to Rs 8.4 lakh crore: CREDAI",
+    "summary": "Indian housing sales saw a slight dip in units last year but a significant rise in value.  Demand for homes above Rs 1 crore drove this growth.  Tier-2 cities are becoming key growth areas.  Improved connectivity and job opportunities are boosting ho",
+    "image": "https://img.etimg.com/photo/msid-129571987,imgsize-1042330.cms",
+    "source": "ET",
+    "pubDate": "Sat, 14 Mar 2026 14:49:55 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/housing-sales-in-50-cities-dip-3-to-6-14-lakh-units-up-16-in-value-to-rs-8-4-lakh-crore-credai/articleshow/129571987.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/stay-patient-volatility-temporary-says-sebi-chairman-as-iran-israel-war-ruffles-global-markets/articleshow/129571914.cms",
     "category": "finance",
     "title": "Stay patient, volatility temporary, says Sebi Chairman as Iran-Israel war ruffles global markets",
@@ -180,14 +190,14 @@
     "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hovers-near-71000-as-crypto-investors-track-macro-and-liquidity-signals/articleshow/129570740.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/as-crude-oil-price-breaches-100-mark-systematix-recommends-ril-a-potential-multibagger-and-4-more-stocks-to-buy/slideshow/129570664.cms",
-    "category": "finance",
-    "title": "As crude oil price breaches $100 mark, Systematix recommends RIL, a potential multibagger and 4 more stocks to buy",
-    "summary": "As crude oil surges past $100 amid the ongoing Middle East conflict, brokerage Systematix Institutional Equities recommends buying stocks like Reliance Industries, Deep Industries and others, citing strong upside potential driven by tightening global",
-    "image": "https://img.etimg.com/photo/msid-129570548,imgsize-127681.cms",
-    "source": "ET",
-    "pubDate": "Sat, 14 Mar 2026 12:43:39 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/as-crude-oil-price-breaches-100-mark-systematix-recommends-ril-a-potential-multibagger-and-4-more-stocks-to-buy/slideshow/129570664.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1527905.html",
+    "category": "sports",
+    "title": "Neser takes five to keep Queensland in Shield final race",
+    "summary": "Queensland lost Renshaw and Labuschagne in slumping to 48 for 3 after Neser took 5 for 37 to dismiss Tasmania for 198 on day one",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414670.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 14 Mar 2026 10:19:22 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1527905.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527906.html",
@@ -198,16 +208,6 @@
     "source": "Cricinfo",
     "pubDate": "Sat, 14 Mar 2026 08:39:42 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1527906.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1527905.html",
-    "category": "sports",
-    "title": "Neser takes five to keep Queensland in Shield final race",
-    "summary": "Queensland lost Renshaw and Labuschagne in slumping to 48 for 3 after Neser took 5 for 37 to dismiss Tasmania for 198 on day one",
-    "image": "http://p.imgci.com",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 14 Mar 2026 08:31:08 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1527905.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527916.html",
@@ -288,6 +288,16 @@
     "source": "BBC",
     "pubDate": "Sat, 14 Mar 2026 01:21:14 GMT",
     "link": "https://www.bbc.com/news/videos/c4g7ddn9xz0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cq8gj9n12g8o#1",
+    "category": "global",
+    "title": "More US Marines and warships to be moved to Middle East, reports say",
+    "summary": "The reinforcements will come from an amphibious ready group that is usually based in Japan, an official told CBS, the BBC's US partner.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 14 Mar 2026 00:53:15 GMT",
+    "link": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cev7wn213rvo#1",
@@ -378,15 +388,5 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 13 Mar 2026 18:03:05 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1527886.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvg5yp7v0ppo#1",
-    "category": "global",
-    "title": "As hopes of regime change in Iran fade, Netanyahu faces political test",
-    "summary": "Israeli leaders are framing the bombing campaign as having transformed the Middle East in their favour as pressure to end the conflict builds.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 13 Mar 2026 15:35:26 GMT",
-    "link": "https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&at_campaign=rss"
   }
 ]
