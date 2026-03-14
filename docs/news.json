@@ -30,84 +30,134 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/no-charge-for-you-border-roads-organisation-helps-stranded-bike-rider-heartwarming-video-viral-11213336#publisher=newsstand",
-    "category": "india",
-    "title": "'No Charge For You': Border Roads Organisation Helps Stranded Bike Rider, Heartwarming Video Viral",
-    "summary": "BRO personnel repair a stranded biker's motorcycle free of charge in a viral video.",
-    "image": "https://c.ndtvimg.com/2026-03/satnppeo_as_625x300_14_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Sat, 14 Mar 2026 06:54:23 +0530",
-    "link": "https://www.ndtv.com/offbeat/no-charge-for-you-border-roads-organisation-helps-stranded-bike-rider-heartwarming-video-viral-11213336#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stocks-end-lower-posts-weekly-loss-as-war-on-iran-fuels-inflation-worries/articleshow/129568360.cms",
+    "category": "finance",
+    "title": "US Stocks | US stocks end lower, posts weekly loss as war on Iran fuels inflation worries",
+    "summary": "Indian markets mirrored global trends as US stocks closed lower. Volatile crude oil prices, influenced by the Iran conflict, impacted equities. Investors are closely watching global oil supply dynamics. Economic indicators showed mixed signals, with ",
+    "image": "https://img.etimg.com/photo/msid-129568360,imgsize-162842.cms",
+    "source": "ET",
+    "pubDate": "Sat, 14 Mar 2026 09:21:06 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stocks-end-lower-posts-weekly-loss-as-war-on-iran-fuels-inflation-worries/articleshow/129568360.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/nifty-down-2-deepak-guptas-sector-by-sector-playbook-for-what-to-buy-hold-and-trim/articleshow/129552421.cms",
+    "category": "finance",
+    "title": "Nifty down 2%: Deepak Gupta's sector-by-sector playbook for what to buy, hold, and trim",
+    "summary": "Market expert Deepak Gupta urges investors to stay invested during the current market downturn. He advises continuing Systematic Investment Plans and averaging costs. Investors should consider rotating within equities from high-beta to low-beta stock",
+    "image": "https://img.etimg.com/photo/msid-129552421,imgsize-25972.cms",
+    "source": "ET",
+    "pubDate": "Sat, 14 Mar 2026 09:00:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/nifty-down-2-deepak-guptas-sector-by-sector-playbook-for-what-to-buy-hold-and-trim/articleshow/129552421.cms"
   },
   {
     "id": "https://www.ndtv.com/world-news/iran-war-us-attacks-irans-kharg-island-says-donald-trump-11213221#publisher=newsstand",
     "category": "india",
-    "title": "Trump Says US Bombed Iran's Kharg Island, Threatens Oil Infrastructure",
+    "title": "\"Totally Obliterated\": Trump Says US Bombed Iran's \"Crown Jewel\" Kharg Island",
     "summary": "Kharg Island handles roughly 90 percent of Iran's crude exports.",
-    "image": "https://c.ndtvimg.com/2026-03/k473oul_kharg-island_625x300_14_March_26.jpeg",
+    "image": "https://c.ndtvimg.com/2026-03/6qo12pck_kharg-island-iran-_625x300_14_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Sat, 14 Mar 2026 06:46:04 +0530",
+    "pubDate": "Sat, 14 Mar 2026 08:52:14 +0530",
     "link": "https://www.ndtv.com/world-news/iran-war-us-attacks-irans-kharg-island-says-donald-trump-11213221#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/international-mathematics-day-2026-theme-classroom-activities-significance-11213517#publisher=newsstand",
+    "category": "india",
+    "title": "International Mathematics Day 2026: Theme, Classroom Activities, Significance",
+    "summary": "Mathematics Day Today: students used Mathematics to design posters that shared ideas",
+    "image": "https://c.ndtvimg.com/education/1200-1.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 14 Mar 2026 08:49:19 +0530",
+    "link": "https://www.ndtv.com/education/international-mathematics-day-2026-theme-classroom-activities-significance-11213517#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/trumps-watch-what-happens-threat-to-iran-as-us-bombed-kharg-island-donald-trump-iran-war-iran-israel-us-war-trump-on-ending-iran-war-11213476#publisher=newsstand",
+    "category": "india",
+    "title": "Trump's \"Watch What Happens\" Threat To Iran As US Bombs Kharg Island",
+    "summary": "The war began on February 28 when the US and Israel carried out coordinated airstrikes across Iran.",
+    "image": "https://c.ndtvimg.com/2026-03/94dffng_trump_625x300_12_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 14 Mar 2026 08:25:05 +0530",
+    "link": "https://www.ndtv.com/world-news/trumps-watch-what-happens-threat-to-iran-as-us-bombed-kharg-island-donald-trump-iran-war-iran-israel-us-war-trump-on-ending-iran-war-11213476#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand",
     "category": "india",
-    "title": "US-Israel Iran War LIVE Updates: All Crew Members Of US KC-135 Loss In Iraq Confirmed Dead",
+    "title": "US-Israel Iran War LIVE Updates: Iran Threatens US-Linked Oil Targets After Trump Says Kharg Bombed",
     "summary": "US-Israel-Iran War Live News: Smoke rises from fuel tankers in Tehran after strikes.",
     "image": "https://c.ndtvimg.com/2026-03/b5b262e8_tehran-fuel-tank-strike_625x300_13_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Sat, 14 Mar 2026 06:36:42 +0530",
+    "pubDate": "Sat, 14 Mar 2026 08:16:56 +0530",
     "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-5-us-air-force-planes-damaged-in-iranian-strike-on-saudi-arabia-reports-11213309#publisher=newsstand",
+    "id": "https://www.ndtv.com/offbeat/employee-requests-sick-leave-founder-rejects-it-and-orders-hr-to-dock-pay-my-sign-to-switch-company-11213436#publisher=newsstand",
     "category": "india",
-    "title": "5 US Air Force Planes Damaged In Iranian Strike On Saudi Arabia: Reports",
-    "summary": "The planes, which were hit on the Saudi base in recent days, were damaged but not fully destroyed.",
-    "image": "https://c.ndtvimg.com/2026-03/f98fspjk_us-kc135-jet_625x300_13_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Employee Requests Sick Leave, Founder Rejects It And Orders HR To Dock Pay: 'Sign To Switch Company?'",
+    "summary": "Noida startup founder rejects employee's sick leave and orders docking of pay.",
+    "image": "https://c.ndtvimg.com/2025-10/h9njfio_as_625x300_05_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Sat, 14 Mar 2026 06:34:48 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-5-us-air-force-planes-damaged-in-iranian-strike-on-saudi-arabia-reports-11213309#publisher=newsstand"
+    "pubDate": "Sat, 14 Mar 2026 07:56:09 +0530",
+    "link": "https://www.ndtv.com/offbeat/employee-requests-sick-leave-founder-rejects-it-and-orders-hr-to-dock-pay-my-sign-to-switch-company-11213436#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-ready-for-long-battle-as-israel-threatens-lebanese-infrastructure-hezbollah-11213274#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/adobe-to-pay-150-million-to-settle-termination-fees-subscription-lawsuit-11212941#publisher=newsstand",
     "category": "india",
-    "title": "Ready For Long Battle As Israel Threatens Lebanese Infrastructure: Hezbollah",
-    "summary": "Hezbollah also launched attacks against Israeli forces on Friday.",
-    "image": "https://c.ndtvimg.com/2026-03/27c6vqc4_tel-aviv_625x300_07_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Adobe To Pay $150 Million To Settle Termination Fees, Subscription Lawsuit",
+    "summary": "Adobe was accused of violating the Restore Online Shoppers' Confidence Act.",
+    "image": "https://c.ndtvimg.com/2026-03/v10hvto8_adobe_625x300_13_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Sat, 14 Mar 2026 05:53:26 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-ready-for-long-battle-as-israel-threatens-lebanese-infrastructure-hezbollah-11213274#publisher=newsstand"
+    "pubDate": "Sat, 14 Mar 2026 07:52:34 +0530",
+    "link": "https://www.ndtv.com/world-news/adobe-to-pay-150-million-to-settle-termination-fees-subscription-lawsuit-11212941#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-us-deploys-b-2-bombers-for-operation-against-iran-11213058#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/woman-3-sons-arrested-over-terror-bombing-near-us-embassy-in-oslo-norway-11213431#publisher=newsstand",
     "category": "india",
-    "title": "US Deploys B-2 Bombers For Operation Against Iran",
-    "summary": "CENTCOM said the bombers launched to deliver long-range firepower during the operation.",
-    "image": "https://c.ndtvimg.com/2026-03/fnti42d8_us-b2-bomber_625x300_14_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Woman, 3 Sons Arrested Over \"Terror Bombing\" Near US Embassy In Norway",
+    "summary": "The powerful early-morning blast damaged the entrance",
+    "image": "https://c.ndtvimg.com/2026-03/n4kc4fe4_us-embassy-oslo_625x300_14_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Sat, 14 Mar 2026 02:42:08 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-us-deploys-b-2-bombers-for-operation-against-iran-11213058#publisher=newsstand"
+    "pubDate": "Sat, 14 Mar 2026 07:52:07 +0530",
+    "link": "https://www.ndtv.com/world-news/woman-3-sons-arrested-over-terror-bombing-near-us-embassy-in-oslo-norway-11213431#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-sending-2-500-marines-to-middle-east-as-iran-war-intensifies-11212972#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/trump-aims-to-seal-trade-war-truce-during-his-meeting-with-xi-jinping-11213355#publisher=newsstand",
     "category": "india",
-    "title": "US Sending 2,500 Marines To Middle East As Iran War Intensifies",
-    "summary": "Iranian authorities say more than 1,300 people have been killed in Iran.",
-    "image": "https://c.ndtvimg.com/2026-03/5o8b4umo_tehran-strikes_650x400_05_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Trump Aims To Seal Trade War Truce During His Meeting With Xi Jinping",
+    "summary": "The stakes are high, with US this week announcing trade investigations into countries including China.",
+    "image": "https://c.ndtvimg.com/2025-11/cs14ppeo_trump-xi-afp_625x300_05_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Sat, 14 Mar 2026 01:52:17 +0530",
-    "link": "https://www.ndtv.com/world-news/us-sending-2-500-marines-to-middle-east-as-iran-war-intensifies-11212972#publisher=newsstand"
+    "pubDate": "Sat, 14 Mar 2026 07:45:20 +0530",
+    "link": "https://www.ndtv.com/world-news/trump-aims-to-seal-trade-war-truce-during-his-meeting-with-xi-jinping-11213355#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/delhi-news/delhi-coaching-deaths-delhi-court-asks-cbi-to-probe-mcd-corrupt-practices-11212949#publisher=newsstand",
-    "category": "india",
-    "title": "Delhi Coaching Deaths: Court Asks CBI To Probe MCD Corrupt Practices",
-    "summary": "Three IAS aspirants died on July 27 after a surge in rainwater flooded coaching centre basement.",
-    "image": "https://c.ndtvimg.com/2024-07/bapssd2_delhi-basement-flooding_625x300_29_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 14 Mar 2026 01:34:15 +0530",
-    "link": "https://www.ndtv.com/delhi-news/delhi-coaching-deaths-delhi-court-asks-cbi-to-probe-mcd-corrupt-practices-11212949#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/cvg3y9dpvxgo#0",
+    "category": "global",
+    "title": "Chancellor to offer support over rising heating oil costs",
+    "summary": "Rachel Reeves says the Treasury is also looking at \"different options\" to help households most vulnerable to soaring energy bills.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 14 Mar 2026 03:49:14 GMT",
+    "link": "https://www.bbc.com/news/articles/cvg3y9dpvxgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn9ewxq98e5o#0",
+    "category": "global",
+    "title": "Los Angeles asks for investigation into LA28 Olympics chief over Epstein ties",
+    "summary": "The LA city council voted unanimously for an investigation into LA28 chief Casey Wasserman over his Epstein ties.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 14 Mar 2026 02:28:50 GMT",
+    "link": "https://www.bbc.com/news/articles/cn9ewxq98e5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c89kjql73kqo#0",
+    "category": "global",
+    "title": "Doomed hereditary peers spy chance to stay in the Lords",
+    "summary": "The Tories are deciding which hereditary peers to keep after being offered 15 seats in a compromise deal.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 14 Mar 2026 01:41:13 GMT",
+    "link": "https://www.bbc.com/news/articles/c89kjql73kqo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
@@ -152,7 +202,7 @@
   {
     "id": "https://www.bbc.com/news/articles/c78xxyyqwe7o#0",
     "category": "global",
-    "title": "Xi's anti-corruption drive began 14 years ago. Why are the purges still going?",
+    "title": "'Tigers and flies': Millions of officials later, why is Xi's corruption purge still going?",
     "summary": "Critics say Xi's purges reveal a ruthless drive for absolute loyalty and total control of the military.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -200,16 +250,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-slip-as-investors-assess-data-iran-war-fallout/articleshow/129560549.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cr45v7ey91eo#0",
-    "category": "global",
-    "title": "Pink Floyd guitar sold for record-breaking $14.6m",
-    "summary": "The guitar was used by David Gilmour on some of Pink Floyd's best-known albums, including Dark Side of the Moon.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 13 Mar 2026 21:50:22 GMT",
-    "link": "https://www.bbc.com/news/articles/cr45v7ey91eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-new-low-at-92-46-against-the-us-dollar-down-0-7-this-week/articleshow/129559982.cms",
     "category": "finance",
     "title": "Rupee closes at new low at 92.46 against the US dollar, down 0.7% this week",
@@ -250,26 +290,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-consumer-staple-stocks-lose-sheen-as-lofty-valuations-meet-gloomy-earnings-outlook/articleshow/129559744.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-is-the-dollar-profiting-from-middle-east-war/articleshow/129558941.cms",
-    "category": "finance",
-    "title": "Why is the dollar profiting from Middle East war?",
-    "summary": "The surge in energy prices triggered by the conflict in the Middle East has significantly strengthened the dollar, paradoxically undermining US President Donald Trump's economic objectives.",
-    "image": "https://img.etimg.com/photo/msid-129558941,imgsize-36122.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Mar 2026 20:53:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-is-the-dollar-profiting-from-middle-east-war/articleshow/129558941.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/radhakishan-damani-sells-16-lakh-shares-in-tata-motors-pv-via-block-deal/articleshow/129558140.cms",
-    "category": "finance",
-    "title": "Radhakishan Damani sells 16 lakh shares in Tata Motors PV via block deal",
-    "summary": "Radhakishan Damani sold 16 lakh shares worth \u20b952 crore in Tata Motors Passenger Vehicles through a block deal with Derive Trading and Resorts Private Limited. The sale comes as the stock has plunged over 50% in a year amid weak earnings and a cyber i",
-    "image": "https://img.etimg.com/photo/msid-129558140,imgsize-44364.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Mar 2026 20:26:23 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/radhakishan-damani-sells-16-lakh-shares-in-tata-motors-pv-via-block-deal/articleshow/129558140.cms"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cd038pgrr1yo#0",
     "category": "global",
     "title": "Austrian glaciers disintegrating due to climate change, say scientists",
@@ -288,16 +308,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 13 Mar 2026 19:05:56 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1527899.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cd709jel19xo#0",
-    "category": "global",
-    "title": "Two more horses die on final day of Cheltenham",
-    "summary": "Envoi Allen and Saint Le Fort both died on Friday on the last day of Cheltenham Festival.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 13 Mar 2026 19:02:58 GMT",
-    "link": "https://www.bbc.com/news/articles/cd709jel19xo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527886.html",
@@ -328,16 +338,6 @@
     "source": "BBC",
     "pubDate": "Fri, 13 Mar 2026 17:12:12 GMT",
     "link": "https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx2lzlydg93o#0",
-    "category": "global",
-    "title": "Sheriff in Nancy Guthrie case believes they know kidnapper's motive",
-    "summary": "The 84-year-old mother of US TV presenter Savannah Guthrie was kidnapped 41 days ago.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 13 Mar 2026 16:38:09 GMT",
-    "link": "https://www.bbc.com/news/articles/cx2lzlydg93o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527892.html",
