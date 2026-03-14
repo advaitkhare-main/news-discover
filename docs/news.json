@@ -30,34 +30,124 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stocks-end-lower-posts-weekly-loss-as-war-on-iran-fuels-inflation-worries/articleshow/129568360.cms",
-    "category": "finance",
-    "title": "US Stocks | US stocks end lower, posts weekly loss as war on Iran fuels inflation worries",
-    "summary": "Indian markets mirrored global trends as US stocks closed lower. Volatile crude oil prices, influenced by the Iran conflict, impacted equities. Investors are closely watching global oil supply dynamics. Economic indicators showed mixed signals, with ",
-    "image": "https://img.etimg.com/photo/msid-129568360,imgsize-162842.cms",
-    "source": "ET",
-    "pubDate": "Sat, 14 Mar 2026 09:21:06 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stocks-end-lower-posts-weekly-loss-as-war-on-iran-fuels-inflation-worries/articleshow/129568360.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/nifty-down-2-deepak-guptas-sector-by-sector-playbook-for-what-to-buy-hold-and-trim/articleshow/129552421.cms",
-    "category": "finance",
-    "title": "Nifty down 2%: Deepak Gupta's sector-by-sector playbook for what to buy, hold, and trim",
-    "summary": "Market expert Deepak Gupta urges investors to stay invested during the current market downturn. He advises continuing Systematic Investment Plans and averaging costs. Investors should consider rotating within equities from high-beta to low-beta stock",
-    "image": "https://img.etimg.com/photo/msid-129552421,imgsize-25972.cms",
-    "source": "ET",
-    "pubDate": "Sat, 14 Mar 2026 09:00:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/nifty-down-2-deepak-guptas-sector-by-sector-playbook-for-what-to-buy-hold-and-trim/articleshow/129552421.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-us-attacks-irans-kharg-island-says-donald-trump-11213221#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/middle-east-war-why-kharg-island-irans-crown-jewel-is-key-in-us-israel-war-11213688#publisher=newsstand",
     "category": "india",
-    "title": "\"Totally Obliterated\": Trump Says US Bombed Iran's \"Crown Jewel\" Kharg Island",
-    "summary": "Kharg Island handles roughly 90 percent of Iran's crude exports.",
-    "image": "https://c.ndtvimg.com/2026-03/6qo12pck_kharg-island-iran-_625x300_14_March_26.jpeg",
+    "title": "Why Kharg Island, Iran's \"Crown Jewel\", Is Key In Middle East War",
+    "summary": "Kharg underwent key developments during Iran's oil expansion in the 1960s and 1970s.",
+    "image": "https://c.ndtvimg.com/2026-03/2me1n32s_kharg_625x300_14_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Sat, 14 Mar 2026 08:52:14 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-us-attacks-irans-kharg-island-says-donald-trump-11213221#publisher=newsstand"
+    "pubDate": "Sat, 14 Mar 2026 10:08:29 +0530",
+    "link": "https://www.ndtv.com/world-news/middle-east-war-why-kharg-island-irans-crown-jewel-is-key-in-us-israel-war-11213688#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/feature/banksys-true-identity-revealed-all-about-the-mysterious-artist-known-for-his-provocative-artworks-11213715#publisher=newsstand",
+    "category": "india",
+    "title": "Banksy's True Identity Revealed? All About The Mysterious Artist Known For His Provocative Artwork",
+    "summary": "Banksy's identity revealed as Robin Gunningham based on forensic evidence and reports.",
+    "image": "https://c.ndtvimg.com/2025-09/c9nclmkk_banksy_625x300_09_September_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 14 Mar 2026 10:08:19 +0530",
+    "link": "https://www.ndtv.com/feature/banksys-true-identity-revealed-all-about-the-mysterious-artist-known-for-his-provocative-artworks-11213715#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/feature/banksys-true-identity-revealed-all-about-the-mysterious-artist-known-for-his-provocative-artworks-11213715#publisher=newsstand",
+    "category": "india",
+    "title": "Banksy's True Identity Revealed? All About The Mysterious Artist Known For His Provocative Artwork",
+    "summary": "Banksy's identity revealed as Robin Gunningham based on forensic evidence and reports.",
+    "image": "https://c.ndtvimg.com/2025-09/c9nclmkk_banksy_625x300_09_September_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 14 Mar 2026 10:08:19 +0530",
+    "link": "https://www.ndtv.com/feature/banksys-true-identity-revealed-all-about-the-mysterious-artist-known-for-his-provocative-artworks-11213715#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/vedanta-raises-2575-cr-to-refinance-existing-debt/articleshow/129568751.cms",
+    "category": "finance",
+    "title": "Vedanta raises Rs 2,575 crore via 3-year bond to refinance existing debt",
+    "summary": "Vedanta Limited has made headlines by securing \u20b92,575 crore via a three-year bond sale, locking in a coupon of roughly 8.95%. This funding initiative is primarily aimed at restructuring their existing liabilities and addressing imminent debt maturiti",
+    "image": "https://img.etimg.com/photo/msid-129568751,imgsize-25120.cms",
+    "source": "ET",
+    "pubDate": "Sat, 14 Mar 2026 10:06:07 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/vedanta-raises-2575-cr-to-refinance-existing-debt/articleshow/129568751.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-touches-a-record-low-as-west-asia-crisis-raises-oil-risk/articleshow/129568672.cms",
+    "category": "finance",
+    "title": "Rupee touches a record low as West Asia crisis raises oil risk",
+    "summary": "In a troubling development, the Indian Rupee has plummeted to a record low against the US Dollar. The spike in crude oil prices, coupled with rising geopolitical tensions in West Asia, is severely affecting the currency's strength. With foreign capit",
+    "image": "https://img.etimg.com/photo/msid-129568672,imgsize-82894.cms",
+    "source": "ET",
+    "pubDate": "Sat, 14 Mar 2026 10:03:39 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-touches-a-record-low-as-west-asia-crisis-raises-oil-risk/articleshow/129568672.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/summer-flights-likely-to-get-expensive-as-jet-fuel-prices-rise-amid-iran-war-11213684#publisher=newsstand",
+    "category": "india",
+    "title": "Summer Flights Likely To Get Expensive As Jet Fuel Prices Rise Amid Iran War",
+    "summary": "The impact may be felt most on long-haul international routes (File)",
+    "image": "https://c.ndtvimg.com/2026-03/vmel9a3o_flight-tickets_625x300_14_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 14 Mar 2026 09:56:03 +0530",
+    "link": "https://www.ndtv.com/world-news/summer-flights-likely-to-get-expensive-as-jet-fuel-prices-rise-amid-iran-war-11213684#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stock-markets-and-geopolitical-tensions-a-3-stage-analysis-of-last-7-crashes/articleshow/129568665.cms",
+    "category": "finance",
+    "title": "Stock markets and geopolitical tensions: A 3-stage analysis of last 7 crashes",
+    "summary": "WhiteOak Capital Mutual Fund highlights that geopolitical crises, including the Iran\u2013Israel war, mainly trigger short-term panic. Historical data shows markets recover quickly, with fundamentals like corporate earnings and valuations driving long-ter",
+    "image": "https://img.etimg.com/photo/msid-129568665,imgsize-120543.cms",
+    "source": "ET",
+    "pubDate": "Sat, 14 Mar 2026 09:55:58 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-markets-and-geopolitical-tensions-a-3-stage-analysis-of-last-7-crashes/articleshow/129568665.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/muthoot-fincorp-eyes-rs-600-crore-via-issuance-of-retail-bonds/articleshow/129568561.cms",
+    "category": "finance",
+    "title": "Muthoot FinCorp eyes Rs 600 crore via issuance of retail bonds",
+    "summary": "Get ready for an exciting investment opportunity! Muthoot FinCorp is rolling out a bond issue, aiming to gather as much as \u20b9600 crore to bolster business expansion and fulfill corporate goals. With appealing yields and flexible tenure options, these ",
+    "image": "https://img.etimg.com/photo/msid-129568561,imgsize-12328.cms",
+    "source": "ET",
+    "pubDate": "Sat, 14 Mar 2026 09:50:15 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/muthoot-fincorp-eyes-rs-600-crore-via-issuance-of-retail-bonds/articleshow/129568561.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/forex-reserves-decline-by-12-billion-as-volatility-hits-asset-valuations/articleshow/129568549.cms",
+    "category": "finance",
+    "title": "Forex reserves decline by $12 billion as volatility hits asset valuations",
+    "summary": "India's foreign exchange reserves took a notable hit recently, largely due to fluctuations in the currency market and changing valuations. The Indian rupee faced increased instability against the US dollar, worsened by escalated geopolitical tensions",
+    "image": "https://img.etimg.com/photo/msid-129568549,imgsize-74240.cms",
+    "source": "ET",
+    "pubDate": "Sat, 14 Mar 2026 09:46:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/forex-reserves-decline-by-12-billion-as-volatility-hits-asset-valuations/articleshow/129568549.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/narcl-to-buy-kurukshetra-e-way-debt/articleshow/129568526.cms",
+    "category": "finance",
+    "title": "NARCL to buy Kurukshetra e-way debt",
+    "summary": "In a significant move towards debt resolution, the government-supported NARCL is set to take over KEPL's outstanding \u20b91,500 crore debt for just \u20b9345 crore. Furthermore, it is expected to acquire BLA Power's \u20b9738 crore debt for a mere \u20b9285 crore.",
+    "image": "https://img.etimg.com/photo/msid-129568526,imgsize-134880.cms",
+    "source": "ET",
+    "pubDate": "Sat, 14 Mar 2026 09:44:26 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/narcl-to-buy-kurukshetra-e-way-debt/articleshow/129568526.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/rbi-injects-50000-cr-liquidity-through-omos-to-meet-tax-demand/articleshow/129568444.cms",
+    "category": "finance",
+    "title": "RBI injects Rs 50,000 crore liquidity through OMOs to meet tax demand",
+    "summary": "In a strategic maneuver to bolster market liquidity, the Reserve Bank of India has infused a significant fifty thousand crore rupees into the banking sector. As businesses prepare for advance tax and GST payments later this month, this liquidity boos",
+    "image": "https://img.etimg.com/photo/msid-129568444,imgsize-20002.cms",
+    "source": "ET",
+    "pubDate": "Sat, 14 Mar 2026 09:39:20 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-injects-50000-cr-liquidity-through-omos-to-meet-tax-demand/articleshow/129568444.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-dubai-hit-again-in-less-than-24-hours-us-embassy-in-baghdad-targeted-11213610#publisher=newsstand",
+    "category": "india",
+    "title": "Dubai Hit Again, US Embassy In Baghdad Targeted As War Enters 15th Day",
+    "summary": "Smoke rises above Dubai on March 13, 2026.",
+    "image": "https://c.ndtvimg.com/2026-03/s1fqsots_smoke-rises-above-dubai-_625x300_14_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 14 Mar 2026 09:35:01 +0530",
+    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-dubai-hit-again-in-less-than-24-hours-us-embassy-in-baghdad-targeted-11213610#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/education/international-mathematics-day-2026-theme-classroom-activities-significance-11213517#publisher=newsstand",
@@ -66,68 +156,38 @@
     "summary": "Mathematics Day Today: students used Mathematics to design posters that shared ideas",
     "image": "https://c.ndtvimg.com/education/1200-1.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Sat, 14 Mar 2026 08:49:19 +0530",
+    "pubDate": "Sat, 14 Mar 2026 09:28:13 +0530",
     "link": "https://www.ndtv.com/education/international-mathematics-day-2026-theme-classroom-activities-significance-11213517#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/trumps-watch-what-happens-threat-to-iran-as-us-bombed-kharg-island-donald-trump-iran-war-iran-israel-us-war-trump-on-ending-iran-war-11213476#publisher=newsstand",
-    "category": "india",
-    "title": "Trump's \"Watch What Happens\" Threat To Iran As US Bombs Kharg Island",
-    "summary": "The war began on February 28 when the US and Israel carried out coordinated airstrikes across Iran.",
-    "image": "https://c.ndtvimg.com/2026-03/94dffng_trump_625x300_12_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 14 Mar 2026 08:25:05 +0530",
-    "link": "https://www.ndtv.com/world-news/trumps-watch-what-happens-threat-to-iran-as-us-bombed-kharg-island-donald-trump-iran-war-iran-israel-us-war-trump-on-ending-iran-war-11213476#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-investors-await-fed-rate-outlook-as-iran-war-keeps-markets-on-edge/articleshow/129568374.cms",
+    "category": "finance",
+    "title": "Wall Street Week Ahead: Investors await Fed rate outlook as Iran war keeps markets on edge",
+    "summary": "Global markets are keenly watching the US Federal Reserve this week for insights into interest rate cut timelines, as the Middle East conflict fuels oil price surges and economic uncertainty. Policymakers will assess the impact of the energy shock on",
+    "image": "https://img.etimg.com/photo/msid-129568374,imgsize-80406.cms",
+    "source": "ET",
+    "pubDate": "Sat, 14 Mar 2026 09:23:35 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-investors-await-fed-rate-outlook-as-iran-war-keeps-markets-on-edge/articleshow/129568374.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand",
+    "id": "https://www.ndtv.com/feature/google-marks-pi-day-2026-with-special-doodle-highlighting-archimedes-work-11213595#publisher=newsstand",
     "category": "india",
-    "title": "US-Israel Iran War LIVE Updates: Iran Threatens US-Linked Oil Targets After Trump Says Kharg Bombed",
-    "summary": "US-Israel-Iran War Live News: Smoke rises from fuel tankers in Tehran after strikes.",
-    "image": "https://c.ndtvimg.com/2026-03/b5b262e8_tehran-fuel-tank-strike_625x300_13_March_26.jpeg",
+    "title": "Google Marks Pi Day 2026 With Special Doodle Highlighting Archimedes' Work",
+    "summary": "Google's 2026 Doodle celebrates Pi Day, highlighting the popular mathematical constant.",
+    "image": "https://c.ndtvimg.com/2026-03/ko7gh8bs_as_625x300_14_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Sat, 14 Mar 2026 08:16:56 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
+    "pubDate": "Sat, 14 Mar 2026 09:18:36 +0530",
+    "link": "https://www.ndtv.com/feature/google-marks-pi-day-2026-with-special-doodle-highlighting-archimedes-work-11213595#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/employee-requests-sick-leave-founder-rejects-it-and-orders-hr-to-dock-pay-my-sign-to-switch-company-11213436#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/11-indians-stage-fake-robbery-in-us-for-u-visa-arrested-11213539#publisher=newsstand",
     "category": "india",
-    "title": "Employee Requests Sick Leave, Founder Rejects It And Orders HR To Dock Pay: 'Sign To Switch Company?'",
-    "summary": "Noida startup founder rejects employee's sick leave and orders docking of pay.",
-    "image": "https://c.ndtvimg.com/2025-10/h9njfio_as_625x300_05_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "11 Indians Stage Fake Robbery To Get America's 'U Visa', Arrested",
+    "summary": "All the accused were presented before the court.",
+    "image": "https://c.ndtvimg.com/2026-03/sdrgqusk_fbi-generic_625x300_14_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Sat, 14 Mar 2026 07:56:09 +0530",
-    "link": "https://www.ndtv.com/offbeat/employee-requests-sick-leave-founder-rejects-it-and-orders-hr-to-dock-pay-my-sign-to-switch-company-11213436#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/adobe-to-pay-150-million-to-settle-termination-fees-subscription-lawsuit-11212941#publisher=newsstand",
-    "category": "india",
-    "title": "Adobe To Pay $150 Million To Settle Termination Fees, Subscription Lawsuit",
-    "summary": "Adobe was accused of violating the Restore Online Shoppers' Confidence Act.",
-    "image": "https://c.ndtvimg.com/2026-03/v10hvto8_adobe_625x300_13_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 14 Mar 2026 07:52:34 +0530",
-    "link": "https://www.ndtv.com/world-news/adobe-to-pay-150-million-to-settle-termination-fees-subscription-lawsuit-11212941#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/woman-3-sons-arrested-over-terror-bombing-near-us-embassy-in-oslo-norway-11213431#publisher=newsstand",
-    "category": "india",
-    "title": "Woman, 3 Sons Arrested Over \"Terror Bombing\" Near US Embassy In Norway",
-    "summary": "The powerful early-morning blast damaged the entrance",
-    "image": "https://c.ndtvimg.com/2026-03/n4kc4fe4_us-embassy-oslo_625x300_14_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Sat, 14 Mar 2026 07:52:07 +0530",
-    "link": "https://www.ndtv.com/world-news/woman-3-sons-arrested-over-terror-bombing-near-us-embassy-in-oslo-norway-11213431#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/trump-aims-to-seal-trade-war-truce-during-his-meeting-with-xi-jinping-11213355#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Aims To Seal Trade War Truce During His Meeting With Xi Jinping",
-    "summary": "The stakes are high, with US this week announcing trade investigations into countries including China.",
-    "image": "https://c.ndtvimg.com/2025-11/cs14ppeo_trump-xi-afp_625x300_05_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 14 Mar 2026 07:45:20 +0530",
-    "link": "https://www.ndtv.com/world-news/trump-aims-to-seal-trade-war-truce-during-his-meeting-with-xi-jinping-11213355#publisher=newsstand"
+    "pubDate": "Sat, 14 Mar 2026 09:17:53 +0530",
+    "link": "https://www.ndtv.com/world-news/11-indians-stage-fake-robbery-in-us-for-u-visa-arrested-11213539#publisher=newsstand"
   },
   {
     "id": "https://www.bbc.com/news/articles/cvg3y9dpvxgo#0",
@@ -140,14 +200,14 @@
     "link": "https://www.bbc.com/news/articles/cvg3y9dpvxgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cn9ewxq98e5o#0",
+    "id": "https://www.bbc.com/news/articles/c5yjm9zdn8no#0",
     "category": "global",
-    "title": "Los Angeles asks for investigation into LA28 Olympics chief over Epstein ties",
-    "summary": "The LA city council voted unanimously for an investigation into LA28 chief Casey Wasserman over his Epstein ties.",
+    "title": "New Archbishop of Canterbury to walk 87 mile pilgrimage route ahead of installation",
+    "summary": "Dame Sarah Mullally's six-day walk begins at Southwark Cathedral and travels along the Becket Way to Canterbury Cathedral.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sat, 14 Mar 2026 02:28:50 GMT",
-    "link": "https://www.bbc.com/news/articles/cn9ewxq98e5o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Sat, 14 Mar 2026 01:46:42 GMT",
+    "link": "https://www.bbc.com/news/articles/c5yjm9zdn8no?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c89kjql73kqo#0",
@@ -210,16 +270,6 @@
     "link": "https://www.bbc.com/news/articles/c78xxyyqwe7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/india-reduces-minimum-public-share-float-paving-way-for-nse-jio-listings/articleshow/129561702.cms",
-    "category": "finance",
-    "title": "India reduces minimum public share float, paving way for NSE, Jio listings",
-    "summary": "The regulator last year proposed to halve the minimum amount of \u200cshares large \u2060companies \u2060had to offer in their IPOs, allowing those valued at above \u200bRs 5 lakh crore ($57 billion) after listing to sell just 2.5% of their \u200bpaid-up capital. This has no",
-    "image": "https://img.etimg.com/photo/msid-129561702,imgsize-63286.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Mar 2026 23:04:29 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/india-reduces-minimum-public-share-float-paving-way-for-nse-jio-listings/articleshow/129561702.cms"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c626mdvn6d5o#0",
     "category": "global",
     "title": "'We're not profiteering on fuel. But my staff still face abuse'",
@@ -238,56 +288,6 @@
     "source": "BBC",
     "pubDate": "Fri, 13 Mar 2026 22:17:38 GMT",
     "link": "https://www.bbc.com/news/articles/cy57zv3l0nvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-slip-as-investors-assess-data-iran-war-fallout/articleshow/129560549.cms",
-    "category": "finance",
-    "title": "US stocks today: S&amp;P 500, Nasdaq slip as investors assess data, Iran war fallout",
-    "summary": "US stocks experienced a downturn on Friday, with major indices set to end the week lower amid mixed economic data and escalating Middle East conflict. Investors are now anticipating fewer Federal Reserve rate cuts this year, as rising energy costs an",
-    "image": "https://img.etimg.com/photo/msid-129560549,imgsize-166412.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Mar 2026 22:03:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-slip-as-investors-assess-data-iran-war-fallout/articleshow/129560549.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-new-low-at-92-46-against-the-us-dollar-down-0-7-this-week/articleshow/129559982.cms",
-    "category": "finance",
-    "title": "Rupee closes at new low at 92.46 against the US dollar, down 0.7% this week",
-    "summary": "The rupee hit a fresh closing low of 92.46 against the dollar on Friday, driven by concerns over rising crude oil prices and geopolitical worries in the Middle East. Sustained foreign fund outflows and importer demand further pressured the currency, ",
-    "image": "https://img.etimg.com/photo/msid-129559982,imgsize-98244.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Mar 2026 21:33:55 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-new-low-at-92-46-against-the-us-dollar-down-0-7-this-week/articleshow/129559982.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/india-to-scrap-bids-for-majority-stake-in-idbi-bank-report/articleshow/129559857.cms",
-    "category": "finance",
-    "title": "India to scrap bids for majority stake in IDBI Bank: Report",
-    "summary": "India is set to \u200bshelve the \u200bbids it received for a majority stake \u200bin its state-owned IDBI Bank , as the amounts were below the minimum price sought, Bloomberg \u200cNews reported \u2060on \u2060Friday, citing people with knowledge of the matter.",
-    "image": "https://img.etimg.com/photo/msid-129559857,imgsize-35248.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Mar 2026 21:30:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-to-scrap-bids-for-majority-stake-in-idbi-bank-report/articleshow/129559857.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-injects-rs-50000-crore-via-omo-liquidity-move-comes-ahead-of-advance-tax-gst-outflows/articleshow/129559895.cms",
-    "category": "finance",
-    "title": "RBI injects Rs 50,000 crore via OMO; liquidity move comes ahead of advance tax, GST outflows",
-    "summary": "The Reserve Bank of India injected Rs 50,000 crore into the banking system via an open market operation to manage liquidity ahead of tax payments. This move supported India's benchmark 10-year bond yield, which remained flat. The RBI has infused a to",
-    "image": "https://img.etimg.com/photo/msid-129559895,imgsize-96408.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Mar 2026 21:30:42 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-injects-rs-50000-crore-via-omo-liquidity-move-comes-ahead-of-advance-tax-gst-outflows/articleshow/129559895.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-consumer-staple-stocks-lose-sheen-as-lofty-valuations-meet-gloomy-earnings-outlook/articleshow/129559744.cms",
-    "category": "finance",
-    "title": "US Stocks: US consumer staple stocks lose sheen as lofty valuations meet gloomy earnings outlook",
-    "summary": "After a strong rally \u200bthis year, U.S. consumer staples stocks are falling out \u200bof favor, with investors starting to question the high valuation as earnings prospects dim, analysts said.",
-    "image": "https://img.etimg.com/photo/msid-129559744,imgsize-149068.cms",
-    "source": "ET",
-    "pubDate": "Fri, 13 Mar 2026 21:28:36 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-consumer-staple-stocks-lose-sheen-as-lofty-valuations-meet-gloomy-earnings-outlook/articleshow/129559744.cms"
   },
   {
     "id": "https://www.bbc.com/news/articles/cd038pgrr1yo#0",
