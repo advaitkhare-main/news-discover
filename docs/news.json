@@ -20,16 +20,6 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://www.bbc.com/news/articles/ckgyyqkn0yvo#1",
-    "category": "global",
-    "title": "Nominees list in full",
-    "summary": "This year's list of Oscar nominees includes One Battle After Another, Sinners and Hamnet.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 22 Jan 2026 14:08:59 GMT",
-    "link": "https://www.bbc.com/news/articles/ckgyyqkn0yvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
     "category": "scitech",
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -80,19 +70,39 @@
     "link": "https://www.ndtv.com/india-news/2026-assembly-elections-see-sharp-rise-in-booths-changing-voter-landscape-11219688#publisher=newsstand"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cd9g331v315o#1",
+    "category": "global",
+    "title": "Oscars red carpet: Stars and fashion in pictures",
+    "summary": "Hollywood's biggest stars turn on the style as they walk the red carpet for the glittering ceremony.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 15 Mar 2026 21:17:47 GMT",
+    "link": "https://www.bbc.com/news/articles/cd9g331v315o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cdxg35dv7npo#0",
     "category": "global",
     "title": "Two die in university meningitis outbreak",
     "summary": "Eleven people in the Canterbury area are also seriously ill in hospital, the BBC understands.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sun, 15 Mar 2026 20:09:57 GMT",
+    "pubDate": "Sun, 15 Mar 2026 20:51:02 GMT",
     "link": "https://www.bbc.com/news/articles/cdxg35dv7npo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cge8l8z4qj2o#0",
+    "category": "global",
+    "title": "Mother charged with murder of 18-day-old baby",
+    "summary": "Zahira Byjaouane, 43, has been charged after her baby died falling from a height in central London.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 15 Mar 2026 20:41:58 GMT",
+    "link": "https://www.bbc.com/news/articles/cge8l8z4qj2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cj0dlvl086eo#0",
     "category": "global",
-    "title": "UK looking at 'any options' to secure key oil route through Strait of Hormuz",
+    "title": "Starmer speaks to Trump about importance of reopening Strait of Hormuz",
     "summary": "The leaders discussed the need to \"end the disruption to global shipping\", No 10 says.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -118,16 +128,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 15 Mar 2026 18:50:35 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528079.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c98gz372683o#0",
-    "category": "global",
-    "title": "Iran captain latest footballer to drop asylum bid, Iranian state media says",
-    "summary": "Five of the seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 15 Mar 2026 18:46:24 GMT",
-    "link": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528044.html",
