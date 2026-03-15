@@ -80,14 +80,24 @@
     "link": "https://www.ndtv.com/india-news/2026-assembly-elections-see-sharp-rise-in-booths-changing-voter-landscape-11219688#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/win-win-for-ladakh-sonam-wangchuks-wife-on-revocation-of-nsa-11219675#publisher=newsstand",
-    "category": "india",
-    "title": "\"Win-Win\" For Ladakh: Sonam Wangchuk's Wife On Revocation Of NSA",
-    "summary": "Image Credit: Special Arrangement",
-    "image": "https://c.ndtvimg.com/2026-03/ns9p0k04_wangchuk_625x300_15_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 15 Mar 2026 23:21:08 +0530",
-    "link": "https://www.ndtv.com/india-news/win-win-for-ladakh-sonam-wangchuks-wife-on-revocation-of-nsa-11219675#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/cdxg35dv7npo#0",
+    "category": "global",
+    "title": "Two die in university meningitis outbreak",
+    "summary": "Eleven people in the Canterbury area are also seriously ill in hospital, the BBC understands.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 15 Mar 2026 20:09:57 GMT",
+    "link": "https://www.bbc.com/news/articles/cdxg35dv7npo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cj0dlvl086eo#0",
+    "category": "global",
+    "title": "UK looking at 'any options' to secure key oil route through Strait of Hormuz",
+    "summary": "The leaders discussed the need to \"end the disruption to global shipping\", No 10 says.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 15 Mar 2026 20:08:33 GMT",
+    "link": "https://www.bbc.com/news/articles/cj0dlvl086eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c93jz4gykwko#0",
@@ -180,16 +190,6 @@
     "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/nris-buy-dlf-properties-worth-rs-5250-cr-in-apr-dec-contribute-32-to-total-sales/articleshow/129588350.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cj0dlvl086eo#0",
-    "category": "global",
-    "title": "UK looking at 'any options' to secure key oil route through Strait of Hormuz",
-    "summary": "The energy secretary also hinted at the possibility of sending minesweeping drones to the region.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 15 Mar 2026 16:13:37 GMT",
-    "link": "https://www.bbc.com/news/articles/cj0dlvl086eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1528070.html",
     "category": "sports",
     "title": "Samson on World Cup win: 'India is going to do this more and more often'",
@@ -248,16 +248,6 @@
     "source": "ET",
     "pubDate": "Sun, 15 Mar 2026 13:29:51 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/8-nifty-500-stocks-with-up-to-75-upside-potential-do-you-own-any/slideshow/129586714.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cly0dpl0438o#0",
-    "category": "global",
-    "title": "Police share details of tattoos as they trace man found dead in bin",
-    "summary": "Police issue a description of his distinctive tattoos as their efforts to identify him continue.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 15 Mar 2026 13:02:51 GMT",
-    "link": "https://www.bbc.com/news/articles/cly0dpl0438o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cgjz9zx3xl5o#0",
@@ -326,8 +316,18 @@
     "summary": "Rajya Sabha Election: There is deadlock in Bihar, Odisha, and Haryana.",
     "image": "https://c.ndtvimg.com/2026-02/88mldl2c_rajya-sabha_625x300_18_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 00:20:32 +0530",
+    "pubDate": "Mon, 16 Mar 2026 00:59:28 +0530",
     "link": "https://www.ndtv.com/india-news/26-elected-to-rajya-sabha-unopposed-big-fight-in-three-states-11219790#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/arvind-kejriwal-in-supreme-court-challenges-decision-in-excise-policy-case-11219831#publisher=newsstand",
+    "category": "india",
+    "title": "Arvind Kejriwal In Supreme Court, Challenges Decision In Excise Policy Case",
+    "summary": "Arvind Kejriwal has also challenged the order by the Chief Justice of the High Court.",
+    "image": "https://c.ndtvimg.com/2026-03/9lrogv9_aam-aadmi-party-arvind-kejriwal_625x300_01_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 16 Mar 2026 00:48:00 +0530",
+    "link": "https://www.ndtv.com/india-news/arvind-kejriwal-in-supreme-court-challenges-decision-in-excise-policy-case-11219831#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/iran-arrests-dozens-of-people-accused-of-spying-for-israel-11218481#publisher=newsstand",
