@@ -30,6 +30,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/nris-buy-dlf-properties-worth-rs-5250-cr-in-apr-dec-contribute-32-to-total-sales/articleshow/129588350.cms",
+    "category": "finance",
+    "title": "NRIs buy DLF properties worth Rs 5,250 cr in Apr-Dec, contribute 32% to total sales",
+    "summary": "Realty major DLF has sold properties, mainly homes, worth Rs 5,250 crore to non-resident Indians (NRIs) in the April-December period of this fiscal, contributing one-third to the company's total sales bookings.",
+    "image": "https://img.etimg.com/photo/msid-129588350,imgsize-50856.cms",
+    "source": "ET",
+    "pubDate": "Sun, 15 Mar 2026 16:19:47 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/nris-buy-dlf-properties-worth-rs-5250-cr-in-apr-dec-contribute-32-to-total-sales/articleshow/129588350.cms"
+  },
+  {
     "id": "https://www.ndtv.com/offbeat/instead-of-divorce-thai-woman-tries-to-lease-cheating-husband-to-mistress-for-rs-85-000-a-month-11218037#publisher=newsstand",
     "category": "india",
     "title": "Instead Of Divorce, Thai Woman Tries To Lease Cheating Husband To Mistress For Rs 85,000 A Month",
@@ -180,14 +190,34 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-ntpc-green-tata-power-for-up-to-21-near-term-gains-whats-the-trigger/slideshow/129585578.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/basmati-rice-exporter-amir-chand-to-launch-rs-440-cr-ipo-on-mar-24/articleshow/129585280.cms",
-    "category": "finance",
-    "title": "Basmati rice exporter Amir Chand to launch Rs 440-cr IPO on Mar 24",
-    "summary": "Basmati rice exporter Amir Chand Jagdish Kumar(Exports) Ltd is set to launch its Rs 440 crore initial public offering (IPO) on March 24.",
-    "image": "https://img.etimg.com/photo/msid-129585280,imgsize-46498.cms",
-    "source": "ET",
-    "pubDate": "Sun, 15 Mar 2026 11:13:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/basmati-rice-exporter-amir-chand-to-launch-rs-440-cr-ipo-on-mar-24/articleshow/129585280.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1528044.html",
+    "category": "sports",
+    "title": "Pakistan bowl, make three changes for series decider",
+    "summary": "Bangladesh went with the same XI despite losing their previous game",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414661.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 15 Mar 2026 11:19:08 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528044.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1528050.html",
+    "category": "sports",
+    "title": "Former Pakistan captain Sarfaraz Ahmed retires from international cricket",
+    "summary": "He finishes with 54 Tests, 117 ODIs and 61 T20Is and as the only Pakistan captain since Imran Khan to have lifted a 50-over ICC trophy",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/352100/352104.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 15 Mar 2026 11:11:14 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528050.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cgjz9zx3xl5o#0",
+    "category": "global",
+    "title": "William shares unseen photo of Princess Diana for Mother's Day",
+    "summary": "The Prince of Wales captioned the previously unseen photo: \"remembering my mother, today and every day\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 15 Mar 2026 11:00:27 GMT",
+    "link": "https://www.bbc.com/news/articles/cgjz9zx3xl5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cy0dz1k0rr4o#0",
@@ -210,19 +240,9 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1528034.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528044.html",
-    "category": "sports",
-    "title": "Pakistan bowl, make three changes for series decider",
-    "summary": "Bangladesh went with the same XI despite losing the loss in their previous game",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414661.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 15 Mar 2026 09:07:53 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528044.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/sport/formula1/articles/czx4l44d53eo#0",
     "category": "global",
-    "title": "Antonelli wins Chinese GP as McLarens fail to start",
+    "title": "Kimi Antonelli wins his first Formula 1 race at Chinese Grand Prix",
     "summary": "Kimi Antonelli takes his first Formula 1 victory in leading team-mate George Russell to a Mercedes one-two in the Chinese Grand Prix.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -240,7 +260,7 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1527995.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cly0d510yz3o#0",
+    "id": "https://www.bbc.com/news/articles/cly0d510yz3o#1",
     "category": "global",
     "title": "US names six crew killed in refuelling plane crash in Iraq",
     "summary": "The aircraft was on a combat mission as part of ongoing US operations against Iran when it crashed in western Iraq on Thursday.",
@@ -270,16 +290,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1528004.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1527916.html",
-    "category": "sports",
-    "title": "Not 114, the other one - Bangladesh, Pakistan hope batters come good in decider",
-    "summary": "Both the ODIs so far have been one-sided affairs, and an even contest to decide the series will work best for the fans... but the weather might have a say again",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414645.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 15 Mar 2026 07:57:10 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1527916.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1527994.html",
     "category": "sports",
     "title": "Kellaway leads Victoria's graft as SA qualify for final on bonus points",
@@ -300,14 +310,14 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1528020.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cjwz8051y0lo#1",
+    "id": "https://www.bbc.com/news/articles/c5yvpl9jlpeo#0",
     "category": "global",
-    "title": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
-    "summary": "Predictions markets have hosted millions of dollars of bets related to the war in Iran.",
+    "title": "An eccentric new friend entered her life. Then things took a strange, expensive turn",
+    "summary": "What began as a dog-sitting favour ended with boutique owner Bridget Hutchcroft being owed more than \u00a31.6m.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sun, 15 Mar 2026 00:01:31 GMT",
-    "link": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Sun, 15 Mar 2026 00:42:18 GMT",
+    "link": "https://www.bbc.com/news/articles/c5yvpl9jlpeo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/clyv4e2ldpjo#0",
@@ -328,16 +338,6 @@
     "source": "BBC",
     "pubDate": "Sat, 14 Mar 2026 22:55:40 GMT",
     "link": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cd6zdg737gpo#0",
-    "category": "global",
-    "title": "London's Burning actor John Alford dies in prison",
-    "summary": "The 54-year-old former star of Grange Hill and London's Burning was found dead at HMP Bure in Norfolk.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 14 Mar 2026 22:44:26 GMT",
-    "link": "https://www.bbc.com/news/articles/cd6zdg737gpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c98gz372683o#1",
