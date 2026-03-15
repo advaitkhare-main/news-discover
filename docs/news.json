@@ -30,6 +30,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/oil-prices-to-hit-150-how-indian-stock-markets-may-react-as-iran-war-rages-on/articleshow/129587020.cms",
+    "category": "finance",
+    "title": "Oil prices to hit $150? How Indian stock markets may react as Iran war rages on",
+    "summary": "Oil prices have surged past $100 per barrel amid escalating Iran\u2013Israel tensions and fears of a prolonged closure of the Strait of Hormuz, a key global energy chokepoint. Analysts warn crude could climb to $150 if disruptions persist, raising inflati",
+    "image": "https://img.etimg.com/photo/msid-129587020,imgsize-107634.cms",
+    "source": "ET",
+    "pubDate": "Sun, 15 Mar 2026 14:11:58 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-prices-to-hit-150-how-indian-stock-markets-may-react-as-iran-war-rages-on/articleshow/129587020.cms"
+  },
+  {
     "id": "https://www.ndtv.com/bangalore-news/bengaluru-man-sends-obscene-texts-to-bank-staffer-after-missed-call-request-11217775#publisher=newsstand",
     "category": "india",
     "title": "Bengaluru Man Sends Obscene Texts To Bank Staffer After Missed Call Request",
@@ -180,23 +190,23 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/m-cap-of-top-10-firms-tumbles-by-rs-4-48-lakh-cr-sbi-hdfc-bank-top-laggards/articleshow/129585086.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/15-penny-stocks-crash-up-to-55-in-just-two-weeks-are-you-holding-any/slideshow/129585277.cms",
-    "category": "finance",
-    "title": "15 penny stocks crash up to 55% in just two weeks. Are you holding any?",
-    "summary": "\u200b These underperformers were identified through a targeted screening approach focusing on stocks with a market capitalisation below Rs 1,000 crore, a share price under Rs 20, and a minimum recent trading volume of 5 lakh shares.\u200b",
-    "image": "https://img.etimg.com/photo/msid-129585081,imgsize-64836.cms",
-    "source": "ET",
-    "pubDate": "Sun, 15 Mar 2026 10:46:02 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/15-penny-stocks-crash-up-to-55-in-just-two-weeks-are-you-holding-any/slideshow/129585277.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1528034.html",
+    "category": "sports",
+    "title": "Debutant Mokoena stars as South Africa rip New Zealand to shreds",
+    "summary": "The visitors secured a seven-wicket victory chasing down a target of 92 in Mount Maunganui",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414694.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 15 Mar 2026 09:20:58 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528034.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528044.html",
     "category": "sports",
     "title": "Pakistan bowl, make three changes for series decider",
     "summary": "Bangladesh went with the same XI despite losing the loss in their previous game",
-    "image": "http://p.imgci.com",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414661.jpg",
     "source": "Cricinfo",
-    "pubDate": "Sun, 15 Mar 2026 08:24:52 GMT",
+    "pubDate": "Sun, 15 Mar 2026 09:07:53 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528044.html?ex_cid=OTC-RSS"
   },
   {
@@ -208,6 +218,16 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 15 Mar 2026 08:20:10 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1527995.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cly0d510yz3o#0",
+    "category": "global",
+    "title": "US names six crew killed in refuelling plane crash in Iraq",
+    "summary": "The aircraft was on a combat mission as part of ongoing US operations against Iran when it crashed in western Iraq on Thursday.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 15 Mar 2026 08:08:30 GMT",
+    "link": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1527996.html",
@@ -250,16 +270,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1527994.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528034.html",
-    "category": "sports",
-    "title": "New Zealand bat; South Africa pick four debutants",
-    "summary": "South Africa's XI looks almost entirely different to the one that lost to New Zealand in the T20 World Cup semi-final",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414347.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 15 Mar 2026 06:37:59 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528034.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cy0dz1k0rr4o#0",
     "category": "global",
     "title": "UK must build own nuclear missiles to end reliance on US, say Lib Dems",
@@ -282,7 +292,7 @@
   {
     "id": "https://www.bbc.com/sport/rugby-union/articles/cjd9m3p55y7o#0",
     "category": "global",
-    "title": "A finale worthy of the greatest Six Nations in history",
+    "title": "France v England finale worthy of the greatest Six Nations in history",
     "summary": "History, records, upsets, high-scoring classics - and a thrilling finale. The 2026 Six Nations is likely to go down as the best edition in the tournament's history.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -330,7 +340,7 @@
     "link": "https://www.bbc.com/news/articles/cd6zdg737gpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c98gz372683o#0",
+    "id": "https://www.bbc.com/news/articles/c98gz372683o#1",
     "category": "global",
     "title": "Three more Iran football team members change minds over asylum",
     "summary": "Four of seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home.",
@@ -338,16 +348,6 @@
     "source": "BBC",
     "pubDate": "Sat, 14 Mar 2026 20:48:55 GMT",
     "link": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvgky84z6lro#0",
-    "category": "global",
-    "title": "We expect government help in a crisis. Will Reeves intervene on energy bills this time?",
-    "summary": "After Covid furlough and Truss\u2019s bailout, can the UK expect another government crisis rescue, asks Laura Kuenssberg.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 14 Mar 2026 14:28:58 GMT",
-    "link": "https://www.bbc.com/news/articles/cvgky84z6lro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
