@@ -52,7 +52,7 @@
   {
     "id": "https://www.bbc.com/news/articles/cdxg35dv7npo#0",
     "category": "global",
-    "title": "Two die including uni student in meningitis outbreak",
+    "title": "Uni student among two dead in Kent meningitis outbreak",
     "summary": "Eleven people in the Canterbury area are also seriously ill in hospital, the BBC understands.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -100,36 +100,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1528070.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528050.html",
-    "category": "sports",
-    "title": "Former Pakistan captain Sarfaraz Ahmed retires from international cricket",
-    "summary": "He finishes with 54 Tests, 117 ODIs and 61 T20Is and as the only Pakistan captain since Imran Khan to have lifted a 50-over ICC trophy",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/352100/352104.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 15 Mar 2026 14:25:52 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528050.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528034.html",
-    "category": "sports",
-    "title": "Debutant Mokoena stars as South Africa rip New Zealand to shreds",
-    "summary": "The visitors secured a seven-wicket victory chasing down a target of 92 in Mount Maunganui",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414694.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 15 Mar 2026 09:41:09 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528034.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1527995.html",
-    "category": "sports",
-    "title": "Khawaja's first-class career ends as Queensland miss Sheffield Shield final",
-    "summary": "Incumbent Test opener Jake Weatherlad struck a rapid half-century after Tasmania's top order wobbled",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414687.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 15 Mar 2026 08:20:10 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1527995.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -140,164 +110,204 @@
     "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
   },
   {
-    "id": "https://www.ndtv.com/india-news/rajya-sabha-elections-live-updates-nitish-kumar-nitin-nabin-in-fray-parliament-voting-begins-today-for-37-seats-across-10-states-11220598#publisher=newsstand",
-    "category": "india",
-    "title": "Rajya Sabha Elections LIVE Updates:  Rajya Sabha Elections LIVE Updates: Voting Begins Today For 37 Seats Across 10 Stat",
-    "summary": "Rajya Sabha Polls LIVE Updates",
-    "image": "https://c.ndtvimg.com/2026-03/i3r7va6s_parliament_625x300_16_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 10:33:53 +0530",
-    "link": "https://www.ndtv.com/india-news/rajya-sabha-elections-live-updates-nitish-kumar-nitin-nabin-in-fray-parliament-voting-begins-today-for-37-seats-across-10-states-11220598#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/10-patients-killed-in-major-fire-at-scb-medical-college-hospital-in-odishas-cuttack-11220411#publisher=newsstand",
-    "category": "india",
-    "title": "10 Patients Killed In Major Fire At SCB Medical College Hospital In Odisha's Cuttack",
-    "summary": "Multiple fire engines are engaged in rescue operations.",
-    "image": "https://c.ndtvimg.com/2026-03/s3evqf0k_odisha-fire_650x400_16_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 10:33:00 +0530",
-    "link": "https://www.ndtv.com/india-news/10-patients-killed-in-major-fire-at-scb-medical-college-hospital-in-odishas-cuttack-11220411#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/trump-suggests-he-may-delay-china-trip-as-he-pressures-beijing-for-help-with-strait-of-hormuz-11220939#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Leverages China Trip For Hormuz Support",
-    "summary": "Trump's new comments came as U.S. Treasury Secretary Scott Bessent was meeting with Chinese Vice Premier",
-    "image": "https://c.ndtvimg.com/2026-03/dav7s03s_xi-trump-taiwan_625x300_13_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 10:28:26 +0530",
-    "link": "https://www.ndtv.com/world-news/trump-suggests-he-may-delay-china-trip-as-he-pressures-beijing-for-help-with-strait-of-hormuz-11220939#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/absolutely-catastrophic-vandana-hari-warns-markets-nowhere-near-pricing-in-a-prolonged-strait-of-hormuz-shutdown/articleshow/129600702.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-shares-jump-5-as-jsw-st-telemedia-eye-stake-in-the-telco/articleshow/129602384.cms",
     "category": "finance",
-    "title": "'Absolutely catastrophic': Vandana Hari warns markets nowhere near pricing in a prolonged Strait of Hormuz shutdown",
-    "summary": "Global oil markets face a dangerous future.  A conflict between the U.S., Israel, and Iran has entered a war of attrition.  The Strait of Hormuz is threatened, impacting oil transit.  Experts warn of catastrophic consequences if disruptions persist. ",
-    "image": "https://img.etimg.com/photo/msid-129600702,imgsize-22388.cms",
+    "title": "Vodafone Idea shares jump 5% as JSW, ST Telemedia eye stake in the telco",
+    "summary": "Vodafone Idea shares rose ahrply on Monday after ET reported that JSW Group and ST Telemedia are exploring a potential stake in the telecom operator. The discussions are exploratory, following government-backed financial relief, as Vi seeks strategic",
+    "image": "https://img.etimg.com/photo/msid-129602384,imgsize-10974.cms",
     "source": "ET",
-    "pubDate": "Mon, 16 Mar 2026 10:28:07 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/absolutely-catastrophic-vandana-hari-warns-markets-nowhere-near-pricing-in-a-prolonged-strait-of-hormuz-shutdown/articleshow/129600702.cms"
+    "pubDate": "Mon, 16 Mar 2026 12:07:52 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-shares-jump-5-as-jsw-st-telemedia-eye-stake-in-the-telco/articleshow/129602384.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-energy-market-turmoil-forces-policymakers-to-reassess-inflation-outlook/articleshow/129600660.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/venugopal-garre-on-ai-earnings-and-why-indias-market-valuations-may-stabilize/articleshow/129602195.cms",
     "category": "finance",
-    "title": "Global Market: Energy market turmoil forces policymakers to reassess inflation outlook",
-    "summary": "Global financial markets are shaken by the Middle East war. Energy prices are soaring, reviving inflation fears. Central banks worldwide are meeting to decide their next moves. Policymakers face a tough challenge balancing economic growth with rising",
-    "image": "https://img.etimg.com/photo/msid-129600660,imgsize-15010.cms",
+    "title": "Venugopal Garre on AI, earnings and  long-term view for Indian markets",
+    "summary": "Global markets face turbulence from geopolitical tensions and rising oil prices. Venugopal Garre advises investors to adopt a long-term perspective, building portfolios for the next 12 to 24 months. He suggests focusing on sectors that have fallen bu",
+    "image": "https://img.etimg.com/photo/msid-129602195,imgsize-22094.cms",
     "source": "ET",
-    "pubDate": "Mon, 16 Mar 2026 10:27:20 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-energy-market-turmoil-forces-policymakers-to-reassess-inflation-outlook/articleshow/129600660.cms"
+    "pubDate": "Mon, 16 Mar 2026 12:02:54 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/venugopal-garre-on-ai-earnings-and-why-indias-market-valuations-may-stabilize/articleshow/129602195.cms"
   },
   {
-    "id": "https://www.ndtv.com/health/national-vaccination-day-the-vaccines-you-didnt-know-adults-still-need-11219914#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/gurkirat-singh-manocha-fort-st-john-indian-student-thrashed-run-over-in-canada-family-in-ujjain-awaits-body-11221301#publisher=newsstand",
     "category": "india",
-    "title": "National Vaccination Day 2026: The Vaccines You Didn't Know Adults Still Need",
-    "summary": "In India, several vaccines are recommended for adults depending on age, health status, and lifestyle. Here, take a look at some of those vaccines.",
-    "image": "https://c.ndtvimg.com/2025-12/7g9l1ses_flu-vaccine_625x300_29_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Indian Student Thrashed, Run Over In Canada, Family In Ujjain Awaits Body",
+    "summary": "Gurkirat Singh Manocha moved to Canada a little over a year ago",
+    "image": "https://c.ndtvimg.com/2026-03/s11vmhog_indian-student-thrashed_625x300_16_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 10:24:50 +0530",
-    "link": "https://www.ndtv.com/health/national-vaccination-day-the-vaccines-you-didnt-know-adults-still-need-11219914#publisher=newsstand"
+    "pubDate": "Mon, 16 Mar 2026 11:59:54 +0530",
+    "link": "https://www.ndtv.com/world-news/gurkirat-singh-manocha-fort-st-john-indian-student-thrashed-run-over-in-canada-family-in-ujjain-awaits-body-11221301#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/strait-of-hormuz-iran-war-middle-east-war-whats-behind-irans-hormuz-pass-for-2-indian-tankers-s-jaishankar-explains-11220746#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/benjamin-netanyahu-death-rumours-israeli-pm-netanyahus-new-video-under-scrutiny-grok-calls-it-deepfake-11221132#publisher=newsstand",
     "category": "india",
-    "title": "What's Behind Iran's Hormuz Pass For 2 Indian Tankers? S Jaishankar Explains",
-    "summary": "S Jaishankar has said he is talks with Iran over the Strait of Hormuz blockade",
-    "image": "https://c.ndtvimg.com/2026-03/bdleafdc_hormuz-jaishankar_625x300_16_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Israeli PM Netanyahu's Coffee Video Under Scrutiny, Grok Calls It 'Deepfake'",
+    "summary": "Raising the coffee, Netanyahu says in the video, \"L'chaim (to life).\"",
+    "image": "https://c.ndtvimg.com/2026-03/47055b1o_-netanyahu-coffeegate_625x300_16_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 10:21:02 +0530",
-    "link": "https://www.ndtv.com/india-news/strait-of-hormuz-iran-war-middle-east-war-whats-behind-irans-hormuz-pass-for-2-indian-tankers-s-jaishankar-explains-11220746#publisher=newsstand"
+    "pubDate": "Mon, 16 Mar 2026 11:55:30 +0530",
+    "link": "https://www.ndtv.com/world-news/benjamin-netanyahu-death-rumours-israeli-pm-netanyahus-new-video-under-scrutiny-grok-calls-it-deepfake-11221132#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/karnataka-deputy-chief-minister-dk-shivakumar-accuses-bjp-of-offering-rs-5-crore-to-odisha-congress-mlas-operation-lotus-11220970#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-gift-nifty-signals-positive-open-even-as-oil-rallies-asia-markets-tank-11220583#publisher=newsstand",
     "category": "india",
-    "title": "DK Shivakumar Accuses BJP Of Offering Rs 5 Crore To Odisha Congress MLAs",
-    "summary": "DK Shivakumar alleged that \"Operation Lotus\" was being carried out by BJP leaders",
-    "image": "https://c.ndtvimg.com/2025-11/5gevg6l4_dk-shivakumar_625x300_30_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Stock Market LIVE Updates: Markets Open Flat Amid Mixed Global Cues",
+    "summary": "Stock Market, Sensex Today, Nifty, Share Market Live News Updates: Markets opened flat on Monday.",
+    "image": "https://c.ndtvimg.com/2026-03/pvr197nk_india-stock-market_625x300_15_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 10:20:35 +0530",
-    "link": "https://www.ndtv.com/india-news/karnataka-deputy-chief-minister-dk-shivakumar-accuses-bjp-of-offering-rs-5-crore-to-odisha-congress-mlas-operation-lotus-11220970#publisher=newsstand"
+    "pubDate": "Mon, 16 Mar 2026 11:52:20 +0530",
+    "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-gift-nifty-signals-positive-open-even-as-oil-rallies-asia-markets-tank-11220583#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/health/ed-sheerans-wife-had-cancer-during-pregnancy-here-is-why-regular-health-screenings-are-important-11219484#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/delhi-cm-shares-plan-to-integrate-three-major-hospitals-into-aiims-style-super-medical-hub-11221215#publisher=newsstand",
     "category": "india",
-    "title": "Ed Sheeran's Wife, Cherry Seaborn, Had Cancer During Pregnancy: Why Regular Health Screenings Matter",
-    "summary": "Ed Sheeran's wife, Cherry Seaborn, had cancer in the sixth month of her pregnancy",
-    "image": "https://c.ndtvimg.com/2026-03/5hf88fh4_ed-sheeran-with-wife_625x300_15_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Delhi CM Proposes Plan To Merge 3 Major Hospitals Into AIIMS-Style Super Medical Hub",
+    "summary": "Delhi CM Rekha Gupta announcing her plans for the merger",
+    "image": "https://c.ndtvimg.com/2026-03/7eu1bsvs_cm-rekha-gupta_625x300_16_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 10:15:22 +0530",
-    "link": "https://www.ndtv.com/health/ed-sheerans-wife-had-cancer-during-pregnancy-here-is-why-regular-health-screenings-are-important-11219484#publisher=newsstand"
+    "pubDate": "Mon, 16 Mar 2026 11:49:44 +0530",
+    "link": "https://www.ndtv.com/health/delhi-cm-shares-plan-to-integrate-three-major-hospitals-into-aiims-style-super-medical-hub-11221215#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/gold-silver-prices-fall-slightly-check-rates-in-your-city-today-march-16-11220944#publisher=newsstand",
+    "id": "https://www.ndtv.com/feature/who-is-aman-gottumukkala-indian-origin-techie-behind-firebender-joins-musks-xai-11221058#publisher=newsstand",
     "category": "india",
-    "title": "Gold, Silver Prices Fall Slightly, Check Rates In Your City Today",
-    "summary": "Gold, Silver Prices March 16: Spot gold traded around $5,000 per ounce.",
-    "image": "https://c.ndtvimg.com/2026-03/me5e940k_gold_625x300_13_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Indian-Origin Techie Joins xAI To Build \"Best Coding AI\", Elon Musk Reacts",
+    "summary": "Gottumukkala is a Texas-based software engineer and entrepreneur.",
+    "image": "https://c.ndtvimg.com/2026-03/1nsq1et8_aman-gottumukkala_625x300_16_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 10:10:16 +0530",
-    "link": "https://www.ndtv.com/india-news/gold-silver-prices-fall-slightly-check-rates-in-your-city-today-march-16-11220944#publisher=newsstand"
+    "pubDate": "Mon, 16 Mar 2026 11:48:22 +0530",
+    "link": "https://www.ndtv.com/feature/who-is-aman-gottumukkala-indian-origin-techie-behind-firebender-joins-musks-xai-11221058#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-oil-shock-2-0-markets-recall-2022-turmoil-as-war-escalates/articleshow/129600401.cms",
-    "category": "finance",
-    "title": "Global Market | Oil Shock 2.0? Markets recall 2022 turmoil as war escalates",
-    "summary": "Global markets are drawing parallels to the 2022 Ukraine war turmoil as the Middle East conflict fuels energy-driven inflation fears. While oil prices surge and the dollar strengthens, mirroring past events, other assets like European gas and bonds s",
-    "image": "https://img.etimg.com/photo/msid-129600401,imgsize-128026.cms",
-    "source": "ET",
-    "pubDate": "Mon, 16 Mar 2026 10:08:14 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-oil-shock-2-0-markets-recall-2022-turmoil-as-war-escalates/articleshow/129600401.cms"
+    "id": "https://www.ndtv.com/india-news/why-sensex-nifty-opened-in-green-today-despite-rise-in-oil-prices-11221016#publisher=newsstand",
+    "category": "india",
+    "title": "Why Sensex, Nifty Opened In Green Today Despite Rise In Oil Prices",
+    "summary": "Stock Market Today: Markets opened flat as the jump in crude prices wasn't a lot.",
+    "image": "https://c.ndtvimg.com/2026-03/f51chkdo_stock-market-generic_625x300_01_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 16 Mar 2026 11:48:03 +0530",
+    "link": "https://www.ndtv.com/india-news/why-sensex-nifty-opened-in-green-today-despite-rise-in-oil-prices-11221016#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-economy-shows-early-strength-despite-global-war-risks/articleshow/129600166.cms",
-    "category": "finance",
-    "title": "Global Market | China\u2019s economy shows early strength despite global war risks",
-    "summary": "China's economy began the year with a steady performance, as factory output accelerated to 6% and consumer spending rebounded to 3% in January-February. This growth, exceeding expectations, offers relief amid structural challenges, though domestic co",
-    "image": "https://img.etimg.com/photo/msid-129600166,imgsize-167495.cms",
-    "source": "ET",
-    "pubDate": "Mon, 16 Mar 2026 09:56:56 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-economy-shows-early-strength-despite-global-war-risks/articleshow/129600166.cms"
+    "id": "https://www.ndtv.com/world-news/iran-war-massive-fire-near-dubai-international-airport-as-iranian-drones-strike-11220351#publisher=newsstand",
+    "category": "india",
+    "title": "Massive Fire Near Dubai Airport After Iranian Drone Strike, Flights Suspended",
+    "summary": "Emergency teams were rushed to the site, and officials say the situation is now under control",
+    "image": "https://c.ndtvimg.com/2026-03/grp105qg_dubai_625x300_16_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 16 Mar 2026 11:45:29 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-massive-fire-near-dubai-international-airport-as-iranian-drones-strike-11220351#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-13-paise-to-92-43-against-us-dollar/articleshow/129600206.cms",
-    "category": "finance",
-    "title": "Rupee falls 13 paise to 92.43 against US dollar",
-    "summary": "The Indian rupee weakened by 13 paise to 92.43 against the US dollar in early trade on Monday, pressured by significant foreign fund outflows and rising crude oil prices amidst geopolitical tensions. Volatile domestic equity markets further contribut",
-    "image": "https://img.etimg.com/photo/msid-129600206,imgsize-86398.cms",
-    "source": "ET",
-    "pubDate": "Mon, 16 Mar 2026 09:45:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-13-paise-to-92-43-against-us-dollar/articleshow/129600206.cms"
+    "id": "https://www.ndtv.com/health/ozempic-patent-expiry-heralds-weight-loss-drug-boom-in-india-11221001#publisher=newsstand",
+    "category": "india",
+    "title": "Cheap Generic Ozempic To Hit India: Patent Exit Sparks Weight-Loss Drug Boom",
+    "summary": "Injection pens for Wegovy,  on display during a news conference in Mumbai",
+    "image": "https://c.ndtvimg.com/2026-03/9ik8nkrc_novo_625x300_16_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 16 Mar 2026 11:43:47 +0530",
+    "link": "https://www.ndtv.com/health/ozempic-patent-expiry-heralds-weight-loss-drug-boom-in-india-11221001#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/oil-prices-surge-past-100-as-us-strikes-irans-kharg-island-peter-mcguire-warns-oil-rally-not-over/articleshow/129600159.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/citi-cuts-niftys-target-to-27000-on-earnings-macro-risks-from-raging-iran-war/articleshow/129601633.cms",
     "category": "finance",
-    "title": "Oil prices surge past $100 as US strikes Iran's Kharg Island; Peter McGuire warns oil rally not over",
-    "summary": "Global oil markets are reacting strongly after US forces struck Iran's Kharg Island, a key oil export hub. Prices for Brent and WTI crude have surged past $100 per barrel. The Strait of Hormuz, a vital shipping lane, faces potential disruption. Iran ",
-    "image": "https://img.etimg.com/photo/msid-129600159,imgsize-23314.cms",
+    "title": "Citi cuts Nifty's target to 27,000 on earnings, macro risks from raging Iran war",
+    "summary": "Citi Research has lowered its year-end Nifty 50 target to 27,000, citing escalating Middle East war risks impacting India's growth and corporate earnings. Surging oil and supply shocks are worsening the economic outlook, with potential disruptions to",
+    "image": "https://img.etimg.com/photo/msid-129601633,imgsize-7308.cms",
     "source": "ET",
-    "pubDate": "Mon, 16 Mar 2026 09:41:56 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/oil-prices-surge-past-100-as-us-strikes-irans-kharg-island-peter-mcguire-warns-oil-rally-not-over/articleshow/129600159.cms"
+    "pubDate": "Mon, 16 Mar 2026 11:30:20 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/citi-cuts-niftys-target-to-27000-on-earnings-macro-risks-from-raging-iran-war/articleshow/129601633.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/jsw-steel-unit-eyes-rs-9500crore-shortduration-debt-issue-bankers-say/articleshow/129600140.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/adani-power-shares-jumps-5-after-msedcl-awards-1600-mw-long-term-supply-contract/articleshow/129601575.cms",
     "category": "finance",
-    "title": "JSW Steel unit eyes Rs 9,500\u2011crore short\u2011duration debt issue, bankers say",
-    "summary": "JSW Kalinga Steel is preparing to raise approximately 95 billion rupees through its first corporate debt issuance, featuring two five-year bond tranches. The company, rated AA by Crisil, expects strong participation from mutual funds as anchor invest",
-    "image": "https://img.etimg.com/photo/msid-129600140,imgsize-28634.cms",
+    "title": "Adani Power shares jumps 5% after MSEDCL awards 1,600 MW long-term supply contract",
+    "summary": "Adani Power's shares rose 5% after securing a 1,600 MW thermal power supply deal with MSEDCL. The company will supply power from an upcoming ultra-supercritical project at a tariff of Rs 5.30/kWh, commencing in FY30-31. This win boosts Adani Power's ",
+    "image": "https://img.etimg.com/photo/msid-129601575,imgsize-20280.cms",
     "source": "ET",
-    "pubDate": "Mon, 16 Mar 2026 09:38:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/jsw-steel-unit-eyes-rs-9500crore-shortduration-debt-issue-bankers-say/articleshow/129600140.cms"
+    "pubDate": "Mon, 16 Mar 2026 11:26:48 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-power-shares-jumps-5-after-msedcl-awards-1600-mw-long-term-supply-contract/articleshow/129601575.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-slumps-11-on-report-that-govt-may-scrap-bids-for-majority-stake-sale/articleshow/129600100.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/oil-inflation-and-war-chakri-lokapriyas-roadmap-for-selective-investing/articleshow/129601466.cms",
     "category": "finance",
-    "title": "IDBI Bank shares tumble 15% as govt likely to halt divestment process: Here\u2019s why",
-    "summary": "IDBI Bank shares saw a significant drop of 15% on Monday. This decline followed a report indicating the Indian government will halt the sale process for a majority stake. The bids received were reportedly lower than the government's expected minimum ",
-    "image": "https://img.etimg.com/photo/msid-129600100,imgsize-28598.cms",
+    "title": "Oil, Inflation, and War: Chakri Lokapriya\u2019s roadmap for selective investing",
+    "summary": "Global markets are navigating a period of significant uncertainty. Rising oil prices and escalating tensions in West Asia are impacting various sectors and economies. Investors are advised to exercise caution rather than engage in aggressive buying. ",
+    "image": "https://img.etimg.com/photo/msid-129601466,imgsize-22554.cms",
     "source": "ET",
-    "pubDate": "Mon, 16 Mar 2026 09:36:21 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-slumps-11-on-report-that-govt-may-scrap-bids-for-majority-stake-sale/articleshow/129600100.cms"
+    "pubDate": "Mon, 16 Mar 2026 11:21:50 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/oil-inflation-and-war-chakri-lokapriyas-roadmap-for-selective-investing/articleshow/129601466.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bajel-projects-shares-rocket-14-after-bagging-largest-ultra-mega-order-worth-rs-700-crore/articleshow/129601034.cms",
+    "category": "finance",
+    "title": "Bajel Projects shares rocket 14% after bagging largest ultra mega order worth Rs 700 crore",
+    "summary": "Bajel Projects' shares surged after securing a significant Rs 700 crore order from MSETCL for a 400/220 kV Air Insulated Switchgear substation in Pune. This ultra mega project, the company's largest in power transmission, includes turnkey EPC executi",
+    "image": "https://img.etimg.com/photo/msid-129601034,imgsize-465583.cms",
+    "source": "ET",
+    "pubDate": "Mon, 16 Mar 2026 10:48:18 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajel-projects-shares-rocket-14-after-bagging-largest-ultra-mega-order-worth-rs-700-crore/articleshow/129601034.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-open-lower-under-oil-pressure-rbi-support-remains-in-view/articleshow/129601022.cms",
+    "category": "finance",
+    "title": "Indian bonds open lower under oil pressure; RBI support remains in view",
+    "summary": "Indian government bonds declined as oil prices surged above $100 per barrel, with traders anticipating central bank intervention for market sentiment to improve. The ongoing conflict in the Middle East threatens to worsen domestic inflation through h",
+    "image": "https://img.etimg.com/photo/msid-129601022,imgsize-4952.cms",
+    "source": "ET",
+    "pubDate": "Mon, 16 Mar 2026 10:46:27 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-open-lower-under-oil-pressure-rbi-support-remains-in-view/articleshow/129601022.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/jsw-energy-ntpc-green-tata-power-other-power-stocks-lose-steam-fall-up-to-3/articleshow/129601018.cms",
+    "category": "finance",
+    "title": "JSW Energy, NTPC Green, Tata Power, other power stocks lose steam, fall up to 3%",
+    "summary": "Power stocks, including JSW Energy, NTPC Green Energy and Tata Power saw a dip on Monday investors likley  booked profits after last week\u2019s heatwave-driven rally. Rising temperatures and weather alerts had boosted demand expectations, but recent fore",
+    "image": "https://img.etimg.com/photo/msid-129601018,imgsize-57072.cms",
+    "source": "ET",
+    "pubDate": "Mon, 16 Mar 2026 10:46:07 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/jsw-energy-ntpc-green-tata-power-other-power-stocks-lose-steam-fall-up-to-3/articleshow/129601018.cms"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1528100.html",
+    "category": "sports",
+    "title": "Fringe players in focus as hosts look to respond in high-scoring Hamilton",
+    "summary": "After a tough outing in Mount Maunganui, which allowed only a total of 184 runs to be scored, New Zealand will hope Hamilton conditions spark a turnaround",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414694.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 16 Mar 2026 07:00:42 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528100.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1528096.html",
+    "category": "sports",
+    "title": "Peake and Sutherland fifties bright spots on dull, damp day",
+    "summary": "Peake made 59 and Sutherland 51, while McSweeney took 3 for 18 on a day where only 28.2 overs were possible due to rain",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414713.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 16 Mar 2026 06:54:46 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528096.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1528098.html",
+    "category": "sports",
+    "title": "The Taskin-Mustafizur-Rana combination gives Bangladesh 'more chance to win matches'",
+    "summary": "\"Taskin knows what to bowl in each situation, [and] Mustafiz never panicked,\" at crucial points in the deciding ODI against Pakistan, Bangladesh captain Mehidy Hasan Miraz says",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414715.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 16 Mar 2026 06:42:10 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528098.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cqj9kgxqjwjo#0",
+    "category": "global",
+    "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
+    "summary": "Companies allowed more harmful content on user\u2019s feeds, knowing their algorithms ran on outrage, BBC hears.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 16 Mar 2026 06:10:55 GMT",
+    "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cp9mg90k78eo#1",
@@ -320,9 +330,9 @@
     "link": "https://www.bbc.com/news/articles/cd9g331v315o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c33jkvmzl4ko#0",
+    "id": "https://www.bbc.com/news/articles/c33jkvmzl4ko#1",
     "category": "global",
-    "title": "Oscars 2026: Winners list in full",
+    "title": "Winners list in full",
     "summary": "Find out which films and stars have won the famous golden statuettes at the ceremony in Los Angeles.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -330,9 +340,9 @@
     "link": "https://www.bbc.com/news/articles/c33jkvmzl4ko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/videos/cedzq0q6x5lo#1",
+    "id": "https://www.bbc.com/news/videos/cedzq0q6x5lo#0",
     "category": "global",
-    "title": "Watch: Historic firsts, risqu\u00e9 jokes, and a tie",
+    "title": "Historic firsts, risqu\u00e9 jokes, and a tie: watch the top Oscar moments",
     "summary": "One Battle After Another dominated the night with six awards, while Sinners and Frankenstein weren't far behind.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -348,16 +358,6 @@
     "source": "BBC",
     "pubDate": "Mon, 16 Mar 2026 02:39:01 GMT",
     "link": "https://www.bbc.com/news/articles/c4g4n1dyepdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx2dl5j0w23o#0",
-    "category": "global",
-    "title": "How US groups are driving a new generation of anti-abortion activism in the UK",
-    "summary": "The killing of Charlie Kirk galvanised a transatlantic campaign against abortion. But will it succeed in shifting Britain's pro-choice consensus?",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 16 Mar 2026 00:31:48 GMT",
-    "link": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "7EaNv4Ip2AUlW9RClUv2cB",
