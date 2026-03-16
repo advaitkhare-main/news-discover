@@ -10,6 +10,26 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
+    "id": "https://www.ndtv.com/world-news/afghanistan-says-over-250-killed-400-injured-in-pakistan-strike-on-kabul-hospital-treating-drug-addicts-local-media-11225227#publisher=newsstand",
+    "category": "india",
+    "title": "400 Killed, Around 250 Injured In Pakistan Strike On Kabul Hospital: Taliban",
+    "summary": "More than 250 people have been killed and over 400 injured in a Pakistani airstrike at a hospital in Kabul, local media Tolo News reported.",
+    "image": "https://c.ndtvimg.com/2026-03/5jl5lq28_kabul-attack_625x300_17_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 17 Mar 2026 04:43:00 +0530",
+    "link": "https://www.ndtv.com/world-news/afghanistan-says-over-250-killed-400-injured-in-pakistan-strike-on-kabul-hospital-treating-drug-addicts-local-media-11225227#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/blog/pakistan-afghanistan-conflict-live-over-250-killed-in-pakistani-strike-on-kabul-hospital-11225272#publisher=newsstand",
+    "category": "india",
+    "title": "Blog: Live Updates: Afghanistan Accuses Pakistan Of Deadly Airstrike On Kabul Hospital",
+    "summary": "More than 250 people have been killed after Pakistani airstrike hit a hospital in Afghanistan's capital Kabul late on Tuesday, the Tolo News reported.",
+    "image": "https://c.ndtvimg.com/2026-03/be87fb5_kabul-attack_625x300_17_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Tue, 17 Mar 2026 04:40:32 +0530",
+    "link": "https://www.ndtv.com/blog/pakistan-afghanistan-conflict-live-over-250-killed-in-pakistani-strike-on-kabul-hospital-11225272#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/iran-war-amid-death-rumours-benjamin-netanyahus-message-for-brave-people-of-iran-11225196#publisher=newsstand",
     "category": "india",
     "title": "Amid Death Rumours, Netanyahu's Message For \"Brave People Of Iran\"",
@@ -90,26 +110,6 @@
     "link": "https://www.ndtv.com/india-news/rjd-rank-and-file-turns-against-congress-after-rajya-sabha-poll-defeat-11224902#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-netanyahus-disappearing-ring-in-new-video-sparks-fresh-ai-debate-11224783#publisher=newsstand",
-    "category": "india",
-    "title": "Netanyahu's Video Proof Of Being Alive Hits A \"Disappearing\" Ring Problem",
-    "summary": "The video has reignited debate about whether the footage is genuine or AI-generated",
-    "image": "https://c.ndtvimg.com/2026-03/j8m5cvgs_netanyahu_625x300_16_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 17 Mar 2026 00:04:26 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-netanyahus-disappearing-ring-in-new-video-sparks-fresh-ai-debate-11224783#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/manali-snowfall-video-cars-abandoned-tourists-stranded-near-atal-tunnel-amid-snowfall-11224857#publisher=newsstand",
-    "category": "india",
-    "title": "Video: Cars Abandoned, Tourists Stranded Near Atal Tunnel Amid Snowfall",
-    "summary": "As soon as reports of stranded vehicles emerged, Manali Police deployed teams to the affected routes.",
-    "image": "https://c.ndtvimg.com/2026-03/8euml9cs_manali_625x300_17_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Tue, 17 Mar 2026 00:03:27 +0530",
-    "link": "https://www.ndtv.com/india-news/manali-snowfall-video-cars-abandoned-tourists-stranded-near-atal-tunnel-amid-snowfall-11224857#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/small-investors-fear-us-sec-will-drive-corporate-gadflies-to-extinction/articleshow/129617039.cms",
     "category": "finance",
     "title": "Small investors fear US SEC will drive corporate gadflies to extinction",
@@ -166,7 +166,7 @@
     "summary": "A sixth form pupil and a university student have died, while 11 more are seriously ill in hospital.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 16 Mar 2026 22:01:46 GMT",
+    "pubDate": "Mon, 16 Mar 2026 22:28:24 GMT",
     "link": "https://www.bbc.com/news/articles/cp9mdxz4dd2o?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -220,6 +220,16 @@
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/london-metal-exchange-says-trading-halted-due-to-issue-working-to-resolve-it/articleshow/129613811.cms"
   },
   {
+    "id": "https://www.bbc.com/news/videos/c23zj1e0lxmo#0",
+    "category": "global",
+    "title": "Watch: Reunion resident gets close to lava from erupting volcano",
+    "summary": "Lava from the Piton de la Fournaise volcano reached the Indian ocean for the first time in 19 years.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 16 Mar 2026 20:39:01 GMT",
+    "link": "https://www.bbc.com/news/videos/c23zj1e0lxmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1528132.html",
     "category": "sports",
     "title": "Harshit Rana set to miss bulk of IPL season after knee surgery",
@@ -260,14 +270,14 @@
     "link": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c9q58x3vxp3o#0",
+    "id": "https://www.bbc.com/news/articles/c2e48zl4j7ko#0",
     "category": "global",
-    "title": "King hits the DJ decks on city arts venue visit",
-    "summary": "The King admits \"trying to get a hang of it\" while having a go at being a DJ during a visit to Manchester.",
+    "title": "Car park firm NCP collapses with nearly 700 jobs at risk",
+    "summary": "The car park operator says demand for parking has not recovered to pre-Covid levels, as its administrators look to sell the business.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 16 Mar 2026 15:48:42 GMT",
-    "link": "https://www.bbc.com/news/articles/c9q58x3vxp3o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 16 Mar 2026 17:13:28 GMT",
+    "link": "https://www.bbc.com/news/articles/c2e48zl4j7ko?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528113.html",
@@ -278,16 +288,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 16 Mar 2026 13:18:28 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528113.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c7952d4dwd8o#0",
-    "category": "global",
-    "title": "Elusive nightjar birds making remarkable comeback, conservationists say",
-    "summary": "An ecological survey has found 109 nightjar territories in the lowland heaths of east Hampshire.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 16 Mar 2026 11:13:19 GMT",
-    "link": "https://www.bbc.com/news/articles/c7952d4dwd8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cp9mg90k78eo#0",
