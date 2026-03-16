@@ -40,164 +40,194 @@
     "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/anupam-mittal-backed-travelstack-tech-gets-sebi-nod-along-with-two-other-ipos-3-companies-withdraw-offer-plans/articleshow/129605792.cms",
-    "category": "finance",
-    "title": "Anupam Mittal-backed Travelstack Tech gets Sebi nod along with two other IPOs; 3 companies withdraw offer plans",
-    "summary": "Sebi has cleared three companies, including Travelstack Tech backed by Anupam Mittal, to launch their IPOs. Tea Post and Learnfluence Education also received approval. Meanwhile, three companies have withdrawn their public issue plans, highlighting m",
-    "image": "https://img.etimg.com/photo/msid-129605792,imgsize-29114.cms",
-    "source": "ET",
-    "pubDate": "Mon, 16 Mar 2026 15:04:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/anupam-mittal-backed-travelstack-tech-gets-sebi-nod-along-with-two-other-ipos-3-companies-withdraw-offer-plans/articleshow/129605792.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-radar-gold-plunges-rs-3000/10-gram-as-investors-turn-cautious-ahead-of-fed-policy-should-you-sell-on-rise/articleshow/129605611.cms",
-    "category": "finance",
-    "title": "Commodity Radar: Gold plunges Rs 3,000/10 gram as investors turn cautious ahead of Fed policy. Should you sell on rise?",
-    "summary": "Gold prices fell sharply on MCX, dropping Rs 3,000 per 10 gram as investors turned cautious ahead of the US Federal Reserve policy meeting. Profit booking in global markets, rising oil prices and persistent geopolitical tensions in West Asia are keep",
-    "image": "https://img.etimg.com/photo/msid-129605611,imgsize-109189.cms",
-    "source": "ET",
-    "pubDate": "Mon, 16 Mar 2026 14:56:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-radar-gold-plunges-rs-3000/10-gram-as-investors-turn-cautious-ahead-of-fed-policy-should-you-sell-on-rise/articleshow/129605611.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/union-bank-of-india-approves-plan-to-raise-up-to-rs-20000-crore-via-long-term-bonds/articleshow/129605355.cms",
-    "category": "finance",
-    "title": "Union Bank of India approves plan to raise up to Rs 20,000 crore via long-term bonds",
-    "summary": "Union Bank of India will raise funds through bond issuances. The bank's committee approved long-term bonds worth twenty thousand crore rupees for infrastructure and affordable housing. It will also issue green or sustainable bonds up to five thousand",
-    "image": "https://img.etimg.com/photo/msid-129605355,imgsize-186171.cms",
-    "source": "ET",
-    "pubDate": "Mon, 16 Mar 2026 14:39:14 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/union-bank-of-india-approves-plan-to-raise-up-to-rs-20000-crore-via-long-term-bonds/articleshow/129605355.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-retail-investors-increase-stakes-in-12-midcap-stocks-in-q3-shares-slump-up-to-40-in-3-months/slideshow/129605116.cms",
-    "category": "finance",
-    "title": "FIIs, retail investors increase stakes in 12 midcap stocks in Q3; shares slump up to 40% in 3 months",
-    "summary": "An analysis of the BSE Mid-Cap Index shows that both FIIs and retail investors increased their stakes in 12 stocks during the December quarter. However, market volatility has weighed on returns, with 11 of these companies delivering negative performa",
-    "image": "https://img.etimg.com/photo/msid-129604998,imgsize-.cms",
-    "source": "ET",
-    "pubDate": "Mon, 16 Mar 2026 14:19:31 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-retail-investors-increase-stakes-in-12-midcap-stocks-in-q3-shares-slump-up-to-40-in-3-months/slideshow/129605116.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fino-payments-bank-shares-crash-19-on-report-of-possible-ed-probe-lender-clarifies/articleshow/129604924.cms",
-    "category": "finance",
-    "title": "Fino Payments Bank shares crash 19% on report of possible ED probe; lender clarifies",
-    "summary": "Fino Payments Bank shares tumbled over 19% to a record low after a report said some online gaming transactions linked to the lender may attract scrutiny from the Enforcement Directorate. The bank later clarified it is not under any ED investigation a",
-    "image": "https://img.etimg.com/photo/msid-129604924,imgsize-5606.cms",
-    "source": "ET",
-    "pubDate": "Mon, 16 Mar 2026 14:17:21 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fino-payments-bank-shares-crash-19-on-report-of-possible-ed-probe-lender-clarifies/articleshow/129604924.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/on-camera-lucknow-teen-riding-royal-enfield-dies-after-crash-with-activa-11221776#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/hardeep-puri-daughter-himayani-puri-files-rs-10-crore-defamation-suit-in-delhi-high-court-wants-content-linking-her-to-jeffery-epstein-removed-11222668#publisher=newsstand",
     "category": "india",
-    "title": "Royal Enfield GT 650 Rider Flies Off Bike, Dies After Crashing Into Activa",
-    "summary": "The boy's family refused to get his body's post-mortem.",
-    "image": "https://c.ndtvimg.com/2026-03/1uuojfts_lucknow-crash_625x300_16_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Hardeep Puri's Daughter's 10-Crore Case Over Content Linking Her To Epstein",
+    "summary": "The defamation suit by Hardeep Puri's daughter is likely to be taken up for hearing tomorrow.",
+    "image": "https://c.ndtvimg.com/2025-04/mmiaogq_hardeep-puri_625x300_08_April_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 14:13:44 +0530",
-    "link": "https://www.ndtv.com/india-news/on-camera-lucknow-teen-riding-royal-enfield-dies-after-crash-with-activa-11221776#publisher=newsstand"
+    "pubDate": "Mon, 16 Mar 2026 17:07:48 +0530",
+    "link": "https://www.ndtv.com/india-news/hardeep-puri-daughter-himayani-puri-files-rs-10-crore-defamation-suit-in-delhi-high-court-wants-content-linking-her-to-jeffery-epstein-removed-11222668#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/fixed-income-investments-look-attractive-amid-market-volatility-says-basant-bafna/articleshow/129604772.cms",
+    "id": "https://www.ndtv.com/health/why-teen-girls-feel-tired-iron-deficiency-and-other-common-causes-that-contribute-to-the-problem-11222389#publisher=newsstand",
+    "category": "india",
+    "title": "Why Teen Girls Feel Tired: Iron Deficiency And Other Common Causes That Contribute To The Problem",
+    "summary": "Other than iron deficiency, fatigue and tiredness in teenage girls can be caused due to several factors, which can disrupt their daily lives, school performance, and overall well-being.",
+    "image": "https://c.ndtvimg.com/2026-03/v0clb5ug_tired-teen-girl_625x300_16_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 16 Mar 2026 16:59:36 +0530",
+    "link": "https://www.ndtv.com/health/why-teen-girls-feel-tired-iron-deficiency-and-other-common-causes-that-contribute-to-the-problem-11222389#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/punjab-state-teacher-eligibility-test-2026-provisional-answer-key-out-download-link-here-11222642#publisher=newsstand",
+    "category": "india",
+    "title": "Punjab State Teacher Eligibility Test 2026: Provisional Answer Key Out, Download Link Here",
+    "summary": "[PSTET 2026 Answer Key: will help candidates calculate their estimated scores",
+    "image": "https://c.ndtvimg.com/2026-03/ap4dnbjs_as_625x300_16_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 16 Mar 2026 16:58:50 +0530",
+    "link": "https://www.ndtv.com/education/punjab-state-teacher-eligibility-test-2026-provisional-answer-key-out-download-link-here-11222642#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/madhya-pradesh-guna-tricycle-given-by-minister-breaks-down-official-says-rammed-by-bike-11222717#publisher=newsstand",
+    "category": "india",
+    "title": "Tricycle Given By Minister Breaks Down, Official Says Rammed By Bike",
+    "summary": "Scindia had also garlanded Ojha during the brief ceremony.",
+    "image": "https://c.ndtvimg.com/2026-03/pbomkeuc_handicap-tricycle_625x300_16_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 16 Mar 2026 16:56:43 +0530",
+    "link": "https://www.ndtv.com/india-news/madhya-pradesh-guna-tricycle-given-by-minister-breaks-down-official-says-rammed-by-bike-11222717#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/uk-brothers-build-robot-that-solves-4x4x4-puzzle-cube-in-45-seconds-break-decade-old-record-11222442#publisher=newsstand",
+    "category": "india",
+    "title": "Robot Solves 4x4x4 Puzzle Cube In 45 Seconds, Breaks Decade-Old Record",
+    "summary": "The brothers had to try several times before setting the record.",
+    "image": "https://c.ndtvimg.com/2026-03/i1hc86kg_world-record_625x300_16_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 16 Mar 2026 16:55:11 +0530",
+    "link": "https://www.ndtv.com/world-news/uk-brothers-build-robot-that-solves-4x4x4-puzzle-cube-in-45-seconds-break-decade-old-record-11222442#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/the-impact-of-green-tea-on-your-blood-sugar-levels-explained-11222684#publisher=newsstand",
+    "category": "india",
+    "title": "The Impact Of Green Tea On Your Blood Sugar Levels Explained",
+    "summary": "Incorporating green tea into a balanced diet may have positive effects on blood sugar levels",
+    "image": "https://c.ndtvimg.com/2026-03/a0k0pfu8_green-tea_625x300_16_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 16 Mar 2026 16:54:45 +0530",
+    "link": "https://www.ndtv.com/health/the-impact-of-green-tea-on-your-blood-sugar-levels-explained-11222684#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/indias-ethanol-moment-has-arrived-and-the-industry-says-its-ready-for-more/articleshow/129608247.cms",
     "category": "finance",
-    "title": "Fixed income investments look attractive amid market volatility, says Basant Bafna",
-    "summary": "Investors are finding fixed income attractive amid market volatility. Basant Bafna of Mirae Asset Mutual Fund highlights appealing spreads and carry advantages.  Inflows into fixed income funds are noted.  The short-term outlook suggests curve steepe",
-    "image": "https://img.etimg.com/photo/msid-129604772,imgsize-148400.cms",
+    "title": "India's ethanol moment has arrived \u2014 and the industry says it's ready for more",
+    "summary": "India has mandated 20% ethanol in petrol from April 2026, a significant policy acceleration.  The nation boasts surplus production capacity, offering a strategic energy buffer amidst global oil price volatility.  This move bolsters farmer incomes and",
+    "image": "https://img.etimg.com/photo/msid-129608247,imgsize-8078.cms",
     "source": "ET",
-    "pubDate": "Mon, 16 Mar 2026 14:11:43 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/fixed-income-investments-look-attractive-amid-market-volatility-says-basant-bafna/articleshow/129604772.cms"
+    "pubDate": "Mon, 16 Mar 2026 16:49:16 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/indias-ethanol-moment-has-arrived-and-the-industry-says-its-ready-for-more/articleshow/129608247.cms"
   },
   {
-    "id": "https://www.ndtv.com/feature/x-user-claims-ai-agent-turned-rs-11-lakh-into-rs-40-lakh-while-he-slept-internet-reacts-11221684#publisher=newsstand",
-    "category": "india",
-    "title": "X User Says AI Alert Helped Him Turn Rs 11 Lakh Into Rs 40 Lakh, Internet Reacts",
-    "summary": "The system monitored several global information sources.",
-    "image": "https://c.ndtvimg.com/2026-03/d6j09ip_ai-trading_625x300_16_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 14:05:14 +0530",
-    "link": "https://www.ndtv.com/feature/x-user-claims-ai-agent-turned-rs-11-lakh-into-rs-40-lakh-while-he-slept-internet-reacts-11221684#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-israel-us-war-uae-dubai-airport-attacked-turning-the-other-cheek-why-abu-dhabi-wont-strike-back-at-iran-yet-11221847#publisher=newsstand",
-    "category": "india",
-    "title": "Turning The Other Cheek: Why UAE Won't Strike Back At Iran, Yet",
-    "summary": "Restraint, and a lot of it, has been at the core of the United Arab Emirates' reply to the barrage of drone and missile attacks by neighbour Iran since war consumed the Middle East on Feb 28.",
-    "image": "https://c.ndtvimg.com/2026-03/q309g2e8_dubai_625x300_15_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 14:04:53 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-us-war-uae-dubai-airport-attacked-turning-the-other-cheek-why-abu-dhabi-wont-strike-back-at-iran-yet-11221847#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/ugc-issues-directive-to-strengthen-mental-health-support-in-universities-11221843#publisher=newsstand",
-    "category": "india",
-    "title": "UGC Issues Directive To Strengthen Mental Health Support In Universities",
-    "summary": "UGC issues guidelines for Indian higher education institutions to promote student physical fitness, mental health, and overall well-being through counseling and sports activities.",
-    "image": "https://c.ndtvimg.com/2026-03/pqvpf5nk_university-grants-commission_625x300_16_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 14:00:24 +0530",
-    "link": "https://www.ndtv.com/education/ugc-issues-directive-to-strengthen-mental-health-support-in-universities-11221843#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/bitsat-2026-exam-session-1-registration-ends-today-heres-how-to-apply-11221789#publisher=newsstand",
-    "category": "india",
-    "title": "BITSAT 2026 Exam: Session 1 Registration Ends Today, Here's How To Apply",
-    "summary": "BITSAT 2026: The application fee for Session 1 is Rs. 3,600",
-    "image": "https://c.ndtvimg.com/2024-05/882hbujo_bits-pilani_625x300_02_May_24.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 13:50:30 +0530",
-    "link": "https://www.ndtv.com/education/bitsat-2026-exam-session-1-registration-ends-today-heres-how-to-apply-11221789#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/heart-blockage-symptoms-7-subtle-signs-of-the-disease-that-you-should-watch-for-11221725#publisher=newsstand",
-    "category": "india",
-    "title": "Heart Blockage Symptoms: 7 Subtle Signs Of The Disease That You Should Watch For",
-    "summary": "The early signs of heart blockage are usually subtle and one can mistake them for everyday problems like stress or poor sleep. However, spotting these symptoms can help in early detection of the disease.",
-    "image": "https://c.ndtvimg.com/2025-09/oaecur5k_heart-attack-1_625x300_09_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 13:44:54 +0530",
-    "link": "https://www.ndtv.com/health/heart-blockage-symptoms-7-subtle-signs-of-the-disease-that-you-should-watch-for-11221725#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/ai-models-hiding-what-they-think-from-users-what-openai-anthropic-study-said-11221112#publisher=newsstand",
-    "category": "india",
-    "title": "AI Models Hiding What They Think From Users? What OpenAI, Anthropic Study Said",
-    "summary": "Representational Image",
-    "image": "https://c.ndtvimg.com/2026-01/6jltgq28_women-view-artificial-intelligence-as-riskier-than-men_625x300_20_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 13:42:10 +0530",
-    "link": "https://www.ndtv.com/world-news/ai-models-hiding-what-they-think-from-users-what-openai-anthropic-study-said-11221112#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/indigo-adani-airport-launch-partnership-for-bluchips-on-duty-free-shopping-11221748#publisher=newsstand",
-    "category": "india",
-    "title": "IndiGo, Adani Airport Launch Partnership For BluChips On Duty-Free Shopping",
-    "summary": "Travellers can browse, reserve and pay for products online before departure",
-    "image": "https://c.ndtvimg.com/2026-03/3oqv4k9o_adani_625x300_16_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 16 Mar 2026 13:41:01 +0530",
-    "link": "https://www.ndtv.com/india-news/indigo-adani-airport-launch-partnership-for-bluchips-on-duty-free-shopping-11221748#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/2008-global-crash-to-2020-covid-how-nifty-50-plunged-up-to-59-in-crises-but-rebounded/articleshow/129604176.cms",
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-said-to-work-with-six-banks-on-jios-upcoming-ipo/articleshow/129608265.cms",
     "category": "finance",
-    "title": "2008 global crash to 2020 COVID: How Nifty 50 plunged up to 59% in crises but rebounded",
-    "summary": "Despite recent volatility triggered by geopolitical tensions, India's Nifty 50 has historically demonstrated resilience, recovering from major global crises like the dot-com bubble, the 2008 financial crisis, and the COVID-19 crash. The benchmark ind",
-    "image": "https://img.etimg.com/photo/msid-129604176,imgsize-62804.cms",
+    "title": "Reliance said to work with six banks for Jio\u2019s upcoming IPO",
+    "summary": "Reliance Industries Ltd. is working with six banks, including BofA Securities and Goldman Sachs Group, on the planned IPO of its telecom unit, Jio Platforms Ltd.. The offering could be India\u2019s largest, raising over $4 billion following recent governm",
+    "image": "https://img.etimg.com/photo/msid-129608265,imgsize-19088.cms",
     "source": "ET",
-    "pubDate": "Mon, 16 Mar 2026 13:37:50 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/2008-global-crash-to-2020-covid-how-nifty-50-plunged-up-to-59-in-crises-but-rebounded/articleshow/129604176.cms"
+    "pubDate": "Mon, 16 Mar 2026 16:49:02 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-said-to-work-with-six-banks-on-jios-upcoming-ipo/articleshow/129608265.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/2-top-stock-recommendations-from-rajesh-bhosale/articleshow/129604204.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gail-among-10-energy-stocks-stocks-hit-52-week-lows-slip-up-to-18-in-a-month/slideshow/129608496.cms",
     "category": "finance",
-    "title": "2 top stock recommendations from Rajesh Bhosale",
-    "summary": "Indian equity markets opened with volatility, with indices oscillating sharply in early trading. Analysts suggest focusing on stock-specific opportunities, particularly those in oversold zones near long-term supports. HDFC Bank and Hindalco are highl",
-    "image": "https://img.etimg.com/photo/msid-129604204,imgsize-6228.cms",
+    "title": "GAIL among 10 energy stocks that hit 52-week lows; slip up to 18% in a month",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-129608291,imgsize-553892.cms",
     "source": "ET",
-    "pubDate": "Mon, 16 Mar 2026 13:36:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/2-top-stock-recommendations-from-rajesh-bhosale/articleshow/129604204.cms"
+    "pubDate": "Mon, 16 Mar 2026 16:47:14 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gail-among-10-energy-stocks-stocks-hit-52-week-lows-slip-up-to-18-in-a-month/slideshow/129608496.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/bihar-board-class-12-result-2026-bseb-inter-results-likely-to-be-announced-this-week-11222655#publisher=newsstand",
+    "category": "india",
+    "title": "Bihar Board Class 12 Result 2026: BSEB Inter Results Likely To Be Announced This Week",
+    "summary": "How To Check Bihar Board Class 12 Results Online In 2026",
+    "image": "https://c.ndtvimg.com/2026-03/hkgvc9ok_bihar-board-2026_625x300_16_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 16 Mar 2026 16:46:43 +0530",
+    "link": "https://www.ndtv.com/education/bihar-board-class-12-result-2026-bseb-inter-results-likely-to-be-announced-this-week-11222655#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/can-men-feel-pregnancy-symptoms-know-about-the-curious-case-of-couvade-syndrome-11222094#publisher=newsstand",
+    "category": "india",
+    "title": "Can Men Feel Pregnancy Symptoms? The Curious Case Of Couvade Syndrome Explained",
+    "summary": "men in Couples facing infertility may develop Couvade syndrome",
+    "image": "https://c.ndtvimg.com/2026-03/f23lmpeg_couvade-syndrome_625x300_16_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 16 Mar 2026 16:44:24 +0530",
+    "link": "https://www.ndtv.com/health/can-men-feel-pregnancy-symptoms-know-about-the-curious-case-of-couvade-syndrome-11222094#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensexs-1800-point-intraday-surge-powered-by-fantastic-four-hdfc-bank-ril-sbi-and-icici-bank/articleshow/129607730.cms",
+    "category": "finance",
+    "title": "Sensex's 1,800 point intraday surge powered by fantastic four: HDFC Bank, RIL, SBI and ICICI Bank",
+    "summary": "Indian stock markets experienced a strong rebound today. The Sensex surged over 900 points, while the Nifty also saw significant gains. This recovery was largely driven by major banking and financial stocks. Experts suggest this was a short-covering ",
+    "image": "https://img.etimg.com/photo/msid-129607730,imgsize-56136.cms",
+    "source": "ET",
+    "pubDate": "Mon, 16 Mar 2026 16:27:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensexs-1800-point-intraday-surge-powered-by-fantastic-four-hdfc-bank-ril-sbi-and-icici-bank/articleshow/129607730.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/rec-declares-rs-3-20/share-dividend-check-record-date-dividend-yield/articleshow/129607235.cms",
+    "category": "finance",
+    "title": "REC declares Rs 3.20/share dividend. Check record date, dividend yield",
+    "summary": "REC Limited announced a fourth interim dividend of Rs 3.20 per share, with the record date set for March 20. The dividend will be paid on or before April 14. This marks the company\u2019s 45th dividend since 2008, with a 12-month equity payout of Rs 20 pe",
+    "image": "https://img.etimg.com/photo/msid-129607235,imgsize-21866.cms",
+    "source": "ET",
+    "pubDate": "Mon, 16 Mar 2026 16:06:23 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/rec-declares-rs-3-20/share-dividend-check-record-date-dividend-yield/articleshow/129607235.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/gsp-crop-science-ipo-day-1-subscribed-45-check-gmp-price-band-and-key-details/articleshow/129607080.cms",
+    "category": "finance",
+    "title": "GSP Crop Science IPO Day 1: Subscribed 45% \u2013 Check GMP, price band and key details",
+    "summary": "GSP Crop Science\u2019s Rs 400 crore IPO opened for subscription and was subscribed 45% on Day 1. Qualified institutional buyers showed the strongest demand while retail participation remained subdued. The issue is priced between Rs 304 and Rs 320 per sha",
+    "image": "https://img.etimg.com/photo/msid-129607080,imgsize-11308.cms",
+    "source": "ET",
+    "pubDate": "Mon, 16 Mar 2026 16:02:16 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gsp-crop-science-ipo-day-1-subscribed-45-check-gmp-price-band-and-key-details/articleshow/129607080.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-falls-below-5000/ounce-as-inflation-fears-pressure-fed-rate-cut-outlook/articleshow/129606873.cms",
+    "category": "finance",
+    "title": "Gold falls below $5,000/ounce as inflation fears pressure Fed rate-cut outlook",
+    "summary": "Gold prices dipped on Monday, pressured by concerns that surging oil costs could stoke inflation further and prompt a more hawkish policy stance by major central \u200cbanks including \u2060the \u2060U.S. Federal Reserve, dulling the appeal of the non-yielding asse",
+    "image": "https://img.etimg.com/photo/msid-129606873,imgsize-104626.cms",
+    "source": "ET",
+    "pubDate": "Mon, 16 Mar 2026 15:55:41 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-falls-below-5000/ounce-as-inflation-fears-pressure-fed-rate-cut-outlook/articleshow/129606873.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-averts-record-low-on-state-run-banks-dollar-sales-oil-worries-persist/articleshow/129606748.cms",
+    "category": "finance",
+    "title": "Rupee averts record low on state-run banks' dollar sales; oil worries persist",
+    "summary": "The Indian rupee was \u200bpinned near its all-time low \u200bon Monday, averting losses largely on the back of \u200blikely central bank intervention, via state-run banks, as hostilities in the Gulf kept oil prices elevated.",
+    "image": "https://img.etimg.com/photo/msid-129606748,imgsize-42708.cms",
+    "source": "ET",
+    "pubDate": "Mon, 16 Mar 2026 15:48:29 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-averts-record-low-on-state-run-banks-dollar-sales-oil-worries-persist/articleshow/129606748.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cp9mgpzn901o#0",
+    "category": "global",
+    "title": "'Vulnerable' households to get \u00a353m to help with heating oil costs, Starmer announces",
+    "summary": "The money will be for \"vulnerable\" households who have faced a sharp rise in energy bills since the outbreak of the US-Israeli war with Iran.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 16 Mar 2026 11:29:11 GMT",
+    "link": "https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cp32kwe2280o#0",
+    "category": "global",
+    "title": "Schoolgirl 'traumatised' after being wrongly sent to England for abortion",
+    "summary": "The teenager could have been treated in Northern Ireland, but was sent to London due to confusion over the services available.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 16 Mar 2026 09:47:33 GMT",
+    "link": "https://www.bbc.com/news/articles/cp32kwe2280o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8eg3g4lklno#0",
+    "category": "global",
+    "title": "Alcohol-free beer and houmous used to measure inflation as UK shifts to healthier living",
+    "summary": "Houmous and motorhomes are also added to the basket of goods and services used to chart the rising cost of living.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 16 Mar 2026 09:30:34 GMT",
+    "link": "https://www.bbc.com/news/articles/c8eg3g4lklno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528097.html",
@@ -240,14 +270,14 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1528103.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cp9mgpzn901o#0",
+    "id": "https://www.bbc.com/news/articles/c4g01m82vn2o#0",
     "category": "global",
-    "title": "Starmer to set out support plan for heating oil costs",
-    "summary": "Households have faced a sharp rise in the cost of heating oil since the outbreak of the US-Israeli war with Iran.",
+    "title": "Travelodge changes policy after attacker given room key",
+    "summary": "The woman was attacked by Kyran Smith, who was given a key to her hotel room by staff.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 16 Mar 2026 08:21:04 GMT",
-    "link": "https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 16 Mar 2026 08:27:29 GMT",
+    "link": "https://www.bbc.com/news/articles/c4g01m82vn2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528092.html",
@@ -300,54 +330,24 @@
     "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cp9mg90k78eo#1",
+    "id": "https://www.bbc.com/news/articles/c9v0zzzwjzvo#0",
     "category": "global",
-    "title": "Here are all the moments you didn't see on TV",
-    "summary": "Inside the winners room and other insights from behind the scenes.",
+    "title": "Jessie Buckley, Michael B Jordan and One Battle After Another reign at Oscars",
+    "summary": "Paul Thomas Anderson's political thriller wins six prizes including best picture and best director.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 16 Mar 2026 05:04:06 GMT",
-    "link": "https://www.bbc.com/news/articles/cp9mg90k78eo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 16 Mar 2026 04:00:58 GMT",
+    "link": "https://www.bbc.com/news/articles/c9v0zzzwjzvo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cd9g331v315o#0",
+    "id": "https://www.bbc.com/news/articles/c33jkvmzl4ko#0",
     "category": "global",
-    "title": "In pictures: Stars and fashion from the red carpet",
-    "summary": "Hollywood's biggest stars turn on the style as they walk the red carpet for the glittering ceremony.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 16 Mar 2026 03:46:35 GMT",
-    "link": "https://www.bbc.com/news/articles/cd9g331v315o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c33jkvmzl4ko#1",
-    "category": "global",
-    "title": "Winners list in full",
+    "title": "See the Oscars winners list in full",
     "summary": "Find out which films and stars have won the famous golden statuettes at the ceremony in Los Angeles.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Mon, 16 Mar 2026 03:43:48 GMT",
     "link": "https://www.bbc.com/news/articles/c33jkvmzl4ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/cedzq0q6x5lo#1",
-    "category": "global",
-    "title": "Historic firsts, emotional speeches, and a tie: Watch the top Oscars moments",
-    "summary": "One Battle After Another dominated the night with six awards, while Sinners and Frankenstein weren't far behind.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 16 Mar 2026 03:15:43 GMT",
-    "link": "https://www.bbc.com/news/videos/cedzq0q6x5lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4g4n1dyepdo#1",
-    "category": "global",
-    "title": "Best animated film winner Kpop Demon Hunters captures hearts world over",
-    "summary": "We find out how the award-winning, demon-busting crooners have cast a spell world over.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 16 Mar 2026 02:39:01 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g4n1dyepdo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cx2dl5j0w23o#0",
