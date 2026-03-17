@@ -10,6 +10,16 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/analysts-revise-ai-hyperscaler-debt-forecasts-after-amazon-bond-sale/articleshow/129639803.cms",
+    "category": "finance",
+    "title": "Analysts revise AI hyperscaler debt forecasts after Amazon bond sale",
+    "summary": "Hyperscalers are expected to significantly increase debt issuance this year to fund massive data center expansions for AI. Following Amazon's substantial bond sale, analysts predict continued high levels of borrowing, with forecasts for 2026 now reac",
+    "image": "https://img.etimg.com/photo/msid-129639803,imgsize-69438.cms",
+    "source": "ET",
+    "pubDate": "Tue, 17 Mar 2026 23:44:31 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/analysts-revise-ai-hyperscaler-debt-forecasts-after-amazon-bond-sale/articleshow/129639803.cms"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/ground-report-amid-commercial-gas-concerns-some-eateries-shut-food-costs-more-11229796#publisher=newsstand",
     "category": "india",
     "title": "Ground Report: Amid Commercial Gas Concerns, Some Eateries Shut, Food Costs More",
@@ -160,24 +170,64 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-boeing-shareholders-can-pursue-class-action-over-737-max-safety/articleshow/129636492.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-debt-investors-offloading-exposure-to-software-stocks-is-latest-sign-of-pain/articleshow/129635881.cms",
-    "category": "finance",
-    "title": "US Stocks: Debt investors offloading exposure to software stocks is latest sign of pain",
-    "summary": "Investors are offloading software loans in debt vehicles at a discount, in the latest sign of pain in the software industry, which is being upended by AI.",
-    "image": "https://img.etimg.com/photo/msid-129635881,imgsize-962336.cms",
-    "source": "ET",
-    "pubDate": "Tue, 17 Mar 2026 20:17:43 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-debt-investors-offloading-exposure-to-software-stocks-is-latest-sign-of-pain/articleshow/129635881.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1528248.html",
+    "category": "sports",
+    "title": "Can England's regime change to meet post-Ashes realities?",
+    "summary": "Livingstone's explosive interview with ESPNcricinfo exposes issues within disjointed England set-up",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/402300/402324.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 17 Mar 2026 18:40:02 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528248.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cjd9dk2v0z3o#0",
+    "category": "global",
+    "title": "Was response to meningitis outbreak too slow?",
+    "summary": "Questions are being asked about whether the NHS and authorities should have raised the alarm sooner.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 17 Mar 2026 18:33:47 GMT",
+    "link": "https://www.bbc.com/news/articles/cjd9dk2v0z3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0k16zdr1r1o#0",
+    "category": "global",
+    "title": "Mayors to gain more spending power under Reeves tax plans",
+    "summary": "The chancellor sets out the government's plan for economic growth, which also includes closer ties to the EU.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 17 Mar 2026 18:26:30 GMT",
+    "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c15xeyny73wo#0",
     "category": "global",
-    "title": "Focus must remain on Ukraine despite Iran war, PM says as he meets President Zelensky",
-    "summary": "Starmer says Russia cannot benefit from the conflict in the Middle East, as he meets the Ukrainian leader in No 10.",
+    "title": "Iran and Russia are 'brothers in hatred', Zelensky tells MPs",
+    "summary": "The president highlights how Tehran is selling drones to Moscow that have been used against Ukraine.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Tue, 17 Mar 2026 17:17:19 GMT",
+    "pubDate": "Tue, 17 Mar 2026 18:26:19 GMT",
     "link": "https://www.bbc.com/news/articles/c15xeyny73wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c7vjv57evnro#0",
+    "category": "global",
+    "title": "Man found dead in wheelie bin was a 'pillar of strength', family say",
+    "summary": "The body found  at Cash's Park in Coventry is that of 37-year-old Thomas Niven, police have confirmed.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 17 Mar 2026 18:13:00 GMT",
+    "link": "https://www.bbc.com/news/articles/c7vjv57evnro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c79522r09qqo#0",
+    "category": "global",
+    "title": "Dates confirmed for new driving test booking rules",
+    "summary": "Only learners will be able to book a car driving test under new rules to make the system fairer.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 17 Mar 2026 17:58:01 GMT",
+    "link": "https://www.bbc.com/news/articles/c79522r09qqo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/videos/cgk2lk86y3mo#0",
@@ -200,16 +250,6 @@
     "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c0k16zdr1r1o#0",
-    "category": "global",
-    "title": "Mayors to gain more spending power under Reeves tax plans",
-    "summary": "The Chancellor has set out the government's plan for economic growth, which also includes closer ties to the EU.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 17 Mar 2026 15:43:04 GMT",
-    "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1528198.html",
     "category": "sports",
     "title": "Pope: Ashes axing was 'right decision at the time'",
@@ -220,16 +260,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1528198.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c3rzg0vg947o#0",
-    "category": "global",
-    "title": "Why is MenB vaccine not given to teenagers in UK and should they be offered it?",
-    "summary": "Students and older teens have not been vaccinated against the strain that has caused the outbreak of cases in Kent.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 17 Mar 2026 14:49:17 GMT",
-    "link": "https://www.bbc.com/news/articles/c3rzg0vg947o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c3rzgg8wp52o#0",
     "category": "global",
     "title": "Prince William joins Greg James on Comic Relief tandem bike ride",
@@ -238,16 +268,6 @@
     "source": "BBC",
     "pubDate": "Tue, 17 Mar 2026 14:34:38 GMT",
     "link": "https://www.bbc.com/news/articles/c3rzgg8wp52o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/clyz7llp4k2o#0",
-    "category": "global",
-    "title": "'Many people fooled' by AI wedding pics, says Zendaya",
-    "summary": "The star has spoken about the viral images that appeared to show her marrying partner Tom Holland.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 17 Mar 2026 14:29:29 GMT",
-    "link": "https://www.bbc.com/news/articles/clyz7llp4k2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528193.html",
@@ -300,16 +320,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1528189.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c8jg9kgz209o#0",
-    "category": "global",
-    "title": "Scotland is about to vote on assisted dying. How would it work?",
-    "summary": "The Scottish Parliament will soon decide whether to allow terminally-ill adults to end their lives.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 17 Mar 2026 10:17:20 GMT",
-    "link": "https://www.bbc.com/news/articles/c8jg9kgz209o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1528181.html",
     "category": "sports",
     "title": "Suryakumar: 'The percentage I tried to get in school and college, I'm getting in cricket'",
@@ -318,16 +328,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 17 Mar 2026 10:03:59 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528181.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528184.html",
-    "category": "sports",
-    "title": "Devon Conway, bowlers star as New Zealand make it 1-1",
-    "summary": "Ben Sears and Lockie Ferguson took six wickets between them in an incisive display of quick bowling for NZ",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414754.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 17 Mar 2026 09:48:01 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528184.html?ex_cid=OTC-RSS"
   },
   {
     "id": "1dxpkoyNmn8ceRMHCKLlT8",
