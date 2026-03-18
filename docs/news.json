@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-trade-desk-shares-drop-7-after-report-that-publicis-advised-clients-against-using-its-platform/articleshow/129663831.cms",
+    "category": "finance",
+    "title": "US Stocks: Trade Desk shares drop 5% after report that Publicis advised clients against using its platform",
+    "summary": "Trade Desk shares dropped significantly after French advertising giant Publicis Groupe advised clients to avoid the platform. An independent audit found Trade Desk violated agreement clauses. Publicis confirmed the findings and will no longer recomme",
+    "image": "https://img.etimg.com/photo/msid-129663831,imgsize-152972.cms",
+    "source": "ET",
+    "pubDate": "Wed, 18 Mar 2026 23:51:42 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-trade-desk-shares-drop-7-after-report-that-publicis-advised-clients-against-using-its-platform/articleshow/129663831.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-unilever-shares-fall-on-investor-concerns-about-food-business-spin-off/articleshow/129663633.cms",
+    "category": "finance",
+    "title": "US Stocks: Unilever shares fall on investor concerns about food business spin-off",
+    "summary": "Unilever shares dropped as investors worried about a potential food business split. This comes soon after the company separated its ice cream brands. Analysts suggest the new CEO needs more time before further restructuring. The food business, includ",
+    "image": "https://img.etimg.com/photo/msid-129663633,imgsize-47608.cms",
+    "source": "ET",
+    "pubDate": "Wed, 18 Mar 2026 23:43:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-unilever-shares-fall-on-investor-concerns-about-food-business-spin-off/articleshow/129663633.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-federal-reserve-keeps-rates-unchanged-as-policymakers-balance-iran-war-and-macro-data/articleshow/129662486.cms",
+    "category": "finance",
+    "title": "US Federal Reserve keeps rates unchanged; revises inflation outlook upward to 2.7%",
+    "summary": "The US Federal Reserve held interest rates steady, balancing moderating economic growth with rising geopolitical tensions and persistent inflation concerns. Indian markets reacted positively, extending gains as the Fed's decision was largely anticipa",
+    "image": "https://img.etimg.com/photo/msid-129662486,imgsize-38736.cms",
+    "source": "ET",
+    "pubDate": "Wed, 18 Mar 2026 23:30:50 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-federal-reserve-keeps-rates-unchanged-as-policymakers-balance-iran-war-and-macro-data/articleshow/129662486.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/jammu-and-kashmir-high-court-closes-gulmarg-land-lease-case-after-mass-withdrawal-of-petitions-11235132#publisher=newsstand",
+    "category": "india",
+    "title": "Gulmarg Land Lease Case Closed, Hoteliers To Opt For Government Settlement",
+    "summary": "The new laws have ended automatic lease extensions in Gulmarg (File)",
+    "image": "https://c.ndtvimg.com/2023-12/898dacvo_gulmarg-_625x300_17_December_23.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 18 Mar 2026 23:29:53 +0530",
+    "link": "https://www.ndtv.com/india-news/jammu-and-kashmir-high-court-closes-gulmarg-land-lease-case-after-mass-withdrawal-of-petitions-11235132#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/dubai-real-estate-shows-resilience-amid-israel-iran-war-11235089#publisher=newsstand",
+    "category": "india",
+    "title": "Dubai Real Estate Shows Resilience Amid Israel-Iran War",
+    "summary": "Priyank Shah, CEO of Buildcaps Real Estate LLC said developers are offering discounts.",
+    "image": "https://c.ndtvimg.com/2026-03/hho5f1jc_dubai_625x300_18_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 18 Mar 2026 23:16:23 +0530",
+    "link": "https://www.ndtv.com/world-news/dubai-real-estate-shows-resilience-amid-israel-iran-war-11235089#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/mumbai-constable-dies-by-suicide-alleges-harassment-by-lovers-parents-11235067#publisher=newsstand",
+    "category": "india",
+    "title": "Mumbai Constable Dies By Suicide, Alleges Harassment By Lover's Parents",
+    "summary": "Wavale was found dead on March 15 at the Kalina Training Centre.",
+    "image": "https://c.ndtvimg.com/2026-03/hb2ekfng_maharashtra-constable_625x300_18_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 18 Mar 2026 23:08:40 +0530",
+    "link": "https://www.ndtv.com/india-news/mumbai-constable-dies-by-suicide-alleges-harassment-by-lovers-parents-11235067#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-justice-will-be-served-mojtaba-khamenei-on-larijanis-killing-11234831#publisher=newsstand",
+    "category": "india",
+    "title": "\"Every Drop Of Blood Has A Price\": Mojtaba Vows To Avenge Larijani Killing",
+    "summary": "Iran's Supreme Leader Mojtaba Khamenei has vowed revenge for the killing of security chief Ali Larijani",
+    "image": "https://c.ndtvimg.com/2026-03/lh6scbpk_larijani-_625x300_18_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 18 Mar 2026 23:01:51 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-justice-will-be-served-mojtaba-khamenei-on-larijanis-killing-11234831#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/offbeat/chaitra-navratri-2026-day-1-maa-shailputri-messages-and-whatsapp-status-ideas-11234981#publisher=newsstand",
     "category": "india",
     "title": "Chaitra Navratri 2026 Day 1: Maa Shailputri Messages And WhatsApp Status Ideas",
@@ -8,16 +78,6 @@
     "source": "NDTV",
     "pubDate": "Wed, 18 Mar 2026 22:47:14 +0530",
     "link": "https://www.ndtv.com/offbeat/chaitra-navratri-2026-day-1-maa-shailputri-messages-and-whatsapp-status-ideas-11234981#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-israel-war-justice-will-be-served-mojtaba-khamenei-on-larijanis-killing-11234831#publisher=newsstand",
-    "category": "india",
-    "title": "\"Justice Will Be Served\": Mojtaba Khamenei On Larijani's Killing",
-    "summary": "Iran's Supreme Leader Mojtaba Khamenei has vowed revenge for the killing of security chief Ali Larijani",
-    "image": "https://c.ndtvimg.com/2026-03/lh6scbpk_larijani-_625x300_18_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 18 Mar 2026 22:46:36 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-justice-will-be-served-mojtaba-khamenei-on-larijanis-killing-11234831#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/israel-iran-war-hits-dubais-hospitality-sector-tourism-drops-sharply-11234963#publisher=newsstand",
@@ -50,26 +110,6 @@
     "link": "https://www.ndtv.com/india-news/adani-ports-colombo-terminal-handles-over-1-million-containers-in-1st-year-11234879#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/staff-shortages-cloud-madhya-pradeshs-farmer-welfare-push-11234858#publisher=newsstand",
-    "category": "india",
-    "title": "Staff Shortages Cloud Madhya Pradesh's Farmer Welfare Push",
-    "summary": "The shortage is also visible at senior levels, where 113 out of 182 posts remain unfilled.",
-    "image": "https://w.ndtvimg.com/sites/22/2015/11/09111508/cultivating-hope-farmer-suicide-ndtv-6.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 18 Mar 2026 22:17:03 +0530",
-    "link": "https://www.ndtv.com/india-news/staff-shortages-cloud-madhya-pradeshs-farmer-welfare-push-11234858#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/british-tourist-dies-girlfriend-hospitalised-after-suspected-drink-spiking-in-thailand-11234826#publisher=newsstand",
-    "category": "india",
-    "title": "British Tourist Dies, Girlfriend Hospitalised After Suspected Drink Spiking In Thailand",
-    "summary": "A GoFundMe page has been set up to help with Naomi's medical expenses.",
-    "image": "https://c.ndtvimg.com/2026-03/us0ofg_drinks_625x300_18_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 18 Mar 2026 22:09:31 +0530",
-    "link": "https://www.ndtv.com/world-news/british-tourist-dies-girlfriend-hospitalised-after-suspected-drink-spiking-in-thailand-11234826#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-bound-coal-india-arm-cmpdil-garners-rs-470-crore-from-anchor-investors/articleshow/129661292.cms",
     "category": "finance",
     "title": "IPO bound Coal India arm CMPDIL garners Rs 470 crore from anchor investors",
@@ -78,16 +118,6 @@
     "source": "ET",
     "pubDate": "Wed, 18 Mar 2026 21:56:18 +0530",
     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-bound-coal-india-arm-cmpdil-garners-rs-470-crore-from-anchor-investors/articleshow/129661292.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/live-eid-ul-fitr-2026-moon-sighting-timing-11234673#publisher=newsstand",
-    "category": "india",
-    "title": "Eid ul-Fitr 2026: Latest Moon Sighting Updates For India And Gulf",
-    "summary": "In India, Ramadan began in mid-February, and the country is currently in the final days of fasting.",
-    "image": "https://c.ndtvimg.com/2025-03/q5g9vgpo_ramadan-2025_625x300_02_March_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 18 Mar 2026 21:51:24 +0530",
-    "link": "https://www.ndtv.com/offbeat/live-eid-ul-fitr-2026-moon-sighting-timing-11234673#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/crypto-exchange-kraken-freezes-ipo-plans-coindesk-reports/articleshow/129660929.cms",
@@ -130,44 +160,24 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-bse-and-atlanta-electricals-on-thursday-for-gains-up-to-13/articleshow/129660293.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bew-engineering-bulk-deal-ashish-kacholia-exits-sme-company-as-stock-slumps-44-in-a-year/articleshow/129659969.cms",
-    "category": "finance",
-    "title": "BEW Engineering bulk deal: Ashish Kacholia exits SME company as stock slumps 44% in a year",
-    "summary": "Ace investor Ashish Kacholia exited BEW Engineering entirely through a bulk deal, amid prolonged stock underperformance and declining prices, raising concerns about the company\u2019s near-term outlook despite its niche presence in pharmaceutical equipmen",
-    "image": "https://img.etimg.com/photo/msid-129659969,imgsize-36818.cms",
-    "source": "ET",
-    "pubDate": "Wed, 18 Mar 2026 20:44:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bew-engineering-bulk-deal-ashish-kacholia-exits-sme-company-as-stock-slumps-44-in-a-year/articleshow/129659969.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1528248.html",
+    "category": "sports",
+    "title": "Can England's regime change to meet post-Ashes realities?",
+    "summary": "Livingstone's explosive interview with ESPNcricinfo exposes issues within disjointed England set-up",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/402300/402324.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 18 Mar 2026 18:54:10 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528248.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/decision-day-guide-us-fed-expected-to-hold-rates-weigh-oil-shock/articleshow/129659291.cms",
-    "category": "finance",
-    "title": "US Federal Reserve expected to hold rates, weigh oil shock",
-    "summary": "Investors await Powell\u2019s signals as the Federal Reserve weighs rates steady amid US-Israeli strikes on Iran, balancing persistent inflation against slowing growth risks, with new projections and policy language expected to reflect geopolitical uncert",
-    "image": "https://img.etimg.com/photo/msid-129659291,imgsize-195690.cms",
-    "source": "ET",
-    "pubDate": "Wed, 18 Mar 2026 20:09:07 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/decision-day-guide-us-fed-expected-to-hold-rates-weigh-oil-shock/articleshow/129659291.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-macys-forecasts-weak-2026-says-tariff-hit-to-ease-later-this-year/articleshow/129658525.cms",
-    "category": "finance",
-    "title": "US Stocks: Macy's forecasts weak 2026, says tariff hit to ease later this year",
-    "summary": "Macy's said \u200bit was taking a \"prudent approach\" to its outlook, as it \u200bforecast a fall in annual revenue and profit, citing macroeconomic and geopolitical risks that could affect consumer spending.",
-    "image": "https://img.etimg.com/photo/msid-129658525,imgsize-118684.cms",
-    "source": "ET",
-    "pubDate": "Wed, 18 Mar 2026 19:31:29 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-macys-forecasts-weak-2026-says-tariff-hit-to-ease-later-this-year/articleshow/129658525.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cj989r494r9o#0",
+    "id": "https://www.bbc.com/news/articles/cq575yp1lw6o#0",
     "category": "global",
-    "title": "Murder charges after body found in wheelie bin",
-    "summary": "Thomas Niven, 37, was found in a park in Coventry on Friday evening.",
+    "title": "One killed as ski gondola crashes down mountain at Swiss resort",
+    "summary": "Dramatic footage showed the gondola flipping over several times in the snow before coming to a halt in Engelberg.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Wed, 18 Mar 2026 17:48:22 GMT",
-    "link": "https://www.bbc.com/news/articles/cj989r494r9o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Wed, 18 Mar 2026 18:25:33 GMT",
+    "link": "https://www.bbc.com/news/articles/cq575yp1lw6o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cy57593gxe0o#0",
@@ -230,16 +240,6 @@
     "link": "https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cge8e2dq9plo#0",
-    "category": "global",
-    "title": "Average age of first time buyer in England climbs to 34",
-    "summary": "A new report looks at how conditions have changed for first time buyers since the 1990s.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 18 Mar 2026 14:00:10 GMT",
-    "link": "https://www.bbc.com/news/articles/cge8e2dq9plo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1528345.html",
     "category": "sports",
     "title": "Kishan to lead Sunrisers Hyderabad in Cummins' absence",
@@ -248,6 +248,16 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 18 Mar 2026 12:58:24 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528345.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cd9g1918eeeo#0",
+    "category": "global",
+    "title": "Fire-hit Glasgow building being demolished by hand",
+    "summary": "Demolition workers are using hand tools to dismantle the remaining facade of a B-listed Victorian building in Glasgow which went up in flames.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 18 Mar 2026 12:50:42 GMT",
+    "link": "https://www.bbc.com/news/articles/cd9g1918eeeo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528343.html",
@@ -278,16 +288,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 18 Mar 2026 06:47:15 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528257.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528186.html",
-    "category": "sports",
-    "title": "Haddin named New South Wales head coach",
-    "summary": "The former wicketkeeper-batter takes over from Greg Shipperd after a messy few months for the state",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414760.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 18 Mar 2026 06:13:38 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528186.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528261.html",
