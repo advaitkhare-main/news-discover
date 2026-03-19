@@ -50,6 +50,16 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/view-dont-panic-dont-capitulate-investors-try-to-see-beyond-iran-war-says-mike-dolan/articleshow/129683574.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cp9vryml4d1o#0",
+    "category": "global",
+    "title": "US broadcaster pulls The Bachelorette after domestic abuse allegations",
+    "summary": "The decision comes after footage emerged appearing to show Taylor Frankie Paul  in an altercation with her ex-partner.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Mar 2026 21:29:26 GMT",
+    "link": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/129683153.cms",
     "category": "finance",
     "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
@@ -88,16 +98,6 @@
     "source": "ET",
     "pubDate": "Thu, 19 Mar 2026 20:44:49 +0530",
     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/indias-largest-asset-manager-sbi-funds-management-files-for-ipo/articleshow/129682434.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvge3mxgvwwo#0",
-    "category": "global",
-    "title": "Norway crown princess to address Epstein links as son's rape trial closes",
-    "summary": "Mette-Marit gives a much-anticipated interview, due to be broadcast on Friday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Mar 2026 20:14:30 GMT",
-    "link": "https://www.bbc.com/news/articles/cvge3mxgvwwo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c8x7leknlywo#0",
@@ -280,6 +280,66 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
+    "id": "https://www.ndtv.com/world-news/iran-war-war-with-iran-could-end-faster-than-people-think-benjamin-netanyahu-11240489#publisher=newsstand",
+    "category": "india",
+    "title": "War With Iran Could End \"Faster Than People Think\": Netanyahu",
+    "summary": "Netanyahu said \"we are winning and Iran is being decimated.\"",
+    "image": "https://c.ndtvimg.com/2026-03/00offhk4_benjamin-netanyahu_625x300_20_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Mar 2026 01:47:41 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-war-with-iran-could-end-faster-than-people-think-benjamin-netanyahu-11240489#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-says-israel-will-stop-attacks-on-iranian-gas-field-11240574#publisher=newsstand",
+    "category": "india",
+    "title": "Netanyahu Says Israel Will Stop Attacks On Iranian Gas Field",
+    "summary": "Benjamin Netanyahu holds a press conference in Jerusalem on Thursday.",
+    "image": "https://c.ndtvimg.com/2026-03/kj9eb6rg_benjamin-netanyahu_625x300_20_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Mar 2026 01:37:58 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-says-israel-will-stop-attacks-on-iranian-gas-field-11240574#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/bjp-candidate-list-looks-balanced-in-assam-but-allies-have-to-catch-up-11240507#publisher=newsstand",
+    "category": "india",
+    "title": "BJP Candidate List Looks Balanced In Assam, But Allies Have To Catch Up",
+    "summary": "Chief Minister Himanta Biswa Sarma is contesting again from Jalukbari",
+    "image": "https://c.ndtvimg.com/2026-02/dkskir7o_himanta-sarma-_625x300_26_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Mar 2026 01:04:41 +0530",
+    "link": "https://www.ndtv.com/india-news/bjp-candidate-list-looks-balanced-in-assam-but-allies-have-to-catch-up-11240507#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-says-iran-no-longer-has-uranium-enrichment-capacity-11240511#publisher=newsstand",
+    "category": "india",
+    "title": "Netanyahu Says Iran No Longer Has Uranium Enrichment Capacity",
+    "summary": "Netanyahu also denied he dragged the United States into the conflict.",
+    "image": "https://c.ndtvimg.com/2026-03/5iu8bhhc_benjamin-netanyahu_625x300_20_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Mar 2026 01:03:54 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-says-iran-no-longer-has-uranium-enrichment-capacity-11240511#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-latest-news-how-naval-warfare-law-applies-to-strait-of-hormuz-11240206#publisher=newsstand",
+    "category": "india",
+    "title": "Can US Send Convoys To Protect Ships In Hormuz? What Naval Warfare Laws Say",
+    "summary": "The law of naval warfare is part of the law of armed conflict (file)",
+    "image": "https://c.ndtvimg.com/2026-03/arq4e5ss_strait-of-hormuz-afp_625x300_20_March_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Mar 2026 00:59:33 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-latest-news-how-naval-warfare-law-applies-to-strait-of-hormuz-11240206#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand",
+    "category": "india",
+    "title": "Iran War LIVE: Israel Did Not Drag US Into War With Iran, Trump Makes Own Calls: Netanyahu",
+    "summary": "Middle East Tensions LIVE Updates",
+    "image": "https://c.ndtvimg.com/2026-03/ioejahnc_qatar_625x300_19_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Mar 2026 00:48:17 +0530",
+    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-prices-up-but-off-highs-us-oil-prices-briefly-down-amid-volatile-trading/articleshow/129686861.cms",
     "category": "finance",
     "title": "Brent crude prices up but off highs, US oil prices briefly down amid volatile trading",
@@ -300,16 +360,6 @@
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/aluminium-slides-8-and-copper-slumps-as-speculators-run-for-cover-on-iran-war-fallout/articleshow/129686702.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand",
-    "category": "india",
-    "title": "Iran War LIVE: Israel Did Not Drag US Into War With Iran, Trump Makes Own Calls: Netanyahu",
-    "summary": "Middle East Tensions LIVE Updates",
-    "image": "https://c.ndtvimg.com/2026-03/ioejahnc_qatar_625x300_19_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Mar 2026 00:33:28 +0530",
-    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand"
-  },
-  {
     "id": "https://www.ndtv.com/world-news/us-approves-over-16-billion-in-arms-sales-to-gulf-nations-hit-by-iran-war-11240431#publisher=newsstand",
     "category": "india",
     "title": "US Approves Over $16 Billion In Arms Sales To Gulf Nations Hit By Iran War",
@@ -328,56 +378,6 @@
     "source": "NDTV",
     "pubDate": "Fri, 20 Mar 2026 00:28:27 +0530",
     "link": "https://www.ndtv.com/world-news/iran-war-live-pete-hegseth-warns-of-largest-strike-package-against-iran-says-us-is-winning-11240425#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-told-benjamin-netanyahu-not-to-attack-iran-gas-fields-11240421#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Says Told Netanyahu Not To Attack Iran Gas Fields",
-    "summary": "Trump has previously said the US is holding off from launching attacks on Iran's energy facilities.",
-    "image": "https://c.ndtvimg.com/2026-03/q6hkp5h8_donald-trump_625x300_07_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Mar 2026 00:24:59 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-told-benjamin-netanyahu-not-to-attack-iran-gas-fields-11240421#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-latest-news-how-naval-warfare-law-applies-to-strait-of-hormuz-11240206#publisher=newsstand",
-    "category": "india",
-    "title": "Can US Send Convoys To Protect Ships In Hormuz? What Naval Warfare Laws Say",
-    "summary": "The law of naval warfare is part of the law of armed conflict (file)",
-    "image": "https://c.ndtvimg.com/2026-03/a3sbifd8_strait-of-hormuz-afp_625x300_19_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Mar 2026 00:22:43 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-latest-news-how-naval-warfare-law-applies-to-strait-of-hormuz-11240206#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-live-uae-backs-maritime-bodys-safe-corridor-plan-amid-hormuz-shipping-crisis-11240397#publisher=newsstand",
-    "category": "india",
-    "title": "UAE Welcomes Maritime Body Condemning Iran's Attacks, Closure Of Hormuz",
-    "summary": "UAE underscored the global stakes, noting that the Strait of Hormuz is not just a key energy route",
-    "image": "https://c.ndtvimg.com/2025-06/o2o3aikk_straitofhormuz_160x120_20_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Mar 2026 00:18:18 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-live-uae-backs-maritime-bodys-safe-corridor-plan-amid-hormuz-shipping-crisis-11240397#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/israel-iran-war-us-iran-middle-east-war-ships-flights-fuel-how-iran-israel-war-is-keeping-global-economy-on-edge-11239788#publisher=newsstand",
-    "category": "india",
-    "title": "Ships, Flights, Fuel: How Iran-Israel War Is Keeping Global Economy On Edge",
-    "summary": "Ship movement through the Strait of Hormuz has dropped sharply during the conflict (Representational)",
-    "image": "https://c.ndtvimg.com/2026-03/qb2ltueg_drone-vs-missile-2_625x300_17_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Mar 2026 00:15:09 +0530",
-    "link": "https://www.ndtv.com/world-news/israel-iran-war-us-iran-middle-east-war-ships-flights-fuel-how-iran-israel-war-is-keeping-global-economy-on-edge-11239788#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/west-bengal-elections-2026-ground-report-bhabanipur-weighs-bengals-daughter-versus-calls-for-change-11240374#publisher=newsstand",
-    "category": "india",
-    "title": "Ground Report: Bhabanipur Weighs 'Bengal's Daughter' Versus Calls For Change",
-    "summary": "A blend of different communities living together makes Bhabanipur unique.",
-    "image": "https://c.ndtvimg.com/2026-03/n42t0l1c_bhabanipur-mamata-banerjee-bengal-elections-2026_625x300_19_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Mar 2026 00:13:57 +0530",
-    "link": "https://www.ndtv.com/india-news/west-bengal-elections-2026-ground-report-bhabanipur-weighs-bengals-daughter-versus-calls-for-change-11240374#publisher=newsstand"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
