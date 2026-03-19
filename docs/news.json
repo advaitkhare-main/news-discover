@@ -80,164 +80,194 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/india-news/ips-officer-aparna-kaushik-faces-body-shaming-after-mirzapur-police-shares-arrest-video-11237457#publisher=newsstand",
+    "category": "india",
+    "title": "IPS Officer Faces Body-Shaming After Mirzapur Police Shares Arrest Video",
+    "summary": "The video, which was meant to highlight effective policing, instead triggered a wave of toxic comments.",
+    "image": "https://c.ndtvimg.com/2026-03/6t5a284g_aparna-kaushik_625x300_19_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 15:03:01 +0530",
+    "link": "https://www.ndtv.com/india-news/ips-officer-aparna-kaushik-faces-body-shaming-after-mirzapur-police-shares-arrest-video-11237457#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-share-market-nifty-crash-19-march-crude-oil-11236169#publisher=newsstand",
+    "category": "india",
+    "title": "Stock Market LIVE Updates: Sensex Crashes 2,000 Points, Nifty Down 800 As Oil Crosses $110",
+    "summary": "Stock Market, Sensex Today, Nifty, Share Market Live News Updates: Markets crashed on Thursday.",
+    "image": "https://c.ndtvimg.com/2026-01/026g8rcc_stock-market-hero_650x400_30_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 15:02:55 +0530",
+    "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-share-market-nifty-crash-19-march-crude-oil-11236169#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/bihar-board-10th-result-2026-live-updates-result-releasing-on-march-20-check-direct-link-steps-to-download-marksheet-11236178#publisher=newsstand",
+    "category": "india",
+    "title": "Bihar Board 10th Result On March 20: Direct Link, Steps To Download Marksheet",
+    "summary": "Bihar Board 10th Result 2026",
+    "image": "https://c.ndtvimg.com/2025-04/os9o0p34_online-exam-result-representative-image_625x300_19_April_25.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 14:59:59 +0530",
+    "link": "https://www.ndtv.com/education/bihar-board-10th-result-2026-live-updates-result-releasing-on-march-20-check-direct-link-steps-to-download-marksheet-11236178#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/spitting-paan-in-the-uk-costs-two-indian-origin-men-over-rs-3-lakh-in-fines-11237598#publisher=newsstand",
+    "category": "india",
+    "title": "Spitting Paan In The UK Costs Two Indian-Origin Men Over Rs 3 Lakh In Fines",
+    "summary": "Paan and gutka stains have emerged as a growing problem for civic authorities in the UK.",
+    "image": "https://c.ndtvimg.com/2025-12/nma27oek_paan-stains_625x300_25_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 14:57:27 +0530",
+    "link": "https://www.ndtv.com/world-news/spitting-paan-in-the-uk-costs-two-indian-origin-men-over-rs-3-lakh-in-fines-11237598#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/rajasthan-board-class-10-results-2026-on-march-20-official-websites-direct-link-11236034#publisher=newsstand",
+    "category": "india",
+    "title": "Rajasthan Board Class 10 Results 2026 Tomorrow: Official Websites, Direct Link",
+    "summary": "Rajasthan Board 10th Result Date 2026: The results will also be available on the NDTV Education page.",
+    "image": "https://i.ndtvimg.com/i/2017-06/students_650x400_61496744807.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 14:56:29 +0530",
+    "link": "https://www.ndtv.com/education/rajasthan-board-class-10-results-2026-on-march-20-official-websites-direct-link-11236034#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-us-israel-war-the-strait-of-hormuz-has-been-targeted-before-a-look-at-past-disruptions-middle-east-conflict-11237151#publisher=newsstand",
+    "category": "india",
+    "title": "The Strait Of Hormuz Has Been Targeted Before. A Look At Past Disruptions",
+    "summary": "Despite past threats and hostilities, Iran has never fully closed the Strait of Hormuz.",
+    "image": "https://c.ndtvimg.com/2026-02/6gjcnejc_hormuz_625x300_19_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 14:54:24 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-us-israel-war-the-strait-of-hormuz-has-been-targeted-before-a-look-at-past-disruptions-middle-east-conflict-11237151#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/uttar-pradesh-man-sees-wifes-cement-and-drum-facebook-post-lets-her-go-with-lover-11237582#publisher=newsstand",
+    "category": "india",
+    "title": "UP Man Sees Wife's 'Cement And Drum' Facebook Post, Lets Her Go With Lover",
+    "summary": "Rajkumar and his wife are parents to an infant.",
+    "image": "https://c.ndtvimg.com/2026-03/u2pfnjk_up-man-lets-wife-go-away-with-lover_625x300_19_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 14:54:24 +0530",
+    "link": "https://www.ndtv.com/india-news/uttar-pradesh-man-sees-wifes-cement-and-drum-facebook-post-lets-her-go-with-lover-11237582#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/children-villagers-rescue-deer-attacked-by-stray-dogs-in-madhya-pradesh-chhatarpur-11237557#publisher=newsstand",
+    "category": "india",
+    "title": "Video: Children, Villagers Rescue Deer Attacked By Stray Dogs In Madhya Pradesh",
+    "summary": "Eyewitnesses say it was village children who first rushed forward",
+    "image": "https://c.ndtvimg.com/2026-03/8h9c7f9g_mp_625x300_19_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 14:51:40 +0530",
+    "link": "https://www.ndtv.com/india-news/children-villagers-rescue-deer-attacked-by-stray-dogs-in-madhya-pradesh-chhatarpur-11237557#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-selloff-in-financials-hammers-indias-nifty-50-to-worst-fortnight-since-covid-19-crash/articleshow/129675325.cms",
+    "category": "finance",
+    "title": "Foreign selloff in financials hammers India's Nifty 50 to worst fortnight since COVID-19 crash",
+    "summary": "Foreign selling in Indian equities surged in the first \u200bhalf of March, led by \u200bfinancials, marking the heaviest fortnightly selling in 17 months and \u200bdragging the Nifty 50 to its worst fortnight since the COVID-19-led rout in March 2020.",
+    "image": "https://img.etimg.com/photo/msid-129675325,imgsize-30304.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Mar 2026 14:37:09 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-selloff-in-financials-hammers-indias-nifty-50-to-worst-fortnight-since-covid-19-crash/articleshow/129675325.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-decline-as-mideast-war-worsens-focus-shifts-to-ecb-decision/articleshow/129675248.cms",
+    "category": "finance",
+    "title": "Global Markets | European shares decline as Mideast war worsens, focus shifts to ECB decision",
+    "summary": "European shares slipped on Thursday as an intensifying conflict in the Middle East \u200csapped \u2060risk appetite while \u2060markets awaited the European Central Bank's monetary policy \u200bverdict.",
+    "image": "https://img.etimg.com/photo/msid-129675248,imgsize-36700.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Mar 2026 14:31:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-decline-as-mideast-war-worsens-focus-shifts-to-ecb-decision/articleshow/129675248.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japanese-stocks-bonds-fall-as-oil-shock-weighs-boj-comments-in-focus/articleshow/129675124.cms",
+    "category": "finance",
+    "title": "Global Markets | Japanese stocks, bonds fall as oil shock weighs; BOJ comments in focus",
+    "summary": "Japanese stocks \u200band bonds fell on Thursday and the yen remained fragile \u200bas investors weighed the economic impact of the prolonged Middle East conflict.",
+    "image": "https://img.etimg.com/photo/msid-129675124,imgsize-32698.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Mar 2026 14:28:18 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japanese-stocks-bonds-fall-as-oil-shock-weighs-boj-comments-in-focus/articleshow/129675124.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/cheers-elara-capital-sees-17-upside-potential-in-united-breweries-after-karnatakas-new-excise-policy-heres-why/articleshow/129674825.cms",
+    "category": "finance",
+    "title": "Cheers! Elara Capital sees 17% upside potential in United Breweries after Karnataka\u2019s new excise policy, here\u2019s why",
+    "summary": "Karnataka's new excise policy is set to benefit United Breweries significantly. The state is shifting to a global taxation standard, deregulating alcohol pricing. This move is expected to lead to price corrections in the economy beer segment, where U",
+    "image": "https://img.etimg.com/photo/msid-129674825,imgsize-22653.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Mar 2026 14:17:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/cheers-elara-capital-sees-17-upside-potential-in-united-breweries-after-karnatakas-new-excise-policy-heres-why/articleshow/129674825.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/2-top-stock-recommendations-from-rahul-sharma/articleshow/129674974.cms",
+    "category": "finance",
+    "title": "2 top stock recommendations from Rahul Sharma",
+    "summary": "Indian markets experienced a pullback after recent gains. Analysts note the market's stability and suggest this presents a buying opportunity. Nifty ETFs are recommended for accumulation. ONGC and Tata Power are highlighted as stocks with potential u",
+    "image": "https://img.etimg.com/photo/msid-129674974,imgsize-30804.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Mar 2026 14:13:41 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/2-top-stock-recommendations-from-rahul-sharma/articleshow/129674974.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/hdfc-bank-crisis-is-this-a-power-play-or-a-fundamental-problem-saurabh-mukherjea-has-a-clear-answer/articleshow/129674914.cms",
+    "category": "finance",
+    "title": "HDFC Bank crisis: Is this a power play or a fundamental problem? Saurabh Mukherjea has a clear answer",
+    "summary": "HDFC Bank's chairman has resigned, causing a stir in the stock market. However, a major shareholder believes this is a power struggle at the top. He remains confident in the bank's fundamentals and sees a potential buying opportunity if the market ov",
+    "image": "https://img.etimg.com/photo/msid-129674914,imgsize-38522.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Mar 2026 14:12:22 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/hdfc-bank-crisis-is-this-a-power-play-or-a-fundamental-problem-saurabh-mukherjea-has-a-clear-answer/articleshow/129674914.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-spikes-above-115/bbl-after-attacks-on-mideast-energy-assets-multiply/articleshow/129674798.cms",
+    "category": "finance",
+    "title": "Brent crude spikes above $116/bbl after attacks on Mideast energy assets multiply",
+    "summary": "Oil prices saw a sharp rise Thursday. Brent crude reached over $116 a barrel. This followed Iran's attacks on energy facilities across the Middle East. Israel had previously struck Iran's South Pars gas field. These events mark a significant escalati",
+    "image": "https://img.etimg.com/photo/msid-129674798,imgsize-14888.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Mar 2026 14:02:48 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-spikes-above-115/bbl-after-attacks-on-mideast-energy-assets-multiply/articleshow/129674798.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-banks-covid-plunge-to-earnings-disappointment-5-biggest-single-day-stock-crashes-since-2020/articleshow/129674611.cms",
     "category": "finance",
     "title": "HDFC Bank's Covid plunge to earnings disappointment: 5 biggest single-day stock crashes since 2020",
     "summary": "Shares of HDFC Bank slumped nearly 9% after part-time Chairman Atanu Chakraborty resigned, citing value misalignment, prompting interim replacement Keki Mistry. The selloff marks the fifth 8%-plus single-day crash since 2020, even as the RBI flagged ",
-    "image": "https://img.etimg.com/photo/msid-129674611,imgsize-36958.cms",
+    "image": "https://img.etimg.com/photo/msid-129674611,imgsize-2219977.cms",
     "source": "ET",
     "pubDate": "Thu, 19 Mar 2026 13:51:33 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-banks-covid-plunge-to-earnings-disappointment-5-biggest-single-day-stock-crashes-since-2020/articleshow/129674611.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/these-9-smallcap-multibaggers-of-2025-fall-up-to-30-in-less-than-3-months/slideshow/129674450.cms",
-    "category": "finance",
-    "title": "These 9 smallcap multibaggers of 2025 fall up to 30% in less than 3 months",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-129674336,imgsize-5452.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 13:36:57 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/these-9-smallcap-multibaggers-of-2025-fall-up-to-30-in-less-than-3-months/slideshow/129674450.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1528393.html",
+    "category": "sports",
+    "title": "LA Knight Riders to play MLC 2026 matches at own venue in Pomona, California",
+    "summary": "It is understood that the Knight Riders Cricket Field, at Fairplex in Pomona, California, will also host matches of the Los Angeles Olympic Games in 2028",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/402700/402736.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 19 Mar 2026 09:25:57 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528393.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/health/loss-of-consciousness-isnt-mandatory-hidden-signs-of-brain-injury-you-need-to-look-out-for-11236941#publisher=newsstand",
-    "category": "india",
-    "title": "Loss Of Consciousness Isn't Mandatory: Hidden Signs of Brain Injury You Need To Look Out For",
-    "summary": "Patients may feel unusually drowsy or struggle to stay awake",
-    "image": "https://c.ndtvimg.com/2020-09/5bfion1g_memory-loss-_625x300_21_September_20.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 13:24:46 +0530",
-    "link": "https://www.ndtv.com/health/loss-of-consciousness-isnt-mandatory-hidden-signs-of-brain-injury-you-need-to-look-out-for-11236941#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/c20z08rdd9ro#0",
+    "category": "global",
+    "title": "Health bosses can't confirm meningitis outbreak contained",
+    "summary": "Health workers across England are urged to look out for signs of infection as thousands have jabs.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Mar 2026 09:18:07 GMT",
+    "link": "https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-us-israel-war-all-about-irans-bushehr-nuclear-plant-hit-in-israeli-strikes-middle-east-conflict-11237007#publisher=newsstand",
-    "category": "india",
-    "title": "All About Iran's Bushehr Nuclear Plant Hit In Israeli Strikes",
-    "summary": "Iran's Bushehr civilian nuclear power plant, allegedly hit by a projectile, runs on Russian uranium.",
-    "image": "https://c.ndtvimg.com/2026-03/7029ea24_bushehr_625x300_19_March_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 13:16:12 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-us-israel-war-all-about-irans-bushehr-nuclear-plant-hit-in-israeli-strikes-middle-east-conflict-11237007#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/feature/x-tiktok-and-instagram-worse-for-your-mental-health-than-whatsapp-facebook-study-11237098#publisher=newsstand",
-    "category": "india",
-    "title": "X, TikTok And Instagram Worse For Your Mental Health Than WhatsApp, Facebook: Study",
-    "summary": "Study finds algorithmic platforms worsen mental health versus social connection apps.",
-    "image": "https://c.ndtvimg.com/2026-03/rfcs37ks_as_625x300_19_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 13:16:11 +0530",
-    "link": "https://www.ndtv.com/feature/x-tiktok-and-instagram-worse-for-your-mental-health-than-whatsapp-facebook-study-11237098#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/several-killed-due-to-heavy-rain-strong-winds-in-pakistan-karachi-11237015#publisher=newsstand",
-    "category": "india",
-    "title": "Heavy Rain, Strong Winds Kill 18 In Pakistan's Karachi",
-    "summary": "Last year, monsoon rains in Pakistan killed more than 1,000 people (File)",
-    "image": "https://c.ndtvimg.com/2026-03/vckfgi8c_pakistan_625x300_19_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 13:14:43 +0530",
-    "link": "https://www.ndtv.com/world-news/several-killed-due-to-heavy-rain-strong-winds-in-pakistan-karachi-11237015#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/after-4-failed-attempts-dawood-ibrahims-plots-in-maharashtra-find-a-buyer-11237091#publisher=newsstand",
-    "category": "india",
-    "title": "After 4 Failed Attempts, Dawood Ibrahim's Plots In Maharashtra Find A Buyer",
-    "summary": "The four land parcels were a part of the Kaskar family's ancestral holdings.",
-    "image": "https://c.ndtvimg.com/2025-08/at3678eo_dawood-ibrahim_625x300_22_August_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 13:14:24 +0530",
-    "link": "https://www.ndtv.com/india-news/after-4-failed-attempts-dawood-ibrahims-plots-in-maharashtra-find-a-buyer-11237091#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/who-is-atanu-chakraborty-the-man-behind-hdfc-banks-rs-1-lakh-crore-market-cap-wipeout/articleshow/129673896.cms",
-    "category": "finance",
-    "title": "Who is Atanu Chakraborty and why did HDFC Bank lose Rs 1 lakh crore?",
-    "summary": "HDFC Bank's share price plummeted by up to 9%, wiping out over Rs 1 lakh crore in market value following the resignation of its part-time Chairman, Atanu Chakraborty. Chakraborty cited ethical concerns over the bank's practices in recent years. Inter",
-    "image": "https://img.etimg.com/photo/msid-129673896,imgsize-41930.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 13:14:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/who-is-atanu-chakraborty-the-man-behind-hdfc-banks-rs-1-lakh-crore-market-cap-wipeout/articleshow/129673896.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-news-live-gulf-states-have-significant-capabilities-saudis-big-warning-to-iran-11236925#publisher=newsstand",
-    "category": "india",
-    "title": "'Patience Is Limited': Saudi Threatens To Join Gulf War Amid Iran's Attacks",
-    "summary": "Saudi said Iran's justifications for targeting its neighbours are 'unconvincing.'",
-    "image": "https://c.ndtvimg.com/2026-03/05d20ecg_saudi-warning-_625x300_19_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 13:11:37 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-news-live-gulf-states-have-significant-capabilities-saudis-big-warning-to-iran-11236925#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/iran-attacks-worlds-biggest-gas-hub-ras-laffan-in-qatar-how-it-affects-india-11236997#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Attacks World's Biggest Gas Hub In Qatar. How It Affects India",
-    "summary": "Tehran has targeted US assets while also striking energy facilities",
-    "image": "https://c.ndtvimg.com/2026-03/orvb8ni8_ras-laffan-attack-_625x300_19_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 13:10:57 +0530",
-    "link": "https://www.ndtv.com/india-news/iran-attacks-worlds-biggest-gas-hub-ras-laffan-in-qatar-how-it-affects-india-11236997#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/recent-legionnaires-disease-outbreaks-in-london-new-york-raise-alarm-is-india-at-risk-11236919#publisher=newsstand",
-    "category": "india",
-    "title": "Recent Legionnaire's Disease Outbreaks In London, New York Raise Alarm: Is India At Risk?",
-    "summary": "Image for representation purposes only",
-    "image": "https://c.ndtvimg.com/2026-03/n1it15a4_legionella_625x300_19_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 13:00:15 +0530",
-    "link": "https://www.ndtv.com/health/recent-legionnaires-disease-outbreaks-in-london-new-york-raise-alarm-is-india-at-risk-11236919#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-drop-to-4-month-low-on-patchy-jobs-report-mideast-war-escalation/articleshow/129673374.cms",
-    "category": "finance",
-    "title": "Global Markets | Australian shares drop to 4-month low on patchy jobs report, Mideast war escalation",
-    "summary": "Australian stocks hit a four-month low on Thursday. Global markets felt the impact of the Middle East war. Inflation fears grew, and risk-taking decreased. Local labour data presented a mixed outlook. Energy stocks saw gains as oil prices surged. Min",
-    "image": "https://img.etimg.com/photo/msid-129673374,imgsize-69606.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 12:49:50 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-drop-to-4-month-low-on-patchy-jobs-report-mideast-war-escalation/articleshow/129673374.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/valuations-attractive-but-clarity-critical-for-hdfc-bank-rebound-aditya-shah/articleshow/129672901.cms",
-    "category": "finance",
-    "title": "Valuations attractive, but clarity critical for HDFC Bank rebound: Aditya Shah",
-    "summary": "HDFC Bank is under intense investor scrutiny due to leadership changes and boardroom disagreements. This situation adds to existing concerns about growth and margins. While short-term volatility is anticipated, long-term investors may find opportunit",
-    "image": "https://img.etimg.com/photo/msid-129672901,imgsize-39330.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 12:29:32 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/valuations-attractive-but-clarity-critical-for-hdfc-bank-rebound-aditya-shah/articleshow/129672901.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hpcl-bpcl-ioc-shares-fall-up-to-7-to-hover-near-52-week-lows-right-time-to-buy/articleshow/129672931.cms",
-    "category": "finance",
-    "title": "HPCL, BPCL &amp; IOC shares fall up to 7% to hover near 52-week lows. Right time to buy?",
-    "summary": "Shares of HPCL, BPCL and Indian Oil fell sharply on Thursday as crude oil prices surged past $110 per barrel amid escalating conflict involving Iran and Israel. Brokerages, including UBS, warn earnings may weaken sharply unless fuel pricing or subsid",
-    "image": "https://img.etimg.com/photo/msid-129672931,imgsize-3075945.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 12:26:31 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hpcl-bpcl-ioc-shares-fall-up-to-7-to-hover-near-52-week-lows-right-time-to-buy/articleshow/129672931.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-asian-paints-other-crude-sensitive-shares-plunge-up-to-4-as-oil-soars-back-above-110/articleshow/129672845.cms",
-    "category": "finance",
-    "title": "IndiGo, Asian Paints, other crude-sensitive shares plunge up to 4% as oil soars back above $110",
-    "summary": "Crude-sensitive stocks including airlines, paint and tyre makers fell up to 4% as Brent crude surged above $110 amid escalating geopolitical tensions. Rising oil prices are expected to pressure margins and fuel costs, with analysts warning of potenti",
-    "image": "https://img.etimg.com/photo/msid-129672845,imgsize-74090.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 12:20:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-asian-paints-other-crude-sensitive-shares-plunge-up-to-4-as-oil-soars-back-above-110/articleshow/129672845.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-plunges-4-3-to-71k-with-sell-signals-flashing-and-mixed-indicators/articleshow/129672733.cms",
-    "category": "finance",
-    "title": "Bitcoin plunges to $71K with sell signals flashing and mixed indicators",
-    "summary": "Bitcoin and Ethereum experienced significant drops on Thursday, with Bitcoin falling nearly 4% to $71,000 and Ethereum down 5.6% to $2,193. This pullback is attributed to stronger-than-expected U.S. inflation data and the Federal Reserve's cautious s",
-    "image": "https://img.etimg.com/photo/msid-129672733,imgsize-61520.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 12:18:12 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-plunges-4-3-to-71k-with-sell-signals-flashing-and-mixed-indicators/articleshow/129672733.cms"
+    "id": "https://www.bbc.com/news/articles/cn0z0x82r00o#0",
+    "category": "global",
+    "title": "Pay grows at slowest rate in more than five years",
+    "summary": "Annual earnings grew at an annual rate of 3.8% in the November to January period, the Office for National Statistics says.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Mar 2026 08:48:29 GMT",
+    "link": "https://www.bbc.com/news/articles/cn0z0x82r00o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528394.html",
@@ -248,26 +278,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 19 Mar 2026 08:16:48 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528394.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528393.html",
-    "category": "sports",
-    "title": "LA Knight Riders to play MLC 2026 matches at own venue in Pomona, California",
-    "summary": "No MLC team has had its own venue before this, and the update comes even as preparations are on for cricket's reintroduction to the Olympic Games in 2028, in Los Angeles",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/402700/402736.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 19 Mar 2026 08:16:26 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528393.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn0z0x82r00o#0",
-    "category": "global",
-    "title": "Pay grows at slowest rate in more than five years",
-    "summary": "Annual earnings grew at an annual rate of 3.8% in the November to January period, the Office for National Statistics says.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Mar 2026 08:05:59 GMT",
-    "link": "https://www.bbc.com/news/articles/cn0z0x82r00o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cz9qq8d7l1ko#0",
@@ -288,16 +298,6 @@
     "source": "BBC",
     "pubDate": "Thu, 19 Mar 2026 05:59:49 GMT",
     "link": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c20z08rdd9ro#0",
-    "category": "global",
-    "title": "All doctors in England warned to watch for meningitis symptoms after Kent outbreak",
-    "summary": "Health workers across England are urged to look out for signs of infection as thousands have jabs.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Mar 2026 04:17:14 GMT",
-    "link": "https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cvgj22e7qwyo#0",
