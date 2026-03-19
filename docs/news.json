@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.bbc.com/news/articles/cwygyvrwq89o#0",
-    "category": "global",
-    "title": "Two men charged with allegedly spying on London Jewish community for Iran",
-    "summary": "Counter Terrorism Policing had been investigating alleged surveillance of locations and individuals linked to London's Jewish community.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 18 Mar 2026 21:58:34 GMT",
-    "link": "https://www.bbc.com/news/articles/cwygyvrwq89o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1528343.html",
     "category": "sports",
     "title": "Buttler 'still has England ambitions' despite T20 World Cup slump",
@@ -40,16 +30,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1528257.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528261.html",
-    "category": "sports",
-    "title": "Ferguson on Sears: 'He has still got more pace in him'",
-    "summary": "\"I love playing in New Zealand in front of the home crowd, conditions I'm used to,\" Lockie Ferguson says of returning after a break",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414759.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 18 Mar 2026 04:32:56 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528261.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -78,6 +58,16 @@
     "source": "VentureBeat",
     "pubDate": "Thu, 22 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/banks-are-not-the-only-villains-in-niftys-600-points-crash-autos-fair-worse-with-up-to-4-index-fall/articleshow/129676165.cms",
+    "category": "finance",
+    "title": "Banks are not the only villain's in Nifty's 600 points crash, autos fair worse with up to 4% index fall",
+    "summary": "\u200bAuto stocks led the market decline as the Nifty plunged 600 points, with the sector falling up to 4% amid rising crude oil prices and Fed-driven macro concerns. Weak sentiment was compounded by geopolitical tensions, while banks and IT also dragged ",
+    "image": "https://img.etimg.com/photo/msid-129676165,imgsize-25601.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Mar 2026 15:17:26 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/banks-are-not-the-only-villains-in-niftys-600-points-crash-autos-fair-worse-with-up-to-4-index-fall/articleshow/129676165.cms"
   },
   {
     "id": "https://www.ndtv.com/india-news/ips-officer-aparna-kaushik-faces-body-shaming-after-mirzapur-police-shares-arrest-video-11237457#publisher=newsstand",
@@ -230,14 +220,34 @@
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-spikes-above-115/bbl-after-attacks-on-mideast-energy-assets-multiply/articleshow/129674798.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-banks-covid-plunge-to-earnings-disappointment-5-biggest-single-day-stock-crashes-since-2020/articleshow/129674611.cms",
-    "category": "finance",
-    "title": "HDFC Bank's Covid plunge to earnings disappointment: 5 biggest single-day stock crashes since 2020",
-    "summary": "Shares of HDFC Bank slumped nearly 9% after part-time Chairman Atanu Chakraborty resigned, citing value misalignment, prompting interim replacement Keki Mistry. The selloff marks the fifth 8%-plus single-day crash since 2020, even as the RBI flagged ",
-    "image": "https://img.etimg.com/photo/msid-129674611,imgsize-2219977.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 13:51:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-banks-covid-plunge-to-earnings-disappointment-5-biggest-single-day-stock-crashes-since-2020/articleshow/129674611.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1528396.html",
+    "category": "sports",
+    "title": "Nat Sciver-Brunt heads home from South Africa for family reasons",
+    "summary": "England captain had led Team Brittin to victory in the first of five intra-squad trial games in Pretoria",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/403800/403807.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 19 Mar 2026 09:57:03 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528396.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4g8ggelrd5o#0",
+    "category": "global",
+    "title": "Police investigating bailout email from Mandelson to Epstein",
+    "summary": "Met chief Sir Mark Rowley says police are looking at whether the email was a criminal offence.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Mar 2026 09:50:28 GMT",
+    "link": "https://www.bbc.com/news/articles/c4g8ggelrd5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c5ygyypy7pro#0",
+    "category": "global",
+    "title": "Kevin Spacey and accusers settle before civil trial",
+    "summary": "The actor agrees an out-of-court settlement with three men who accused him of sexual assault.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Mar 2026 09:27:23 GMT",
+    "link": "https://www.bbc.com/news/articles/c5ygyypy7pro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528393.html",
@@ -248,16 +258,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 19 Mar 2026 09:25:57 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528393.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c20z08rdd9ro#0",
-    "category": "global",
-    "title": "Health bosses can't confirm meningitis outbreak contained",
-    "summary": "Health workers across England are urged to look out for signs of infection as thousands have jabs.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Mar 2026 09:18:07 GMT",
-    "link": "https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cn0z0x82r00o#0",
@@ -292,7 +292,7 @@
   {
     "id": "https://www.bbc.com/news/articles/c24de9e97vno#0",
     "category": "global",
-    "title": "How the Iran war has left Europe facing yet another energy crisis",
+    "title": "How Europe sleepwalked into yet another energy crisis",
     "summary": "It is not the first time that there has been deep energy-linked frustration in the heart of Europe.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
