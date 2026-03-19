@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.bbc.com/news/articles/c62g2e08jpno#0",
-    "category": "global",
-    "title": "Sadiq Khan says Labour should pledge to rejoin EU",
-    "summary": "Downing Street has repeatedly said the government will not rejoin the single market or customs union.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 18 Mar 2026 23:45:37 GMT",
-    "link": "https://www.bbc.com/news/articles/c62g2e08jpno?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cwygyvrwq89o#0",
     "category": "global",
     "title": "Two men charged with allegedly spying on London Jewish community for Iran",
@@ -28,16 +18,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 18 Mar 2026 18:54:10 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528248.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cqlglkprv0qo#0",
-    "category": "global",
-    "title": "Why has this meningitis outbreak spread so fast?",
-    "summary": "There have been 20 cases since the weekend in one small area of Kent - but this isn't the normal pattern, so what could have happened?",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 18 Mar 2026 16:34:33 GMT",
-    "link": "https://www.bbc.com/news/articles/cqlglkprv0qo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528343.html",
@@ -120,164 +100,184 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/inflation-to-stay-sticky-jahangir-aziz-rules-out-fed-rate-cuts-in-2026/articleshow/129671455.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bank-plunges-3-as-hdfc-bank-crashes-key-levels-to-watch-out-for/articleshow/129672621.cms",
     "category": "finance",
-    "title": "Inflation to stay sticky, Jahangir Aziz rules out Fed rate cuts in 2026",
-    "summary": "Global markets face complex risks from geopolitical tensions and fragmented oil prices. Economist Jahangir Aziz highlights that Brent crude is not the sole indicator. He believes the US Federal Reserve will not cut rates this year, with a potential h",
-    "image": "https://img.etimg.com/photo/msid-129671455,imgsize-33392.cms",
+    "title": "Nifty Bank plunges 3% as HDFC Bank crashes: Key levels to watch out for",
+    "summary": "HDFC Bank's shares plummeted nearly 9%, dragging the Nifty Bank index down over 3% and breaching key support levels. Other major bank stocks also saw declines, influenced by HDFC Bank's fall and the US Federal Reserve's hawkish stance. Investors now ",
+    "image": "https://img.etimg.com/photo/msid-129672621,imgsize-25601.cms",
     "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 11:03:22 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/inflation-to-stay-sticky-jahangir-aziz-rules-out-fed-rate-cuts-in-2026/articleshow/129671455.cms"
+    "pubDate": "Thu, 19 Mar 2026 12:09:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bank-plunges-3-as-hdfc-bank-crashes-key-levels-to-watch-out-for/articleshow/129672621.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1-lakh-crore-wiped-off-hdfc-bank-share-price-slumps-9-set-to-record-worst-day-since-covid-crash/articleshow/129671372.cms",
+    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand",
+    "category": "india",
+    "title": "Iran War LIVE: Tehran Intensifies Strikes On Gulf Energy Facilities After Israel Hits Iranian Gas Field",
+    "summary": "Middle East Tensions LIVE Updates",
+    "image": "https://c.ndtvimg.com/2026-03/ioejahnc_qatar_625x300_19_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 12:08:11 +0530",
+    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/no-partners-no-power-the-shrinking-circle-of-vijays-tvk-11236768#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion: No Partners, No Power? The Shrinking Circle Of Vijay's TVK",
+    "summary": "As nomination deadlines approach, Vijay's political instincts face their first real stress test",
+    "image": "https://c.ndtvimg.com/2024-07/alg826ro_actor-vijay-1200-_625x300_03_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 12:06:04 +0530",
+    "link": "https://www.ndtv.com/opinion/no-partners-no-power-the-shrinking-circle-of-vijays-tvk-11236768#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/food/5600-kg-of-fake-paneer-dairy-chemicals-laced-pickles-and-paste-busted-in-hyderabad-during-festivals-11236410#publisher=newsstand",
+    "category": "india",
+    "title": "5,600 Kg Of Fake Paneer, Dairy, Chemicals-Laced Pickles And Paste Busted In Hyderabad During Festivals",
+    "summary": "Around 5,600 kg of adulterated paneer was seized by the police.",
+    "image": "https://c.ndtvimg.com/2026-03/8dfs8t5g_paneer_625x300_19_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 12:05:39 +0530",
+    "link": "https://www.ndtv.com/food/5600-kg-of-fake-paneer-dairy-chemicals-laced-pickles-and-paste-busted-in-hyderabad-during-festivals-11236410#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/us-yields-rise-as-investors-pare-back-fed-cut-bets/articleshow/129672504.cms",
     "category": "finance",
-    "title": "Rs 1 lakh crore wiped off! HDFC Bank shares slump 9%, set to record worst day since Covid crash",
-    "summary": "HDFC Bank shares plunged, erasing nearly \u20b91 lakh crore in market value and marking their worst fall since the 2020 COVID crash. The decline followed the resignation of chairman Atanu Chakraborty, who cited value and ethics concerns. The bank said the",
-    "image": "https://img.etimg.com/photo/msid-129671372,imgsize-2426768.cms",
+    "title": "US yields rise as investors pare back Fed cut bets",
+    "summary": "U.S. Treasury yields climbed on Thursday, particularly at the short end, as investors significantly reduced Federal Reserve rate-cut expectations for the year. The central bank's hawkish stance and flagged inflation risks, exacerbated by the Middle E",
+    "image": "https://img.etimg.com/photo/msid-129672504,imgsize-236758.cms",
     "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 10:56:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1-lakh-crore-wiped-off-hdfc-bank-share-price-slumps-9-set-to-record-worst-day-since-covid-crash/articleshow/129671372.cms"
+    "pubDate": "Thu, 19 Mar 2026 12:03:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/us-yields-rise-as-investors-pare-back-fed-cut-bets/articleshow/129672504.cms"
   },
   {
-    "id": "https://www.ndtv.com/opinion/the-day-iaf-broke-pafs-back-the-sky-warriors-operation-sindoor-unveiled-11236483#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/could-a-smart-pillow-help-you-stop-scrolling-before-bed-glasgow-scientists-think-so-11236755#publisher=newsstand",
     "category": "india",
-    "title": "Opinion: Book Review | The Day IAF Broke PAF's Back: 'The Sky Warriors: Operation Sindoor Unveiled'",
-    "summary": "Som highlights an IAF that has matured into a multi-domain warfare machine - one that knows exactly when to exercise restraint and when to unleash decisive force.",
-    "image": "https://c.ndtvimg.com/2026-02/td8u8s8k_4-way-pak_625x300_08_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Could A Smart Pillow Help You Stop Scrolling Before Bed? Glasgow Scientists Think So",
+    "summary": "Computing scientists at the University of Glasgow have built a prototype pillow with a built-in speaker and tactile sensors, designed to let users enjoy digital content at bedtime without looking at their phone screens.",
+    "image": "https://c.ndtvimg.com/2026-03/nplp4mes_glasgow-smart-pillow_625x300_19_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 10:54:41 +0530",
-    "link": "https://www.ndtv.com/opinion/the-day-iaf-broke-pafs-back-the-sky-warriors-operation-sindoor-unveiled-11236483#publisher=newsstand"
+    "pubDate": "Thu, 19 Mar 2026 12:03:00 +0530",
+    "link": "https://www.ndtv.com/health/could-a-smart-pillow-help-you-stop-scrolling-before-bed-glasgow-scientists-think-so-11236755#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/woman-says-bengaluru-metro-feels-like-luxury-after-travelling-in-warm-and-crowded-london-tube-11235876#publisher=newsstand",
-    "category": "india",
-    "title": "Woman Says Bengaluru Metro Feels Like 'Luxury' After Travelling In 'Warm' And 'Crowded' London Tube",
-    "summary": "A viral video compares London Tube's lack of AC to Bengaluru Metro's full air conditioning.",
-    "image": "https://c.ndtvimg.com/2026-03/kplu98s4_as_625x300_19_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 10:53:32 +0530",
-    "link": "https://www.ndtv.com/offbeat/woman-says-bengaluru-metro-feels-like-luxury-after-travelling-in-warm-and-crowded-london-tube-11235876#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/rssfeeds/Rs 1 lakh crore wiped off! HDFC Bank share price slumps 9%, set to record worst day since Covid crash",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/asias-currencies-under-siege-mitul-kotecha-on-why-the-indian-rupee-korean-won-and-thai-baht-face-prolonged-pain/articleshow/129672417.cms",
     "category": "finance",
-    "title": "Rs 1 lakh crore wiped off! HDFC Bank shares slump 9%, set to record worst day since Covid crash",
-    "summary": "HDFC Bank shares plunged, erasing nearly \u20b91 lakh crore in market value and marking their worst fall since the 2020 COVID crash. The decline followed the resignation of chairman Atanu Chakraborty, who cited value and ethics concerns. The bank said the",
-    "image": "https://img.etimg.com/photo/msid-129671223,imgsize-2426768.cms",
+    "title": "Asia's currencies under siege: Mitul Kotecha on why the Indian rupee, Korean won, and Thai baht face prolonged pain",
+    "summary": "Global markets face prolonged turbulence as geopolitical conflict drives oil prices higher and weakens Asian currencies. Investors are shifting to safe haven assets like the US dollar, gold, and developed market bonds. The current environment is too ",
+    "image": "https://img.etimg.com/photo/msid-129672417,imgsize-16704.cms",
     "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 10:50:34 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/rssfeeds/Rs 1 lakh crore wiped off! HDFC Bank share price slumps 9%, set to record worst day since Covid crash"
+    "pubDate": "Thu, 19 Mar 2026 12:02:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/asias-currencies-under-siege-mitul-kotecha-on-why-the-indian-rupee-korean-won-and-thai-baht-face-prolonged-pain/articleshow/129672417.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/is-your-insurance-adequate-heres-a-simple-checklist-to-find-out/articleshow/129671244.cms",
+    "id": "https://www.ndtv.com/food/man-shocked-to-find-piece-of-glass-in-swiggys-noice-dark-chocolate-brand-responds-11236732#publisher=newsstand",
+    "category": "india",
+    "title": "Man Shocked To Find \"Piece Of Glass\" In Swiggy's Noice Dark Chocolate, Brand Responds",
+    "summary": "A customer claims to find a piece of glass in the dark chocolate he was eating.",
+    "image": "https://c.ndtvimg.com/2026-03/dj9u9oro_glass-in-chocolate_625x300_19_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 12:01:04 +0530",
+    "link": "https://www.ndtv.com/food/man-shocked-to-find-piece-of-glass-in-swiggys-noice-dark-chocolate-brand-responds-11236732#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/middle-east-iran-israel-war-explained-worlds-largest-gas-field-hit-puts-20-global-lng-supply-at-risk-11236743#publisher=newsstand",
+    "category": "india",
+    "title": "Explained: World's Largest Gas Field Hit, Puts 20% Global LNG Supply At Risk",
+    "summary": "The Iranian side of the South Pars field came under attack and was burning.",
+    "image": "https://c.ndtvimg.com/2026-03/bofrvc98_south-pars-gas-field_625x300_19_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 11:59:43 +0530",
+    "link": "https://www.ndtv.com/world-news/middle-east-iran-israel-war-explained-worlds-largest-gas-field-hit-puts-20-global-lng-supply-at-risk-11236743#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/bseb-bihar-board-10th-result-2026-what-is-prize-money-for-top-10-rank-holders-11236703#publisher=newsstand",
+    "category": "india",
+    "title": "Bihar Board Class 10 Result 2026: What Is Prize Money For Top 10 Rank Holders",
+    "summary": "BSEB Bihar Board 10th Result 2026: In 2025, students who secured the first rank received Rs 2 lakh each.",
+    "image": "https://c.ndtvimg.com/2025-03/gutnv25_bihar-board-results-2025_625x300_23_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 11:59:26 +0530",
+    "link": "https://www.ndtv.com/education/bseb-bihar-board-10th-result-2026-what-is-prize-money-for-top-10-rank-holders-11236703#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/kim-jong-un-wins-99-93-votes-in-north-korea-parliamentary-elections-remaining-0-07-went-to-11236508#publisher=newsstand",
+    "category": "india",
+    "title": "Kim Jong Un Wins 99.93% Votes In North Korea. Remaining 0.07% Went To...",
+    "summary": "Official figures suggest that 99.93 per cent of people voted in favour of Kim's party",
+    "image": "https://c.ndtvimg.com/2026-03/hr310v5g_kim-jong-un_625x300_19_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 11:54:49 +0530",
+    "link": "https://www.ndtv.com/world-news/kim-jong-un-wins-99-93-votes-in-north-korea-parliamentary-elections-remaining-0-07-went-to-11236508#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-banks-delayed-response-to-chairman-exit-raises-sentiment-risks-bernstein/articleshow/129672273.cms",
     "category": "finance",
-    "title": "Is your insurance adequate? Here\u2019s a simple checklist to find out",
-    "summary": "Many policyholders are insured but not adequately, leading to claim dissonance. Reviewing health, home, cyber, and motor insurance covers to ensure they match current needs and asset values is highly advised. Adequate insurance provides a crucial saf",
-    "image": "https://img.etimg.com/photo/msid-129671244,imgsize-1945775.cms",
+    "title": "HDFC Bank\u2019s delayed response to chairman exit raises sentiment risks: Bernstein",
+    "summary": "Brokerage Bernstein said HDFC Bank mishandled communication around former chairman Atanu Chakraborty\u2019s resignation, delaying clarity and worsening uncertainty. Despite strong fundamentals, governance concerns, and leadership friction highlighted by n",
+    "image": "https://img.etimg.com/photo/msid-129672273,imgsize-17280.cms",
     "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 10:47:06 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/is-your-insurance-adequate-heres-a-simple-checklist-to-find-out/articleshow/129671244.cms"
+    "pubDate": "Thu, 19 Mar 2026 11:52:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-banks-delayed-response-to-chairman-exit-raises-sentiment-risks-bernstein/articleshow/129672273.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/rupee-hits-new-low-dwindling-forex-reserves-and-dollar-surge-fuel-currency-crisis-naveen-mathur/articleshow/129670961.cms",
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/jsw-realty-eyes-over-rs-2000-crore-revenue-from-luxury-housing-project-in-mumbai/articleshow/129671941.cms",
     "category": "finance",
-    "title": "Rupee hits new low; dwindling forex reserves and dollar surge fuel currency crisis: Naveen Mathur",
-    "summary": "India's rupee hit a record low as forex reserves fell to a three-year low, covering only 8.7 months of imports. High crude oil prices and a surging US dollar are intensifying pressure on the currency. The Reserve Bank of India faces a dilemma between",
-    "image": "https://img.etimg.com/photo/msid-129670961,imgsize-15200.cms",
+    "title": "JSW Realty eyes over Rs 2,000 crore revenue from luxury housing project in Mumbai",
+    "summary": "JSW Realty has partnered with the Patel family to transform their historic Malabar Court property in Mumbai into a high-end residential tower. This exclusive development, situated on a prime one-acre plot near the Malabar Hill Club, is projected to y",
+    "image": "https://img.etimg.com/photo/msid-129671941,imgsize-30056.cms",
     "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 10:45:29 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/rupee-hits-new-low-dwindling-forex-reserves-and-dollar-surge-fuel-currency-crisis-naveen-mathur/articleshow/129670961.cms"
+    "pubDate": "Thu, 19 Mar 2026 11:34:12 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/jsw-realty-eyes-over-rs-2000-crore-revenue-from-luxury-housing-project-in-mumbai/articleshow/129671941.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stove-kraft-ttk-prestige-shares-rocket-up-to-9-after-irans-attack-on-worlds-largest-lng-plant-raises-supply-fears/articleshow/129671151.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-watch-foreign-investors-dump-japanese-stocks-on-iran-war-jitters/articleshow/129671910.cms",
     "category": "finance",
-    "title": "Stove Kraft, TTK Prestige shares rocket up to 9% after Iran\u2019s attack on world\u2019s largest LNG plant raises supply fears",
-    "summary": "Attacks on Middle East energy facilities have disrupted global gas supply. This has led to a surge in demand for induction cooktops in India. Companies like Stove Kraft and TTK Prestige have seen significant stock rallies. Restaurants are facing gas ",
-    "image": "https://img.etimg.com/photo/msid-129671151,imgsize-9350.cms",
+    "title": "Global Market Watch | Foreign investors dump Japanese stocks on Iran war jitters",
+    "summary": "Foreign investors offloaded approximately 1.77 trillion yen in Japanese stocks, marking their largest weekly sales since September 2025 due to concerns over the Iran war's economic impact and rising energy prices. This selling spree followed a signif",
+    "image": "https://img.etimg.com/photo/msid-129671910,imgsize-12402.cms",
     "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 10:45:24 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stove-kraft-ttk-prestige-shares-rocket-up-to-9-after-irans-attack-on-worlds-largest-lng-plant-raises-supply-fears/articleshow/129671151.cms"
+    "pubDate": "Thu, 19 Mar 2026 11:32:27 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-watch-foreign-investors-dump-japanese-stocks-on-iran-war-jitters/articleshow/129671910.cms"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/video-shows-couple-floating-in-muddy-water-for-pre-wedding-shoot-sparks-wave-of-jokes-11236226#publisher=newsstand",
-    "category": "india",
-    "title": "Video Shows Couple Floating In Muddy Water For Pre-Wedding Shoot, Sparks Wave Of Jokes",
-    "summary": "The unusual concept sparked a massive meme fest.",
-    "image": "https://c.ndtvimg.com/2026-03/bdknds7o_photoshoot_625x300_19_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 10:37:13 +0530",
-    "link": "https://www.ndtv.com/offbeat/video-shows-couple-floating-in-muddy-water-for-pre-wedding-shoot-sparks-wave-of-jokes-11236226#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/algae-and-yeast-for-skin-biotech-skincare-could-compete-with-korean-trends-any-day-heres-how-11234680#publisher=newsstand",
-    "category": "india",
-    "title": "Algae And Yeast For Skin? Biotech Skincare Could Compete With Korean Trends Any Day; Here's How",
-    "summary": "Image for representation purposes only",
-    "image": "https://c.ndtvimg.com/2026-03/im0tovso_biotech-skincare_625x300_19_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 10:34:58 +0530",
-    "link": "https://www.ndtv.com/health/algae-and-yeast-for-skin-biotech-skincare-could-compete-with-korean-trends-any-day-heres-how-11234680#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/watch-wild-imposter-possum-caught-hiding-among-stuffed-animals-at-australian-airport-shop-11236450#publisher=newsstand",
-    "category": "india",
-    "title": "Watch: Wild 'Imposter' Possum Caught Hiding Among Stuffed Animals At Australian Airport Shop",
-    "summary": "A wild possum was found hiding among plush toys at Hobart Airport's gift shop on March 18.",
-    "image": "https://c.ndtvimg.com/2026-03/qaps1qg4_as_625x300_19_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 10:34:04 +0530",
-    "link": "https://www.ndtv.com/offbeat/watch-wild-imposter-possum-caught-hiding-among-stuffed-animals-at-australian-airport-shop-11236450#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/hdfc-bank-chairman-atanu-chakraborty-quits-citing-ethical-concerns-shares-plunge-11236076#publisher=newsstand",
-    "category": "india",
-    "title": "HDFC Bank Chairman Quits Citing 'Ethical' Concerns, Shares Fall Over 4%",
-    "summary": "Atanu Chakraborty said 'certain practices within the bank are not in congruence with my ethics'.",
-    "image": "https://c.ndtvimg.com/2026-03/rp9gferc_hdfc-banks-parttime-chairman-and-independent-director-atanu-chakraborty_625x300_19_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 10:31:48 +0530",
-    "link": "https://www.ndtv.com/india-news/hdfc-bank-chairman-atanu-chakraborty-quits-citing-ethical-concerns-shares-plunge-11236076#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/rajputana-stainless-shares-make-a-muted-debut-list-at-2-premium-over-ipo-price/articleshow/129671020.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-war-oil-shock-and-credit-stress-banks-face-dj-vu-in-leveraged-finance/articleshow/129671903.cms",
     "category": "finance",
-    "title": "Rajputana Stainless shares make a muted debut, list at 2% premium over IPO price",
-    "summary": "Rajputana Stainless made a muted debut, listing at Rs 123.95 on BSE, a 1.6% premium over its Rs 122 issue price, while NSE saw it at par. The Rs 255 crore IPO, combining a fresh issue and offer-for-sale, raised funds for expansion and debt repayment.",
-    "image": "https://img.etimg.com/photo/msid-129671020,imgsize-23748.cms",
+    "title": "US Stock Market | War, Oil Shock and Credit Stress: Banks face d\u00e9j\u00e0 vu in leveraged finance",
+    "summary": "Rising geopolitical tensions, surging oil prices, and renewed inflation fears are putting pressure on Wall Street\u2019s leveraged finance markets. Banks that underwrote large buyout loans during easy liquidity are now struggling to sell that debt, echoin",
+    "image": "https://img.etimg.com/photo/msid-129671903,imgsize-88778.cms",
     "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 10:30:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/rajputana-stainless-shares-make-a-muted-debut-list-at-2-premium-over-ipo-price/articleshow/129671020.cms"
+    "pubDate": "Thu, 19 Mar 2026 11:31:58 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-war-oil-shock-and-credit-stress-banks-face-dj-vu-in-leveraged-finance/articleshow/129671903.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-national-debt-surpasses-record-39-trillion-amid-iran-war-middle-east-conflict-11236240#publisher=newsstand",
-    "category": "india",
-    "title": "US National Debt Surpasses Record $39 Trillion Amid Iran War",
-    "summary": "The US national debt hit $38 trillion five months ago - and $37 trillion two months before that",
-    "image": "https://c.ndtvimg.com/2026-03/todr18lo_trump_625x300_18_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 10:27:58 +0530",
-    "link": "https://www.ndtv.com/world-news/us-national-debt-surpasses-record-39-trillion-amid-iran-war-middle-east-conflict-11236240#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/president-donald-trump-honours-6-us-service-members-killed-in-kc-135-crash-in-iraq-middle-east-conflict-us-iran-israel-war-11236363#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Honours 6 US Service Members Killed In KC-135 Crash In Iraq",
-    "summary": "Secretary of Defense Pete Hegseth and top US military officer Dan Caine accompanied Trump",
-    "image": "https://c.ndtvimg.com/2026-03/ao1ildgg_trump_625x300_19_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 10:26:50 +0530",
-    "link": "https://www.ndtv.com/world-news/president-donald-trump-honours-6-us-service-members-killed-in-kc-135-crash-in-iraq-middle-east-conflict-us-iran-israel-war-11236363#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/jonathan-schiessl-flags-prolonged-inflation-risk-amid-conflict/articleshow/129670905.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/macquarie-drops-hdfc-bank-from-marquee-buy-after-chairmans-exit-flags-governance-concerns/articleshow/129671863.cms",
     "category": "finance",
-    "title": "Jonathan Schiessl flags prolonged inflation risk amid conflict",
-    "summary": "Global markets show resilience but geopolitical conflict fuels uncertainty. Inflation risks persist, impacting central bank strategies. Investors are cautious, reducing exposure rather than increasing risk. Traditional safe havens offer little comfor",
-    "image": "https://img.etimg.com/photo/msid-129670905,imgsize-21490.cms",
+    "title": "Macquarie drops HDFC Bank from \u2018Marquee Buy\u2019 after chairman's exit; flags governance concerns",
+    "summary": "Brokerage Macquarie Capital has dropped HDFC Bank from its \u201cMarquee Buy\u201d list after part-time chairman Atanu Chakraborty resigned, flagging governance issues. Analysts say leadership uncertainty and board-level concerns may weigh on the stock despite",
+    "image": "https://img.etimg.com/photo/msid-129671863,imgsize-37596.cms",
     "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 10:25:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/jonathan-schiessl-flags-prolonged-inflation-risk-amid-conflict/articleshow/129670905.cms"
+    "pubDate": "Thu, 19 Mar 2026 11:29:23 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/macquarie-drops-hdfc-bank-from-marquee-buy-after-chairmans-exit-flags-governance-concerns/articleshow/129671863.cms"
+  },
+  {
+    "id": "https://www.bbc.com/weather/articles/crm8mexxlm7o#0",
+    "category": "global",
+    "title": "Warm settled weather set to continue into the weekend",
+    "summary": "The spring-like weather is set to continue for the rest of the week but is unlikely to hit the highs of Wednesday's warmest day of the year so far, as Simon King explains.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Mar 2026 06:33:19 GMT",
+    "link": "https://www.bbc.com/weather/articles/crm8mexxlm7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c24de9e97vno#0",
+    "category": "global",
+    "title": "How the Iran war has left Europe facing yet another energy crisis",
+    "summary": "It is not the first time that there has been deep energy-linked frustration in the heart of Europe.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Mar 2026 05:59:49 GMT",
+    "link": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c20z08rdd9ro#0",
@@ -288,6 +288,16 @@
     "source": "BBC",
     "pubDate": "Thu, 19 Mar 2026 04:17:14 GMT",
     "link": "https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvgj22e7qwyo#0",
+    "category": "global",
+    "title": "Child seen in sex abuse videos identified after researcher spots school badge",
+    "summary": "An analyst tells the BBC how she tracked down a victim of child sexual abuse after years of searching.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Mar 2026 03:21:12 GMT",
+    "link": "https://www.bbc.com/news/articles/cvgj22e7qwyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cedzqqp9x2do#0",
@@ -338,16 +348,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 19 Mar 2026 00:35:38 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528345.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c8d5dee3ep8o#0",
-    "category": "global",
-    "title": "Impact of Iran war expected to bring hold in interest rates",
-    "summary": "Before the conflict began, analysts had expected a cut in the Bank rate at this meeting.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Mar 2026 00:10:32 GMT",
-    "link": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
