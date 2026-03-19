@@ -20,16 +20,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1528339.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528257.html",
-    "category": "sports",
-    "title": "Bangladesh sports minister to consult ICC on future of BCB",
-    "summary": "Sports minister Aminul Haque said on Tuesday that once the five-member committee submits its report within 15 working days, he will discuss the matter with the ICC",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414611.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 18 Mar 2026 06:47:15 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528257.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -60,10 +50,130 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/gold-falls-to-over-one-month-low-on-stronger-dollar-hawkish-fed-tone/articleshow/129678948.cms",
+    "category": "finance",
+    "title": "Gold falls to over one-month low on stronger dollar, hawkish Fed tone",
+    "summary": "Gold prices fell to their lowest level in more than a month on Thursday, pressured by a stronger dollar and rising Treasury yields, while a hawkish U.S. Federal Reserve further dampened \u200cbullion's appeal.",
+    "image": "https://img.etimg.com/photo/msid-129678948,imgsize-54982.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Mar 2026 17:27:19 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/gold-falls-to-over-one-month-low-on-stronger-dollar-hawkish-fed-tone/articleshow/129678948.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/ashok-karat-captain-influential-astrologer-67-arrested-for-repeatedly-raping-35-year-old-woman-11238108#publisher=newsstand",
+    "category": "india",
+    "title": "Hidden Cameras, 58 Women: Nashik Astrologer And His Farmhouse Of Secrets",
+    "summary": "According to the police FIR, Ashok Kharat, who refers to himself as 'Captain' as he is a retired Merchant Navy officer, used to summon women to his office by luring them with promises of resolving their personal problems.",
+    "image": "https://c.ndtvimg.com/2026-03/m14pa7cs_ashok-karat_625x300_19_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 17:19:06 +0530",
+    "link": "https://www.ndtv.com/india-news/ashok-karat-captain-influential-astrologer-67-arrested-for-repeatedly-raping-35-year-old-woman-11238108#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/jawed-ashraf-was-conferred-the-rank-of-commandeur-11238091#publisher=newsstand",
+    "category": "india",
+    "title": "Former Ambassador Jawed Ashraf Awarded France's Legion d'honneur Commandeur Distinction",
+    "summary": "The insignia was presented by Thierry Mathou, Ambassador of France to India",
+    "image": "https://c.ndtvimg.com/2026-03/58c8l3p4_javed-ashraf_625x300_19_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 17:18:11 +0530",
+    "link": "https://www.ndtv.com/india-news/jawed-ashraf-was-conferred-the-rank-of-commandeur-11238091#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/why-do-you-feel-more-tired-these-days-how-weather-changes-are-draining-your-energy-11238222#publisher=newsstand",
+    "category": "india",
+    "title": "Why Do You Feel More Tired These Days? How Weather Changes Are Draining Your Energy",
+    "summary": "Unpredictable weather can lead to disrupted sleep patterns",
+    "image": "https://c.ndtvimg.com/2026-03/5d20tffo_tired_625x300_19_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 17:15:25 +0530",
+    "link": "https://www.ndtv.com/health/why-do-you-feel-more-tired-these-days-how-weather-changes-are-draining-your-energy-11238222#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/eid-2026-in-india-will-it-be-march-20-or-21-moon-sighting-to-decide-11238099#publisher=newsstand",
+    "category": "india",
+    "title": "Eid 2026 In India: Will It Be March 20 Or 21? Moon Sighting To Decide",
+    "summary": "Eid ul-Fitr 2026 Date: Chand Raat will mark the beginning of celebrations.",
+    "image": "https://c.ndtvimg.com/2026-03/jmol0gkc_eid_625x300_18_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 17:10:16 +0530",
+    "link": "https://www.ndtv.com/offbeat/eid-2026-in-india-will-it-be-march-20-or-21-moon-sighting-to-decide-11238099#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/delhi-fire-palam-fire-rajender-kashyap-death-survival-and-miraculous-escape-fate-of-5-brothers-in-delhi-fire-11238218#publisher=newsstand",
+    "category": "india",
+    "title": "Death, Survival, And Miraculous Escape: Fate Of 5 Brothers In Delhi Fire",
+    "summary": "Two of the Kashyap brothers died in the Palam fire tragedy",
+    "image": "https://c.ndtvimg.com/2026-03/mb2msa4k_palam-fire_625x300_19_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 17:09:24 +0530",
+    "link": "https://www.ndtv.com/india-news/delhi-fire-palam-fire-rajender-kashyap-death-survival-and-miraculous-escape-fate-of-5-brothers-in-delhi-fire-11238218#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-pm-narendra-modi-speaks-to-sultan-haitham-bin-tariq-of-oman-malaysian-pm-anwar-ibrahim-discusses-middle-east-crisis-11238188#publisher=newsstand",
+    "category": "india",
+    "title": "PM Modi Speaks To Sultan Of Oman, Malaysian PM, Discusses Middle East Crisis",
+    "summary": "This was PM Modi's second conversation with the Sultan of Oman since Iran war.",
+    "image": "https://c.ndtvimg.com/2023-12/230bltr8_pm-modi-sultan-of-oman-pti-_625x300_16_December_23.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 17:08:00 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-pm-narendra-modi-speaks-to-sultan-haitham-bin-tariq-of-oman-malaysian-pm-anwar-ibrahim-discusses-middle-east-crisis-11238188#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/11-year-old-american-boy-charged-with-murder-of-younger-brother-reports-11238138#publisher=newsstand",
+    "category": "india",
+    "title": "11-Year-Old Boy Charged With Murder Of Younger Brother In Colorado: Reports",
+    "summary": "Juvenile case records are not public in Colorado, United States of America.",
+    "image": "https://c.ndtvimg.com/2026-03/2koirulc_child-killed_625x300_19_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 17:06:13 +0530",
+    "link": "https://www.ndtv.com/world-news/11-year-old-american-boy-charged-with-murder-of-younger-brother-reports-11238138#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-tcs-among-5-sensex-stocks-hitting-52-week-lows-down-up-to-16-in-a-month/slideshow/129678702.cms",
+    "category": "finance",
+    "title": "HDFC Bank, TCS among 5 Sensex stocks hitting 52-week lows; down up to 16% in a month",
+    "summary": "Indian stock markets experienced a significant downturn on Thursday. The benchmark Sensex dropped by 2,497 points, closing at 74,207. Amid this sharp decline, five prominent stocks within the BSE Sensex index reached their 52-week lows.",
+    "image": "https://img.etimg.com/photo/msid-129678516,imgsize-8793.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Mar 2026 17:05:26 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-tcs-among-5-sensex-stocks-hitting-52-week-lows-down-up-to-16-in-a-month/slideshow/129678702.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/kendriya-vidyalaya-balvatika-admissions-2026-27-online-registration-to-begin-with-lottery-based-selection-and-detailed-eligibility-criteria-11238187#publisher=newsstand",
+    "category": "india",
+    "title": "Kendriya Vidyalaya Balvatika Admissions 2026-27: Online Registration Begins March 20",
+    "summary": "Kendriya Vidyalaya Class 1 Admission Details Eligibility And Reservation Policy",
+    "image": "https://c.ndtvimg.com/2026-03/gp1vcl5s_kvs_625x300_19_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 19 Mar 2026 17:01:52 +0530",
+    "link": "https://www.ndtv.com/education/kendriya-vidyalaya-balvatika-admissions-2026-27-online-registration-to-begin-with-lottery-based-selection-and-detailed-eligibility-criteria-11238187#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/accenture-forecasts-quarterly-revenue-below-estimates-on-cautious-enterprise-spending/articleshow/129678383.cms",
+    "category": "finance",
+    "title": "Accenture forecasts quarterly revenue below estimates on cautious enterprise spending, Q2 revenue up 8%",
+    "summary": "Accenture \u200bforecast quarterly revenue below estimates \u200bon Thursday, as clients remain cautious on spending on large IT transformation projects amid \u200can uncertain \u2060economic \u2060environment. Shares of the Dublin, Ireland-based company \u200bwere down 3% in pre",
+    "image": "https://img.etimg.com/photo/msid-129678383,imgsize-82988.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Mar 2026 17:00:14 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/accenture-forecasts-quarterly-revenue-below-estimates-on-cautious-enterprise-spending/articleshow/129678383.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/aif-pms/accuracap-prime-fund-others-pay-rs-21-75-lakh-to-settle-aif-norms-violation-case-with-sebi/articleshow/129678357.cms",
+    "category": "finance",
+    "title": "Accuracap Prime Fund, others pay Rs 21.75 lakh to settle AIF norms violation case with Sebi",
+    "summary": "Accuracap Prime Opportunities Fund, its manager Accuracap Technologies LLP, and four officials have settled an AIF norms violation case with markets regulator Sebi, after paying Rs 21.75 lakh under the settlement mechanism.",
+    "image": "https://img.etimg.com/photo/msid-129678357,imgsize-56038.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Mar 2026 16:56:47 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/aif-pms/accuracap-prime-fund-others-pay-rs-21-75-lakh-to-settle-aif-norms-violation-case-with-sebi/articleshow/129678357.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/bears-attack-sensex-nifty-see-biggest-single-day-fall-since-june-2024-crash/articleshow/129678232.cms",
     "category": "finance",
     "title": "Bears attack! Sensex, Nifty see biggest single-day fall since June 2024 crash",
-    "summary": "Indian stock markets experienced their worst single-day fall since the June 2024 election crash, with Sensex and Nifty plunging over 3%. Soaring crude prices and hawkish US Federal Reserve commentary triggered the selloff, wiping out over Rs 11.5 lak",
+    "summary": "Indian stock markets experienced their worst single-day fall since the June 2024 election crash, with Sensex and Nifty plunging over 3% on Thursday. Soaring crude prices and hawkish US Federal Reserve commentary triggered the selloff, wiping out over",
     "image": "https://img.etimg.com/photo/msid-129678232,imgsize-27316.cms",
     "source": "ET",
     "pubDate": "Thu, 19 Mar 2026 16:54:54 +0530",
@@ -100,134 +210,44 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/indias-journey-to-third-largest-economy-to-boost-flows-via-gift-ifsc-subho-moulik/articleshow/129677030.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/gate-2026-result-live-final-answer-key-out-for-all-papers-direct-link-to-check-result-and-merit-list-11237364#publisher=newsstand",
-    "category": "india",
-    "title": "GATE 2026 Result (OUT) LIVE: Here's Direct Link To Check Qualifying Status",
-    "summary": "GATE 2026 Result:  GATE 2026 scorecards will be made available for download from March 27.",
-    "image": "https://c.ndtvimg.com/2026-03/jhpk1f1c_gate-2026-result_625x300_19_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 16:10:41 +0530",
-    "link": "https://www.ndtv.com/education/gate-2026-result-live-final-answer-key-out-for-all-papers-direct-link-to-check-result-and-merit-list-11237364#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/can-tattoos-cause-vision-loss-australian-study-links-ink-toxins-to-eye-risk-11237330#publisher=newsstand",
-    "category": "india",
-    "title": "Can Tattoos Cause Vision Loss? Australian Study Links Ink Toxins To Eye Risk",
-    "summary": "Certain toxic chemicals in tattoo ink can have a negative impact on eye health",
-    "image": "https://c.ndtvimg.com/2026-03/sba0f2j4_tattoo-ink-uveitis-risk_625x300_19_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 15:59:58 +0530",
-    "link": "https://www.ndtv.com/health/can-tattoos-cause-vision-loss-australian-study-links-ink-toxins-to-eye-risk-11237330#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/russia-to-refer-women-who-dont-want-children-to-psychologists-11237474#publisher=newsstand",
-    "category": "india",
-    "title": "Russia Plans To Refer Women Who Don't Want Children To Psychologists",
-    "summary": "Moscow has tightened abortion rules and made so-called \"child-free propaganda\" illegal in recent times.",
-    "image": "https://c.ndtvimg.com/2026-03/ctsbq62o_russian-women_625x300_19_March_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 15:54:58 +0530",
-    "link": "https://www.ndtv.com/world-news/russia-to-refer-women-who-dont-want-children-to-psychologists-11237474#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/70-of-indias-ecbs-routed-via-gift-city-equity-listings-to-be-next-big-trigger-ifscas-pradeep-ramakrishnan/articleshow/129676717.cms",
-    "category": "finance",
-    "title": "70% of India\u2019s ECBs routed via GIFT City; equity listings to be next big trigger: IFSCA\u2019s Pradeep Ramakrishnan",
-    "summary": "GIFT City is attracting global capital to India, with bond listings leading early success. Equity markets are poised to drive future growth, supported by new listing regulations. Sustainable finance is also gaining momentum, with global frameworks be",
-    "image": "https://img.etimg.com/photo/msid-129676717,imgsize-41770.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 15:53:04 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/70-of-indias-ecbs-routed-via-gift-city-equity-listings-to-be-next-big-trigger-ifscas-pradeep-ramakrishnan/articleshow/129676717.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/chinese-university-tells-students-to-fall-in-love-during-spring-break-11233397#publisher=newsstand",
-    "category": "india",
-    "title": "Chinese University Tells Students To 'Fall In Love' During Spring Break",
-    "summary": "Chinese authorities are promoting spring breaks to boost leisure time and reverse declining birth rates.",
-    "image": "https://c.ndtvimg.com/2026-03/ajhribpo_china-people_625x300_18_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 15:47:23 +0530",
-    "link": "https://www.ndtv.com/world-news/chinese-university-tells-students-to-fall-in-love-during-spring-break-11233397#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-share-market-nifty-crash-19-march-crude-oil-11236169#publisher=newsstand",
-    "category": "india",
-    "title": "Stock Market Highlights: Rs 12 Trillion Wiped Out Today As Sensex Crashes 2,400 Points",
-    "summary": "Stock Market, Sensex Today, Nifty, Share Market Highlights: Markets crashed on Thursday.",
-    "image": "https://c.ndtvimg.com/2026-01/026g8rcc_stock-market-hero_650x400_30_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 15:42:43 +0530",
-    "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-share-market-nifty-crash-19-march-crude-oil-11236169#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/weighted-vest-fitness-trend-explained-fat-loss-strength-gains-and-price-check-11237781#publisher=newsstand",
-    "category": "india",
-    "title": "Weighted Vest Fitness Trend Explained: Fat Loss, Strength Gains And Price Check",
-    "summary": "The study looked at older adults with obesity who followed a calorie-restricted diet",
-    "image": "https://c.ndtvimg.com/2026-03/gnpo05fk_weighted-vest-fitness-trend_625x300_19_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 15:37:36 +0530",
-    "link": "https://www.ndtv.com/health/weighted-vest-fitness-trend-explained-fat-loss-strength-gains-and-price-check-11237781#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/rajasthan-board-class-10-results-2026-on-march-20-official-websites-direct-link-11236034#publisher=newsstand",
-    "category": "india",
-    "title": "Rajasthan Board Class 10 Results 2026 Tomorrow: Official Websites, Direct Link",
-    "summary": "Rajasthan Board 10th Result Date 2026: The results will also be available on the NDTV Education page.",
-    "image": "https://i.ndtvimg.com/i/2017-06/students_650x400_61496744807.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 15:22:26 +0530",
-    "link": "https://www.ndtv.com/education/rajasthan-board-class-10-results-2026-on-march-20-official-websites-direct-link-11236034#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/bihar-board-10th-result-2026-live-updates-result-releasing-on-march-20-check-direct-link-steps-to-download-marksheet-11236178#publisher=newsstand",
-    "category": "india",
-    "title": "Bihar Board 10th Result On March 20: Direct Link, Steps To Download Marksheet",
-    "summary": "Bihar Board 10th Result 2026",
-    "image": "https://c.ndtvimg.com/2025-04/os9o0p34_online-exam-result-representative-image_625x300_19_April_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 19 Mar 2026 15:17:26 +0530",
-    "link": "https://www.ndtv.com/education/bihar-board-10th-result-2026-live-updates-result-releasing-on-march-20-check-direct-link-steps-to-download-marksheet-11236178#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/banks-are-not-the-only-villains-in-niftys-600-points-crash-autos-fair-worse-with-up-to-4-index-fall/articleshow/129676165.cms",
-    "category": "finance",
-    "title": "Banks are not the only villains in Nifty's 600 points crash, autos fair worse with up to 4% index fall",
-    "summary": "\u200bAuto stocks led the market decline as the Nifty plunged 600 points, with the sector falling up to 4% amid rising crude oil prices and Fed-driven macro concerns. Weak sentiment was compounded by geopolitical tensions, while banks and IT also dragged ",
-    "image": "https://img.etimg.com/photo/msid-129676165,imgsize-25601.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 15:17:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/banks-are-not-the-only-villains-in-niftys-600-points-crash-autos-fair-worse-with-up-to-4-index-fall/articleshow/129676165.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-selloff-in-financials-hammers-indias-nifty-50-to-worst-fortnight-since-covid-19-crash/articleshow/129675325.cms",
-    "category": "finance",
-    "title": "Foreign selloff in financials hammers India's Nifty 50 to worst fortnight since COVID-19 crash",
-    "summary": "Foreign selling in Indian equities surged in the first \u200bhalf of March, led by \u200bfinancials, marking the heaviest fortnightly selling in 17 months and \u200bdragging the Nifty 50 to its worst fortnight since the COVID-19-led rout in March 2020.",
-    "image": "https://img.etimg.com/photo/msid-129675325,imgsize-30304.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 14:37:09 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-selloff-in-financials-hammers-indias-nifty-50-to-worst-fortnight-since-covid-19-crash/articleshow/129675325.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-decline-as-mideast-war-worsens-focus-shifts-to-ecb-decision/articleshow/129675248.cms",
-    "category": "finance",
-    "title": "Global Markets | European shares decline as Mideast war worsens, focus shifts to ECB decision",
-    "summary": "European shares slipped on Thursday as an intensifying conflict in the Middle East \u200csapped \u2060risk appetite while \u2060markets awaited the European Central Bank's monetary policy \u200bverdict.",
-    "image": "https://img.etimg.com/photo/msid-129675248,imgsize-36700.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 14:31:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-decline-as-mideast-war-worsens-focus-shifts-to-ecb-decision/articleshow/129675248.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy7166denxeo#0",
+    "id": "https://www.bbc.com/news/articles/cq57557d6p6o#0",
     "category": "global",
-    "title": "Cyprus leader calls for frank discussion on 'colonial' UK bases",
-    "summary": "The UK's two military bases on Cyprus are a \"colonial consequence\" on the island, says President Nikos Christodoulides.",
+    "title": "Afroman wins legal battle over songs mocking US police",
+    "summary": "The rapper was sued after releasing an entire album ridiculing the officers who raided his home.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 19 Mar 2026 11:05:55 GMT",
-    "link": "https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 19 Mar 2026 12:36:47 GMT",
+    "link": "https://www.bbc.com/news/articles/cq57557d6p6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1528404.html",
+    "category": "sports",
+    "title": "Stirling steps down as T20I captain; Ireland confirm T20I series against India",
+    "summary": "Stirling will, however, continue to lead Ireland's ODI side as they target qualification for next year's World Cup",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413315.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 19 Mar 2026 12:36:40 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528404.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c624330lg1ko#0",
+    "category": "global",
+    "title": "US messageboard 4Chan mocks \u00a3520,000 fine for UK online safety breaches",
+    "summary": "The fine includes \u00a3450,000 for lack of age checks to prevent children from seeing pornography.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Mar 2026 12:13:04 GMT",
+    "link": "https://www.bbc.com/news/articles/c624330lg1ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c33j3gxvgmro#0",
+    "category": "global",
+    "title": "Former counter-terrorism head investigated by FBI over alleged leaks",
+    "summary": "The former counter-terrorism head resigned on Tuesday over the war with Iran, saying the country posed \"no imminent threat\" to the US.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Mar 2026 12:05:39 GMT",
+    "link": "https://www.bbc.com/news/articles/c33j3gxvgmro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c93j37egjdeo#1",
@@ -250,14 +270,14 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1528396.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c4g8ggelrd5o#0",
+    "id": "https://www.bbc.com/news/articles/c2e4ygndjpwo#1",
     "category": "global",
-    "title": "Police investigating bailout email from Mandelson to Epstein",
-    "summary": "Met chief Sir Mark Rowley says police are looking at whether the email was a criminal offence.",
+    "title": "How the war may affect money and bills",
+    "summary": "The conflict in the Middle East could raise the cost of petrol, household energy bills and even food.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 19 Mar 2026 09:50:28 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g8ggelrd5o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 19 Mar 2026 09:29:09 GMT",
+    "link": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528393.html",
@@ -280,16 +300,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1528394.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cz9qq8d7l1ko#0",
-    "category": "global",
-    "title": "Better NHS care might have saved 58 babies, BBC finds",
-    "summary": "There are growing calls for a statutory public inquiry into maternity services in Oxford.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Mar 2026 07:47:55 GMT",
-    "link": "https://www.bbc.com/news/articles/cz9qq8d7l1ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c24de9e97vno#0",
     "category": "global",
     "title": "How Europe sleepwalked into yet another energy crisis",
@@ -298,16 +308,6 @@
     "source": "BBC",
     "pubDate": "Thu, 19 Mar 2026 05:59:49 GMT",
     "link": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvgj22e7qwyo#0",
-    "category": "global",
-    "title": "Child seen in sex abuse videos identified after researcher spots school badge",
-    "summary": "An analyst tells the BBC how she tracked down a victim of child sexual abuse after years of searching.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Mar 2026 03:21:12 GMT",
-    "link": "https://www.bbc.com/news/articles/cvgj22e7qwyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cy0dxexdd8xo#0",
