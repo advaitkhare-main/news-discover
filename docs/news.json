@@ -40,14 +40,14 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-adrs-crash-another-4-after-sharp-selloff-hinting-at-more-losses-on-friday/articleshow/129684783.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/view-dont-panic-dont-capitulate-investors-try-to-see-beyond-iran-war-says-mike-dolan/articleshow/129683574.cms",
-    "category": "finance",
-    "title": "View: Don't panic, don't capitulate; investors try to see beyond Iran war, says Mike Dolan",
-    "summary": "Global investors remain hesitant to abandon stocks and bonds despite recent energy shocks and inflation concerns. Historical resilience to oil disruptions and strong pre-existing themes like AI and growth offer some support. However, the duration of ",
-    "image": "https://img.etimg.com/photo/msid-129683574,imgsize-176349.cms",
-    "source": "ET",
-    "pubDate": "Thu, 19 Mar 2026 21:49:10 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/view-dont-panic-dont-capitulate-investors-try-to-see-beyond-iran-war-says-mike-dolan/articleshow/129683574.cms"
+    "id": "https://www.bbc.com/news/articles/c33ln4mp1p2o#0",
+    "category": "global",
+    "title": "Denmark planned to blow up Greenland runways if US invaded, reports say",
+    "summary": "Denmark's public broadcaster reports that the US operation to seize Venezuela's leader sparked fears it would act against Greenland.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 19 Mar 2026 21:52:36 GMT",
+    "link": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cp9vryml4d1o#0",
@@ -56,8 +56,18 @@
     "summary": "The decision comes after footage emerged appearing to show Taylor Frankie Paul  in an altercation with her ex-partner.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 19 Mar 2026 21:29:26 GMT",
+    "pubDate": "Thu, 19 Mar 2026 21:52:19 GMT",
     "link": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/view-dont-panic-dont-capitulate-investors-try-to-see-beyond-iran-war-says-mike-dolan/articleshow/129683574.cms",
+    "category": "finance",
+    "title": "View: Don't panic, don't capitulate; investors try to see beyond Iran war, says Mike Dolan",
+    "summary": "Global investors remain hesitant to abandon stocks and bonds despite recent energy shocks and inflation concerns. Historical resilience to oil disruptions and strong pre-existing themes like AI and growth offer some support. However, the duration of ",
+    "image": "https://img.etimg.com/photo/msid-129683574,imgsize-176349.cms",
+    "source": "ET",
+    "pubDate": "Thu, 19 Mar 2026 21:49:10 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/view-dont-panic-dont-capitulate-investors-try-to-see-beyond-iran-war-says-mike-dolan/articleshow/129683574.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/129683153.cms",
@@ -128,16 +138,6 @@
     "source": "BBC",
     "pubDate": "Thu, 19 Mar 2026 17:46:21 GMT",
     "link": "https://www.bbc.com/news/articles/clyzy0y20qlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx26gn64zyzo#0",
-    "category": "global",
-    "title": "Badenoch backs Tory MP in row over Muslim prayer event",
-    "summary": "The Tory leader has faced calls to sack a colleague who called public prayers an \"act of domination\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Mar 2026 17:38:57 GMT",
-    "link": "https://www.bbc.com/news/articles/cx26gn64zyzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528394.html",
@@ -280,6 +280,16 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
+    "id": "https://www.ndtv.com/world-news/iran-war-16-us-military-aircraft-destroyed-since-start-of-iran-war-11240705#publisher=newsstand",
+    "category": "india",
+    "title": "16 US Military Aircraft Destroyed Since Start Of Iran War",
+    "summary": "Five other KC-135s were reportedly damaged by an Iranian missile strike while parked at an airfield in Saudi Arabia.",
+    "image": "https://c.ndtvimg.com/2026-03/o9j2sdd4_kc135-aircraft_625x300_13_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Mar 2026 02:59:36 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-16-us-military-aircraft-destroyed-since-start-of-iran-war-11240705#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/iran-war-war-with-iran-could-end-faster-than-people-think-benjamin-netanyahu-11240489#publisher=newsstand",
     "category": "india",
     "title": "War With Iran Could End \"Faster Than People Think\": Netanyahu",
@@ -368,16 +378,6 @@
     "source": "NDTV",
     "pubDate": "Fri, 20 Mar 2026 00:29:47 +0530",
     "link": "https://www.ndtv.com/world-news/us-approves-over-16-billion-in-arms-sales-to-gulf-nations-hit-by-iran-war-11240431#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-live-pete-hegseth-warns-of-largest-strike-package-against-iran-says-us-is-winning-11240425#publisher=newsstand",
-    "category": "india",
-    "title": "Hegseth Warns Of \"Largest Strike Package\" Against Iran, Says US Is Winning",
-    "summary": "Hegseth highlighted the significant degradation of Iran's military capabilities",
-    "image": "https://c.ndtvimg.com/2025-10/fftikses_pete-hegseth-_625x300_01_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Mar 2026 00:28:27 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-live-pete-hegseth-warns-of-largest-strike-package-against-iran-says-us-is-winning-11240425#publisher=newsstand"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
