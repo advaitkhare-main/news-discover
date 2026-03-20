@@ -40,16 +40,6 @@
     "link": "https://www.bbc.com/news/articles/clyzy0y20qlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528394.html",
-    "category": "sports",
-    "title": "John Mooney named Delhi Capitals' fielding coach for IPL 2026",
-    "summary": "John Mooney becomes the first from Ireland to be part of an IPL franchise's coaching staff",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/288900/288957.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 19 Mar 2026 16:55:43 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528394.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -78,6 +68,46 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 05 Jan 2026 07:45:00 GMT",
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hovers-near-70k-amid-middle-east-tensions-and-etf-outflows-cpi-data-key-for-next-move/articleshow/129694974.cms",
+    "category": "finance",
+    "title": "Bitcoin hovers near $70K amid Middle East tensions and ETF outflows; CPI data key for next move",
+    "summary": "Bitcoin hovered near $70,000 amidst geopolitical tensions, a hawkish Fed outlook, and ETF outflows. Markets await CPI data for direction, with $70,000 acting as a key support level. Analysts suggest a consolidation phase, with the broader bullish str",
+    "image": "https://img.etimg.com/photo/msid-129694974,imgsize-33844.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Mar 2026 12:59:06 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hovers-near-70k-amid-middle-east-tensions-and-etf-outflows-cpi-data-key-for-next-move/articleshow/129694974.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/indian-markets-under-siege-and-there-are-very-few-places-to-hide-amnish-aggarwal/articleshow/129694966.cms",
+    "category": "finance",
+    "title": "Indian markets under siege and there are very few places to hide: Amnish Aggarwal",
+    "summary": "India's market faces multiple shocks. Crude oil prices surge, foreign investors exit, the rupee weakens, and inflation rises. Consumers are yet to feel the full impact of fuel price hikes. Some private banks and IT companies show resilience. Domestic",
+    "image": "https://img.etimg.com/photo/msid-129694966,imgsize-41164.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Mar 2026 12:57:39 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/indian-markets-under-siege-and-there-are-very-few-places-to-hide-amnish-aggarwal/articleshow/129694966.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/weight-is-over-pharma-stocks-jump-up-to-4-as-patent-for-ozempics-key-ingredient-expires-what-lies-ahead/articleshow/129694731.cms",
+    "category": "finance",
+    "title": "Weight is over! Pharma stocks jump up to 4% as patent for Ozempic's key ingredient expires; what lies ahead?",
+    "summary": "Pharma stocks rose up to 4% as Novo Nordisk\u2019s semaglutide patent nears expiry, raising expectations of cheaper generics in India. Strong growth potential in GLP-1 drugs, low penetration, and aggressive pricing by domestic players like Natco Pharma ar",
+    "image": "https://img.etimg.com/photo/msid-129694731,imgsize-39544.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Mar 2026 12:40:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/weight-is-over-pharma-stocks-jump-up-to-4-as-patent-for-ozempics-key-ingredient-expires-what-lies-ahead/articleshow/129694731.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/polite-powertech-files-drhp-with-sebi-for-ipo-heres-everything-you-need-to-know/articleshow/129694409.cms",
+    "category": "finance",
+    "title": "Polite Powertech files DRHP with SEBI for IPO. Here\u2019s everything you need to know",
+    "summary": "Polite Powertech has filed its DRHP with Sebi to launch an IPO comprising fresh issuance and an offer for sale. The power EPC firm has shown sharp growth in revenue and profitability, supported by a strong order book and newly secured projects, stren",
+    "image": "https://img.etimg.com/photo/msid-129694409,imgsize-72340.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Mar 2026 12:22:53 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/polite-powertech-files-drhp-with-sebi-for-ipo-heres-everything-you-need-to-know/articleshow/129694409.cms"
   },
   {
     "id": "https://www.ndtv.com/health/sattu-sharbat-vs-buttermilk-which-one-should-you-have-to-beat-the-summer-heat-11241774#publisher=newsstand",
@@ -200,44 +230,24 @@
     "link": "https://economictimes.indiatimes.com/markets/expert-view/markets-on-edge-mayuresh-joshi-on-the-only-strategy-that-makes-sense-right-now/articleshow/129693222.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-shares-jump-3-after-subsidiary-sbi-funds-management-files-draft-ipo-papers/articleshow/129693172.cms",
-    "category": "finance",
-    "title": "SBI shares jump 3% after subsidiary SBI Funds Management files draft IPO papers",
-    "summary": "Shares of State Bank of India (SBI) rose sharply after its subsidiary SBI Funds Management filed draft IPO papers with Sebi for a pure offer for sale of 20.37 crore shares. Proceeds will go to selling shareholders, including SBI and Amundi India Hold",
-    "image": "https://img.etimg.com/photo/msid-129693172,imgsize-21186.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Mar 2026 11:12:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-shares-jump-3-after-subsidiary-sbi-funds-management-files-draft-ipo-papers/articleshow/129693172.cms"
+    "id": "https://www.bbc.com/news/articles/cx23yn735jdo#0",
+    "category": "global",
+    "title": "Government borrowing higher than expected in February",
+    "summary": "The ONS said an increase in government tax receipts was outweighed by a rise in spending.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 20 Mar 2026 07:34:45 GMT",
+    "link": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/stick-to-value-avoid-risky-bets-gautam-shahs-playbook-in-a-volatile-market/articleshow/129693031.cms",
-    "category": "finance",
-    "title": "Stick to value, avoid risky bets: Gautam Shah\u2019s playbook in a volatile market",
-    "summary": "Indian markets are experiencing a significant downturn, with banking stocks leading the decline and pushing the Nifty below 23,000. Experts warn of further downside, suggesting a potential drop to 22,000 for the Nifty and 52,000 for the Bank Nifty. I",
-    "image": "https://img.etimg.com/photo/msid-129693031,imgsize-15956.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Mar 2026 11:05:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/stick-to-value-avoid-risky-bets-gautam-shahs-playbook-in-a-volatile-market/articleshow/129693031.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/accentures-ai-momentum-strong-but-revenue-growth-signals-caution-for-it-sector-sudip-bandyopadhyay/articleshow/129692697.cms",
-    "category": "finance",
-    "title": "Accenture\u2019s AI momentum strong, but revenue growth signals caution for IT sector: Sudip Bandyopadhyay",
-    "summary": "Accenture reports strong AI deal wins.  This indicates a major shift in the IT sector where artificial intelligence is now essential.  While revenue growth is moderate, experts believe Accenture may exceed expectations.  The company has stopped repor",
-    "image": "https://img.etimg.com/photo/msid-129692697,imgsize-19516.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Mar 2026 10:40:24 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/accentures-ai-momentum-strong-but-revenue-growth-signals-caution-for-it-sector-sudip-bandyopadhyay/articleshow/129692697.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/83-bse-500-stocks-suffer-losses-amid-iran-israel-war-101-slump-in-double-digits-up-to-35-do-you-own-any/articleshow/129692609.cms",
-    "category": "finance",
-    "title": "83% BSE 500 stocks suffer losses amid Iran-Israel war; 101 slump in double digits up to 35%. Do you own any?",
-    "summary": "The Iran-Israel/US war has triggered a broad sell-off in Indian equities, with 83% of BSE 500 stocks trading in the red. Rising energy prices and the US Federal Reserve holding interest rates have compounded market woes, alongside a falling rupee. Co",
-    "image": "https://img.etimg.com/photo/msid-129692609,imgsize-73770.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Mar 2026 10:33:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/83-bse-500-stocks-suffer-losses-amid-iran-israel-war-101-slump-in-double-digits-up-to-35-do-you-own-any/articleshow/129692609.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1528413.html",
+    "category": "sports",
+    "title": "Ferguson to miss early part of IPL 2026, committed to keep playing for New Zealand",
+    "summary": "The fast bowler plans to link up with Punjab Kings for the latter stages of the IPL",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/398600/398656.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 20 Mar 2026 07:17:23 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528413.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528470.html",
@@ -278,16 +288,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 20 Mar 2026 05:55:23 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528465.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c2d8gjejrgpo#0",
-    "category": "global",
-    "title": "Family of teen who died in meningitis outbreak says loss is 'immeasurable'",
-    "summary": "Juliette Kenny's father is urging the government to improve access to the MenB vaccine for young people at risk.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 20 Mar 2026 05:00:58 GMT",
-    "link": "https://www.bbc.com/news/articles/c2d8gjejrgpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528453.html",
@@ -350,6 +350,16 @@
     "link": "https://www.bbc.com/news/articles/cy514kv2vzro?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c70n09pz4y1o#0",
+    "category": "global",
+    "title": "Natural History Museum takes top spot as UK's most popular attraction - beating rivals for first time",
+    "summary": "The venue broke the record for the most visitors to any museum or gallery in a single year.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 20 Mar 2026 00:05:07 GMT",
+    "link": "https://www.bbc.com/news/articles/c70n09pz4y1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c4gjn1d74jlo#0",
     "category": "global",
     "title": "Sir John Curtice: Why Labour's Brexit focus has shifted from Leavers to Remainers",
@@ -368,16 +378,6 @@
     "source": "BBC",
     "pubDate": "Fri, 20 Mar 2026 00:01:16 GMT",
     "link": "https://www.bbc.com/sport/football/articles/cj0v8z7pm6eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cqlgqq6qg26o#0",
-    "category": "global",
-    "title": "Woman who lost five family members in drowning tragedy wants surviving daughter to 'live life'",
-    "summary": "Rionaghac McGrotty was four months old when she was rescued from a car that slid off a pier after a day at the seaside.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 20 Mar 2026 00:00:30 GMT",
-    "link": "https://www.bbc.com/news/articles/cqlgqq6qg26o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
