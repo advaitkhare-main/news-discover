@@ -30,16 +30,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cj32vx61x6lo#0",
-    "category": "global",
-    "title": "The Salt Path author wrote secret first book despite claiming she was debut writer",
-    "summary": "Raynor and Moth Winn published a book they hoped would help get them out of debt, the BBC confirms.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 19 Mar 2026 22:44:34 GMT",
-    "link": "https://www.bbc.com/news/articles/cj32vx61x6lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/clyzy0y20qlo#0",
     "category": "global",
     "title": "Reports of children as young as 11 abused in West Midlands mini-marts, BBC reveals",
@@ -58,16 +48,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 19 Mar 2026 16:55:43 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528394.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528405.html",
-    "category": "sports",
-    "title": "New Zealand and South Africa jostle for series lead in high-scoring Auckland",
-    "summary": "NZ do not have a great record at Eden Park but will hope the experience of playing here helps them overcome the SA challenge",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414755.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 19 Mar 2026 16:49:45 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528405.html?ex_cid=OTC-RSS"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
@@ -100,34 +80,84 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-us-war-explained-chinks-in-f-35-stealth-jet-armour-that-iran-likely-exploited-11241627#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/sattu-sharbat-vs-buttermilk-which-one-should-you-have-to-beat-the-summer-heat-11241774#publisher=newsstand",
     "category": "india",
-    "title": "F-35 Hit Over Iran? Hi-Tech Solution To Low-Tech Problem Likely Backfired",
-    "summary": "Iran claims it struck an American F-35A stealth fighter jet",
-    "image": "https://c.ndtvimg.com/2023-02/bnrp690g_f35a-lightning-ii_625x300_13_February_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Sattu Sharbat vs Buttermilk: Which One Should You Have To Beat The Summer Heat?",
+    "summary": "Sattu sharbat and buttermilk are Indian traditional drinks that can provide cooling",
+    "image": "https://c.ndtvimg.com/2026-03/911edcq_sattu-drink_625x300_20_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 20 Mar 2026 11:08:26 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-us-war-explained-chinks-in-f-35-stealth-jet-armour-that-iran-likely-exploited-11241627#publisher=newsstand"
+    "pubDate": "Fri, 20 Mar 2026 12:12:26 +0530",
+    "link": "https://www.ndtv.com/health/sattu-sharbat-vs-buttermilk-which-one-should-you-have-to-beat-the-summer-heat-11241774#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/only-29-of-noida-schools-achieve-nipun-status-ghaziabad-records-sharp-decline-11241686#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/semaglutide-patent-expires-will-diabetes-weight-loss-treatment-become-more-accessible-for-patients-11241863#publisher=newsstand",
     "category": "india",
-    "title": "Only 29% Of Noida Schools Achieve NIPUN Status, Ghaziabad Records Sharp Decline",
-    "summary": "NIPUN Assessment 2026: The Gautam Buddh Nagar has been ranked 70th in the state.",
-    "image": "https://c.ndtvimg.com/2022-12/kpqg78n8_school-generic_625x300_22_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Semaglutide Patent Expires: Will Diabetes, Weight-Loss Treatment Become More Accessible For Patients?",
+    "summary": "Image for representation purposes only",
+    "image": "https://c.ndtvimg.com/2026-03/3hi84irs_semaglutide-prescription_625x300_20_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 20 Mar 2026 11:07:38 +0530",
-    "link": "https://www.ndtv.com/education/only-29-of-noida-schools-achieve-nipun-status-ghaziabad-records-sharp-decline-11241686#publisher=newsstand"
+    "pubDate": "Fri, 20 Mar 2026 12:11:30 +0530",
+    "link": "https://www.ndtv.com/health/semaglutide-patent-expires-will-diabetes-weight-loss-treatment-become-more-accessible-for-patients-11241863#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/alaska-airlines-plane-aborts-landing-last-moment-avoids-collision-with-fedex-jet-in-newark-11241576#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/iran-war-news-how-sailors-run-exposed-french-aircraft-carriers-exact-location-amid-war-11241872#publisher=newsstand",
     "category": "india",
-    "title": "\"Close Call\": Two Planes Nearly Collide During Landing At US Airport",
-    "summary": "An Alaska Airlines plane aborted landing to avoid collision with a FedEx Jet in Newark",
-    "image": "https://c.ndtvimg.com/2026-03/pvg67n1c_us-almost-plane-crash_625x300_20_March_26.jpeg",
+    "title": "How Sailor's Run Exposed French Aircraft Carrier's Exact Location Amid Iran War",
+    "summary": "Macron gave a speech aboard the warship few days back",
+    "image": "https://c.ndtvimg.com/2026-03/hjr2iais_charles-de-gaulle-aircraft-carrier-afp_625x300_20_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 20 Mar 2026 10:58:42 +0530",
-    "link": "https://www.ndtv.com/world-news/alaska-airlines-plane-aborts-landing-last-moment-avoids-collision-with-fedex-jet-in-newark-11241576#publisher=newsstand"
+    "pubDate": "Fri, 20 Mar 2026 12:05:44 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-news-how-sailors-run-exposed-french-aircraft-carriers-exact-location-amid-war-11241872#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/chinese-woman-raised-in-netherlands-reunites-with-birth-family-after-28-years-11241889#publisher=newsstand",
+    "category": "india",
+    "title": "Chinese Woman Raised In Netherlands Reunites With Birth Family After 28 Years",
+    "summary": "Dutch woman finds her biological parents in China after 28 years using DNA testing.",
+    "image": "https://c.ndtvimg.com/2025-05/a9aabn2s_as_625x300_24_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Mar 2026 12:04:34 +0530",
+    "link": "https://www.ndtv.com/offbeat/chinese-woman-raised-in-netherlands-reunites-with-birth-family-after-28-years-11241889#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1-lakh-crore-wiped-off-bajaj-finance-shares-tumble-18-in-march-so-far-amid-raging-iran-us-war/articleshow/129694027.cms",
+    "category": "finance",
+    "title": "Rs 1 lakh crore wiped off! Bajaj Finance shares tumble 18% in March so far amid raging Iran-US war",
+    "summary": "Bajaj Finance shares have plunged over 20% in a month, eroding more than Rs 1 lakh crore in market value amid escalating Iran-US tensions. Rising oil prices, inflation concerns and macroeconomic risks flagged by Moody\u2019s have weighed on sentiment, dra",
+    "image": "https://img.etimg.com/photo/msid-129694027,imgsize-17536.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Mar 2026 12:00:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1-lakh-crore-wiped-off-bajaj-finance-shares-tumble-18-in-march-so-far-amid-raging-iran-us-war/articleshow/129694027.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/a-1-000-km-rain-band-is-bringing-storms-in-india-pakistan-afghanistan-rainfall-in-delhi-ncr-delhi-rains-11241843#publisher=newsstand",
+    "category": "india",
+    "title": "A 1,000-Km Rain Band Is Bringing Storms In India, Pakistan, Afghanistan",
+    "summary": "The active western disturbance is driving widespread thunderstorms, gusty winds (40-80 kmph), isolated hailstorms, and light-to-moderate rainfall or snowfall across northwest India.",
+    "image": "https://c.ndtvimg.com/2026-03/mvtr2m7o_delhi-rain_625x300_20_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Mar 2026 11:58:28 +0530",
+    "link": "https://www.ndtv.com/india-news/a-1-000-km-rain-band-is-bringing-storms-in-india-pakistan-afghanistan-rainfall-in-delhi-ncr-delhi-rains-11241843#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/youtuber-elvish-yadav-after-court-sets-him-free-in-snake-venom-case-noida-rave-party-who-will-compensate-for-harassment-11241865#publisher=newsstand",
+    "category": "india",
+    "title": "\"Who Will Compensate For Harassment?\" Elvish Yadav After Court Sets Him Free",
+    "summary": "YouTuber Elvish Yadav expressed gratitude to his supporters.",
+    "image": "https://c.ndtvimg.com/2026-03/apuf7gk8_elvish-yadav-gets-relief-as-supreme-court-quashes-fir-against-him-in-snake-venom-case_625x300_19_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Mar 2026 11:58:03 +0530",
+    "link": "https://www.ndtv.com/india-news/youtuber-elvish-yadav-after-court-sets-him-free-in-snake-venom-case-noida-rave-party-who-will-compensate-for-harassment-11241865#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/dhurandhar-and-the-ghosts-of-kashmir-valley-11241862#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion | Dhurandhar, And The Enduring Ghosts Of Kashmir Valley",
+    "summary": "Dhurandhar is a story of the relentless war waged by Pakistan against India, not all of Pakistan but the terrorists it harbours, and the agenda it upholds.",
+    "image": "https://c.ndtvimg.com/2026-03/4rc0u0i4_dhurandhar-2_625x300_18_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 20 Mar 2026 11:57:10 +0530",
+    "link": "https://www.ndtv.com/opinion/dhurandhar-and-the-ghosts-of-kashmir-valley-11241862#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/iran-releases-video-of-mojtaba-khamenei-giving-religious-lessons-amid-health-concerns-11241597#publisher=newsstand",
@@ -136,48 +166,58 @@
     "summary": "A Qatari media report also claimed Mojtaba was in Moscow for treatment",
     "image": "https://c.ndtvimg.com/2026-03/6le9mqq8_mojtaba-khamenei-afp_625x300_17_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 20 Mar 2026 10:58:17 +0530",
+    "pubDate": "Fri, 20 Mar 2026 11:50:14 +0530",
     "link": "https://www.ndtv.com/world-news/iran-releases-video-of-mojtaba-khamenei-giving-religious-lessons-amid-health-concerns-11241597#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/health/world-head-injury-awareness-day-from-impact-to-icu-what-the-first-hour-of-head-injury-care-looks-like-11239139#publisher=newsstand",
-    "category": "india",
-    "title": "World Head Injury Awareness Day: From Impact To ICU, What The First Hour Of Head Injury Care Looks Like",
-    "summary": "Once the patient is stable, doctors quickly assess brain function",
-    "image": "https://c.ndtvimg.com/2026-03/1ljg4kp_head-injury-care_625x300_20_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Mar 2026 10:57:16 +0530",
-    "link": "https://www.ndtv.com/health/world-head-injury-awareness-day-from-impact-to-icu-what-the-first-hour-of-head-injury-care-looks-like-11239139#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/markets-in-waiting-mode-retail-investors-advised-patience-amid-global-tensions/articleshow/129693732.cms",
+    "category": "finance",
+    "title": "Markets in waiting mode: Retail investors advised patience amid global tensions",
+    "summary": "Global markets are volatile due to Middle East conflict. India's energy security provides a strong position. Experts advise patience for retail investors.  A relief rally is expected once tensions ease.  Domestic consumption remains a key theme.  Inv",
+    "image": "https://img.etimg.com/photo/msid-129693732,imgsize-29538.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Mar 2026 11:44:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/markets-in-waiting-mode-retail-investors-advised-patience-amid-global-tensions/articleshow/129693732.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/assam-assembly-election-2026-congress-raijor-dal-finalise-alliance-state-party-gets-11-seats-11241494#publisher=newsstand",
-    "category": "india",
-    "title": "Congress, Raijor Dal Finalise Alliance, State Party Gets 11 seats",
-    "summary": "Gaurav Gogoi thanked everyone who worked to ensure the alliance took place.",
-    "image": "https://c.ndtvimg.com/2026-03/optt4i0o_congress-raijor_625x300_20_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Mar 2026 10:51:55 +0530",
-    "link": "https://www.ndtv.com/india-news/assam-assembly-election-2026-congress-raijor-dal-finalise-alliance-state-party-gets-11-seats-11241494#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/tata-power-shares-jump-5-after-gujarat-govt-approves-supply-agreement-for-mundra-plant/articleshow/129693407.cms",
+    "category": "finance",
+    "title": "Tata Power shares jump 5% after Gujarat govt approves supply agreement for Mundra plant",
+    "summary": "Tata Power shares surged after Gujarat approved a new power supply deal. This allows the company to restart its 4-gigawatt Mundra plant. The agreement aims to boost power output amid potential summer gas shortages. It requires federal approval and ta",
+    "image": "https://img.etimg.com/photo/msid-129693407,imgsize-1313535.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Mar 2026 11:25:15 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-power-shares-jump-5-after-gujarat-govt-approves-supply-agreement-for-mundra-plant/articleshow/129693407.cms"
   },
   {
-    "id": "https://www.ndtv.com/opinion/the-inside-story-of-the-decline-of-bengal-11241515#publisher=newsstand",
-    "category": "india",
-    "title": "Opinion: Opinion | The Inside Story Of The Decline Of Bengal",
-    "summary": "",
-    "image": "https://c.ndtvimg.com/2018-10/5tp21gdg_kolkata-generic_625x300_04_October_18.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Mar 2026 10:48:38 +0530",
-    "link": "https://www.ndtv.com/opinion/the-inside-story-of-the-decline-of-bengal-11241515#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/markets-on-edge-mayuresh-joshi-on-the-only-strategy-that-makes-sense-right-now/articleshow/129693222.cms",
+    "category": "finance",
+    "title": "Markets on edge: Mayuresh Joshi on the only strategy that makes sense right now",
+    "summary": "Markets face turbulence in March 2026. Energy strikes in the Middle East cause oil prices to surge, impacting European and US gas prices. Analysts warn of inflation and stagflation risks. The advice is to stay patient, build watchlists, and review ex",
+    "image": "https://img.etimg.com/photo/msid-129693222,imgsize-18298.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Mar 2026 11:23:28 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/markets-on-edge-mayuresh-joshi-on-the-only-strategy-that-makes-sense-right-now/articleshow/129693222.cms"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/super-frustrated-bengaluru-tenant-promises-half-month-rent-to-anyone-who-helps-find-3bhk-flat-11241648#publisher=newsstand",
-    "category": "india",
-    "title": "'Super Frustrated' Bengaluru Tenant Promises Half Month Rent To Anyone Who Helps Find 3BHK Flat",
-    "summary": "Frustrated Bengaluru tenant promises half month rent for leads on 3BHK flats.",
-    "image": "https://c.ndtvimg.com/2026-02/flb4jcv4_bengaluru-_625x300_02_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 20 Mar 2026 10:48:22 +0530",
-    "link": "https://www.ndtv.com/offbeat/super-frustrated-bengaluru-tenant-promises-half-month-rent-to-anyone-who-helps-find-3bhk-flat-11241648#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-shares-jump-3-after-subsidiary-sbi-funds-management-files-draft-ipo-papers/articleshow/129693172.cms",
+    "category": "finance",
+    "title": "SBI shares jump 3% after subsidiary SBI Funds Management files draft IPO papers",
+    "summary": "Shares of State Bank of India (SBI) rose sharply after its subsidiary SBI Funds Management filed draft IPO papers with Sebi for a pure offer for sale of 20.37 crore shares. Proceeds will go to selling shareholders, including SBI and Amundi India Hold",
+    "image": "https://img.etimg.com/photo/msid-129693172,imgsize-21186.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Mar 2026 11:12:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-shares-jump-3-after-subsidiary-sbi-funds-management-files-draft-ipo-papers/articleshow/129693172.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/stick-to-value-avoid-risky-bets-gautam-shahs-playbook-in-a-volatile-market/articleshow/129693031.cms",
+    "category": "finance",
+    "title": "Stick to value, avoid risky bets: Gautam Shah\u2019s playbook in a volatile market",
+    "summary": "Indian markets are experiencing a significant downturn, with banking stocks leading the decline and pushing the Nifty below 23,000. Experts warn of further downside, suggesting a potential drop to 22,000 for the Nifty and 52,000 for the Bank Nifty. I",
+    "image": "https://img.etimg.com/photo/msid-129693031,imgsize-15956.cms",
+    "source": "ET",
+    "pubDate": "Fri, 20 Mar 2026 11:05:49 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/stick-to-value-avoid-risky-bets-gautam-shahs-playbook-in-a-volatile-market/articleshow/129693031.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/accentures-ai-momentum-strong-but-revenue-growth-signals-caution-for-it-sector-sudip-bandyopadhyay/articleshow/129692697.cms",
@@ -200,74 +240,14 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/83-bse-500-stocks-suffer-losses-amid-iran-israel-war-101-slump-in-double-digits-up-to-35-do-you-own-any/articleshow/129692609.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hpcl-bpcl-iocl-shares-rebound-up-to-6-here-are-two-reasons-behind-renewed-buying/articleshow/129692523.cms",
-    "category": "finance",
-    "title": "HPCL, BPCL, IOCL shares rebound up to 6%. Here are two reasons behind renewed buying",
-    "summary": "Shares of Hindustan Petroleum, Indian Oil, and Bharat Petroleum saw significant gains on Friday. This surge followed a statement from Israeli Prime Minister Benjamin Netanyahu indicating a de-escalation of conflict with Iran. Crude oil prices eased a",
-    "image": "https://img.etimg.com/photo/msid-129692523,imgsize-116344.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Mar 2026 10:30:19 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hpcl-bpcl-iocl-shares-rebound-up-to-6-here-are-two-reasons-behind-renewed-buying/articleshow/129692523.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-rising-yields-rising-costs-war-pushes-us-mortgage-rates-higher/articleshow/129692553.cms",
-    "category": "finance",
-    "title": "US Market | Rising Yields, Rising Costs: War pushes US mortgage rates higher",
-    "summary": "Middle East tensions are impacting the U.S. housing market. Mortgage rates have reached a three-month peak. This rise complicates efforts to improve housing affordability. The spring selling season may see reduced buyer demand. Higher borrowing costs",
-    "image": "https://img.etimg.com/photo/msid-129692553,imgsize-243302.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Mar 2026 10:29:54 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-rising-yields-rising-costs-war-pushes-us-mortgage-rates-higher/articleshow/129692553.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-record-options-expiry-adds-fuel-to-already-volatile-wall-street/articleshow/129692251.cms",
-    "category": "finance",
-    "title": "US Stock Market | Record options expiry adds fuel to already volatile Wall Street",
-    "summary": "Wall Street traders face a massive $5.7 trillion options expiry, the largest March event on record, potentially increasing market volatility. This \"triple-witching\" event occurs amid geopolitical tensions and inflation concerns, with volatility indic",
-    "image": "https://img.etimg.com/photo/msid-129692251,imgsize-56136.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Mar 2026 10:13:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-record-options-expiry-adds-fuel-to-already-volatile-wall-street/articleshow/129692251.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/the-hormuz-effect-why-your-south-mumbai-flat-may-get-pricier/articleshow/129692175.cms",
-    "category": "finance",
-    "title": "The Hormuz Effect: Why your south Mumbai flat may get pricier",
-    "summary": "The blockade of the Strait of Hormuz is significantly increasing construction costs in India, particularly impacting the luxury real estate market in Mumbai. Developers face higher prices for steel, aluminum, and imported materials, with potential co",
-    "image": "https://img.etimg.com/photo/msid-129692175,imgsize-89142.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Mar 2026 10:03:46 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/the-hormuz-effect-why-your-south-mumbai-flat-may-get-pricier/articleshow/129692175.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-global-central-banks-turn-hawkish-as-war-driven-energy-shock-clouds-rate-outlook/articleshow/129692010.cms",
-    "category": "finance",
-    "title": "Global Market | Global central banks turn hawkish as war-driven energy shock clouds rate outlook",
-    "summary": "Global central banks are holding interest rates steady, signaling a readiness to tighten policy amid rising energy prices and inflation concerns stemming from the U.S.-Israeli conflict. Policymakers are wary of derailing disinflation, leading markets",
-    "image": "https://img.etimg.com/photo/msid-129692010,imgsize-56064.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Mar 2026 09:56:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-global-central-banks-turn-hawkish-as-war-driven-energy-shock-clouds-rate-outlook/articleshow/129692010.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-20-march-2026-silver-soars-rs-8500-gold-up-rs-3300-as-oil-fears-ease-slightly-relief-rally-or-structural-reversal/articleshow/129691862.cms",
-    "category": "finance",
-    "title": "Silver soars Rs 8,500, gold up Rs 3,300 as oil fears ease slightly. Relief rally or structural reversal?",
-    "summary": "Gold and silver prices rebounded sharply on 20 March 2026, with silver surging Rs 8,500 and gold rising Rs 3,300. Experts view the move as a relief rally within a broader bearish trend, driven by volatility in oil prices, the dollar and geopolitical ",
-    "image": "https://img.etimg.com/photo/msid-129691862,imgsize-36078.cms",
-    "source": "ET",
-    "pubDate": "Fri, 20 Mar 2026 09:38:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-20-march-2026-silver-soars-rs-8500-gold-up-rs-3300-as-oil-fears-ease-slightly-relief-rally-or-structural-reversal/articleshow/129691862.cms"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528465.html",
+    "id": "https://www.espncricinfo.com/ci/content/story/1528470.html",
     "category": "sports",
-    "title": "Starc and Hazlewood likely to sit out initial bit of IPL 2026",
-    "summary": "Mitchell Starc and Josh Hazlewood have joined a growing list of Australian players who will miss part of or the whole of IPL 2026",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/293400/293477.jpg",
+    "title": "New Zealand ask South Africa to bat in third T20I; Jacobs comes back, Sipamla comes in",
+    "summary": "This will be the last fixture of the series for Devon Conway, Mitchell Santner and Lockie Ferguson, who will all be rested for the remaining two matches",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414797.jpg",
     "source": "Cricinfo",
-    "pubDate": "Fri, 20 Mar 2026 05:42:54 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528465.html?ex_cid=OTC-RSS"
+    "pubDate": "Fri, 20 Mar 2026 06:37:13 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528470.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528463.html",
@@ -276,8 +256,28 @@
     "summary": "Dercksen and Reyneke powered South Africa but a slowdown in between left them with an under par 149 for 7",
     "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414789.jpg",
     "source": "Cricinfo",
-    "pubDate": "Fri, 20 Mar 2026 05:39:01 GMT",
+    "pubDate": "Fri, 20 Mar 2026 06:32:02 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528463.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cj32vx61x6lo#0",
+    "category": "global",
+    "title": "The Salt Path author wrote secret first book despite claiming she was debut writer",
+    "summary": "Raynor and Moth Winn published a book they hoped would help get them out of debt, the BBC confirms.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 20 Mar 2026 06:12:02 GMT",
+    "link": "https://www.bbc.com/news/articles/cj32vx61x6lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1528465.html",
+    "category": "sports",
+    "title": "Starc and Hazlewood likely to sit out initial games of IPL 2026",
+    "summary": "Mitchell Starc and Josh Hazlewood have joined a growing list of Australian players who will miss part of or the whole of IPL 2026",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/403100/403183.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 20 Mar 2026 05:55:23 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528465.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c2d8gjejrgpo#0",
