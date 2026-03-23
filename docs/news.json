@@ -40,6 +40,16 @@
     "link": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c393l8w7me2o#0",
+    "category": "global",
+    "title": "Potential sites for Labour's 'new towns' cut to seven",
+    "summary": "Six sites have been deprioritised from the flagship scheme to build a wave of new settlements.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 22 Mar 2026 22:58:06 GMT",
+    "link": "https://www.bbc.com/news/articles/c393l8w7me2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cew719w80g7o#0",
     "category": "global",
     "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
@@ -68,16 +78,6 @@
     "source": "BBC",
     "pubDate": "Sun, 22 Mar 2026 20:59:23 GMT",
     "link": "https://www.bbc.com/sport/athletics/articles/c20qjlyezjvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/crm120x4lzxo#0",
-    "category": "global",
-    "title": "No assessment Iran could strike London, UK minister says",
-    "summary": "Steve Reed says there is \"no specific assessment\" Iran is capable of hitting the UK, after Israel claimed it now could.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 22 Mar 2026 17:45:50 GMT",
-    "link": "https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528753.html",
@@ -130,164 +130,184 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1528734.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/india-news/delhi-rain-delhi-weather-delhi-ncr-wake-up-to-light-rain-cloudy-skies-more-showers-likely-today-11252615#publisher=newsstand",
-    "category": "india",
-    "title": "Delhi, NCR Wake Up To Light Rain, Cloudy Skies, More Showers Likely Today",
-    "summary": "From March 24 onwards, rainfall activity is expected to subside, with partly cloudy skies prevailing.",
-    "image": "https://c.ndtvimg.com/2026-03/fcd9ij38_delhi-rain-_625x300_23_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 23 Mar 2026 09:34:44 +0530",
-    "link": "https://www.ndtv.com/india-news/delhi-rain-delhi-weather-delhi-ncr-wake-up-to-light-rain-cloudy-skies-more-showers-likely-today-11252615#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/bangalore-news/bengaluru-couple-arrested-for-rs-25-crore-court-job-fraud-11252719#publisher=newsstand",
-    "category": "india",
-    "title": "Bengaluru Couple Arrested For Rs 25 Crore Court Job Fraud",
-    "summary": "The accused has been identified as Jason D'Souza and Lavina",
-    "image": "https://c.ndtvimg.com/2026-03/7k9pj314_bengaluru_625x300_23_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 23 Mar 2026 09:33:59 +0530",
-    "link": "https://www.ndtv.com/bangalore-news/bengaluru-couple-arrested-for-rs-25-crore-court-job-fraud-11252719#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/amla-juice-vs-wheatgrass-juice-which-is-better-for-a-fatty-liver-11251502#publisher=newsstand",
-    "category": "india",
-    "title": "Amla Juice vs Wheatgrass Juice: Which Is Better For Fatty Liver Disease?",
-    "summary": "Amla juice and wheatgrass for liver health (Image for representation purposes only)",
-    "image": "https://c.ndtvimg.com/2026-03/m2fjf39s_amla-juice_625x300_22_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 23 Mar 2026 09:33:45 +0530",
-    "link": "https://www.ndtv.com/health/amla-juice-vs-wheatgrass-juice-which-is-better-for-a-fatty-liver-11251502#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/rs-5-lakh-crore-wiped-out-sensex-tumbles-over-1400-pts-nifty-below-22700-escalating-iran-us-israel-war-among-6-factors-behind-todays-d-st-crash/articleshow/129742400.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-bloodbath-rs-11-lakh-cr-wiped-out-as-sensex-sinks-1800-pts-nifty-below-22550/videoshow/129744100.cms",
     "category": "finance",
-    "title": "Rs 5 lakh crore wiped out! Sensex tumbles over 1,400 pts, Nifty below 22,700; escalating Iran-US-Israel war among 6 fact",
-    "summary": "Indian stock markets experienced a significant downturn on Monday, with Sensex and Nifty both plummeting. This sharp selloff, wiping out substantial market capitalization, was driven by escalating geopolitical tensions, a weakening rupee, and broad-b",
-    "image": "https://img.etimg.com/photo/msid-129742400,imgsize-73770.cms",
+    "title": "Dalal Street Bloodbath: Rs 11 lakh cr wiped out as Sensex sinks 1,800 pts, Nifty below 22,550",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-129744100,imgsize-602340.cms",
     "source": "ET",
-    "pubDate": "Mon, 23 Mar 2026 09:28:01 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-5-lakh-crore-wiped-out-sensex-tumbles-over-1400-pts-nifty-below-22700-escalating-iran-us-israel-war-among-6-factors-behind-todays-d-st-crash/articleshow/129742400.cms"
+    "pubDate": "Mon, 23 Mar 2026 11:21:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-bloodbath-rs-11-lakh-cr-wiped-out-as-sensex-sinks-1800-pts-nifty-below-22550/videoshow/129744100.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-logs-worst-weekly-fall-in-40-years-experts-see-buying-opportunity-for-long-term-investors/articleshow/129742583.cms",
-    "category": "finance",
-    "title": "Gold logs worst weekly fall in 40 years, experts see buying opportunity for long-term investors",
-    "summary": "Gold prices have experienced their worst weekly fall in 40 years, dropping to USD 4,354 per ounce from a recent high. Despite geopolitical tensions, the precious metal is failing to act as a safe haven, with analysts suggesting current levels offer l",
-    "image": "https://img.etimg.com/photo/msid-129742583,imgsize-69838.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Mar 2026 09:26:22 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-logs-worst-weekly-fall-in-40-years-experts-see-buying-opportunity-for-long-term-investors/articleshow/129742583.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/cmpdi-ipo-day-2-gmp-at-1-check-subscription-details-should-you-apply-or-avoid/articleshow/129742491.cms",
-    "category": "finance",
-    "title": "CMPDI IPO Day 2: GMP at 1% - Check subscription details. Should you apply or avoid?",
-    "summary": "Central Mine Planning and Design Institute Ltd (CMPDI) IPO, valued at Rs 1,842 crore, is in its second day of bidding with a modest 1% grey market premium. The issue saw low subscription on Day 1, with Retail Individual Investors showing the most int",
-    "image": "https://img.etimg.com/photo/msid-129742491,imgsize-58932.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Mar 2026 09:26:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/cmpdi-ipo-day-2-gmp-at-1-check-subscription-details-should-you-apply-or-avoid/articleshow/129742491.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/stock-market-live-updates-share-market-today-23rd-march-2026-sensex-nifty-gift-iran-war-us-attack-oil-market-latest-updates-11252490#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/air-canada-express-plane-collides-with-ground-vehicle-at-new-yorks-la-guardia-airport-many-injured-11252852#publisher=newsstand",
     "category": "india",
-    "title": "Stock Market Live: Sensex Crashes 1,500 Points, Rupee Hits Fresh Low Amid Hormuz Uncertainty",
-    "summary": "Sensex Today | Stock Market LIVE Updates: Sensex, Nifty open negative on Monday.",
-    "image": "https://c.ndtvimg.com/2026-03/pvr197nk_india-stock-market_625x300_15_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Air Canada Express Plane, Truck Collide On New York's LaGuardia Airport Runway, 4 Critical",
+    "summary": "The evacuation and rescue operations are underway at the airport.",
+    "image": "https://c.ndtvimg.com/2026-03/nramt0ig_air-canada-express-crash-la-guardiajpg_650x400_23_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 23 Mar 2026 09:21:04 +0530",
-    "link": "https://www.ndtv.com/india-news/stock-market-live-updates-share-market-today-23rd-march-2026-sensex-nifty-gift-iran-war-us-attack-oil-market-latest-updates-11252490#publisher=newsstand"
+    "pubDate": "Mon, 23 Mar 2026 11:18:32 +0530",
+    "link": "https://www.ndtv.com/world-news/air-canada-express-plane-collides-with-ground-vehicle-at-new-yorks-la-guardia-airport-many-injured-11252852#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-indian-national-injured-from-falling-missile-debris-in-abu-dhabi-11252672#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/air-canada-express-crash-new-york-laguardia-airport-air-traffic-told-truck-before-crash-with-air-canada-express-plane-stop-stop-stop-11253063#publisher=newsstand",
     "category": "india",
-    "title": "Indian National Injured From Falling Missile Debris In Abu Dhabi",
-    "summary": "Debris fell in Abu Dhabi's Al Shawamekh area after the authorities intercepted a ballistic missile.",
-    "image": "https://c.ndtvimg.com/2026-03/9scua6o4_abu-dhabi_625x300_17_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "\"Stop, Stop, Stop\": Air Traffic To Truck Before New York Plane Crash",
+    "summary": "The Air Canada Express jet struck the vehicle at New York's LaGuardia Airport",
+    "image": "https://c.ndtvimg.com/2026-03/88h668hs_air-canada-express-plane_625x300_23_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 23 Mar 2026 09:17:27 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-indian-national-injured-from-falling-missile-debris-in-abu-dhabi-11252672#publisher=newsstand"
+    "pubDate": "Mon, 23 Mar 2026 11:18:19 +0530",
+    "link": "https://www.ndtv.com/world-news/air-canada-express-crash-new-york-laguardia-airport-air-traffic-told-truck-before-crash-with-air-canada-express-plane-stop-stop-stop-11253063#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-shares-in-focus-as-goldman-sachs-cuts-target-price-by-13-check-new-target-upside-potential/articleshow/129742423.cms",
-    "category": "finance",
-    "title": "IndiGo shares drop 2% as Goldman Sachs cuts target price by 13%. Check new target, upside potential",
-    "summary": "InterGlobe Aviation shares dipped after Goldman Sachs reduced its target price by 13.3% to Rs 5,200, citing rising fuel costs and Middle East traffic weakness. The brokerage maintained a Buy call, highlighting potential market share gains for IndiGo ",
-    "image": "https://img.etimg.com/photo/msid-129742423,imgsize-58396.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Mar 2026 09:16:15 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-shares-in-focus-as-goldman-sachs-cuts-target-price-by-13-check-new-target-upside-potential/articleshow/129742423.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/education/iit-kanpur-launches-intensive-ai-and-machine-learning-certification-programme-11252508#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/air-canada-express-collision-live-updates-air-canada-express-plane-collides-with-ground-vehicle-on-new-yorks-la-guardia-airport-several-injured-11252927#publisher=newsstand",
     "category": "india",
-    "title": "IIT Kanpur Launches Intensive AI And Machine Learning Certification Programme",
-    "summary": "New AI And ML Certificate Course At IIT Kanpur Opens For Registration",
-    "image": "https://c.ndtvimg.com/2026-03/jg0n5g1g_iit-kanpur_625x300_23_March_26.jpeg",
+    "title": "Air Canada Express Collision Live Updates: Air Canada Express Plane Collides With Ground Vehicle On New York's La Guardi",
+    "summary": "Air Canada Express Collision Live Updates:",
+    "image": "https://c.ndtvimg.com/2026-03/rjiebr1_air-canada_625x300_23_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 23 Mar 2026 09:15:27 +0530",
-    "link": "https://www.ndtv.com/education/iit-kanpur-launches-intensive-ai-and-machine-learning-certification-programme-11252508#publisher=newsstand"
+    "pubDate": "Mon, 23 Mar 2026 11:17:55 +0530",
+    "link": "https://www.ndtv.com/world-news/air-canada-express-collision-live-updates-air-canada-express-plane-collides-with-ground-vehicle-on-new-yorks-la-guardia-airport-several-injured-11252927#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/two-co-founders-of-crypto-exchange-coindcx-held-on-charges-of-fraud/articleshow/129742365.cms",
-    "category": "finance",
-    "title": "Two co-founders of crypto exchange CoinDCX held on charges of fraud",
-    "summary": "Thane police have arrested two co-founders of cryptocurrency exchange CoinDCX, Sumit Gupta and Neeraj Khandelwal, in connection with an alleged fraud of Rs 71.6 lakh. The duo was apprehended in Bengaluru following an FIR registered on March 16.",
-    "image": "https://img.etimg.com/photo/msid-129742365,imgsize-76452.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Mar 2026 09:11:12 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/two-co-founders-of-crypto-exchange-coindcx-held-on-charges-of-fraud/articleshow/129742365.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/india-rupee-hits-record-low-on-escalating-middle-east-conflict/articleshow/129742289.cms",
-    "category": "finance",
-    "title": "Rupee hits all-time low of 93.84 vs USD amid Mideast tensions",
-    "summary": "The Indian rupee hit a record low against the U.S. dollar amid escalating Middle East conflict, raising concerns about energy supply disruptions and impacting Asia's third-largest economy. Asian currencies also declined as geopolitical tensions inten",
-    "image": "https://img.etimg.com/photo/msid-129742289,imgsize-16982.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Mar 2026 09:05:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/india-rupee-hits-record-low-on-escalating-middle-east-conflict/articleshow/129742289.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-bonds-hit-multi-month-lows-on-war-driven-inflation-fears/articleshow/129742282.cms",
-    "category": "finance",
-    "title": "Japan's Nikkei, bonds hit multi-month lows on war-driven inflation fears",
-    "summary": "Japanese markets experienced a sharp downturn on Monday. Stocks and bonds fell to multi-month lows. This decline was triggered by escalating conflict in the Middle East. Fears of rising inflation and a potential economic slowdown gripped investors. T",
-    "image": "https://img.etimg.com/photo/msid-129742282,imgsize-10078.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Mar 2026 09:04:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-bonds-hit-multi-month-lows-on-war-driven-inflation-fears/articleshow/129742282.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-update-south-korean-shares-fall-5-won-hits-17-year-low-on-mideast-conflict/articleshow/129742242.cms",
-    "category": "finance",
-    "title": "Global Market Update |  South Korean shares fall 5%, won hits 17-year low on Mideast conflict",
-    "summary": "South Korean shares plummeted on Monday, with the KOSPI falling 5% and the won hitting a 17-year low amid escalating Middle East geopolitical conflict. Investors are concerned about potential attacks on energy facilities, impacting global markets. De",
-    "image": "https://img.etimg.com/photo/msid-129742242,imgsize-26510.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Mar 2026 09:02:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-update-south-korean-shares-fall-5-won-hits-17-year-low-on-mideast-conflict/articleshow/129742242.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/eye-doctor-shares-5-early-warning-signs-of-glaucoma-that-are-often-missed-11253066#publisher=newsstand",
     "category": "india",
-    "title": "US-Israel-Iran War Updates: Indian National Injured As Debris Falls In Abu Dhabi's Al Shawamekh",
-    "summary": "Iran threatened to close Strait of Hormuz if Donald Trump targets country's power plants",
-    "image": "https://c.ndtvimg.com/2026-03/vn1m7to_dubai_625x300_23_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Eye Doctor Shares 5 Early Warning Signs Of Glaucoma That Are Often Missed",
+    "summary": "Glaucoma symptoms can appear well before old age too",
+    "image": "https://c.ndtvimg.com/2026-03/t5l5entk_eye-doctor-test_625x300_23_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 23 Mar 2026 09:01:18 +0530",
-    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand"
+    "pubDate": "Mon, 23 Mar 2026 11:15:48 +0530",
+    "link": "https://www.ndtv.com/health/eye-doctor-shares-5-early-warning-signs-of-glaucoma-that-are-often-missed-11253066#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-news-iranian-media-claims-f-15-jet-shot-down-near-hormuz-then-us-fact-check-11252546#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/investors-lose-rs-12-lakh-crore-in-an-hour-why-are-markets-crashing-today-11253071#publisher=newsstand",
     "category": "india",
-    "title": "Iranian Media Claims F-15 Jet Shot Down Near Hormuz, Then A US Fact-Check",
-    "summary": "According to a Tehran Times report, Iranian forces intercepted a US F-15 over Iran's southern coast",
-    "image": "https://c.ndtvimg.com/2026-03/i0vlq94_f15e-strike-eagle_625x300_02_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Investors Lose Rs 12 Lakh Crore In An Hour: Why Are Markets Crashing Today",
+    "summary": "Stock Market Crash: Market capitalisation of BSE companies dropped to Rs 416.98 trillion at 10:23 am.",
+    "image": "https://c.ndtvimg.com/2018-12/ncvhmrng_stock-market-crash-istock-650_625x300_21_December_18.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 23 Mar 2026 08:56:52 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-news-iranian-media-claims-f-15-jet-shot-down-near-hormuz-then-us-fact-check-11252546#publisher=newsstand"
+    "pubDate": "Mon, 23 Mar 2026 11:15:44 +0530",
+    "link": "https://www.ndtv.com/india-news/investors-lose-rs-12-lakh-crore-in-an-hour-why-are-markets-crashing-today-11253071#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/video-congress-worker-kicks-zubeen-gargs-photo-vandalises-party-office-in-bijni-11253054#publisher=newsstand",
+    "category": "india",
+    "title": "Congress Worker Kicks Zubeen Garg's Photo, Vandalises Party Office In Assam",
+    "summary": "A man is seen kicking Zubeen Garg's poster put up on the wall and breaking a window.",
+    "image": "https://c.ndtvimg.com/2026-03/bnno36qo_assam-congress-protest-zubeen-garg_625x300_23_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Mar 2026 11:14:53 +0530",
+    "link": "https://www.ndtv.com/india-news/video-congress-worker-kicks-zubeen-gargs-photo-vandalises-party-office-in-bijni-11253054#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/finance-minister-nirmala-sitharaman-to-present-finance-corporate-laws-bill-in-lok-sabha-today-11252816#publisher=newsstand",
+    "category": "india",
+    "title": "N Sitharaman To Present Finance, Corporate Laws Bill In Lok Sabha Today",
+    "summary": "Finance Minister is also slated to introduce a bill in the Lok Sabha to amend key corporate laws.",
+    "image": "https://c.ndtvimg.com/2026-03/b67nk6ss_nirmala-sitharaman_625x300_13_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Mar 2026 11:12:55 +0530",
+    "link": "https://www.ndtv.com/india-news/finance-minister-nirmala-sitharaman-to-present-finance-corporate-laws-bill-in-lok-sabha-today-11252816#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/from-cash-to-gold-kashmiris-send-donations-to-war-hit-iran-tehran-says-kindness-will-never-be-forgotten-11252779#publisher=newsstand",
+    "category": "india",
+    "title": "From Cash To Gold, Kashmiris Send Donations To War-Hit Iran, Tehran Says \"Kindness Will Never Be Forgotten\"",
+    "summary": "People from all sections of society took part in the campaign.",
+    "image": "https://c.ndtvimg.com/2026-03/8jh5qg1k_kashmir-residents-donate-gold-silver-cash-_625x300_23_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 23 Mar 2026 11:12:45 +0530",
+    "link": "https://www.ndtv.com/india-news/from-cash-to-gold-kashmiris-send-donations-to-war-hit-iran-tehran-says-kindness-will-never-be-forgotten-11252779#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/india-is-bracing-for-an-oil-shock-pashupati-advani-on-where-smart-money-is-hiding-right-now/articleshow/129743931.cms",
+    "category": "finance",
+    "title": "India is bracing for an oil shock. Pashupati Advani on where smart money is hiding right now",
+    "summary": "Indian markets are navigating a complex landscape. Global energy disruptions are impacting exporters directly. A domestic crisis at HDFC Bank, stemming from corporate governance issues, is also weighing on investor sentiment. Despite the gloom, defen",
+    "image": "https://img.etimg.com/photo/msid-129743931,imgsize-15802.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Mar 2026 11:10:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/india-is-bracing-for-an-oil-shock-pashupati-advani-on-where-smart-money-is-hiding-right-now/articleshow/129743931.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-falls-to-68k-amid-us-iran-tensions-over-240m-in-long-positions-wiped-out/articleshow/129743697.cms",
+    "category": "finance",
+    "title": "Bitcoin falls to $68K amid US-Iran tensions; over $240M in long positions wiped out",
+    "summary": "Bitcoin dipped below $70,000 to $68,000 amid geopolitical tensions, triggering significant liquidations. While some anticipate a rise, factors like high oil prices and delayed Fed rate cuts are causing volatility. Analysts suggest caution due to frag",
+    "image": "https://img.etimg.com/photo/msid-129743697,imgsize-74080.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Mar 2026 11:00:29 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-falls-to-68k-amid-us-iran-tensions-over-240m-in-long-positions-wiped-out/articleshow/129743697.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/bonds-under-fire-as-oil-us-yields-compound-supply-woes/articleshow/129743799.cms",
+    "category": "finance",
+    "title": "Bonds under fire as oil, US yields compound supply woes",
+    "summary": "Indian government bond yields jumped sharply as rising oil prices and higher U.S. Treasury yields dampened investor sentiment.",
+    "image": "https://img.etimg.com/photo/msid-129743799,imgsize-2727487.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Mar 2026 11:00:21 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/bonds-under-fire-as-oil-us-yields-compound-supply-woes/articleshow/129743799.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-fall-after-worst-week-in-43-years-more-pain-or-time-to-buy-the-dip/articleshow/129743775.cms",
+    "category": "finance",
+    "title": "Gold extends fall after worst week in 43 years. More pain or time to buy the dip?",
+    "summary": "Gold extended its steep decline after its worst week in 43 years, pressured by surging oil prices and rising rate-hike bets. Geopolitical tensions and warnings from Donald Trump added to volatility, while analysts from Motilal Oswal and IndusInd Secu",
+    "image": "https://img.etimg.com/photo/msid-129743775,imgsize-2271216.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Mar 2026 10:59:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-fall-after-worst-week-in-43-years-more-pain-or-time-to-buy-the-dip/articleshow/129743775.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-cash-is-king-investors-flee-stocks-park-billions-in-cash-aamid-oil-shock-and-inflation-fears/articleshow/129743680.cms",
+    "category": "finance",
+    "title": "Global Market | Cash is King: Investors flee stocks, park billions in cash Aamid oil shock and inflation fears",
+    "summary": "Global markets see investors moving to cash. Rising oil prices and inflation fears are causing this shift. Money market funds are attracting record amounts of money. Traditional safe havens like gold and bonds are losing appeal. Investors are adoptin",
+    "image": "https://img.etimg.com/photo/msid-129743680,imgsize-2163098.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Mar 2026 10:55:18 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-cash-is-king-investors-flee-stocks-park-billions-in-cash-aamid-oil-shock-and-inflation-fears/articleshow/129743680.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-plunge-5-as-sc-rules-conglomerate-not-entitled-to-concessional-rates-for-high-speed-diesel/articleshow/129743615.cms",
+    "category": "finance",
+    "title": "Vedanta shares plunge 5% as SC rules conglomerate not entitled to concessional rates for high-speed diesel",
+    "summary": "Vedanta shares fell after the Supreme Court upheld a ruling denying concessional diesel rates under Form C, citing misuse beyond mining purposes. The verdict adds regulatory pressure amid ongoing legal challenges and corporate developments, including",
+    "image": "https://img.etimg.com/photo/msid-129743615,imgsize-38150.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Mar 2026 10:50:23 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-plunge-5-as-sc-rules-conglomerate-not-entitled-to-concessional-rates-for-high-speed-diesel/articleshow/129743615.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-fall-for-fourth-straight-session/articleshow/129743428.cms",
+    "category": "finance",
+    "title": "HDFC Bank falls for 4th straight session, down over 10% in four days. What CEO Sashidhar Jagdishan said",
+    "summary": "HDFC Bank share price tumbled for the fourth consecutive day, losing 10% and erasing Rs 1.35 lakh crore in market cap following a key executive's resignation. The bank's leadership is now set to review past decisions and strengthen controls to addres",
+    "image": "https://img.etimg.com/photo/msid-129743428,imgsize-1567959.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Mar 2026 10:38:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-fall-for-fourth-straight-session/articleshow/129743428.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cwyj1p49gdpo#0",
+    "category": "global",
+    "title": "Four ambulances set on fire in London in suspected antisemitic hate crime",
+    "summary": "Police said they were looking for three suspects after the London Fire Brigade were called to Golders Green at around 01:40 GMT.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 23 Mar 2026 06:00:41 GMT",
+    "link": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1528761.html",
+    "category": "sports",
+    "title": "New Zealand Cricket chooses NZ20 as preferred option for the future",
+    "summary": "The decision is not a final commitment and the NZ board wants a greater focus on the women's game",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/412700/412711.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 23 Mar 2026 04:30:10 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528761.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528768.html",
@@ -308,26 +328,6 @@
     "source": "BBC",
     "pubDate": "Mon, 23 Mar 2026 04:06:22 GMT",
     "link": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwyj1p49gdpo#0",
-    "category": "global",
-    "title": "Firefighters tackling suspected arson incident in Golders Green, London Fire Brigade says",
-    "summary": "One local resident told the BBC at the scene that he had heard an \"explosion\" shortly after 01:30 GMT.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 23 Mar 2026 04:03:34 GMT",
-    "link": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528761.html",
-    "category": "sports",
-    "title": "New Zealand Cricket chooses NZ20 as preferred option for the future",
-    "summary": "The decision is not a final commitment and the NZ board wants a greater focus on the women's game",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/412700/412711.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 23 Mar 2026 04:02:02 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528761.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528767.html",
