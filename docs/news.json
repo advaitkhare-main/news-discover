@@ -10,6 +10,16 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-jones-jumps-600-points-sp-nasdaq-over-1-as-trump-hints-at-iran-war-de-escalation/articleshow/129762169.cms",
+    "category": "finance",
+    "title": "US stocks today: Dow Jones jumps 600 points, S&amp;P, Nasdaq over 1% as Trump hints at Iran war de-escalation",
+    "summary": "Indian stock markets saw a significant rise on Monday. This surge followed a drop in oil prices after U.S. President Donald Trump announced a postponement of strikes on Iran. Despite Iranian denials of talks, Trump's statements created optimism. Oil ",
+    "image": "https://img.etimg.com/photo/msid-129762169,imgsize-98286.cms",
+    "source": "ET",
+    "pubDate": "Tue, 24 Mar 2026 01:36:08 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-jones-jumps-600-points-sp-nasdaq-over-1-as-trump-hints-at-iran-war-de-escalation/articleshow/129762169.cms"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/tamil-nadu-assembly-election-2026-from-boss-to-ally-ttv-dhinakarans-dramatic-return-to-aiadmk-headquarters-11256873#publisher=newsstand",
     "category": "india",
     "title": "From Boss To Ally: TTV Dhinakaran's Dramatic Return To AIADMK Headquarters",
@@ -180,14 +190,14 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-gujarat-fluorochemicals-and-hcl-on-tuesday-for-gains-up-to-11/articleshow/129756802.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/brand-concepts-bulk-deal-ashish-kacholia-exits-microcap-as-stock-price-erodes-36-in-a-year/articleshow/129756498.cms",
-    "category": "finance",
-    "title": "Brand Concepts bulk deal: Ashish Kacholia exits microcap as stock price erodes 36% in a year",
-    "summary": "Ashish Kacholia sold his entire 1.44% stake in Brand Concepts via a bulk deal worth \u20b93.9 crore. The sale follows weak microcap performance, with the stock down 36% over a year and 6% today.",
-    "image": "https://img.etimg.com/photo/msid-129756498,imgsize-10906.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Mar 2026 20:50:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/brand-concepts-bulk-deal-ashish-kacholia-exits-microcap-as-stock-price-erodes-36-in-a-year/articleshow/129756498.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1528920.html",
+    "category": "sports",
+    "title": "Stokes: Ashes aftermath has been 'hardest period' of captaincy",
+    "summary": "England captain 'so happy' to continue to work with McCullum and Key, despite gruelling winter",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/411600/411614.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 23 Mar 2026 20:12:37 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528920.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528916.html",
@@ -210,6 +220,16 @@
     "link": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c78rdze8zvjo#0",
+    "category": "global",
+    "title": "'Like the plane got cut in half': Eyewitnesses describe chaos of LaGuardia crash",
+    "summary": "Eyewitnesses have described the moment Air Canada flight AC8646 crashed into a fire truck on the runway of New York's LaGuardia airport.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 23 Mar 2026 19:28:28 GMT",
+    "link": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1528905.html",
     "category": "sports",
     "title": "Gould backs England hierarchy to 'adapt' as status quo holds sway",
@@ -220,16 +240,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1528905.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cy01l49kkgdo#0",
-    "category": "global",
-    "title": "PM warns against 'false comfort' of thinking Iran war will end quickly",
-    "summary": "The PM also tells senior MPs the conflict was \"not our war\" and there must be a \"lawful basis\" for any UK involvement.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 23 Mar 2026 19:10:55 GMT",
-    "link": "https://www.bbc.com/news/articles/cy01l49kkgdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1528917.html",
     "category": "sports",
     "title": "KKR to replace injured Akash Deep with Saurabh Dubey",
@@ -238,6 +248,16 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 23 Mar 2026 18:29:41 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528917.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c2d8ln16p8eo#0",
+    "category": "global",
+    "title": "Private investigator denies 'switching sides' in Mail publisher case",
+    "summary": "Gavin Burrows says he did not give a 'fake' statement admitting to working for the publisher.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 23 Mar 2026 18:19:28 GMT",
+    "link": "https://www.bbc.com/news/articles/c2d8ln16p8eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c77m4zx6zvmo#0",
@@ -292,7 +312,7 @@
   {
     "id": "https://www.bbc.com/news/articles/czre7pl600go#0",
     "category": "global",
-    "title": "British supplement maker Huel bought by Danone for reported \u20ac1bn",
+    "title": "British supplement maker Huel bought by Danone for \u20ac1bn",
     "summary": "The health firm backed by actor Idris Elba and broadcaster Jonathan Ross is being bought by Danone for \u20ac1bn (\u00a3860m).",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -308,16 +328,6 @@
     "source": "BBC",
     "pubDate": "Mon, 23 Mar 2026 15:23:00 GMT",
     "link": "https://www.bbc.com/news/articles/c33le6yv7pno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/clyer72wn85o#0",
-    "category": "global",
-    "title": "'Stop, stop, stop': Listen to LaGuardia control tower audio during collision",
-    "summary": "An Air Canada plane carrying 72 passengers and four crew initially landed safely from Montreal on Sunday evening before colliding with a firefighting vehicle.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 23 Mar 2026 15:04:25 GMT",
-    "link": "https://www.bbc.com/news/videos/clyer72wn85o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528902.html",
@@ -338,16 +348,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 23 Mar 2026 10:23:39 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528892.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528761.html",
-    "category": "sports",
-    "title": "New Zealand Cricket chooses NZ20 as preferred option for the future",
-    "summary": "The decision is not a final commitment and the NZ board wants a greater focus on the women's game",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/412700/412711.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 23 Mar 2026 07:19:33 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528761.html?ex_cid=OTC-RSS"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
