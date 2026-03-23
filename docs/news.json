@@ -50,6 +50,16 @@
     "link": "https://www.ndtv.com/offbeat/womans-two-week-walking-experiment-from-office-to-home-highlights-bengaluru-traffic-challenges-11256607#publisher=newsstand"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/basmati-rice-exporter-amir-chand-mobilises-rs-60-crore-from-anchor-investors/articleshow/129758798.cms",
+    "category": "finance",
+    "title": "Basmati rice exporter Amir Chand mobilises Rs 60 crore from anchor investors",
+    "summary": "Amir Chand Jagdish Kumar (Exports) Ltd has secured Rs 60 crore from anchor investors. This precedes their Rs 440 crore initial public offering opening on March 24. The company, known for its Aeroplane basmati rice brand, plans to use the funds for wo",
+    "image": "https://img.etimg.com/photo/msid-129758798,imgsize-43320.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Mar 2026 22:55:24 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/basmati-rice-exporter-amir-chand-mobilises-rs-60-crore-from-anchor-investors/articleshow/129758798.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/sai-parenterals-raises-over-rs-122-crore-from-anchor-investors/articleshow/129758731.cms",
     "category": "finance",
     "title": "Sai Parenteral's raises over Rs 122 crore from anchor investors",
@@ -62,7 +72,7 @@
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/coal-india-board-approves-up-to-35-divestment-in-secl-mahanadi-coalfields/articleshow/129758585.cms",
     "category": "finance",
-    "title": "Coal India board approves up to 35% divestment in SECL, Mahanadi Coalfields",
+    "title": "Coal India board approves up to 35% divestment in SECL via OFS and up to 25% in Mahanadi Coalfields",
     "summary": "Coal India's board has approved divesting up to 25% of its stake in South Eastern Coalfields Ltd (SECL) via Offer for Sale, alongside a fresh issuance of up to 10% equity through an IPO or other market routes. This move, along with a similar divestme",
     "image": "https://img.etimg.com/photo/msid-129758585,imgsize-536986.cms",
     "source": "ET",
@@ -180,14 +190,44 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/brand-concepts-bulk-deal-ashish-kacholia-exits-microcap-as-stock-price-erodes-36-in-a-year/articleshow/129756498.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/aif-pms/pe-firm-somerset-indus-closes-288-million-fund-iii-beats-target/articleshow/129756134.cms",
-    "category": "finance",
-    "title": "PE firm Somerset Indus closes $288 million Fund III, beats target",
-    "summary": "Somerset Indus Capital Partners closed its third fund at $288 million, exceeding targets, to invest in affordable healthcare across India. Focus areas include delivery, pharma, diagnostics and medtech, targeting underserved tier I and II cities with ",
-    "image": "https://img.etimg.com/photo/msid-129756134,imgsize-369098.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Mar 2026 20:33:31 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/aif-pms/pe-firm-somerset-indus-closes-288-million-fund-iii-beats-target/articleshow/129756134.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1528917.html",
+    "category": "sports",
+    "title": "KKR to replace injured Akash Deep with Saurabh Dubey",
+    "summary": "Uncapped in the IPL, Dubey has not played competitive cricket in nearly two-and-a-half years",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/398700/398764.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 23 Mar 2026 18:29:41 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528917.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvg04mg13ljo#0",
+    "category": "global",
+    "title": "Iranian man who allegedly tried to enter nuclear base released",
+    "summary": "The 34-year-old was released pending further inquiries, while a 31-year-old Romanian woman was released without charge.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 23 Mar 2026 18:13:22 GMT",
+    "link": "https://www.bbc.com/news/articles/cvg04mg13ljo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1528905.html",
+    "category": "sports",
+    "title": "Gould backs England hierarchy to 'adapt' as status quo holds sway",
+    "summary": "ECB chief executive puts faith in Key, McCullum and Stokes to learn from Ashes disappointment",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414855.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 23 Mar 2026 18:11:43 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528905.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cwyj1p49gdpo#0",
+    "category": "global",
+    "title": "Arson attack on Jewish charity ambulances investigated by counter-terror police",
+    "summary": "Police say they are looking for three suspects after the Hatzola ambulances were set on fire.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 23 Mar 2026 17:22:04 GMT",
+    "link": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cy01l49kkgdo#0",
@@ -220,16 +260,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1528909.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c8dlmrjn1l2o#0",
-    "category": "global",
-    "title": "Colombian Air Force plane crashes with scores of soldiers on board",
-    "summary": "Colombia's defence minister says it was a 'tragic accident' but the cause is not yet clear.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 23 Mar 2026 16:48:28 GMT",
-    "link": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/czex3lj077xo#0",
     "category": "global",
     "title": "HS2 trains could run slower than planned to save money",
@@ -242,7 +272,7 @@
   {
     "id": "https://www.bbc.com/news/articles/c4g8d8pz0xyo#0",
     "category": "global",
-    "title": "How a content creator hoped a YouTube alibi would help him avoid justice for murder",
+    "title": "How a YouTuber used a fake live stream to cover up the murder of his pregnant partner",
     "summary": "Evidence in the trial of Stephen McCullagh outlined a cold, calculating plan to kill Natalie McNally and get away with it.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -268,16 +298,6 @@
     "source": "BBC",
     "pubDate": "Mon, 23 Mar 2026 15:04:25 GMT",
     "link": "https://www.bbc.com/news/videos/clyer72wn85o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528905.html",
-    "category": "sports",
-    "title": "Gould backs England hierarchy to 'adapt' as status quo holds sway",
-    "summary": "ECB chief executive puts faith in Key, McCullum and Stokes to learn from Ashes disappointment",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414855.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 23 Mar 2026 14:40:08 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528905.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528902.html",
@@ -328,26 +348,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 23 Mar 2026 07:12:33 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528884.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528768.html",
-    "category": "sports",
-    "title": "Doggett loses fitness race for Sheffield Shield final",
-    "summary": "The quick injured his hamstring last month but made a strong push to recover for the decider",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/409300/409331.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 23 Mar 2026 04:08:59 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528768.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cddnv945g2po#0",
-    "category": "global",
-    "title": "Hospital apology over boy's death after trainee doctor pierced artery",
-    "summary": "Three-year-old Aarav Chopra died during a biopsy when his artery was pierced by a trainee doctor.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 23 Mar 2026 03:01:09 GMT",
-    "link": "https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
