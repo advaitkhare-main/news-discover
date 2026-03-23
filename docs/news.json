@@ -30,6 +30,26 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/129757097.cms",
+    "category": "finance",
+    "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+    "summary": "Nifty 50 and Sensex fell sharply, dragged by banks, auto, and consumer stocks amid Iran-Israel tensions, high crude prices, and rupee lows, with bearish momentum persisting and volatility elevated.",
+    "image": "https://img.etimg.com/photo/msid-129757097,imgsize-54240.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Mar 2026 21:24:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/129757097.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-crisis-sebi-says-independent-directors-must-act-responsibly-back-up-insinuations/articleshow/129756954.cms",
+    "category": "finance",
+    "title": "HDFC Bank crisis: Sebi says independent directors must act responsibly, back up insinuations",
+    "summary": "In the wake of the HDFC Bank crisis triggered by chairman Atanu Chakraborty's surprise quitting, Sebi chairman Tuhin Kanta Pandey on Monday said independent directors need to act responsibly, and back up any insinuations with evidence.",
+    "image": "https://img.etimg.com/photo/msid-129756954,imgsize-49690.cms",
+    "source": "ET",
+    "pubDate": "Mon, 23 Mar 2026 21:15:28 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-crisis-sebi-says-independent-directors-must-act-responsibly-back-up-insinuations/articleshow/129756954.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-gujarat-fluorochemicals-and-hcl-on-tuesday-for-gains-up-to-11/articleshow/129756802.cms",
     "category": "finance",
     "title": "Market Trading Guide: Buy Gujarat Fluorochemicals and HCL on Tuesday for gains up to 11%",
@@ -170,44 +190,84 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-feds-stephen-miran-still-believes-fed-should-cut-interest-rates-report/articleshow/129754784.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/construction-cost-home-prices-may-rise-if-west-asia-conflict-continues-for-long-credai-naredco/articleshow/129754456.cms",
-    "category": "finance",
-    "title": "Construction cost, home prices may rise if West Asia conflict continues for long: CREDAI-NAREDCO",
-    "summary": "Realtors' bodies CREDAI and NAREDCO on Monday said developers have started to feel the pinch of the ongoing conflict in West Asia due to the short supply of some building materials, and said construction costs could rise if tensions continue for a lo",
-    "image": "https://img.etimg.com/photo/msid-129754456,imgsize-45966.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Mar 2026 19:18:38 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/construction-cost-home-prices-may-rise-if-west-asia-conflict-continues-for-long-credai-naredco/articleshow/129754456.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1528910.html",
+    "category": "sports",
+    "title": "Gould: England Tests against Australia, India are 'significant priorities'",
+    "summary": "ECB chief executive says uptick in interest over past four years is reason to keep faith in leadership",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/401700/401736.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 23 Mar 2026 16:52:45 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528910.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-jones-soars-600-points-sp-nasdaq-rise-over-1-after-trump-postpones-strikes-on-iran/articleshow/129754208.cms",
-    "category": "finance",
-    "title": "US stocks today: Dow Jones soars 1,000 points, S&amp;P, Nasdaq rise over 2% after Trump 'postpones' strikes on Iran",
-    "summary": "Wall Street indexes surged Monday following President Trump's announcement of postponed strikes against Iran, citing productive conversations. Global markets recovered, with oil prices falling and risk appetite improving. Investors also trimmed bets ",
-    "image": "https://img.etimg.com/photo/msid-129754208,imgsize-87954.cms",
-    "source": "ET",
-    "pubDate": "Mon, 23 Mar 2026 19:05:22 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-jones-soars-600-points-sp-nasdaq-rise-over-1-after-trump-postpones-strikes-on-iran/articleshow/129754208.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1528909.html",
+    "category": "sports",
+    "title": "James Harris retires from professional cricket after 19-year career",
+    "summary": "Seamer made debut aged 16, and went on to claim best post-war bowling figures at Lord's",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/315700/315780.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 23 Mar 2026 16:50:31 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528909.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cn53zvlglg7o#1",
+    "id": "https://www.bbc.com/news/articles/c8dlmrjn1l2o#0",
     "category": "global",
-    "title": "US' and Iran's options for ending war narrow the longer it goes on",
-    "summary": "Iran shows no sign of climbdown, while air power alone cannot achieve the US' main goal.",
+    "title": "Colombian Air Force plane crashes with scores of soldiers on board",
+    "summary": "Colombia's defence minister says it was a 'tragic accident' but the cause is not yet clear.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 23 Mar 2026 15:34:38 GMT",
-    "link": "https://www.bbc.com/news/articles/cn53zvlglg7o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 23 Mar 2026 16:48:28 GMT",
+    "link": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c33le6yv7pno#0",
+    "id": "https://www.bbc.com/news/articles/cy01l49kkgdo#0",
     "category": "global",
-    "title": "OnlyFans owner Leonid Radvinsky dies at 43",
-    "summary": "Leo Radvinsky became a billionaire after investing in the site, known for its pornographic content.",
+    "title": "PM warns against 'false comfort' of thinking Iran war will end quickly",
+    "summary": "The PM also tells senior MPs the conflict was \"not our war\" and there must be a \"lawful basis\" for any UK involvement.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 23 Mar 2026 15:23:00 GMT",
-    "link": "https://www.bbc.com/news/articles/c33le6yv7pno?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 23 Mar 2026 16:46:51 GMT",
+    "link": "https://www.bbc.com/news/articles/cy01l49kkgdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/czex3lj077xo#0",
+    "category": "global",
+    "title": "HS2 trains could run slower than planned to save money",
+    "summary": "The government is looking at ways to make much-delayed London to Birmingham railway line cheaper to deliver.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 23 Mar 2026 16:39:09 GMT",
+    "link": "https://www.bbc.com/news/articles/czex3lj077xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4g8d8pz0xyo#0",
+    "category": "global",
+    "title": "How a content creator hoped a YouTube alibi would help him avoid justice for murder",
+    "summary": "Evidence in the trial of Stephen McCullagh outlined a cold, calculating plan to kill Natalie McNally and get away with it.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 23 Mar 2026 16:08:35 GMT",
+    "link": "https://www.bbc.com/news/articles/c4g8d8pz0xyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/czre7pl600go#0",
+    "category": "global",
+    "title": "Huel bought by Danone in \u20ac1bn deal",
+    "summary": "The health firm backed by actor Idris Elba and broadcaster Jonathan Ross is being bought by Danone, reportedly for \u20ac1bn (\u00a3860m).",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 23 Mar 2026 15:50:44 GMT",
+    "link": "https://www.bbc.com/news/articles/czre7pl600go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/clyer72wn85o#0",
+    "category": "global",
+    "title": "'Stop, stop, stop': Listen to LaGuardia control tower audio during collision",
+    "summary": "An Air Canada plane carrying 72 passengers and four crew initially landed safely from Montreal on Sunday evening before colliding with a firefighting vehicle.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 23 Mar 2026 15:04:25 GMT",
+    "link": "https://www.bbc.com/news/videos/clyer72wn85o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528905.html",
@@ -230,26 +290,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1528902.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/ckg3g11z6d8o#0",
-    "category": "global",
-    "title": "'We can't justify a \u00a352 lunch': Middle-income families cut back on days out",
-    "summary": "A household with an average gross income of \u00a355,000 has cut spending on leisure activities by \u00a340 a week, offical figures suggest.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 23 Mar 2026 14:23:52 GMT",
-    "link": "https://www.bbc.com/news/articles/ckg3g11z6d8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/czex3lj077xo#0",
-    "category": "global",
-    "title": "HS2 trains could run slower than planned to save money",
-    "summary": "The government is looking at ways to make much-delayed London to Birmingham railway line cheaper to deliver.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 23 Mar 2026 13:50:09 GMT",
-    "link": "https://www.bbc.com/news/articles/czex3lj077xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/ce9mz082y5go#0",
     "category": "global",
     "title": "Is ex-Google boss Matt Brittin the right person to steer the BBC?",
@@ -258,36 +298,6 @@
     "source": "BBC",
     "pubDate": "Mon, 23 Mar 2026 13:50:02 GMT",
     "link": "https://www.bbc.com/news/articles/ce9mz082y5go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5y7gxqpplvo#0",
-    "category": "global",
-    "title": "Ryan Gosling's Project Hail Mary becomes 2026's biggest box office debut",
-    "summary": "The sci-fi space adventure movie rockets to $140.9 million (\u00a3122m) at the global box office.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 23 Mar 2026 12:31:29 GMT",
-    "link": "https://www.bbc.com/news/articles/c5y7gxqpplvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528734.html",
-    "category": "sports",
-    "title": "Shanaka replaces injured Curran at Rajasthan Royals",
-    "summary": "Dasun Shanaka has informed his PSL franchise, Lahore Qalandars, of his decision to opt out of the deal",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413358.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 23 Mar 2026 11:45:58 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528734.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn4v2gve0ywo#0",
-    "category": "global",
-    "title": "Porridge recalled over mouse contamination fears",
-    "summary": "Some of the products are \"unsafe to eat\", the Food Standards Agency says.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 23 Mar 2026 10:58:03 GMT",
-    "link": "https://www.bbc.com/news/articles/cn4v2gve0ywo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528892.html",
@@ -328,16 +338,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 23 Mar 2026 04:08:59 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1528768.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528767.html",
-    "category": "sports",
-    "title": "'Inconceivable': CA won't seek more Test pitch control",
-    "summary": "There is confidence that the balance between bat and ball can be addressed after the pair of two-day Tests this season",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/411100/411122.png",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 23 Mar 2026 03:55:56 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528767.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cddnv945g2po#0",
