@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand",
+    "category": "india",
+    "title": "US-Israel-Iran War Live Updates: Despite Iran's Denial, Trump Says Negotiations Underway With Tehran",
+    "summary": "US-Israel-Iran War Updates: The war in the Middle East has entered week four",
+    "image": "https://c.ndtvimg.com/2026-03/7bq3ua6_tehran_625x300_24_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 25 Mar 2026 02:27:28 +0530",
+    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-says-us-israel-attacked-bushehr-nuclear-power-plant-site-again-11262214#publisher=newsstand",
+    "category": "india",
+    "title": "Iran Says US, Israel Attacked Its Nuclear Facility Again",
+    "summary": "Iran said that a projectile had landed within its compound but caused no damage.",
+    "image": "https://c.ndtvimg.com/2026-03/4doka1o8_iran-bushehr-nuclear-power-plant_625x300_25_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 25 Mar 2026 02:21:27 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-says-us-israel-attacked-bushehr-nuclear-power-plant-site-again-11262214#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-jones-falls-84-points-sp-nasdaq-over-0-3-on-worries-about-middle-east-war-interest-rates/articleshow/129786408.cms",
     "category": "finance",
     "title": "US stocks today: Dow Jones falls 84 points, S&amp;P, Nasdaq over 0.3% on worries about Middle East war, interest rates",
@@ -8,6 +28,16 @@
     "source": "ET",
     "pubDate": "Wed, 25 Mar 2026 01:32:44 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-jones-falls-84-points-sp-nasdaq-over-0-3-on-worries-about-middle-east-war-interest-rates/articleshow/129786408.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-iran-says-non-hostile-ships-can-transit-strait-of-hormuz-report-11262089#publisher=newsstand",
+    "category": "india",
+    "title": "Iran Says \"Non-Hostile\" Ships Can Transit Strait Of Hormuz: Report",
+    "summary": "The US-Israeli war against Iran has all but halted shipments of about one-fifth of the world's oil.",
+    "image": "https://c.ndtvimg.com/2026-03/5od230qo_strait-of-hormuz_625x300_04_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 25 Mar 2026 01:24:54 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-iran-says-non-hostile-ships-can-transit-strait-of-hormuz-report-11262089#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/iran-war-us-to-send-3-000-troops-from-elite-army-brigade-to-middle-east-report-11262039#publisher=newsstand",
@@ -60,36 +90,6 @@
     "link": "https://www.ndtv.com/india-news/centre-notifies-order-to-strengthen-piped-natural-gas-infrastructure-11261934#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/gujarat-assembly-passes-uniform-civil-code-bil-becomes-2nd-state-to-do-so-11261929#publisher=newsstand",
-    "category": "india",
-    "title": "Gujarat Assembly Passes Uniform Civil Code Bil, Becomes 2nd State To Do So",
-    "summary": "Among other things, the bill provides for registration of live-in relationships.",
-    "image": "https://c.ndtvimg.com/2025-01/2fjd9u7o_live-in-relationship-_625x300_30_January_25.jpg",
-    "source": "NDTV",
-    "pubDate": "Wed, 25 Mar 2026 00:13:02 +0530",
-    "link": "https://www.ndtv.com/india-news/gujarat-assembly-passes-uniform-civil-code-bil-becomes-2nd-state-to-do-so-11261929#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand",
-    "category": "india",
-    "title": "US-Israel-Iran War Live Updates: Despite Iran's Denial, Trump Says Negotiations Underway With Tehran",
-    "summary": "US-Israel-Iran War Updates: The war in the Middle East has entered week four",
-    "image": "https://c.ndtvimg.com/2026-03/7bq3ua6_tehran_625x300_24_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 25 Mar 2026 00:07:20 +0530",
-    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/amid-iran-war-pause-us-planning-to-send-more-troops-to-middle-east-report-11261747#publisher=newsstand",
-    "category": "india",
-    "title": "Amid Trump's Pause, US To Send Thousands More Troops To Middle East: Report",
-    "summary": "The soldiers' deployment would be in addition to the deployment last week of thousands of Marines.",
-    "image": "https://c.ndtvimg.com/2026-03/9u8cde64_f35_625x300_20_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 25 Mar 2026 00:05:46 +0530",
-    "link": "https://www.ndtv.com/world-news/amid-iran-war-pause-us-planning-to-send-more-troops-to-middle-east-report-11261747#publisher=newsstand"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -140,14 +140,24 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-linde-india-and-prime-focus-on-wednesday-for-short-term-gains-up-to-20-heres-why/articleshow/129780295.cms"
   },
   {
-    "id": "https://www.bbc.com/sport/football/articles/c0e7ww12w2qo#0",
+    "id": "https://www.bbc.com/news/articles/cz67jq0enwpo#0",
     "category": "global",
-    "title": "Mohamed Salah to leave Liverpool at end of season",
-    "summary": "The Egypt forward says Liverpool fans \"gave me the best time of my life\" and \"stood by me in the toughest times\".",
+    "title": "Pilots killed in LaGuardia plane crash named",
+    "summary": "Investigators released details from the final three minutes of cockpit and tower communications, which showed controllers cleared both the plane and a fire truck to cross the runway.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Tue, 24 Mar 2026 20:34:23 GMT",
-    "link": "https://www.bbc.com/sport/football/articles/c0e7ww12w2qo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Tue, 24 Mar 2026 20:34:20 GMT",
+    "link": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/c0r929g5p5eo#0",
+    "category": "global",
+    "title": "Premier League great Salah will leave lifetime of memories",
+    "summary": "Mohamed Salah will leave Liverpool as an all-time great and iconic Premier League figure, says chief football writer Phil McNulty.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 24 Mar 2026 20:33:09 GMT",
+    "link": "https://www.bbc.com/sport/football/articles/c0r929g5p5eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-immunitybio-shares-drop-20-on-fda-warning-letter-over-cancer-therapy-claims-in-ad/articleshow/129780018.cms",
@@ -188,16 +198,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 24 Mar 2026 19:12:23 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529082.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cly64g15j3wo#0",
-    "category": "global",
-    "title": "Reform UK's leader in Scotland denies homophobia after apologising for joke",
-    "summary": "Reform UK's Scottish leader has been criticised for remarks he made during a 2018 Burn's Night speech.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 24 Mar 2026 18:44:33 GMT",
-    "link": "https://www.bbc.com/news/articles/cly64g15j3wo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1528963.html",
