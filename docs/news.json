@@ -1,163 +1,203 @@
 [
   {
-    "id": "https://www.ndtv.com/feature/united-airlines-unveils-relax-row-seats-that-convert-into-couch-know-how-it-works-11263516#publisher=newsstand",
-    "category": "india",
-    "title": "United Airlines Unveils 'Relax Row' Seats That Convert Into Couch: Know How It Works",
-    "summary": "United Airlines announces Relax Row seats with adjustable leg rests launching in 2027.",
-    "image": "https://c.ndtvimg.com/2026-03/c3pfn96c_as_625x300_25_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 25 Mar 2026 12:14:13 +0530",
-    "link": "https://www.ndtv.com/feature/united-airlines-unveils-relax-row-seats-that-convert-into-couch-know-how-it-works-11263516#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/president-donald-trump-approval-hits-new-low-as-fuel-prices-rise-amid-iran-war-poll-middle-east-conflict-11263298#publisher=newsstand",
-    "category": "india",
-    "title": "Trump's Approval Hits New Low As Fuel Prices Rise Amid Iran War: Poll",
-    "summary": "75 per cent of respondents of the poll did not approve of Trump's approach to the cost of living issue.",
-    "image": "https://c.ndtvimg.com/2023-06/n3iragfo_trump-supporter-bloomberg_625x300_12_June_23.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 25 Mar 2026 12:11:51 +0530",
-    "link": "https://www.ndtv.com/world-news/president-donald-trump-approval-hits-new-low-as-fuel-prices-rise-amid-iran-war-poll-middle-east-conflict-11263298#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/11-year-old-aces-touch-and-go-maneuver-in-viral-training-clip-takes-internet-by-storm-11263405#publisher=newsstand",
-    "category": "india",
-    "title": "11-Year-Old Aces \"Touch And Go\" Maneuver In Viral Training Clip, Takes Internet By Storm",
-    "summary": "Rishi has been training to become a pilot since the age of seven.",
-    "image": "https://c.ndtvimg.com/2026-03/jj6b8k3k_rishi-_625x300_25_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 25 Mar 2026 12:11:17 +0530",
-    "link": "https://www.ndtv.com/offbeat/11-year-old-aces-touch-and-go-maneuver-in-viral-training-clip-takes-internet-by-storm-11263405#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/mp-board-9th-11th-result-2026-out-live-mpbse-declares-class-9-11-results-direct-link-here-11263444#publisher=newsstand",
-    "category": "india",
-    "title": "MP Board 9th, 11th Result 2026: How To Check, Access Marksheets",
-    "summary": "MP Board 9th, 11th Result 2026 (OUT): Around 17 lakh students appeared for the exams.",
-    "image": "https://c.ndtvimg.com/2019-04/ta1dvmko_students_625x300_04_April_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 25 Mar 2026 12:11:15 +0530",
-    "link": "https://www.ndtv.com/education/mp-board-9th-11th-result-2026-out-live-mpbse-declares-class-9-11-results-direct-link-here-11263444#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-woman-shannon-tufuga-allegedly-kidnaps-11-year-old-autistic-sons-bully-to-force-apology-11263002#publisher=newsstand",
-    "category": "india",
-    "title": "US Woman Allegedly Kidnaps 11-Year-Old Autistic Son's Bully To Force Apology",
-    "summary": "Tufuga, a resident of Provo, searched for the boy before confronting him while he was riding his bicycle",
-    "image": "https://c.ndtvimg.com/2026-03/ft7mudbc_utah-mom_625x300_25_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 25 Mar 2026 12:10:57 +0530",
-    "link": "https://www.ndtv.com/world-news/us-woman-shannon-tufuga-allegedly-kidnaps-11-year-old-autistic-sons-bully-to-force-apology-11263002#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/nirmala-sitharaman-to-push-53-amendments-to-finance-bill-how-it-will-impact-you-11263511#publisher=newsstand",
-    "category": "india",
-    "title": "Sitharaman to Push 53 Amendments to Finance Bill: How It Will Impact You",
-    "summary": "Nirmala Sitharaman pushes amendments to Finance Bill to tighten all aspects of the income tax system.",
-    "image": "https://c.ndtvimg.com/2026-03/b67nk6ss_nirmala-sitharaman_625x300_13_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 25 Mar 2026 12:10:43 +0530",
-    "link": "https://www.ndtv.com/india-news/nirmala-sitharaman-to-push-53-amendments-to-finance-bill-how-it-will-impact-you-11263511#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/railway-infrastructure-provider-laxyo-files-rs-150-cr-ipo-papers/articleshow/129793290.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/manappuram-finance-shares-jump-7-as-bain-capitals-26-open-offer-kicks-off-april-6/articleshow/129795848.cms",
     "category": "finance",
-    "title": "Railway infrastructure provider Laxyo files Rs 150 cr IPO papers",
-    "summary": "Laxyo Ltd, an EPC services provider for railway infrastructure, has filed preliminary papers with Sebi for a Rs 150 crore IPO. The company plans to use the funds for debt payment, equipment purchase, and working capital.",
-    "image": "https://img.etimg.com/photo/msid-129793290,imgsize-324288.cms",
+    "title": "Manappuram Finance shares jump 7% as Bain Capital\u2019s 26% open offer kicks off April 6",
+    "summary": "Manappuram Finance shares rose after announcing Bain Capital\u2019s open offer to acquire a 26% stake at \u20b9236 per share, open from April 6\u201320. The move follows RBI approvals for a change in control of its subsidiaries, completing the \u20b94,385 crore deal.",
+    "image": "https://img.etimg.com/photo/msid-129795848,imgsize-2442628.cms",
     "source": "ET",
-    "pubDate": "Wed, 25 Mar 2026 12:08:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/railway-infrastructure-provider-laxyo-files-rs-150-cr-ipo-papers/articleshow/129793290.cms"
+    "pubDate": "Wed, 25 Mar 2026 14:07:29 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/manappuram-finance-shares-jump-7-as-bain-capitals-26-open-offer-kicks-off-april-6/articleshow/129795848.cms"
   },
   {
-    "id": "https://www.ndtv.com/health/want-to-get-a-new-health-insurance-experts-share-checklist-of-what-makes-a-health-insurance-plan-top-rated-11259851#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/sme-ipo-vivid-electromech-check-price-band-gmp-other-details/articleshow/129792972.cms",
+    "category": "finance",
+    "title": "Vivid Electromech IPO: Check price band, GMP, other details",
+    "summary": "Vivid Electromech's IPO, aiming to raise Rs 130.54 crore, opened for subscription on Wednesday. The company plans to utilize funds for a new manufacturing unit, debt repayment, and working capital.  The issue includes both fresh equity and an offer f",
+    "image": "https://img.etimg.com/photo/msid-129792972,imgsize-26924.cms",
+    "source": "ET",
+    "pubDate": "Wed, 25 Mar 2026 14:02:31 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sme-ipo-vivid-electromech-check-price-band-gmp-other-details/articleshow/129792972.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/bottom-likely-in-place-rohit-srivastava-bets-on-near-term-market-upside/articleshow/129795542.cms",
+    "category": "finance",
+    "title": "\u201cBottom likely in place\u201d: Rohit Srivastava bets on near-term market upside",
+    "summary": "Indian markets are experiencing a strong rally, sparking optimism. Technical indicators suggest a possible shift in momentum. Experts believe a short-term bottom may have formed, creating favorable risk-reward for buyers. Banking stocks are also show",
+    "image": "https://img.etimg.com/photo/msid-129795542,imgsize-23278.cms",
+    "source": "ET",
+    "pubDate": "Wed, 25 Mar 2026 13:52:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/bottom-likely-in-place-rohit-srivastava-bets-on-near-term-market-upside/articleshow/129795542.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/beyond-the-gut-how-ultra-processed-foods-can-impact-your-bones-11261180#publisher=newsstand",
     "category": "india",
-    "title": "Want To Get A New Health Insurance? Experts Share Checklist Of What Makes A Health Insurance Plan Top Rated",
-    "summary": "Health insurance should not be limited to hospitalisation alone.",
-    "image": "https://c.ndtvimg.com/2026-03/2asdv2rk_health-insurance-_625x300_24_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Beyond The Gut: How Ultra-Processed Foods Can Impact Your Bones",
+    "summary": "Bone health is effected by ultra-processed food consumption (image for representation purposes only)",
+    "image": "https://c.ndtvimg.com/2026-03/mflqgees_ultra-processed-foods_625x300_24_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Wed, 25 Mar 2026 12:07:41 +0530",
-    "link": "https://www.ndtv.com/health/want-to-get-a-new-health-insurance-experts-share-checklist-of-what-makes-a-health-insurance-plan-top-rated-11259851#publisher=newsstand"
+    "pubDate": "Wed, 25 Mar 2026 13:43:31 +0530",
+    "link": "https://www.ndtv.com/health/beyond-the-gut-how-ultra-processed-foods-can-impact-your-bones-11261180#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-rally-on-softer-inflation-mideast-ceasefire-prospect/articleshow/129793194.cms",
-    "category": "finance",
-    "title": "Global Markets | Australian shares rally on softer inflation, Mideast ceasefire prospect",
-    "summary": "Australian shares surged on Wednesday, gaining nearly 2%. Softer inflation data boosted market sentiment. Hopes for a Middle East ceasefire also contributed to the rise. The S&amp;P/ASX 200 index reached its strongest daily gain since February 9. Con",
-    "image": "https://img.etimg.com/photo/msid-129793194,imgsize-69606.cms",
-    "source": "ET",
-    "pubDate": "Wed, 25 Mar 2026 12:04:21 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-rally-on-softer-inflation-mideast-ceasefire-prospect/articleshow/129793194.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/assam-assembly-election-2026-badruddin-ajmal-aiduf-binnakandi-assembly-constituency-11263418#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/tamil-nadu-assembly-election-2026-unrealistic-or-sustainable-row-over-aiadmks-cash-support-subsidy-promises-11263982#publisher=newsstand",
     "category": "india",
-    "title": "Once A Force, Perfume Baron Badruddin Ajmal Faces Big Test In Assam Poll",
-    "summary": "AIUDF leader Badruddin Ajmal (File).",
-    "image": "https://c.ndtvimg.com/2026-03/1nut9hr_badruddin-ajmal-ani_625x300_18_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Unrealistic Or Sustainable? Row Over AIADMK's Cash Support, Subsidy Promises",
+    "summary": "AIADMK chief Edappadi K Palaniswami (L) releases party's manifesto ahead of the state Assembly elections.",
+    "image": "https://c.ndtvimg.com/2026-03/dj2lpfn8_tamil-nadu-aiadmk-chief-edappadi-k-palaniswami_625x300_25_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Wed, 25 Mar 2026 12:00:29 +0530",
-    "link": "https://www.ndtv.com/india-news/assam-assembly-election-2026-badruddin-ajmal-aiduf-binnakandi-assembly-constituency-11263418#publisher=newsstand"
+    "pubDate": "Wed, 25 Mar 2026 13:43:05 +0530",
+    "link": "https://www.ndtv.com/india-news/tamil-nadu-assembly-election-2026-unrealistic-or-sustainable-row-over-aiadmks-cash-support-subsidy-promises-11263982#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-steps-in-as-prior-intervention-linked-flows-pressure-rupee-near-record-lows/articleshow/129792973.cms",
-    "category": "finance",
-    "title": "RBI steps in as prior intervention-linked flows pressure rupee near record lows",
-    "summary": "The Indian central bank likely intervened to support the rupee on Wednesday. Heavy dollar demand from maturing non-deliverable forwards weighed on the currency. Traders reported the Reserve Bank of India used state-run banks for intervention. This he",
-    "image": "https://img.etimg.com/photo/msid-129792973,imgsize-367412.cms",
-    "source": "ET",
-    "pubDate": "Wed, 25 Mar 2026 11:55:10 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-steps-in-as-prior-intervention-linked-flows-pressure-rupee-near-record-lows/articleshow/129792973.cms"
+    "id": "https://www.ndtv.com/india-news/after-idfc-first-rs-160-crore-fd-fraud-hits-kotak-mahindra-bank-in-haryana-11263775#publisher=newsstand",
+    "category": "india",
+    "title": "After IDFC First, Rs 160-Crore FD Fraud Hits Kotak Mahindra Bank In Haryana",
+    "summary": "All FDs issued by the Kotak Mahindra Bank were found to be fake",
+    "image": "https://c.ndtvimg.com/2026-03/alorolas_kotak-mahindra-bank-_625x300_25_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 25 Mar 2026 13:40:30 +0530",
+    "link": "https://www.ndtv.com/india-news/after-idfc-first-rs-160-crore-fd-fraud-hits-kotak-mahindra-bank-in-haryana-11263775#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/market-nears-inflection-point-select-largecaps-offer-entry-window-pankaj-pandey/articleshow/129792783.cms",
-    "category": "finance",
-    "title": "Market nears inflection point; select largecaps offer entry window: Pankaj Pandey",
-    "summary": "Market expert Pankaj Pandey sees opportunity in current market dips. He compares today's correction to the Russia-Ukraine war, suggesting markets are near a bottom. Pandey recommends buying quality largecap stocks in autos, cement, and capital goods.",
-    "image": "https://img.etimg.com/photo/msid-129792783,imgsize-40082.cms",
-    "source": "ET",
-    "pubDate": "Wed, 25 Mar 2026 11:46:06 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/market-nears-inflection-point-select-largecaps-offer-entry-window-pankaj-pandey/articleshow/129792783.cms"
+    "id": "https://www.ndtv.com/india-news/tamil-nadu-assembly-polls-2026-aiadmk-signals-aggressive-poll-push-with-first-list-retains-key-seats-in-nda-deal-11263939#publisher=newsstand",
+    "category": "india",
+    "title": "AIADMK Signals Aggressive Poll Push With First List, Retains Key Seats In NDA Deal",
+    "summary": "AIADMK General Secretary Edappadi K Palaniswami",
+    "image": "https://c.ndtvimg.com/2026-03/kntp3uf8_eps_625x300_20_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 25 Mar 2026 13:38:44 +0530",
+    "link": "https://www.ndtv.com/india-news/tamil-nadu-assembly-polls-2026-aiadmk-signals-aggressive-poll-push-with-first-list-retains-key-seats-in-nda-deal-11263939#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/3-growth-juggernauts-can-power-24-surge-in-solar-industries-shares-says-elara-after-initiating-with-buy/articleshow/129792606.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/rpsg-shares-rocket-20-after-rcbs-rs-16600-crore-deal-amplifies-valuation-benchmark-for-ipl-teams/articleshow/129795358.cms",
     "category": "finance",
-    "title": "3 growth juggernauts can power 24% surge in Solar Industries shares, says Elara after initiating with Buy",
-    "summary": "Elara Capital has initiated coverage on Solar Industries with a 'Buy' rating and a target price of Rs 15,450, forecasting a 24% upside. The brokerage highlights three key growth drivers: a booming defence portfolio, aggressive global expansion across",
-    "image": "https://img.etimg.com/photo/msid-129792606,imgsize-182588.cms",
+    "title": "RPSG shares rocket 20% after RCB's Rs 16,600 crore deal lifts valuation benchmark for IPL teams",
+    "summary": "Shares of RPSG Ventures rose sharply after United Spirits sold the Royal Challengers Bengaluru franchise for Rs 16,600 crore, setting a new benchmark for IPL valuations. The record deal has lifted sentiment for listed franchise owners, including RPSG",
+    "image": "https://img.etimg.com/photo/msid-129795358,imgsize-115092.cms",
     "source": "ET",
-    "pubDate": "Wed, 25 Mar 2026 11:33:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/3-growth-juggernauts-can-power-24-surge-in-solar-industries-shares-says-elara-after-initiating-with-buy/articleshow/129792606.cms"
+    "pubDate": "Wed, 25 Mar 2026 13:38:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/rpsg-shares-rocket-20-after-rcbs-rs-16600-crore-deal-amplifies-valuation-benchmark-for-ipl-teams/articleshow/129795358.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/indian-currency-indian-bonds-indian-equities-are-all-cheap-now-manish-chokhani/articleshow/129792480.cms",
-    "category": "finance",
-    "title": "Indian currency, Indian bonds, Indian equities are all cheap now: Manish Chokhani",
-    "summary": "Indian markets are showing signs of recovery after a significant selloff. Experts suggest that Indian currency, bonds, and equities are currently undervalued. Hopes for a ceasefire in the Middle East conflict have led to a drop in oil prices. This de",
-    "image": "https://img.etimg.com/photo/msid-129792480,imgsize-16064.cms",
-    "source": "ET",
-    "pubDate": "Wed, 25 Mar 2026 11:33:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-currency-indian-bonds-indian-equities-are-all-cheap-now-manish-chokhani/articleshow/129792480.cms"
+    "id": "https://www.ndtv.com/education/rskmp-madhya-pradesh-board-class-5-and-8-results-2026-out-live-check-steps-to-download-your-scorecard-11263369#publisher=newsstand",
+    "category": "india",
+    "title": "RSKMP Madhya Pradesh Class 5 and 8 Results 2026 (Out): Check Steps to Download Your Scorecard",
+    "summary": "Madhya Pradesh Board Results for Class 5th, 8th Out",
+    "image": "https://c.ndtvimg.com/2026-03/td4l6eso_mp-board-5th-8th-result-_625x300_25_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 25 Mar 2026 13:38:29 +0530",
+    "link": "https://www.ndtv.com/education/rskmp-madhya-pradesh-board-class-5-and-8-results-2026-out-live-check-steps-to-download-your-scorecard-11263369#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/construction-cost-of-realty-projects-may-rise-up-to-5-in-2026-due-to-high-labour-rates-jll/articleshow/129792538.cms",
-    "category": "finance",
-    "title": "Construction cost of realty projects may rise up to 5% in 2026 due to high labour rates: JLL",
-    "summary": "Construction costs in India are projected to climb 3-5% this year due to rising input prices, including labour. While some material costs saw minor dips, others surged. New labour codes and skilled worker shortages are significant drivers. Despite th",
-    "image": "https://img.etimg.com/photo/msid-129792538,imgsize-49484.cms",
-    "source": "ET",
-    "pubDate": "Wed, 25 Mar 2026 11:29:21 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/construction-cost-of-realty-projects-may-rise-up-to-5-in-2026-due-to-high-labour-rates-jll/articleshow/129792538.cms"
+    "id": "https://www.ndtv.com/health/affordable-weight-loss-drugs-in-india-how-cheap-glp-1s-will-affect-the-anti-obesity-market-11263812#publisher=newsstand",
+    "category": "india",
+    "title": "Affordable Weight Loss Drugs In India: How Cheap GLP-1s Will Affect Obesity Treatment",
+    "summary": "Rapid weight loss can lead to significant muscle mass reduction if not paired with protein intake",
+    "image": "https://c.ndtvimg.com/2026-03/9lugb58o_glp1_625x300_18_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 25 Mar 2026 13:36:59 +0530",
+    "link": "https://www.ndtv.com/health/affordable-weight-loss-drugs-in-india-how-cheap-glp-1s-will-affect-the-anti-obesity-market-11263812#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-reclaims-70000-but-faces-overhead-resistance-amid-lack-of-strong-volume-confirmation/articleshow/129792270.cms",
+    "id": "https://www.ndtv.com/health/a-72-year-old-scottish-woman-smashes-hyrox-records-after-hip-replacement-why-this-fitness-trend-is-booming-11263559#publisher=newsstand",
+    "category": "india",
+    "title": "A 72-Year-Old Scottish Woman Smashes HYROX Records After Hip Replacement: Why This Fitness Trend Is Booming",
+    "summary": "HYROX has been described as one of the fastest-growing fitness trends",
+    "image": "https://c.ndtvimg.com/2026-03/gdus6d2o_hyrox-fitness-trend_625x300_25_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 25 Mar 2026 13:36:54 +0530",
+    "link": "https://www.ndtv.com/health/a-72-year-old-scottish-woman-smashes-hyrox-records-after-hip-replacement-why-this-fitness-trend-is-booming-11263559#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-stops-pakistan-bound-ship-from-crossing-hormuz-over-lack-of-permission-11263831#publisher=newsstand",
+    "category": "india",
+    "title": "Iran Stops Pak-Bound Ship From Crossing Hormuz Over Lack Of Permission",
+    "summary": "Iran has effectively closed the Strait of Hormuz",
+    "image": "https://c.ndtvimg.com/2026-03/jg22vl9c_hormuz_625x300_24_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 25 Mar 2026 13:36:27 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-stops-pakistan-bound-ship-from-crossing-hormuz-over-lack-of-permission-11263831#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-surges-as-trump-claims-us-negotiating-end-to-iran-war/articleshow/129795212.cms",
     "category": "finance",
-    "title": "Bitcoin reclaims $70,000 but faces overhead resistance amid lack of strong volume confirmation",
-    "summary": "Bitcoin reclaimed the $70,000 mark, showing underlying strength, but faces vulnerability due to overhead supply and weak volume. While Ethereum also saw gains, its momentum lags, suggesting selective risk appetite. Broader markets remain cautious, wi",
-    "image": "https://img.etimg.com/photo/msid-129792270,imgsize-2242458.cms",
+    "title": "Global Markets | Japan's Nikkei surges as Trump claims US negotiating end to Iran war",
+    "summary": "Japan's Nikkei \u200bshare average rose the most \u200bin a week on Wednesday, supported by cautious optimism \u200bthat the Middle East crisis could move toward a potential settlement after recent volatility.",
+    "image": "https://img.etimg.com/photo/msid-129795212,imgsize-263388.cms",
     "source": "ET",
-    "pubDate": "Wed, 25 Mar 2026 11:16:42 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-reclaims-70000-but-faces-overhead-resistance-amid-lack-of-strong-volume-confirmation/articleshow/129792270.cms"
+    "pubDate": "Wed, 25 Mar 2026 13:35:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-surges-as-trump-claims-us-negotiating-end-to-iran-war/articleshow/129795212.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/ipl-an-asset-class-karan-taurani-on-what-rcb-price-tag-of-1-8-billion-means-for-indian-cricket-and-investors/articleshow/129795090.cms",
+    "category": "finance",
+    "title": "IPL an asset class? Karan Taurani on what RCB price tag of $1.8 billion means for Indian cricket and investors",
+    "summary": "United Spirits' $1.8 billion sale of Royal Challengers Bangalore has sparked debate on IPL franchise valuations, nearly doubling analyst expectations.  While scarcity and strong underlying metrics like 20-25% revenue CAGR and 35% EBITDA margins suppo",
+    "image": "https://img.etimg.com/photo/msid-129795090,imgsize-26648.cms",
+    "source": "ET",
+    "pubDate": "Wed, 25 Mar 2026 13:29:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/ipl-an-asset-class-karan-taurani-on-what-rcb-price-tag-of-1-8-billion-means-for-indian-cricket-and-investors/articleshow/129795090.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-cut-holdings-in-14-midcaps-stocks-fall-up-to-45-in-6-months/slideshow/129795148.cms",
+    "category": "finance",
+    "title": "Retail investors cut holdings in 14 midcaps; stocks fall up to 45% in 6 months",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-129794894,imgsize-8608.cms",
+    "source": "ET",
+    "pubDate": "Wed, 25 Mar 2026 13:17:20 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-cut-holdings-in-14-midcaps-stocks-fall-up-to-45-in-6-months/slideshow/129795148.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/aswath-damodaran-explains-why-investors-copying-warren-buffetts-strategies-dont-match-the-billionaires-success/articleshow/129794793.cms",
+    "category": "finance",
+    "title": "Aswath Damodaran explains why investors copying Warren Buffett\u2019s strategies don\u2019t match the billionaire\u2019s success",
+    "summary": "Valuation guru Aswath Damodaran says turbulent markets often push investors into mistakes, especially when they try to copy icons like Warren Buffett. He argues that luck, skill and diverse paths shape investing success, making it essential for every",
+    "image": "https://img.etimg.com/photo/msid-129794793,imgsize-1625204.cms",
+    "source": "ET",
+    "pubDate": "Wed, 25 Mar 2026 13:13:18 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/aswath-damodaran-explains-why-investors-copying-warren-buffetts-strategies-dont-match-the-billionaires-success/articleshow/129794793.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c3v6rx6dxz6o#0",
+    "category": "global",
+    "title": "Two men arrested over Jewish charity ambulance arson attacks",
+    "summary": "Four Hatzola ambulances were set ablaze in Golders Green, London, in the early hours of Monday.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 25 Mar 2026 08:42:08 GMT",
+    "link": "https://www.bbc.com/news/articles/c3v6rx6dxz6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1528963.html",
+    "category": "sports",
+    "title": "Spencer Johnson replaces Ellis at CSK, to join the squad around April 21-23",
+    "summary": "Johnson hasn't played top-flight cricket since the IPL last year, when he suffered a back injury",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/397000/397015.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 25 Mar 2026 08:24:23 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528963.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cp8dnxln3y5o#0",
+    "category": "global",
+    "title": "Hospital waited two days before raising alarm about meningitis outbreak, BBC learns",
+    "summary": "Experts say the wait was indefensible and possibly delayed identification of the outbreak.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 25 Mar 2026 08:14:20 GMT",
+    "link": "https://www.bbc.com/news/articles/cp8dnxln3y5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c150yl0y5vzo#0",
+    "category": "global",
+    "title": "Playful lynx snatches top prize in photo competition",
+    "summary": "A young lynx caught mid play has won the Wildlife Photographer of the Year People's Choice Award 2026.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 25 Mar 2026 06:29:10 GMT",
+    "link": "https://www.bbc.com/news/articles/c150yl0y5vzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529113.html",
@@ -172,7 +212,7 @@
   {
     "id": "https://www.bbc.com/news/articles/cy81n9wexx6o#0",
     "category": "global",
-    "title": "'He liked the fear in our eyes', Epstein survivors tell BBC",
+    "title": "'He liked the fear in our eyes,' Epstein survivors tell BBC",
     "summary": "In an interview with BBC Newsnight, five women abused by the disgraced financier describe the impact of their shared ordeal.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -210,16 +250,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529082.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1528963.html",
-    "category": "sports",
-    "title": "Spencer Johnson replaces injured Nathan Ellis at CSK",
-    "summary": "Johnson however hasn't played top-flight cricket since the IPL last year, when he suffered a back injury",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/397000/397015.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 25 Mar 2026 05:26:35 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1528963.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1529105.html",
     "category": "sports",
     "title": "Coney and Tiffen inducted into NZC Hall of Fame",
@@ -228,6 +258,16 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 25 Mar 2026 04:40:54 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529105.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c9q58xq9lxzo#0",
+    "category": "global",
+    "title": "'I hugged armed man to stop him bombing hospital'",
+    "summary": "Nathan Newby, who used kindness to persuade the \"lone-wolf terrorist\" to abandon his plan, is being awarded the George Medal.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 25 Mar 2026 02:00:25 GMT",
+    "link": "https://www.bbc.com/news/articles/c9q58xq9lxzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529087.html",
@@ -252,32 +292,12 @@
   {
     "id": "https://www.bbc.com/news/articles/cm25e8k2je1o#0",
     "category": "global",
-    "title": "'Wildy unaffordable': The harsh reality of shared ownership",
+    "title": "'Wildly unaffordable': The harsh reality of shared ownership",
     "summary": "For many, the promise of getting a foot on the property ladder has turned into a nightmare.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Wed, 25 Mar 2026 01:23:06 GMT",
     "link": "https://www.bbc.com/news/articles/cm25e8k2je1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cp8dnxln3y5o#0",
-    "category": "global",
-    "title": "NHS waited two days before raising alarm about meningitis outbreak",
-    "summary": "Experts say the wait was indefensible and possibly delayed identification of the outbreak.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 25 Mar 2026 00:26:15 GMT",
-    "link": "https://www.bbc.com/news/articles/cp8dnxln3y5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c9wqrdkx8ppo#0",
-    "category": "global",
-    "title": "Oil at $150 would trigger global recession, says boss of financial giant BlackRock",
-    "summary": "Larry Fink says if oil prices stay high for a sustained period it will have \"profound implications\" for the world economy.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 25 Mar 2026 00:00:20 GMT",
-    "link": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "4ri2LVmhlv34kOOk94nnsi",
@@ -288,26 +308,6 @@
     "source": "VentureBeat",
     "pubDate": "Wed, 07 Jan 2026 20:00:00 GMT",
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn89g3ngkyzo#0",
-    "category": "global",
-    "title": "Hundreds of UK teenagers to trial social media ban and digital curfews",
-    "summary": "The government will interview the young people and their parents before and after they try the limits to assess their impact.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 24 Mar 2026 22:37:31 GMT",
-    "link": "https://www.bbc.com/news/articles/cn89g3ngkyzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/sport/football/articles/cq8wqq8neg1o#0",
-    "category": "global",
-    "title": "'It wasn't meant to end like this' - Salah exit tough but inevitable",
-    "summary": "Less than a year ago, Mohamed Salah was sitting on a throne inside Anfield after renewing his contract - so why is he leaving?",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 24 Mar 2026 22:33:11 GMT",
-    "link": "https://www.bbc.com/sport/football/articles/cq8wqq8neg1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529020.html",
