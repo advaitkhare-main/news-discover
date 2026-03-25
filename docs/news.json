@@ -46,8 +46,18 @@
     "summary": "The HBO reboot, which is due in 2027, is a spin-off from the original books and the film franchise.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Wed, 25 Mar 2026 21:09:59 GMT",
+    "pubDate": "Wed, 25 Mar 2026 22:01:55 GMT",
     "link": "https://www.bbc.com/news/articles/cq6j20zp9n6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529158.html",
+    "category": "sports",
+    "title": "Selecting the Selector proves tricky as ECB find options thin on the ground",
+    "summary": "Rob Key begins hunt for Luke Wright's successor, but challenges abound over role's remit",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/402300/402329.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 25 Mar 2026 21:38:02 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529158.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c747x7gz249o#0",
@@ -98,16 +108,6 @@
     "source": "BBC",
     "pubDate": "Wed, 25 Mar 2026 19:20:32 GMT",
     "link": "https://www.bbc.com/news/articles/c5ywd4gdzk1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529158.html",
-    "category": "sports",
-    "title": "Selecting the Selector proves tricky as ECB find options thin on the ground",
-    "summary": "Rob Key begins hunt for Luke Wright's successor, but challenges abound over role's remit",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/402300/402329.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 25 Mar 2026 18:05:30 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529158.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c20356v74k7o#0",
@@ -220,6 +220,36 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://www.ndtv.com/world-news/16-killed-many-missing-as-bus-falls-into-river-in-bangladesh-11267452#publisher=newsstand",
+    "category": "india",
+    "title": "16 Killed, Many Missing As Bus Falls Into River In Bangladesh",
+    "summary": "The bus fell into the Padma River at about 5.15 pm on Wednesday, the officials said.",
+    "image": "https://c.ndtvimg.com/2026-03/9psbtal4_bangladesh-bus-falls-into-river_625x300_26_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 03:26:25 +0530",
+    "link": "https://www.ndtv.com/world-news/16-killed-many-missing-as-bus-falls-into-river-in-bangladesh-11267452#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/donald-trump-to-skip-major-conservative-meet-cpac-amid-iran-war-11267424#publisher=newsstand",
+    "category": "india",
+    "title": "For 1st Time In A Decade, Trump To Skip Major Conservative Meet Amid War",
+    "summary": "The president is nonetheless scheduled to speak Friday afternoon at FII Priority, a US officials said.",
+    "image": "https://c.ndtvimg.com/2026-03/tv6r0ja8_donald-trump_625x300_20_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 02:58:53 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trump-to-skip-major-conservative-meet-cpac-amid-iran-war-11267424#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-rules-out-talks-with-us-11267398#publisher=newsstand",
+    "category": "india",
+    "title": "\"We Do Not Intend To Negotiate\": Iran Rules Out Talks With US",
+    "summary": "Iran state television Press TV cited an unidentified official as saying Tehran had \"responded negatively\" to the plan and that the war would only end on Tehran's terms.",
+    "image": "https://c.ndtvimg.com/2026-03/r7cbqvj_seyed-abbas-araghchi_625x300_19_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 02:25:30 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-rules-out-talks-with-us-11267398#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-advance-as-investors-bet-on-iran-war-de-escalation/articleshow/129811212.cms",
     "category": "finance",
     "title": "US stocks today: US stocks advance as investors bet on Iran war de-escalation",
@@ -288,36 +318,6 @@
     "source": "NDTV",
     "pubDate": "Thu, 26 Mar 2026 00:30:15 +0530",
     "link": "https://www.ndtv.com/india-news/12-arrested-across-states-over-links-with-isis-al-qaeda-11267189#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/kuwait-issues-radiation-advisory-after-strikes-near-iran-bushehr-plant-11267185#publisher=newsstand",
-    "category": "india",
-    "title": "Kuwait Issues Radiation Advisory After Strikes Near Iran Nuclear Plant",
-    "summary": "The IAEA warned that even such near-misses carry significant risks",
-    "image": "https://c.ndtvimg.com/2026-03/7029ea24_bushehr_625x300_19_March_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 00:27:50 +0530",
-    "link": "https://www.ndtv.com/world-news/kuwait-issues-radiation-advisory-after-strikes-near-iran-bushehr-plant-11267185#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/after-delay-due-to-iran-war-trump-to-meet-xi-in-beijing-on-may-14-15-11267072#publisher=newsstand",
-    "category": "india",
-    "title": "After Delay Due To Iran War, Trump To Meet Xi In Beijing On May 14-15",
-    "summary": "Trump had been scheduled to travel to China later this month, but announced he was delaying the trip.",
-    "image": "https://c.ndtvimg.com/2025-11/cs14ppeo_trump-xi-afp_625x300_05_November_25.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 00:23:03 +0530",
-    "link": "https://www.ndtv.com/world-news/after-delay-due-to-iran-war-trump-to-meet-xi-in-beijing-on-may-14-15-11267072#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/parvesh-verma-compares-arvind-kejriwal-to-rehman-dakait-aap-hits-back-11267172#publisher=newsstand",
-    "category": "india",
-    "title": "Parvesh Verma Compares Arvind Kejriwal To 'Rehman Dakait', AAP Hits Back",
-    "summary": "During his speech, Verma compared the Aam Aadmi Party (AAP) chief to \"Rehman Dakait.\"",
-    "image": "https://c.ndtvimg.com/2023-07/d3dbnlq4_arvind-kejriwal-ani_625x300_01_July_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 00:22:18 +0530",
-    "link": "https://www.ndtv.com/india-news/parvesh-verma-compares-arvind-kejriwal-to-rehman-dakait-aap-hits-back-11267172#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/capital-gains-from-share-buybacks-to-see-flat-12-surcharge-from-april-1-finance-bill-amendment/articleshow/129809839.cms",
