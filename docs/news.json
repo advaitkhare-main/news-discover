@@ -40,23 +40,13 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bulk-deals-mukul-agrawal-sells-stake-in-microcap-laggard-societe-general-buys-rs-76-crore-stake-in-sammaan-capital/articleshow/129806426.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c8ejw8llwggo#0",
-    "category": "global",
-    "title": "Woman charged with shooting at Rihanna's home pleads not guilty to attempted murder",
-    "summary": "The 35-year-old from Florida remains detained in Los Angeles after the 8 March shooting.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 25 Mar 2026 20:31:25 GMT",
-    "link": "https://www.bbc.com/news/articles/c8ejw8llwggo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cq6j20zp9n6o#0",
     "category": "global",
     "title": "Harry Potter TV show trailer: Everything we know so far",
     "summary": "The HBO reboot, which is due in 2027, is a spin-off from the original books and the film franchise.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Wed, 25 Mar 2026 20:14:32 GMT",
+    "pubDate": "Wed, 25 Mar 2026 21:09:59 GMT",
     "link": "https://www.bbc.com/news/articles/cq6j20zp9n6o?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -66,8 +56,38 @@
     "summary": "A woman has been awarded $3m in a verdict that could have implications for hundreds of other cases in the US.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Wed, 25 Mar 2026 19:38:00 GMT",
+    "pubDate": "Wed, 25 Mar 2026 21:06:23 GMT",
     "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529072.html",
+    "category": "sports",
+    "title": "Rajasthan Royals sold to consortium of US-based investors for US $1.635 billion",
+    "summary": "Bid included ownership of all of Royals' branded teams: Paarl Royals in SA20, and Barbados Royals in CPL",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/400700/400736.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 25 Mar 2026 20:59:14 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529072.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cjd97evn2gko#0",
+    "category": "global",
+    "title": "Ex-Google boss confirmed as new BBC director general",
+    "summary": "Matt Brittin says he's taking the top job at \"a moment of real risk, yet also real opportunity\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 25 Mar 2026 20:40:07 GMT",
+    "link": "https://www.bbc.com/news/articles/cjd97evn2gko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cevkg7k01j2o#0",
+    "category": "global",
+    "title": "Calls for urgent inquiry into high street child abuse claims",
+    "summary": "Political leaders call for an urgent investigation into alleged child sexual exploitation after a BBC report.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 25 Mar 2026 20:32:12 GMT",
+    "link": "https://www.bbc.com/news/articles/cevkg7k01j2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c5ywd4gdzk1o#0",
@@ -160,16 +180,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529156.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cjd97evn2gko#0",
-    "category": "global",
-    "title": "Ex-Google boss confirmed as new BBC director general",
-    "summary": "Matt Brittin says he's taking the top job at \"a moment of real risk, yet also real opportunity\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 25 Mar 2026 13:30:05 GMT",
-    "link": "https://www.bbc.com/news/articles/cjd97evn2gko?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1529152.html",
     "category": "sports",
     "title": "A bet, a bat, and a breakout: The making of Esterhuizen's dream debut series",
@@ -188,16 +198,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 25 Mar 2026 10:33:25 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529132.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529113.html",
-    "category": "sports",
-    "title": "New Zealand bowl, both teams unchanged for decider",
-    "summary": "The series is locked in at 2-2 after South Africa won games one and four, and New Zealand won games two and three",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414832.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 25 Mar 2026 06:26:09 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529113.html?ex_cid=OTC-RSS"
   },
   {
     "id": "4ri2LVmhlv34kOOk94nnsi",
@@ -228,6 +228,16 @@
     "source": "ET",
     "pubDate": "Thu, 26 Mar 2026 01:52:22 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-advance-as-investors-bet-on-iran-war-de-escalation/articleshow/129811212.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-speaker-warns-enemies-are-preparing-to-occupy-island-11267281#publisher=newsstand",
+    "category": "india",
+    "title": "Iran Speaker Warns \"Enemies Are Preparing To Occupy\" Island",
+    "summary": "Iran's powerful parliament speaker warned on Wednesday about the possible invasion of an Iranian island with the support of an unnamed regional country.",
+    "image": "https://c.ndtvimg.com/2026-03/pfrtl68o_mohammad-bagher-ghalibaf_625x300_24_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 01:21:52 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-speaker-warns-enemies-are-preparing-to-occupy-island-11267281#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/private-credit-fund-bonds-were-flagging-risks-before-recent-redemptions-hedge-fund-says/articleshow/129811081.cms",
@@ -308,16 +318,6 @@
     "source": "NDTV",
     "pubDate": "Thu, 26 Mar 2026 00:22:18 +0530",
     "link": "https://www.ndtv.com/india-news/parvesh-verma-compares-arvind-kejriwal-to-rehman-dakait-aap-hits-back-11267172#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/poll-body-transfers-bengal-official-over-complaints-of-irregularities-11267174#publisher=newsstand",
-    "category": "india",
-    "title": "Poll Body Transfers Bengal Official Over Complaints Of Irregularities",
-    "summary": "The poll panel further appointed Niranjan Kumar as the new DEO.",
-    "image": "https://c.ndtvimg.com/2024-03/ru6irnio_rajasthan-assembly-elections_625x300_18_March_24.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 00:20:48 +0530",
-    "link": "https://www.ndtv.com/india-news/poll-body-transfers-bengal-official-over-complaints-of-irregularities-11267174#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/capital-gains-from-share-buybacks-to-see-flat-12-surcharge-from-april-1-finance-bill-amendment/articleshow/129809839.cms",
