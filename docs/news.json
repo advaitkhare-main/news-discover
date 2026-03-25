@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-ipo-leaves-some-private-share-buyers-unsure-what-they-own/articleshow/129808306.cms",
+    "category": "finance",
+    "title": "SpaceX IPO leaves some private share buyers unsure what they own",
+    "summary": "Investors are facing uncertainty buying SpaceX shares through intermediaries, as special-purpose vehicles complicate ownership verification and raise fraud concerns. The intense demand, fueled by fear of missing out on a lucrative IPO, is driving ris",
+    "image": "https://img.etimg.com/photo/msid-129808306,imgsize-116302.cms",
+    "source": "ET",
+    "pubDate": "Wed, 25 Mar 2026 23:08:19 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-ipo-leaves-some-private-share-buyers-unsure-what-they-own/articleshow/129808306.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-likely-to-file-drhp-in-next-few-days-for-mega-ipo/articleshow/129807530.cms",
     "category": "finance",
     "title": "Jio Platforms likely to file DRHP in next few days for mega IPO",
@@ -30,34 +40,24 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bulk-deals-mukul-agrawal-sells-stake-in-microcap-laggard-societe-general-buys-rs-76-crore-stake-in-sammaan-capital/articleshow/129806426.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-chief-says-fake-apps-a-serious-threat-urging-big-tech-cos-to-work-with-regulators/articleshow/129805432.cms",
-    "category": "finance",
-    "title": "Sebi chief says fake apps a serious threat, urging big tech cos to work with regulators",
-    "summary": "Sebi Chairman Tuhin Kanta Pandey on Wednesday termed fake applications a \"serious threat\" and urged technology firms like Google and Meta to work with financial regulators for investor protection.",
-    "image": "https://img.etimg.com/photo/msid-129805432,imgsize-74074.cms",
-    "source": "ET",
-    "pubDate": "Wed, 25 Mar 2026 20:54:06 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-chief-says-fake-apps-a-serious-threat-urging-big-tech-cos-to-work-with-regulators/articleshow/129805432.cms"
+    "id": "https://www.bbc.com/news/articles/c8ejw8llwggo#0",
+    "category": "global",
+    "title": "Woman charged with shooting at Rihanna's home pleads not guilty to attempted murder",
+    "summary": "The 35-year-old from Florida remains detained in Los Angeles after the 8 March shooting.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 25 Mar 2026 20:31:25 GMT",
+    "link": "https://www.bbc.com/news/articles/c8ejw8llwggo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-arm-shares-jump-15-as-new-ai-chip-to-drive-billions-in-annual-revenue/articleshow/129804493.cms",
-    "category": "finance",
-    "title": "US stocks: Arm shares jump 15% as new AI chip to drive billions in annual revenue",
-    "summary": "U.S.-listed shares of Arm Holdings jumped nearly 12% \u200bin premarket trading on \u200bWednesday after the chip firm projected billions of \u200bdollars in annual revenue from its own new artificial intelligence data-center chip.",
-    "image": "https://img.etimg.com/photo/msid-129804493,imgsize-70452.cms",
-    "source": "ET",
-    "pubDate": "Wed, 25 Mar 2026 20:11:36 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-arm-shares-jump-15-as-new-ai-chip-to-drive-billions-in-annual-revenue/articleshow/129804493.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rolls-out-verified-app-label-to-curb-fraud-bolster-investor-protection/articleshow/129804172.cms",
-    "category": "finance",
-    "title": "Sebi rolls out Verified App Label to curb fraud, bolster investor protection",
-    "summary": "Securities and Exchange Board of India launched a Verified App Label initiative with Google to help investors identify genuine trading apps. The move aims to curb digital fraud as retail participation rises, while strengthening trust and promoting sa",
-    "image": "https://img.etimg.com/photo/msid-129804172,imgsize-55652.cms",
-    "source": "ET",
-    "pubDate": "Wed, 25 Mar 2026 19:54:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rolls-out-verified-app-label-to-curb-fraud-bolster-investor-protection/articleshow/129804172.cms"
+    "id": "https://www.bbc.com/news/articles/cq6j20zp9n6o#0",
+    "category": "global",
+    "title": "Harry Potter TV show trailer: Everything we know so far",
+    "summary": "The HBO reboot, which is due in 2027, is a spin-off from the original books and the film franchise.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 25 Mar 2026 20:14:32 GMT",
+    "link": "https://www.bbc.com/news/articles/cq6j20zp9n6o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c747x7gz249o#0",
@@ -110,14 +110,14 @@
     "link": "https://www.bbc.com/news/articles/c62j7jx910go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/ckgxzlny4w3o#0",
+    "id": "https://www.bbc.com/news/articles/cn0ky1n791go#0",
     "category": "global",
-    "title": "'We are in agony' - Savannah Guthrie does first interview since mum's disappearance",
-    "summary": "The US presenter says terrifying thoughts wake her at night as she imagines what happened.",
+    "title": "Dogs became man's best friend far earlier than thought, scientists find",
+    "summary": "A jawbone found in a Somerset cave rewrites the story of when and how dogs became our best friends.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Wed, 25 Mar 2026 16:38:03 GMT",
-    "link": "https://www.bbc.com/news/articles/ckgxzlny4w3o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Wed, 25 Mar 2026 16:00:49 GMT",
+    "link": "https://www.bbc.com/news/articles/cn0ky1n791go?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529163.html",
@@ -150,16 +150,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529159.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/sport/athletics/articles/cqxl8yn4gxwo#0",
-    "category": "global",
-    "title": "London Marathon considers two-day event in 2027",
-    "summary": "London Marathon organisers are \"looking at the intention\" for next year's event to take place across two days.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 25 Mar 2026 15:18:45 GMT",
-    "link": "https://www.bbc.com/sport/athletics/articles/cqxl8yn4gxwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1529156.html",
     "category": "sports",
     "title": "Khawaja replaces Laurie Evans for Rawalpindi Pindiz",
@@ -188,16 +178,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 25 Mar 2026 13:09:58 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529152.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c9q58xq9lxzo#0",
-    "category": "global",
-    "title": "Bravery medal recipient hugged armed man to stop him bombing hospital",
-    "summary": "Nathan Newby, who persuaded the \"lone-wolf terrorist\" to abandon his plan, receives the George Medal.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 25 Mar 2026 12:59:33 GMT",
-    "link": "https://www.bbc.com/news/articles/c9q58xq9lxzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529132.html",
@@ -238,6 +218,26 @@
     "source": "VentureBeat",
     "pubDate": "Tue, 13 Jan 2026 13:00:00 GMT",
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-advance-as-investors-bet-on-iran-war-de-escalation/articleshow/129811212.cms",
+    "category": "finance",
+    "title": "US stocks today: US stocks advance as investors bet on Iran war de-escalation",
+    "summary": "US markets saw a positive start as global stocks rallied. Oil prices dropped, easing inflation fears. Iran is reviewing a US proposal, sparking hopes for peace. This led to gains in sectors like materials and consumer discretionary. Companies like Ar",
+    "image": "https://img.etimg.com/photo/msid-129811212,imgsize-65412.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 01:52:22 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-advance-as-investors-bet-on-iran-war-de-escalation/articleshow/129811212.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/private-credit-fund-bonds-were-flagging-risks-before-recent-redemptions-hedge-fund-says/articleshow/129811081.cms",
+    "category": "finance",
+    "title": "Private credit fund bonds were flagging risks before recent redemptions, hedge fund says",
+    "summary": "Bonds from semi-liquid private credit funds have seen a significant value drop, reaching a one-year low. This indicates investor anticipation of sector stress, even before recent redemption surges. Major U.S. banks are tightening lending, and funds a",
+    "image": "https://img.etimg.com/photo/msid-129811081,imgsize-47690.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 01:19:32 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/private-credit-fund-bonds-were-flagging-risks-before-recent-redemptions-hedge-fund-says/articleshow/129811081.cms"
   },
   {
     "id": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand",
