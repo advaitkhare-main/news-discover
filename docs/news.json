@@ -40,16 +40,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-ftse-russell-to-align-free-float-rules-for-uk-foreign-firms/articleshow/129832095.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/it-was-to-help-people-mizorams-lalduhoma-destroys-youth-congresss-land-deals-allegations-11271463#publisher=newsstand",
-    "category": "india",
-    "title": "\"It Was To Help People\": Mizoram's Lalduhoma Destroys Youth Congress's Land Deals Allegations",
-    "summary": "Mizoram Chief Minister Lalduhoma",
-    "image": "https://c.ndtvimg.com/2025-02/ve8spv6_lalduhoma-_625x300_21_February_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 23:36:16 +0530",
-    "link": "https://www.ndtv.com/india-news/it-was-to-help-people-mizorams-lalduhoma-destroys-youth-congresss-land-deals-allegations-11271463#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-meta-shares-drop-7-on-fears-us-verdicts-open-door-to-deluge-of-lawsuits/articleshow/129831258.cms",
     "category": "finance",
     "title": "US Stocks: Meta shares drop 7% on fears US verdicts open door to deluge of lawsuits",
@@ -58,6 +48,16 @@
     "source": "ET",
     "pubDate": "Thu, 26 Mar 2026 23:13:09 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-meta-shares-drop-7-on-fears-us-verdicts-open-door-to-deluge-of-lawsuits/articleshow/129831258.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cq6jgg0jzvlo#0",
+    "category": "global",
+    "title": "Champion of MasterChef: The Professionals revealed",
+    "summary": "The winner of the BBC One show beat 31 fellow contestants to take home the crown.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Mar 2026 21:40:20 GMT",
+    "link": "https://www.bbc.com/news/articles/cq6jgg0jzvlo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/chennai-petroleum-announces-rs-8-per-share-dividend-sets-april-2-as-record-date-check-dividend-yield/articleshow/129829246.cms",
@@ -88,16 +88,6 @@
     "source": "ET",
     "pubDate": "Thu, 26 Mar 2026 21:04:15 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/129828925.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cq6jgg0jzvlo#0",
-    "category": "global",
-    "title": "Champion of MasterChef: The Professionals revealed",
-    "summary": "The winner of the BBC One show beat 31 fellow contestants to take home the crown.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 21:01:20 GMT",
-    "link": "https://www.bbc.com/news/articles/cq6jgg0jzvlo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-wave-life-sciences-shares-plunge-58-as-data-for-high-dose-of-obesity-drug-disappoints/articleshow/129828661.cms",
@@ -290,13 +280,23 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
+    "id": "https://www.ndtv.com/world-news/iran-war-live-news-trump-pauses-strikes-on-energy-plants-in-iran-for-10-days-11271770#publisher=newsstand",
+    "category": "india",
+    "title": "\"Talks Going Well\": Trump Extends Pause On Iran Power Plant Strikes",
+    "summary": "Trump had denied earlier that he was desperate for a deal to end the Middle East war.",
+    "image": "https://c.ndtvimg.com/2026-03/7uiru26s_trump-iran-plan_625x300_07_March_26.png",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 03:03:29 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-live-news-trump-pauses-strikes-on-energy-plants-in-iran-for-10-days-11271770#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand",
     "category": "india",
-    "title": "US Israel Iran War LIVE: Trump Extends Deadline For Iran To Open Strait of Hormuz To April 6",
+    "title": "Iran War LIVE: Trump Extends Deadline For Iran To Open Strait Of Hormuz To April 6",
     "summary": "Middle East Tensions LIVE Updates: Two officials from Pakistan described the 15-point US proposal broadly",
     "image": "https://c.ndtvimg.com/2026-03/5745m0h4_iran_625x300_26_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 01:53:16 +0530",
+    "pubDate": "Fri, 27 Mar 2026 02:53:21 +0530",
     "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand"
   },
   {
