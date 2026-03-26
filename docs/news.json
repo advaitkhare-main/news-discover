@@ -10,16 +10,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529179.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cvg0n9z3jlvo#0",
-    "category": "global",
-    "title": "British forces will be able to board Russian shadow fleet ships in UK waters",
-    "summary": "The move will \"starve Putin's war machine\", Starmer says as he arrives in Finland for a military summit.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 25 Mar 2026 23:03:55 GMT",
-    "link": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1529158.html",
     "category": "sports",
     "title": "Selecting the Selector proves tricky as ECB find options thin on the ground",
@@ -50,16 +40,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529162.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529159.html",
-    "category": "sports",
-    "title": "Navdeep Saini replaces Harshit Rana at KKR; Kulwant Khejroliya in for Prithvi Raj Yarra at GT",
-    "summary": "\"If I have to give this opportunity another name, I will call it revival,\" says Saini, who last played an IPL match in 2023",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/298200/298262.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 25 Mar 2026 15:25:20 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529159.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -78,6 +58,116 @@
     "source": "VentureBeat",
     "pubDate": "Tue, 13 Jan 2026 13:00:00 GMT",
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/crude-oil-at-120-could-drag-earnings-growth-to-11-from-16-ubs-flags-10-stocks-to-weather-oil-shock/articleshow/129821553.cms",
+    "category": "finance",
+    "title": "Crude oil at $120 could drag earnings growth to 11% from 16%: UBS flags 10 stocks to weather oil shock",
+    "summary": "Geopolitical tensions in the Middle East are creating headwinds for India's economy. Rising oil prices and market volatility are causing uncertainty about interest rates. This situation poses risks to corporate profits and market valuations. India's ",
+    "image": "https://img.etimg.com/photo/msid-129821553,imgsize-389670.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 16:14:02 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/crude-oil-at-120-could-drag-earnings-growth-to-11-from-16-ubs-flags-10-stocks-to-weather-oil-shock/articleshow/129821553.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/market-moguls/attracting-fdi-the-reform-imperative/articleshow/129821243.cms",
+    "category": "finance",
+    "title": "Attracting FDI: The Reform Imperative",
+    "summary": "India faces an opportune moment to attract substantial Foreign Direct Investment (FDI) amidst global capital shifts. While reforms for Foreign Portfolio Investments (FPI) have progressed, a sharper focus on simplifying FDI regulations and execution p",
+    "image": "https://img.etimg.com/photo/msid-129821243,imgsize-20420.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 15:49:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/market-moguls/attracting-fdi-the-reform-imperative/articleshow/129821243.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/west-bengal-assembly-election-2026-suvendu-adhikari-leads-ram-navami-rally-in-mamata-banerjees-constituency-11269257#publisher=newsstand",
+    "category": "india",
+    "title": "Suvendu Adhikari Leads Ram Navami Rally In Mamata Banerjee's Constituency",
+    "summary": "Suvendu Adhikari leading a Ram Navami rally in Kolkata",
+    "image": "https://c.ndtvimg.com/2026-03/oh6o4thk_suvendu-adhikari-_625x300_26_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 15:43:18 +0530",
+    "link": "https://www.ndtv.com/india-news/west-bengal-assembly-election-2026-suvendu-adhikari-leads-ram-navami-rally-in-mamata-banerjees-constituency-11269257#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/7-shoulder-workout-mistakes-that-could-be-slowing-your-progress-11266158#publisher=newsstand",
+    "category": "india",
+    "title": "7 Shoulder Workout Mistakes That Could Be Slowing Your Progress",
+    "summary": "Shoulder workout mistakes your should be avoiding",
+    "image": "https://c.ndtvimg.com/2026-03/nqfpjlsk_shoulder-workout_625x300_25_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 15:39:45 +0530",
+    "link": "https://www.ndtv.com/health/7-shoulder-workout-mistakes-that-could-be-slowing-your-progress-11266158#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oils-new-normal-to-be-80-ambit-downgrades-hpcl-bpcl-ioc-shares-to-sell-slashes-target-price-by-up-to-57/articleshow/129820965.cms",
+    "category": "finance",
+    "title": "Oil's new normal to be $80? Ambit downgrades HPCL, BPCL, IOC shares to 'Sell', slashes target price by up to 57%",
+    "summary": "Ambit Institutional Equities has downgraded HPCL, BPCL and IOC to \u2018Sell\u2019, citing sustained high crude prices and limited government support. It sees Brent crude stabilising around $80 to $100 per barrel, pressuring OMC margins, while favouring upstre",
+    "image": "https://img.etimg.com/photo/msid-129820965,imgsize-20992.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 15:36:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oils-new-normal-to-be-80-ambit-downgrades-hpcl-bpcl-ioc-shares-to-sell-slashes-target-price-by-up-to-57/articleshow/129820965.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-irgc-naval-chief-alireza-tangsiri-killed-says-israel-will-strait-of-hormuz-blockade-be-lifted-us-iran-israel-war-news-11269083#publisher=newsstand",
+    "category": "india",
+    "title": "Iran Navel Chief Killed, Says Israel. End In Sight For Hormuz Crisis?",
+    "summary": "Iran naval chief Tangisiri reportedly oversaw Hormuz blockade.",
+    "image": "https://c.ndtvimg.com/2026-03/dgpfdfms_alireza-tangsiri-strait-of-hormuz_625x300_26_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 15:28:30 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-irgc-naval-chief-alireza-tangsiri-killed-says-israel-will-strait-of-hormuz-blockade-be-lifted-us-iran-israel-war-news-11269083#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/this-is-the-best-time-to-exercise-for-your-hearts-health-study-reveals-11269144#publisher=newsstand",
+    "category": "india",
+    "title": "This Is The Best Time To Exercise For Your Heart's Health, Study Reveals",
+    "summary": "People who exercise in the morning are often more consistent",
+    "image": "https://c.ndtvimg.com/2026-03/j4jp6uk8_morning-walk_625x300_26_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 15:23:20 +0530",
+    "link": "https://www.ndtv.com/health/this-is-the-best-time-to-exercise-for-your-hearts-health-study-reveals-11269144#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/russian-oil-arrives-as-philippines-battles-energy-emergency-11269068#publisher=newsstand",
+    "category": "india",
+    "title": "Russian Oil Arrives As Philippines Battles 'Energy Emergency'",
+    "summary": "The Philippines is heavily dependent on imported fuel, the cost of which has spiked since US-Iran War.",
+    "image": "https://c.ndtvimg.com/2026-03/f4ke069g_phillipines_625x300_26_March_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 15:18:34 +0530",
+    "link": "https://www.ndtv.com/world-news/russian-oil-arrives-as-philippines-battles-energy-emergency-11269068#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/karnataka-news/karnataka-professor-proposes-to-student-in-front-of-class-beaten-on-campus-sri-siddhartha-medical-college-11269136#publisher=newsstand",
+    "category": "india",
+    "title": "Karnataka Professor Proposes To Student In Front Of Class, Beaten On Campus",
+    "summary": "Professor Abdul of Sri Siddhartha Medical College (SSMC) has been suspended.",
+    "image": "https://c.ndtvimg.com/2026-03/d87knmpc_karnataka-professor-proposes-to-student_625x300_26_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 15:11:38 +0530",
+    "link": "https://www.ndtv.com/karnataka-news/karnataka-professor-proposes-to-student-in-front-of-class-beaten-on-campus-sri-siddhartha-medical-college-11269136#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/21-000-opportunities-rs-9-000-monthly-stipend-applications-invited-for-pm-internship-scheme-11269084#publisher=newsstand",
+    "category": "india",
+    "title": "21,000 Roles, Rs 9,000 Monthly Stipend: Applications Open For PM Internship Scheme",
+    "summary": "PM Internship Scheme 2026:The scheme covers more than 20 sectors.",
+    "image": "https://c.ndtvimg.com/2026-03/ap5b3shk_pm-internship-scheme-2026_625x300_26_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 15:02:32 +0530",
+    "link": "https://www.ndtv.com/education/21-000-opportunities-rs-9-000-monthly-stipend-applications-invited-for-pm-internship-scheme-11269084#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/ghaziabad-schools-to-run-offline-on-march-28-as-online-classes-order-cancelled-for-noida-airport-inauguration-11268956#publisher=newsstand",
+    "category": "india",
+    "title": "Ghaziabad Cancels Online Classes Order For March 28, Schools To Run Offline",
+    "summary": "Ghaziabad Cancels Online Classes Order For March 28 Following Backlash",
+    "image": "https://c.ndtvimg.com/2022-12/kpqg78n8_school-generic_625x300_22_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 14:59:47 +0530",
+    "link": "https://www.ndtv.com/education/ghaziabad-schools-to-run-offline-on-march-28-as-online-classes-order-cancelled-for-noida-airport-inauguration-11268956#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-downgrades-india-cuts-nifty-target-and-warns-of-earnings-cut-heres-why/articleshow/129819921.cms",
@@ -100,46 +190,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/gold-drops-2-silver-sheds-over-4-as-traders-assess-iran-us-ceasefire-uncertainty-oil-surge-what-are-experts-saying/articleshow/129819821.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-naval-commander-alireza-tangsiri-overseeing-hormuz-blockade-killed-israel-11268873#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Naval Commander Alireza Tangsiri Overseeing Hormuz Blockade Killed: Israel",
-    "summary": "There has been no comment yet from Iran so far.",
-    "image": "https://c.ndtvimg.com/2026-03/ajk41uqg_alireza-tangsiri_625x300_26_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 14:21:50 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-naval-commander-alireza-tangsiri-overseeing-hormuz-blockade-killed-israel-11268873#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/uddhav-thackeray-devendra-fadnavis-eknath-shinde-d-fadnavis-shayari-uddhav-thackerays-reply-and-changing-equations-buzz-11268882#publisher=newsstand",
-    "category": "india",
-    "title": "D Fadnavis' Shayari, Uddhav Thackeray's Reply, And Changing Equations Buzz",
-    "summary": "Devendra Fadnavis praised Uddhav Thackeray in his speech in the legislative council",
-    "image": "https://c.ndtvimg.com/2019-03/5jhj1v88_uddhav-thackeray-devendra-fadnavis-pti_650x400_25_March_19.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 14:14:12 +0530",
-    "link": "https://www.ndtv.com/india-news/uddhav-thackeray-devendra-fadnavis-eknath-shinde-d-fadnavis-shayari-uddhav-thackerays-reply-and-changing-equations-buzz-11268882#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-iran-says-hormuz-strait-closed-only-to-enemies-11267525#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Says Hormuz Strait \"Closed Only To Enemies\"",
-    "summary": "\"There is no reason to allow the ships of our enemies and their allies to pass\", Iranian minister said.",
-    "image": "https://c.ndtvimg.com/2026-03/a3sbifd8_strait-of-hormuz-afp_625x300_19_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 14:13:16 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-iran-says-hormuz-strait-closed-only-to-enemies-11267525#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-ceasefire-us-israel-war-on-iran-donald-trump-48-hour-iran-ceasefire-deal-benjamin-netanyahu-orders-strikes-on-iran-11268775#publisher=newsstand",
-    "category": "india",
-    "title": "Trump's Iran Ceasefire Gamble Ignites Netanyahu's Strike Fury",
-    "summary": "US President Donald Trump and Israel PM Benjamin Netanyahu (File).",
-    "image": "https://c.ndtvimg.com/2026-03/592m9mpo_trump-netanyahu-afp_625x300_25_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 14:10:06 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-ceasefire-us-israel-war-on-iran-donald-trump-48-hour-iran-ceasefire-deal-benjamin-netanyahu-orders-strikes-on-iran-11268775#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/heres-what-zerodhas-nithin-kamath-said-on-sebis-verified-app-label-initiative/articleshow/129819576.cms",
     "category": "finance",
     "title": "Here's what Zerodha's Nithin Kamath said on Sebi's verified app label initiative",
@@ -148,36 +198,6 @@
     "source": "ET",
     "pubDate": "Thu, 26 Mar 2026 14:10:05 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/heres-what-zerodhas-nithin-kamath-said-on-sebis-verified-app-label-initiative/articleshow/129819576.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/health/the-silent-epidemic-is-speech-delay-in-indian-children-due-to-excessive-screen-time-11259949#publisher=newsstand",
-    "category": "india",
-    "title": "The Silent Epidemic: Is Speech Delay In Indian Children Due To Excessive Screen Time?",
-    "summary": "Image for representation purposes only",
-    "image": "https://c.ndtvimg.com/2026-03/0lodgtf8_mobile-phone_625x300_26_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 14:01:39 +0530",
-    "link": "https://www.ndtv.com/health/the-silent-epidemic-is-speech-delay-in-indian-children-due-to-excessive-screen-time-11259949#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/meet-kunki-chowdhury-the-youngest-candidate-in-assam-polls-11268844#publisher=newsstand",
-    "category": "india",
-    "title": "Meet Kunki Chowdhury, The Youngest Candidate In Assam Polls",
-    "summary": "Kunki Chowdhury, youngest candidate in Assam polls, on campaign trail.",
-    "image": "https://c.ndtvimg.com/2026-03/49b00mbg_kunki-chowdhury-_625x300_26_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 13:56:50 +0530",
-    "link": "https://www.ndtv.com/india-news/meet-kunki-chowdhury-the-youngest-candidate-in-assam-polls-11268844#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/tamil-nadu-news/tirunelvelis-famous-halwa-faces-crisis-after-lpg-shortage-in-tamil-nadu-middle-east-conflict-iran-us-israel-war-11268825#publisher=newsstand",
-    "category": "india",
-    "title": "Tirunelveli's Famous Halwa Faces Crisis After LPG Shortage In Tamil Nadu",
-    "summary": "Santhi sweets, one of the renowned brands has stopped its production",
-    "image": "https://c.ndtvimg.com/2026-03/dhieg0go_tirunelveli_625x300_26_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 13:52:46 +0530",
-    "link": "https://www.ndtv.com/tamil-nadu-news/tirunelvelis-famous-halwa-faces-crisis-after-lpg-shortage-in-tamil-nadu-middle-east-conflict-iran-us-israel-war-11268825#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/2008-like-crisis-ahead-jpmorgan-launches-new-way-to-bet-against-debt-of-microsoft-meta-google-what-this-means/articleshow/129819241.cms",
@@ -190,16 +210,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/2008-like-crisis-ahead-jpmorgan-launches-new-way-to-bet-against-debt-of-microsoft-meta-google-what-this-means/articleshow/129819241.cms"
   },
   {
-    "id": "https://www.ndtv.com/science/ai-could-make-coding-free-hexaware-ceo-predicts-radical-shift-11268796#publisher=newsstand",
-    "category": "india",
-    "title": "AI Could Make Coding Free: Hexaware CEO Predicts Radical Shift",
-    "summary": "Hexaware CEO R Srikrishna says advances in AI could reduce the human cost of coding to zero, as companies may soon generate fresh software instead of fixing existing code, reshaping the future of development.",
-    "image": "https://c.ndtvimg.com/2026-03/tcumgtmc_ai-could-make-coding-free_625x300_26_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 13:40:10 +0530",
-    "link": "https://www.ndtv.com/science/ai-could-make-coding-free-hexaware-ceo-predicts-radical-shift-11268796#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/brigade-enterprises-eyes-rs-1100-cr-revenue-from-new-housing-project-in-bengaluru/articleshow/129818147.cms",
     "category": "finance",
     "title": "Brigade Enterprises eyes Rs 1,100 cr revenue from new housing project in Bengaluru",
@@ -210,34 +220,34 @@
     "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/brigade-enterprises-eyes-rs-1100-cr-revenue-from-new-housing-project-in-bengaluru/articleshow/129818147.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-mideast-worries-push-japans-weekly-foreign-equity-sales-to-18-month-high/articleshow/129818073.cms",
-    "category": "finance",
-    "title": "Global Markets | Mideast worries push Japan's weekly foreign equity sales to 18-month high",
-    "summary": "Japanese stocks experienced their largest foreign outflows in 18 months, totaling 2.51 trillion yen, as Middle East tensions fueled inflation concerns and potential Bank of Japan rate hikes. Despite this, foreign investors bought Japanese bonds, whil",
-    "image": "https://img.etimg.com/photo/msid-129818073,imgsize-149441.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 12:36:50 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-mideast-worries-push-japans-weekly-foreign-equity-sales-to-18-month-high/articleshow/129818073.cms"
+    "id": "https://www.bbc.com/news/articles/cvg0n9z3jlvo#0",
+    "category": "global",
+    "title": "UK now 'ready' to seize Russian shadow fleet ships, Healey says",
+    "summary": "Forces are now approved to board sanctioned vessels if required, after ministers identified a legal basis in January.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Mar 2026 10:43:59 GMT",
+    "link": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/bharat-pet-files-draft-papers-for-rs-760-crore-ipo-heres-everything-you-need-to-know/articleshow/129818056.cms",
-    "category": "finance",
-    "title": "Bharat PET files draft papers for Rs 760-crore IPO. Here\u2019s everything you need to know",
-    "summary": "Bharat PET has filed its DRHP with Sebi for a Rs 760-crore IPO, including a fresh issue and OFS. The issue comprises a fresh issue of equity shares worth up to Rs 120 crore and an offer for sale (OFS) of up to Rs 640 crore by promoter selling shareho",
-    "image": "https://img.etimg.com/photo/msid-129818056,imgsize-58932.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 12:35:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/bharat-pet-files-draft-papers-for-rs-760-crore-ipo-heres-everything-you-need-to-know/articleshow/129818056.cms"
+    "id": "https://www.bbc.com/news/articles/cgk0j71g417o#0",
+    "category": "global",
+    "title": "UK facing biggest hit to growth from Iran war out of major economies",
+    "summary": "The OECD downgrades forecasts for many of the world's biggest economies due to the US-Israel war with Iran.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Mar 2026 10:40:46 GMT",
+    "link": "https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/treason-nobel-laureate-paul-krugman-claims-people-close-to-trump-behind-580-mn-mystery-bets-before-post-on-us-iran-talks/articleshow/129817605.cms",
-    "category": "finance",
-    "title": "Treason! Nobel laureate Paul Krugman claims people close to Trump behind $580-mn mystery bets before post on US-Iran tal",
-    "summary": "Nobel laureate Paul Krugman has accused people close to former US President Donald Trump of insider trading, calling $580 million in pre-announcement oil and S&amp;P futures bets \u201ctreason.\u201d The trades were executed minutes before Trump\u2019s post on US-I",
-    "image": "https://img.etimg.com/photo/msid-129817605,imgsize-161557.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 12:10:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/treason-nobel-laureate-paul-krugman-claims-people-close-to-trump-behind-580-mn-mystery-bets-before-post-on-us-iran-talks/articleshow/129817605.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1529207.html",
+    "category": "sports",
+    "title": "Going where the money is - Cummins voices the danger facing Australian cricket",
+    "summary": "The Australia captain weighs in on concerns that more players might forego Cricket Australia contracts in the future if they can earn more in franchise cricket",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/411100/411169.png",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Mar 2026 10:36:44 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529207.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529209.html",
@@ -246,7 +256,7 @@
     "summary": "Zimbabwe are set to embark on their first bilateral tour of India since 2002",
     "image": "http://p.imgci.com/db/PICTURES/CMS/275600/275679.jpg",
     "source": "Cricinfo",
-    "pubDate": "Thu, 26 Mar 2026 09:53:43 GMT",
+    "pubDate": "Thu, 26 Mar 2026 09:59:06 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529209.html?ex_cid=OTC-RSS"
   },
   {
@@ -280,16 +290,6 @@
     "link": "https://www.bbc.com/news/articles/cew75lx1j72o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c3w3eg4n9zwo#0",
-    "category": "global",
-    "title": "National Savings and Investments bank set to pay millions to customers over misplaced funds",
-    "summary": "The government-backed bank has been accused of a series of errors, including not paying bereaved families money that was rightfully theirs.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 08:33:25 GMT",
-    "link": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1529180.html",
     "category": "sports",
     "title": "Rain ruins opening day after Victoria tear through SA top order",
@@ -298,6 +298,16 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 26 Mar 2026 06:32:38 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529180.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c3dlxvmr5n0o#0",
+    "category": "global",
+    "title": "In one of country's poorest states, Venezuelans hope for post-Maduro boom",
+    "summary": "Ione Wells travels to Sucre, where a lack of investment has hampered locals' prospects.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Mar 2026 06:08:07 GMT",
+    "link": "https://www.bbc.com/news/articles/c3dlxvmr5n0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c05dz39m6qgo#0",
@@ -310,16 +320,6 @@
     "link": "https://www.bbc.com/news/articles/c05dz39m6qgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cql75nx0e0yo#0",
-    "category": "global",
-    "title": "Australia's sunscreen regulator wants new rules after recent product scandal",
-    "summary": "The medicines regulator is proposing stricter rules after more than a dozen products were recalled.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 05:45:39 GMT",
-    "link": "https://www.bbc.com/news/articles/cql75nx0e0yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cn08x9lw0pzo#0",
     "category": "global",
     "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
@@ -330,14 +330,14 @@
     "link": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cd6l07wwvlpo#0",
+    "id": "https://www.bbc.com/news/articles/crm1zmj1y8no#0",
     "category": "global",
-    "title": "Parents should monitor children '24/7' on Roblox, says developer",
-    "summary": "Roblox said safety was a top priority and it had advanced safeguards in place to keep users safe.",
+    "title": "I re-visited one of England's most spectacular hikes after a \u00a35.5m upgrade",
+    "summary": "The long-distance Coast to Coast route which stretches across the Lake District, Yorkshire Dales and North York Moors is now an official National Trail.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 00:31:33 GMT",
-    "link": "https://www.bbc.com/news/articles/cd6l07wwvlpo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 26 Mar 2026 00:40:30 GMT",
+    "link": "https://www.bbc.com/news/articles/crm1zmj1y8no?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
