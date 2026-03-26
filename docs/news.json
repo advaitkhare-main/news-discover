@@ -20,26 +20,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529158.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529163.html",
-    "category": "sports",
-    "title": "Prithvi Shaw: 'I needed a break to make myself mentally strong'",
-    "summary": "Back with Delhi Capitals after going unsold at the IPL 2025 auction, Shaw will compete with Nissanka and Porel to open alongside Rahul",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/378900/378903.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 25 Mar 2026 15:49:28 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529163.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529162.html",
-    "category": "sports",
-    "title": "Cummins on his IPL return: 'If nothing goes wrong, I will play the back half plus the finals'",
-    "summary": "He has arrived in India and did light sprints at warm-ups at the Chinnaswamy on Wednesday, before bowling casually into an empty net",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/381500/381543.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 25 Mar 2026 15:32:33 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529162.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -58,6 +38,136 @@
     "source": "VentureBeat",
     "pubDate": "Tue, 13 Jan 2026 13:00:00 GMT",
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+  },
+  {
+    "id": "https://www.ndtv.com/feature/8th-pay-commission-government-outlines-timeline-scope-and-pending-fiscal-clarity-11269844#publisher=newsstand",
+    "category": "india",
+    "title": "8th Pay Commission: Government Outlines Timeline, Scope And Pending Fiscal Clarity",
+    "summary": "The government has confirmed that the 8th Pay Commission will submit its report within 18 months, while the fiscal impact and final implementation timeline will only be determined after its recommendations are reviewed and approved.",
+    "image": "https://c.ndtvimg.com/2026-03/tl0lmf0g_8th-central-pay-commission_625x300_26_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 18:23:06 +0530",
+    "link": "https://www.ndtv.com/feature/8th-pay-commission-government-outlines-timeline-scope-and-pending-fiscal-clarity-11269844#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/iran-israel-war-lpg-crisis-petrol-diesel-no-shortage-indias-energy-supply-secure-for-many-months-centre-11270048#publisher=newsstand",
+    "category": "india",
+    "title": "No Shortage, India's Energy Supply Secure For \"Many Months\": Centre",
+    "summary": "On LPG, the government said domestic refinery production has been ramped up by 40%.",
+    "image": "https://c.ndtvimg.com/2026-03/pc8ra15k_lpg-petrol_625x300_24_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 18:20:11 +0530",
+    "link": "https://www.ndtv.com/india-news/iran-israel-war-lpg-crisis-petrol-diesel-no-shortage-indias-energy-supply-secure-for-many-months-centre-11270048#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-news-is-russia-secretly-helping-iran-with-drones-food-data-kremlin-denies-11270038#publisher=newsstand",
+    "category": "india",
+    "title": "Is Russia Secretly Helping Iran With Drones, Food, Data? Kremlin Denies",
+    "summary": "Israel struck a military transfer route between Russia and Iran on the Caspian Sea last week",
+    "image": "https://c.ndtvimg.com/2026-03/5hor1tq4_project-kal_625x300_08_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 18:18:02 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-news-is-russia-secretly-helping-iran-with-drones-food-data-kremlin-denies-11270038#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/cuba-and-the-end-of-an-era-11270030#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion | Cuba And The End Of An Era",
+    "summary": "While attention remains fixed on the Middle East, consequential shifts are unfolding across Latin America, shaped in significant part by a more assertive US policy posture that has intensified long-standing pressures on the region.",
+    "image": "https://i.ndtvimg.com/i/2016-01/cuba-flag_650x400_61452251488.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 18:16:14 +0530",
+    "link": "https://www.ndtv.com/opinion/cuba-and-the-end-of-an-era-11270030#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/6-seeds-to-naturally-support-your-hormones-skin-sleep-bones-and-energy-11269240#publisher=newsstand",
+    "category": "india",
+    "title": "6 Seeds To Naturally Support Your Hormones, Skin, Sleep, Bones And Energy",
+    "summary": "Seeds are well-packed with essential nutrients",
+    "image": "https://c.ndtvimg.com/2025-09/s2os2d4c_5-super-seeds-for-protein-deficiency_625x300_07_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 18:06:20 +0530",
+    "link": "https://www.ndtv.com/health/6-seeds-to-naturally-support-your-hormones-skin-sleep-bones-and-energy-11269240#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-today-yellow-metal-crashes-rs-4300/10g-silver-slides-rs-13700-as-mcx-reopens-post-ram-navami/articleshow/129824807.cms",
+    "category": "finance",
+    "title": "Gold price today: Yellow metal slides Rs 4,300/10g, silver tanks Rs 13,700/kg as MCX reopens post Ram Navami break",
+    "summary": "Gold and silver prices fell sharply as MCX trading resumed after the Ram Navami holiday. Gold dropped Rs 4,300 per 10g to Rs 1,39,800, while silver slid Rs 13,700 per kg to Rs 2,21,146. Domestic bullion followed global cues, with COMEX gold down 2.87",
+    "image": "https://img.etimg.com/photo/msid-129824807,imgsize-136958.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 18:05:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-today-yellow-metal-crashes-rs-4300/10g-silver-slides-rs-13700-as-mcx-reopens-post-ram-navami/articleshow/129824807.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-ai-tech-stock-price-news/liveblog/129825084.cms",
+    "category": "finance",
+    "title": "US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures trade lower amid confusion over Mideast peace talks",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-129825084,imgsize-203294.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 18:05:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-ai-tech-stock-price-news/liveblog/129825084.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/common-diabetes-drug-works-by-acting-on-brain-study-shows-11269651#publisher=newsstand",
+    "category": "india",
+    "title": "Common Diabetes Drug Metformin Works By Acting On Brain: Study",
+    "summary": "While diabetes medications are not considered as targeting the brain, the study, published in the journal Science Advances, shows that metformin has been influencing brain pathways all along, the researchers said.",
+    "image": "https://c.ndtvimg.com/2026-03/n0b5coo8_painkiller-pill-medicine_625x300_18_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 18:05:29 +0530",
+    "link": "https://www.ndtv.com/health/common-diabetes-drug-works-by-acting-on-brain-study-shows-11269651#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/karnataka-news/karnataka-professor-proposes-to-student-in-front-of-class-beaten-on-campus-sri-siddhartha-medical-college-11269136#publisher=newsstand",
+    "category": "india",
+    "title": "Karnataka Professor Proposes To Student In Front Of Class, Beaten On Campus",
+    "summary": "Professor Abdul of Sri Siddhartha Medical College (SSMC) has been suspended.",
+    "image": "https://c.ndtvimg.com/2026-03/d87knmpc_karnataka-professor-proposes-to-student_625x300_26_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 18:01:06 +0530",
+    "link": "https://www.ndtv.com/karnataka-news/karnataka-professor-proposes-to-student-in-front-of-class-beaten-on-campus-sri-siddhartha-medical-college-11269136#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/can-pregnancy-cure-endometriosis-expert-busts-the-myth-that-leads-to-treatment-delays-11269239#publisher=newsstand",
+    "category": "india",
+    "title": "Can Pregnancy Cure Endometriosis? Expert Busts The Myth That Leads To Treatment Delays",
+    "summary": "Endometriosis is a very complex issue",
+    "image": "https://c.ndtvimg.com/2026-03/1b7h2akk_pcos_625x300_25_March_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 18:00:59 +0530",
+    "link": "https://www.ndtv.com/health/can-pregnancy-cure-endometriosis-expert-busts-the-myth-that-leads-to-treatment-delays-11269239#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-daniel-kahneman-an-investment-said-to-have-an-80-chance-of-success-sounds-far-more-attractive-than-one-with-a-20-chance-of-failure-the-mind-cant-easily-recognise-that-they-are-the-same-/articleshow/129817545.cms",
+    "category": "finance",
+    "title": "Quote of the day by Daniel Kahneman: \u201cAn investment said to have an 80% chance of success sounds far more attractive tha",
+    "summary": "Daniel Kahneman explains how framing bias distorts investment decisions, making identical probabilities appear different depending on presentation. Investors often react to positive or negative wording rather than actual risk. Recognising this cognit",
+    "image": "https://img.etimg.com/photo/msid-129817545,imgsize-50356.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 18:00:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-daniel-kahneman-an-investment-said-to-have-an-80-chance-of-success-sounds-far-more-attractive-than-one-with-a-20-chance-of-failure-the-mind-cant-easily-recognise-that-they-are-the-same-/articleshow/129817545.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/my-portfolio-is-down-too-ace-investor-vijay-kedia-says-volatile-times-build-seasoned-long-term-investors/articleshow/129824708.cms",
+    "category": "finance",
+    "title": "My portfolio is down too: Ace investor Vijay Kedia says volatile times build seasoned long-term investors",
+    "summary": "markets fell March Iran US Israel conflict drove oil surge, hitting Dalal Street hard. Investor Vijay Kedia urges patience, stressing losses are unreal until sold and crises build temperament, advising discipline, emotional control, and long term per",
+    "image": "https://img.etimg.com/photo/msid-129824708,imgsize-972082.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 17:58:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/my-portfolio-is-down-too-ace-investor-vijay-kedia-says-volatile-times-build-seasoned-long-term-investors/articleshow/129824708.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-rout-wipes-rs-33-lakh-cr-since-iran-war-vijay-kedias-real-lessons-on-paper-losses/articleshow/129824092.cms",
+    "category": "finance",
+    "title": "Market rout wipes Rs 33 lakh cr since Iran War: Vijay Kedia's real lessons on paper losses",
+    "summary": "Vijay Kedia urges investors to stay calm amid market volatility, noting that losses are paper until realised. The market capitalisation of all BSE-listed firms has dropped by Rs 32.7 lakh crore since the Iran conflict.  Kedia suggests long-term disci",
+    "image": "https://img.etimg.com/photo/msid-129824092,imgsize-33854.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 17:31:15 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-rout-wipes-rs-33-lakh-cr-since-iran-war-vijay-kedias-real-lessons-on-paper-losses/articleshow/129824092.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/big-tech-giants-to-spend-more-on-capex-than-payouts-in-2026-amid-ai-boom-hsbc/articleshow/129822844.cms",
@@ -90,144 +200,64 @@
     "link": "https://economictimes.indiatimes.com/markets/market-moguls/attracting-fdi-the-reform-imperative/articleshow/129821243.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/west-bengal-assembly-election-2026-suvendu-adhikari-leads-ram-navami-rally-in-mamata-banerjees-constituency-11269257#publisher=newsstand",
-    "category": "india",
-    "title": "Suvendu Adhikari Leads Ram Navami Rally In Mamata Banerjee's Constituency",
-    "summary": "Suvendu Adhikari leading a Ram Navami rally in Kolkata",
-    "image": "https://c.ndtvimg.com/2026-03/oh6o4thk_suvendu-adhikari-_625x300_26_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 15:43:18 +0530",
-    "link": "https://www.ndtv.com/india-news/west-bengal-assembly-election-2026-suvendu-adhikari-leads-ram-navami-rally-in-mamata-banerjees-constituency-11269257#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/ce8j51r66rxo#0",
+    "category": "global",
+    "title": "Far-fetched to think McSweeney faked phone theft, says PM",
+    "summary": "Messages relating to Lord Peter Mandelson's appointment as US ambassador could have been lost in the alleged theft.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Mar 2026 13:04:57 GMT",
+    "link": "https://www.bbc.com/news/articles/ce8j51r66rxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/health/7-shoulder-workout-mistakes-that-could-be-slowing-your-progress-11266158#publisher=newsstand",
-    "category": "india",
-    "title": "7 Shoulder Workout Mistakes That Could Be Slowing Your Progress",
-    "summary": "Shoulder workout mistakes your should be avoiding",
-    "image": "https://c.ndtvimg.com/2026-03/nqfpjlsk_shoulder-workout_625x300_25_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 15:39:45 +0530",
-    "link": "https://www.ndtv.com/health/7-shoulder-workout-mistakes-that-could-be-slowing-your-progress-11266158#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oils-new-normal-to-be-80-ambit-downgrades-hpcl-bpcl-ioc-shares-to-sell-slashes-target-price-by-up-to-57/articleshow/129820965.cms",
-    "category": "finance",
-    "title": "Oil's new normal to be $80? Ambit downgrades HPCL, BPCL, IOC shares to 'Sell', slashes target price by up to 57%",
-    "summary": "Ambit Institutional Equities has downgraded HPCL, BPCL and IOC to \u2018Sell\u2019, citing sustained high crude prices and limited government support. It sees Brent crude stabilising around $80 to $100 per barrel, pressuring OMC margins, while favouring upstre",
-    "image": "https://img.etimg.com/photo/msid-129820965,imgsize-20992.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 15:36:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oils-new-normal-to-be-80-ambit-downgrades-hpcl-bpcl-ioc-shares-to-sell-slashes-target-price-by-up-to-57/articleshow/129820965.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-irgc-naval-chief-alireza-tangsiri-killed-says-israel-will-strait-of-hormuz-blockade-be-lifted-us-iran-israel-war-news-11269083#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Navel Chief Killed, Says Israel. End In Sight For Hormuz Crisis?",
-    "summary": "Iran naval chief Tangisiri reportedly oversaw Hormuz blockade.",
-    "image": "https://c.ndtvimg.com/2026-03/dgpfdfms_alireza-tangsiri-strait-of-hormuz_625x300_26_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 15:28:30 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-irgc-naval-chief-alireza-tangsiri-killed-says-israel-will-strait-of-hormuz-blockade-be-lifted-us-iran-israel-war-news-11269083#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/this-is-the-best-time-to-exercise-for-your-hearts-health-study-reveals-11269144#publisher=newsstand",
-    "category": "india",
-    "title": "This Is The Best Time To Exercise For Your Heart's Health, Study Reveals",
-    "summary": "People who exercise in the morning are often more consistent",
-    "image": "https://c.ndtvimg.com/2026-03/j4jp6uk8_morning-walk_625x300_26_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 15:23:20 +0530",
-    "link": "https://www.ndtv.com/health/this-is-the-best-time-to-exercise-for-your-hearts-health-study-reveals-11269144#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/russian-oil-arrives-as-philippines-battles-energy-emergency-11269068#publisher=newsstand",
-    "category": "india",
-    "title": "Russian Oil Arrives As Philippines Battles 'Energy Emergency'",
-    "summary": "The Philippines is heavily dependent on imported fuel, the cost of which has spiked since US-Iran War.",
-    "image": "https://c.ndtvimg.com/2026-03/f4ke069g_phillipines_625x300_26_March_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 15:18:34 +0530",
-    "link": "https://www.ndtv.com/world-news/russian-oil-arrives-as-philippines-battles-energy-emergency-11269068#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/karnataka-news/karnataka-professor-proposes-to-student-in-front-of-class-beaten-on-campus-sri-siddhartha-medical-college-11269136#publisher=newsstand",
-    "category": "india",
-    "title": "Karnataka Professor Proposes To Student In Front Of Class, Beaten On Campus",
-    "summary": "Professor Abdul of Sri Siddhartha Medical College (SSMC) has been suspended.",
-    "image": "https://c.ndtvimg.com/2026-03/d87knmpc_karnataka-professor-proposes-to-student_625x300_26_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 15:11:38 +0530",
-    "link": "https://www.ndtv.com/karnataka-news/karnataka-professor-proposes-to-student-in-front-of-class-beaten-on-campus-sri-siddhartha-medical-college-11269136#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/21-000-opportunities-rs-9-000-monthly-stipend-applications-invited-for-pm-internship-scheme-11269084#publisher=newsstand",
-    "category": "india",
-    "title": "21,000 Roles, Rs 9,000 Monthly Stipend: Applications Open For PM Internship Scheme",
-    "summary": "PM Internship Scheme 2026:The scheme covers more than 20 sectors.",
-    "image": "https://c.ndtvimg.com/2026-03/ap5b3shk_pm-internship-scheme-2026_625x300_26_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 15:02:32 +0530",
-    "link": "https://www.ndtv.com/education/21-000-opportunities-rs-9-000-monthly-stipend-applications-invited-for-pm-internship-scheme-11269084#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/ghaziabad-schools-to-run-offline-on-march-28-as-online-classes-order-cancelled-for-noida-airport-inauguration-11268956#publisher=newsstand",
-    "category": "india",
-    "title": "Ghaziabad Cancels Online Classes Order For March 28, Schools To Run Offline",
-    "summary": "Ghaziabad Cancels Online Classes Order For March 28 Following Backlash",
-    "image": "https://c.ndtvimg.com/2022-12/kpqg78n8_school-generic_625x300_22_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 14:59:47 +0530",
-    "link": "https://www.ndtv.com/education/ghaziabad-schools-to-run-offline-on-march-28-as-online-classes-order-cancelled-for-noida-airport-inauguration-11268956#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-downgrades-india-cuts-nifty-target-and-warns-of-earnings-cut-heres-why/articleshow/129819921.cms",
-    "category": "finance",
-    "title": "Goldman downgrades India, slashes Nifty target and warns of earnings cut. Here's why",
-    "summary": "Global brokerage Goldman Sachs has turned cautious on Indian equities, cutting its Nifty target and warning of an \u201cenergy-shock-led\u201d earnings downgrade cycle. The firm expects higher-for-longer oil prices amid the US-Iran conflict to worsen India\u2019s m",
-    "image": "https://img.etimg.com/photo/msid-129819921,imgsize-46886.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 14:35:40 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-downgrades-india-cuts-nifty-target-and-warns-of-earnings-cut-heres-why/articleshow/129819921.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gold-drops-2-silver-sheds-over-4-as-traders-assess-iran-us-ceasefire-uncertainty-oil-surge-what-are-experts-saying/articleshow/129819821.cms",
-    "category": "finance",
-    "title": "Gold drops 2%, silver sheds over 4% as traders assess Iran-US ceasefire uncertainty, oil surge. What are experts saying?",
-    "summary": "Gold and silver prices declined sharply amid uncertainty over Iran-US tensions and rising oil prices, which clouded rate cut expectations. While geopolitical risks persist, shifting monetary outlook and elevated crude prices are weighing on bullion. ",
-    "image": "https://img.etimg.com/photo/msid-129819821,imgsize-71788.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 14:27:19 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gold-drops-2-silver-sheds-over-4-as-traders-assess-iran-us-ceasefire-uncertainty-oil-surge-what-are-experts-saying/articleshow/129819821.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/heres-what-zerodhas-nithin-kamath-said-on-sebis-verified-app-label-initiative/articleshow/129819576.cms",
-    "category": "finance",
-    "title": "Here's what Zerodha's Nithin Kamath said on Sebi's verified app label initiative",
-    "summary": "Market regulator SEBI has launched a 'Verified App Label Initiative' in collaboration with Google to help investors identify genuine trading and investment apps. This move aims to combat the growing menace of unregistered advisory services and digita",
-    "image": "https://img.etimg.com/photo/msid-129819576,imgsize-1202135.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 14:10:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/heres-what-zerodhas-nithin-kamath-said-on-sebis-verified-app-label-initiative/articleshow/129819576.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/2008-like-crisis-ahead-jpmorgan-launches-new-way-to-bet-against-debt-of-microsoft-meta-google-what-this-means/articleshow/129819241.cms",
-    "category": "finance",
-    "title": "2008-like crisis ahead? JPMorgan launches new way to bet against debt of Microsoft, Meta, Google; what this means",
-    "summary": "Investor anxiety is rising as oil prices surge amid the US-Iran conflict, while JPMorgan Chase has launched new credit default swaps allowing bets against the debt of major tech giants including Alphabet, Amazon, Meta, Microsoft and Oracle. The move ",
-    "image": "https://img.etimg.com/photo/msid-129819241,imgsize-1576112.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 13:50:19 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/2008-like-crisis-ahead-jpmorgan-launches-new-way-to-bet-against-debt-of-microsoft-meta-google-what-this-means/articleshow/129819241.cms"
+    "id": "https://www.bbc.com/news/articles/crm1zmj1y8no#0",
+    "category": "global",
+    "title": "I re-visited one of England's most spectacular hikes after a \u00a35.5m upgrade",
+    "summary": "The long-distance Coast to Coast route which stretches across the Lake District, Yorkshire Dales and North York Moors is now an official National Trail.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Mar 2026 12:57:25 GMT",
+    "link": "https://www.bbc.com/news/articles/crm1zmj1y8no?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cgk0j71g417o#0",
     "category": "global",
-    "title": "UK facing biggest hit to growth from Iran war out of major economies",
+    "title": "UK forecast to see biggest hit to growth from Iran war out of major economies",
     "summary": "The OECD downgrades forecasts for many of the world's biggest economies due to the US-Israel war with Iran.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 11:15:16 GMT",
+    "pubDate": "Thu, 26 Mar 2026 12:56:33 GMT",
     "link": "https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529214.html",
+    "category": "sports",
+    "title": "IPL announces full league stage schedule",
+    "summary": "Dharamsala and Raipur among venues returning to the calendar",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414891.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Mar 2026 12:56:24 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529214.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvg0n9z3jlvo#0",
+    "category": "global",
+    "title": "UK now 'ready' to seize Russian shadow fleet ships, Healey says",
+    "summary": "Forces are now approved to board sanctioned vessels if required, after ministers identified a legal basis in January.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Mar 2026 12:11:03 GMT",
+    "link": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529208.html",
+    "category": "sports",
+    "title": "Amelia Kerr wins big at New Zealand Cricket awards",
+    "summary": "Jacob Duffy claims Sir Richard Hadlee medal while Martin Snedden wins Bert Sutcliffe Medal",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/389500/389529.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Mar 2026 12:07:46 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529208.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529209.html",
@@ -260,16 +290,6 @@
     "link": "https://www.bbc.com/news/articles/crm172nkeplo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cvg0n9z3jlvo#0",
-    "category": "global",
-    "title": "UK now 'ready' to seize Russian shadow fleet ships, Healey says",
-    "summary": "Forces are now approved to board sanctioned vessels if required, after ministers identified a legal basis in January.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 10:43:59 GMT",
-    "link": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c87wd0d84jqo#0",
     "category": "global",
     "title": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
@@ -290,16 +310,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529072.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cew75lx1j72o#0",
-    "category": "global",
-    "title": "Palestine Action arrests to resume while government appeal ongoing, Met says",
-    "summary": "The Met says it remains a criminal offence to support the banned group and it \"must enforce the law\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 09:26:16 GMT",
-    "link": "https://www.bbc.com/news/articles/cew75lx1j72o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1529180.html",
     "category": "sports",
     "title": "Rain ruins opening day after Victoria tear through SA top order",
@@ -310,14 +320,14 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529180.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c3dlxvmr5n0o#0",
+    "id": "https://www.bbc.com/news/articles/cx23nk8l40zo#0",
     "category": "global",
-    "title": "In one of country's poorest states, Venezuelans hope for post-Maduro boom",
-    "summary": "Ione Wells travels to Sucre, where a lack of investment has hampered locals' prospects.",
+    "title": "Singer Duffy to share sex assault ordeal in documentary",
+    "summary": "Disney+ says it has been given \"unprecedented access\" to the singer in her first major interview in 15 years.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 06:08:07 GMT",
-    "link": "https://www.bbc.com/news/articles/c3dlxvmr5n0o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 26 Mar 2026 06:12:02 GMT",
+    "link": "https://www.bbc.com/news/articles/cx23nk8l40zo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cn08x9lw0pzo#0",
@@ -328,16 +338,6 @@
     "source": "BBC",
     "pubDate": "Thu, 26 Mar 2026 00:41:16 GMT",
     "link": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/crm1zmj1y8no#0",
-    "category": "global",
-    "title": "I re-visited one of England's most spectacular hikes after a \u00a35.5m upgrade",
-    "summary": "The long-distance Coast to Coast route which stretches across the Lake District, Yorkshire Dales and North York Moors is now an official National Trail.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 00:40:30 GMT",
-    "link": "https://www.bbc.com/news/articles/crm1zmj1y8no?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
