@@ -20,64 +20,104 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://www.ndtv.com/india-news/tamil-nadu-assembly-polls-tamil-nadu-elections-2026-eps-kicks-off-chennai-campaign-jayalalithaa-style-with-mylapore-show-of-strength-11271124#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/gujarat-man-kills-widow-who-used-to-tie-him-rakhi-then-joins-search-for-her-11271473#publisher=newsstand",
     "category": "india",
-    "title": "EPS Kicks Off Chennai Campaign, 'Jayalalithaa Style', With Mylapore Show of Strength",
-    "summary": "EPS took on the ruling DMK on corruption, women's safety and law-and-order issues.",
-    "image": "https://c.ndtvimg.com/2026-03/5nf7f7ds_eps-mylapore_625x300_26_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Gujarat Man Kills Widow Who Used To Tie Him Rakhi, Then Joins Search For Her",
+    "summary": "Initial findings suggest the cause of death was strangulation.",
+    "image": "https://c.ndtvimg.com/2025-06/ecv6cvdc_police-generic-image_625x300_27_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 22:29:24 +0530",
-    "link": "https://www.ndtv.com/india-news/tamil-nadu-assembly-polls-tamil-nadu-elections-2026-eps-kicks-off-chennai-campaign-jayalalithaa-style-with-mylapore-show-of-strength-11271124#publisher=newsstand"
+    "pubDate": "Thu, 26 Mar 2026 23:43:06 +0530",
+    "link": "https://www.ndtv.com/india-news/gujarat-man-kills-widow-who-used-to-tie-him-rakhi-then-joins-search-for-her-11271473#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-ftse-russell-to-align-free-float-rules-for-uk-foreign-firms/articleshow/129832095.cms",
+    "category": "finance",
+    "title": "Global Stocks: FTSE Russell to align free-float rules for UK, foreign firms",
+    "summary": "FTSE Russell will lower the minimum free-float requirement for all companies in the FTSE UK Index Series to 10% from June 2026, aligning it with the London Stock Exchange's rule. This change aims to better reflect the UK market by removing the dispar",
+    "image": "https://img.etimg.com/photo/msid-129832095,imgsize-36628.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 23:42:27 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-ftse-russell-to-align-free-float-rules-for-uk-foreign-firms/articleshow/129832095.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/it-was-to-help-people-mizorams-lalduhoma-destroys-youth-congresss-land-deals-allegations-11271463#publisher=newsstand",
+    "category": "india",
+    "title": "\"It Was To Help People\": Mizoram's Lalduhoma Destroys Youth Congress's Land Deals Allegations",
+    "summary": "Mizoram Chief Minister Lalduhoma",
+    "image": "https://c.ndtvimg.com/2025-02/ve8spv6_lalduhoma-_625x300_21_February_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 23:36:16 +0530",
+    "link": "https://www.ndtv.com/india-news/it-was-to-help-people-mizorams-lalduhoma-destroys-youth-congresss-land-deals-allegations-11271463#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-live-news-mobilises-over-1-million-fighters-for-possible-ground-war-with-us-report-11271396#publisher=newsstand",
+    "category": "india",
+    "title": "Iran Mobilises Over 1 Million Fighters For Possible Ground War With US: Report",
+    "summary": "The conflict is now taking a financial and material toll on the United States.",
+    "image": "https://c.ndtvimg.com/2026-03/l7un8sk4_iranian_625x300_26_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 23:29:31 +0530",
+    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-news-mobilises-over-1-million-fighters-for-possible-ground-war-with-us-report-11271396#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/rs-90-000-per-month-pani-puri-sellers-earnings-spark-debate-online-11271394#publisher=newsstand",
+    "category": "india",
+    "title": "\"Rs 90,000 Per Month\": Pani Puri Seller's Earnings Spark Debate Online",
+    "summary": "The viral video highlights the potential for street food vendors to earn a decent living.",
+    "image": "https://c.ndtvimg.com/2026-03/542er8f4_pani-puri_625x300_26_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 23:28:55 +0530",
+    "link": "https://www.ndtv.com/offbeat/rs-90-000-per-month-pani-puri-sellers-earnings-spark-debate-online-11271394#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-meta-shares-drop-7-on-fears-us-verdicts-open-door-to-deluge-of-lawsuits/articleshow/129831258.cms",
+    "category": "finance",
+    "title": "US Stocks: Meta shares drop 7% on fears US verdicts open door to deluge of lawsuits",
+    "summary": "Meta Platforms shares tumbled 7% after two verdicts found the social media giant liable for harm to young users. These rulings, totaling hundreds of millions in fines, could expose Meta to extensive litigation by targeting platform design, potentiall",
+    "image": "https://img.etimg.com/photo/msid-129831258,imgsize-46632.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 23:13:09 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-meta-shares-drop-7-on-fears-us-verdicts-open-door-to-deluge-of-lawsuits/articleshow/129831258.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-news-a-lousy-fighters-jibe-from-donald-trump-as-iran-calls-us-proposal-one-sided-11271316#publisher=newsstand",
+    "category": "india",
+    "title": "A \"Lousy Fighters\" Jibe From Trump As Iran Calls US Proposal \"One-Sided\"",
+    "summary": "Trump called Iranian negotiators \"strange\" and warned them to start taking things seriously",
+    "image": "https://c.ndtvimg.com/2026-03/ehuqon2c_trump-afp_625x300_24_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 23:04:00 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-news-a-lousy-fighters-jibe-from-donald-trump-as-iran-calls-us-proposal-one-sided-11271316#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/we-trust-in-the-us-legal-system-maduros-son-as-father-faces-2nd-hearing-11271324#publisher=newsstand",
+    "category": "india",
+    "title": "\"We Trust US Legal System\": Maduro's Son Ahead Of 2nd Hearing",
+    "summary": "\"This trial has vestiges of illegitimacy from the start,\" said Nicolas Maduro Guerra",
+    "image": "https://c.ndtvimg.com/2026-01/btlptebo_nicolas-ernesto-maduro-guerra_625x300_04_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 23:02:51 +0530",
+    "link": "https://www.ndtv.com/world-news/we-trust-in-the-us-legal-system-maduros-son-as-father-faces-2nd-hearing-11271324#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/west-bengal-elections-2026-dilip-ghoshs-up-style-encounters-in-bengal-vow-gets-trinamool-response-11271325#publisher=newsstand",
+    "category": "india",
+    "title": "Dilip Ghosh's \"UP-Style Encounters\" In Bengal Vow Gets Trinamool Response",
+    "summary": "His remarks immediately triggered a political storm.",
+    "image": "https://c.ndtvimg.com/2024-03/k9j9hoeo_dilip-ghosh-mamata-banerjee_625x300_27_March_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 23:01:08 +0530",
+    "link": "https://www.ndtv.com/india-news/west-bengal-elections-2026-dilip-ghoshs-up-style-encounters-in-bengal-vow-gets-trinamool-response-11271325#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/iran-war-news-live-10-big-boats-of-oil-trump-reveals-details-of-mystery-gift-from-iran-11271096#publisher=newsstand",
     "category": "india",
     "title": "\"10 Big Boats Of Oil\": Trump Reveals Details Of Mystery Gift From Iran",
-    "summary": "Iran War News Live: \"10 Big Boats Of Oil\": Trump Reveals Details Of Mystery Gift From Iran",
+    "summary": "Iran has been blocking ships it perceives as linked to the US and Israeli war effort",
     "image": "https://c.ndtvimg.com/2026-03/bd66ftmg_trump-strait-of-hormuz_625x300_04_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 22:28:45 +0530",
+    "pubDate": "Thu, 26 Mar 2026 22:51:16 +0530",
     "link": "https://www.ndtv.com/world-news/iran-war-news-live-10-big-boats-of-oil-trump-reveals-details-of-mystery-gift-from-iran-11271096#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/liquor-to-be-sold-at-petrol-pumps-departmental-stores-in-chandigarh-11271168#publisher=newsstand",
-    "category": "india",
-    "title": "Liquor To Be Sold At Petrol Pumps, Departmental Stores In Chandigarh",
-    "summary": "Licences for these outlets will be issued under Section 10B.",
-    "image": "https://i.ndtvimg.com/i/2017-07/liquor-shop-istock_650x400_71499238652.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 22:14:16 +0530",
-    "link": "https://www.ndtv.com/india-news/liquor-to-be-sold-at-petrol-pumps-departmental-stores-in-chandigarh-11271168#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/2026-assam-elections-bulldozer-action-in-5-lakh-bighas-himanta-sarmas-big-assam-poll-promise-11271166#publisher=newsstand",
-    "category": "india",
-    "title": "Bulldozer Action In 5 Lakh Bighas: Himanta Sarma's Big Assam Poll Promise",
-    "summary": "On the party's election roadmap, the Chief Minister hinted at an extensive manifesto.",
-    "image": "https://c.ndtvimg.com/2026-03/2u93klq_himanta-biswa-sarma_625x300_25_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 22:13:44 +0530",
-    "link": "https://www.ndtv.com/india-news/2026-assam-elections-bulldozer-action-in-5-lakh-bighas-himanta-sarmas-big-assam-poll-promise-11271166#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/real-estate-to-jobs-how-noida-international-airport-will-transform-ncr-11270968#publisher=newsstand",
-    "category": "india",
-    "title": "Real Estate To Jobs: How Noida International Airport Will Transform NCR",
-    "summary": "The airport is already attracting global business interest.",
-    "image": "https://c.ndtvimg.com/2021-11/84023et_noida-airport-650_625x300_25_November_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 21:30:57 +0530",
-    "link": "https://www.ndtv.com/india-news/real-estate-to-jobs-how-noida-international-airport-will-transform-ncr-11270968#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/10-killed-as-bus-truck-collision-in-madhya-pradeshs-chhindwara-11270943#publisher=newsstand",
-    "category": "india",
-    "title": "10 Killed As Bus Collides With Truck In Madhya Pradesh",
-    "summary": "10 Killed As Bus-Truck Collision In Madhya Pradesh's Chhindwara",
-    "image": "https://c.ndtvimg.com/2025-05/cg62aus8_road-accident-generic_625x300_05_May_25.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 21:30:23 +0530",
-    "link": "https://www.ndtv.com/india-news/10-killed-as-bus-truck-collision-in-madhya-pradeshs-chhindwara-11270943#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/chennai-petroleum-announces-rs-8-per-share-dividend-sets-april-2-as-record-date-check-dividend-yield/articleshow/129829246.cms",
@@ -88,16 +128,6 @@
     "source": "ET",
     "pubDate": "Thu, 26 Mar 2026 21:23:43 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/chennai-petroleum-announces-rs-8-per-share-dividend-sets-april-2-as-record-date-check-dividend-yield/articleshow/129829246.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/jaipur-news/jaipur-viral-video-shows-woman-damaging-bike-after-minor-collision-11270654#publisher=newsstand",
-    "category": "india",
-    "title": "Road Rage In Jaipur: Woman Caught On Camera Vandalising Motorcycle",
-    "summary": "The woman was seen repeatedly hitting the bike with a stone.",
-    "image": "https://c.ndtvimg.com/2026-03/jepnnjeo_woman-damaging-bike_625x300_26_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 21:09:56 +0530",
-    "link": "https://www.ndtv.com/jaipur-news/jaipur-viral-video-shows-woman-damaging-bike-after-minor-collision-11270654#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/129828925.cms",
@@ -120,16 +150,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-wave-life-sciences-shares-plunge-58-as-data-for-high-dose-of-obesity-drug-disappoints/articleshow/129828661.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/2016-west-bengal-assembly-elections-bengal-polls-battle-between-fear-of-trinamool-trust-in-bjp-nitin-nabin-11270745#publisher=newsstand",
-    "category": "india",
-    "title": "Bengal Polls Battle Between Fear Of Trinamool, Trust In BJP: Nitin Nabin",
-    "summary": "During his two-day visit, Nitin Nabin held back-to-back organisational meetings along with a visit to the sacred Dakshineswar Kali Mandir, where he addressed the media.",
-    "image": "https://c.ndtvimg.com/2026-03/c32tstsc_nitin-nabin-_625x300_26_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 20:44:37 +0530",
-    "link": "https://www.ndtv.com/india-news/2016-west-bengal-assembly-elections-bengal-polls-battle-between-fear-of-trinamool-trust-in-bjp-nitin-nabin-11270745#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-equitable-corebridge-set-to-merge-create-22-billion-us-insurance-giant/articleshow/129828442.cms",
     "category": "finance",
     "title": "US Stocks: Equitable, Corebridge set to merge, create $22 billion US insurance giant",
@@ -150,44 +170,54 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/low-us-weekly-unemployment-claims-point-to-stable-labor-market/articleshow/129828382.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-kodiak-sciences-shares-soar-68-after-eye-drug-succeeds-in-late-stage-study/articleshow/129827726.cms",
-    "category": "finance",
-    "title": "US Stocks: Kodiak Sciences shares soar 68% after eye drug succeeds in late-stage study",
-    "summary": "Shares of \u200bKodiak Sciences surged 68.6% to their highest in more than \u200bfour years on Thursday after the drug developer's experimental drug met the main goal in a late-stage study in patients with diabetes-related eye damage.",
-    "image": "https://img.etimg.com/photo/msid-129827726,imgsize-15846.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 20:04:31 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-kodiak-sciences-shares-soar-68-after-eye-drug-succeeds-in-late-stage-study/articleshow/129827726.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-triveni-engineering-and-authum-on-friday-for-gains-up-to-23/articleshow/129827693.cms",
-    "category": "finance",
-    "title": "Market Trading Guide: Buy Triveni Engineering and Authum on Friday for gains up to 23%",
-    "summary": "Nifty extended gains for a second session, led by banks, auto and consumer stocks amid easing Middle East tensions. Analysts see bullish momentum sustaining above key support, with upside potential if resistance levels are crossed, while highlighting",
-    "image": "https://img.etimg.com/photo/msid-129827693,imgsize-31552.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 20:01:10 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-triveni-engineering-and-authum-on-friday-for-gains-up-to-23/articleshow/129827693.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/vadodara-to-raise-rs-200-cr-from-municipal-bonds-by-july/articleshow/129827249.cms",
-    "category": "finance",
-    "title": "Vadodara to raise Rs 200 cr from municipal bonds by July",
-    "summary": "The Vadodara civic body is aiming to raise another Rs 200 crore through the municipal bonds route by July this year, people familiar with the development have said.",
-    "image": "https://img.etimg.com/photo/msid-129827249,imgsize-48396.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 19:38:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/vadodara-to-raise-rs-200-cr-from-municipal-bonds-by-july/articleshow/129827249.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c17veqk90nno#0",
+    "id": "https://www.bbc.com/news/articles/c3w3ez3xp92o#0",
     "category": "global",
-    "title": "Police force reopens investigation into Andrew Tate abuse claims",
-    "summary": "It comes a day after the police watchdog said it would look into the force's handling of reports against the influencer.",
+    "title": "Sarah Ferguson stripped of Freedom of City of York title",
+    "summary": "The former duchess was given the honour in 1987 following her marriage to the then-Prince Andrew.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 17:48:35 GMT",
-    "link": "https://www.bbc.com/news/articles/c17veqk90nno?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 26 Mar 2026 19:06:12 GMT",
+    "link": "https://www.bbc.com/news/articles/c3w3ez3xp92o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4g8wxyq7v5o#0",
+    "category": "global",
+    "title": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
+    "summary": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay their lawyers.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Mar 2026 18:49:46 GMT",
+    "link": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529324.html",
+    "category": "sports",
+    "title": "All-round Qalandars take down Kingsmen with ease in PSL opener",
+    "summary": "Defending champions flaunt their muscle with bat and ball to demolish tournament debutants on opening night",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414900/414917.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Mar 2026 18:32:00 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529324.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529322.html",
+    "category": "sports",
+    "title": "CWI blocks Seales' Hampshire move in bid to manage workload",
+    "summary": "Seales, along with Shamar Joseph and Alzarri Joseph, will have their workload carefully monitored",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/410600/410662.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Mar 2026 18:31:58 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529322.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx2r4wxdw3no#0",
+    "category": "global",
+    "title": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise",
+    "summary": "There is renewed urgency for Ukraine to get a drone deal done, as the US increasingly focuses on Iran.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Mar 2026 18:24:13 GMT",
+    "link": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c9d45y66g78o#0",
@@ -240,16 +270,6 @@
     "link": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cpwjxx5eyn1o#0",
-    "category": "global",
-    "title": "Church attendance report pulled after YouGov finds 'fraudulent' responses",
-    "summary": "The original report claimed a rise in young people attending church in England and Wales.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 16:02:40 GMT",
-    "link": "https://www.bbc.com/news/articles/cpwjxx5eyn1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1529262.html",
     "category": "sports",
     "title": "Ali Orr, Conor McKerr earn Scotland A call-ups for tour of Jersey",
@@ -300,26 +320,6 @@
     "link": "https://www.bbc.com/sport/olympics/articles/cdj7dgvlj0no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529208.html",
-    "category": "sports",
-    "title": "Amelia Kerr wins big at New Zealand Cricket awards",
-    "summary": "Jacob Duffy claims Sir Richard Hadlee medal while Martin Snedden wins Bert Sutcliffe Medal",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/389500/389529.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 26 Mar 2026 14:17:22 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529208.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529211.html",
-    "category": "sports",
-    "title": "Walter: Having Ben Sears fit to play an entire series is a win",
-    "summary": "NZ's head coach Rob Walter reflects on the takeaways from the five-match T20I series against SA",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/398700/398797.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 26 Mar 2026 13:19:05 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529211.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cgk0j71g417o#0",
     "category": "global",
     "title": "UK forecast to see biggest hit to growth from Iran war out of major economies",
@@ -328,16 +328,6 @@
     "source": "BBC",
     "pubDate": "Thu, 26 Mar 2026 12:56:33 GMT",
     "link": "https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c87wd0d84jqo#0",
-    "category": "global",
-    "title": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
-    "summary": "The ruling could be the beginning of the end of social media as we know it, writes the BBC's technology editor Zoe Kleinman.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 09:37:57 GMT",
-    "link": "https://www.bbc.com/news/articles/c87wd0d84jqo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
@@ -378,6 +368,16 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 05 Jan 2026 07:45:00 GMT",
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-apple-plans-to-open-siri-to-rival-ai-services-bloomberg-news-reports/articleshow/129832615.cms",
+    "category": "finance",
+    "title": "US stocks: Apple plans to open Siri to rival AI services, Bloomberg News reports",
+    "summary": "Apple is set to open its Siri voice assistant to other artificial intelligence services. This move will allow users to connect with AI platforms like Alphabet's Gemini and Anthropic's Claude directly through Siri. The change aims to boost Apple's AI ",
+    "image": "https://img.etimg.com/photo/msid-129832615,imgsize-37494.cms",
+    "source": "ET",
+    "pubDate": "Fri, 27 Mar 2026 00:03:09 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-apple-plans-to-open-siri-to-rival-ai-services-bloomberg-news-reports/articleshow/129832615.cms"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
