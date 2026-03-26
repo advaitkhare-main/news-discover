@@ -1,25 +1,5 @@
 [
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529179.html",
-    "category": "sports",
-    "title": "Australia coach sees huge value in Molineux's non-bowling series",
-    "summary": "With the T20 World Cup closing in, the West Indies tour was viewed as vital captaincy experience",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414758.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 25 Mar 2026 23:47:29 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529179.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529158.html",
-    "category": "sports",
-    "title": "Selecting the Selector proves tricky as ECB find options thin on the ground",
-    "summary": "Rob Key begins hunt for Luke Wright's successor, but challenges abound over role's remit",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/402300/402329.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 25 Mar 2026 21:38:02 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529158.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -40,54 +20,124 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://www.ndtv.com/feature/8th-pay-commission-government-outlines-timeline-scope-and-pending-fiscal-clarity-11269844#publisher=newsstand",
-    "category": "india",
-    "title": "8th Pay Commission: Government Outlines Timeline, Scope And Pending Fiscal Clarity",
-    "summary": "The government has confirmed that the 8th Pay Commission will submit its report within 18 months, while the fiscal impact and final implementation timeline will only be determined after its recommendations are reviewed and approved.",
-    "image": "https://c.ndtvimg.com/2026-03/tl0lmf0g_8th-central-pay-commission_625x300_26_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 18:23:06 +0530",
-    "link": "https://www.ndtv.com/feature/8th-pay-commission-government-outlines-timeline-scope-and-pending-fiscal-clarity-11269844#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-kodiak-sciences-shares-soar-68-after-eye-drug-succeeds-in-late-stage-study/articleshow/129827726.cms",
+    "category": "finance",
+    "title": "US Stocks: Kodiak Sciences shares soar 68% after eye drug succeeds in late-stage study",
+    "summary": "Shares of \u200bKodiak Sciences surged 68.6% to their highest in more than \u200bfour years on Thursday after the drug developer's experimental drug met the main goal in a late-stage study in patients with diabetes-related eye damage.",
+    "image": "https://img.etimg.com/photo/msid-129827726,imgsize-15846.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 20:04:31 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-kodiak-sciences-shares-soar-68-after-eye-drug-succeeds-in-late-stage-study/articleshow/129827726.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/iran-israel-war-lpg-crisis-petrol-diesel-no-shortage-indias-energy-supply-secure-for-many-months-centre-11270048#publisher=newsstand",
-    "category": "india",
-    "title": "No Shortage, India's Energy Supply Secure For \"Many Months\": Centre",
-    "summary": "On LPG, the government said domestic refinery production has been ramped up by 40%.",
-    "image": "https://c.ndtvimg.com/2026-03/pc8ra15k_lpg-petrol_625x300_24_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 18:20:11 +0530",
-    "link": "https://www.ndtv.com/india-news/iran-israel-war-lpg-crisis-petrol-diesel-no-shortage-indias-energy-supply-secure-for-many-months-centre-11270048#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-triveni-engineering-and-authum-on-friday-for-gains-up-to-23/articleshow/129827693.cms",
+    "category": "finance",
+    "title": "Market Trading Guide: Buy Triveni Engineering and Authum on Friday for gains up to 23%",
+    "summary": "Nifty extended gains for a second session, led by banks, auto and consumer stocks amid easing Middle East tensions. Analysts see bullish momentum sustaining above key support, with upside potential if resistance levels are crossed, while highlighting",
+    "image": "https://img.etimg.com/photo/msid-129827693,imgsize-31552.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 20:01:10 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-triveni-engineering-and-authum-on-friday-for-gains-up-to-23/articleshow/129827693.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-news-is-russia-secretly-helping-iran-with-drones-food-data-kremlin-denies-11270038#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/uss-middle-east-gamble-may-leave-gaps-in-air-defences-against-russia-china-11270430#publisher=newsstand",
     "category": "india",
-    "title": "Is Russia Secretly Helping Iran With Drones, Food, Data? Kremlin Denies",
-    "summary": "Israel struck a military transfer route between Russia and Iran on the Caspian Sea last week",
-    "image": "https://c.ndtvimg.com/2026-03/5hor1tq4_project-kal_625x300_08_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "US's Middle East Gamble May Leave Gaps In Air Defences Against Russia, China",
+    "summary": "The THAAD anti-ballistic missile system in action.",
+    "image": "https://c.ndtvimg.com/2024-10/btbeuikg_thaad-getty-_625x300_14_October_24.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 18:18:02 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-news-is-russia-secretly-helping-iran-with-drones-food-data-kremlin-denies-11270038#publisher=newsstand"
+    "pubDate": "Thu, 26 Mar 2026 19:44:14 +0530",
+    "link": "https://www.ndtv.com/world-news/uss-middle-east-gamble-may-leave-gaps-in-air-defences-against-russia-china-11270430#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/opinion/cuba-and-the-end-of-an-era-11270030#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/iran-war-live-news-indian-killed-in-abu-dhabi-due-to-debris-from-intercepted-missile-11270447#publisher=newsstand",
     "category": "india",
-    "title": "Opinion: Opinion | Cuba And The End Of An Era",
-    "summary": "While attention remains fixed on the Middle East, consequential shifts are unfolding across Latin America, shaped in significant part by a more assertive US policy posture that has intensified long-standing pressures on the region.",
-    "image": "https://i.ndtvimg.com/i/2016-01/cuba-flag_650x400_61452251488.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Indian Killed In Abu Dhabi Due To Debris From Intercepted Missile",
+    "summary": "Iran War Live News: Indian Killed In Abu Dhabi Due To Debris From Intercepted Missile",
+    "image": "https://c.ndtvimg.com/2026-03/9scua6o4_abu-dhabi_625x300_17_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 18:16:14 +0530",
-    "link": "https://www.ndtv.com/opinion/cuba-and-the-end-of-an-era-11270030#publisher=newsstand"
+    "pubDate": "Thu, 26 Mar 2026 19:43:44 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-live-news-indian-killed-in-abu-dhabi-due-to-debris-from-intercepted-missile-11270447#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/health/6-seeds-to-naturally-support-your-hormones-skin-sleep-bones-and-energy-11269240#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/mandatory-kyc-for-social-media-instagram-facebook-whatsapp-youtube-11270463#publisher=newsstand",
     "category": "india",
-    "title": "6 Seeds To Naturally Support Your Hormones, Skin, Sleep, Bones And Energy",
-    "summary": "Seeds are well-packed with essential nutrients",
-    "image": "https://c.ndtvimg.com/2025-09/s2os2d4c_5-super-seeds-for-protein-deficiency_625x300_07_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Mandatory KYC For Social Media? Parliament Panel Recommends Big Change",
+    "summary": "This recommendation has been made to ensure the safety of women and minors.",
+    "image": "https://c.ndtvimg.com/2026-03/e6lnmt2g_kyc_625x300_26_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 18:06:20 +0530",
-    "link": "https://www.ndtv.com/health/6-seeds-to-naturally-support-your-hormones-skin-sleep-bones-and-energy-11269240#publisher=newsstand"
+    "pubDate": "Thu, 26 Mar 2026 19:40:50 +0530",
+    "link": "https://www.ndtv.com/india-news/mandatory-kyc-for-social-media-instagram-facebook-whatsapp-youtube-11270463#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/kim-jong-un-north-korea-just-in-case-enemies-appear-belarus-president-gifts-rifle-to-kim-jong-un-11270329#publisher=newsstand",
+    "category": "india",
+    "title": "\"Just In Case Enemies Appear\": Belarus President Gifts Rifle To Kim Jong Un",
+    "summary": "Kim Jong Un said North Korea opposes \"illegitimate pressure on Belarus from the West\".",
+    "image": "https://c.ndtvimg.com/2026-03/ajcvsvqg_kim-jong-gun_625x300_26_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 19:39:02 +0530",
+    "link": "https://www.ndtv.com/world-news/kim-jong-un-north-korea-just-in-case-enemies-appear-belarus-president-gifts-rifle-to-kim-jong-un-11270329#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/vadodara-to-raise-rs-200-cr-from-municipal-bonds-by-july/articleshow/129827249.cms",
+    "category": "finance",
+    "title": "Vadodara to raise Rs 200 cr from municipal bonds by July",
+    "summary": "The Vadodara civic body is aiming to raise another Rs 200 crore through the municipal bonds route by July this year, people familiar with the development have said.",
+    "image": "https://img.etimg.com/photo/msid-129827249,imgsize-48396.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 19:38:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/vadodara-to-raise-rs-200-cr-from-municipal-bonds-by-july/articleshow/129827249.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/ahead-of-elections-illicit-inducements-worth-over-rs-400-crore-seized-poll-body-11270392#publisher=newsstand",
+    "category": "india",
+    "title": "Ahead Of Elections, Illicit Inducements Worth Over Rs 400 Crore Seized: Poll Body",
+    "summary": "District grievance committees have also been set up to address any grievances.",
+    "image": "https://c.ndtvimg.com/2024-04/pbv1f08_election-generic_625x300_19_April_24.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 19:34:55 +0530",
+    "link": "https://www.ndtv.com/india-news/ahead-of-elections-illicit-inducements-worth-over-rs-400-crore-seized-poll-body-11270392#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cbse-10th-result-2026-date-cbse-likely-to-release-class-10-exam-2026-result-in-mid-april-report-says-11270287#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE Likely To Release Class 10 Exam 2026 Result In Mid-April, Report Says",
+    "summary": "CBSE 10th Result 2026: The CBSE Class 10 board examinations concluded on March 11.",
+    "image": "https://c.ndtvimg.com/2026-03/k7l26fgs_cbse-board-exams-2026_625x300_06_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 19:28:29 +0530",
+    "link": "https://www.ndtv.com/education/cbse-10th-result-2026-date-cbse-likely-to-release-class-10-exam-2026-result-in-mid-april-report-says-11270287#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/led-by-a-corgi-7-dogs-in-china-escape-thieves-and-trek-17-km-home-together-band-of-little-brothers-11258128#publisher=newsstand",
+    "category": "india",
+    "title": "China's Viral '7 Stolen Dogs' Story Turns Out To Be Fake. Here's What Really Happened",
+    "summary": "The group also included Golden Retrievers, Labradors and Pekinese dogs.",
+    "image": "https://c.ndtvimg.com/2026-03/9s60vjbc_dog-escape-in-china_625x300_24_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 19:23:29 +0530",
+    "link": "https://www.ndtv.com/offbeat/led-by-a-corgi-7-dogs-in-china-escape-thieves-and-trek-17-km-home-together-band-of-little-brothers-11258128#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/foreign-ministry-secretary-periasamy-kumaran-appointed-as-indias-envoy-to-uk-11270313#publisher=newsstand",
+    "category": "india",
+    "title": "Foreign Ministry Secretary P Kumaran Appointed As India's Envoy To UK",
+    "summary": "Periasamy Kumaran is expected to take up the assignment shortly.",
+    "image": "https://c.ndtvimg.com/2026-03/1lmjh9_periasamy-kumaran_625x300_26_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 19:22:19 +0530",
+    "link": "https://www.ndtv.com/india-news/foreign-ministry-secretary-periasamy-kumaran-appointed-as-indias-envoy-to-uk-11270313#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-drops-200-points-nasdaq-falls-1-as-mideast-de-escalation-uncertainty-weighs/articleshow/129826615.cms",
+    "category": "finance",
+    "title": "US stocks today: US stocks open lower with no Iran peace breakthrough in sight",
+    "summary": "Wall Street stocks opened lower as oil prices surged, fueled by escalating tensions between the US and Iran and a lack of immediate peace prospects.  Investors are concerned about the economic impact of high oil prices, while memory chip manufacturer",
+    "image": "https://img.etimg.com/photo/msid-129826615,imgsize-384476.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 19:04:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-drops-200-points-nasdaq-falls-1-as-mideast-de-escalation-uncertainty-weighs/articleshow/129826615.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-today-yellow-metal-crashes-rs-4300/10g-silver-slides-rs-13700-as-mcx-reopens-post-ram-navami/articleshow/129824807.cms",
@@ -102,42 +152,12 @@
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-ai-tech-stock-price-news/liveblog/129825084.cms",
     "category": "finance",
-    "title": "US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures trade lower amid confusion over Mideast peace talks",
+    "title": "US Stock Market Today | Dow Jones | Nasdaq Live: Drugmaker shares jump 68% on eye drug success; Dow turns green amid Ira",
     "summary": "",
     "image": "https://img.etimg.com/photo/msid-129825084,imgsize-203294.cms",
     "source": "ET",
     "pubDate": "Thu, 26 Mar 2026 18:05:33 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-ai-tech-stock-price-news/liveblog/129825084.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/health/common-diabetes-drug-works-by-acting-on-brain-study-shows-11269651#publisher=newsstand",
-    "category": "india",
-    "title": "Common Diabetes Drug Metformin Works By Acting On Brain: Study",
-    "summary": "While diabetes medications are not considered as targeting the brain, the study, published in the journal Science Advances, shows that metformin has been influencing brain pathways all along, the researchers said.",
-    "image": "https://c.ndtvimg.com/2026-03/n0b5coo8_painkiller-pill-medicine_625x300_18_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 18:05:29 +0530",
-    "link": "https://www.ndtv.com/health/common-diabetes-drug-works-by-acting-on-brain-study-shows-11269651#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/karnataka-news/karnataka-professor-proposes-to-student-in-front-of-class-beaten-on-campus-sri-siddhartha-medical-college-11269136#publisher=newsstand",
-    "category": "india",
-    "title": "Karnataka Professor Proposes To Student In Front Of Class, Beaten On Campus",
-    "summary": "Professor Abdul of Sri Siddhartha Medical College (SSMC) has been suspended.",
-    "image": "https://c.ndtvimg.com/2026-03/d87knmpc_karnataka-professor-proposes-to-student_625x300_26_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 18:01:06 +0530",
-    "link": "https://www.ndtv.com/karnataka-news/karnataka-professor-proposes-to-student-in-front-of-class-beaten-on-campus-sri-siddhartha-medical-college-11269136#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/can-pregnancy-cure-endometriosis-expert-busts-the-myth-that-leads-to-treatment-delays-11269239#publisher=newsstand",
-    "category": "india",
-    "title": "Can Pregnancy Cure Endometriosis? Expert Busts The Myth That Leads To Treatment Delays",
-    "summary": "Endometriosis is a very complex issue",
-    "image": "https://c.ndtvimg.com/2026-03/1b7h2akk_pcos_625x300_25_March_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 18:00:59 +0530",
-    "link": "https://www.ndtv.com/health/can-pregnancy-cure-endometriosis-expert-busts-the-myth-that-leads-to-treatment-delays-11269239#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-daniel-kahneman-an-investment-said-to-have-an-80-chance-of-success-sounds-far-more-attractive-than-one-with-a-20-chance-of-failure-the-mind-cant-easily-recognise-that-they-are-the-same-/articleshow/129817545.cms",
@@ -160,54 +180,64 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/my-portfolio-is-down-too-ace-investor-vijay-kedia-says-volatile-times-build-seasoned-long-term-investors/articleshow/129824708.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-rout-wipes-rs-33-lakh-cr-since-iran-war-vijay-kedias-real-lessons-on-paper-losses/articleshow/129824092.cms",
-    "category": "finance",
-    "title": "Market rout wipes Rs 33 lakh cr since Iran War: Vijay Kedia's real lessons on paper losses",
-    "summary": "Vijay Kedia urges investors to stay calm amid market volatility, noting that losses are paper until realised. The market capitalisation of all BSE-listed firms has dropped by Rs 32.7 lakh crore since the Iran conflict.  Kedia suggests long-term disci",
-    "image": "https://img.etimg.com/photo/msid-129824092,imgsize-33854.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 17:31:15 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-rout-wipes-rs-33-lakh-cr-since-iran-war-vijay-kedias-real-lessons-on-paper-losses/articleshow/129824092.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1529214.html",
+    "category": "sports",
+    "title": "Mumbai to face CSK and RCB twice as IPL releases full league stage schedule",
+    "summary": "BCCI change a rule to help facilitate these high-profile clashes",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414891.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Mar 2026 14:52:02 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529214.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/big-tech-giants-to-spend-more-on-capex-than-payouts-in-2026-amid-ai-boom-hsbc/articleshow/129822844.cms",
-    "category": "finance",
-    "title": "Big Tech giants to spend more on capex than payouts in 2026 amid AI boom: HSBC",
-    "summary": "HSBC predicts big tech companies will boost capital expenditure as AI enters a \"megacycle.\" Despite market concerns, these firms are expected to generate substantial operating cash flow, with a significant portion allocated to capex rather than share",
-    "image": "https://img.etimg.com/photo/msid-129822844,imgsize-711979.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 16:44:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/big-tech-giants-to-spend-more-on-capex-than-payouts-in-2026-amid-ai-boom-hsbc/articleshow/129822844.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/crude-oil-at-120-could-drag-earnings-growth-to-11-from-16-ubs-flags-10-stocks-to-weather-oil-shock/articleshow/129821553.cms",
-    "category": "finance",
-    "title": "Crude oil at $120 could drag earnings growth to 11% from 16%: UBS flags 10 stocks to weather oil shock",
-    "summary": "Geopolitical tensions in the Middle East are creating headwinds for India's economy. Rising oil prices and market volatility are causing uncertainty about interest rates. This situation poses risks to corporate profits and market valuations. India's ",
-    "image": "https://img.etimg.com/photo/msid-129821553,imgsize-389670.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 16:14:02 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/crude-oil-at-120-could-drag-earnings-growth-to-11-from-16-ubs-flags-10-stocks-to-weather-oil-shock/articleshow/129821553.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/market-moguls/attracting-fdi-the-reform-imperative/articleshow/129821243.cms",
-    "category": "finance",
-    "title": "Attracting FDI: The Reform Imperative",
-    "summary": "India faces an opportune moment to attract substantial Foreign Direct Investment (FDI) amidst global capital shifts. While reforms for Foreign Portfolio Investments (FPI) have progressed, a sharper focus on simplifying FDI regulations and execution p",
-    "image": "https://img.etimg.com/photo/msid-129821243,imgsize-20420.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 15:49:38 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/market-moguls/attracting-fdi-the-reform-imperative/articleshow/129821243.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce8j51r66rxo#0",
+    "id": "https://www.bbc.com/sport/olympics/articles/cdj7dgvlj0no#0",
     "category": "global",
-    "title": "Far-fetched to think McSweeney faked phone theft, says PM",
-    "summary": "Messages relating to Lord Peter Mandelson's appointment as US ambassador could have been lost in the alleged theft.",
+    "title": "Olympic women's sport limited to biological females",
+    "summary": "The women's category of Olympic sports will be limited to biological females from 2028, says the International Olympic Committee.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 13:04:57 GMT",
-    "link": "https://www.bbc.com/news/articles/ce8j51r66rxo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 26 Mar 2026 14:29:18 GMT",
+    "link": "https://www.bbc.com/sport/olympics/articles/cdj7dgvlj0no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529208.html",
+    "category": "sports",
+    "title": "Amelia Kerr wins big at New Zealand Cricket awards",
+    "summary": "Jacob Duffy claims Sir Richard Hadlee medal while Martin Snedden wins Bert Sutcliffe Medal",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/389500/389529.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Mar 2026 14:17:22 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529208.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c6246wwl775o#0",
+    "category": "global",
+    "title": "Number of pupils missing more than half of school hits another record high",
+    "summary": "School absence in England has improved overall, but those with additional needs are missing more school.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Mar 2026 14:15:02 GMT",
+    "link": "https://www.bbc.com/news/articles/c6246wwl775o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529211.html",
+    "category": "sports",
+    "title": "Walter: Having Ben Sears fit to play an entire series is a win",
+    "summary": "NZ's head coach Rob Walter reflects on the takeaways from the five-match T20I series against SA",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/398700/398797.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Mar 2026 13:19:05 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529211.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529219.html",
+    "category": "sports",
+    "title": "IPL \u0928\u0947 \u092a\u0942\u0930\u0947 \u0932\u0940\u0917 \u091a\u0930\u0923 \u0915\u093e \u0936\u0947\u0921\u094d\u092f\u0942\u0932 \u091c\u093e\u0930\u0940 \u0915\u093f\u092f\u093e",
+    "summary": "\u0927\u0930\u094d\u092e\u0936\u093e\u0932\u093e \u0914\u0930 \u0930\u093e\u092f\u092a\u0941\u0930 \u092e\u0947\u0902 \u0916\u0947\u0932\u0947 \u091c\u093e\u090f\u0902\u0917\u0947 \u0915\u0908 \u092e\u0941\u0915\u093c\u093e\u092c\u0932\u0947",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414891.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Mar 2026 13:13:35 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529219.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/crm1zmj1y8no#0",
@@ -230,34 +260,14 @@
     "link": "https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529214.html",
-    "category": "sports",
-    "title": "IPL announces full league stage schedule",
-    "summary": "Dharamsala and Raipur among venues returning to the calendar",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414891.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 26 Mar 2026 12:56:24 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529214.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cvg0n9z3jlvo#0",
     "category": "global",
     "title": "UK now 'ready' to seize Russian shadow fleet ships, Healey says",
-    "summary": "Forces are now approved to board sanctioned vessels if required, after ministers identified a legal basis in January.",
+    "summary": "Forces can now board sanctioned vessels if required, after ministers identified a legal basis in January.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Thu, 26 Mar 2026 12:11:03 GMT",
     "link": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529208.html",
-    "category": "sports",
-    "title": "Amelia Kerr wins big at New Zealand Cricket awards",
-    "summary": "Jacob Duffy claims Sir Richard Hadlee medal while Martin Snedden wins Bert Sutcliffe Medal",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/389500/389529.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 26 Mar 2026 12:07:46 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529208.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529209.html",
@@ -328,16 +338,6 @@
     "source": "BBC",
     "pubDate": "Thu, 26 Mar 2026 06:12:02 GMT",
     "link": "https://www.bbc.com/news/articles/cx23nk8l40zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn08x9lw0pzo#0",
-    "category": "global",
-    "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
-    "summary": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 00:41:16 GMT",
-    "link": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
