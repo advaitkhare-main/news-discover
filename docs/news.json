@@ -20,16 +20,6 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://www.ndtv.com/india-news/gujarat-man-kills-widow-who-used-to-tie-him-rakhi-then-joins-search-for-her-11271473#publisher=newsstand",
-    "category": "india",
-    "title": "Gujarat Man Kills Widow Who Used To Tie Him Rakhi, Then Joins Search For Her",
-    "summary": "Initial findings suggest the cause of death was strangulation.",
-    "image": "https://c.ndtvimg.com/2025-06/ecv6cvdc_police-generic-image_625x300_27_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 23:43:06 +0530",
-    "link": "https://www.ndtv.com/india-news/gujarat-man-kills-widow-who-used-to-tie-him-rakhi-then-joins-search-for-her-11271473#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-ftse-russell-to-align-free-float-rules-for-uk-foreign-firms/articleshow/129832095.cms",
     "category": "finance",
     "title": "Global Stocks: FTSE Russell to align free-float rules for UK, foreign firms",
@@ -50,14 +40,24 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-meta-shares-drop-7-on-fears-us-verdicts-open-door-to-deluge-of-lawsuits/articleshow/129831258.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cq6jgg0jzvlo#0",
+    "id": "https://www.bbc.com/news/articles/clyerj082p1o#0",
     "category": "global",
-    "title": "Champion of MasterChef: The Professionals revealed",
-    "summary": "The winner of the BBC One show beat 31 fellow contestants to take home the crown.",
+    "title": "Olivia Dean's streak continues as she wins big at Mobo Awards",
+    "summary": "The pop star secured three of the biggest awards of the night as the show celebrated its 30th anniversary.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 21:40:20 GMT",
-    "link": "https://www.bbc.com/news/articles/cq6jgg0jzvlo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 26 Mar 2026 22:44:17 GMT",
+    "link": "https://www.bbc.com/news/articles/clyerj082p1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c1d936n7445o#0",
+    "category": "global",
+    "title": "Under-5s should not be on screens for more than an hour a day, parents told in new government advice",
+    "summary": "New government guidance suggests avoiding fast-paced children's content and sharing screen time where possible.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Mar 2026 22:32:58 GMT",
+    "link": "https://www.bbc.com/news/articles/c1d936n7445o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/chennai-petroleum-announces-rs-8-per-share-dividend-sets-april-2-as-record-date-check-dividend-yield/articleshow/129829246.cms",
@@ -68,16 +68,6 @@
     "source": "ET",
     "pubDate": "Thu, 26 Mar 2026 21:23:43 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/chennai-petroleum-announces-rs-8-per-share-dividend-sets-april-2-as-record-date-check-dividend-yield/articleshow/129829246.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c3w38qvz195o#0",
-    "category": "global",
-    "title": "More than 13 million living in poverty, new figures show",
-    "summary": "The level rose slightly on the previous year while the number of children living in poverty has remained steady.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 21:14:09 GMT",
-    "link": "https://www.bbc.com/news/articles/c3w38qvz195o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/129828925.cms",
@@ -280,6 +270,26 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
+    "id": "https://www.ndtv.com/world-news/prime-minister-modi-to-attend-g7-summit-in-france-in-june-11271109#publisher=newsstand",
+    "category": "india",
+    "title": "PM Modi To Attend G7 Summit In France From June 15 To 17",
+    "summary": "French President Emmanuel Macron paid an official visit to India from February 17 to 19.",
+    "image": "https://c.ndtvimg.com/2023-07/cq7enrbg_modi-macron_650x400_14_July_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 04:20:46 +0530",
+    "link": "https://www.ndtv.com/world-news/prime-minister-modi-to-attend-g7-summit-in-france-in-june-11271109#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/donald-trump-on-taking-control-of-irans-oil-amid-middle-east-tensions-11271965#publisher=newsstand",
+    "category": "india",
+    "title": "\"It's An Option\": Trump On Taking Control Of Iran's Oil Amid Tensions",
+    "summary": "US President Donald Trump said that taking control of Iran's oil supply remains \"an option\".",
+    "image": "https://c.ndtvimg.com/2026-03/thiqcmqc_donald-trump_625x300_16_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 04:13:25 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trump-on-taking-control-of-irans-oil-amid-middle-east-tensions-11271965#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/iran-war-live-news-trump-pauses-strikes-on-energy-plants-in-iran-for-10-days-11271770#publisher=newsstand",
     "category": "india",
     "title": "\"Talks Going Well\": Trump Extends Pause On Iran Power Plant Strikes",
@@ -368,16 +378,6 @@
     "source": "ET",
     "pubDate": "Fri, 27 Mar 2026 00:03:09 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-apple-plans-to-open-siri-to-rival-ai-services-bloomberg-news-reports/articleshow/129832615.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/prime-minister-modi-to-attend-g7-summit-in-france-in-june-11271109#publisher=newsstand",
-    "category": "india",
-    "title": "PM Modi To Attend G7 Summit In France Frpm June 15 To 17",
-    "summary": "French President Emmanuel Macron paid an official visit to India from February 17 to 19.",
-    "image": "https://c.ndtvimg.com/2023-07/cq7enrbg_modi-macron_650x400_14_July_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 00:00:28 +0530",
-    "link": "https://www.ndtv.com/world-news/prime-minister-modi-to-attend-g7-summit-in-france-in-june-11271109#publisher=newsstand"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
