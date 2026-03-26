@@ -12,7 +12,7 @@
   {
     "id": "https://www.bbc.com/news/articles/cvg0n9z3jlvo#0",
     "category": "global",
-    "title": "British forces preparing to board Russian shadow fleet ships in UK waters",
+    "title": "British forces will be able to board Russian shadow fleet ships in UK waters",
     "summary": "The move will \"starve Putin's war machine\", Starmer says as he arrives in Finland for a military summit.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -120,6 +120,126 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/2008-like-crisis-ahead-jpmorgan-launches-new-way-to-bet-against-debt-of-microsoft-meta-google-what-this-means/articleshow/129819241.cms",
+    "category": "finance",
+    "title": "2008-like crisis ahead? JPMorgan launches new way to bet against debt of Microsoft, Meta, Google; what this means",
+    "summary": "Investor anxiety is rising as oil prices surge amid the US-Iran conflict, while JPMorgan Chase has launched new credit default swaps allowing bets against the debt of major tech giants including Alphabet, Amazon, Meta, Microsoft and Oracle. The move ",
+    "image": "https://img.etimg.com/photo/msid-129819241,imgsize-1576112.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 13:50:19 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/2008-like-crisis-ahead-jpmorgan-launches-new-way-to-bet-against-debt-of-microsoft-meta-google-what-this-means/articleshow/129819241.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/how-do-you-stay-connected-nri-feeling-guilty-for-staying-away-from-parents-for-10-years-11268047#publisher=newsstand",
+    "category": "india",
+    "title": "'How Do You Stay Connected?' NRI Feeling 'Guilty' For Staying Away From Parents For 10 Years",
+    "summary": "A man living abroad for over 10 years shares concerns over distant relationships with his parents.",
+    "image": "https://c.ndtvimg.com/2026-01/9p2tgvnk_as_625x300_03_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 12:54:12 +0530",
+    "link": "https://www.ndtv.com/offbeat/how-do-you-stay-connected-nri-feeling-guilty-for-staying-away-from-parents-for-10-years-11268047#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/anthropic-report-reveals-indias-ai-use-surge-as-skilled-workers-gain-edge-11268592#publisher=newsstand",
+    "category": "india",
+    "title": "AI Disruption Hits, But India's Skilled Users Cash In: Anthropic Report",
+    "summary": "AI is widening the gap between workers who know how to use it and those catching up.",
+    "image": "https://c.ndtvimg.com/2026-03/oegvq1uc_indians-are-using-claude-for-coding-and-cv-building-study_625x300_26_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 12:50:42 +0530",
+    "link": "https://www.ndtv.com/india-news/anthropic-report-reveals-indias-ai-use-surge-as-skilled-workers-gain-edge-11268592#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-troop-movements-fan-fears-of-a-risky-ground-attack-on-iran-11268199#publisher=newsstand",
+    "category": "india",
+    "title": "US Troop Movements Fan Fears Of A Risky Ground Attack On Iran",
+    "summary": "If the US decides to seize Kharg Island, it could choke off Tehran's primary source of revenue.",
+    "image": "https://c.ndtvimg.com/2026-03/3bcfk3ug_us-troops-82nd-airborne-division-afp_625x300_25_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 12:48:02 +0530",
+    "link": "https://www.ndtv.com/world-news/us-troop-movements-fan-fears-of-a-risky-ground-attack-on-iran-11268199#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/feature/indian-origin-teen-rejects-rs-2-8-crore-school-dropout-offer-now-runs-ai-startup-to-help-farmers-11268564#publisher=newsstand",
+    "category": "india",
+    "title": "Indian-Origin Teen Rejects Rs 2.8 Crore School Dropout Offer, Now Runs AI Startup To Help Farmers",
+    "summary": "Evion provides an AI-powered crop analysis tool designed to help small and mid-sized farmers.",
+    "image": "https://c.ndtvimg.com/2026-03/3f5s7rs8_rudrojas-kunvar_625x300_26_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 12:46:41 +0530",
+    "link": "https://www.ndtv.com/feature/indian-origin-teen-rejects-rs-2-8-crore-school-dropout-offer-now-runs-ai-startup-to-help-farmers-11268564#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/inside-hell-on-earth-where-former-venezuelan-president-nicolas-maduro-has-been-living-for-80-days-11268011#publisher=newsstand",
+    "category": "india",
+    "title": "Inside \"Hell On Earth\", Where Nicolas Maduro Has Been Living For 80 Days",
+    "summary": "Nicolas Maduro and his wife were picked up from their Caracas home and brought to America.",
+    "image": "https://c.ndtvimg.com/2026-01/g300kn8o_nicolas-maduro-trial_625x300_06_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 12:44:48 +0530",
+    "link": "https://www.ndtv.com/world-news/inside-hell-on-earth-where-former-venezuelan-president-nicolas-maduro-has-been-living-for-80-days-11268011#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/brigade-enterprises-eyes-rs-1100-cr-revenue-from-new-housing-project-in-bengaluru/articleshow/129818147.cms",
+    "category": "finance",
+    "title": "Brigade Enterprises eyes Rs 1,100 cr revenue from new housing project in Bengaluru",
+    "summary": "Brigade Enterprises Ltd has launched 'Brigade Belvedere', a 10.75-acre residential development in East Bengaluru. The initial phase, featuring 773 premium units, is projected to generate over Rs 1,100 crore in revenue. This marks a significant new ho",
+    "image": "https://img.etimg.com/photo/msid-129818147,imgsize-64222.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 12:40:07 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/brigade-enterprises-eyes-rs-1100-cr-revenue-from-new-housing-project-in-bengaluru/articleshow/129818147.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/bihar-board-10th-result-2026-soon-know-when-toppers-verification-will-begin-11268591#publisher=newsstand",
+    "category": "india",
+    "title": "Bihar Board 10th Result 2026 Soon? Know When Toppers' Verification Will Begin",
+    "summary": "Bihar Board 10th Result 2026 Soon: The BSEB is preparing to begin the toppers' verification process soon.",
+    "image": "https://c.ndtvimg.com/2019-04/ta1dvmko_students_625x300_04_April_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 12:39:31 +0530",
+    "link": "https://www.ndtv.com/education/bihar-board-10th-result-2026-soon-know-when-toppers-verification-will-begin-11268591#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/which-skin-types-need-peptide-based-formulas-the-most-dermatologist-explains-11254840#publisher=newsstand",
+    "category": "india",
+    "title": "Which Skin Types Need Peptide-Based Formulas The Most? Dermatologist Explains",
+    "summary": "Peptide-based creams aren't for everyone. Image for representation purposes only",
+    "image": "https://c.ndtvimg.com/2026-03/kuf11kes_peptides_625x300_23_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 12:38:52 +0530",
+    "link": "https://www.ndtv.com/health/which-skin-types-need-peptide-based-formulas-the-most-dermatologist-explains-11254840#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/iran-war-india-taps-argentina-us-for-lpg-amid-iran-war-does-the-math-work-out-11268494#publisher=newsstand",
+    "category": "india",
+    "title": "India Taps Argentina, US For LPG Amid Iran War: Does The Math Work Out",
+    "summary": "In the first quarter of 2026 alone, Argentina has shipped about 50,000 tonnes of LPG to India.",
+    "image": "https://c.ndtvimg.com/2026-03/k0h7qhrc_lpg_625x300_21_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 12:38:31 +0530",
+    "link": "https://www.ndtv.com/india-news/iran-war-india-taps-argentina-us-for-lpg-amid-iran-war-does-the-math-work-out-11268494#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-mideast-worries-push-japans-weekly-foreign-equity-sales-to-18-month-high/articleshow/129818073.cms",
+    "category": "finance",
+    "title": "Global Markets | Mideast worries push Japan's weekly foreign equity sales to 18-month high",
+    "summary": "Japanese stocks experienced their largest foreign outflows in 18 months, totaling 2.51 trillion yen, as Middle East tensions fueled inflation concerns and potential Bank of Japan rate hikes. Despite this, foreign investors bought Japanese bonds, whil",
+    "image": "https://img.etimg.com/photo/msid-129818073,imgsize-149441.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 12:36:50 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-mideast-worries-push-japans-weekly-foreign-equity-sales-to-18-month-high/articleshow/129818073.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/bharat-pet-files-draft-papers-for-rs-760-crore-ipo-heres-everything-you-need-to-know/articleshow/129818056.cms",
+    "category": "finance",
+    "title": "Bharat PET files draft papers for Rs 760-crore IPO. Here\u2019s everything you need to know",
+    "summary": "Bharat PET has filed its DRHP with Sebi for a Rs 760-crore IPO, including a fresh issue and OFS. The issue comprises a fresh issue of equity shares worth up to Rs 120 crore and an offer for sale (OFS) of up to Rs 640 crore by promoter selling shareho",
+    "image": "https://img.etimg.com/photo/msid-129818056,imgsize-58932.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 12:35:53 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/bharat-pet-files-draft-papers-for-rs-760-crore-ipo-heres-everything-you-need-to-know/articleshow/129818056.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/treason-nobel-laureate-paul-krugman-claims-people-close-to-trump-behind-580-mn-mystery-bets-before-post-on-us-iran-talks/articleshow/129817605.cms",
     "category": "finance",
     "title": "Treason! Nobel laureate Paul Krugman claims people close to Trump behind $580-mn mystery bets before post on US-Iran tal",
@@ -160,134 +280,24 @@
     "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-nears-71k-fridays-18-6b-options-expiry-in-focus-exchange-supply-at-7-year-low/articleshow/129816609.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-selloff-10-stocks-plunge-up-to-nearly-70-in-fy26-do-you-own-any/slideshow/129816980.cms",
-    "category": "finance",
-    "title": "Smallcap selloff! 10 stocks plunge up to nearly 70% in FY26. Do you own any?",
-    "summary": "Smallcap stocks witnessed sharp erosion in FY26 amid global uncertainties, valuation concerns, and risk-off sentiment. Rising geopolitical tensions, tariff worries, and higher crude prices triggered heavy selling, with several stocks seeing steep dec",
-    "image": "https://img.etimg.com/photo/msid-129816475,imgsize-4748.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 10:58:27 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-selloff-10-stocks-plunge-up-to-nearly-70-in-fy26-do-you-own-any/slideshow/129816980.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-update-japans-nikkei-gains-on-middle-east-optimism-softbank-jumps-6/articleshow/129816197.cms",
-    "category": "finance",
-    "title": "Global Market Update | Japan's Nikkei gains on Middle East optimism; SoftBank jumps 6%",
-    "summary": "Japan's Nikkei share average rose on Thursday, boosted by SoftBank's surge following a significant jump in its chip-unit Arm Holdings' shares. Cautious optimism about easing Middle East tensions contributed to the gains, though strategists noted the ",
-    "image": "https://img.etimg.com/photo/msid-129816197,imgsize-10082.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 10:34:45 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-update-japans-nikkei-gains-on-middle-east-optimism-softbank-jumps-6/articleshow/129816197.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-slips-over-100-pts-on-iran-us-uncertainty-rising-oil-prices-will-sensex-nifty-snap-2-day-fall-on-friday/articleshow/129816179.cms",
-    "category": "finance",
-    "title": "Gift Nifty slips over 100 pts on Iran-US uncertainty, rising oil prices. Will Sensex, Nifty snap 2-day rally on Friday?",
-    "summary": "Gift Nifty dropped over 100 points, indicating a weak start for Indian markets around 23,170. The fall comes as oil prices rebound amid uncertainty over Middle East tensions, with Iran still reviewing a US proposal to end the conflict.",
-    "image": "https://img.etimg.com/photo/msid-129816179,imgsize-45154.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 10:32:57 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-slips-over-100-pts-on-iran-us-uncertainty-rising-oil-prices-will-sensex-nifty-snap-2-day-fall-on-friday/articleshow/129816179.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-news-strait-of-hormuz-open-for-friend-india-iran-amid-global-oil-crisis-11268022#publisher=newsstand",
-    "category": "india",
-    "title": "India, 5 Others On Iran's \"Friendly Nation\" List For Safe Hormuz Passage",
-    "summary": "Earlier this week, Iran stopped a Pakistan-bound container ship from crossing the Strait of Hormuz",
-    "image": "https://c.ndtvimg.com/2026-03/6mff96dc_iran-araghchi_625x300_19_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 10:31:36 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-news-strait-of-hormuz-open-for-friend-india-iran-amid-global-oil-crisis-11268022#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/andhra-bus-fire-8-dead-after-bus-collided-with-lorry-and-caught-fire-in-andhra-pradesh-11267774#publisher=newsstand",
-    "category": "india",
-    "title": "13 Dead After Bus Collided With Lorry And Caught Fire In Andhra Pradesh",
-    "summary": "The accident occurred around 6:00 am today",
-    "image": "https://c.ndtvimg.com/2026-03/vsg4ff4_bus-accident_625x300_26_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 10:31:32 +0530",
-    "link": "https://www.ndtv.com/india-news/andhra-bus-fire-8-dead-after-bus-collided-with-lorry-and-caught-fire-in-andhra-pradesh-11267774#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stock-markets-to-remain-shut-on-3-days-in-2-weeks-nithin-kamath-says-best-time-to-take-a-break-after-the-mental-toll/articleshow/129816115.cms",
-    "category": "finance",
-    "title": "Stock markets to remain shut on 3 days in 2 weeks; Nithin Kamath says best time to take a break after the mental toll",
-    "summary": "Indian stock markets will remain shut for three days over the next two weeks due to key holidays. Amid heightened global volatility, Zerodha CEO Nithin Kamath advised traders to prioritise capital preservation, reduce risk and take a break, highlight",
-    "image": "https://img.etimg.com/photo/msid-129816115,imgsize-2291225.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 10:29:37 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-markets-to-remain-shut-on-3-days-in-2-weeks-nithin-kamath-says-best-time-to-take-a-break-after-the-mental-toll/articleshow/129816115.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/meta-dichotomy-invites-ire-stock-options-to-executives-lay-off-workers-facebook-11267964#publisher=newsstand",
-    "category": "india",
-    "title": "Meta's Monkey Balancing: Executives Given Stock Options, Workers Laid Off",
-    "summary": "Meta has defended the move, saying the incentives are designed to retain leadership talent.",
-    "image": "https://c.ndtvimg.com/2026-03/b7emokpo_meta_625x300_14_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 10:27:44 +0530",
-    "link": "https://www.ndtv.com/world-news/meta-dichotomy-invites-ire-stock-options-to-executives-lay-off-workers-facebook-11267964#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/muskmelon-vs-watermelon-health-benefits-and-nutritional-value-for-summers-explained-11266477#publisher=newsstand",
-    "category": "india",
-    "title": "Muskmelon vs Watermelon: Health Benefits And Nutritional Value For Summers Explained",
-    "summary": "Muskmelons and watermelons are popular summer fruits ( image for representation purposes only)",
-    "image": "https://c.ndtvimg.com/2026-03/75u9c3g4_muskmelon-and-watermelon_625x300_25_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 10:25:54 +0530",
-    "link": "https://www.ndtv.com/health/muskmelon-vs-watermelon-health-benefits-and-nutritional-value-for-summers-explained-11266477#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-troops-relocate-to-hotels-after-bases-attacked-in-middle-east-report-11268089#publisher=newsstand",
-    "category": "india",
-    "title": "US Troops Relocate To Hotels After Bases Attacked In Middle East: Report",
-    "summary": "Satellite image from Planet Labs PBC show the geodesic dome at the Al Udeid Air Base",
-    "image": "https://c.ndtvimg.com/2025-07/cu43hfrg_geodesic-dome-attacked_625x300_12_July_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 10:16:23 +0530",
-    "link": "https://www.ndtv.com/world-news/us-troops-relocate-to-hotels-after-bases-attacked-in-middle-east-report-11268089#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/how-do-you-stay-connected-nri-feeling-guilty-for-staying-away-from-parents-for-10-years-11268047#publisher=newsstand",
-    "category": "india",
-    "title": "'How Do You Stay Connected?' NRI feeling 'Guilty' For Staying Away From Parents For 10 Years",
-    "summary": "A man living abroad for over 10 years shares concerns over distant relationships with his parents.",
-    "image": "https://c.ndtvimg.com/2026-01/9p2tgvnk_as_625x300_03_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 10:05:03 +0530",
-    "link": "https://www.ndtv.com/offbeat/how-do-you-stay-connected-nri-feeling-guilty-for-staying-away-from-parents-for-10-years-11268047#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/bangalore-news/bengaluru-driver-rams-autorickshaw-into-woman-dumps-body-on-way-to-hospital-11267645#publisher=newsstand",
-    "category": "india",
-    "title": "Bengaluru Driver Rams Autorickshaw Into Woman, Dumps Body On Way To Hospital",
-    "summary": "With the help of CCTV footage and technical evidence, the accused was traced",
-    "image": "https://c.ndtvimg.com/2025-04/1jsa40ho_delhi-auto-generic-_625x300_08_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 10:03:47 +0530",
-    "link": "https://www.ndtv.com/bangalore-news/bengaluru-driver-rams-autorickshaw-into-woman-dumps-body-on-way-to-hospital-11267645#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-news-did-china-prepare-early-for-trumps-war-the-clue-lies-in-its-oil-strategy-11268028#publisher=newsstand",
-    "category": "india",
-    "title": "Did China Prepare Early For Iran? The Clue Lies In Its Oil Strategy",
-    "summary": "For OPEC Plus and Western policymakers, this is a new complication",
-    "image": "https://i.ndtvimg.com/i/2016-05/oil-barrels-istock_650x400_81464153876.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 10:01:13 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-news-did-china-prepare-early-for-trumps-war-the-clue-lies-in-its-oil-strategy-11268028#publisher=newsstand"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c3w3eg4n9zwo#0",
     "category": "global",
-    "title": "National Savings and Investments bank set to pay millions to customers in compensation",
+    "title": "National Savings and Investments bank set to pay millions to customers over misplaced funds",
     "summary": "The government-backed bank has been accused of a series of errors, including not paying bereaved families money that was rightfully theirs.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 06:53:59 GMT",
+    "pubDate": "Thu, 26 Mar 2026 08:33:25 GMT",
     "link": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx235y7v100o#0",
+    "category": "global",
+    "title": "Men released on bail over Jewish charity ambulance arson attack",
+    "summary": "Four Jewish charity-owned ambulances were set alight in north London on Monday.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Mar 2026 08:25:57 GMT",
+    "link": "https://www.bbc.com/news/articles/cx235y7v100o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529180.html",
@@ -298,16 +308,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 26 Mar 2026 06:32:38 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529180.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c05dz39m6qgo#0",
-    "category": "global",
-    "title": "'I have no recollection of anything' - Epstein survivor says she was drugged and raped",
-    "summary": "A survivor of Epstein's abuses spoke publicly for the first time to BBC Newsnight about her experience of being raped and drugged by the sex offender.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 06:02:20 GMT",
-    "link": "https://www.bbc.com/news/articles/c05dz39m6qgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c0q90kekw08o#0",
@@ -322,7 +322,7 @@
   {
     "id": "https://www.bbc.com/news/articles/c15d980nyw1o#0",
     "category": "global",
-    "title": "Is Trump any closer to an Iran exit strategy?",
+    "title": "Trump's Iran strategy is to pursue two off-ramps at once",
     "summary": "The White House insists the president is dictating events, but even some Republicans are frustrated by mixed messaging about his war aims.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
