@@ -20,26 +20,6 @@
     "link": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c747x7gz249o#0",
-    "category": "global",
-    "title": "Meta and YouTube found liable in landmark social media addiction trial",
-    "summary": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 25 Mar 2026 22:59:23 GMT",
-    "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cq6j20zp9n6o#0",
-    "category": "global",
-    "title": "Harry Potter TV show trailer: Everything we know so far",
-    "summary": "The HBO reboot, which is due in 2027, is a spin-off from the original books and the film franchise.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 25 Mar 2026 22:01:55 GMT",
-    "link": "https://www.bbc.com/news/articles/cq6j20zp9n6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1529158.html",
     "category": "sports",
     "title": "Selecting the Selector proves tricky as ECB find options thin on the ground",
@@ -48,16 +28,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 25 Mar 2026 21:38:02 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529158.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529072.html",
-    "category": "sports",
-    "title": "Rajasthan Royals sold to consortium of US-based investors for US $1.635 billion",
-    "summary": "Bid included ownership of all of Royals' branded teams: Paarl Royals in SA20, and Barbados Royals in CPL",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/400700/400736.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 25 Mar 2026 20:59:14 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529072.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529163.html",
@@ -90,16 +60,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529159.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529156.html",
-    "category": "sports",
-    "title": "Khawaja replaces Laurie Evans for Rawalpindi Pindiz",
-    "summary": "Meanwhile, Chris Green replaces Max Bryant at Islamabad United",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/323300/323356.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 25 Mar 2026 15:06:40 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529156.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -120,6 +80,106 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-downgrades-india-cuts-nifty-target-and-warns-of-earnings-cut-heres-why/articleshow/129819921.cms",
+    "category": "finance",
+    "title": "Goldman downgrades India, slashes Nifty target and warns of earnings cut. Here's why",
+    "summary": "Global brokerage Goldman Sachs has turned cautious on Indian equities, cutting its Nifty target and warning of an \u201cenergy-shock-led\u201d earnings downgrade cycle. The firm expects higher-for-longer oil prices amid the US-Iran conflict to worsen India\u2019s m",
+    "image": "https://img.etimg.com/photo/msid-129819921,imgsize-46886.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 14:35:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-downgrades-india-cuts-nifty-target-and-warns-of-earnings-cut-heres-why/articleshow/129819921.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gold-drops-2-silver-sheds-over-4-as-traders-assess-iran-us-ceasefire-uncertainty-oil-surge-what-are-experts-saying/articleshow/129819821.cms",
+    "category": "finance",
+    "title": "Gold drops 2%, silver sheds over 4% as traders assess Iran-US ceasefire uncertainty, oil surge. What are experts saying?",
+    "summary": "Gold and silver prices declined sharply amid uncertainty over Iran-US tensions and rising oil prices, which clouded rate cut expectations. While geopolitical risks persist, shifting monetary outlook and elevated crude prices are weighing on bullion. ",
+    "image": "https://img.etimg.com/photo/msid-129819821,imgsize-71788.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 14:27:19 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gold-drops-2-silver-sheds-over-4-as-traders-assess-iran-us-ceasefire-uncertainty-oil-surge-what-are-experts-saying/articleshow/129819821.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-naval-commander-alireza-tangsiri-overseeing-hormuz-blockade-killed-israel-11268873#publisher=newsstand",
+    "category": "india",
+    "title": "Iran Naval Commander Alireza Tangsiri Overseeing Hormuz Blockade Killed: Israel",
+    "summary": "There has been no comment yet from Iran so far.",
+    "image": "https://c.ndtvimg.com/2026-03/ajk41uqg_alireza-tangsiri_625x300_26_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 14:21:50 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-naval-commander-alireza-tangsiri-overseeing-hormuz-blockade-killed-israel-11268873#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/uddhav-thackeray-devendra-fadnavis-eknath-shinde-d-fadnavis-shayari-uddhav-thackerays-reply-and-changing-equations-buzz-11268882#publisher=newsstand",
+    "category": "india",
+    "title": "D Fadnavis' Shayari, Uddhav Thackeray's Reply, And Changing Equations Buzz",
+    "summary": "Devendra Fadnavis praised Uddhav Thackeray in his speech in the legislative council",
+    "image": "https://c.ndtvimg.com/2019-03/5jhj1v88_uddhav-thackeray-devendra-fadnavis-pti_650x400_25_March_19.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 14:14:12 +0530",
+    "link": "https://www.ndtv.com/india-news/uddhav-thackeray-devendra-fadnavis-eknath-shinde-d-fadnavis-shayari-uddhav-thackerays-reply-and-changing-equations-buzz-11268882#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-iran-says-hormuz-strait-closed-only-to-enemies-11267525#publisher=newsstand",
+    "category": "india",
+    "title": "Iran Says Hormuz Strait \"Closed Only To Enemies\"",
+    "summary": "\"There is no reason to allow the ships of our enemies and their allies to pass\", Iranian minister said.",
+    "image": "https://c.ndtvimg.com/2026-03/a3sbifd8_strait-of-hormuz-afp_625x300_19_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 14:13:16 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-iran-says-hormuz-strait-closed-only-to-enemies-11267525#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-ceasefire-us-israel-war-on-iran-donald-trump-48-hour-iran-ceasefire-deal-benjamin-netanyahu-orders-strikes-on-iran-11268775#publisher=newsstand",
+    "category": "india",
+    "title": "Trump's Iran Ceasefire Gamble Ignites Netanyahu's Strike Fury",
+    "summary": "US President Donald Trump and Israel PM Benjamin Netanyahu (File).",
+    "image": "https://c.ndtvimg.com/2026-03/592m9mpo_trump-netanyahu-afp_625x300_25_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 14:10:06 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-ceasefire-us-israel-war-on-iran-donald-trump-48-hour-iran-ceasefire-deal-benjamin-netanyahu-orders-strikes-on-iran-11268775#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/heres-what-zerodhas-nithin-kamath-said-on-sebis-verified-app-label-initiative/articleshow/129819576.cms",
+    "category": "finance",
+    "title": "Here's what Zerodha's Nithin Kamath said on Sebi's verified app label initiative",
+    "summary": "Market regulator SEBI has launched a 'Verified App Label Initiative' in collaboration with Google to help investors identify genuine trading and investment apps. This move aims to combat the growing menace of unregistered advisory services and digita",
+    "image": "https://img.etimg.com/photo/msid-129819576,imgsize-1202135.cms",
+    "source": "ET",
+    "pubDate": "Thu, 26 Mar 2026 14:10:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/heres-what-zerodhas-nithin-kamath-said-on-sebis-verified-app-label-initiative/articleshow/129819576.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/the-silent-epidemic-is-speech-delay-in-indian-children-due-to-excessive-screen-time-11259949#publisher=newsstand",
+    "category": "india",
+    "title": "The Silent Epidemic: Is Speech Delay In Indian Children Due To Excessive Screen Time?",
+    "summary": "Image for representation purposes only",
+    "image": "https://c.ndtvimg.com/2026-03/0lodgtf8_mobile-phone_625x300_26_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 14:01:39 +0530",
+    "link": "https://www.ndtv.com/health/the-silent-epidemic-is-speech-delay-in-indian-children-due-to-excessive-screen-time-11259949#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/meet-kunki-chowdhury-the-youngest-candidate-in-assam-polls-11268844#publisher=newsstand",
+    "category": "india",
+    "title": "Meet Kunki Chowdhury, The Youngest Candidate In Assam Polls",
+    "summary": "Kunki Chowdhury, youngest candidate in Assam polls, on campaign trail.",
+    "image": "https://c.ndtvimg.com/2026-03/49b00mbg_kunki-chowdhury-_625x300_26_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 13:56:50 +0530",
+    "link": "https://www.ndtv.com/india-news/meet-kunki-chowdhury-the-youngest-candidate-in-assam-polls-11268844#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/tamil-nadu-news/tirunelvelis-famous-halwa-faces-crisis-after-lpg-shortage-in-tamil-nadu-middle-east-conflict-iran-us-israel-war-11268825#publisher=newsstand",
+    "category": "india",
+    "title": "Tirunelveli's Famous Halwa Faces Crisis After LPG Shortage In Tamil Nadu",
+    "summary": "Santhi sweets, one of the renowned brands has stopped its production",
+    "image": "https://c.ndtvimg.com/2026-03/dhieg0go_tirunelveli_625x300_26_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 26 Mar 2026 13:52:46 +0530",
+    "link": "https://www.ndtv.com/tamil-nadu-news/tirunelvelis-famous-halwa-faces-crisis-after-lpg-shortage-in-tamil-nadu-middle-east-conflict-iran-us-israel-war-11268825#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/2008-like-crisis-ahead-jpmorgan-launches-new-way-to-bet-against-debt-of-microsoft-meta-google-what-this-means/articleshow/129819241.cms",
     "category": "finance",
     "title": "2008-like crisis ahead? JPMorgan launches new way to bet against debt of Microsoft, Meta, Google; what this means",
@@ -130,54 +190,14 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/2008-like-crisis-ahead-jpmorgan-launches-new-way-to-bet-against-debt-of-microsoft-meta-google-what-this-means/articleshow/129819241.cms"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/how-do-you-stay-connected-nri-feeling-guilty-for-staying-away-from-parents-for-10-years-11268047#publisher=newsstand",
+    "id": "https://www.ndtv.com/science/ai-could-make-coding-free-hexaware-ceo-predicts-radical-shift-11268796#publisher=newsstand",
     "category": "india",
-    "title": "'How Do You Stay Connected?' NRI Feeling 'Guilty' For Staying Away From Parents For 10 Years",
-    "summary": "A man living abroad for over 10 years shares concerns over distant relationships with his parents.",
-    "image": "https://c.ndtvimg.com/2026-01/9p2tgvnk_as_625x300_03_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "AI Could Make Coding Free: Hexaware CEO Predicts Radical Shift",
+    "summary": "Hexaware CEO R Srikrishna says advances in AI could reduce the human cost of coding to zero, as companies may soon generate fresh software instead of fixing existing code, reshaping the future of development.",
+    "image": "https://c.ndtvimg.com/2026-03/tcumgtmc_ai-could-make-coding-free_625x300_26_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 12:54:12 +0530",
-    "link": "https://www.ndtv.com/offbeat/how-do-you-stay-connected-nri-feeling-guilty-for-staying-away-from-parents-for-10-years-11268047#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/anthropic-report-reveals-indias-ai-use-surge-as-skilled-workers-gain-edge-11268592#publisher=newsstand",
-    "category": "india",
-    "title": "AI Disruption Hits, But India's Skilled Users Cash In: Anthropic Report",
-    "summary": "AI is widening the gap between workers who know how to use it and those catching up.",
-    "image": "https://c.ndtvimg.com/2026-03/oegvq1uc_indians-are-using-claude-for-coding-and-cv-building-study_625x300_26_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 12:50:42 +0530",
-    "link": "https://www.ndtv.com/india-news/anthropic-report-reveals-indias-ai-use-surge-as-skilled-workers-gain-edge-11268592#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-troop-movements-fan-fears-of-a-risky-ground-attack-on-iran-11268199#publisher=newsstand",
-    "category": "india",
-    "title": "US Troop Movements Fan Fears Of A Risky Ground Attack On Iran",
-    "summary": "If the US decides to seize Kharg Island, it could choke off Tehran's primary source of revenue.",
-    "image": "https://c.ndtvimg.com/2026-03/3bcfk3ug_us-troops-82nd-airborne-division-afp_625x300_25_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 12:48:02 +0530",
-    "link": "https://www.ndtv.com/world-news/us-troop-movements-fan-fears-of-a-risky-ground-attack-on-iran-11268199#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/feature/indian-origin-teen-rejects-rs-2-8-crore-school-dropout-offer-now-runs-ai-startup-to-help-farmers-11268564#publisher=newsstand",
-    "category": "india",
-    "title": "Indian-Origin Teen Rejects Rs 2.8 Crore School Dropout Offer, Now Runs AI Startup To Help Farmers",
-    "summary": "Evion provides an AI-powered crop analysis tool designed to help small and mid-sized farmers.",
-    "image": "https://c.ndtvimg.com/2026-03/3f5s7rs8_rudrojas-kunvar_625x300_26_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 12:46:41 +0530",
-    "link": "https://www.ndtv.com/feature/indian-origin-teen-rejects-rs-2-8-crore-school-dropout-offer-now-runs-ai-startup-to-help-farmers-11268564#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/inside-hell-on-earth-where-former-venezuelan-president-nicolas-maduro-has-been-living-for-80-days-11268011#publisher=newsstand",
-    "category": "india",
-    "title": "Inside \"Hell On Earth\", Where Nicolas Maduro Has Been Living For 80 Days",
-    "summary": "Nicolas Maduro and his wife were picked up from their Caracas home and brought to America.",
-    "image": "https://c.ndtvimg.com/2026-01/g300kn8o_nicolas-maduro-trial_625x300_06_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 12:44:48 +0530",
-    "link": "https://www.ndtv.com/world-news/inside-hell-on-earth-where-former-venezuelan-president-nicolas-maduro-has-been-living-for-80-days-11268011#publisher=newsstand"
+    "pubDate": "Thu, 26 Mar 2026 13:40:10 +0530",
+    "link": "https://www.ndtv.com/science/ai-could-make-coding-free-hexaware-ceo-predicts-radical-shift-11268796#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/brigade-enterprises-eyes-rs-1100-cr-revenue-from-new-housing-project-in-bengaluru/articleshow/129818147.cms",
@@ -188,36 +208,6 @@
     "source": "ET",
     "pubDate": "Thu, 26 Mar 2026 12:40:07 +0530",
     "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/brigade-enterprises-eyes-rs-1100-cr-revenue-from-new-housing-project-in-bengaluru/articleshow/129818147.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/education/bihar-board-10th-result-2026-soon-know-when-toppers-verification-will-begin-11268591#publisher=newsstand",
-    "category": "india",
-    "title": "Bihar Board 10th Result 2026 Soon? Know When Toppers' Verification Will Begin",
-    "summary": "Bihar Board 10th Result 2026 Soon: The BSEB is preparing to begin the toppers' verification process soon.",
-    "image": "https://c.ndtvimg.com/2019-04/ta1dvmko_students_625x300_04_April_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 12:39:31 +0530",
-    "link": "https://www.ndtv.com/education/bihar-board-10th-result-2026-soon-know-when-toppers-verification-will-begin-11268591#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/which-skin-types-need-peptide-based-formulas-the-most-dermatologist-explains-11254840#publisher=newsstand",
-    "category": "india",
-    "title": "Which Skin Types Need Peptide-Based Formulas The Most? Dermatologist Explains",
-    "summary": "Peptide-based creams aren't for everyone. Image for representation purposes only",
-    "image": "https://c.ndtvimg.com/2026-03/kuf11kes_peptides_625x300_23_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 12:38:52 +0530",
-    "link": "https://www.ndtv.com/health/which-skin-types-need-peptide-based-formulas-the-most-dermatologist-explains-11254840#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/iran-war-india-taps-argentina-us-for-lpg-amid-iran-war-does-the-math-work-out-11268494#publisher=newsstand",
-    "category": "india",
-    "title": "India Taps Argentina, US For LPG Amid Iran War: Does The Math Work Out",
-    "summary": "In the first quarter of 2026 alone, Argentina has shipped about 50,000 tonnes of LPG to India.",
-    "image": "https://c.ndtvimg.com/2026-03/k0h7qhrc_lpg_625x300_21_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 26 Mar 2026 12:38:31 +0530",
-    "link": "https://www.ndtv.com/india-news/iran-war-india-taps-argentina-us-for-lpg-amid-iran-war-does-the-math-work-out-11268494#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-mideast-worries-push-japans-weekly-foreign-equity-sales-to-18-month-high/articleshow/129818073.cms",
@@ -250,34 +240,44 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/treason-nobel-laureate-paul-krugman-claims-people-close-to-trump-behind-580-mn-mystery-bets-before-post-on-us-iran-talks/articleshow/129817605.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/these-12-penny-stocks-rose-up-to-432-in-fy26-3-turned-multibaggers-did-you-own-any/slideshow/129817567.cms",
-    "category": "finance",
-    "title": "These 12 penny stocks rose up to 432% in FY26; 3 turned multibaggers.  Did you own any?",
-    "summary": "Twelve penny stocks soared up to 432% in FY26, with three turning multibaggers amid strong momentum in low-priced, high-risk micro-caps.",
-    "image": "https://img.etimg.com/photo/msid-129817367,imgsize-103124.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 11:57:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/these-12-penny-stocks-rose-up-to-432-in-fy26-3-turned-multibaggers-did-you-own-any/slideshow/129817567.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1529209.html",
+    "category": "sports",
+    "title": "International cricket returns to Bengaluru in busy 2026-27 season",
+    "summary": "Zimbabwe are set to embark on their first bilateral tour of India since 2002",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/275600/275679.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Mar 2026 09:53:43 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529209.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/commodity-radar-volatile-crude-has-limited-near-term-upside-says-religare-analyst-bull-and-base-case-scenarios-decoded/articleshow/129817085.cms",
-    "category": "finance",
-    "title": "Commodity Radar: Volatile crude has limited near-term upside, says Religare analyst; bull and base-case scenarios decode",
-    "summary": "Crude oil prices surged past $100 a barrel after Iran rejected President Trump's claims of peace talks, reversing Wednesday's sharp decline. Markets are expected to open higher, mirroring gains in international markets. Analysts suggest limited upsid",
-    "image": "https://img.etimg.com/photo/msid-129817085,imgsize-45106.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 11:41:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/commodity-radar-volatile-crude-has-limited-near-term-upside-says-religare-analyst-bull-and-base-case-scenarios-decoded/articleshow/129817085.cms"
+    "id": "https://www.bbc.com/news/articles/c87wd0d84jqo#0",
+    "category": "global",
+    "title": "'The era of impunity is over': What next for big tech after landmark social media verdict?",
+    "summary": "The ruling could be the beginning of the end of social media as we know it, writes the BBC Technology Editor Zoe Kleinman.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Mar 2026 09:37:57 GMT",
+    "link": "https://www.bbc.com/news/articles/c87wd0d84jqo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-nears-71k-fridays-18-6b-options-expiry-in-focus-exchange-supply-at-7-year-low/articleshow/129816609.cms",
-    "category": "finance",
-    "title": "Bitcoin nears $71K; Friday\u2019s $18.6B options expiry in focus, exchange supply at 7-year low",
-    "summary": "Bitcoin hovered near $71,000 as geopolitical tensions eased, with traders eyeing a $18.6 billion options expiry as a key catalyst. Bitcoin held on exchanges dropped to a seven-year low, signaling reduced available supply.  Ethereum lagged, facing sel",
-    "image": "https://img.etimg.com/photo/msid-129816609,imgsize-295364.cms",
-    "source": "ET",
-    "pubDate": "Thu, 26 Mar 2026 11:13:46 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-nears-71k-fridays-18-6b-options-expiry-in-focus-exchange-supply-at-7-year-low/articleshow/129816609.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1529072.html",
+    "category": "sports",
+    "title": "Rajasthan Royals sold to consortium of US-based investors for US $1.635 billion",
+    "summary": "Bid included ownership of all of Royals' branded teams: Paarl Royals in SA20, and Barbados Royals in CPL",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/400700/400736.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 26 Mar 2026 09:33:14 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529072.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cew75lx1j72o#0",
+    "category": "global",
+    "title": "Palestine Action arrests to resume while government appeal ongoing, Met says",
+    "summary": "The Met says it remains a criminal offence to support the banned group and it \"must enforce the law\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Mar 2026 09:26:16 GMT",
+    "link": "https://www.bbc.com/news/articles/cew75lx1j72o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c3w3eg4n9zwo#0",
@@ -290,16 +290,6 @@
     "link": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cx235y7v100o#0",
-    "category": "global",
-    "title": "Men released on bail over Jewish charity ambulance arson attack",
-    "summary": "Four Jewish charity-owned ambulances were set alight in north London on Monday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 08:25:57 GMT",
-    "link": "https://www.bbc.com/news/articles/cx235y7v100o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1529180.html",
     "category": "sports",
     "title": "Rain ruins opening day after Victoria tear through SA top order",
@@ -310,24 +300,24 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529180.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c0q90kekw08o#0",
+    "id": "https://www.bbc.com/news/articles/c05dz39m6qgo#0",
     "category": "global",
-    "title": "Chris Mason: How will the UK respond to US court verdict on social media?",
-    "summary": "Will the decision of a Los Angeles jury have an impact on the UK government as it considers potential future regulations on social media, writes the BBC's political editor.",
+    "title": "'I have no recollection of anything' - Epstein survivor says she was drugged and raped",
+    "summary": "A survivor of Epstein's abuses spoke publicly for the first time to BBC Newsnight about her experience of being raped and drugged by the sex offender.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 03:40:16 GMT",
-    "link": "https://www.bbc.com/news/articles/c0q90kekw08o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 26 Mar 2026 06:02:20 GMT",
+    "link": "https://www.bbc.com/news/articles/c05dz39m6qgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c15d980nyw1o#0",
+    "id": "https://www.bbc.com/news/articles/cql75nx0e0yo#0",
     "category": "global",
-    "title": "Trump's Iran strategy is to pursue two off-ramps at once",
-    "summary": "The White House insists the president is dictating events, but even some Republicans are frustrated by mixed messaging about his war aims.",
+    "title": "Australia's sunscreen regulator wants new rules after recent product scandal",
+    "summary": "The medicines regulator is proposing stricter rules after more than a dozen products were recalled.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 02:00:53 GMT",
-    "link": "https://www.bbc.com/news/articles/c15d980nyw1o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 26 Mar 2026 05:45:39 GMT",
+    "link": "https://www.bbc.com/news/articles/cql75nx0e0yo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cn08x9lw0pzo#0",
@@ -338,6 +328,16 @@
     "source": "BBC",
     "pubDate": "Thu, 26 Mar 2026 00:41:16 GMT",
     "link": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cd6l07wwvlpo#0",
+    "category": "global",
+    "title": "Parents should monitor children '24/7' on Roblox, says developer",
+    "summary": "Roblox said safety was a top priority and it had advanced safeguards in place to keep users safe.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 26 Mar 2026 00:31:33 GMT",
+    "link": "https://www.bbc.com/news/articles/cd6l07wwvlpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
