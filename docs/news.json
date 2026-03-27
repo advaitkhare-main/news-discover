@@ -30,16 +30,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529324.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529322.html",
-    "category": "sports",
-    "title": "CWI blocks Seales' Hampshire move in bid to manage workload",
-    "summary": "Seales, along with Shamar Joseph and Alzarri Joseph, will have their workload carefully monitored",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/410600/410662.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 26 Mar 2026 18:31:58 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529322.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
     "category": "scitech",
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -80,6 +70,66 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
+    "id": "https://www.ndtv.com/india-news/harassed-by-wife-in-laws-pune-man-20-poisons-himself-records-video-11276083#publisher=newsstand",
+    "category": "india",
+    "title": "'Harassed By Wife, In-Laws': Pune Man, 20, Poisons Himself, Records Video",
+    "summary": "Officials said Saad had a dispute with his wife, Karimunnisha aka Nisha Khan",
+    "image": "https://c.ndtvimg.com/2026-03/sj6d52sk_1_625x300_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 23:01:11 +0530",
+    "link": "https://www.ndtv.com/india-news/harassed-by-wife-in-laws-pune-man-20-poisons-himself-records-video-11276083#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-citigroup-dismisses-report-of-potential-us-regional-bank-acquisition/articleshow/129851500.cms",
+    "category": "finance",
+    "title": "US stocks: Citigroup dismisses report of potential US regional bank acquisition",
+    "summary": "Citigroup has denied a Bloomberg report suggesting it was considering acquiring a U.S. regional bank, stating the speculation is \"baseless.\" The bank emphasized its sole focus remains on organic growth and executing its ongoing transformation strateg",
+    "image": "https://img.etimg.com/photo/msid-129851500,imgsize-78578.cms",
+    "source": "ET",
+    "pubDate": "Fri, 27 Mar 2026 22:53:47 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-citigroup-dismisses-report-of-potential-us-regional-bank-acquisition/articleshow/129851500.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/science/scientists-reveal-moons-magnetic-mystery-and-its-surprisingly-powerful-past-11276058#publisher=newsstand",
+    "category": "india",
+    "title": "Scientists Reveal Moon's Magnetic Mystery And Its Surprisingly Powerful Past",
+    "summary": "Scientists believe the upcoming Artemis missions will help confirm this theory.",
+    "image": "https://c.ndtvimg.com/2026-03/did6ldbg_moon_625x300_27_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 22:52:34 +0530",
+    "link": "https://www.ndtv.com/science/scientists-reveal-moons-magnetic-mystery-and-its-surprisingly-powerful-past-11276058#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/iran-war-live-news-ensure-supplies-work-as-team-india-pm-modi-to-chief-ministers-on-gulf-crisis-11276004#publisher=newsstand",
+    "category": "india",
+    "title": "Ensure Supplies, Work As \"Team India\": PM Modi To Chief Ministers On Gulf Crisis",
+    "summary": "The meeting was held via video conferencing.",
+    "image": "https://c.ndtvimg.com/2026-03/ef0b9eas_pm-modicms-meeting-_625x300_27_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 22:17:40 +0530",
+    "link": "https://www.ndtv.com/india-news/iran-war-live-news-ensure-supplies-work-as-team-india-pm-modi-to-chief-ministers-on-gulf-crisis-11276004#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/who-said-what/china-used-fake-linkedin-profiles-to-spy-on-nato-eu-report-11276099#publisher=newsstand",
+    "category": "india",
+    "title": "China Used Fake LinkedIn Profiles To Spy On NATO, EU: Report",
+    "summary": "Chinese spies would initially request paid reports before later soliciting information (Representational)",
+    "image": "https://c.ndtvimg.com/2024-10/rphbec7o_hacker-generic_625x300_23_October_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 22:12:50 +0530",
+    "link": "https://www.ndtv.com/who-said-what/china-used-fake-linkedin-profiles-to-spy-on-nato-eu-report-11276099#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand",
+    "category": "india",
+    "title": "Iran War LIVE: Israel Warns Attacks On Iran 'Will Escalate And Expand'",
+    "summary": "Iran war LIVE Updates: The government has taken a hit on its own finances \"to safeguard citizens.\"",
+    "image": "https://c.ndtvimg.com/2026-03/k0gdqtro_beirut-attack_625x300_18_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 22:03:17 +0530",
+    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-crosses-94/1-mark-for-the-first-time-ends-at-94-81/-amid-volatile-crude-prices-due-to-us-iran-war/articleshow/129851183.cms",
     "category": "finance",
     "title": "Rupee crosses 94/$1 mark for the first time, ends at 94.81/$ amid volatile crude prices due to US-Iran war",
@@ -88,6 +138,26 @@
     "source": "ET",
     "pubDate": "Fri, 27 Mar 2026 22:02:05 +0530",
     "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-crosses-94/1-mark-for-the-first-time-ends-at-94-81/-amid-volatile-crude-prices-due-to-us-iran-war/articleshow/129851183.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cbse-announces-alternate-assessment-scheme-for-class-12-students-in-west-asia-amid-exam-disruptions-11275992#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE Announces Alternate Assessment Scheme For Class 12 Students In West Asia",
+    "summary": "The policy ensures students in affected regions are not disadvantaged in admissions.",
+    "image": "https://c.ndtvimg.com/2026-02/n79jtit_cbse-board-exams-2026_625x300_12_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 21:50:55 +0530",
+    "link": "https://www.ndtv.com/education/cbse-announces-alternate-assessment-scheme-for-class-12-students-in-west-asia-amid-exam-disruptions-11275992#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/anti-drone-systems-ai-powered-cctv-noida-airports-multi-layered-defence-11276000#publisher=newsstand",
+    "category": "india",
+    "title": "Anti-Drone Systems, AI-Powered CCTV: Noida Airport's Multi-Layered Defence",
+    "summary": "The digital infrastructure of the airport is also being fortified.",
+    "image": "https://c.ndtvimg.com/2026-03/212v7h2c_noida-airport_625x300_27_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 21:47:56 +0530",
+    "link": "https://www.ndtv.com/india-news/anti-drone-systems-ai-powered-cctv-noida-airports-multi-layered-defence-11276000#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-rocket-pharma-shares-fall-15-despite-fda-nod-for-childhood-disorder-treatment/articleshow/129851108.cms",
@@ -100,24 +170,14 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-rocket-pharma-shares-fall-15-despite-fda-nod-for-childhood-disorder-treatment/articleshow/129851108.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/pakistan-in-denial-india-backs-bangladesh-as-it-seeks-justice-for-1971-genocide-11275928#publisher=newsstand",
+    "id": "https://www.ndtv.com/offbeat/84-year-old-woman-in-china-falls-for-ai-bossy-president-writes-love-letters-amid-loneliness-11275657#publisher=newsstand",
     "category": "india",
-    "title": "\"Pak In Denial\": India Backs Bangladesh As It Seeks Justice For 1971 Genocide",
-    "summary": "Jaiswal highlighted how the genocide systematically killed millions of Bangladeshis",
-    "image": "https://c.ndtvimg.com/2022-10/1bqg56ng_pakistan-army-genocide-in-bangladesh-website-photo_625x300_15_October_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "84-Year-Old Woman In China Falls For AI \"Bossy President\", Writes Love Letters Amid Loneliness",
+    "summary": "Representative Image",
+    "image": "https://c.ndtvimg.com/2026-03/d8i00tgs_viral-news-china_625x300_27_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 21:34:00 +0530",
-    "link": "https://www.ndtv.com/world-news/pakistan-in-denial-india-backs-bangladesh-as-it-seeks-justice-for-1971-genocide-11275928#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/milpa-diet-explained-a-traditional-mesoamerican-eating-pattern-with-modern-health-benefits-11275860#publisher=newsstand",
-    "category": "india",
-    "title": "Milpa Diet Explained: A Traditional Mesoamerican Eating Pattern With Modern Health Benefits",
-    "summary": "The diet has garnered attention for its potential to prevent modern-day health issues like obesity, diabetes, and heart disease while promoting sustainability.",
-    "image": "https://c.ndtvimg.com/2026-03/9sos8fns_corn_625x300_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 21:31:13 +0530",
-    "link": "https://www.ndtv.com/health/milpa-diet-explained-a-traditional-mesoamerican-eating-pattern-with-modern-health-benefits-11275860#publisher=newsstand"
+    "pubDate": "Fri, 27 Mar 2026 21:44:38 +0530",
+    "link": "https://www.ndtv.com/offbeat/84-year-old-woman-in-china-falls-for-ai-bossy-president-writes-love-letters-amid-loneliness-11275657#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-feds-anna-paulson-says-iran-war-increases-risks-to-growth-inflation/articleshow/129850851.cms",
@@ -128,66 +188,6 @@
     "source": "ET",
     "pubDate": "Fri, 27 Mar 2026 21:30:05 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-feds-anna-paulson-says-iran-war-increases-risks-to-growth-inflation/articleshow/129850851.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/pilots-have-final-say-vvip-flight-rules-tightened-after-ajit-pawar-crash-11275875#publisher=newsstand",
-    "category": "india",
-    "title": "Pilots Have Final Say: VVIP Flight Rules Tightened After Ajit Pawar Crash",
-    "summary": "The new rules apply to a wide range of high-profile passengers.",
-    "image": "https://c.ndtvimg.com/2026-02/p4358g3k_dgca-safety-guidelines_625x300_24_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 21:25:01 +0530",
-    "link": "https://www.ndtv.com/india-news/pilots-have-final-say-vvip-flight-rules-tightened-after-ajit-pawar-crash-11275875#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/pm-modi-to-inaugurate-noida-international-airport-tomorrow-11275757#publisher=newsstand",
-    "category": "india",
-    "title": "Pics: Inside Noida International Airport Ahead Of Inauguration By PM Modi",
-    "summary": "The Noida International Airport is being seen as a major milestone for Uttar Pradesh",
-    "image": "https://c.ndtvimg.com/2026-03/88oi655o_noida-international-airport_625x300_27_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 21:19:58 +0530",
-    "link": "https://www.ndtv.com/india-news/pm-modi-to-inaugurate-noida-international-airport-tomorrow-11275757#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/puducherry-assembly-elections-2026-congress-rebels-to-contest-against-allies-dmk-vck-in-6-puducherry-seats-11275833#publisher=newsstand",
-    "category": "india",
-    "title": "Congress Rebels To Contest Against Allies DMK, VCK In 6 Puducherry Seats",
-    "summary": "Other opposition parties have also expressed their unhappiness with the Congress.",
-    "image": "https://c.ndtvimg.com/2023-05/7h1mkrro_congress-generic_625x300_18_May_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 21:16:31 +0530",
-    "link": "https://www.ndtv.com/india-news/puducherry-assembly-elections-2026-congress-rebels-to-contest-against-allies-dmk-vck-in-6-puducherry-seats-11275833#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/after-15-20-years-three-gorakhpur-students-still-struggle-to-complete-mbbs-11275564#publisher=newsstand",
-    "category": "india",
-    "title": "UP Medical College Student Gets Result After 15-Year Wait, Fails",
-    "summary": "The court has now allowed him to appear in supplementary exams.",
-    "image": "https://c.ndtvimg.com/2024-02/rd2ib23_medicalstudentsrepresentativeimage_625x300_08_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 21:09:30 +0530",
-    "link": "https://www.ndtv.com/education/after-15-20-years-three-gorakhpur-students-still-struggle-to-complete-mbbs-11275564#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/student-at-chennais-anna-university-alleges-sexual-harassment-by-professor-11275680#publisher=newsstand",
-    "category": "india",
-    "title": "Student At Chennai's Anna University Alleges Sexual Harassment By Professor",
-    "summary": "A section of students staged a protest on the campus on Friday.",
-    "image": "https://i.ndtvimg.com/i/2017-11/anna-university_650x400_61509962452.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 21:05:11 +0530",
-    "link": "https://www.ndtv.com/india-news/student-at-chennais-anna-university-alleges-sexual-harassment-by-professor-11275680#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/science/struggling-to-lose-weight-try-this-simple-diet-trick-11275721#publisher=newsstand",
-    "category": "india",
-    "title": "Eat Same Meals Daily? Study Says It May Help You Lose Weight Faster",
-    "summary": "The findings also showed that fluctuations in daily calorie intake affected results.",
-    "image": "https://c.ndtvimg.com/2026-03/gljpba54_lose-weight_625x300_27_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 20:55:59 +0530",
-    "link": "https://www.ndtv.com/science/struggling-to-lose-weight-try-this-simple-diet-trick-11275721#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mandates-legal-entity-identifier-unique-transaction-identifier-for-financial-mkt-transactions/articleshow/129850364.cms",
@@ -230,14 +230,14 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-chinese-ev-maker-byd-posts-first-annual-profit-decline-in-four-years/articleshow/129849889.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacexs-listing-stirs-up-social-media-frenzy-ticker-bets/articleshow/129849804.cms",
-    "category": "finance",
-    "title": "US Stocks: SpaceX's listing stirs up social media frenzy, ticker bets",
-    "summary": "From rocket launches drawing millions of YouTube views to social media frenzy over its \u200bpotential listing, SpaceX's debut is shaping up to \u200bbe a landmark moment for Wall Street.",
-    "image": "https://img.etimg.com/photo/msid-129849804,imgsize-50586.cms",
-    "source": "ET",
-    "pubDate": "Fri, 27 Mar 2026 19:44:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacexs-listing-stirs-up-social-media-frenzy-ticker-bets/articleshow/129849804.cms"
+    "id": "https://www.bbc.com/news/articles/cdxdnd87v78o#0",
+    "category": "global",
+    "title": "Asda boss rejects profiteering claims as petrol price tops 150p",
+    "summary": "Motorists are facing higher fuel prices ahead of Easter break due to the conflict in the Middle East, the RAC says.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 27 Mar 2026 17:41:11 GMT",
+    "link": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/clyxeqpzz2no#0",
@@ -246,7 +246,7 @@
     "summary": "An investigation into alleged  \"family voting\" finds no evidence of intent to influence voting.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 27 Mar 2026 16:47:18 GMT",
+    "pubDate": "Fri, 27 Mar 2026 17:20:30 GMT",
     "link": "https://www.bbc.com/news/articles/clyxeqpzz2no?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -256,8 +256,18 @@
     "summary": "It comes after the Met said earlier this month that three women were interviewed under caution.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 27 Mar 2026 16:34:57 GMT",
+    "pubDate": "Fri, 27 Mar 2026 17:04:45 GMT",
     "link": "https://www.bbc.com/news/articles/ckge0d4je7xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529440.html",
+    "category": "sports",
+    "title": "Glamorgan sign Fazalhaq Farooqi for T20 Blast",
+    "summary": "Becomes first Afghan to play for county, having already featured for Notts and Manchester Originals",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/395000/395009.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 27 Mar 2026 17:03:05 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529440.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529435.html",
@@ -268,16 +278,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 27 Mar 2026 16:24:17 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529435.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cdxdnd87v78o#0",
-    "category": "global",
-    "title": "Asda boss rejects profiteering claims as petrol price tops 150p",
-    "summary": "Motorists are facing higher fuel prices ahead of Easter break due to the conflict in the Middle East, the RAC says.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 27 Mar 2026 16:22:03 GMT",
-    "link": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c1eqzqwxq8wo#0",
@@ -292,7 +292,7 @@
   {
     "id": "https://www.bbc.com/news/videos/cx24jk0z74yo#0",
     "category": "global",
-    "title": "Why the geography of the Strait of Hormuz makes passing through it so risky",
+    "title": "Why mountainous coastline gives Iran such control over Strait of Hormuz",
     "summary": "Paul Adams explains why it is so dangerous to navigate the strait, one of the world's busiest oil shipping channels.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -308,6 +308,16 @@
     "source": "BBC",
     "pubDate": "Fri, 27 Mar 2026 13:12:01 GMT",
     "link": "https://www.bbc.com/news/articles/c4g4x2zyer2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cy01nvx11vno#0",
+    "category": "global",
+    "title": "Why campervans have been banned from parking up at this coastal beauty spot",
+    "summary": "A ban in two North Yorkshire coastal spots is made permanent after an 18-month trial.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 27 Mar 2026 11:39:41 GMT",
+    "link": "https://www.bbc.com/news/articles/cy01nvx11vno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529403.html",
@@ -330,14 +340,14 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529368.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cn0w1qxzd4xo#0",
+    "id": "https://www.bbc.com/news/articles/cn4vmw27x13o#0",
     "category": "global",
-    "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
-    "summary": "One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated.",
+    "title": "'Housebound' benefit cheat caught ziplining in Mexico",
+    "summary": "Catherine Wieland received more than \u00a323,000 in benefits, saying she was too ill to go outside.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 27 Mar 2026 09:30:52 GMT",
-    "link": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Fri, 27 Mar 2026 08:10:36 GMT",
+    "link": "https://www.bbc.com/news/articles/cn4vmw27x13o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529346.html",
@@ -348,16 +358,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 27 Mar 2026 06:55:46 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529346.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cpwj2nrnwwyo#0",
-    "category": "global",
-    "title": "Mum took own life after a forced adoption - now I want an apology",
-    "summary": "Thousands of unmarried English women were forced to give their babies away in the 1950s, 60s and 70s.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 27 Mar 2026 05:59:36 GMT",
-    "link": "https://www.bbc.com/news/articles/cpwj2nrnwwyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529207.html",
