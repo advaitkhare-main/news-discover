@@ -20,16 +20,6 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://www.bbc.com/news/articles/clyerj082p1o#0",
-    "category": "global",
-    "title": "Olivia Dean's streak continues as she wins big at Mobo Awards",
-    "summary": "The pop star secured three of the biggest awards of the night as the show celebrated its 30th anniversary.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 26 Mar 2026 22:44:17 GMT",
-    "link": "https://www.bbc.com/news/articles/clyerj082p1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1529324.html",
     "category": "sports",
     "title": "All-round Qalandars take down Kingsmen with ease in PSL opener",
@@ -58,16 +48,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 26 Mar 2026 17:06:49 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529317.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529214.html",
-    "category": "sports",
-    "title": "Mumbai to face CSK and RCB twice as IPL releases full league stage schedule",
-    "summary": "BCCI change a rule to help facilitate these high-profile clashes",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414891.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 26 Mar 2026 16:39:35 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529214.html?ex_cid=OTC-RSS"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
@@ -110,6 +90,86 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
+    "id": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-bse-sensex-nifty-live-updates-today-27-march-oil-prices-11272474#publisher=newsstand",
+    "category": "india",
+    "title": "Stock Market, Sensex Highlights: Sensex Crashes 1,690 Points Amid Negative Global Cues",
+    "summary": "Stock Market, Sensex Today, Nifty, Share Market Live News Updates: Markets End In Red.",
+    "image": "https://c.ndtvimg.com/2026-01/e6i34iuc_stock-market-hero_650x400_23_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 15:36:39 +0530",
+    "link": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-bse-sensex-nifty-live-updates-today-27-march-oil-prices-11272474#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/iran-israel-war-have-us-and-iran-gone-past-the-point-of-negotation-now-11273947#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion | Have US And Iran Already Gone Past The Point Of 'Negotation'?",
+    "summary": "Serious negotiations need to be held behind the scenes with as much confidentiality as possible.",
+    "image": "https://c.ndtvimg.com/2026-03/j59f672s_trump_625x300_27_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 15:35:20 +0530",
+    "link": "https://www.ndtv.com/opinion/iran-israel-war-have-us-and-iran-gone-past-the-point-of-negotation-now-11273947#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/only-half-of-central-school-education-funds-utilised-parliamentary-panel-11273896#publisher=newsstand",
+    "category": "india",
+    "title": "Only 51% Of Central School Education Funds Utilised: Parliamentary Panel Flags Concern",
+    "summary": "The panel flagged slow spending and delays in fund releases to certain states.",
+    "image": "https://c.ndtvimg.com/2026-03/etql74s_school-assembly-news-headlines_625x300_18_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 15:31:34 +0530",
+    "link": "https://www.ndtv.com/education/only-half-of-central-school-education-funds-utilised-parliamentary-panel-11273896#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/is-your-office-health-cover-enough-zerodhas-nithin-kamath-flags-a-big-gap-11273930#publisher=newsstand",
+    "category": "india",
+    "title": "Is Your Office Health Cover Enough? Zerodha's Nithin Kamath Flags A Big Gap",
+    "summary": "While corporate health insurance can be a starting point, its scope and benefits are limited.",
+    "image": "https://c.ndtvimg.com/2026-02/liv98t28_health-insurance-claim-rejection_625x300_25_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 15:30:42 +0530",
+    "link": "https://www.ndtv.com/india-news/is-your-office-health-cover-enough-zerodhas-nithin-kamath-flags-a-big-gap-11273930#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/delhi-school-annual-result-2026-doe-likely-to-release-class-3-4-5-scorecards-today-download-link-here-11273994#publisher=newsstand",
+    "category": "india",
+    "title": "Delhi School Annual Result 2026: DoE Likely To Release Class 3, 4, 5 Scorecards Today, Download Link Here",
+    "summary": "Delhi School Annual Result Out Today, Here's How To Download",
+    "image": "https://i.ndtvimg.com/i/2017-03/school-students_650x400_41489127185.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 15:28:25 +0530",
+    "link": "https://www.ndtv.com/education/delhi-school-annual-result-2026-doe-likely-to-release-class-3-4-5-scorecards-today-download-link-here-11273994#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/self-medicating-with-vitamin-b3-supplements-can-damage-your-liver-niacin-toxicity-explained-11273410#publisher=newsstand",
+    "category": "india",
+    "title": "Self-Medicating With Vitamin B3 Supplements Can Damage Your Liver: Niacin Toxicity Explained",
+    "summary": "Excess intake of vitamin B3 supplements can cause toxicity",
+    "image": "https://c.ndtvimg.com/2026-03/lbu4n1oc_vitamin-b3-excess_625x300_27_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 15:28:11 +0530",
+    "link": "https://www.ndtv.com/health/self-medicating-with-vitamin-b3-supplements-can-damage-your-liver-niacin-toxicity-explained-11273410#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/metformin-does-more-than-control-blood-sugar-new-research-reveals-the-diabetes-drugs-negative-brain-impacts-11272968#publisher=newsstand",
+    "category": "india",
+    "title": "Metformin Does More Than Control Blood Sugar: New Research Reveals The Diabetes Drug's Negative Brain Impacts",
+    "summary": "A new study reveals metformin acts directly on the brain, raising fresh concerns about its wider effects. While effective for diabetes, experts warn of potential cognitive, neurological and metabolic risks, especially with long-term or unsupervised u",
+    "image": "https://c.ndtvimg.com/2026-03/1ar6qn4o_diabetes-drug-metformin_650x400_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 15:26:58 +0530",
+    "link": "https://www.ndtv.com/health/metformin-does-more-than-control-blood-sugar-new-research-reveals-the-diabetes-drugs-negative-brain-impacts-11272968#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-news-why-irans-foreign-minister-abbas-araghchi-speaker-mohammad-ghalibaf-have-been-struck-off-israels-kill-list-11273986#publisher=newsstand",
+    "category": "india",
+    "title": "Why Iran's Foreign Minister, Speaker Have Been Struck Off Israel's Kill List",
+    "summary": "The US has said that the clock is ticking for Iran to come to the negotiating table.",
+    "image": "https://c.ndtvimg.com/2026-03/pscnet1s_araghchi-and-ghalibaf_625x300_27_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 15:26:13 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-news-why-irans-foreign-minister-abbas-araghchi-speaker-mohammad-ghalibaf-have-been-struck-off-israels-kill-list-11273986#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/march-turns-brutal-as-psu-banks-plunge-up-to-20-amid-war-led-selloff-uco-bob-punished-most/articleshow/129843847.cms",
     "category": "finance",
     "title": "March turns brutal as PSU banks plunge up to 20% amid war-led selloff; UCO, BoB punished most",
@@ -150,86 +210,6 @@
     "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-slips-nearly-3-to-68k-as-iran-rejects-us-proposal-adding-fresh-uncertainty-to-markets/articleshow/129843408.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/nepal-prime-minister-balen-shahs-1st-post-election-message-isnt-a-speech-its-a-rap-11272886#publisher=newsstand",
-    "category": "india",
-    "title": "To Be Nepal PM Balen Shah Raps In First Post-Election Message",
-    "summary": "Known for sporting trademark dark sunglasses, Balen has become a symbol of youth-driven political change.",
-    "image": "https://c.ndtvimg.com/2026-03/bcmkrcgc_balen-shah_625x300_09_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 14:42:24 +0530",
-    "link": "https://www.ndtv.com/world-news/nepal-prime-minister-balen-shahs-1st-post-election-message-isnt-a-speech-its-a-rap-11272886#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/faridabad-district-administration-orders-schools-to-ban-reels-short-videos-11273673#publisher=newsstand",
-    "category": "india",
-    "title": "Faridabad Schools Directed To Ban Reels, Short Videos To Ensure Focused Learning",
-    "summary": "The administration has warned that action will be taken against those found violating the directive.",
-    "image": "https://c.ndtvimg.com/2026-03/28pg434o_-ban-reels-short-videos_625x300_27_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 14:41:55 +0530",
-    "link": "https://www.ndtv.com/education/faridabad-district-administration-orders-schools-to-ban-reels-short-videos-11273673#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-news-us-ground-attack-on-iran-soon-what-pentagon-pizza-meter-says-11273732#publisher=newsstand",
-    "category": "india",
-    "title": "US Ground Attack On Iran Soon? What Pentagon Pizza Metre Says",
-    "summary": "Saturday is Trump's preferred day to launch strikes",
-    "image": "https://c.ndtvimg.com/2026-03/hs8aigrk_iran_625x300_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 14:41:50 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-news-us-ground-attack-on-iran-soon-what-pentagon-pizza-meter-says-11273732#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/50-per-cent-aircrafts-audited-in-last-one-year-in-india-showed-repeated-tech-defects-11273778#publisher=newsstand",
-    "category": "india",
-    "title": "50% Aircrafts Audited In Last One Year In India Showed Repeated Tech Defects",
-    "summary": "The panel noted that Air India was issued nine show cause notices. (Representational)",
-    "image": "https://c.ndtvimg.com/2026-03/76hhim1g_aircraft-aeroplane-generic_625x300_08_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 14:40:53 +0530",
-    "link": "https://www.ndtv.com/india-news/50-per-cent-aircrafts-audited-in-last-one-year-in-india-showed-repeated-tech-defects-11273778#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/centre-raises-commercial-lpg-supply-to-70-prioritises-key-industries-11273434#publisher=newsstand",
-    "category": "india",
-    "title": "Centre Raises Commercial LPG Supply To 70%, Prioritises Key Industries",
-    "summary": "\"In addition to the existing 50 per cent allocation, an additional 20 per cent is now proposed, that would bring the total commercial LPG allocation to 70 per cent of the pre-crisis level of the packed non-domestic LPG,\" Oil Secretary Neeraj Mittal w",
-    "image": "https://c.ndtvimg.com/2026-03/h89s2338_commercial-lpg-cylinder_625x300_27_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 14:38:10 +0530",
-    "link": "https://www.ndtv.com/india-news/centre-raises-commercial-lpg-supply-to-70-prioritises-key-industries-11273434#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/marco-rubio-or-jd-vance-who-can-lead-after-trump-11273129#publisher=newsstand",
-    "category": "india",
-    "title": "Marco Rubio Or JD Vance: Who Can Lead After Trump?",
-    "summary": "The ground in Texas is starkly divided, with roughly half backing Vance and others favouring Rubio.",
-    "image": "https://c.ndtvimg.com/2026-03/n9j55tko_jd-vance-and-marco-rubio_625x300_27_March_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 14:32:19 +0530",
-    "link": "https://www.ndtv.com/world-news/marco-rubio-or-jd-vance-who-can-lead-after-trump-11273129#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/people-centric-governance-amit-shah-as-government-cuts-fuel-excise-duty-11273177#publisher=newsstand",
-    "category": "india",
-    "title": "\"People-Centric Governance\": Amit Shah As Government Cuts Fuel Excise Duty",
-    "summary": "The duty cuts are effective immediately, the ministry had said.",
-    "image": "https://c.ndtvimg.com/2026-03/4r8dd15g_amit-shah_625x300_11_March_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 14:31:53 +0530",
-    "link": "https://www.ndtv.com/india-news/people-centric-governance-amit-shah-as-government-cuts-fuel-excise-duty-11273177#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/metformin-does-more-than-control-blood-sugar-new-research-reveals-the-diabetes-drugs-negative-brain-impacts-11272968#publisher=newsstand",
-    "category": "india",
-    "title": "Metformin Does More Than Control Blood Sugar: New Research Reveals The Diabetes Drug's Negative Brain Impacts",
-    "summary": "A new study reveals metformin acts directly on the brain, raising fresh concerns about its wider effects. While effective for diabetes, experts warn of potential cognitive, neurological and metabolic risks, especially with long-term or unsupervised u",
-    "image": "https://c.ndtvimg.com/2026-03/1ar6qn4o_diabetes-drug-metformin_650x400_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 14:31:50 +0530",
-    "link": "https://www.ndtv.com/health/metformin-does-more-than-control-blood-sugar-new-research-reveals-the-diabetes-drugs-negative-brain-impacts-11272968#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-ozempic-wegovy-generics/articleshow/129842771.cms",
     "category": "finance",
     "title": "GLP-1 impact: Jefferies sees these 3 stocks as winners in the race for Ozempic, Wegovy generics",
@@ -268,6 +248,26 @@
     "source": "ET",
     "pubDate": "Fri, 27 Mar 2026 14:18:49 +0530",
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/russia-sells-gold-bars-for-first-time-in-25-years-to-fund-budget-deficit-amid-high-military-spending-report/articleshow/129842814.cms"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529403.html",
+    "category": "sports",
+    "title": "Thushara fails fitness test, denied NOC to join RCB in IPL 2026",
+    "summary": "Matheesha Pathirana (KKR) and Wanindu Hasaranga (LSG) are yet to take their fitness tests",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/403600/403656.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 27 Mar 2026 10:20:18 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529403.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8957kqqdg4o#0",
+    "category": "global",
+    "title": "'Ripple of fear' over Iran war hits consumer confidence",
+    "summary": "A key survey indicates growing doubt among shoppers over prospects for the UK economy in the next year.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 27 Mar 2026 10:02:41 GMT",
+    "link": "https://www.bbc.com/news/articles/c8957kqqdg4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529368.html",
