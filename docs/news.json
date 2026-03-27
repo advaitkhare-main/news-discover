@@ -20,16 +20,6 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529324.html",
-    "category": "sports",
-    "title": "All-round Qalandars take down Kingsmen with ease in PSL opener",
-    "summary": "Defending champions flaunt their muscle with bat and ball to demolish tournament debutants on opening night",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414900/414917.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 26 Mar 2026 18:32:00 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529324.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
     "category": "scitech",
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -68,6 +58,16 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 05 Jan 2026 07:45:00 GMT",
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/mukesh-ambanis-mega-ipo-reliance-jio-is-said-to-set-bank-fees-in-line-with-nse/articleshow/129851939.cms",
+    "category": "finance",
+    "title": "Mukesh Ambani\u2019s mega IPO Reliance Jio is said to set bank fees in line with NSE",
+    "summary": "Reliance Industries Ltd. is planning a massive IPO for its telecom arm, Jio Platforms Ltd. The company is setting investment banking fees at a competitive 0.65% of the issue size. This move is in line with the National Stock Exchange of India Ltd.'s ",
+    "image": "https://img.etimg.com/photo/msid-129851939,imgsize-767595.cms",
+    "source": "ET",
+    "pubDate": "Fri, 27 Mar 2026 23:23:58 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/mukesh-ambanis-mega-ipo-reliance-jio-is-said-to-set-bank-fees-in-line-with-nse/articleshow/129851939.cms"
   },
   {
     "id": "https://www.ndtv.com/india-news/harassed-by-wife-in-laws-pune-man-20-poisons-himself-records-video-11276083#publisher=newsstand",
@@ -220,14 +220,24 @@
     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sael-industries-vishvaraj-environment-symbiotec-pharmalab-and-3-others-get-sebi-nod-to-launch-ipo/articleshow/129850018.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-chinese-ev-maker-byd-posts-first-annual-profit-decline-in-four-years/articleshow/129849889.cms",
-    "category": "finance",
-    "title": "Global Stocks: Chinese EV maker BYD posts first annual profit decline in four years",
-    "summary": "BYD , China's \u200bbiggest electric \u200bvehicle maker by \u200bsales, on Friday posted its first annual profit drop in \u200cfour \u2060years, hit \u2060by weak sales in \u200bthe world's largest auto market.",
-    "image": "https://img.etimg.com/photo/msid-129849889,imgsize-56852.cms",
-    "source": "ET",
-    "pubDate": "Fri, 27 Mar 2026 19:48:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-chinese-ev-maker-byd-posts-first-annual-profit-decline-in-four-years/articleshow/129849889.cms"
+    "id": "https://www.bbc.com/news/articles/cvgl4yk7vgpo#0",
+    "category": "global",
+    "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
+    "summary": "A hacker group shares Patel's purported resume and  photos of him on its website along with a statement that says, \"This is just our beginning.\"",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 27 Mar 2026 18:43:35 GMT",
+    "link": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529452.html",
+    "category": "sports",
+    "title": "Naseem pulled up by PCB over Maryam Nawaz tweet",
+    "summary": "PCB stated that Naseem's tweet violated the terms of his central contract as well as media policy and regulations",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/381300/381322.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 27 Mar 2026 18:38:42 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529452.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cdxdnd87v78o#0",
@@ -236,8 +246,18 @@
     "summary": "Motorists are facing higher fuel prices ahead of Easter break due to the conflict in the Middle East, the RAC says.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 27 Mar 2026 17:41:11 GMT",
+    "pubDate": "Fri, 27 Mar 2026 18:28:34 GMT",
     "link": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529451.html",
+    "category": "sports",
+    "title": "Moeen, Hasan Ali star in Kings' come-from-behind win",
+    "summary": "Shamyl shone with a 21-ball fifty but got little support from the batters below",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414900/414976.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 27 Mar 2026 17:59:25 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529451.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/clyxeqpzz2no#0",
@@ -340,16 +360,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529368.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cn4vmw27x13o#0",
-    "category": "global",
-    "title": "'Housebound' benefit cheat caught ziplining in Mexico",
-    "summary": "Catherine Wieland received more than \u00a323,000 in benefits, saying she was too ill to go outside.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 27 Mar 2026 08:10:36 GMT",
-    "link": "https://www.bbc.com/news/articles/cn4vmw27x13o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1529346.html",
     "category": "sports",
     "title": "Hyderabad Kingsmen's maroon kit forces ball change in PSL opener",
@@ -368,16 +378,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 27 Mar 2026 03:04:45 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529207.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529219.html",
-    "category": "sports",
-    "title": "IPL \u0928\u0947 \u092a\u0942\u0930\u0947 \u0932\u0940\u0917 \u091a\u0930\u0923 \u0915\u093e \u0936\u0947\u0921\u094d\u092f\u0942\u0932 \u091c\u093e\u0930\u0940 \u0915\u093f\u092f\u093e",
-    "summary": "\u0927\u0930\u094d\u092e\u0936\u093e\u0932\u093e \u0914\u0930 \u0930\u093e\u092f\u092a\u0941\u0930 \u092e\u0947\u0902 \u0916\u0947\u0932\u0947 \u091c\u093e\u090f\u0902\u0917\u0947 \u0915\u0908 \u092e\u0941\u0915\u093c\u093e\u092c\u0932\u0947",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414891.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 27 Mar 2026 02:53:08 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529219.html?ex_cid=OTC-RSS"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
