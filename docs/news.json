@@ -30,6 +30,36 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/russia-to-ban-gasoline-exports-from-april-1-to-prioritise-domestic-supply-11276825#publisher=newsstand",
+    "category": "india",
+    "title": "Russia To Ban Gasoline Exports From April 1 To Prioritise Domestic Supply",
+    "summary": "The Russian government said that Iran war causing significant fluctuations in global oil prices.",
+    "image": "https://c.ndtvimg.com/2025-03/amkn1bhg_russia-flag-_625x300_05_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 28 Mar 2026 03:26:50 +0530",
+    "link": "https://www.ndtv.com/world-news/russia-to-ban-gasoline-exports-from-april-1-to-prioritise-domestic-supply-11276825#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/elon-musk-joined-phone-call-between-pm-modi-and-us-president-donald-trump-to-discuss-iran-war-news-agency-reuters-11276659#publisher=newsstand",
+    "category": "india",
+    "title": "Musk Joined PM Modi-Trump Phone Call To Discuss US-Israel War Against Iran",
+    "summary": "US President Donald Trump spoke with PM Modi on Tuesday about the war in Iran. (File)",
+    "image": "https://c.ndtvimg.com/2019-09/lneugq4_pm-modi-trump-650_650x400_24_September_19.jpg",
+    "source": "NDTV",
+    "pubDate": "Sat, 28 Mar 2026 03:07:51 +0530",
+    "link": "https://www.ndtv.com/world-news/elon-musk-joined-phone-call-between-pm-modi-and-us-president-donald-trump-to-discuss-iran-war-news-agency-reuters-11276659#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/golf-legend-tiger-woods-involved-in-car-crash-in-florida-news-agency-afp-11276699#publisher=newsstand",
+    "category": "india",
+    "title": "Tiger Woods Arrested For Driving Under Influence After Florida Crash",
+    "summary": "There was no immediate word on Woods' condition following the incident, ABC television reported.",
+    "image": "https://c.ndtvimg.com/2026-03/l5cun458_tiger-woods_625x300_28_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 28 Mar 2026 02:50:51 +0530",
+    "link": "https://www.ndtv.com/world-news/golf-legend-tiger-woods-involved-in-car-crash-in-florida-news-agency-afp-11276699#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/us-hopes-for-iran-meetings-this-week-to-end-month-long-war-trump-envoy-steve-witkoff-11276770#publisher=newsstand",
     "category": "india",
     "title": "US Hopes For Iran Meetings \"This Week\" To End Month-Long War: Trump Envoy",
@@ -40,16 +70,6 @@
     "link": "https://www.ndtv.com/world-news/us-hopes-for-iran-meetings-this-week-to-end-month-long-war-trump-envoy-steve-witkoff-11276770#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/golf-legend-tiger-woods-involved-in-car-crash-in-florida-news-agency-afp-11276699#publisher=newsstand",
-    "category": "india",
-    "title": "Tiger Woods Involved In Car Crash In Florida: Report",
-    "summary": "There was no immediate word on Woods' condition following the incident, ABC television reported.",
-    "image": "https://c.ndtvimg.com/2026-03/l5cun458_tiger-woods_625x300_28_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 28 Mar 2026 01:56:41 +0530",
-    "link": "https://www.ndtv.com/world-news/golf-legend-tiger-woods-involved-in-car-crash-in-florida-news-agency-afp-11276699#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-tumble-to-lowest-close-in-over-six-months-as-iran-war-drags/articleshow/129854169.cms",
     "category": "finance",
     "title": "US stocks today: US stocks tumble to lowest close in 6 months as Iran war drags; Nasdaq confirms correction",
@@ -58,16 +78,6 @@
     "source": "ET",
     "pubDate": "Sat, 28 Mar 2026 01:31:45 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-tumble-to-lowest-close-in-over-six-months-as-iran-war-drags/articleshow/129854169.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/elon-musk-joined-phone-call-between-pm-modi-and-us-president-donald-trump-to-discuss-iran-war-news-agency-reuters-11276659#publisher=newsstand",
-    "category": "india",
-    "title": "Musk Joined PM Modi-Trump Phone Call To Discuss US-Israel War Against Iran",
-    "summary": "Elon Musk joined phone call between PM Modi and US President Donald Trump to discuss Iran War: news agency Reuters",
-    "image": "https://c.ndtvimg.com/2019-09/lneugq4_pm-modi-trump-650_650x400_24_September_19.jpg",
-    "source": "NDTV",
-    "pubDate": "Sat, 28 Mar 2026 01:25:42 +0530",
-    "link": "https://www.ndtv.com/world-news/elon-musk-joined-phone-call-between-pm-modi-and-us-president-donald-trump-to-discuss-iran-war-news-agency-reuters-11276659#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/iran-war-more-than-400-hezbollah-fighters-killed-in-war-with-israel-so-far-report-11276632#publisher=newsstand",
@@ -148,16 +158,6 @@
     "source": "NDTV",
     "pubDate": "Fri, 27 Mar 2026 23:46:43 +0530",
     "link": "https://www.ndtv.com/world-news/iran-war-news-jd-vance-benjamin-netanyahu-share-tense-call-over-israel-overconfidence-on-irans-regime-change-11276479#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/white-house-unveils-no-filter-app-to-communicate-directly-with-citizens-11276454#publisher=newsstand",
-    "category": "india",
-    "title": "White House Unveils 'No Filter' App To Communicate Directly With Citizens",
-    "summary": "The introduction of the app comes amid Iran war.",
-    "image": "https://i.ndtvimg.com/mt/2009-12/whitehousestory.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 23:40:05 +0530",
-    "link": "https://www.ndtv.com/world-news/white-house-unveils-no-filter-app-to-communicate-directly-with-citizens-11276454#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/mukesh-ambanis-mega-ipo-reliance-jio-is-said-to-set-bank-fees-in-line-with-nse/articleshow/129851939.cms",
