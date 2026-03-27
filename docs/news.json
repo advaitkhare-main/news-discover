@@ -40,16 +40,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529322.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529317.html",
-    "category": "sports",
-    "title": "PSL 2026: Teams allowed to submit two XIs and pick one after toss",
-    "summary": "The new rule aims to neutralise dew advantage",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414900/414910.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 26 Mar 2026 17:06:49 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529317.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
     "category": "scitech",
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -90,24 +80,114 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand",
-    "category": "india",
-    "title": "Iran War LIVE: Strike On South Beirut Without Israeli Warning",
-    "summary": "Iran war LIVE Updates: The government has taken a hit on its own finances \"to safeguard citizens.\"",
-    "image": "https://c.ndtvimg.com/2026-03/k0gdqtro_beirut-attack_625x300_18_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 20:27:11 +0530",
-    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-crosses-94/1-mark-for-the-first-time-ends-at-94-81/-amid-volatile-crude-prices-due-to-us-iran-war/articleshow/129851183.cms",
+    "category": "finance",
+    "title": "Rupee crosses 94/$1 mark for the first time, ends at 94.81/$ amid volatile crude prices due to US-Iran war",
+    "summary": "The Indian rupee hit a record low of 94.81 against the dollar, nearing 95, as surging crude oil prices and a potentially prolonged West Asia conflict weighed on the currency. Mild central bank intervention offered little respite, with traders now for",
+    "image": "https://img.etimg.com/photo/msid-129851183,imgsize-38644.cms",
+    "source": "ET",
+    "pubDate": "Fri, 27 Mar 2026 22:02:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-crosses-94/1-mark-for-the-first-time-ends-at-94-81/-amid-volatile-crude-prices-due-to-us-iran-war/articleshow/129851183.cms"
   },
   {
-    "id": "https://www.ndtv.com/feature/empty-office-at-4-30-pm-indian-techie-highlights-swedens-work-culture-11275625#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-rocket-pharma-shares-fall-15-despite-fda-nod-for-childhood-disorder-treatment/articleshow/129851108.cms",
+    "category": "finance",
+    "title": "US Stocks: Rocket Pharma shares fall 15% despite FDA nod for childhood disorder treatment",
+    "summary": "Rocket Pharmaceuticals' shares dropped significantly after gaining FDA approval for Kresladi, a gene therapy for a rare childhood immune disorder. Investors are concerned about practical challenges limiting patient access, despite the drug's potentia",
+    "image": "https://img.etimg.com/photo/msid-129851108,imgsize-754962.cms",
+    "source": "ET",
+    "pubDate": "Fri, 27 Mar 2026 21:47:16 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-rocket-pharma-shares-fall-15-despite-fda-nod-for-childhood-disorder-treatment/articleshow/129851108.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/pakistan-in-denial-india-backs-bangladesh-as-it-seeks-justice-for-1971-genocide-11275928#publisher=newsstand",
     "category": "india",
-    "title": "Empty Office At 4:30 pm: Indian Techie Highlights Sweden's Work Culture",
-    "summary": "The text overlaid on the video reads, \"Its just 4:30 pm and whole office is vacant\".",
-    "image": "https://c.ndtvimg.com/2026-03/d46562kk_empty-office_625x300_27_March_26.jpeg",
+    "title": "\"Pak In Denial\": India Backs Bangladesh As It Seeks Justice For 1971 Genocide",
+    "summary": "Jaiswal highlighted how the genocide systematically killed millions of Bangladeshis",
+    "image": "https://c.ndtvimg.com/2022-10/1bqg56ng_pakistan-army-genocide-in-bangladesh-website-photo_625x300_15_October_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 20:26:50 +0530",
-    "link": "https://www.ndtv.com/feature/empty-office-at-4-30-pm-indian-techie-highlights-swedens-work-culture-11275625#publisher=newsstand"
+    "pubDate": "Fri, 27 Mar 2026 21:34:00 +0530",
+    "link": "https://www.ndtv.com/world-news/pakistan-in-denial-india-backs-bangladesh-as-it-seeks-justice-for-1971-genocide-11275928#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/milpa-diet-explained-a-traditional-mesoamerican-eating-pattern-with-modern-health-benefits-11275860#publisher=newsstand",
+    "category": "india",
+    "title": "Milpa Diet Explained: A Traditional Mesoamerican Eating Pattern With Modern Health Benefits",
+    "summary": "The diet has garnered attention for its potential to prevent modern-day health issues like obesity, diabetes, and heart disease while promoting sustainability.",
+    "image": "https://c.ndtvimg.com/2026-03/9sos8fns_corn_625x300_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 21:31:13 +0530",
+    "link": "https://www.ndtv.com/health/milpa-diet-explained-a-traditional-mesoamerican-eating-pattern-with-modern-health-benefits-11275860#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-feds-anna-paulson-says-iran-war-increases-risks-to-growth-inflation/articleshow/129850851.cms",
+    "category": "finance",
+    "title": "US stocks: US Fed's Anna Paulson says Iran war increases risks to growth, inflation",
+    "summary": "Philadelphia Federal Reserve President \u200bAnna Paulson said on \u200bFriday the Iran war is creating challenges for \u200bthe U.S. economy, while stopping short of saying what that might mean for near-term changes in monetary policy.",
+    "image": "https://img.etimg.com/photo/msid-129850851,imgsize-79132.cms",
+    "source": "ET",
+    "pubDate": "Fri, 27 Mar 2026 21:30:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-feds-anna-paulson-says-iran-war-increases-risks-to-growth-inflation/articleshow/129850851.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/pilots-have-final-say-vvip-flight-rules-tightened-after-ajit-pawar-crash-11275875#publisher=newsstand",
+    "category": "india",
+    "title": "Pilots Have Final Say: VVIP Flight Rules Tightened After Ajit Pawar Crash",
+    "summary": "The new rules apply to a wide range of high-profile passengers.",
+    "image": "https://c.ndtvimg.com/2026-02/p4358g3k_dgca-safety-guidelines_625x300_24_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 21:25:01 +0530",
+    "link": "https://www.ndtv.com/india-news/pilots-have-final-say-vvip-flight-rules-tightened-after-ajit-pawar-crash-11275875#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/pm-modi-to-inaugurate-noida-international-airport-tomorrow-11275757#publisher=newsstand",
+    "category": "india",
+    "title": "Pics: Inside Noida International Airport Ahead Of Inauguration By PM Modi",
+    "summary": "The Noida International Airport is being seen as a major milestone for Uttar Pradesh",
+    "image": "https://c.ndtvimg.com/2026-03/88oi655o_noida-international-airport_625x300_27_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 21:19:58 +0530",
+    "link": "https://www.ndtv.com/india-news/pm-modi-to-inaugurate-noida-international-airport-tomorrow-11275757#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/puducherry-assembly-elections-2026-congress-rebels-to-contest-against-allies-dmk-vck-in-6-puducherry-seats-11275833#publisher=newsstand",
+    "category": "india",
+    "title": "Congress Rebels To Contest Against Allies DMK, VCK In 6 Puducherry Seats",
+    "summary": "Other opposition parties have also expressed their unhappiness with the Congress.",
+    "image": "https://c.ndtvimg.com/2023-05/7h1mkrro_congress-generic_625x300_18_May_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 21:16:31 +0530",
+    "link": "https://www.ndtv.com/india-news/puducherry-assembly-elections-2026-congress-rebels-to-contest-against-allies-dmk-vck-in-6-puducherry-seats-11275833#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/after-15-20-years-three-gorakhpur-students-still-struggle-to-complete-mbbs-11275564#publisher=newsstand",
+    "category": "india",
+    "title": "UP Medical College Student Gets Result After 15-Year Wait, Fails",
+    "summary": "The court has now allowed him to appear in supplementary exams.",
+    "image": "https://c.ndtvimg.com/2024-02/rd2ib23_medicalstudentsrepresentativeimage_625x300_08_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 21:09:30 +0530",
+    "link": "https://www.ndtv.com/education/after-15-20-years-three-gorakhpur-students-still-struggle-to-complete-mbbs-11275564#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/student-at-chennais-anna-university-alleges-sexual-harassment-by-professor-11275680#publisher=newsstand",
+    "category": "india",
+    "title": "Student At Chennai's Anna University Alleges Sexual Harassment By Professor",
+    "summary": "A section of students staged a protest on the campus on Friday.",
+    "image": "https://i.ndtvimg.com/i/2017-11/anna-university_650x400_61509962452.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 21:05:11 +0530",
+    "link": "https://www.ndtv.com/india-news/student-at-chennais-anna-university-alleges-sexual-harassment-by-professor-11275680#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/science/struggling-to-lose-weight-try-this-simple-diet-trick-11275721#publisher=newsstand",
+    "category": "india",
+    "title": "Eat Same Meals Daily? Study Says It May Help You Lose Weight Faster",
+    "summary": "The findings also showed that fluctuations in daily calorie intake affected results.",
+    "image": "https://c.ndtvimg.com/2026-03/gljpba54_lose-weight_625x300_27_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 27 Mar 2026 20:55:59 +0530",
+    "link": "https://www.ndtv.com/science/struggling-to-lose-weight-try-this-simple-diet-trick-11275721#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mandates-legal-entity-identifier-unique-transaction-identifier-for-financial-mkt-transactions/articleshow/129850364.cms",
@@ -120,26 +200,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mandates-legal-entity-identifier-unique-transaction-identifier-for-financial-mkt-transactions/articleshow/129850364.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-live-news-fbi-chief-kash-patels-personal-email-breached-claim-iran-linked-hackers-11275556#publisher=newsstand",
-    "category": "india",
-    "title": "FBI Chief Kash Patel's Personal Email Breached, Claim Iran-Linked Hackers",
-    "summary": "Iran-linked hackers have publicly claimed the breach of FBI Director Kash Patel's personal inbox",
-    "image": "https://c.ndtvimg.com/2025-11/tfa1u86s_fbi-director-kash-patel-_625x300_10_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 20:17:03 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-live-news-fbi-chief-kash-patels-personal-email-breached-claim-iran-linked-hackers-11275556#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/after-15-20-years-three-gorakhpur-students-still-struggle-to-complete-mbbs-11275564#publisher=newsstand",
-    "category": "india",
-    "title": "After 15-20 Years, Three Gorakhpur Students Still Struggle To Complete MBBS",
-    "summary": "The court has now allowed him to appear in supplementary exams.",
-    "image": "https://c.ndtvimg.com/2024-02/rd2ib23_medicalstudentsrepresentativeimage_625x300_08_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 20:12:44 +0530",
-    "link": "https://www.ndtv.com/education/after-15-20-years-three-gorakhpur-students-still-struggle-to-complete-mbbs-11275564#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/bonds/centre-plans-to-borrow-rs-8-20-lakh-cr-from-market-in-first-half-of-fy27/articleshow/129850266.cms",
     "category": "finance",
     "title": "Centre plans to borrow Rs 8.20 lakh cr from market in first half of FY27",
@@ -148,16 +208,6 @@
     "source": "ET",
     "pubDate": "Fri, 27 Mar 2026 20:11:19 +0530",
     "link": "https://economictimes.indiatimes.com/markets/bonds/centre-plans-to-borrow-rs-8-20-lakh-cr-from-market-in-first-half-of-fy27/articleshow/129850266.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-live-insanity-us-senator-blames-donald-trump-as-iran-imposes-2-billion-fee-in-hormuz-11274554#publisher=newsstand",
-    "category": "india",
-    "title": "\"Insanity\": US Senator Blames Trump As Iran Imposes $2 Million Fee In Hormuz",
-    "summary": "Iran has decided to charge some vessels $2 million to pass through the Strait of Hormuz",
-    "image": "https://c.ndtvimg.com/2026-03/p8i2tjuo_trump_625x300_23_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 20:06:41 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-live-insanity-us-senator-blames-donald-trump-as-iran-imposes-2-billion-fee-in-hormuz-11274554#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/sael-industries-vishvaraj-environment-symbiotec-pharmalab-and-3-others-get-sebi-nod-to-launch-ipo/articleshow/129850018.cms",
@@ -180,16 +230,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-chinese-ev-maker-byd-posts-first-annual-profit-decline-in-four-years/articleshow/129849889.cms"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/robert-kiyosaki-predicts-stock-market-crash-in-2026-backs-oil-real-estate-bitcoin-11275450#publisher=newsstand",
-    "category": "india",
-    "title": "Robert Kiyosaki Predicts Stock Market Crash In 2026, Backs Oil, Real Estate, Bitcoin",
-    "summary": "Robert Kiyosaki warns of a possible global economic crash in 2026.",
-    "image": "https://c.ndtvimg.com/2026-02/jviknpg8_robert-kiyosaki_625x300_17_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 19:48:25 +0530",
-    "link": "https://www.ndtv.com/offbeat/robert-kiyosaki-predicts-stock-market-crash-in-2026-backs-oil-real-estate-bitcoin-11275450#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacexs-listing-stirs-up-social-media-frenzy-ticker-bets/articleshow/129849804.cms",
     "category": "finance",
     "title": "US Stocks: SpaceX's listing stirs up social media frenzy, ticker bets",
@@ -200,64 +240,14 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacexs-listing-stirs-up-social-media-frenzy-ticker-bets/articleshow/129849804.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/centre-forms-ministerial-group-to-address-middle-east-conflict-impact-11275190#publisher=newsstand",
-    "category": "india",
-    "title": "Centre Forms Ministerial Group To Address Middle East Conflict Impact",
-    "summary": "The war in West Asia has now stretched into four weeks, with no immediate end in sight.",
-    "image": "https://c.ndtvimg.com/2026-03/7pdm5bo_iran-war_625x300_25_March_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 19:43:13 +0530",
-    "link": "https://www.ndtv.com/india-news/centre-forms-ministerial-group-to-address-middle-east-conflict-impact-11275190#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-news-alarmingly-low-pentagon-scrambles-after-us-fires-850-tomahawks-at-iran-11275393#publisher=newsstand",
-    "category": "india",
-    "title": "\"Alarmingly Low\": Pentagon Scrambles After US Fires 850 Tomahawks At Iran",
-    "summary": "It can take up to 2 years to build a Tomahawk, costing $3.6 million a piece",
-    "image": "https://c.ndtvimg.com/2026-03/g9ced9lo_tomahawk-missile_625x300_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 19:37:38 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-news-alarmingly-low-pentagon-scrambles-after-us-fires-850-tomahawks-at-iran-11275393#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-uk-equities-head-for-fourth-weekly-decline-amid-lingering-middle-east-concerns/articleshow/129849081.cms",
-    "category": "finance",
-    "title": "Global Stocks: UK equities head for fourth weekly decline amid lingering Middle East concerns",
-    "summary": "The UK's \u200bmain stock indexes were on track for a fourth straight week of losses on Friday, as investors remained on edge due to uncertainty around the \u200cMiddle East conflict, \u2060and \u2060fears of a spike in inflation.",
-    "image": "https://img.etimg.com/photo/msid-129849081,imgsize-176662.cms",
-    "source": "ET",
-    "pubDate": "Fri, 27 Mar 2026 19:11:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-uk-equities-head-for-fourth-weekly-decline-amid-lingering-middle-east-concerns/articleshow/129849081.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-drops-400-points-nasdaq-1-as-iran-strike-delays-offers-limited-calm/articleshow/129849110.cms",
-    "category": "finance",
-    "title": "US stocks today: Dow drops 400 points as Iran strike delays offers limited calm",
-    "summary": "Wall \u200bStreet's \u200bmain indexes opened lower \u200bon Friday as the month-long Middle East \u200cconflict \u2060dragged on, \u2060weighing on \u200bsentiment despite the United States \u200bpushing back another deadline to strike \u200bIran's \u2060energy infrastructure.",
-    "image": "https://img.etimg.com/photo/msid-129849110,imgsize-121932.cms",
-    "source": "ET",
-    "pubDate": "Fri, 27 Mar 2026 19:06:06 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-drops-400-points-nasdaq-1-as-iran-strike-delays-offers-limited-calm/articleshow/129849110.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-middle-east-conflict-drives-record-trading-at-nyse-parent-ice/articleshow/129848993.cms",
-    "category": "finance",
-    "title": "US Stocks: Middle East conflict drives record trading at NYSE-parent ICE",
-    "summary": "Shockwaves from the Middle East conflict have rippled through \u200bglobal markets, driving record trading \u200bat Intercontinental Exchange across energy, commodities, futures and options.",
-    "image": "https://img.etimg.com/photo/msid-129848993,imgsize-76634.cms",
-    "source": "ET",
-    "pubDate": "Fri, 27 Mar 2026 19:03:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-middle-east-conflict-drives-record-trading-at-nyse-parent-ice/articleshow/129848993.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cdxdnd87v78o#0",
+    "id": "https://www.bbc.com/news/articles/clyxeqpzz2no#0",
     "category": "global",
-    "title": "Petrol price above 150p a litre for first time in nearly two years",
-    "summary": "Motorists are facing higher fuel prices ahead of Easter break due to the conflict in the Middle East, the RAC says.",
+    "title": "No evidence of 'family voting' in Gorton and Denton by-election",
+    "summary": "An investigation into alleged  \"family voting\" finds no evidence of intent to influence voting.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 27 Mar 2026 15:46:22 GMT",
-    "link": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Fri, 27 Mar 2026 16:47:18 GMT",
+    "link": "https://www.bbc.com/news/articles/clyxeqpzz2no?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/ckge0d4je7xo#0",
@@ -266,8 +256,28 @@
     "summary": "It comes after the Met said earlier this month that three women were interviewed under caution.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 27 Mar 2026 15:44:35 GMT",
+    "pubDate": "Fri, 27 Mar 2026 16:34:57 GMT",
     "link": "https://www.bbc.com/news/articles/ckge0d4je7xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529435.html",
+    "category": "sports",
+    "title": "RCB, SRH and Chinnaswamy come together for IPL's opening night",
+    "summary": "This is the first time top-flight cricket is returning to the venue since May last year",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414900/414912.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 27 Mar 2026 16:24:17 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529435.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cdxdnd87v78o#0",
+    "category": "global",
+    "title": "Asda boss rejects profiteering claims as petrol price tops 150p",
+    "summary": "Motorists are facing higher fuel prices ahead of Easter break due to the conflict in the Middle East, the RAC says.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 27 Mar 2026 16:22:03 GMT",
+    "link": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c1eqzqwxq8wo#0",
@@ -278,6 +288,16 @@
     "source": "BBC",
     "pubDate": "Fri, 27 Mar 2026 14:50:13 GMT",
     "link": "https://www.bbc.com/news/articles/c1eqzqwxq8wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/cx24jk0z74yo#0",
+    "category": "global",
+    "title": "Why the geography of the Strait of Hormuz makes passing through it so risky",
+    "summary": "Paul Adams explains why it is so dangerous to navigate the strait, one of the world's busiest oil shipping channels.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 27 Mar 2026 14:10:30 GMT",
+    "link": "https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c4g4x2zyer2o#0",
@@ -320,16 +340,6 @@
     "link": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c1d936n7445o#0",
-    "category": "global",
-    "title": "Parents told under-5s should not be on screens more than an hour a day",
-    "summary": "New government guidance also suggests children under-two should not be watching screens alone.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 27 Mar 2026 09:24:27 GMT",
-    "link": "https://www.bbc.com/news/articles/c1d936n7445o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1529346.html",
     "category": "sports",
     "title": "Hyderabad Kingsmen's maroon kit forces ball change in PSL opener",
@@ -368,16 +378,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 27 Mar 2026 02:53:08 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529219.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c3w384px52no#0",
-    "category": "global",
-    "title": "Three charts that are warning signs flashing for Trump on Iran war",
-    "summary": "As gas prices rise, Trump's approval rating is heading into politically dangerous territory.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 27 Mar 2026 00:13:09 GMT",
-    "link": "https://www.bbc.com/news/articles/c3w384px52no?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
