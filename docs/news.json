@@ -30,6 +30,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/us-hopes-for-iran-meetings-this-week-to-end-month-long-war-trump-envoy-steve-witkoff-11276770#publisher=newsstand",
+    "category": "india",
+    "title": "US Hopes For Iran Meetings \"This Week\" To End Month-Long War: Trump Envoy",
+    "summary": "US President Trump's special envoy Steve Witkoff said Friday he believes Iran will hold talks with Washington \"this week\" to end the month-long war in the Middle East.",
+    "image": "https://c.ndtvimg.com/2026-01/0bo7t8g_us-special-envoy-steve-witkoff_625x300_14_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 28 Mar 2026 02:25:56 +0530",
+    "link": "https://www.ndtv.com/world-news/us-hopes-for-iran-meetings-this-week-to-end-month-long-war-trump-envoy-steve-witkoff-11276770#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/golf-legend-tiger-woods-involved-in-car-crash-in-florida-news-agency-afp-11276699#publisher=newsstand",
     "category": "india",
     "title": "Tiger Woods Involved In Car Crash In Florida: Report",
@@ -42,7 +52,7 @@
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-tumble-to-lowest-close-in-over-six-months-as-iran-war-drags/articleshow/129854169.cms",
     "category": "finance",
-    "title": "US stocks today: US stocks tumble to lowest close in over six months as Iran war drags",
+    "title": "US stocks today: US stocks tumble to lowest close in 6 months as Iran war drags; Nasdaq confirms correction",
     "summary": "U.S. stocks plunged Friday, with major indexes hitting over six-month lows as the Middle East war suppressed risk appetite. Megacap and software stocks led the decline, while rising oil prices fueled inflation fears and dampened rate cut expectations",
     "image": "https://img.etimg.com/photo/msid-129854169,imgsize-44356.cms",
     "source": "ET",
@@ -150,16 +160,6 @@
     "link": "https://www.ndtv.com/world-news/white-house-unveils-no-filter-app-to-communicate-directly-with-citizens-11276454#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/harassed-by-wife-in-laws-pune-man-20-poisons-himself-records-video-11276083#publisher=newsstand",
-    "category": "india",
-    "title": "'Harassed By Wife, In-Laws': Pune Man, 20, Poisons Himself, Records Video",
-    "summary": "Officials said Saad had a dispute with his wife, Karimunnisha aka Nisha Khan",
-    "image": "https://c.ndtvimg.com/2026-03/sj6d52sk_1_625x300_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 27 Mar 2026 23:37:17 +0530",
-    "link": "https://www.ndtv.com/india-news/harassed-by-wife-in-laws-pune-man-20-poisons-himself-records-video-11276083#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/mukesh-ambanis-mega-ipo-reliance-jio-is-said-to-set-bank-fees-in-line-with-nse/articleshow/129851939.cms",
     "category": "finance",
     "title": "Mukesh Ambani\u2019s mega IPO Reliance Jio is said to set bank fees in line with NSE",
@@ -212,11 +212,11 @@
   {
     "id": "https://www.bbc.com/sport/golf/articles/cvg092kege7o#0",
     "category": "global",
-    "title": "Tiger Woods involved in Florida car crash",
-    "summary": "Golf star Tiger Woods has been involved in a car crash in Florida, authorities confirm.",
+    "title": "Tiger Woods charged with driving under influence after crash",
+    "summary": "Golfer Tiger Woods is charged with driving under the influence after a car crash in Florida, police say.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 27 Mar 2026 20:20:57 GMT",
+    "pubDate": "Fri, 27 Mar 2026 21:24:44 GMT",
     "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -233,7 +233,7 @@
     "id": "https://www.bbc.com/news/articles/cvgl4yk7vgpo#0",
     "category": "global",
     "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
-    "summary": "A hacker group shares Patel's purported resume and  photos of him on its website, information, the FBI says, is \"historical in nature\".",
+    "summary": "A hacker group shares Patel's purported resume and photos - information, the FBI says, is \"historical in nature\".",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Fri, 27 Mar 2026 19:21:19 GMT",
