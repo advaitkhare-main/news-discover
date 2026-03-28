@@ -30,6 +30,26 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/over-4-lakh-kitkat-bars-stolen-after-leaving-factory-in-italy-for-poland-11280304#publisher=newsstand",
+    "category": "india",
+    "title": "Over 4 Lakh Kitkat Bars Stolen After Leaving Factory In Italy For Poland",
+    "summary": "The missing candy bars could enter unofficial sales channels across European markets.",
+    "image": "https://c.ndtvimg.com/2026-03/bek28o2g_kitkat_625x300_29_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 29 Mar 2026 00:18:53 +0530",
+    "link": "https://www.ndtv.com/world-news/over-4-lakh-kitkat-bars-stolen-after-leaving-factory-in-italy-for-poland-11280304#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/speeding-thar-kills-2-children-their-grandfather-in-gurugram-11280303#publisher=newsstand",
+    "category": "india",
+    "title": "Speeding Thar Kills 2 Children, Their Grandfather In Gurugram",
+    "summary": "The police have arrested the accused driver and taken the SUV into custody. (File)",
+    "image": "https://c.ndtvimg.com/2026-03/0qn2l3bs_thar_625x300_28_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 29 Mar 2026 00:18:00 +0530",
+    "link": "https://www.ndtv.com/india-news/speeding-thar-kills-2-children-their-grandfather-in-gurugram-11280303#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand",
     "category": "india",
     "title": "Iran War LIVE: Israel Army Says Struck Iran Complex Producing Naval Weapons",
@@ -90,34 +110,34 @@
     "link": "https://www.ndtv.com/india-news/on-camera-odisha-mla-fires-shot-in-air-during-ram-navami-procession-11280143#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/health/7-exercises-that-help-to-improve-shoulder-strength-11280136#publisher=newsstand",
-    "category": "india",
-    "title": "7 Exercises That Help To Improve Shoulder Strength",
-    "summary": "Performing a variety of exercises can yield transformative results by addressing all three deltoid heads, anterior, medial, and posterior, along with stabilisers for balanced development.",
-    "image": "https://c.ndtvimg.com/2026-03/8t5d3vic_shoulder-exercises_625x300_28_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 28 Mar 2026 23:20:59 +0530",
-    "link": "https://www.ndtv.com/health/7-exercises-that-help-to-improve-shoulder-strength-11280136#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1529584.html",
+    "category": "sports",
+    "title": "Virat Kohli: Whenever I come back to play, it's 120%",
+    "summary": "The RCB batter began his IPL 2026 season with a half-century in a commanding win against SRH",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415020.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 28 Mar 2026 21:09:38 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529584.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/india-news/tamil-nadu-assembly-elections-2026-o-panneerselvam-dmk-aiadmk-ops-to-contest-seat-hes-won-thrice-this-time-under-ex-arch-rivals-symbol-11280124#publisher=newsstand",
-    "category": "india",
-    "title": "OPS To Contest Seat He's Won Thrice. This Time Under Ex Arch-Rival's Symbol",
-    "summary": "OPS was with the AIADMK for nearly 50 years.",
-    "image": "https://c.ndtvimg.com/2022-06/u5b9raoc_o-panneerselvam_625x300_22_June_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 28 Mar 2026 23:13:28 +0530",
-    "link": "https://www.ndtv.com/india-news/tamil-nadu-assembly-elections-2026-o-panneerselvam-dmk-aiadmk-ops-to-contest-seat-hes-won-thrice-this-time-under-ex-arch-rivals-symbol-11280124#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1529583.html",
+    "category": "sports",
+    "title": "RCB begin title defence with statement win",
+    "summary": "Duffy set up the drubbing with the ball before Padikkal, Kohli fifties took RCB home",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415004.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 28 Mar 2026 20:33:59 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529583.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cd6l5n8jv4yo#0",
+    "id": "https://www.bbc.com/news/articles/cwyvd5z1xjno#0",
     "category": "global",
-    "title": "Iran-backed Houthis join war with attack against Israel",
-    "summary": "There are fears the Iranian proxy may attack shipping in the Red Sea, adding to global economic woes.",
+    "title": "Potential Houthi threat to Red Sea shipping could further damage global economy",
+    "summary": "The Iran-backed group could bring a second crucial waterway to a standstill, writes Sebastian Usher.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sat, 28 Mar 2026 20:11:53 GMT",
-    "link": "https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Sat, 28 Mar 2026 19:08:30 GMT",
+    "link": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529576.html",
@@ -138,26 +158,6 @@
     "source": "Cricinfo",
     "pubDate": "Sat, 28 Mar 2026 18:43:56 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529523.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529583.html",
-    "category": "sports",
-    "title": "RCB begin title defence with statement win",
-    "summary": "Duffy set up the drubbing with the ball before Padikkal, Kohli fifties took RCB home",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415004.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 28 Mar 2026 18:36:00 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529583.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529584.html",
-    "category": "sports",
-    "title": "Virat Kohli: Whenever I come back to play, it's 120%",
-    "summary": "The RCB batter began his IPL 2026 season with a half-century in a commanding win against SRH",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415020.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 28 Mar 2026 18:31:45 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529584.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529585.html",
