@@ -50,16 +50,6 @@
     "link": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c4gx01d0re1o#0",
-    "category": "global",
-    "title": "Remove VAT from energy bills for three years, Tories urge",
-    "summary": "There has been a renewed focus on energy costs since the outbreak of the war in Iran.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 29 Mar 2026 21:33:43 GMT",
-    "link": "https://www.bbc.com/news/articles/c4gx01d0re1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cn78v1yg7p1o#0",
     "category": "global",
     "title": "Counter-terror police join Derby car incident investigation",
@@ -68,36 +58,6 @@
     "source": "BBC",
     "pubDate": "Sun, 29 Mar 2026 21:22:13 GMT",
     "link": "https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c93eqg9wnx0o#0",
-    "category": "global",
-    "title": "Seven years since Emiliano Sala's death, what has changed for the 'wild west' of football transfers?",
-    "summary": "The Argentine striker\u2019s 2019 death in a plane crash shone a light on the opaque world of transfers and player welfare.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 29 Mar 2026 20:50:47 GMT",
-    "link": "https://www.bbc.com/news/articles/c93eqg9wnx0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529700.html",
-    "category": "sports",
-    "title": "Rahane says Green not bowling disrupts KKR's 'balance with the ball'",
-    "summary": "KKR captain feels Green's unavailability is a challenge but framed it as an opportunity for other bowlers",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/400200/400280.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 29 Mar 2026 20:46:34 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529700.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529698.html",
-    "category": "sports",
-    "title": "Penalty costly for Qalandars as Kings win low-scoring thriller",
-    "summary": "Shaheen's efforts on a two-paced pitch went in vain as Waseem and Co took Kings home",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414900/414976.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 29 Mar 2026 20:01:16 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529698.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529692.html",
@@ -120,16 +80,6 @@
     "link": "https://www.bbc.com/news/articles/cvgep3ryp9po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529681.html",
-    "category": "sports",
-    "title": "Rickelton, Rohit, Shardul break Mumbai's first-game jinx",
-    "summary": "MI win their first game of an IPL season for the first time since 2012",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415051.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 29 Mar 2026 18:59:06 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529681.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1529664.html",
     "category": "sports",
     "title": "Revamped RR and CSK aim to put past failures behind",
@@ -140,124 +90,234 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529664.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529646.html",
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-opens-at-93-59/-vs-previous-close-of-94-81/-amid-rbi-curbs-on-net-open-positions/articleshow/129891972.cms",
+    "category": "finance",
+    "title": "Rupee opens at 93.59/$ vs previous close of 94.81/$ amid RBI curbs on net open positions",
+    "summary": "The Indian rupee opened stronger today after the Reserve Bank of India introduced new rules. These curbs are expected to lead to banks selling dollars. However, importers and oil companies might buy dollars to hedge their positions. This comes as Bre",
+    "image": "https://img.etimg.com/photo/msid-129891972,imgsize-86398.cms",
+    "source": "ET",
+    "pubDate": "Mon, 30 Mar 2026 10:43:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-opens-at-93-59/-vs-previous-close-of-94-81/-amid-rbi-curbs-on-net-open-positions/articleshow/129891972.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/10-year-bond-yield-set-for-biggest-quarterly-spike-in-four-years/articleshow/129891973.cms",
+    "category": "finance",
+    "title": "10-year bond yield set for biggest quarterly spike in four years",
+    "summary": "India's benchmark bond yield is poised for its largest quarterly surge in four years, driven by escalating oil prices and inflation concerns stemming from the Middle East conflict.  This trend is expected to continue, impacting government borrowing c",
+    "image": "https://img.etimg.com/photo/msid-129891973,imgsize-7738.cms",
+    "source": "ET",
+    "pubDate": "Mon, 30 Mar 2026 10:43:27 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/10-year-bond-yield-set-for-biggest-quarterly-spike-in-four-years/articleshow/129891973.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/did-irb-infrastructure-shares-really-crash-50-heres-why-you-should-ignore-the-massive-plunge/articleshow/129891969.cms",
+    "category": "finance",
+    "title": "Did IRB Infrastructure shares really crash 50%? Here's why you should ignore the massive plunge",
+    "summary": "IRB Infrastructure Developers' stock surged 11% after turning ex-date for its 1:1 bonus issue, contrary to initial perceptions of a crash. The company, an integrated toll roads developer, also reported a 22% year-on-year growth in gross toll collecti",
+    "image": "https://img.etimg.com/photo/msid-129891969,imgsize-1247981.cms",
+    "source": "ET",
+    "pubDate": "Mon, 30 Mar 2026 10:43:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/did-irb-infrastructure-shares-really-crash-50-heres-why-you-should-ignore-the-massive-plunge/articleshow/129891969.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-volatility-set-to-persist-as-investors-brace-for-war-fallout/articleshow/129891854.cms",
+    "category": "finance",
+    "title": "Global Market: Volatility set to persist as investors brace for war fallout",
+    "summary": "Global markets face a volatile end to the first quarter. Geopolitical shocks and Middle East conflict have shaken investor confidence. Energy prices have surged, impacting inflation and monetary policy. Investors are cautious as the second quarter be",
+    "image": "https://img.etimg.com/photo/msid-129891854,imgsize-47264.cms",
+    "source": "ET",
+    "pubDate": "Mon, 30 Mar 2026 10:34:54 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-volatility-set-to-persist-as-investors-brace-for-war-fallout/articleshow/129891854.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-screams-buy-on-hdfc-bank-says-valuation-attractive-after-25-dip/articleshow/129891618.cms",
+    "category": "finance",
+    "title": "Jefferies screams buy on HDFC Bank, says valuation attractive after 25% dip",
+    "summary": "Jefferies maintains a bullish outlook on HDFC Bank, deeming its current valuation attractive after a significant stock decline. Despite recent concerns, the brokerage reiterates its 'Buy' rating, citing strong fundamentals and growth prospects. They ",
+    "image": "https://img.etimg.com/photo/msid-129891618,imgsize-203680.cms",
+    "source": "ET",
+    "pubDate": "Mon, 30 Mar 2026 10:18:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-screams-buy-on-hdfc-bank-says-valuation-attractive-after-25-dip/articleshow/129891618.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-shanghai-stock-index-steady-after-1-slide-as-mideast-tensions-weigh/articleshow/129891576.cms",
+    "category": "finance",
+    "title": "Global Markets | Shanghai stock index steady after 1% slide as Mideast tensions weigh",
+    "summary": "Asian markets, including China and Hong Kong, experienced a significant downturn Monday, mirroring a broader regional sell-off. Escalating Middle East tensions and uncertainties surrounding peace talks dampened investor sentiment. Despite initial los",
+    "image": "https://img.etimg.com/photo/msid-129891576,imgsize-220848.cms",
+    "source": "ET",
+    "pubDate": "Mon, 30 Mar 2026 10:13:45 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-shanghai-stock-index-steady-after-1-slide-as-mideast-tensions-weigh/articleshow/129891576.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bank-stocks-fall-up-to-3-as-rbi-forex-clampdown-sparks-rs-4000-crore-loss-fear/articleshow/129891409.cms",
+    "category": "finance",
+    "title": "Bank stocks fall up to 3% as RBI forex clampdown sparks Rs 4,000 crore loss fears",
+    "summary": "Banking stocks fell up to 3% after RBI imposed stricter forex position limits, raising concerns over potential mark-to-market losses of Rs 4,000 crore. Analysts warn unwinding large arbitrage trades could hit Q4 earnings, though some market participa",
+    "image": "https://img.etimg.com/photo/msid-129891409,imgsize-29608.cms",
+    "source": "ET",
+    "pubDate": "Mon, 30 Mar 2026 10:05:50 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bank-stocks-fall-up-to-3-as-rbi-forex-clampdown-sparks-rs-4000-crore-loss-fear/articleshow/129891409.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/iran-war-volatility-strains-trading-in-worlds-biggest-markets/articleshow/129891307.cms",
+    "category": "finance",
+    "title": "Iran war volatility strains trading in world's biggest markets",
+    "summary": "The war in Iran has triggered widespread financial market chaos, making trading difficult and expensive as investors and market makers shy away from risk. Volatility has surged across major markets, including U.S. Treasuries and gold, with liquidity ",
+    "image": "https://img.etimg.com/photo/msid-129891307,imgsize-94092.cms",
+    "source": "ET",
+    "pubDate": "Mon, 30 Mar 2026 09:54:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/iran-war-volatility-strains-trading-in-worlds-biggest-markets/articleshow/129891307.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/bihar-board-10th-result-live-updates-scorecard-out-today-at-1-15-pm-download-link-here-11281145#publisher=newsstand",
+    "category": "india",
+    "title": "BSEB Bihar Board 10th Result 2026 Highlights (Out): Pushpanjali And Sabreen Share First Rank With Identical Scores",
+    "summary": "BSEB 10th\u00a0Result\u00a02026 Highlights: Out Today, Download Directly Here",
+    "image": "https://c.ndtvimg.com/2026-03/hkgvc9ok_bihar-board-2026_625x300_16_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 30 Mar 2026 09:29:45 +0530",
+    "link": "https://www.ndtv.com/education/bihar-board-10th-result-live-updates-scorecard-out-today-at-1-15-pm-download-link-here-11281145#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/stock-market-live-updates-gift-nifty-negative-sensex-nifty-rise-in-oil-prices-iran-war-11284079#publisher=newsstand",
+    "category": "india",
+    "title": "Stock Market Live Updates: Sensex Slides 1,000 Points At Open As Crude Oil Surges Amid Iran War",
+    "summary": "Stock Market News Today Live: Both Sensex and Nifty declined at open.",
+    "image": "https://c.ndtvimg.com/2026-03/kabt9jls_stock-market-crash-_625x300_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 30 Mar 2026 09:28:34 +0530",
+    "link": "https://www.ndtv.com/india-news/stock-market-live-updates-gift-nifty-negative-sensex-nifty-rise-in-oil-prices-iran-war-11284079#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/science/the-twelve-moon-walkers-humanitys-first-footsteps-beyond-earth-11284278#publisher=newsstand",
+    "category": "india",
+    "title": "The Twelve Moon Walkers: Humanity's First Footsteps Beyond Earth",
+    "summary": "The moonwalkers were not merely astronauts; they were pioneers of a new planetary frontier.",
+    "image": "https://c.ndtvimg.com/2024-05/2jr8bmt_neil-armstrong-moon-landing_625x300_08_May_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 30 Mar 2026 09:28:02 +0530",
+    "link": "https://www.ndtv.com/science/the-twelve-moon-walkers-humanitys-first-footsteps-beyond-earth-11284278#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/march-31-income-tax-deadline-ignore-this-date-and-your-tax-bill-could-jump-overnight-11284280#publisher=newsstand",
+    "category": "india",
+    "title": "March 31 Deadline: Ignore This And You Lose These \"Guaranteed\" Tax Returns",
+    "summary": "Unpaid tax after March 31 will invite penalties",
+    "image": "https://c.ndtvimg.com/2026-03/kggse4oo_new-income-tax-act-2025_625x300_26_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 30 Mar 2026 09:27:30 +0530",
+    "link": "https://www.ndtv.com/india-news/march-31-income-tax-deadline-ignore-this-date-and-your-tax-bill-could-jump-overnight-11284280#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/why-is-nasa-spending-100-billion-to-return-to-the-moon-depends-on-who-you-ask-nasa-artemis-programme-11284251#publisher=newsstand",
+    "category": "india",
+    "title": "Why Is NASA Spending $100 Billion to Return To Moon? Depends On Who You Ask",
+    "summary": "Artemis II is NASA's first crewed test flight in the Artemis campaign",
+    "image": "https://c.ndtvimg.com/2026-02/1qtptvo8_artemis-ii-_625x300_05_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 30 Mar 2026 09:23:06 +0530",
+    "link": "https://www.ndtv.com/world-news/why-is-nasa-spending-100-billion-to-return-to-the-moon-depends-on-who-you-ask-nasa-artemis-programme-11284251#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/watch-child-hits-biker-with-water-balloon-from-moving-car-delhi-police-takes-action-11283414#publisher=newsstand",
+    "category": "india",
+    "title": "Watch: Child Hits Biker With Water Balloon From Moving Car, Delhi Police Takes Action",
+    "summary": "After video went viral, social media users demanded accountability.",
+    "image": "https://c.ndtvimg.com/2026-03/jvhp2ssk_delhi-police_625x300_29_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 30 Mar 2026 09:19:26 +0530",
+    "link": "https://www.ndtv.com/india-news/watch-child-hits-biker-with-water-balloon-from-moving-car-delhi-police-takes-action-11283414#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/telangana-news/telangana-assembly-passes-bill-to-ensure-senior-citizens-financial-security-11282217#publisher=newsstand",
+    "category": "india",
+    "title": "Telangana Assembly Passes Bill To Ensure Senior Citizens' Financial Security",
+    "summary": "Chief Minister A Revanth Reddy said the Bill seeks to go beyond existing central legislation.",
+    "image": "https://c.ndtvimg.com/2023-08/uiukl0e8_telangana-assembly-650_625x300_05_August_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 30 Mar 2026 09:07:24 +0530",
+    "link": "https://www.ndtv.com/telangana-news/telangana-assembly-passes-bill-to-ensure-senior-citizens-financial-security-11282217#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-trump-claims-us-destroyed-long-sought-after-targets-says-big-day-in-iran-11284133#publisher=newsstand",
+    "category": "india",
+    "title": "Trump's \"Big Day\" Post, Hours After Iran Shared A Stock Market \"Heads-Up\"",
+    "summary": "Trump has said many sought after targets in Iran have been taken out",
+    "image": "https://c.ndtvimg.com/2026-03/t9a2prf4_trump_625x300_30_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 30 Mar 2026 09:03:10 +0530",
+    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-trump-claims-us-destroyed-long-sought-after-targets-says-big-day-in-iran-11284133#publisher=newsstand"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c93eqg9wnx0o#0",
+    "category": "global",
+    "title": "Seven years since Emiliano Sala's death, what has changed for the 'wild west' of football transfers?",
+    "summary": "The Argentine striker\u2019s 2019 death in a plane crash shone a light on the opaque world of transfers and player welfare.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 30 Mar 2026 05:14:27 GMT",
+    "link": "https://www.bbc.com/news/articles/c93eqg9wnx0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529681.html",
     "category": "sports",
-    "title": "Dewald Brevis to miss CSK's opening game in IPL 2026",
-    "summary": "CSK are already without Ellis, who has been ruled out of the season, and Dhoni, who is likely to miss the first two weeks",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/400400/400435.jpg",
+    "title": "Rickelton, Rohit and Thakur break Mumbai's first-game jinx",
+    "summary": "MI win their first game of an IPL season for the first time since 2012",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415051.jpg",
     "source": "Cricinfo",
-    "pubDate": "Sun, 29 Mar 2026 18:51:07 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529646.html?ex_cid=OTC-RSS"
+    "pubDate": "Mon, 30 Mar 2026 05:10:16 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529681.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-date-to-buy-shares-of-these-two-companies-for-bonus-shares-do-you-own-any/articleshow/129889849.cms",
-    "category": "finance",
-    "title": "Bonus issue alert! Last date to buy shares of these two companies for bonus shares. Do you own any?",
-    "summary": "Investors have a chance to receive bonus shares from Triton Valves and IRB Infrastructure Developers. The record date for both companies is April 1. To be eligible, shares must be in demat accounts by this date. Markets are closed on March 31 for Mah",
-    "image": "https://img.etimg.com/photo/msid-129889849,imgsize-46794.cms",
-    "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 07:28:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-date-to-buy-shares-of-these-two-companies-for-bonus-shares-do-you-own-any/articleshow/129889849.cms"
+    "id": "https://www.bbc.com/news/articles/cewzw812dd1o#0",
+    "category": "global",
+    "title": "'I dread the phone ringing': Inside the kennels responding to vicious XL bully attacks",
+    "summary": "Staff tell Panorama the aggression levels of the dangerous dogs they help to seize are rising.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 30 Mar 2026 05:00:09 GMT",
+    "link": "https://www.bbc.com/news/articles/cewzw812dd1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/cmpdi-ipo-coal-india-subsidiary-shares-to-debut-today-check-price-band-other-details/articleshow/129889829.cms",
-    "category": "finance",
-    "title": "CMPDI IPO: Coal India subsidiary shares to debut today. Check  price band, other details",
-    "summary": "Central Mine Planning and Design Institute Ltd shares are listing on the BSE and NSE today. The Coal India subsidiary's initial public offering was fully subscribed. Demand was led by institutional buyers. The IPO was an offer for sale, raising Rs 1,",
-    "image": "https://img.etimg.com/photo/msid-129889829,imgsize-14530.cms",
-    "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 07:26:50 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/cmpdi-ipo-coal-india-subsidiary-shares-to-debut-today-check-price-band-other-details/articleshow/129889829.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1529700.html",
+    "category": "sports",
+    "title": "Rahane says Green not bowling disrupts KKR's 'balance with the ball'",
+    "summary": "KKR captain feels Green's unavailability is a challenge but framed it as an opportunity for other bowlers",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415064.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 30 Mar 2026 04:25:14 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529700.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/speciality-medicines-ipo-sme-stock-to-list-today-check-price-band-other-details/articleshow/129889799.cms",
-    "category": "finance",
-    "title": "Speciality Medicines IPO: SME stock to list today. Check price band, other details",
-    "summary": "Speciality Medicines shares debut on the BSE SME platform today. The company's IPO, a fresh issue, sought to raise approximately Rs 29 crore. The price band was set between Rs 117 and Rs 124 per share. Proceeds will fund an R&amp;D centre, internatio",
-    "image": "https://img.etimg.com/photo/msid-129889799,imgsize-636907.cms",
-    "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 07:24:24 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/speciality-medicines-ipo-sme-stock-to-list-today-check-price-band-other-details/articleshow/129889799.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1529698.html",
+    "category": "sports",
+    "title": "Penalty costly for Qalandars as Kings win low-scoring thriller",
+    "summary": "Shaheen's efforts on a two-paced pitch went in vain as Waseem and Co took Kings home",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414900/414976.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 30 Mar 2026 04:23:33 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529698.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/dollar-holds-firm-as-risk-of-protracted-middle-east-war-saps-sentiment/articleshow/129889757.cms",
-    "category": "finance",
-    "title": "Dollar holds firm as risk of protracted Middle East war saps sentiment",
-    "summary": "Global markets are on edge as Middle East tensions escalate, pushing the U.S. dollar higher and weakening the Japanese yen past a critical 160 level, sparking intervention fears. Investors are seeking safety amid concerns over prolonged conflict and ",
-    "image": "https://img.etimg.com/photo/msid-129889757,imgsize-61860.cms",
-    "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 07:19:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/dollar-holds-firm-as-risk-of-protracted-middle-east-war-saps-sentiment/articleshow/129889757.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1529717.html",
+    "category": "sports",
+    "title": "PSL ball-tampering: Fakhar Zaman could be banned for one or two matches",
+    "summary": "Lahore Qalandars were penalised five runs in their game against Karachi Kings, and Fakhar Zaman now faces a hearing with match referee Roshan Mahanama",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415063.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 30 Mar 2026 03:55:35 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529717.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-falls-more-than-1-as-houthi-attack-lifts-oil-dims-fed-cut-hopes/articleshow/129889738.cms",
-    "category": "finance",
-    "title": "Gold falls more than 1% as Houthi attack lifts oil, dims Fed cut hopes",
-    "summary": "Gold prices tumbled over 1% as escalating energy costs fueled inflation fears, diminishing hopes for U.S. interest rate cuts this year. The precious metal has seen a significant monthly decline, impacted by a strengthening dollar amid the ongoing con",
-    "image": "https://img.etimg.com/photo/msid-129889738,imgsize-87742.cms",
-    "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 07:16:56 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-falls-more-than-1-as-houthi-attack-lifts-oil-dims-fed-cut-hopes/articleshow/129889738.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/lme-aluminium-nears-four-year-peak-after-iran-attacks-on-gulf-smelters/articleshow/129889720.cms",
-    "category": "finance",
-    "title": "LME aluminium nears four year peak after Iran attacks on Gulf smelters",
-    "summary": "Aluminium prices surged on Monday, nearing four-year highs as Middle East's largest producers, Emirates Global Aluminium and Aluminium Bahrain, reported damage from Iranian attacks.  The strikes impacted facilities, with two employees injured at Alum",
-    "image": "https://img.etimg.com/photo/msid-129889720,imgsize-38932.cms",
-    "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 07:15:04 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/lme-aluminium-nears-four-year-peak-after-iran-attacks-on-gulf-smelters/articleshow/129889720.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/stock-market-amid-iran-war-portfolio-in-red-these-5-stocks-under-rs-100-may-reward-patience-11283958#publisher=newsstand",
-    "category": "india",
-    "title": "Portfolio In Red? These 5 Stocks Under Rs 100 May Reward Patience",
-    "summary": "Stock market analysts see selective pockets of value emerging amid turbulence due to the Iran war.",
-    "image": "https://c.ndtvimg.com/2026-03/9pub0tu8_penny-stocks_625x300_20_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 07:01:22 +0530",
-    "link": "https://www.ndtv.com/india-news/stock-market-amid-iran-war-portfolio-in-red-these-5-stocks-under-rs-100-may-reward-patience-11283958#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/delhi-police-arrest-man-sending-hoax-bomb-threats-from-mysuru-11281796#publisher=newsstand",
-    "category": "india",
-    "title": "Delhi Police Arrest Man Sending Hoax Bomb Threats From Mysuru",
-    "summary": "The accused is being taken to Delhi for further questioning and investigation.",
-    "image": "https://c.ndtvimg.com/2025-08/mdvof4p4_delhi-police-generic_625x300_04_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 06:52:11 +0530",
-    "link": "https://www.ndtv.com/india-news/delhi-police-arrest-man-sending-hoax-bomb-threats-from-mysuru-11281796#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-stocks-dive-in-asia-brent-crude-heads-for-record-monthly-rise/articleshow/129889477.cms",
-    "category": "finance",
-    "title": "Global Market Today | Stocks dive in Asia, brent crude heads for record monthly rise",
-    "summary": "Asian markets tumbled as investors braced for a prolonged Gulf conflict, driving oil prices to record monthly gains and fueling global inflation fears. President Trump's remarks on potential U.S. actions against Iran's oil exports added to market jit",
-    "image": "https://img.etimg.com/photo/msid-129889477,imgsize-107306.cms",
-    "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 06:27:08 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-stocks-dive-in-asia-brent-crude-heads-for-record-monthly-rise/articleshow/129889477.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/india-unleashes-curbs-on-rupee-bets-as-intervention-costs-swell/articleshow/129889456.cms",
-    "category": "finance",
-    "title": "India unleashes curbs on rupee bets as intervention costs swell",
-    "summary": "India's central bank is implementing forceful new rules to curb speculative bets against the rupee, capping banks' open positions at $100 million daily. This shift from direct intervention aims to stabilize the currency amid record lows driven by the",
-    "image": "https://img.etimg.com/photo/msid-129889456,imgsize-97224.cms",
-    "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 06:25:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/india-unleashes-curbs-on-rupee-bets-as-intervention-costs-swell/articleshow/129889456.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-pakistan-to-hold-regional-meeting-on-ending-iran-war-middle-east-conflict-saudi-arabia-turkey-egypt-strait-of-hormuz-11281097#publisher=newsstand",
-    "category": "india",
-    "title": "US Israel Iran War LIVE: Indian Killed After Iranian Strike Damages Kuwait Power Station",
-    "summary": "US Israel Iran War News LIVE Updates: The United States and Israel continue to strike Iran, whose retaliatory attacks have targeted Israel and neighboring Gulf Arab states. More than 3,000 people have been killed.",
-    "image": "https://c.ndtvimg.com/2026-03/93evgrq8_iran-war_625x300_29_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 06:18:01 +0530",
-    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-pakistan-to-hold-regional-meeting-on-ending-iran-war-middle-east-conflict-saudi-arabia-turkey-egypt-strait-of-hormuz-11281097#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/cz905eyjznno#0",
+    "category": "global",
+    "title": "Oil rises above $115 and Asia shares slide as Iran war enters fifth week",
+    "summary": "It comes after Iran-backed Houthi rebels in Yemen joined the conflict by striking Israel over the weekend.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 30 Mar 2026 03:34:37 GMT",
+    "link": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c93e4gxn22wo#0",
@@ -270,16 +330,6 @@
     "link": "https://www.bbc.com/news/articles/c93e4gxn22wo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cz905eyjznno#0",
-    "category": "global",
-    "title": "Oil rises above $115 and Asia stocks slide as Iran war escalates",
-    "summary": "It comes after Iran-backed Houthi rebels in Yemen joined the conflict by striking Israel over the weekend.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 30 Mar 2026 01:45:22 GMT",
-    "link": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1529713.html",
     "category": "sports",
     "title": "Mooney and Australia's spinners stand out as Australia go 2-0 up",
@@ -290,16 +340,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529713.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/india-news/up-woman-who-eloped-with-instagram-friend-returns-after-childrens-request-11283579#publisher=newsstand",
-    "category": "india",
-    "title": "UP Woman Who Eloped With Instagram Friend Returns After Children's Request",
-    "summary": "The incident took place in a village under Campierganj police station area, where the woman had left her husband and children around ten days ago to live with her 28-year-old lover from the Maniram area.",
-    "image": "https://c.ndtvimg.com/2026-03/do549pdk_instagram_625x300_11_March_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 00:52:15 +0530",
-    "link": "https://www.ndtv.com/india-news/up-woman-who-eloped-with-instagram-friend-returns-after-childrens-request-11283579#publisher=newsstand"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1529707.html",
     "category": "sports",
     "title": "McAndrew, Scott, Thornton bowl South Australia to stunning Shield title",
@@ -308,46 +348,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 30 Mar 2026 00:46:17 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529707.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-israel-war-iran-war-mojtabas-new-message-days-after-trumps-dont-know-if-hes-alive-claim-11283553#publisher=newsstand",
-    "category": "india",
-    "title": "Mojtaba's New Message, Days After Trump's 'Don't Know If He's Alive' Claim",
-    "summary": "Mojtaba Khamenei is the son of former supreme leader Ali Khamenei",
-    "image": "https://c.ndtvimg.com/2026-03/lvbl8kpk_mojtaba_160x120_20_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 00:29:39 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-iran-war-mojtabas-new-message-days-after-trumps-dont-know-if-hes-alive-claim-11283553#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/no-compensation-no-help-the-silent-victims-of-2013-bastar-maoist-massacre-11283542#publisher=newsstand",
-    "category": "india",
-    "title": "No Compensation, No Help: The Silent Victims Of 2013 Bastar Maoist Massacre",
-    "summary": "\"I don't sleep at night,\" said Rambha Devi, after her sn died in Jhiram Ghati.",
-    "image": "https://c.ndtvimg.com/2026-03/o0h3nh8s_jhiram-ghati-massacre-family_625x300_30_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 00:22:48 +0530",
-    "link": "https://www.ndtv.com/india-news/no-compensation-no-help-the-silent-victims-of-2013-bastar-maoist-massacre-11283542#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/india-faces-bottleneck-in-new-aircraft-procurement-aviation-minister-11283528#publisher=newsstand",
-    "category": "india",
-    "title": "India Faces Bottleneck In New Aircraft Procurement: Aviation Minister",
-    "summary": "Ram Mohan Naidu further said that the government plans to develop 50 airports in the next five years.",
-    "image": "https://c.ndtvimg.com/2024-06/8uibhvng_ram-mohan-naidu_640x480_11_June_24.jpg",
-    "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 00:07:23 +0530",
-    "link": "https://www.ndtv.com/india-news/india-faces-bottleneck-in-new-aircraft-procurement-aviation-minister-11283528#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-israel-war-iran-war-fire-rages-as-shrapnel-from-iran-missile-hits-industrial-facility-in-israel-11283525#publisher=newsstand",
-    "category": "india",
-    "title": "Fire Rages As Shrapnel From Iran Missile Hits Industrial Facility In Israel",
-    "summary": "Israel's Fire and Rescue said a pesticide tank was hit.",
-    "image": "https://c.ndtvimg.com/2026-03/pb8slg84_1_625x300_30_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 00:05:58 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-iran-war-fire-rages-as-shrapnel-from-iran-missile-hits-industrial-facility-in-israel-11283525#publisher=newsstand"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
