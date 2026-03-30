@@ -40,16 +40,6 @@
     "link": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c5y96wyj5pyo#0",
-    "category": "global",
-    "title": "\u2018Child-focused\u2019 approach in family court battles is biggest change in 30 years, top judge says",
-    "summary": "Sir Andrew McFarlane welcomes the government backing for the change, saying it will turn the old approach \"on its head\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 29 Mar 2026 23:07:04 GMT",
-    "link": "https://www.bbc.com/news/articles/c5y96wyj5pyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c9vlm2ggrwlo#0",
     "category": "global",
     "title": "Car finance compensation details to be revealed with average payout of \u00a3700 expected",
@@ -70,24 +60,64 @@
     "link": "https://www.bbc.com/news/articles/cn4vw2xmpzzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cvgep3ryp9po#0",
-    "category": "global",
-    "title": "Councils in England urged to use universal parking app to cut 'unfair' fines",
-    "summary": "The National Parking Platform already has 15 councils on board with more in talks to join.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 29 Mar 2026 19:02:35 GMT",
-    "link": "https://www.bbc.com/news/articles/cvgep3ryp9po?at_medium=RSS&at_campaign=rss"
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-pe-sinks-to-7-year-low-as-war-and-ai-angst-weigh/articleshow/129898017.cms",
+    "category": "finance",
+    "title": "Nvidia's PE sinks to 7-year low as war and AI angst weigh",
+    "summary": "Amid global market turmoil over the Middle East conflict, Nvidia trades at its cheapest price-to-earnings multiple since before the AI boom. Shares have fallen nearly 20% from October highs, reflecting broader investor caution. While the drop may sig",
+    "image": "https://img.etimg.com/photo/msid-129898017,imgsize-40659.cms",
+    "source": "ET",
+    "pubDate": "Mon, 30 Mar 2026 16:02:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-pe-sinks-to-7-year-low-as-war-and-ai-angst-weigh/articleshow/129898017.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-us-boots-on-the-ground-american-troop-movements-middle-east-11285015#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-at-95-worst-case-scenario-of-100-moves-closer-how-bad-is-it-for-markets/articleshow/129897752.cms",
+    "category": "finance",
+    "title": "Rupee at 95: Worst-case scenario of 100 moves closer; how bad is it for markets?",
+    "summary": "The Indian rupee slipped past 95 against the US dollar, driven by structural imbalances, foreign outflows, and high oil prices. RBI-imposed limits on banks\u2019 forex positions aim to curb speculation and arbitrage. A further slide toward 100 could press",
+    "image": "https://img.etimg.com/photo/msid-129897752,imgsize-106245.cms",
+    "source": "ET",
+    "pubDate": "Mon, 30 Mar 2026 15:54:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-at-95-worst-case-scenario-of-100-moves-closer-how-bad-is-it-for-markets/articleshow/129897752.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/stock-market-live-updates-gift-nifty-negative-sensex-nifty-rise-in-oil-prices-iran-war-11284079#publisher=newsstand",
     "category": "india",
-    "title": "Iran Quagmire Beckons: 57,000+ Boots Flood Gulf. Where Are They Stationed",
-    "summary": "Marines with the 11th Marine Expeditionary Unit en route to Iran.",
-    "image": "https://c.ndtvimg.com/2026-03/21v4j8o_us-military-equipment-rushed-to-iran_625x300_30_March_26.jpeg",
+    "title": "Stock Market Highlights: Rs 10 Lakh Crore Lost As Markets End 2% Lower, Sensex Drops 1,635 Points",
+    "summary": "Stock Market News Today: Both Sensex and Nifty declined at close.",
+    "image": "https://c.ndtvimg.com/2026-03/kabt9jls_stock-market-crash-_625x300_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 14:03:41 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-us-boots-on-the-ground-american-troop-movements-middle-east-11285015#publisher=newsstand"
+    "pubDate": "Mon, 30 Mar 2026 15:35:22 +0530",
+    "link": "https://www.ndtv.com/india-news/stock-market-live-updates-gift-nifty-negative-sensex-nifty-rise-in-oil-prices-iran-war-11284079#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/commodity-radar-despite-golds-rs-55000-fall-from-peak-only-limited-upside-and-not-a-breakaway-rally-seen-heres-why/articleshow/129897375.cms",
+    "category": "finance",
+    "title": "Commodity Radar: Despite gold's Rs 55,000 fall from peak, only limited upside and not a breakaway rally seen: Here's why",
+    "summary": "Gold prices saw a relief rally on Monday, gaining Rs 2,000 per 10 gram after a massive 27% correction from lifetime highs. While geopolitical tensions offer support, rising crude prices and delayed US Fed rate cuts suggest only a limited recovery rat",
+    "image": "https://img.etimg.com/photo/msid-129897375,imgsize-109189.cms",
+    "source": "ET",
+    "pubDate": "Mon, 30 Mar 2026 15:34:45 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/commodity-radar-despite-golds-rs-55000-fall-from-peak-only-limited-upside-and-not-a-breakaway-rally-seen-heres-why/articleshow/129897375.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/rupee-hits-all-time-low-breaches-95-level-against-us-dollar-rbi-stock-market-11285719#publisher=newsstand",
+    "category": "india",
+    "title": "Rupee Hits All-Time-Low, Breaches 95-Level Against US Dollar",
+    "summary": "The rupee opened at 93.62 and then gained further ground to 93.57 against the US dollar.",
+    "image": "https://c.ndtvimg.com/2026-03/kao737rs_rupee_625x300_30_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 30 Mar 2026 15:33:44 +0530",
+    "link": "https://www.ndtv.com/india-news/rupee-hits-all-time-low-breaches-95-level-against-us-dollar-rbi-stock-market-11285719#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/i-look-very-young-for-my-age-dutch-politician-59-defends-ai-campaign-photo-amid-backlash-11285026#publisher=newsstand",
+    "category": "india",
+    "title": "\"I Look Very Young For My Age\": Dutch Politician, 59, Defends AI Campaign Photo Amid Backlash",
+    "summary": "The stark contrast between the two images has since sparked widespread amusement online.",
+    "image": "https://c.ndtvimg.com/2026-03/r8trmvlc_dutch-politician_625x300_30_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 30 Mar 2026 15:27:19 +0530",
+    "link": "https://www.ndtv.com/world-news/i-look-very-young-for-my-age-dutch-politician-59-defends-ai-campaign-photo-amid-backlash-11285026#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/education/delhi-school-result-2025-2026-class-9-11-school-result-today-check-details-download-link-here-11284596#publisher=newsstand",
@@ -96,148 +126,148 @@
     "summary": "DoE Class 9, 11 School Result OUT, Download Link, Details Here",
     "image": "https://c.ndtvimg.com/2026-03/3lgcphkk_as_625x300_30_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 14:02:00 +0530",
+    "pubDate": "Mon, 30 Mar 2026 15:24:55 +0530",
     "link": "https://www.ndtv.com/education/delhi-school-result-2025-2026-class-9-11-school-result-today-check-details-download-link-here-11284596#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/bihar-board-10th-result-live-updates-scorecard-out-today-at-1-15-pm-download-link-here-11281145#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-stocks-steady-ahead-of-inflation-data/articleshow/129897038.cms",
+    "category": "finance",
+    "title": "Global Markets | European stocks steady ahead of inflation data",
+    "summary": "European shares were little changed on Monday ahead of local inflation data, while investors continued to monitor developments in the Middle East war that has \u200cupended global \u2060markets.",
+    "image": "https://img.etimg.com/photo/msid-129897038,imgsize-60518.cms",
+    "source": "ET",
+    "pubDate": "Mon, 30 Mar 2026 15:20:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-stocks-steady-ahead-of-inflation-data/articleshow/129897038.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/jewar-airport-inauguration-real-estate-investment-property-buy-good-returns-greater-noida-flat-land-11285586#publisher=newsstand",
     "category": "india",
-    "title": "BSEB Bihar Board 10th Result 2026 Highlights: Pushpanjali And Sabreen Share First Rank With Identical Scores",
-    "summary": "BSEB 10th\u00a0Result\u00a02026 Highlights: Out Today, Download Directly Here",
-    "image": "https://c.ndtvimg.com/2026-03/hkgvc9ok_bihar-board-2026_625x300_16_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Have You Missed The Bus To Jewar Airport, Or Is Property Still A Smart Buy",
+    "summary": "Jewar airport's influence extends far beyond Noida, impacting Aligarh, Bulandshahr, and Khurja.",
+    "image": "https://c.ndtvimg.com/2026-03/ril2qabk_noida-international-airport-delhi-to-jewar-_625x300_28_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 14:01:30 +0530",
-    "link": "https://www.ndtv.com/education/bihar-board-10th-result-live-updates-scorecard-out-today-at-1-15-pm-download-link-here-11281145#publisher=newsstand"
+    "pubDate": "Mon, 30 Mar 2026 15:18:06 +0530",
+    "link": "https://www.ndtv.com/india-news/jewar-airport-inauguration-real-estate-investment-property-buy-good-returns-greater-noida-flat-land-11285586#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/jamtara-man-25-dupes-bombay-high-court-judge-of-rs-6-lakh-in-cyber-fraud-arrested-11285248#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/aniruddhacharya-delhi-high-court-you-cant-be-attached-to-your-reputation-judges-dig-at-aniruddhacharya-11285427#publisher=newsstand",
     "category": "india",
-    "title": "Man, 25, Dupes Bombay High Court Judge Of Rs 6 Lakh In Cyber Fraud, Arrested",
-    "summary": "The investigation has revealed that the accused is linked to at least 36 cases of cyber fraud",
-    "image": "https://c.ndtvimg.com/2025-07/ho5kh54g_cyber-fraud-_625x300_19_July_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "'You Can't Be Attached To Your Reputation': Judge's Dig At Aniruddhacharya",
+    "summary": "Aniruddhacharya has approached court over morphed videos of his remarks",
+    "image": "https://c.ndtvimg.com/2025-08/l1nctngs_aniruddhacharya_625x300_08_August_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 14:01:27 +0530",
-    "link": "https://www.ndtv.com/india-news/jamtara-man-25-dupes-bombay-high-court-judge-of-rs-6-lakh-in-cyber-fraud-arrested-11285248#publisher=newsstand"
+    "pubDate": "Mon, 30 Mar 2026 15:15:09 +0530",
+    "link": "https://www.ndtv.com/india-news/aniruddhacharya-delhi-high-court-you-cant-be-attached-to-your-reputation-judges-dig-at-aniruddhacharya-11285427#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/dozens-of-phones-stolen-during-opening-royal-challengers-bengaluru-sunrisers-hyderabad-ipl-match-in-bengaluru-11285251#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/forex/rupee-sinks-to-fresh-all-time-low-breaches-crucial-95-vs-usd-mark-for-first-time/articleshow/129896806.cms",
+    "category": "finance",
+    "title": "Rupee sinks to fresh all-time low, breaches crucial 95 vs USD mark for first time",
+    "summary": "The Indian rupee faced pressure on Monday. Corporates exploited arbitrage opportunities between onshore and non-deliverable forward markets. This emerged after the Reserve Bank of India tightened banks' forex positions. The rupee hit a record low aga",
+    "image": "https://img.etimg.com/photo/msid-129896806,imgsize-98244.cms",
+    "source": "ET",
+    "pubDate": "Mon, 30 Mar 2026 15:11:42 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/rupee-sinks-to-fresh-all-time-low-breaches-crucial-95-vs-usd-mark-for-first-time/articleshow/129896806.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-pakistan-to-hold-regional-meeting-on-ending-iran-war-middle-east-conflict-saudi-arabia-turkey-egypt-strait-of-hormuz-11281097#publisher=newsstand",
     "category": "india",
-    "title": "Dozens Of Phones Stolen During Opening IPL Match In Bengaluru",
-    "summary": "At least 30 phones have been reported stolen so far, said DCP (Central Division) Akshay Hakay.",
-    "image": "https://c.ndtvimg.com/2026-02/jkccssj8_chinnaswamy-stadium-bengaluru_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "US Israel Iran War LIVE: Iran Confirms Death Of Guards Navy Commander Alireza Tangsiri",
+    "summary": "US Israel Iran War News LIVE Updates: The United States and Israel continue to strike Iran, whose retaliatory attacks have targeted Israel and neighboring Gulf Arab states. More than 3,000 people have been killed.",
+    "image": "https://c.ndtvimg.com/2026-03/93evgrq8_iran-war_625x300_29_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 14:01:09 +0530",
-    "link": "https://www.ndtv.com/india-news/dozens-of-phones-stolen-during-opening-royal-challengers-bengaluru-sunrisers-hyderabad-ipl-match-in-bengaluru-11285251#publisher=newsstand"
+    "pubDate": "Mon, 30 Mar 2026 15:07:27 +0530",
+    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-pakistan-to-hold-regional-meeting-on-ending-iran-war-middle-east-conflict-saudi-arabia-turkey-egypt-strait-of-hormuz-11281097#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/ceos-in-india-earn-this-huge-amount-annually-but-hike-slowest-since-covid-deloitte-11285208#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/glp-1-drugs-in-india-how-to-spot-fakes-before-its-too-late-11285340#publisher=newsstand",
     "category": "india",
-    "title": "CEOs In India Earn This Huge Amount Annually, But Hike Slowest Since Covid",
-    "summary": "The Deloitte India report found that nearly one-third of CEO pay is linked to stock awards.",
-    "image": "https://c.ndtvimg.com/2026-01/kngc6ui_ceo_625x300_20_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "GLP-1 Drugs In India: How To Spot Fakes Before It's Too Late",
+    "summary": "How to spot fake GLP-1 Drugs",
+    "image": "https://c.ndtvimg.com/2026-03/b6lo30u8_glp1-drugs_625x300_30_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 14:00:00 +0530",
-    "link": "https://www.ndtv.com/india-news/ceos-in-india-earn-this-huge-amount-annually-but-hike-slowest-since-covid-deloitte-11285208#publisher=newsstand"
+    "pubDate": "Mon, 30 Mar 2026 15:02:26 +0530",
+    "link": "https://www.ndtv.com/health/glp-1-drugs-in-india-how-to-spot-fakes-before-its-too-late-11285340#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/team-trumps-covert-op-to-annex-greenland-that-wasnt-11285129#publisher=newsstand",
-    "category": "india",
-    "title": "3 Trump Allies In Greenland And A 'Covert Op' Mystery",
-    "summary": "If the three have been running an influence campaign, it has been conducted in plain sight",
-    "image": "https://c.ndtvimg.com/2019-08/g8qsksek_greenland-reuters_625x300_16_August_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 13:59:00 +0530",
-    "link": "https://www.ndtv.com/world-news/team-trumps-covert-op-to-annex-greenland-that-wasnt-11285129#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/glp-1-should-not-be-used-as-a-quick-fix-for-weight-loss-and-diabetes-management-warns-top-experts-11285152#publisher=newsstand",
-    "category": "india",
-    "title": "GLP-1 Should Not Be Used As A Quick Fix For Weight Loss And Diabetes Management, Warns Top Experts",
-    "summary": "Image for representation purposes only",
-    "image": "https://c.ndtvimg.com/2026-03/qcrd7oc8_glp-1-drugs_625x300_30_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 13:58:20 +0530",
-    "link": "https://www.ndtv.com/health/glp-1-should-not-be-used-as-a-quick-fix-for-weight-loss-and-diabetes-management-warns-top-experts-11285152#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-fall-3-won-hits-17-year-low-on-mideast-worries/articleshow/129895678.cms",
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-contacts-investors-for-ofs-participation-in-over-rs-20000-crore-ipo-report/articleshow/129896647.cms",
     "category": "finance",
-    "title": "South Korean shares fall 3%, won hits 17-year low on Mideast worries",
-    "summary": "South Korean financial markets experienced a significant downturn on Monday. The main stock index, KOSPI, dropped by almost 3%. The national currency, the won, reached its lowest point in 17 years against the dollar. These declines were driven by con",
-    "image": "https://img.etimg.com/photo/msid-129895678,imgsize-26510.cms",
+    "title": "NSE contacts investors for OFS participation in over Rs 20,000 crore IPO: Report",
+    "summary": "National Stock Exchange of India has taken a key step toward its IPO by issuing an offer-for-sale (OFS) letter to shareholders, formally initiating the listing process. The entire issue will be through OFS, with eligibility limited to those holding s",
+    "image": "https://img.etimg.com/photo/msid-129896647,imgsize-889562.cms",
     "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 13:57:47 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-fall-3-won-hits-17-year-low-on-mideast-worries/articleshow/129895678.cms"
+    "pubDate": "Mon, 30 Mar 2026 14:55:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-contacts-investors-for-ofs-participation-in-over-rs-20000-crore-ipo-report/articleshow/129896647.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-nse-bse-shut-tomorrow-for-mahavir-jayanti-check-12-upcoming-holidays/articleshow/129895621.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-back-11-stocks-for-3-straight-quarters-of-fy26-7-turn-multibaggers/slideshow/129896784.cms",
     "category": "finance",
-    "title": "Stock Market Holiday: NSE, BSE shut tomorrow for Mahavir Jayanti; check 12 upcoming holidays",
-    "summary": "Indian stock markets will observe a holiday on March 31 for Shri Mahavir Jayanti. This marks the first of two market holidays this week. The Multi-Commodity Exchange of India will have a partial closure. The National Commodity &amp; Derivatives Excha",
-    "image": "https://img.etimg.com/photo/msid-129895621,imgsize-88448.cms",
+    "title": "FIIs back 11 stocks for 3 straight quarters of FY26; 7 turn multibaggers",
+    "summary": "Foreign institutional investors have steadily raised stakes in several Indian companies through FY26, signalling conviction despite market volatility. Eleven such stocks delivered returns between 70% and 1,500%, with seven turning multibaggers. The t",
+    "image": "https://img.etimg.com/photo/msid-129896528,imgsize-38702.cms",
     "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 13:57:21 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-nse-bse-shut-tomorrow-for-mahavir-jayanti-check-12-upcoming-holidays/articleshow/129895621.cms"
+    "pubDate": "Mon, 30 Mar 2026 14:48:21 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-back-11-stocks-for-3-straight-quarters-of-fy26-7-turn-multibaggers/slideshow/129896784.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/2-top-stock-recommendations-from-rajesh-bhosale-for-near-term/articleshow/129895469.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/cement-makers-staring-at-200/tonne-cost-shock-as-west-asia-war-sends-petcoke-and-packaging-costs-soaring/articleshow/129896298.cms",
     "category": "finance",
-    "title": "2 top stock recommendations from Rajesh Bhosale for near term",
-    "summary": "Indian stock markets experienced a volatile trading session. Banking stocks faced pressure, causing frontline indices to decline. However, the metal sector showed strong performance, driven by rising global aluminium prices. Stocks like Nalco, Vedant",
-    "image": "https://img.etimg.com/photo/msid-129895469,imgsize-6228.cms",
+    "title": "Cement makers staring at \u20b9200/tonne cost shock as West Asia war sends petcoke and packaging costs soaring",
+    "summary": "India's cement sector is grappling with soaring input costs. Rising prices of petcoke, coal, and packaging materials are squeezing profit margins. Companies are attempting price hikes, but overcapacity makes it difficult for the market to absorb thes",
+    "image": "https://img.etimg.com/photo/msid-129896298,imgsize-262940.cms",
     "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 13:44:43 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/2-top-stock-recommendations-from-rajesh-bhosale-for-near-term/articleshow/129895469.cms"
+    "pubDate": "Mon, 30 Mar 2026 14:40:21 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/cement-makers-staring-at-200/tonne-cost-shock-as-west-asia-war-sends-petcoke-and-packaging-costs-soaring/articleshow/129896298.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/markets-await-clarity-valuations-offer-key-support-punita-kumar-sinha/articleshow/129895018.cms",
-    "category": "finance",
-    "title": "Markets await clarity, valuations offer key support: Punita Kumar Sinha",
-    "summary": "Geopolitical tensions and rising energy prices are creating market uncertainty, with traditional safe havens failing to provide comfort. While the war's outcome remains unclear, Indian market valuations offer a cushion, trading below historical avera",
-    "image": "https://img.etimg.com/photo/msid-129895018,imgsize-37818.cms",
-    "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 13:23:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/markets-await-clarity-valuations-offer-key-support-punita-kumar-sinha/articleshow/129895018.cms"
+    "id": "https://www.bbc.com/news/articles/ckge1yn50y8o#0",
+    "category": "global",
+    "title": "Scott Mills sacked from BBC Radio 2 over 'personal conduct'",
+    "summary": "Mills took over the breakfast show from Zoe Ball in 2025.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 30 Mar 2026 10:49:11 GMT",
+    "link": "https://www.bbc.com/news/articles/ckge1yn50y8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-sinks-on-recession-fears-benchmark-jgb-yields-hit-27-year-high/articleshow/129894817.cms",
-    "category": "finance",
-    "title": "Japan's Nikkei sinks on recession fears; benchmark JGB yields hit 27-year high",
-    "summary": "Japan's Nikkei share \u200baverage tumbled on Monday, while benchmark bond yields briefly touched a 27-year high before retreating, as the widening Middle East war fuelled recession concerns.",
-    "image": "https://img.etimg.com/photo/msid-129894817,imgsize-117830.cms",
-    "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 13:16:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-sinks-on-recession-fears-benchmark-jgb-yields-hit-27-year-high/articleshow/129894817.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1529739.html",
+    "category": "sports",
+    "title": "Swanepoel's Worcestershire NOC in doubt after leaving Lions in lurch",
+    "summary": "Allrounder walked off with eight overs of one-day cup final to play in order to catch flight to UK",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415074.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 30 Mar 2026 10:42:19 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529739.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/rupee-on-a-bruising-ride-as-medium-term-pressure-remains-severe-anindya-banerjee/articleshow/129894520.cms",
-    "category": "finance",
-    "title": "Rupee on a bruising ride as medium-term pressure remains severe: Anindya Banerjee",
-    "summary": "The Indian rupee is set for a turbulent period. A sharp regulatory change and a major energy shock are expected to cause an immediate slide. This will be followed by a temporary recovery. Banks have until April 10 to adjust positions. After this, a s",
-    "image": "https://img.etimg.com/photo/msid-129894520,imgsize-22288.cms",
-    "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 13:01:55 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/rupee-on-a-bruising-ride-as-medium-term-pressure-remains-severe-anindya-banerjee/articleshow/129894520.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1529741.html",
+    "category": "sports",
+    "title": "'The culprit here is me, not Shaheen' - Raza on PSL security breach",
+    "summary": "\"Afridi went down on my request, because it was my close family and friends; I didn't want to meet them in the business centre,\" Sikandar Raza says",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415075.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 30 Mar 2026 10:41:11 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529741.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/why-coal-indias-arm-cmpdi-could-be-a-buy-even-after-7-ipo-debut-crash-today/articleshow/129894572.cms",
-    "category": "finance",
-    "title": "Why Coal India's arm CMPDI could be a buy even after 7% IPO debut crash today",
-    "summary": "CMPDI shares listed at a 7% discount amid weak demand despite strong fundamentals and institutional interest. Analysts remain cautious on near-term upside due to muted retail participation and broader market sentiment. While valuations appear reasona",
-    "image": "https://img.etimg.com/photo/msid-129894572,imgsize-17208.cms",
-    "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 13:00:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-coal-indias-arm-cmpdi-could-be-a-buy-even-after-7-ipo-debut-crash-today/articleshow/129894572.cms"
+    "id": "https://www.bbc.com/news/articles/czx94e7j5jpo#0",
+    "category": "global",
+    "title": "Russia expels British diplomat over spying allegations",
+    "summary": "A UK Foreign Office spokesman accused Russia of an \"aggressive and co-ordinated campaign of harassment against British diplomats\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 30 Mar 2026 10:33:56 GMT",
+    "link": "https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-banks-tech-weigh-down-australian-shares-gulf-war-keeps-energy-stocks-up/articleshow/129894172.cms",
-    "category": "finance",
-    "title": "Global Markets | Banks, tech weigh down Australian shares; Gulf war keeps energy stocks up",
-    "summary": "Australian shares declined on Monday. Banks and technology stocks led the fall. High energy prices fueled inflation worries. Investors reduced risk appetite. The S&amp;P/ASX 200 index closed lower. Global markets faced pressure after weekend attacks.",
-    "image": "https://img.etimg.com/photo/msid-129894172,imgsize-82762.cms",
-    "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 12:42:38 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-banks-tech-weigh-down-australian-shares-gulf-war-keeps-energy-stocks-up/articleshow/129894172.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1529664.html",
+    "category": "sports",
+    "title": "Revamped RR and CSK aim to put past failures behind",
+    "summary": "They finished at the bottom of the league in IPL 2025 and have a new look for the 2026 season",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/398500/398579.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 30 Mar 2026 09:42:38 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529664.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c0le0nrnxpno#0",
@@ -280,26 +310,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529700.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529692.html",
-    "category": "sports",
-    "title": "Hardik wants Shardul to be at MI 'for the rest of your career'",
-    "summary": "After hopping across six franchises, Shardul returned home with a match-winning three-for",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415041.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 30 Mar 2026 05:38:29 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529692.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529681.html",
-    "category": "sports",
-    "title": "Rickelton, Rohit and Thakur break Mumbai's first-game jinx",
-    "summary": "MI win their first game of an IPL season for the first time since 2012",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415051.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 30 Mar 2026 05:10:16 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529681.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cewzw812dd1o#0",
     "category": "global",
     "title": "'I dread the phone ringing': Inside the kennels responding to vicious XL bully attacks",
@@ -308,16 +318,6 @@
     "source": "BBC",
     "pubDate": "Mon, 30 Mar 2026 05:00:09 GMT",
     "link": "https://www.bbc.com/news/articles/cewzw812dd1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529698.html",
-    "category": "sports",
-    "title": "Penalty costly for Qalandars as Kings win low-scoring thriller",
-    "summary": "Shaheen's efforts on a two-paced pitch went in vain as Waseem and Co took Kings home",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414900/414976.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 30 Mar 2026 04:23:33 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529698.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529717.html",
