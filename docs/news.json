@@ -30,6 +30,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cd6wp6xenv0o#0",
+    "category": "global",
+    "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
+    "summary": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 29 Mar 2026 23:50:21 GMT",
+    "link": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c5y96wyj5pyo#0",
     "category": "global",
     "title": "\u2018Child-focused\u2019 approach in family court battles is biggest change in 30 years, top judge says",
@@ -42,7 +52,7 @@
   {
     "id": "https://www.bbc.com/news/articles/c9vlm2ggrwlo#0",
     "category": "global",
-    "title": "Millions of drivers to find out how to claim compensation for mis-sold car finance",
+    "title": "Car finance compensation details to be revealed with average payout of \u00a3700 expected",
     "summary": "The City regulator will outline how millions of people can claim compensation for mis-sold car finance.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -60,16 +70,6 @@
     "link": "https://www.bbc.com/news/articles/cn4vw2xmpzzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cn78v1yg7p1o#0",
-    "category": "global",
-    "title": "Counter-terror team join investigation after pedestrians hit by car in Derby",
-    "summary": "Police question a man, 36, and keep an \"open mind\" as counter\u2011terror officers join investigation.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 29 Mar 2026 21:22:13 GMT",
-    "link": "https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cvgep3ryp9po#0",
     "category": "global",
     "title": "Councils in England urged to use universal parking app to cut 'unfair' fines",
@@ -80,164 +80,174 @@
     "link": "https://www.bbc.com/news/articles/cvgep3ryp9po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/opinion/iran-israel-war-are-networks-in-iran-helping-israel-target-its-leaders-11284846#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/us-iran-war-us-boots-on-the-ground-american-troop-movements-middle-east-11285015#publisher=newsstand",
     "category": "india",
-    "title": "Opinion: Opinion | Shadow Wars: The 'Inside Networks' Helping Israel Target Iran And Its Leaders",
-    "summary": "Over the past four weeks, with Tangsiri being the latest example, Israel has showcased that its war with Iran was being waged over the years in the shadows of espionage, intelligence, and covert operations.",
-    "image": "https://c.ndtvimg.com/2026-03/kjq0kv5_iran_625x300_30_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Iran Quagmire Beckons: 57,000+ Boots Flood Gulf. Where Are They Stationed",
+    "summary": "Marines with the 11th Marine Expeditionary Unit en route to Iran.",
+    "image": "https://c.ndtvimg.com/2026-03/21v4j8o_us-military-equipment-rushed-to-iran_625x300_30_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 12:28:34 +0530",
-    "link": "https://www.ndtv.com/opinion/iran-israel-war-are-networks-in-iran-helping-israel-target-its-leaders-11284846#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-to-fire-up-brokerages-bullish-after-dac-clears-rs-2-38-lakh-cr-proposals-check-top-picks/articleshow/129893640.cms",
-    "category": "finance",
-    "title": "Defence stocks to fire up? Brokerages bullish after DAC clears Rs 2.38 lakh cr proposals; check top picks",
-    "summary": "Brokerages are bullish on Indian defense stocks following the Defense Acquisition Council's approval of proposals worth Rs 2.38 lakh crore, enhancing India's combat and surveillance capabilities.  These approvals, including S-400 missile systems and ",
-    "image": "https://img.etimg.com/photo/msid-129893640,imgsize-60106.cms",
-    "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 12:22:34 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-to-fire-up-brokerages-bullish-after-dac-clears-rs-2-38-lakh-cr-proposals-check-top-picks/articleshow/129893640.cms"
+    "pubDate": "Mon, 30 Mar 2026 14:03:41 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-us-boots-on-the-ground-american-troop-movements-middle-east-11285015#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/education/delhi-school-result-2025-2026-class-9-11-school-result-today-check-details-download-link-here-11284596#publisher=newsstand",
     "category": "india",
-    "title": "Delhi School Result 2026: Class 9, 11 Scorecard Out Today? Check Details, Download Link Here",
-    "summary": "DoE Class 9, 11 School Result Out Soon, Download Link, Details Here",
-    "image": "https://c.ndtvimg.com/2026-03/tvk070rk_as_625x300_30_March_26.jpeg",
+    "title": "Delhi School Result 2026 (OUT): Class 9, 11 Scorecard Out, Download Link Here",
+    "summary": "DoE Class 9, 11 School Result OUT, Download Link, Details Here",
+    "image": "https://c.ndtvimg.com/2026-03/3lgcphkk_as_625x300_30_March_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 12:19:20 +0530",
+    "pubDate": "Mon, 30 Mar 2026 14:02:00 +0530",
     "link": "https://www.ndtv.com/education/delhi-school-result-2025-2026-class-9-11-school-result-today-check-details-download-link-here-11284596#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/did-russia-help-iran-target-us-bases-what-ukrainian-president-zelensky-said-11284748#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/bihar-board-10th-result-live-updates-scorecard-out-today-at-1-15-pm-download-link-here-11281145#publisher=newsstand",
     "category": "india",
-    "title": "Did Russia Help Iran Target US Bases? What Ukrainian President Zelensky Said",
-    "summary": "Volodymyr Zelensky stated that Russian satellites had imaged several strategic locations",
-    "image": "https://c.ndtvimg.com/2025-10/matvtplk_volodymyr-zelenskyy_625x300_21_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "BSEB Bihar Board 10th Result 2026 Highlights: Pushpanjali And Sabreen Share First Rank With Identical Scores",
+    "summary": "BSEB 10th\u00a0Result\u00a02026 Highlights: Out Today, Download Directly Here",
+    "image": "https://c.ndtvimg.com/2026-03/hkgvc9ok_bihar-board-2026_625x300_16_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 12:19:06 +0530",
-    "link": "https://www.ndtv.com/world-news/did-russia-help-iran-target-us-bases-what-ukrainian-president-zelensky-said-11284748#publisher=newsstand"
+    "pubDate": "Mon, 30 Mar 2026 14:01:30 +0530",
+    "link": "https://www.ndtv.com/education/bihar-board-10th-result-live-updates-scorecard-out-today-at-1-15-pm-download-link-here-11281145#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/video-pakistan-deputy-pm-ishaq-dars-red-carpet-fall-goes-viral-11284624#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/jamtara-man-25-dupes-bombay-high-court-judge-of-rs-6-lakh-in-cyber-fraud-arrested-11285248#publisher=newsstand",
     "category": "india",
-    "title": "Video: Pakistan Deputy PM Ishaq Dar's Red Carpet Fall Goes Viral",
-    "summary": "Ishaq Dhar is Pakistan's deputy PM and Foreign Minister",
-    "image": "https://c.ndtvimg.com/2026-03/0a1r6pto_ishaq-dar_625x300_30_March_26.jpeg",
+    "title": "Man, 25, Dupes Bombay High Court Judge Of Rs 6 Lakh In Cyber Fraud, Arrested",
+    "summary": "The investigation has revealed that the accused is linked to at least 36 cases of cyber fraud",
+    "image": "https://c.ndtvimg.com/2025-07/ho5kh54g_cyber-fraud-_625x300_19_July_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 12:18:15 +0530",
-    "link": "https://www.ndtv.com/world-news/video-pakistan-deputy-pm-ishaq-dars-red-carpet-fall-goes-viral-11284624#publisher=newsstand"
+    "pubDate": "Mon, 30 Mar 2026 14:01:27 +0530",
+    "link": "https://www.ndtv.com/india-news/jamtara-man-25-dupes-bombay-high-court-judge-of-rs-6-lakh-in-cyber-fraud-arrested-11285248#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/health/constipation-in-children-key-symptoms-parents-shouldnt-ignore-11284779#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/dozens-of-phones-stolen-during-opening-royal-challengers-bengaluru-sunrisers-hyderabad-ipl-match-in-bengaluru-11285251#publisher=newsstand",
     "category": "india",
-    "title": "Constipation In Children: Key Symptoms Parents Shouldn't Ignore",
-    "summary": "Regular play and exercise help stimulate normal bowel function",
-    "image": "https://c.ndtvimg.com/2026-03/aic81nqk_child-stomach-pain_625x300_30_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Dozens Of Phones Stolen During Opening IPL Match In Bengaluru",
+    "summary": "At least 30 phones have been reported stolen so far, said DCP (Central Division) Akshay Hakay.",
+    "image": "https://c.ndtvimg.com/2026-02/jkccssj8_chinnaswamy-stadium-bengaluru_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 12:17:52 +0530",
-    "link": "https://www.ndtv.com/health/constipation-in-children-key-symptoms-parents-shouldnt-ignore-11284779#publisher=newsstand"
+    "pubDate": "Mon, 30 Mar 2026 14:01:09 +0530",
+    "link": "https://www.ndtv.com/india-news/dozens-of-phones-stolen-during-opening-royal-challengers-bengaluru-sunrisers-hyderabad-ipl-match-in-bengaluru-11285251#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/hra-50-exemption-bengaluru-hyderabad-pune-ahmedabad-old-tax-regime-high-rent-11284782#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/ceos-in-india-earn-this-huge-amount-annually-but-hike-slowest-since-covid-deloitte-11285208#publisher=newsstand",
     "category": "india",
-    "title": "Bengaluru, Hyderabad, Pune, Ahmedabad Salaried Class Set For Secret Pay Hike?",
-    "summary": "The benefit, however, is tightly targeted",
-    "image": "https://c.ndtvimg.com/2026-03/bbottqd_8th-pay-commission-timeline-and-salary-changes_625x300_26_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "CEOs In India Earn This Huge Amount Annually, But Hike Slowest Since Covid",
+    "summary": "The Deloitte India report found that nearly one-third of CEO pay is linked to stock awards.",
+    "image": "https://c.ndtvimg.com/2026-01/kngc6ui_ceo_625x300_20_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 12:08:04 +0530",
-    "link": "https://www.ndtv.com/india-news/hra-50-exemption-bengaluru-hyderabad-pune-ahmedabad-old-tax-regime-high-rent-11284782#publisher=newsstand"
+    "pubDate": "Mon, 30 Mar 2026 14:00:00 +0530",
+    "link": "https://www.ndtv.com/india-news/ceos-in-india-earn-this-huge-amount-annually-but-hike-slowest-since-covid-deloitte-11285208#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/stock-market-live-updates-gift-nifty-negative-sensex-nifty-rise-in-oil-prices-iran-war-11284079#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/team-trumps-covert-op-to-annex-greenland-that-wasnt-11285129#publisher=newsstand",
     "category": "india",
-    "title": "Stock Market Live Updates: Sensex Slides 1,000 Points As Crude Oil Surges Amid Iran War",
-    "summary": "Stock Market News Today Live: Both Sensex and Nifty declined at open.",
-    "image": "https://c.ndtvimg.com/2026-03/kabt9jls_stock-market-crash-_625x300_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "3 Trump Allies In Greenland And A 'Covert Op' Mystery",
+    "summary": "If the three have been running an influence campaign, it has been conducted in plain sight",
+    "image": "https://c.ndtvimg.com/2019-08/g8qsksek_greenland-reuters_625x300_16_August_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 12:03:43 +0530",
-    "link": "https://www.ndtv.com/india-news/stock-market-live-updates-gift-nifty-negative-sensex-nifty-rise-in-oil-prices-iran-war-11284079#publisher=newsstand"
+    "pubDate": "Mon, 30 Mar 2026 13:59:00 +0530",
+    "link": "https://www.ndtv.com/world-news/team-trumps-covert-op-to-annex-greenland-that-wasnt-11285129#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/health/how-fast-do-you-walk-the-1-minute-gait-test-that-reveals-your-true-biological-age-11284615#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/glp-1-should-not-be-used-as-a-quick-fix-for-weight-loss-and-diabetes-management-warns-top-experts-11285152#publisher=newsstand",
     "category": "india",
-    "title": "How Fast Do You Walk? The 1-Minute Gait Test That Reveals Your True Biological Age",
-    "summary": "Gait speed test could reveal the true biological age (image is for representation purposes only)",
-    "image": "https://c.ndtvimg.com/2026-03/qek21p34_walking-speed-test_625x300_30_March_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "GLP-1 Should Not Be Used As A Quick Fix For Weight Loss And Diabetes Management, Warns Top Experts",
+    "summary": "Image for representation purposes only",
+    "image": "https://c.ndtvimg.com/2026-03/qcrd7oc8_glp-1-drugs_625x300_30_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 30 Mar 2026 12:02:12 +0530",
-    "link": "https://www.ndtv.com/health/how-fast-do-you-walk-the-1-minute-gait-test-that-reveals-your-true-biological-age-11284615#publisher=newsstand"
+    "pubDate": "Mon, 30 Mar 2026 13:58:20 +0530",
+    "link": "https://www.ndtv.com/health/glp-1-should-not-be-used-as-a-quick-fix-for-weight-loss-and-diabetes-management-warns-top-experts-11285152#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/global-bonds-set-for-steep-monthly-losses-as-iran-war-stokes-stagflation-fears/articleshow/129893098.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-fall-3-won-hits-17-year-low-on-mideast-worries/articleshow/129895678.cms",
     "category": "finance",
-    "title": "Global bonds set for steep monthly losses as Iran war stokes stagflation fears",
-    "summary": "Global government bonds are facing significant monthly losses, driven by Middle East conflict fears impacting inflation and growth. While short-dated debt saw some relief, investors are increasingly concerned about stagflation. Oil prices above $100 ",
-    "image": "https://img.etimg.com/photo/msid-129893098,imgsize-65194.cms",
+    "title": "South Korean shares fall 3%, won hits 17-year low on Mideast worries",
+    "summary": "South Korean financial markets experienced a significant downturn on Monday. The main stock index, KOSPI, dropped by almost 3%. The national currency, the won, reached its lowest point in 17 years against the dollar. These declines were driven by con",
+    "image": "https://img.etimg.com/photo/msid-129895678,imgsize-26510.cms",
     "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 11:56:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/global-bonds-set-for-steep-monthly-losses-as-iran-war-stokes-stagflation-fears/articleshow/129893098.cms"
+    "pubDate": "Mon, 30 Mar 2026 13:57:47 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-fall-3-won-hits-17-year-low-on-mideast-worries/articleshow/129895678.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/markets-to-stay-under-pressure-amnish-aggarwal-sees-limited-upside-near-term/articleshow/129892966.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-nse-bse-shut-tomorrow-for-mahavir-jayanti-check-12-upcoming-holidays/articleshow/129895621.cms",
     "category": "finance",
-    "title": "\u2018Markets to stay under pressure\u2019: Amnish Aggarwal sees limited upside near term",
-    "summary": "Indian markets are experiencing significant volatility. Geopolitical tensions and rising bond yields are creating uncertainty. Experts warn of the full economic impact yet to be felt. Sectors like pharma and utilities may offer safety. Financials and",
-    "image": "https://img.etimg.com/photo/msid-129892966,imgsize-38172.cms",
+    "title": "Stock Market Holiday: NSE, BSE shut tomorrow for Mahavir Jayanti; check 12 upcoming holidays",
+    "summary": "Indian stock markets will observe a holiday on March 31 for Shri Mahavir Jayanti. This marks the first of two market holidays this week. The Multi-Commodity Exchange of India will have a partial closure. The National Commodity &amp; Derivatives Excha",
+    "image": "https://img.etimg.com/photo/msid-129895621,imgsize-88448.cms",
     "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 11:52:39 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/markets-to-stay-under-pressure-amnish-aggarwal-sees-limited-upside-near-term/articleshow/129892966.cms"
+    "pubDate": "Mon, 30 Mar 2026 13:57:21 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-nse-bse-shut-tomorrow-for-mahavir-jayanti-check-12-upcoming-holidays/articleshow/129895621.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/oil-shock-is-quietly-morphing-into-a-global-growth-crisis-warns-stephen-innes/articleshow/129892355.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/2-top-stock-recommendations-from-rajesh-bhosale-for-near-term/articleshow/129895469.cms",
     "category": "finance",
-    "title": "Oil shock is quietly morphing into a global growth crisis, warns Stephen Innes",
-    "summary": "Middle East conflict now signals a global growth shock, not just inflation, warns macro strategist Stephen Innes.  Elevated oil prices, potentially $90-$100, are forcing central banks into difficult choices, risking stagflation.  While caution is adv",
-    "image": "https://img.etimg.com/photo/msid-129892355,imgsize-27550.cms",
+    "title": "2 top stock recommendations from Rajesh Bhosale for near term",
+    "summary": "Indian stock markets experienced a volatile trading session. Banking stocks faced pressure, causing frontline indices to decline. However, the metal sector showed strong performance, driven by rising global aluminium prices. Stocks like Nalco, Vedant",
+    "image": "https://img.etimg.com/photo/msid-129895469,imgsize-6228.cms",
     "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 11:09:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/oil-shock-is-quietly-morphing-into-a-global-growth-crisis-warns-stephen-innes/articleshow/129892355.cms"
+    "pubDate": "Mon, 30 Mar 2026 13:44:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/2-top-stock-recommendations-from-rajesh-bhosale-for-near-term/articleshow/129895469.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-67k-recovery-may-stretch-to-q2-2027-as-correction-deepens-etf-flows-turn-negative/articleshow/129892281.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/markets-await-clarity-valuations-offer-key-support-punita-kumar-sinha/articleshow/129895018.cms",
     "category": "finance",
-    "title": "Bitcoin trades near $67K, recovery may stretch to Q2 2027 as correction deepens; ETF flows turn negative",
-    "summary": "Bitcoin hovered near $67,472, up 1% as experts suggest a full recovery to all-time highs might extend to Q2 2027, depending on the depth of the current correction.  Spot Bitcoin ETFs saw net outflows, breaking a four-week inflow streak.  The broader ",
-    "image": "https://img.etimg.com/photo/msid-129892281,imgsize-74080.cms",
+    "title": "Markets await clarity, valuations offer key support: Punita Kumar Sinha",
+    "summary": "Geopolitical tensions and rising energy prices are creating market uncertainty, with traditional safe havens failing to provide comfort. While the war's outcome remains unclear, Indian market valuations offer a cushion, trading below historical avera",
+    "image": "https://img.etimg.com/photo/msid-129895018,imgsize-37818.cms",
     "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 11:08:39 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-67k-recovery-may-stretch-to-q2-2027-as-correction-deepens-etf-flows-turn-negative/articleshow/129892281.cms"
+    "pubDate": "Mon, 30 Mar 2026 13:23:35 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/markets-await-clarity-valuations-offer-key-support-punita-kumar-sinha/articleshow/129895018.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ndf-premium-up-after-rbi-move/articleshow/129892255.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-sinks-on-recession-fears-benchmark-jgb-yields-hit-27-year-high/articleshow/129894817.cms",
     "category": "finance",
-    "title": "Rupee-NDF premium up after RBI move",
-    "summary": "Banks scrambled to adjust positions Monday after the RBI's new $100 million cap on net open rupee exposure. This directive forced them to unwind overseas hedges, widening the gap between local and offshore rupee rates.  Treasury officials warn of sig",
-    "image": "https://img.etimg.com/photo/msid-129892255,imgsize-47754.cms",
+    "title": "Japan's Nikkei sinks on recession fears; benchmark JGB yields hit 27-year high",
+    "summary": "Japan's Nikkei share \u200baverage tumbled on Monday, while benchmark bond yields briefly touched a 27-year high before retreating, as the widening Middle East war fuelled recession concerns.",
+    "image": "https://img.etimg.com/photo/msid-129894817,imgsize-117830.cms",
     "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 11:02:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ndf-premium-up-after-rbi-move/articleshow/129892255.cms"
+    "pubDate": "Mon, 30 Mar 2026 13:16:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-sinks-on-recession-fears-benchmark-jgb-yields-hit-27-year-high/articleshow/129894817.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/nalco-hindalco-shares-jump-up-to-6-heres-why-what-should-investors-do/articleshow/129892183.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/rupee-on-a-bruising-ride-as-medium-term-pressure-remains-severe-anindya-banerjee/articleshow/129894520.cms",
     "category": "finance",
-    "title": "NALCO, Hindalco, Vedanta shares jump up to 6%. What's behind the surge and what should investors do?",
-    "summary": "NALCO and Hindalco share price surged up to 6% after aluminium prices hit near four-year highs amid supply disruption fears in the Gulf following Iranian strikes. While higher prices support near-term earnings, analysts advise caution as weakening de",
-    "image": "https://img.etimg.com/photo/msid-129892183,imgsize-27386.cms",
+    "title": "Rupee on a bruising ride as medium-term pressure remains severe: Anindya Banerjee",
+    "summary": "The Indian rupee is set for a turbulent period. A sharp regulatory change and a major energy shock are expected to cause an immediate slide. This will be followed by a temporary recovery. Banks have until April 10 to adjust positions. After this, a s",
+    "image": "https://img.etimg.com/photo/msid-129894520,imgsize-22288.cms",
     "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 10:57:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/nalco-hindalco-shares-jump-up-to-6-heres-why-what-should-investors-do/articleshow/129892183.cms"
+    "pubDate": "Mon, 30 Mar 2026 13:01:55 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/rupee-on-a-bruising-ride-as-medium-term-pressure-remains-severe-anindya-banerjee/articleshow/129894520.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-from-q1-rout-to-q2-risks-investors-face-an-uncertain-road-ahead/articleshow/129892097.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/why-coal-indias-arm-cmpdi-could-be-a-buy-even-after-7-ipo-debut-crash-today/articleshow/129894572.cms",
     "category": "finance",
-    "title": "Global Markets | From Q1 rout to Q2 risks: Investors face an uncertain road ahead",
-    "summary": "Global markets are experiencing extreme volatility. Geopolitical events and changing monetary policies are impacting investments. Energy prices have surged, and interest rates have risen unexpectedly. Traditional safe-haven assets like gold are under",
-    "image": "https://img.etimg.com/photo/msid-129892097,imgsize-3195767.cms",
+    "title": "Why Coal India's arm CMPDI could be a buy even after 7% IPO debut crash today",
+    "summary": "CMPDI shares listed at a 7% discount amid weak demand despite strong fundamentals and institutional interest. Analysts remain cautious on near-term upside due to muted retail participation and broader market sentiment. While valuations appear reasona",
+    "image": "https://img.etimg.com/photo/msid-129894572,imgsize-17208.cms",
     "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 10:51:55 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-from-q1-rout-to-q2-risks-investors-face-an-uncertain-road-ahead/articleshow/129892097.cms"
+    "pubDate": "Mon, 30 Mar 2026 13:00:48 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-coal-indias-arm-cmpdi-could-be-a-buy-even-after-7-ipo-debut-crash-today/articleshow/129894572.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-banks-tech-weigh-down-australian-shares-gulf-war-keeps-energy-stocks-up/articleshow/129894172.cms",
+    "category": "finance",
+    "title": "Global Markets | Banks, tech weigh down Australian shares; Gulf war keeps energy stocks up",
+    "summary": "Australian shares declined on Monday. Banks and technology stocks led the fall. High energy prices fueled inflation worries. Investors reduced risk appetite. The S&amp;P/ASX 200 index closed lower. Global markets faced pressure after weekend attacks.",
+    "image": "https://img.etimg.com/photo/msid-129894172,imgsize-82762.cms",
+    "source": "ET",
+    "pubDate": "Mon, 30 Mar 2026 12:42:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-banks-tech-weigh-down-australian-shares-gulf-war-keeps-energy-stocks-up/articleshow/129894172.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0le0nrnxpno#0",
+    "category": "global",
+    "title": "Two hurt in Derby car incident released from hospital",
+    "summary": "Police have been given more time to question a man arrested on suspicion of attempted murder.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 30 Mar 2026 08:19:13 GMT",
+    "link": "https://www.bbc.com/news/articles/c0le0nrnxpno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c93e4gxn22wo#0",
@@ -278,16 +288,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 30 Mar 2026 05:38:29 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529692.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c93eqg9wnx0o#0",
-    "category": "global",
-    "title": "Seven years since Emiliano Sala's death, what has changed for the 'wild west' of football transfers?",
-    "summary": "The Argentine striker\u2019s 2019 death in a plane crash shone a light on the opaque world of transfers and player welfare.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 30 Mar 2026 05:14:27 GMT",
-    "link": "https://www.bbc.com/news/articles/c93eqg9wnx0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529681.html",
