@@ -30,14 +30,14 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cd6wp6xenv0o#0",
-    "category": "global",
-    "title": "Why is Nasa going back to the Moon?",
-    "summary": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 29 Mar 2026 23:50:21 GMT",
-    "link": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-defers-implementation-of-capital-market-exposures-norms-to-july-1/articleshow/129907335.cms",
+    "category": "finance",
+    "title": "RBI defers implementation of capital market exposures norms to July 1",
+    "summary": "The Reserve Bank of India has postponed new acquisition finance rules. The implementation is now set for July 1, 2026. This decision follows feedback from stakeholders. The central bank also updated its capital market exposures framework. These chang",
+    "image": "https://img.etimg.com/photo/msid-129907335,imgsize-128258.cms",
+    "source": "ET",
+    "pubDate": "Mon, 30 Mar 2026 22:46:46 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-defers-implementation-of-capital-market-exposures-norms-to-july-1/articleshow/129907335.cms"
   },
   {
     "id": "https://www.ndtv.com/offbeat/69-year-old-us-woman-wins-rs-11-4-crore-lottery-jackpot-after-playing-same-numbers-for-years-11287924#publisher=newsstand",
@@ -190,24 +190,14 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-food-giant-sysco-strikes-29-billion-deal-for-catering-supplier-restaurant-depot-shares-drop-12/articleshow/129905476.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-biogen-gets-fda-approval-for-higher-dose-of-genetic-disorder-drug-shares-rise-3/articleshow/129905422.cms",
-    "category": "finance",
-    "title": "US Stocks: Biogen gets FDA approval for higher dose of genetic disorder drug, shares rise 3%",
-    "summary": "The U.S. Food and Drug Administration has approved a higher dose of Biogen's spinal muscular atrophy \u200cdrug Spinraza, \u2060the company \u2060said on Monday, after rejecting it last year.",
-    "image": "https://img.etimg.com/photo/msid-129905422,imgsize-130350.cms",
-    "source": "ET",
-    "pubDate": "Mon, 30 Mar 2026 21:08:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-biogen-gets-fda-approval-for-higher-dose-of-genetic-disorder-drug-shares-rise-3/articleshow/129905422.cms"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529896.html",
+    "id": "https://www.espncricinfo.com/ci/content/story/1529902.html",
     "category": "sports",
-    "title": "Jake Weatherald joins Leicestershire for opening rounds of Championship",
-    "summary": "Australia opener will be captained by Ian Holland in club's return to top flight for first time in 22 years",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/398000/398084.jpg",
+    "title": "Sooryavanshi's 15-ball fifty headlines RR's thrashing of CSK",
+    "summary": "Overton took CSK to 127 after Burger, Archer and Jadeja led the way with the ball for RR",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415090.jpg",
     "source": "Cricinfo",
-    "pubDate": "Mon, 30 Mar 2026 16:48:04 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529896.html?ex_cid=OTC-RSS"
+    "pubDate": "Mon, 30 Mar 2026 17:48:11 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529902.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529739.html",
@@ -216,8 +206,38 @@
     "summary": "Allrounder walked off with eight overs of one-day cup final to play in order to catch flight to UK",
     "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415074.jpg",
     "source": "Cricinfo",
-    "pubDate": "Mon, 30 Mar 2026 16:45:20 GMT",
+    "pubDate": "Mon, 30 Mar 2026 17:24:35 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529739.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529894.html",
+    "category": "sports",
+    "title": "Fisher, O'Rourke, Tickner return from injuries for white-ball tour of Bangladesh",
+    "summary": "Dean Foxcroft, meanwhile, returns to the white-ball set-up for the first time since April 2024",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/408500/408528.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 30 Mar 2026 17:23:25 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529894.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx247087ejko#0",
+    "category": "global",
+    "title": "Beatrice and Eugenie won't be at royal Easter service",
+    "summary": "They are understood to have made \"alternative plans\" instead of joining the Royal Family in Windsor.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 30 Mar 2026 17:15:02 GMT",
+    "link": "https://www.bbc.com/news/articles/cx247087ejko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1529896.html",
+    "category": "sports",
+    "title": "Jake Weatherald joins Leicestershire for opening rounds of Championship",
+    "summary": "Australia opener will be captained by Ian Holland in club's return to top flight for first time in 22 years",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/398000/398084.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 30 Mar 2026 16:55:05 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1529896.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/clyr1z4kre0o#0",
@@ -280,16 +300,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1529767.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529757.html",
-    "category": "sports",
-    "title": "Ponting: PBKS 'stronger' than last season, don't think there are any gaps",
-    "summary": "Ponting also explained how Cooper Connolly's inclusion helps achieve balance in the squad",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/401200/401252.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 30 Mar 2026 15:01:13 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529757.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c8jkeprrn00o#0",
     "category": "global",
     "title": "Cardiff City damages claim over Emiliano Sala death dismissed",
@@ -308,16 +318,6 @@
     "source": "BBC",
     "pubDate": "Mon, 30 Mar 2026 13:48:04 GMT",
     "link": "https://www.bbc.com/news/articles/ckge1yn50y8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1529741.html",
-    "category": "sports",
-    "title": "'The culprit here is me, not Shaheen' - Raza on PSL security breach",
-    "summary": "\"Afridi went down on my request, because it was my close family and friends; I didn't want to meet them in the business centre,\" Sikandar Raza says",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415075.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 30 Mar 2026 13:45:44 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1529741.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cy81eryy125o#0",
