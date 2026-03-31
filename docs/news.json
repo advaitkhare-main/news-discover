@@ -10,6 +10,16 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
+    "id": "https://www.ndtv.com/world-news/us-court-blocks-donald-trumps-400-million-white-house-ballroom-project-11293788#publisher=newsstand",
+    "category": "india",
+    "title": "US Court Blocks Trump's $400 Million White House Ballroom Project",
+    "summary": "The cost of the White House ballroom is estimated as much as $400 million.",
+    "image": "https://c.ndtvimg.com/2026-04/vdoa9b3c_white-house-ballroom_625x300_01_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 01 Apr 2026 02:16:31 +0530",
+    "link": "https://www.ndtv.com/world-news/us-court-blocks-donald-trumps-400-million-white-house-ballroom-project-11293788#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-jones-soars-1125-points-nasdaq-sp-3-as-iran-war-de-escalation-seen/articleshow/129936055.cms",
     "category": "finance",
     "title": "US Stocks today: Dow Jones soars 1,125 points, Nasdaq, S&amp;P 3% as Iran war de-escalation seen",
@@ -90,14 +100,14 @@
     "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-pakistan-to-hold-regional-meeting-on-ending-iran-war-middle-east-conflict-saudi-arabia-turkey-egypt-strait-of-hormuz-11281097#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-news-if-you-kill-our-leaders-well-attack-us-firms-like-google-meta-iran-11292804#publisher=newsstand",
-    "category": "india",
-    "title": "Strikes To Begin Today: Iran Warns Tech Firms Over US' Killing Of Leaders",
-    "summary": "Guards alleged that companies were complicit in \"targeted assassination\" of officials",
-    "image": "https://c.ndtvimg.com/2019-04/hnvp7mq_iran-revolutionary-guards-reuters_625x300_22_April_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 01 Apr 2026 00:30:04 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-news-if-you-kill-our-leaders-well-attack-us-firms-like-google-meta-iran-11292804#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/c3exveglpe3o#0",
+    "category": "global",
+    "title": "UK and France extend talks over new small boats deal",
+    "summary": "A three-year deal to pay for more French patrols to intercept smuggling gangs was due to expire at midnight.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 31 Mar 2026 21:25:21 GMT",
+    "link": "https://www.bbc.com/news/articles/c3exveglpe3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/129930827.cms",
@@ -108,6 +118,16 @@
     "source": "ET",
     "pubDate": "Tue, 31 Mar 2026 21:15:45 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/129930827.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c5yled478zwo#0",
+    "category": "global",
+    "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
+    "summary": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 31 Mar 2026 21:08:35 GMT",
+    "link": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nvidia-bets-2-billion-on-marvell-as-rising-ai-adoption-fuels-competition-shares-rise/articleshow/129930476.cms",
@@ -258,26 +278,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 31 Mar 2026 17:08:09 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1529997.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4gx2lv8888o#0",
-    "category": "global",
-    "title": "Amateur rapper whose XL bully killed his mother-in-law jailed for 10 years",
-    "summary": "Ashley Warren, who was the first person charged under new XL bully legislation, is sentenced.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 31 Mar 2026 16:53:26 GMT",
-    "link": "https://www.bbc.com/news/articles/c4gx2lv8888o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cg54v6p98rjo#0",
-    "category": "global",
-    "title": "Labour suspends outspoken backbench MP Karl Turner",
-    "summary": "The Hull East MP says he was suspended because of his \"robust\" criticism of the government's policy on jury trials.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 31 Mar 2026 16:39:12 GMT",
-    "link": "https://www.bbc.com/news/articles/cg54v6p98rjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1529992.html",
