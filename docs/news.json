@@ -30,6 +30,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharti-airtel-block-deal-bnp-paribas-buys-rs-96-crore-worth-shares-bofa-sells/articleshow/129958466.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c393xmpzjwko#1",
+    "category": "global",
+    "title": "World's oldest known tortoise, Jonathan, dies aged 193",
+    "summary": "The vet who cared for the giant tortoise said he had left behind a \"legacy of resilience and longevity\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 01 Apr 2026 22:20:11 GMT",
+    "link": "https://www.bbc.com/news/articles/c393xmpzjwko?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-doubles-down-on-curbing-rupee-speculation-after-initial-steps-fall-short/articleshow/129957702.cms",
     "category": "finance",
     "title": "RBI doubles down on curbing rupee speculation after initial steps fall short",
@@ -38,6 +48,16 @@
     "source": "ET",
     "pubDate": "Wed, 01 Apr 2026 22:10:31 +0530",
     "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-doubles-down-on-curbing-rupee-speculation-after-initial-steps-fall-short/articleshow/129957702.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cje47jk49k0o#1",
+    "category": "global",
+    "title": "US Supreme Court appears sceptical of US birthright citizenship challenge",
+    "summary": "Trump attended the oral arguments in person on Wednesday, a rare move by a sitting president that underscored the high stakes of the case.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 01 Apr 2026 22:00:17 GMT",
+    "link": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/morgan-stanleys-etrade-in-talks-to-lead-spacex-ipo-share-sale-to-small-investors-in-us-sources/articleshow/129956785.cms",
@@ -98,16 +118,6 @@
     "source": "ET",
     "pubDate": "Wed, 01 Apr 2026 20:48:22 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-nlc-india-and-engineers-india-on-thursday-for-short-term-gains-up-to-19-heres-why/slideshow/129956033.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cje47jk49k0o#1",
-    "category": "global",
-    "title": "US Supreme Court appears sceptical of US birthright citizenship challenge",
-    "summary": "Trump attended the oral arguments in person on Wednesday, a rare move by a sitting president that underscored the high stakes of the case.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 01 Apr 2026 20:42:24 GMT",
-    "link": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530128.html",
@@ -240,16 +250,6 @@
     "link": "https://www.bbc.com/news/articles/cy91vp298qno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c5yj634ml71o#1",
-    "category": "global",
-    "title": "My daughter has childhood dementia and may not live past 16",
-    "summary": "Diagnosed just before her fourth birthday, Sophia, now 15, can no longer speak and cannot walk unaided.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 01 Apr 2026 05:18:45 GMT",
-    "link": "https://www.bbc.com/news/articles/c5yj634ml71o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "1dxpkoyNmn8ceRMHCKLlT8",
     "category": "scitech",
     "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -270,6 +270,26 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/iran-war-us-vice-president-jd-vance-issues-stern-message-to-iran-over-deal-11299338#publisher=newsstand",
+    "category": "india",
+    "title": "\"Trump Is Impatient\": JD Vance Issues \"Stern Message\" To Iran Over Deal",
+    "summary": "According to CNN, JD Vance issued a \"stern message\" intended for Iranian leadership.",
+    "image": "https://c.ndtvimg.com/2026-02/833li51s_jd-vance-_625x300_27_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Apr 2026 03:03:18 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-us-vice-president-jd-vance-issues-stern-message-to-iran-over-deal-11299338#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/continuing-along-path-of-confrontation-futile-iran-president-to-americans-11299112#publisher=newsstand",
+    "category": "india",
+    "title": "Iran President Asks US People If Middle East War Puts \"America First\"",
+    "summary": "\"Continuing Along Path Of Confrontation Futile\": Iran President To Americans",
+    "image": "https://c.ndtvimg.com/2026-04/mh7pah0s_pezeshkian_625x300_02_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Apr 2026 02:17:57 +0530",
+    "link": "https://www.ndtv.com/world-news/continuing-along-path-of-confrontation-futile-iran-president-to-americans-11299112#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/up-couple-dies-by-suicide-after-families-oppose-marriage-cops-11299204#publisher=newsstand",
     "category": "india",
     "title": "UP Couple Dies By Suicide After Families Oppose Marriage: Cops",
@@ -288,16 +308,6 @@
     "source": "NDTV",
     "pubDate": "Thu, 02 Apr 2026 01:46:46 +0530",
     "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-pakistan-to-hold-regional-meeting-on-ending-iran-war-middle-east-conflict-saudi-arabia-turkey-egypt-strait-of-hormuz-11281097#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/continuing-along-path-of-confrontation-futile-iran-president-to-americans-11299112#publisher=newsstand",
-    "category": "india",
-    "title": "\"Continuing Along Path Of Confrontation Futile\": Iran President To Americans",
-    "summary": "\"Continuing Along Path Of Confrontation Futile\": Iran President To Americans",
-    "image": "https://c.ndtvimg.com/2026-04/mh7pah0s_pezeshkian_625x300_02_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Apr 2026 01:11:53 +0530",
-    "link": "https://www.ndtv.com/world-news/continuing-along-path-of-confrontation-futile-iran-president-to-americans-11299112#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/delhi-news/delhi-police-stop-cremation-seize-womans-body-over-suspicious-death-11299096#publisher=newsstand",
@@ -338,16 +348,6 @@
     "source": "NDTV",
     "pubDate": "Thu, 02 Apr 2026 00:30:28 +0530",
     "link": "https://www.ndtv.com/india-news/luthra-brothers-get-bail-in-goa-nightclub-fire-case-but-will-stay-in-jail-11299051#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-news-20-merchant-vessels-attacked-1-900-ships-stranded-navy-chief-on-hormuz-11299045#publisher=newsstand",
-    "category": "india",
-    "title": "20 Merchant Vessels Attacked, 1,900 Ships Stranded: Navy Chief On Hormuz",
-    "summary": "Tripathi said that daily traffic through the Strait of Hormuz has fallen sharply to six-seven transits",
-    "image": "https://c.ndtvimg.com/2026-03/oa6jnd34_-strait-of-hormuz-_625x300_17_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Apr 2026 00:26:17 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-news-20-merchant-vessels-attacked-1-900-ships-stranded-navy-chief-on-hormuz-11299045#publisher=newsstand"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
