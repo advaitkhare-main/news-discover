@@ -10,16 +10,6 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cwyj7dwwlq9o#0",
-    "category": "global",
-    "title": "Doctors lose new jobs package as strike to go ahead",
-    "summary": "The offer of 1,000 more training posts has been withdrawn after the union refused to scrap the planned six-day strike.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 01 Apr 2026 23:29:39 GMT",
-    "link": "https://www.bbc.com/news/articles/cwyj7dwwlq9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1530128.html",
     "category": "sports",
     "title": "Farhan century floors Kingsmen and keeps them winless",
@@ -50,11 +40,21 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/dont-be-a-hero-ca-rudramurthy-bv-says-stay-away-from-longs-short-havells-and-lodha-instead/articleshow/129976105.cms",
+    "category": "finance",
+    "title": "'Don't be a hero': CA Rudramurthy BV says stay away from longs; short Havells and Lodha instead",
+    "summary": "Vachana Investments MD CA Rudramurthy BV advises Indian equity investors to view market rallies as shorting opportunities until Brent crude falls below $95, the rupee drops below 92, and the VIX cools under 15. He emphasizes preserving capital and su",
+    "image": "https://img.etimg.com/photo/msid-129976105,imgsize-21572.cms",
+    "source": "ET",
+    "pubDate": "Thu, 02 Apr 2026 16:15:34 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/dont-be-a-hero-ca-rudramurthy-bv-says-stay-away-from-longs-short-havells-and-lodha-instead/articleshow/129976105.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/clock-ticks-for-a-dozen-indian-ipos-as-approvals-near-expiry/articleshow/129975980.cms",
     "category": "finance",
     "title": "Clock ticks for a dozen Indian IPOs as approvals near expiry",
     "summary": "India's IPO market faces potential disruptions as several companies risk missing their listing deadlines due to a market downturn. Firms like Credila Financial Services and Dorf-Ketal Chemicals are among those with approvals nearing expiry. Valuation",
-    "image": "https://img.etimg.com/photo/msid-129975980,imgsize-48614.cms",
+    "image": "https://img.etimg.com/photo/msid-129975980,imgsize-58932.cms",
     "source": "ET",
     "pubDate": "Thu, 02 Apr 2026 16:14:06 +0530",
     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/clock-ticks-for-a-dozen-indian-ipos-as-approvals-near-expiry/articleshow/129975980.cms"
@@ -180,16 +180,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/beyond-iran-war-what-drove-sharp-equity-selloff-in-march-aswath-damodaran-explains/articleshow/129975013.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-india-opportunities-fund-among-5-thematic-funds-with-cash-holdings-up-to-21-in-february/slideshow/129975666.cms",
-    "category": "finance",
-    "title": "ICICI Prudential India Opportunities Fund among 5 thematic funds with cash holdings up to 21% in February",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-129974947,imgsize-47064.cms",
-    "source": "ET",
-    "pubDate": "Thu, 02 Apr 2026 15:26:25 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-india-opportunities-fund-among-5-thematic-funds-with-cash-holdings-up-to-21-in-february/slideshow/129975666.cms"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-most-exposed-indian-company-to-trumps-new-tariff-threat-warns-jefferies/articleshow/129974758.cms",
     "category": "finance",
     "title": "Sun Pharma most exposed Indian company to Trump's new tariff threat, warns Jefferies",
@@ -216,8 +206,28 @@
     "summary": "Robert Bush pleads guilty to charges relating to Legacy Independent Funeral Directors in Hull.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 02 Apr 2026 10:53:15 GMT",
+    "pubDate": "Thu, 02 Apr 2026 11:27:44 GMT",
     "link": "https://www.bbc.com/news/articles/c70kenjyjr8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvgke0qjn1yo#0",
+    "category": "global",
+    "title": "King and Queen give away money in ancient Easter tradition",
+    "summary": "It is only the second time the Maundy service has been held in Wales in its 800-year history.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Apr 2026 11:17:34 GMT",
+    "link": "https://www.bbc.com/news/articles/cvgke0qjn1yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/weather/articles/ce3d7n10ypyo#0",
+    "category": "global",
+    "title": "Storm Dave set to batter UK with gales and blizzards over Easter weekend",
+    "summary": "Damage and travel disruption are likely in the north of the UK with a Met Office named storm expected to sweep through on Saturday.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Apr 2026 10:57:39 GMT",
+    "link": "https://www.bbc.com/weather/articles/ce3d7n10ypyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530159.html",
@@ -228,16 +238,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 02 Apr 2026 10:43:53 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1530159.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvgke0qjn1yo#0",
-    "category": "global",
-    "title": "King and Queen give away money in ancient Easter tradition",
-    "summary": "It is only the second time the service has been held in Wales in its 800-year history.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Apr 2026 10:34:15 GMT",
-    "link": "https://www.bbc.com/news/articles/cvgke0qjn1yo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530149.html",
