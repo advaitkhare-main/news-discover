@@ -10,7 +10,7 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cwyj7dwwlq9o#2",
+    "id": "https://www.bbc.com/news/articles/cwyj7dwwlq9o#0",
     "category": "global",
     "title": "Doctors lose new jobs package as strike to go ahead",
     "summary": "The offer of 1,000 more training posts has been withdrawn after the union refused to scrap the planned six-day strike.",
@@ -18,16 +18,6 @@
     "source": "BBC",
     "pubDate": "Wed, 01 Apr 2026 23:29:39 GMT",
     "link": "https://www.bbc.com/news/articles/cwyj7dwwlq9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/cwydnrmggnno#1",
-    "category": "global",
-    "title": "Watch the moment Artemis II blasts off on historic mission",
-    "summary": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 01 Apr 2026 23:00:39 GMT",
-    "link": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530128.html",
@@ -38,16 +28,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 01 Apr 2026 20:36:23 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1530128.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530115.html",
-    "category": "sports",
-    "title": "Brook, Bethell receive warnings from Cricket Regulator after Wellington incident",
-    "summary": "No further action taken against Tongue, after incident in which England white-ball captain was hit by nightclub bouncer",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415100/415146.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 01 Apr 2026 20:29:16 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530115.html?ex_cid=OTC-RSS"
   },
   {
     "id": "1dxpkoyNmn8ceRMHCKLlT8",
@@ -70,6 +50,146 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/clock-ticks-for-a-dozen-indian-ipos-as-approvals-near-expiry/articleshow/129975980.cms",
+    "category": "finance",
+    "title": "Clock ticks for a dozen Indian IPOs as approvals near expiry",
+    "summary": "India's IPO market faces potential disruptions as several companies risk missing their listing deadlines due to a market downturn. Firms like Credila Financial Services and Dorf-Ketal Chemicals are among those with approvals nearing expiry. Valuation",
+    "image": "https://img.etimg.com/photo/msid-129975980,imgsize-48614.cms",
+    "source": "ET",
+    "pubDate": "Thu, 02 Apr 2026 16:14:06 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/clock-ticks-for-a-dozen-indian-ipos-as-approvals-near-expiry/articleshow/129975980.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-soars-to-best-day-in-over-a-decade-as-rbi-clamps-down-on-speculation/articleshow/129976135.cms",
+    "category": "finance",
+    "title": "Indian rupee soars to best day in over a decade as RBI clamps down on speculation",
+    "summary": "The Indian rupee surged on Thursday after the central bank tightened the screws on speculative bets against the currency, with the Asian unit having its best day since 2013, when policymakers had \u200calso resorted to extraordinary \u2060measures \u2060to stabilis",
+    "image": "https://img.etimg.com/photo/msid-129976135,imgsize-68204.cms",
+    "source": "ET",
+    "pubDate": "Thu, 02 Apr 2026 16:04:02 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-soars-to-best-day-in-over-a-decade-as-rbi-clamps-down-on-speculation/articleshow/129976135.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/meghalaya-board-mbose-sslc-class-10-result-2026-to-be-declared-on-april-7-at-11-am-11301661#publisher=newsstand",
+    "category": "india",
+    "title": "Meghalaya Board Class 10 Result 2026 To Be Declared On April 7 At 11 AM",
+    "summary": "Meghalaya Board Class 10 Result 2026: The examinations were conducted from January 30 to February 11.",
+    "image": "https://c.ndtvimg.com/2026-04/gbfji67g_meghalaya-board-class-10-result-2026_625x300_02_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Apr 2026 15:48:05 +0530",
+    "link": "https://www.ndtv.com/education/meghalaya-board-mbose-sslc-class-10-result-2026-to-be-declared-on-april-7-at-11-am-11301661#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/feature/amid-oracle-layoffs-employee-celebrates-exit-not-logging-in-made-me-cry-with-joy-11301513#publisher=newsstand",
+    "category": "india",
+    "title": "Amid Oracle Layoffs, Employee Celebrates Exit: \"Not Logging In Made Me Cry With Joy\"",
+    "summary": "Globally, the company has fired around 30,000 employees.",
+    "image": "https://c.ndtvimg.com/2026-04/si96b364_oracle_625x300_02_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Apr 2026 15:43:55 +0530",
+    "link": "https://www.ndtv.com/feature/amid-oracle-layoffs-employee-celebrates-exit-not-logging-in-made-me-cry-with-joy-11301513#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/donald-trumps-address-on-us-iran-war-live-updates-big-speech-on-iran-war-middle-east-conflict-oil-crisis-strait-of-hormuz-11299579#publisher=newsstand",
+    "category": "india",
+    "title": "US-Iran War Live Updates: Trump's Iran Speech Rattles Markets, Fuels Fresh Fears Of Prolonged War",
+    "summary": "US-Iran War Live Updates: The speech will offer Trump a wide audience to articulate clear objectives for the war that could attempt to reconcile weeks of changing goals",
+    "image": "https://c.ndtvimg.com/2026-04/bnp8o3fs_iran-war_625x300_02_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Apr 2026 15:43:35 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trumps-address-on-us-iran-war-live-updates-big-speech-on-iran-war-middle-east-conflict-oil-crisis-strait-of-hormuz-11299579#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/blackrock-cuts-us-stocks-to-neutral-and-warns-of-rate-hikes-but-sees-a-buying-opportunity-in-india/articleshow/129975408.cms",
+    "category": "finance",
+    "title": "BlackRock cuts US stocks to neutral and warns of rate hikes \u2014 but sees a buying opportunity in India",
+    "summary": "Vivek Paul, Global Head of Portfolio Research at BlackRock Investment, says the West Asia energy shock has proved to be far broader than a typical oil spike \u2014 and that equity markets, particularly in the US, have not yet priced in the full extent of ",
+    "image": "https://img.etimg.com/photo/msid-129975408,imgsize-18638.cms",
+    "source": "ET",
+    "pubDate": "Thu, 02 Apr 2026 15:42:25 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/blackrock-cuts-us-stocks-to-neutral-and-warns-of-rate-hikes-but-sees-a-buying-opportunity-in-india/articleshow/129975408.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/bengal-assembly-elections-sir-gherao-supreme-court-mamata-banerjee-bengal-judicial-officers-hostage-shocker-11300986#publisher=newsstand",
+    "category": "india",
+    "title": "\"No One Told Me\": Mamata Banerjee On Hostage Incident After Top Court's Rap",
+    "summary": "Bengal Chief Minister Mamata Banerjee and the Supreme Court (File);",
+    "image": "https://c.ndtvimg.com/2026-01/iic9pkv_mamata-banerjee_160x120_15_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Apr 2026 15:42:16 +0530",
+    "link": "https://www.ndtv.com/india-news/bengal-assembly-elections-sir-gherao-supreme-court-mamata-banerjee-bengal-judicial-officers-hostage-shocker-11300986#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rebounds-1800-pts-from-days-low-settles-in-green-nifty-above-22700-as-rupee-strengthens/articleshow/129975456.cms",
+    "category": "finance",
+    "title": "Sensex rebounds 1,800 pts from day\u2019s low, settles in green; Nifty above 22,700 as rupee strengthens",
+    "summary": "Indian stock markets experienced significant volatility on Thursday, with a sharp crash triggered by US President Trump's comments on Iran. Despite an initial plunge of over 1,600 points for Sensex and 500 points for Nifty 50, both indices ultimately",
+    "image": "https://img.etimg.com/photo/msid-129975456,imgsize-136127.cms",
+    "source": "ET",
+    "pubDate": "Thu, 02 Apr 2026 15:42:09 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rebounds-1800-pts-from-days-low-settles-in-green-nifty-above-22700-as-rupee-strengthens/articleshow/129975456.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/stock-markets-live-updates-sensex-nifty-today-gift-nifty-donald-trump-iran-war-oil-prices-april-2-11299805#publisher=newsstand",
+    "category": "india",
+    "title": "Stock Market Highlights: Markets End In Green After Sensex Started Day 1,400 Points Lower",
+    "summary": "Sensex Today, Stock Market, Nifty, Share Market: Markets End The Day In Green.",
+    "image": "https://c.ndtvimg.com/2018-12/ncvhmrng_stock-market-crash-istock-650_625x300_21_December_18.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Apr 2026 15:41:48 +0530",
+    "link": "https://www.ndtv.com/india-news/stock-markets-live-updates-sensex-nifty-today-gift-nifty-donald-trump-iran-war-oil-prices-april-2-11299805#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/this-is-what-life-is-about-entrepreneurs-post-for-father-goes-viral-11301660#publisher=newsstand",
+    "category": "india",
+    "title": "\"This Is What Life Is About\": Entrepreneur's Post For Father Goes Viral",
+    "summary": "Ojha wrote that the moment made him realise the deeper meaning behind the journey.",
+    "image": "https://c.ndtvimg.com/2026-04/9o6n981s_father_625x300_02_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Apr 2026 15:39:19 +0530",
+    "link": "https://www.ndtv.com/offbeat/this-is-what-life-is-about-entrepreneurs-post-for-father-goes-viral-11301660#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/best-sip-mutual-funds-to-buy-hold-as-iran-war-jitters-shake-stock-markets-investment-11299616#publisher=newsstand",
+    "category": "india",
+    "title": "Best SIP Mutual Funds To Buy And Hold As Iran War Jitters Shake Markets",
+    "summary": "Amid Iran war, investors should be selective and disciplined, say experts.",
+    "image": "https://c.ndtvimg.com/2026-02/4e0h1pgc_sip_625x300_11_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Apr 2026 15:38:35 +0530",
+    "link": "https://www.ndtv.com/india-news/best-sip-mutual-funds-to-buy-hold-as-iran-war-jitters-shake-stock-markets-investment-11299616#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/rrb-group-d-result-2026-expected-soon-in-april-scorecards-cut-offs-to-be-released-zone-wise-11301584#publisher=newsstand",
+    "category": "india",
+    "title": "RRB Group D Result 2026 Expected Soon In April; Scorecards, Cut-Offs To Be Released Zone-Wise",
+    "summary": "How To Download RRB Group D 2026 Scorecard And Merit List",
+    "image": "https://c.ndtvimg.com/2026-04/8091eoj4_-rrb-group-d-2026-_625x300_02_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Apr 2026 15:36:52 +0530",
+    "link": "https://www.ndtv.com/education/rrb-group-d-result-2026-expected-soon-in-april-scorecards-cut-offs-to-be-released-zone-wise-11301584#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/beyond-iran-war-what-drove-sharp-equity-selloff-in-march-aswath-damodaran-explains/articleshow/129975013.cms",
+    "category": "finance",
+    "title": "Beyond Iran war, what drove sharp equity selloff in March? Aswath Damodaran explains",
+    "summary": "Global markets saw sharp volatility in March as the Iran war and a surge in crude oil prices reshaped investor expectations. Aswath Damodaran said the selloff reflected recalibration, not panic. Rising inflation expectations, higher bond yields and m",
+    "image": "https://img.etimg.com/photo/msid-129975013,imgsize-1625204.cms",
+    "source": "ET",
+    "pubDate": "Thu, 02 Apr 2026 15:28:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/beyond-iran-war-what-drove-sharp-equity-selloff-in-march-aswath-damodaran-explains/articleshow/129975013.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-india-opportunities-fund-among-5-thematic-funds-with-cash-holdings-up-to-21-in-february/slideshow/129975666.cms",
+    "category": "finance",
+    "title": "ICICI Prudential India Opportunities Fund among 5 thematic funds with cash holdings up to 21% in February",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-129974947,imgsize-47064.cms",
+    "source": "ET",
+    "pubDate": "Thu, 02 Apr 2026 15:26:25 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-india-opportunities-fund-among-5-thematic-funds-with-cash-holdings-up-to-21-in-february/slideshow/129975666.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-most-exposed-indian-company-to-trumps-new-tariff-threat-warns-jefferies/articleshow/129974758.cms",
     "category": "finance",
     "title": "Sun Pharma most exposed Indian company to Trump's new tariff threat, warns Jefferies",
@@ -78,76 +198,6 @@
     "source": "ET",
     "pubDate": "Thu, 02 Apr 2026 15:23:59 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-most-exposed-indian-company-to-trumps-new-tariff-threat-warns-jefferies/articleshow/129974758.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/stock-markets-live-updates-sensex-nifty-today-gift-nifty-donald-trump-iran-war-oil-prices-april-2-11299805#publisher=newsstand",
-    "category": "india",
-    "title": "Stock Market LIVE Updates: Markets Recover From Crash, Sensex, Nifty Bounce Back In Green",
-    "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates: Markets Crashed After Trump's Speech.",
-    "image": "https://c.ndtvimg.com/2018-12/ncvhmrng_stock-market-crash-istock-650_625x300_21_December_18.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Apr 2026 14:35:43 +0530",
-    "link": "https://www.ndtv.com/india-news/stock-markets-live-updates-sensex-nifty-today-gift-nifty-donald-trump-iran-war-oil-prices-april-2-11299805#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-us-israel-war-what-is-real-anymore-how-ai-blurs-truth-in-the-middle-east-war-11301151#publisher=newsstand",
-    "category": "india",
-    "title": "What's Real Anymore? How AI Blurs Truth In The Middle East War",
-    "summary": "Tech platforms are now saturated with what is widely dubbed \"AI slop\".",
-    "image": "https://c.ndtvimg.com/2026-03/47055b1o_-netanyahu-coffeegate_625x300_16_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Apr 2026 14:34:27 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-us-israel-war-what-is-real-anymore-how-ai-blurs-truth-in-the-middle-east-war-11301151#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/man-buys-rs-1-lakh-gift-for-his-mother-takes-30-minutes-to-convince-her-to-accept-it-11301345#publisher=newsstand",
-    "category": "india",
-    "title": "Man Buys Rs 1 Lakh Gift For His Mother, Takes 30 Minutes To Convince Her To Accept It",
-    "summary": "Recalling the moment, Sahil described it as \"a very wholesome day.\"",
-    "image": "https://c.ndtvimg.com/2026-04/nfvdsujc_glasses-shop_625x300_02_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Apr 2026 14:32:22 +0530",
-    "link": "https://www.ndtv.com/offbeat/man-buys-rs-1-lakh-gift-for-his-mother-takes-30-minutes-to-convince-her-to-accept-it-11301345#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-news-you-know-nothing-irans-warning-after-trumps-stone-age-threat-11301322#publisher=newsstand",
-    "category": "india",
-    "title": "\"You Know Nothing\": Iran's Warning After Trump's \"Stone Age\" Threat",
-    "summary": "The Iranian official said the sites that the US \"hit are insignificant\"",
-    "image": "https://c.ndtvimg.com/2026-04/gfbgq3qs_iran-trump_625x300_02_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Apr 2026 14:32:21 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-news-you-know-nothing-irans-warning-after-trumps-stone-age-threat-11301322#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/we-dont-need-it-says-trump-on-strait-of-hormuz-market-economics-say-otherwise-us-inflation-india-import-11301321#publisher=newsstand",
-    "category": "india",
-    "title": "\"We Don't Need It,\" Says Trump On Strait Of Hormuz. Market Economics Say Otherwise",
-    "summary": "The US imports almost no oil through the Hormuz Strait, said US President Donald Trump.",
-    "image": "https://c.ndtvimg.com/2026-03/1h8411hs_trump-hormuz_625x300_31_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Apr 2026 14:30:37 +0530",
-    "link": "https://www.ndtv.com/world-news/we-dont-need-it-says-trump-on-strait-of-hormuz-market-economics-say-otherwise-us-inflation-india-import-11301321#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-on-strait-of-hormuz-blockade-amid-war-with-israel-us-our-indian-friends-in-safe-hands-no-worries-11301272#publisher=newsstand",
-    "category": "india",
-    "title": "\"Our Indian Friends In Safe Hands, No Worries\": Iran On Hormuz Blockade",
-    "summary": "At least eight Indian ships have so far exited the Strait of Hormuz amid Iran war",
-    "image": "https://c.ndtvimg.com/2026-04/kj83uufs_hormuz-indian-ships_625x300_02_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Apr 2026 14:29:17 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-on-strait-of-hormuz-blockade-amid-war-with-israel-us-our-indian-friends-in-safe-hands-no-worries-11301272#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/west-bengal-sir-protest-live-updates-national-highway-blocked-in-malda-sc-raps-mamata-banerjee-over-hostage-taking-bengal-assembly-elections-11301286#publisher=newsstand",
-    "category": "india",
-    "title": "West Bengal SIR Protest Live Updates: National Highway Blocked In Bengal's Malda As SIR Dispute Triggers Protest",
-    "summary": "West Bengal SIR Protest Live Updates: The state's electoral rolls, the list of eligible voters, have been revised under orders from the Election Commission of India through the Special Intensive Revision exercise",
-    "image": "https://c.ndtvimg.com/2026-04/vp2iabc8_bengal-sir_625x300_02_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Apr 2026 14:25:22 +0530",
-    "link": "https://www.ndtv.com/india-news/west-bengal-sir-protest-live-updates-national-highway-blocked-in-malda-sc-raps-mamata-banerjee-over-hostage-taking-bengal-assembly-elections-11301286#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/buy-selectively-focus-on-resilient-sectors-despite-volatility-manish-sonthalia/articleshow/129973069.cms",
@@ -160,74 +210,44 @@
     "link": "https://economictimes.indiatimes.com/markets/expert-view/buy-selectively-focus-on-resilient-sectors-despite-volatility-manish-sonthalia/articleshow/129973069.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/gautam-adani-visits-ram-temple-in-ayodhya-with-family-offers-prayers-11300874#publisher=newsstand",
-    "category": "india",
-    "title": "Gautam Adani Visits Ram Temple In Ayodhya With family, Offers Prayers",
-    "summary": "The Adani family participated in the holy rituals at the temple and offered prayers.",
-    "image": "https://c.ndtvimg.com/2026-04/206fbfqo_adani-at-ram-temple_625x300_02_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Apr 2026 14:21:40 +0530",
-    "link": "https://www.ndtv.com/india-news/gautam-adani-visits-ram-temple-in-ayodhya-with-family-offers-prayers-11300874#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/c70kenjyjr8o#0",
+    "category": "global",
+    "title": "Funeral director admits preventing 30 burials and theft",
+    "summary": "Robert Bush pleads guilty to charges relating to Legacy Independent Funeral Directors in Hull.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Apr 2026 10:53:15 GMT",
+    "link": "https://www.bbc.com/news/articles/c70kenjyjr8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/9-smallcap-stocks-deliver-20-gains-in-two-straight-quarters-soar-up-to-95-in-6-months/slideshow/129973059.cms",
-    "category": "finance",
-    "title": "9 smallcap stocks deliver 20%+ gains in two straight quarters, soar up to 95% in 6 months",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-129972609,imgsize-8288.cms",
-    "source": "ET",
-    "pubDate": "Thu, 02 Apr 2026 14:09:01 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/9-smallcap-stocks-deliver-20-gains-in-two-straight-quarters-soar-up-to-95-in-6-months/slideshow/129973059.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1530159.html",
+    "category": "sports",
+    "title": "Tom Smith joins England Women as spin-bowling coach",
+    "summary": "Former Gloucestershire spinner to work with Sophie Ecclestone, Sarah Glenn, Charlie Dean, Linsey Smith before T20 World Cup",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/403900/403920.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 02 Apr 2026 10:43:53 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530159.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/niftys-december-bull-case-target-at-29480-says-axis-direct-names-15-stocks-to-ride-iran-war-driven-volatility/articleshow/129972149.cms",
-    "category": "finance",
-    "title": "Nifty\u2019s December bull case target at 29,480, says Axis Direct; names 15 stocks to ride Iran war-driven volatility",
-    "summary": "Indian equities underperformed in 2025\u201326 due to global headwinds, FII outflows, and rising oil prices, despite improving domestic earnings and policy support. March 2026 saw a sharp correction amid geopolitical tensions. Axis Direct recommends high-",
-    "image": "https://img.etimg.com/photo/msid-129972149,imgsize-27584.cms",
-    "source": "ET",
-    "pubDate": "Thu, 02 Apr 2026 13:53:54 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/niftys-december-bull-case-target-at-29480-says-axis-direct-names-15-stocks-to-ride-iran-war-driven-volatility/articleshow/129972149.cms"
+    "id": "https://www.bbc.com/news/articles/cvgke0qjn1yo#0",
+    "category": "global",
+    "title": "King and Queen give away money in ancient Easter tradition",
+    "summary": "It is only the second time the service has been held in Wales in its 800-year history.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Apr 2026 10:34:15 GMT",
+    "link": "https://www.bbc.com/news/articles/cvgke0qjn1yo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/oil-could-hit-140-if-iran-tensions-escalate-warns-peter-mcguire-heres-what-happens-to-gold-next/articleshow/129972015.cms",
-    "category": "finance",
-    "title": "Oil could hit $140 if Iran tensions escalate, warns Peter McGuire; here's what happens to gold next",
-    "summary": "Peter McGuire of Australia-Trading.com highlights how Trump's Iran ultimatum has created market volatility, particularly in oil, gold, and silver. He outlines two oil price scenarios, ranging from $85-$100 to a potential $130-$140 per barrel, dependi",
-    "image": "https://img.etimg.com/photo/msid-129972015,imgsize-24122.cms",
-    "source": "ET",
-    "pubDate": "Thu, 02 Apr 2026 13:47:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/oil-could-hit-140-if-iran-tensions-escalate-warns-peter-mcguire-heres-what-happens-to-gold-next/articleshow/129972015.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/will-fy27-be-better-than-black-swan-fy26-for-markets-heres-what-motilal-oswal-says/articleshow/129971981.cms",
-    "category": "finance",
-    "title": "Will FY27 be better than 'black swan' FY26 for markets? Here's what Motilal Oswal says",
-    "summary": "Indian equities underperformed in FY26 due to global headwinds, FII outflows, and limited exposure to the AI boom, despite improving domestic earnings and policy support. Motilal Oswal expects FY27 to benefit from delayed effects of fiscal and moneta",
-    "image": "https://img.etimg.com/photo/msid-129971981,imgsize-11774.cms",
-    "source": "ET",
-    "pubDate": "Thu, 02 Apr 2026 13:44:14 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-fy27-be-better-than-black-swan-fy26-for-markets-heres-what-motilal-oswal-says/articleshow/129971981.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/focus-on-quality-buy-in-stages-dharmesh-kants-strategy-for-uncertain-market/articleshow/129971925.cms",
-    "category": "finance",
-    "title": "\u201cFocus on quality, buy in stages\u201d: Dharmesh Kant\u2019s strategy for uncertain market",
-    "summary": "Investors face a challenging market driven by geopolitical headlines, making decisive calls difficult. Dharmesh Kant suggests a scenario-based approach for the Nifty, with valuations reflecting realism. He advises focusing on quality stocks and stagg",
-    "image": "https://img.etimg.com/photo/msid-129971925,imgsize-16886.cms",
-    "source": "ET",
-    "pubDate": "Thu, 02 Apr 2026 13:42:45 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/focus-on-quality-buy-in-stages-dharmesh-kants-strategy-for-uncertain-market/articleshow/129971925.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-fall-more-than-1-as-hopes-of-quick-end-to-middle-east-conflict-fade/articleshow/129971717.cms",
-    "category": "finance",
-    "title": "Global markets | European shares fall more than 1% as hopes of quick end to Middle East conflict fade",
-    "summary": "Europe's main stock index \u200bfell more than 1% on \u200bThursday as hopes of a quick end to \u200bthe Middle East conflict faded after U.S. President Donald Trump vowed more strikes on Iran.",
-    "image": "https://img.etimg.com/photo/msid-129971717,imgsize-20636.cms",
-    "source": "ET",
-    "pubDate": "Thu, 02 Apr 2026 13:32:02 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-fall-more-than-1-as-hopes-of-quick-end-to-middle-east-conflict-fade/articleshow/129971717.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1530149.html",
+    "category": "sports",
+    "title": "CSA charges Beyers Swanepoel with bringing game into disrepute",
+    "summary": "Allrounder's stint with Worcestershire set to be canned as board withhold No-Objection Certificate",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415074.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 02 Apr 2026 10:13:56 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530149.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530155.html",
@@ -240,17 +260,7 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530155.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530149.html",
-    "category": "sports",
-    "title": "CSA charges Beyers Swanepoel with bringing game into disrepute",
-    "summary": "Allrounder's stint with Worcestershire set to be canned as board withhold No-Objection Certificate",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415074.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 02 Apr 2026 09:17:31 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530149.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx2d0md89v2o#2",
+    "id": "https://www.bbc.com/news/articles/cx2d0md89v2o#0",
     "category": "global",
     "title": "UK to host virtual summit on reopening the Strait of Hormuz",
     "summary": "The virtual summit will consider what diplomatic steps can be taken, though the US is not expected to attend.",
@@ -260,9 +270,9 @@
     "link": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/videos/c05d6pprdleo#1",
+    "id": "https://www.bbc.com/news/videos/c05d6pprdleo#0",
     "category": "global",
-    "title": "'Oh my goodness, that is spectacular':  See BBC science editor react to launch",
+    "title": "'Oh my goodness, that is spectacular':  Watch BBC science editor react to launch",
     "summary": "Nasa's Artemis II has blasted off and is now orbiting Earth, before continuing on to circle the Moon.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -270,7 +280,7 @@
     "link": "https://www.bbc.com/news/videos/c05d6pprdleo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c4gv7yj71llo#2",
+    "id": "https://www.bbc.com/news/articles/c4gv7yj71llo#0",
     "category": "global",
     "title": "BBC sacked Scott Mills after learning alleged victim in police investigation was under 16",
     "summary": "It comes as Mills released a statement saying he had \"fully cooperated and responded\" with the police investigation in 2018.",
@@ -300,7 +310,7 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530125.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c20zgjzz0e4o#2",
+    "id": "https://www.bbc.com/news/articles/c20zgjzz0e4o#0",
     "category": "global",
     "title": "Petrol and diesel prices see biggest rise on record in March",
     "summary": "The cost of filling a vehicle jumped at the sharpest pace than any other month, the RAC said.",
@@ -320,7 +330,7 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530145.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cnv81ven263o#2",
+    "id": "https://www.bbc.com/news/articles/cnv81ven263o#0",
     "category": "global",
     "title": "Trump leaves key questions unanswered as he seeks to calm nerves over war",
     "summary": "There were some glaring omissions in the president's primetime address, writes the BBC's Gary O'Donoghue.",
@@ -328,16 +338,6 @@
     "source": "BBC",
     "pubDate": "Thu, 02 Apr 2026 03:22:51 GMT",
     "link": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cz90yp7w104o#1",
-    "category": "global",
-    "title": "Dream of space travel reignites with journey to circle the Moon",
-    "summary": "There was giddy euphoria at the Kennedy Space Center after the launch, writes the BBC's Pallab Ghosh.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Apr 2026 03:09:08 GMT",
-    "link": "https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530139.html",
