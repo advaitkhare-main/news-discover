@@ -30,24 +30,34 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c8ej47g6w3jo#0",
+    "category": "global",
+    "title": "Police offered support to tackle rising threats against MPs",
+    "summary": "Reports of crimes against MPs have more than doubled since 2019, reaching almost 1,000 last year.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Apr 2026 23:24:53 GMT",
+    "link": "https://www.bbc.com/news/articles/c8ej47g6w3jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0e53x475qjo#0",
+    "category": "global",
+    "title": "Marmalade to be re-branded in post-Brexit food deal",
+    "summary": "The breakfast favourite will be legally renamed when Britain aligns with new EU labelling rules.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Apr 2026 23:03:38 GMT",
+    "link": "https://www.bbc.com/news/articles/c0e53x475qjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c3ex59yy4j2o#0",
     "category": "global",
     "title": "Judge dismisses most of Blake Lively's claims in harassment lawsuit against Baldoni",
-    "summary": "The judge dismissed all but three claims against Baldoni weeks before a trial date.",
+    "summary": "The judge left in place three allegations against Baldoni, meaning the civil trial will go ahead next month.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 02 Apr 2026 22:14:44 GMT",
+    "pubDate": "Thu, 02 Apr 2026 22:47:48 GMT",
     "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/sport/golf/articles/c393zx19xemo#0",
-    "category": "global",
-    "title": "Tiger Woods crash bodycam footage released by police",
-    "summary": "Body camera footage showing Tiger Woods straight after he clipped a truck and rolled his car in Florida last month is released by police.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Apr 2026 21:29:46 GMT",
-    "link": "https://www.bbc.com/sport/golf/articles/c393zx19xemo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-clears-emirates-nbd-to-acquire-up-to-74-stake-in-rbl-bank-lender-to-become-foreign-bank-post-acquisition/articleshow/129983475.cms",
@@ -190,6 +200,16 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530209.html?ex_cid=OTC-RSS"
   },
   {
+    "id": "https://www.bbc.com/news/articles/crm1vj941x9o#0",
+    "category": "global",
+    "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
+    "summary": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Apr 2026 16:09:24 GMT",
+    "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1530192.html",
     "category": "sports",
     "title": "BCB vs Dhaka clubs standoff leaves players in the lurch",
@@ -220,16 +240,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530149.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cy01wd437x2o#0",
-    "category": "global",
-    "title": "BBC boss Tim Davie says it was 'very clear' Scott Mills had to go",
-    "summary": "Outgoing BBC boss Davie says on his final day Scott Mills' sacking \"was a real shock to the organisation\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Apr 2026 15:17:26 GMT",
-    "link": "https://www.bbc.com/news/articles/cy01wd437x2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1530176.html",
     "category": "sports",
     "title": "Shivang Kumar debuts for SRH; unchanged KKR bowl",
@@ -248,16 +258,6 @@
     "source": "BBC",
     "pubDate": "Thu, 02 Apr 2026 13:41:27 GMT",
     "link": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/weather/articles/ce3d7n10ypyo#0",
-    "category": "global",
-    "title": "Storm Dave set to batter UK with gales and blizzards over Easter weekend",
-    "summary": "Damage and travel disruption are likely in the north of the UK with a Met Office named storm expected to sweep through on Saturday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Apr 2026 10:57:39 GMT",
-    "link": "https://www.bbc.com/weather/articles/ce3d7n10ypyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
@@ -298,6 +298,26 @@
     "source": "VentureBeat",
     "pubDate": "Fri, 16 Jan 2026 14:01:00 GMT",
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/trumps-white-house-ballroom-gets-final-approval-despite-court-order-11304709#publisher=newsstand",
+    "category": "india",
+    "title": "Trump's White House Ballroom Gets Final Approval Despite Court Order",
+    "summary": "President Donald Trump's White House ballroom won final approval from a key agency on Thursday.",
+    "image": "https://c.ndtvimg.com/2026-04/vdoa9b3c_white-house-ballroom_625x300_01_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 04:16:09 +0530",
+    "link": "https://www.ndtv.com/world-news/trumps-white-house-ballroom-gets-final-approval-despite-court-order-11304709#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/5-killed-in-suicide-car-bomb-blast-in-pakistans-khyber-pakhtunkhwa-11304676#publisher=newsstand",
+    "category": "india",
+    "title": "5 Killed In Suicide Car Bomb Blast In Pakistan's Khyber Pakhtunkhwa",
+    "summary": "Police said a suicide bomber aboard a car hit a police station in Domel tehsil of Bannu district.",
+    "image": "https://c.ndtvimg.com/2024-08/b9rika7_pakistan-police_625x300_26_August_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 03:45:16 +0530",
+    "link": "https://www.ndtv.com/world-news/5-killed-in-suicide-car-bomb-blast-in-pakistans-khyber-pakhtunkhwa-11304676#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/pete-hegseth-asks-us-army-chief-gen-randy-george-of-staff-to-step-down-11304613#publisher=newsstand",
@@ -368,25 +388,5 @@
     "source": "NDTV",
     "pubDate": "Fri, 03 Apr 2026 00:22:03 +0530",
     "link": "https://www.ndtv.com/india-news/come-back-fathers-emotional-appeal-to-one-of-maharashtras-last-maoists-11304303#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/bhagwant-mann-inaugurates-hospital-in-punjabs-cheema-village-to-benefit-50-000-people-11303340#publisher=newsstand",
-    "category": "india",
-    "title": "Bhagwant Mann Inaugurates Hospital In Punjab Village, To Benefit 50,000 People",
-    "summary": "He said the hospital will benefit around 50,000 people across 15 villages.",
-    "image": "https://c.ndtvimg.com/2026-04/kevs35dg_bhagwan-mann-cheema-village-hospital_625x300_02_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 00:14:51 +0530",
-    "link": "https://www.ndtv.com/india-news/bhagwant-mann-inaugurates-hospital-in-punjabs-cheema-village-to-benefit-50-000-people-11303340#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/feature/hyderabad-techie-claims-manager-asked-him-to-work-during-paternity-leave-baby-is-in-nicu-11304372#publisher=newsstand",
-    "category": "india",
-    "title": "Hyderabad Techie Claims Manager Asked Him To Work During Paternity Leave: \"Baby Is In NICU\"",
-    "summary": "He revealed that the baby had to be admitted to the NICU due to respiratory distress.",
-    "image": "https://c.ndtvimg.com/2026-04/5c69i9qg_newborn-baby_625x300_02_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 00:13:43 +0530",
-    "link": "https://www.ndtv.com/feature/hyderabad-techie-claims-manager-asked-him-to-work-during-paternity-leave-baby-is-in-nicu-11304372#publisher=newsstand"
   }
 ]
