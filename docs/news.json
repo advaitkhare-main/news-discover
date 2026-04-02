@@ -30,33 +30,13 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/india-news/oil-prices-amid-middle-east-crisis-industrial-diesel-prices-hiked-by-rs-28-a-litre-11304327#publisher=newsstand",
-    "category": "india",
-    "title": "Amid Middle East Crisis, Industrial Diesel Prices Hiked By Rs 28 A Litre",
-    "summary": "Prices at petrol pumps for diesel car owners have been left unchanged.",
-    "image": "https://i.ndtvimg.com/i/2015-02/diesel-generic-650_650x400_61424350539.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Apr 2026 23:59:04 +0530",
-    "link": "https://www.ndtv.com/india-news/oil-prices-amid-middle-east-crisis-industrial-diesel-prices-hiked-by-rs-28-a-litre-11304327#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-is-preparing-maritime-protocol-with-oman-for-strait-of-hormuz-11304325#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Is Preparing Maritime Protocol With Oman For Strait Of Hormuz",
-    "summary": "The protocol would apply after the ongoing war with the US and Israel",
-    "image": "https://c.ndtvimg.com/2025-06/o2o3aikk_straitofhormuz_160x120_20_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Apr 2026 23:55:37 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-is-preparing-maritime-protocol-with-oman-for-strait-of-hormuz-11304325#publisher=newsstand"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c3ex59yy4j2o#0",
     "category": "global",
-    "title": "Judge dismisses most of Blake Lively claims in harassment suit against Baldoni",
+    "title": "Judge dismisses most of Blake Lively's claims in harassment lawsuit against Baldoni",
     "summary": "The judge dismissed all but three claims against Baldoni weeks before a trial date.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 02 Apr 2026 21:30:16 GMT",
+    "pubDate": "Thu, 02 Apr 2026 22:14:44 GMT",
     "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -320,13 +300,33 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://www.ndtv.com/world-news/pete-hegseth-asks-us-army-chief-gen-randy-george-of-staff-to-step-down-11304613#publisher=newsstand",
+    "category": "india",
+    "title": "Pete Hegseth Asks US Army Chief Of Staff To Step Down",
+    "summary": "Pete Hegseth has asked the Army's top uniformed officer to step down, the Pentagon said on Thursday.",
+    "image": "https://c.ndtvimg.com/2026-03/890l0hgo_pete-hegseth_625x300_24_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 02:45:04 +0530",
+    "link": "https://www.ndtv.com/world-news/pete-hegseth-asks-us-army-chief-gen-randy-george-of-staff-to-step-down-11304613#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/centre-clarifies-fuel-supply-to-bangladesh-amid-energy-crisis-11304607#publisher=newsstand",
+    "category": "india",
+    "title": "Centre Clarifies Fuel Supply To Bangladesh Amid Energy Crisis",
+    "summary": "India on Thursday said that it has received a request from Bangladesh for the supply of diesel, which is currently being examined by the government.",
+    "image": "https://c.ndtvimg.com/2026-02/tmdumc2c_randhir-jaiswal_625x300_20_February_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 02:27:31 +0530",
+    "link": "https://www.ndtv.com/india-news/centre-clarifies-fuel-supply-to-bangladesh-amid-energy-crisis-11304607#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/iran-targets-oracle-data-centre-in-dubai-report-11304534#publisher=newsstand",
     "category": "india",
     "title": "Iran Targets Oracle Data Centre In Dubai: Report",
     "summary": "According to the report, Oracle data centre office in Dubai was targeted by Iran.",
-    "image": "https://c.ndtvimg.com/2026-04/4at7upjk_oracle_625x300_02_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "image": "https://c.ndtvimg.com/2026-04/c0t8f5n_oracle_625x300_02_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 01:54:07 +0530",
+    "pubDate": "Fri, 03 Apr 2026 01:59:13 +0530",
     "link": "https://www.ndtv.com/world-news/iran-targets-oracle-data-centre-in-dubai-report-11304534#publisher=newsstand"
   },
   {
