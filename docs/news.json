@@ -50,16 +50,6 @@
     "link": "https://www.bbc.com/news/articles/c8ej47g6w3jo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cvg33l4g88lo#0",
-    "category": "global",
-    "title": "Crisis staff found 'unforgivable scene' at convicted undertaker's funeral home",
-    "summary": "An international crisis team was drafted in after police raided Hull's Legacy funeral home.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Apr 2026 23:12:49 GMT",
-    "link": "https://www.bbc.com/news/articles/cvg33l4g88lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c0e53x475qjo#0",
     "category": "global",
     "title": "Marmalades may need to be relabelled under post-Brexit food deal",
@@ -118,6 +108,16 @@
     "source": "VentureBeat",
     "pubDate": "Fri, 16 Jan 2026 14:01:00 GMT",
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/elon-musks-spacex-ipo-targets-1-75-trillion-valuation-biggest-in-history/videoshow/129998787.cms",
+    "category": "finance",
+    "title": "Elon Musk\u2019s SpaceX IPO targets $1.75 trillion valuation. Biggest in history?",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-129998787,imgsize-142078.cms",
+    "source": "ET",
+    "pubDate": "Fri, 03 Apr 2026 15:57:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/elon-musks-spacex-ipo-targets-1-75-trillion-valuation-biggest-in-history/videoshow/129998787.cms"
   },
   {
     "id": "https://www.ndtv.com/india-news/speaking-from-some-other-station-bhagwant-mann-slams-raghav-chadha-11306315#publisher=newsstand",
@@ -202,9 +202,9 @@
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/iran-war-earnings-hit-and-more-70-stocks-brokerages-pick-from-a-ravaged-indian-market-for-fy27/articleshow/129997387.cms",
     "category": "finance",
-    "title": "Iran war, earnings hit and more: 70 stock picks from a battered Indian market for FY27",
+    "title": "Iran war, earnings hit and more: Brokerages identify nearly 80 stocks from a battered Indian market for FY27",
     "summary": "Brokerages see the recent market correction driven by geopolitical tensions and rising oil prices as a buying opportunity, identifying nearly 80 stocks across sectors. While near-term risks remain, valuations have eased and earnings growth outlook st",
-    "image": "https://img.etimg.com/photo/msid-129997387,imgsize-50120.cms",
+    "image": "https://img.etimg.com/photo/msid-129997387,imgsize-2633030.cms",
     "source": "ET",
     "pubDate": "Fri, 03 Apr 2026 14:03:29 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/iran-war-earnings-hit-and-more-70-stocks-brokerages-pick-from-a-ravaged-indian-market-for-fy27/articleshow/129997387.cms"
@@ -270,14 +270,14 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-to-deepen-insurance-bet-with-rs-389-crore-infusion-in-axis-max-life-stake-seen-at-19-99/articleshow/129994737.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/the-architecture-of-resilience-why-indias-private-credit-stands-apart/articleshow/129994601.cms",
-    "category": "finance",
-    "title": "The architecture of resilience: Why India\u2019s private credit stands apart",
-    "summary": "India\u2019s private credit market stands resilient amid global stress due to its conservative fund structures, strict leverage norms, and closed-ended AIF framework. Unlike global peers facing liquidity and redemption pressures, India\u2019s system aligns inv",
-    "image": "https://img.etimg.com/photo/msid-129994601,imgsize-42778.cms",
-    "source": "ET",
-    "pubDate": "Fri, 03 Apr 2026 10:47:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/the-architecture-of-resilience-why-indias-private-credit-stands-apart/articleshow/129994601.cms"
+    "id": "https://www.bbc.com/news/articles/cy01w2yjzr8o#0",
+    "category": "global",
+    "title": "Funeral boss will pay for what he did, says baby's mum",
+    "summary": "Jasmine Beverley's son was stillborn and his funeral was arranged by the now-disgraced Robert Bush.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 03 Apr 2026 09:45:55 GMT",
+    "link": "https://www.bbc.com/news/articles/cy01w2yjzr8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c937g7nd5x4o#0",
