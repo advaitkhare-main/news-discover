@@ -30,6 +30,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cz0e18jjkx5o#0",
+    "category": "global",
+    "title": "Major Euston rail disruption across Easter weekend",
+    "summary": "West Coast Main Line services will not run to London Euston station for six days from Good Friday.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Apr 2026 23:55:09 GMT",
+    "link": "https://www.bbc.com/news/articles/cz0e18jjkx5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c8ej47g6w3jo#0",
     "category": "global",
     "title": "Police offered support to tackle rising threats against MPs",
@@ -60,16 +70,6 @@
     "link": "https://www.bbc.com/news/articles/c0e53x475qjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c3ex59yy4j2o#0",
-    "category": "global",
-    "title": "Judge dismisses most of Blake Lively's claims in harassment lawsuit against Baldoni",
-    "summary": "The judge left in place three allegations against Baldoni, meaning the civil trial will go ahead next month.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Apr 2026 22:47:48 GMT",
-    "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1530206.html",
     "category": "sports",
     "title": "'Allow them to make mistakes': Gaikwad wants CSK youngsters to embrace IPL pressure",
@@ -78,26 +78,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 02 Apr 2026 20:12:11 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1530206.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530228.html",
-    "category": "sports",
-    "title": "Azam Khan's rampage takes unbeaten Karachi Kings to nervy win",
-    "summary": "His brutal 34-ball 74 led the way in a chase of 198, after an excellent Hasan Ali had ripped out a three-for in the death for Kings",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415100/415176.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 02 Apr 2026 19:22:56 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530228.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/crm1vj941x9o#0",
-    "category": "global",
-    "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
-    "summary": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Apr 2026 16:09:24 GMT",
-    "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
@@ -138,6 +118,106 @@
     "source": "VentureBeat",
     "pubDate": "Fri, 16 Jan 2026 14:01:00 GMT",
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/kash-patel-to-tulsi-gabbard-who-could-be-next-on-trumps-firing-list-11305990#publisher=newsstand",
+    "category": "india",
+    "title": "Kash Patel To Tulsi Gabbard: Who Could Be Next On Trump's Firing List?",
+    "summary": "A report said that Trump is \"very angry and he's going to be moving people\"",
+    "image": "https://c.ndtvimg.com/2026-04/etjqmlfk_trump-team_625x300_03_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 13:25:23 +0530",
+    "link": "https://www.ndtv.com/world-news/kash-patel-to-tulsi-gabbard-who-could-be-next-on-trumps-firing-list-11305990#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/cancer-is-the-10th-leading-cause-of-child-deaths-in-india-says-study-11305925#publisher=newsstand",
+    "category": "india",
+    "title": "Cancer Is The 10th Leading Cause Of Child Deaths In India, Says Study",
+    "summary": "Cancer Is The 10th Leading Cause Of Child Deaths In India",
+    "image": "https://c.ndtvimg.com/2026-04/b3he4ma4_cancer-is-the-10th-leading-cause-of-child-deaths-in-india_625x300_03_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 13:23:49 +0530",
+    "link": "https://www.ndtv.com/health/cancer-is-the-10th-leading-cause-of-child-deaths-in-india-says-study-11305925#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/no-more-3-day-wait-new-same-day-uti-test-may-provide-instant-relief-for-millions-11305670#publisher=newsstand",
+    "category": "india",
+    "title": "No More 3-Day Wait? New Same-Day UTI Test May Provide Instant Relief For Millions",
+    "summary": "Same day UTI test could change treatment efforts (image for representation purposes only)",
+    "image": "https://c.ndtvimg.com/2026-04/hdm0rpek_uti-test_625x300_03_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 13:23:13 +0530",
+    "link": "https://www.ndtv.com/health/no-more-3-day-wait-new-same-day-uti-test-may-provide-instant-relief-for-millions-11305670#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/rbi-assistant-2026-exam-admit-card-out-download-link-here-11305993#publisher=newsstand",
+    "category": "india",
+    "title": "RBI Assistant 2026 Exam: Admit Card Out, Download Link Here",
+    "summary": "RBI Assistant Admit Card Out, Check Download Link, Exam Details",
+    "image": "https://c.ndtvimg.com/2026-04/gtn8gtf4_a_625x300_03_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 13:22:43 +0530",
+    "link": "https://www.ndtv.com/education/rbi-assistant-2026-exam-admit-card-out-download-link-here-11305993#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/inside-the-fallout-that-cost-us-army-chief-randy-george-his-job-fallout-with-defence-secretary-pete-hegseth-11305979#publisher=newsstand",
+    "category": "india",
+    "title": "The Fallout That Cost US Army Chief Randy George His Job",
+    "summary": "George's removal comes at a sensitive moment, with the United States still engaged in a war with Iran",
+    "image": "https://c.ndtvimg.com/2026-04/l5ljoiq8_hegseth-george_625x300_03_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 13:20:42 +0530",
+    "link": "https://www.ndtv.com/world-news/inside-the-fallout-that-cost-us-army-chief-randy-george-his-job-fallout-with-defence-secretary-pete-hegseth-11305979#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/fuel-price-volatility-electric-vehicle-sale-iran-war-shock-electric-car-two-wheeler-ola-11305699#publisher=newsstand",
+    "category": "india",
+    "title": "Fuel Volatility Fuels EV Boom: Registrations Up 43.5% Amid Iran War Shock",
+    "summary": "Electric cars are up 49% and electric two-wheelers up about 36 per cent on March registrations.",
+    "image": "https://c.ndtvimg.com/2026-04/qsvp7bhg_ev-generic-electric-vehicle-generic_625x300_01_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 13:19:46 +0530",
+    "link": "https://www.ndtv.com/india-news/fuel-price-volatility-electric-vehicle-sale-iran-war-shock-electric-car-two-wheeler-ola-11305699#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cbse-class-10-board-result-2026-likely-in-mid-april-heres-how-to-download-11305751#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE Class 10 Board Result 2026: Likely In Mid-April, Official Websites, Download Link Here",
+    "summary": "CBSE Class 10 Result 2026 Out Soon, Check Download Link Here",
+    "image": "https://c.ndtvimg.com/2026-03/r08becng_asd_625x300_24_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 13:14:01 +0530",
+    "link": "https://www.ndtv.com/education/cbse-class-10-board-result-2026-likely-in-mid-april-heres-how-to-download-11305751#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cbses-new-3-language-curriculum-explained-r1-r2-r3-selection-textbooks-and-more-11305913#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE's New 3-language Curriculum Explained: R1, R2, R3 Selection, Textbooks, And More",
+    "summary": "R3 will be made compulsory from Class 6 with effect from the 2026-27 academic session.",
+    "image": "https://c.ndtvimg.com/2026-04/vta4vgq8_cbse-3language-curriculum_625x300_03_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 13:08:38 +0530",
+    "link": "https://www.ndtv.com/education/cbses-new-3-language-curriculum-explained-r1-r2-r3-selection-textbooks-and-more-11305913#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/14-nifty-midcap-stocks-plunge-up-to-50-from-52-week-highs/slideshow/129996559.cms",
+    "category": "finance",
+    "title": "14 Nifty midcap stocks plunge up to 50% from 52-week highs",
+    "summary": "A sharp market correction has dragged midcap stocks significantly lower, with 14 Nifty Midcap names plunging between 40% and 50% from their 52-week highs. The broader indices have also declined, reflecting widespread selling pressure amid volatility,",
+    "image": "https://img.etimg.com/photo/msid-129996189,imgsize-3730.cms",
+    "source": "ET",
+    "pubDate": "Fri, 03 Apr 2026 12:35:45 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/14-nifty-midcap-stocks-plunge-up-to-50-from-52-week-highs/slideshow/129996559.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/losing-1-billion-a-day-gurmeet-chadha-urges-pmo-finance-ministry-to-revisit-capital-gains-tax-stt/articleshow/129995974.cms",
+    "category": "finance",
+    "title": "Losing $1 billion a day: Gurmeet Chadha urges PMO, Finance Ministry to revisit capital gains tax, STT",
+    "summary": "Gurmeet Chadha has urged the government to revisit capital gains tax and STT, citing sustained foreign capital outflows. He claims India is losing nearly $1 billion daily since July 2024. The remarks come amid heavy FII selling, rising tax burdens an",
+    "image": "https://img.etimg.com/photo/msid-129995974,imgsize-19244.cms",
+    "source": "ET",
+    "pubDate": "Fri, 03 Apr 2026 12:19:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/losing-1-billion-a-day-gurmeet-chadha-urges-pmo-finance-ministry-to-revisit-capital-gains-tax-stt/articleshow/129995974.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/etmarkets-smart-talk-renewables-defence-to-lead-in-fy27-infra-and-gas-stocks-offer-high-risk-opportunities-siddarth-bhamre/articleshow/129994961.cms",
@@ -190,46 +270,6 @@
     "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-influencers/crypto-price-today-macro-worries-geopolitical-risks-weigh-on-bitcoin-altcoins-as-good-friday-trade-remains-lacklustre/articleshow/129994525.cms"
   },
   {
-    "id": "https://www.ndtv.com/health/rajasthan-leads-in-health-services-with-right-to-health-and-chiranjeevi-schemes-ashok-gehlot-11303674#publisher=newsstand",
-    "category": "india",
-    "title": "Rajasthan Leads In Health Services With Right To Health And Chiranjeevi Schemes: Former Rajasthan Chief Minister",
-    "summary": "Former Rajasthan Chief Minister Ashok Gehlot",
-    "image": "https://c.ndtvimg.com/2026-04/s1bv61ms_former-rajasthan-chief-minister-ashok-gehlot_625x300_03_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 10:35:53 +0530",
-    "link": "https://www.ndtv.com/health/rajasthan-leads-in-health-services-with-right-to-health-and-chiranjeevi-schemes-ashok-gehlot-11303674#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/raghav-chadha-vs-aap-silenced-not-defeated-raghav-chadha-posts-video-message-for-aam-aadmi-11305239#publisher=newsstand",
-    "category": "india",
-    "title": "\"Silenced, Not Defeated\": Raghav Chadha Posts Video Message For 'Aam Aadmi'",
-    "summary": "Raghav Chadha vs AAP: \"Silenced, Not Defeated\": Raghav Chadha Posts Video Message For 'Aam Aadmi'",
-    "image": "https://c.ndtvimg.com/2026-04/dclj03e8_raghav-chadha_625x300_02_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 10:31:25 +0530",
-    "link": "https://www.ndtv.com/india-news/raghav-chadha-vs-aap-silenced-not-defeated-raghav-chadha-posts-video-message-for-aam-aadmi-11305239#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/west-bengal-assembly-elections-fish-identity-votes-bengals-favourite-food-becomes-a-key-symbol-in-polls-11305187#publisher=newsstand",
-    "category": "india",
-    "title": "Fish, Identity, Votes: Bengal's Favourite Food Becomes A Key Symbol In Polls",
-    "summary": "A Kolkata-based Indologist said fish occupies a civilisational space in West Bengal.",
-    "image": "https://c.ndtvimg.com/2026-03/2l8aa8ac_fish-market-kolkata_625x300_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 10:29:45 +0530",
-    "link": "https://www.ndtv.com/india-news/west-bengal-assembly-elections-fish-identity-votes-bengals-favourite-food-becomes-a-key-symbol-in-polls-11305187#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/is-tender-coconut-water-an-overrated-summer-drink-11303443#publisher=newsstand",
-    "category": "india",
-    "title": "Is Tender Coconut Water An Overrated Summer Drink? Benefits, Side Effects And Correct Daily Dose Explained",
-    "summary": "Coconut water side effects can pose seriously health risksts",
-    "image": "https://c.ndtvimg.com/2026-04/68hlrl0k_coconut-water_625x300_02_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 10:27:00 +0530",
-    "link": "https://www.ndtv.com/health/is-tender-coconut-water-an-overrated-summer-drink-11303443#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/eternal-sbi-bharti-airtel-6-other-stocks-can-rally-up-to-57-how-many-do-you-have/slideshow/129994475.cms",
     "category": "finance",
     "title": "Eternal, SBI, Bharti Airtel, 6 other stocks can rally up to 57%. How many do you have?",
@@ -240,74 +280,44 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/eternal-sbi-bharti-airtel-6-other-stocks-can-rally-up-to-57-how-many-do-you-have/slideshow/129994475.cms"
   },
   {
-    "id": "https://www.ndtv.com/health/glaudium-ivf-to-use-ai-tools-in-infertility-treatment-11302830#publisher=newsstand",
-    "category": "india",
-    "title": "Fertility Clinic Chain Leads the Way With AI-Powered Infertility Solutions",
-    "summary": "Image for representation purposes only",
-    "image": "https://c.ndtvimg.com/2026-04/443rpr28_fertility-chain_625x300_03_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 10:23:46 +0530",
-    "link": "https://www.ndtv.com/health/glaudium-ivf-to-use-ai-tools-in-infertility-treatment-11302830#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/ncert-enters-higher-education-space-with-deemed-university-tag-11305215#publisher=newsstand",
-    "category": "india",
-    "title": "NCERT Enters Higher Education Space With Deemed University Tag",
-    "summary": "The declaration follows NCERT's multi-stage process that began with its UGC application in Sept 2022.",
-    "image": "https://c.ndtvimg.com/2026-04/flq5bm48_ncert-deemed-university-tag_625x300_03_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 10:19:34 +0530",
-    "link": "https://www.ndtv.com/education/ncert-enters-higher-education-space-with-deemed-university-tag-11305215#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/india-nigeria-accounted-for-one-third-of-under-five-deaths-globally-in-2023-study-11302496#publisher=newsstand",
-    "category": "india",
-    "title": "India, Nigeria Account For One-Third Of Global Under-Five Deaths In 2023: Study",
-    "summary": "Image for representation purposes only",
-    "image": "https://c.ndtvimg.com/2026-04/1i222ijg_india-and-nigerai-deaths_625x300_03_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 10:11:47 +0530",
-    "link": "https://www.ndtv.com/india-news/india-nigeria-accounted-for-one-third-of-under-five-deaths-globally-in-2023-study-11302496#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/q4-impact-bank-stocks-slump-up-to-32-in-3-months-but-brokerages-bet-on-sbi-hdfc-bank-6-more-stocks-check-why/articleshow/129994128.cms",
-    "category": "finance",
-    "title": "Q4 impact: Bank stocks slump up to 32% in 3 months, but brokerages bet on SBI, HDFC Bank, 6 more stocks. Check why",
-    "summary": "Banking stocks have slumped up to 32% over three months, underperforming the Nifty amid FII outflows, rising oil prices and rate concerns. Brokerages remain selective, backing SBI, ICICI Bank and others despite margin pressure. Q4 results and FY27 ou",
-    "image": "https://img.etimg.com/photo/msid-129994128,imgsize-43798.cms",
-    "source": "ET",
-    "pubDate": "Fri, 03 Apr 2026 10:10:15 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/q4-impact-bank-stocks-slump-up-to-32-in-3-months-but-brokerages-bet-on-sbi-hdfc-bank-6-more-stocks-check-why/articleshow/129994128.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/good-friday-2026-know-its-history-and-significance-in-christianity-11305183#publisher=newsstand",
-    "category": "india",
-    "title": "Good Friday 2026: Know Its History And Significance In Christianity",
-    "summary": "This year, the day falls on April 3, 2026.",
-    "image": "https://c.ndtvimg.com/2026-04/itirh4n4_good-friday-2026-wishes_625x300_03_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 10:00:09 +0530",
-    "link": "https://www.ndtv.com/offbeat/good-friday-2026-know-its-history-and-significance-in-christianity-11305183#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/axis-picks-5-smallcap-stocks-that-can-rally-up-to-60-how-many-are-in-your-portfolio/slideshow/129993885.cms",
-    "category": "finance",
-    "title": "Axis picks 5 smallcap stocks that can rally up to 60%. How many are in your portfolio?",
-    "summary": "Axis Direct has set a Nifty target of 29,480 for December 2026, indicating 30% upside, and identified five smallcap stocks with potential gains of up to 60%. Picks include Ujjivan Small Finance Bank, Chalet Hotels and Minda Corporation, backed by imp",
-    "image": "https://img.etimg.com/photo/msid-129993773,imgsize-26068.cms",
-    "source": "ET",
-    "pubDate": "Fri, 03 Apr 2026 09:50:46 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-picks-5-smallcap-stocks-that-can-rally-up-to-60-how-many-are-in-your-portfolio/slideshow/129993885.cms"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/crk16j2j1ygo#0",
     "category": "global",
     "title": "M&S boss calls for more action on crime and abuse of staff",
     "summary": "Thinus Keeve's comments come days after an M&amp;S store was targeted during disorder in south London.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 03 Apr 2026 05:40:00 GMT",
+    "pubDate": "Fri, 03 Apr 2026 07:29:13 GMT",
     "link": "https://www.bbc.com/news/articles/crk16j2j1ygo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1530221.html",
+    "category": "sports",
+    "title": "KKR lose again after Travishek, Klaasen give SRH 226",
+    "summary": "KKR faded away after flying start and Raghuvanshi's fifty in 227 chase to remain winless",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415100/415165.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 03 Apr 2026 07:03:33 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530221.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c1782nk0018o#0",
+    "category": "global",
+    "title": "Myanmar's coup leader who set off a brutal civil war becomes president",
+    "summary": "General Min Aung Hlaing has been chosen as the next president by the newly-elected parliament.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 03 Apr 2026 06:49:37 GMT",
+    "link": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1530228.html",
+    "category": "sports",
+    "title": "Azam Khan's rampage takes unbeaten Karachi Kings to nervy win",
+    "summary": "His brutal 34-ball 74 led the way in a chase of 198, after an excellent Hasan Ali had ripped out a three-for in the death for Kings",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415100/415176.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 03 Apr 2026 06:35:54 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530228.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530258.html",
@@ -348,16 +358,6 @@
     "source": "BBC",
     "pubDate": "Fri, 03 Apr 2026 03:35:28 GMT",
     "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530221.html",
-    "category": "sports",
-    "title": "Klaasen fifty, Travishek onslaught hand SRH first points of the season",
-    "summary": "KKR faded away after flying start and Raghuvanshi's fifty in 227 chase to remain winless",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415100/415165.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 03 Apr 2026 02:15:27 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530221.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530239.html",
