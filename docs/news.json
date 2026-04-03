@@ -40,6 +40,16 @@
     "link": "https://www.bbc.com/news/articles/c8ej47g6w3jo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cvg33l4g88lo#0",
+    "category": "global",
+    "title": "Crisis staff found 'unforgivable scene' at convicted undertaker's funeral home",
+    "summary": "An international crisis team was drafted in after police raided Hull's Legacy funeral home.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Apr 2026 23:12:49 GMT",
+    "link": "https://www.bbc.com/news/articles/cvg33l4g88lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c0e53x475qjo#0",
     "category": "global",
     "title": "Marmalade to be re-branded in post-Brexit food deal",
@@ -68,16 +78,6 @@
     "source": "ET",
     "pubDate": "Thu, 02 Apr 2026 21:02:01 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-clears-emirates-nbd-to-acquire-up-to-74-stake-in-rbl-bank-lender-to-become-foreign-bank-post-acquisition/articleshow/129983475.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce843ge47z4o#0",
-    "category": "global",
-    "title": "Trump removes US Attorney General Pam Bondi",
-    "summary": "Bondi's time as America's top law enforcement officer was overshadowed by the justice department's handling of the Jeffrey Epstein investigation.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Apr 2026 20:39:32 GMT",
-    "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/whats-the-key-to-outperformance-in-stock-market-nithin-kamath-explains/articleshow/129982880.cms",
@@ -210,46 +210,6 @@
     "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530192.html",
-    "category": "sports",
-    "title": "BCB vs Dhaka clubs standoff leaves players in the lurch",
-    "summary": "The most important domestic cricket competition in Bangladesh is on hold, and the players are suffering",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/399100/399188.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 02 Apr 2026 16:09:09 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530192.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4gvd994x15o#0",
-    "category": "global",
-    "title": "Prince William praises \u00a320m milestone for Bowelbabe fund",
-    "summary": "The Bowelbabe fund, set up by Dame Deborah James in 2022, helps to support Cancer Research UK.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Apr 2026 15:53:47 GMT",
-    "link": "https://www.bbc.com/news/articles/c4gvd994x15o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530149.html",
-    "category": "sports",
-    "title": "CSA charges Swanepoel, withholds NOC to play for Worcestershire",
-    "summary": "Allrounder's stint with Worcestershire set to be canned as board withhold No-Objection Certificate",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415074.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 02 Apr 2026 15:26:39 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530149.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530176.html",
-    "category": "sports",
-    "title": "Shivang Kumar debuts for SRH; unchanged KKR bowl",
-    "summary": "Both teams are looking to open their account, having lost their opening games despite scoring 200-plus",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414823.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 02 Apr 2026 14:04:41 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530176.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cevk0e4ykwko#0",
     "category": "global",
     "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
@@ -298,6 +258,36 @@
     "source": "VentureBeat",
     "pubDate": "Fri, 16 Jan 2026 14:01:00 GMT",
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/artemis-ii-astronauts-rocket-toward-the-moon-after-spending-a-day-around-earth-11304787#publisher=newsstand",
+    "category": "india",
+    "title": "Artemis II Astronauts Rocket Toward The Moon After Spending A Day Around Earth",
+    "summary": "NASA's Artemis II astronauts fired their engines and blazed toward the moon Thursday night, breaking free of the chains that have trapped humanity in shallow laps around Earth in the decades since Apollo.",
+    "image": "https://c.ndtvimg.com/2026-04/uvrqc0kg_artemis-ii-mission_625x300_03_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 05:47:26 +0530",
+    "link": "https://www.ndtv.com/world-news/artemis-ii-astronauts-rocket-toward-the-moon-after-spending-a-day-around-earth-11304787#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/ex-nepal-pm-kp-sharma-oli-sent-to-2-day-police-remand-in-gen-z-protest-case-11304750#publisher=newsstand",
+    "category": "india",
+    "title": "Ex-Nepal PM KP Sharma Oli Sent To 2-Day Police Remand In Gen-Z Protest Case",
+    "summary": "Former Nepal Prime Minister KP Sharma Oli was arrested on March 28.",
+    "image": "https://c.ndtvimg.com/2026-03/080a9q3_kp-sharma-oli_625x300_29_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 05:03:17 +0530",
+    "link": "https://www.ndtv.com/world-news/ex-nepal-pm-kp-sharma-oli-sent-to-2-day-police-remand-in-gen-z-protest-case-11304750#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/donald-trump-imposes-100-tariffs-on-foreign-made-drugs-reshapes-metal-duties-11304735#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Imposes 100% Tariffs On Foreign-Made Drugs, Reshapes Metal Duties",
+    "summary": "Trump on Thursday ordered new tariffs on certain medicines, alongside an overhaul of metal duties.",
+    "image": "https://c.ndtvimg.com/2026-03/fnt81s9o_donald-trump_625x300_23_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 04:44:37 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trump-imposes-100-tariffs-on-foreign-made-drugs-reshapes-metal-duties-11304735#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/trumps-white-house-ballroom-gets-final-approval-despite-court-order-11304709#publisher=newsstand",
@@ -350,6 +340,16 @@
     "link": "https://www.ndtv.com/world-news/iran-targets-oracle-data-centre-in-dubai-report-11304534#publisher=newsstand"
   },
   {
+    "id": "https://www.espncricinfo.com/ci/content/story/1530243.html",
+    "category": "sports",
+    "title": "'I guess they're jealous' - Rahane takes on detractors over strike-rate criticism",
+    "summary": "\"It's not compulsory to bowl four overs. If he's struggling, you've got to accept that he is struggling,\" Ajinkya Rahane says of giving Varun Chakravarthy just two overs against SRH",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415100/415184.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 03 Apr 2026 01:36:37 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530243.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stocks-end-mixed-as-worries-linger-before-holiday-break/articleshow/129988619.cms",
     "category": "finance",
     "title": "US Stocks | US stocks end mixed as Iran war worries linger before Holiday break",
@@ -360,33 +360,33 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stocks-end-mixed-as-worries-linger-before-holiday-break/articleshow/129988619.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/haridwar-plans-to-shift-meat-shops-outside-city-ahead-of-2027-ardh-kumbh-11304482#publisher=newsstand",
-    "category": "india",
-    "title": "Haridwar Plans To Shift Meat Shops Outside City Ahead Of 2027 Ardh Kumbh",
-    "summary": "The Ardh Kumbh is scheduled to be held next year from January 2027 in Haridwar, Uttarakhand.",
-    "image": "https://c.ndtvimg.com/2025-11/4c7kge5g_ardh-kumbh-2027_625x300_28_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 01:11:23 +0530",
-    "link": "https://www.ndtv.com/india-news/haridwar-plans-to-shift-meat-shops-outside-city-ahead-of-2027-ardh-kumbh-11304482#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1530239.html",
+    "category": "sports",
+    "title": "King and Litchfield lead Australia's charge to 3-0",
+    "summary": "The visitors needed fewer than 20 overs to chase their target to complete an undefeated tour of West Indies",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415100/415183.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 03 Apr 2026 00:56:11 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530239.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/world-news/donald-trumps-address-on-us-iran-war-live-updates-big-speech-on-iran-war-middle-east-conflict-oil-crisis-strait-of-hormuz-11299579#publisher=newsstand",
-    "category": "india",
-    "title": "US-Iran War Live Updates: UK-Led Talks Demand 'Immediate' Reopening Of Hormuz",
-    "summary": "US-Iran War Live Updates: The speech will offer Trump a wide audience to articulate clear objectives for the war that could attempt to reconcile weeks of changing goals",
-    "image": "https://c.ndtvimg.com/2026-04/bnp8o3fs_iran-war_625x300_02_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 00:24:46 +0530",
-    "link": "https://www.ndtv.com/world-news/donald-trumps-address-on-us-iran-war-live-updates-big-speech-on-iran-war-middle-east-conflict-oil-crisis-strait-of-hormuz-11299579#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1530241.html",
+    "category": "sports",
+    "title": "Vlaeminck set for return after long injury recovery",
+    "summary": "The fast bowler has not played since dislocating her shoulder in the opening of the 2024 T20 World Cup",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/388300/388327.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 03 Apr 2026 00:40:28 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530241.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/india-news/come-back-fathers-emotional-appeal-to-one-of-maharashtras-last-maoists-11304303#publisher=newsstand",
-    "category": "india",
-    "title": "\"Come Back\": Father's Emotional Appeal To One of Maharashtra's Last Maoists",
-    "summary": "Monge Gavade made an emotional appeal to his son in a video message.",
-    "image": "https://c.ndtvimg.com/2026-04/u2f9qab4_gadchiroli-maoist-father_625x300_02_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 00:22:03 +0530",
-    "link": "https://www.ndtv.com/india-news/come-back-fathers-emotional-appeal-to-one-of-maharashtras-last-maoists-11304303#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/ce843ge47z4o#0",
+    "category": "global",
+    "title": "Trump removes US Attorney General Pam Bondi",
+    "summary": "Bondi's time as top US law enforcement officer was overshadowed by her handling of the Epstein files.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 03 Apr 2026 00:31:27 GMT",
+    "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss"
   }
 ]
