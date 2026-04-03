@@ -30,16 +30,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cz0e18jjkx5o#0",
-    "category": "global",
-    "title": "Major Euston rail disruption across Easter weekend",
-    "summary": "West Coast Main Line services will not run to London Euston station for six days from Good Friday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Apr 2026 23:55:09 GMT",
-    "link": "https://www.bbc.com/news/articles/cz0e18jjkx5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -80,6 +70,86 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://www.ndtv.com/world-news/donald-trumps-new-title-for-jd-vance-fraud-czar-what-that-means-11307505#publisher=newsstand",
+    "category": "india",
+    "title": "Donald Trump's New Title For JD Vance: \"Fraud Czar\". What That Means",
+    "summary": "Trump said that the focus of his work will be \"everywhere\" but primarily in Democratic-run states",
+    "image": "https://c.ndtvimg.com/2025-10/tb8pmlcg_trump-afp_625x300_30_October_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 19:01:06 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trumps-new-title-for-jd-vance-fraud-czar-what-that-means-11307505#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/congress-names-27-candidates-for-tamil-nadu-polls-state-chief-k-selvaperunthagai-among-nominees-11307359#publisher=newsstand",
+    "category": "india",
+    "title": "Congress Names 27 Candidates For Tamil Nadu Polls, State Chief Among Nominees",
+    "summary": "The election results will be announced on May 4.",
+    "image": "https://c.ndtvimg.com/2023-05/7h1mkrro_congress-generic_625x300_18_May_23.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 18:56:50 +0530",
+    "link": "https://www.ndtv.com/india-news/congress-names-27-candidates-for-tamil-nadu-polls-state-chief-k-selvaperunthagai-among-nominees-11307359#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/aiims-trained-gastroenterologist-lists-10-high-fibre-foods-none-of-which-are-these-vegetables-11307351#publisher=newsstand",
+    "category": "india",
+    "title": "AIIMS-Trained Doctor Recommends 10 High-Fibre Foods That Aren't Vegetables",
+    "summary": "The gastroenterologist, Saurabh Sethi, also mentioned the fibre content of each food.",
+    "image": "https://c.ndtvimg.com/2026-03/i7p0huno_fibre_625x300_05_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 18:53:49 +0530",
+    "link": "https://www.ndtv.com/health/aiims-trained-gastroenterologist-lists-10-high-fibre-foods-none-of-which-are-these-vegetables-11307351#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-iran-strikes-damage-electricity-desalination-plant-in-kuwait-11307495#publisher=newsstand",
+    "category": "india",
+    "title": "Iran Strikes Damage Electricity, Desalination Plant In Kuwait",
+    "summary": "The power and desalination complex was damaged .",
+    "image": "https://c.ndtvimg.com/2026-04/usi493oo_kuwait_625x300_03_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 18:53:00 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-iran-strikes-damage-electricity-desalination-plant-in-kuwait-11307495#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/science/forbidden-planet-the-size-of-jupiter-that-shouldnt-exist-in-theory-baffles-scientists-11307483#publisher=newsstand",
+    "category": "india",
+    "title": "'Forbidden Planet' The Size Of Jupiter That Shouldn't Exist In Theory Baffles Scientists",
+    "summary": "Study finds TOI 5205b's atmosphere has fewer heavy elements than its host star.",
+    "image": "https://c.ndtvimg.com/2026-04/rcvlom0s_as_625x300_03_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 18:50:30 +0530",
+    "link": "https://www.ndtv.com/science/forbidden-planet-the-size-of-jupiter-that-shouldnt-exist-in-theory-baffles-scientists-11307483#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/bjp-names-27-candidates-for-tamil-nadu-polls-union-minister-l-murugan-among-nominees-11307430#publisher=newsstand",
+    "category": "india",
+    "title": "BJP Names 27 Candidates For Tamil Nadu Polls, Union Minister L Murugan Among Nominees",
+    "summary": "Polling for the 234-member Tamil Nadu Assembly will be held on April 23.",
+    "image": "https://c.ndtvimg.com/2025-05/699cs48k_bjp-generic_625x300_13_May_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 18:49:25 +0530",
+    "link": "https://www.ndtv.com/india-news/bjp-names-27-candidates-for-tamil-nadu-polls-union-minister-l-murugan-among-nominees-11307430#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/housewarming-ritual-involving-cow-in-texas-triggers-cultural-debate-11307434#publisher=newsstand",
+    "category": "india",
+    "title": "Housewarming Ritual Video Involving A Cow In Texas Triggers Cultural Debate",
+    "summary": "Many social media users pushed back against the criticism.",
+    "image": "https://c.ndtvimg.com/2026-04/dfa38s6s_ritual-involving-cow-in-texas_625x300_03_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 18:49:17 +0530",
+    "link": "https://www.ndtv.com/world-news/housewarming-ritual-involving-cow-in-texas-triggers-cultural-debate-11307434#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/puducherry-election-2026-pm-modi-holds-roadshow-as-triangular-contest-heats-up-11307474#publisher=newsstand",
+    "category": "india",
+    "title": "PM Modi Holds Puducherry Roadshow As Triangular Contest Heats Up",
+    "summary": "The show of strength comes amid signs of strain within the ruling alliance.",
+    "image": "https://c.ndtvimg.com/2026-04/692qc2f8_modi-puducherry_625x300_03_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 18:48:54 +0530",
+    "link": "https://www.ndtv.com/india-news/puducherry-election-2026-pm-modi-holds-roadshow-as-triangular-contest-heats-up-11307474#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/sobha-q4-biz-update-sales-rise-11-yoy-to-rs-2039-crore-as-company-closes-fy26-with-record-figures/articleshow/130000709.cms",
     "category": "finance",
     "title": "Sobha Q4 biz update: Sales rise 11% YoY to Rs 2,039 crore as company closes FY26 with record figures",
@@ -88,86 +158,6 @@
     "source": "ET",
     "pubDate": "Fri, 03 Apr 2026 17:39:22 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sobha-q4-biz-update-sales-rise-11-yoy-to-rs-2039-crore-as-company-closes-fy26-with-record-figures/articleshow/130000709.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/education/cbse-introduces-two-level-maths-science-assessment-from-2026-27-advanced-papers-to-test-higher-order-skills-11307050#publisher=newsstand",
-    "category": "india",
-    "title": "CBSE Introduces Standard, Advanced Levels In Maths And Science From 2026-27",
-    "summary": "Only those opting for advanced levels will take the additional paper.",
-    "image": "https://c.ndtvimg.com/2025-03/55v8md98_examrepresentativeimagepexels_625x300_01_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 17:30:49 +0530",
-    "link": "https://www.ndtv.com/education/cbse-introduces-two-level-maths-science-assessment-from-2026-27-advanced-papers-to-test-higher-order-skills-11307050#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/opinion/tamil-nadu-polls-vijay-attempts-a-hostile-takeover-of-aiadmk-base-11307106#publisher=newsstand",
-    "category": "india",
-    "title": "Opinion: Opinion | In Tamil Nadu, Vijay Attempts A Hostile Takeover Of AIADMK's Very Soul",
-    "summary": "It is increasingly clear that the message being driven home is that Vijay is the natural political successor to Anna and MGR.",
-    "image": "https://c.ndtvimg.com/2025-03/4asecblg_tamil-actor-vijay-tvk_625x300_28_March_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 17:30:32 +0530",
-    "link": "https://www.ndtv.com/opinion/tamil-nadu-polls-vijay-attempts-a-hostile-takeover-of-aiadmk-base-11307106#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/from-surgery-to-immunotherapy-doctor-explains-advances-in-oral-cancer-treatment-11307040#publisher=newsstand",
-    "category": "india",
-    "title": "From Surgery To Immunotherapy: Doctor Explains Advances In Oral Cancer Treatment",
-    "summary": "Advances In Oral Cancer Treatment",
-    "image": "https://c.ndtvimg.com/2026-04/42dv93hc_advances-in-oral-cancer-treatment_625x300_03_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 17:26:09 +0530",
-    "link": "https://www.ndtv.com/health/from-surgery-to-immunotherapy-doctor-explains-advances-in-oral-cancer-treatment-11307040#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/defence-minister-rajnath-singh-commissions-indian-navys-stealth-frigate-ins-taragiri-11306402#publisher=newsstand",
-    "category": "india",
-    "title": "Rajnath Singh Commissions Indian Navy's Stealth Frigate INS Taragiri",
-    "summary": "He also spoke about the growing significance of oceans in the 21st century.",
-    "image": "https://c.ndtvimg.com/2026-04/7j3b1h7k_ins-taragiri_625x300_03_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 17:25:11 +0530",
-    "link": "https://www.ndtv.com/india-news/defence-minister-rajnath-singh-commissions-indian-navys-stealth-frigate-ins-taragiri-11306402#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/science/im-the-space-plumber-nasa-astronaut-christina-koch-saves-the-day-on-artemis-ii-11307067#publisher=newsstand",
-    "category": "india",
-    "title": "\"I'm The Space Plumber\": NASA Astronaut Christina Koch Saves The Day On Artemis II",
-    "summary": "The fault, as it happened, was not as serious as first feared.",
-    "image": "https://c.ndtvimg.com/2026-04/2uvikcis_christina-h-koch_625x300_03_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 17:24:44 +0530",
-    "link": "https://www.ndtv.com/science/im-the-space-plumber-nasa-astronaut-christina-koch-saves-the-day-on-artemis-ii-11307067#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/destroyer-of-foes-about-aridhaman-latest-to-join-indias-submarine-fleet-11307081#publisher=newsstand",
-    "category": "india",
-    "title": "'Destroyer Of Foes': About Aridhaman, Latest To Join India's Submarine Fleet",
-    "summary": "Aridhaman carries double the missile strike capability and an extended operational range.",
-    "image": "https://c.ndtvimg.com/2026-04/te26e0m4_ins-aridhaman_625x300_03_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 17:24:41 +0530",
-    "link": "https://www.ndtv.com/india-news/destroyer-of-foes-about-aridhaman-latest-to-join-indias-submarine-fleet-11307081#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/watch-passenger-captures-once-in-a-lifetime-video-of-artemis-ii-launch-from-plane-nasa-reacts-11307044#publisher=newsstand",
-    "category": "india",
-    "title": "Watch: Passenger Captures 'Once-In-A-Lifetime' Video Of Artemis II Launch From Plane, NASA Reacts",
-    "summary": "United Airlines passenger films NASA Artemis II launch from plane window seat.",
-    "image": "https://c.ndtvimg.com/2026-04/q2v2f34k_as_625x300_03_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 17:24:22 +0530",
-    "link": "https://www.ndtv.com/offbeat/watch-passenger-captures-once-in-a-lifetime-video-of-artemis-ii-launch-from-plane-nasa-reacts-11307044#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-ex-soldiers-accused-of-running-uaes-secret-assassination-squad-report-11307006#publisher=newsstand",
-    "category": "india",
-    "title": "Ex-US Soldier Earned $1.5 Million A Month For UAE Kill Jobs: Report",
-    "summary": "Abraham Golan and Isaac Gilmore, the founding members of Spear Operations",
-    "image": "https://c.ndtvimg.com/2026-04/dmulvgb_abraham-golan_625x300_03_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 17:22:18 +0530",
-    "link": "https://www.ndtv.com/world-news/us-ex-soldiers-accused-of-running-uaes-secret-assassination-squad-report-11307006#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-warren-buffett-be-fearful-when-others-are-greedy-and-greedy-when-others-are-fearful/articleshow/130000406.cms",
@@ -240,6 +230,56 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/iran-war-earnings-hit-and-more-70-stocks-brokerages-pick-from-a-ravaged-indian-market-for-fy27/articleshow/129997387.cms"
   },
   {
+    "id": "https://www.espncricinfo.com/ci/content/story/1530307.html",
+    "category": "sports",
+    "title": "Unchanged PBKS bowl, Prashant Veer debuts for CSK",
+    "summary": "CSK have left out Matthew Short",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/410600/410614.png",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 03 Apr 2026 13:56:24 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530307.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1530296.html",
+    "category": "sports",
+    "title": "Contrasting top orders clash as GT face RR and Sooryavanshi",
+    "summary": "GT play their first home game of the season, facing some pressure over their old-school batting approach",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/399900/399984.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 03 Apr 2026 13:55:54 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530296.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4gx8e1x5j3o#0",
+    "category": "global",
+    "title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
+    "summary": "Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 03 Apr 2026 13:16:33 GMT",
+    "link": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/cpqxn8zx8ydo#0",
+    "category": "global",
+    "title": "Watch: Artemis II's journey so far as it leaves Earth's orbit ... in 85 seconds",
+    "summary": "The crew will not land on the Moon on this current mission, though Nasa is preparing for a potential lunar landing by 2028.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 03 Apr 2026 13:06:18 GMT",
+    "link": "https://www.bbc.com/news/videos/cpqxn8zx8ydo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cwyjekvwww0o#0",
+    "category": "global",
+    "title": "France's Muslim gathering ban overturned by courts",
+    "summary": "The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 03 Apr 2026 12:20:28 GMT",
+    "link": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cj40ekewqrgo#0",
     "category": "global",
     "title": "Boy, 14, shot dead and teens arrested for murder",
@@ -258,16 +298,6 @@
     "source": "BBC",
     "pubDate": "Fri, 03 Apr 2026 11:42:17 GMT",
     "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c937g7nd5x4o#0",
-    "category": "global",
-    "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
-    "summary": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 03 Apr 2026 11:12:28 GMT",
-    "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530279.html",
@@ -328,36 +358,6 @@
     "source": "BBC",
     "pubDate": "Fri, 03 Apr 2026 07:29:13 GMT",
     "link": "https://www.bbc.com/news/articles/crk16j2j1ygo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/crl10127elgo#0",
-    "category": "global",
-    "title": "Watch: Artemis II astronauts speak from space",
-    "summary": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 03 Apr 2026 07:07:48 GMT",
-    "link": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530221.html",
-    "category": "sports",
-    "title": "KKR lose again after Travishek, Klaasen give SRH 226",
-    "summary": "KKR faded away after flying start and Raghuvanshi's fifty in 227 chase to remain winless",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415100/415165.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 03 Apr 2026 07:03:33 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530221.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530228.html",
-    "category": "sports",
-    "title": "Azam Khan's rampage takes unbeaten Karachi Kings to nervy win",
-    "summary": "His brutal 34-ball 74 led the way in a chase of 198, after an excellent Hasan Ali had ripped out a three-for in the death for Kings",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415100/415176.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 03 Apr 2026 06:35:54 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530228.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530243.html",
