@@ -40,36 +40,6 @@
     "link": "https://www.bbc.com/news/articles/cz0e18jjkx5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c8ej47g6w3jo#0",
-    "category": "global",
-    "title": "Police offered support to tackle rising threats against MPs",
-    "summary": "Reports of crimes against MPs have more than doubled since 2019, reaching almost 1,000 last year.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Apr 2026 23:24:53 GMT",
-    "link": "https://www.bbc.com/news/articles/c8ej47g6w3jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0e53x475qjo#0",
-    "category": "global",
-    "title": "Marmalades may need to be relabelled under post-Brexit food deal",
-    "summary": "The breakfast favourite will be legally renamed when Britain aligns with new EU labelling rules.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Apr 2026 23:03:38 GMT",
-    "link": "https://www.bbc.com/news/articles/c0e53x475qjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530206.html",
-    "category": "sports",
-    "title": "'Allow them to make mistakes': Gaikwad wants CSK youngsters to embrace IPL pressure",
-    "summary": "He emphasised the importance of batting with a positive mindset, despite a poor performance in their opening match, ahead of their first home fixture of the season",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415093.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 02 Apr 2026 20:12:11 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530206.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -110,6 +80,96 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://www.ndtv.com/opinion/iran-israel-war-why-iran-has-fired-the-most-missiles-at-its-biggest-trading-partner-in-gulf-11306811#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion | Iran Has Fired The Most Missiles At Its Second-Largest Trade Partner. But Why?",
+    "summary": "The UAE is Iran's second-largest trading partner. But it is also the one Iran has attacked the most heavily since February 28. The reason goes beyond just today's conflict.",
+    "image": "https://c.ndtvimg.com/2026-04/bt2dia24_uae_160x120_01_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 16:32:53 +0530",
+    "link": "https://www.ndtv.com/opinion/iran-israel-war-why-iran-has-fired-the-most-missiles-at-its-biggest-trading-partner-in-gulf-11306811#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/jee-main-2026-nta-issues-advisory-and-instructions-for-session-2-candidates-11306431#publisher=newsstand",
+    "category": "india",
+    "title": "JEE Main 2026 Session 2: Appearing For Exams? Check Guidelines You Must Follow",
+    "summary": "JEE Main 2026: Students must carry a valid ID proof, admit card, and passport photographs.",
+    "image": "https://c.ndtvimg.com/2026-01/8cn4in4_jee-mains-2026_625x300_21_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 16:32:06 +0530",
+    "link": "https://www.ndtv.com/education/jee-main-2026-nta-issues-advisory-and-instructions-for-session-2-candidates-11306431#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/swp-planning-5-conservative-hybrid-funds-that-stood-out-over-3-years/slideshow/129999440.cms",
+    "category": "finance",
+    "title": "SWP planning: 5 conservative hybrid funds that stood out over 3 years",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-129999302,imgsize-90954.cms",
+    "source": "ET",
+    "pubDate": "Fri, 03 Apr 2026 16:26:53 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/swp-planning-5-conservative-hybrid-funds-that-stood-out-over-3-years/slideshow/129999440.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/food/illegal-bakery-owner-arrested-in-hyderabad-for-supplying-unsafe-products-items-worth-rs-3-lakh-seized-11306673#publisher=newsstand",
+    "category": "india",
+    "title": "Illegal Bakery Owner Arrested In Hyderabad For Supplying Unsafe Products, Items Worth Rs 3 Lakh Seized",
+    "summary": "The accused was manufacturing and storing bakery items in grossly unhygienic conditions",
+    "image": "https://c.ndtvimg.com/2026-04/3vps6mcs_bakery-raid_625x300_03_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 16:24:56 +0530",
+    "link": "https://www.ndtv.com/food/illegal-bakery-owner-arrested-in-hyderabad-for-supplying-unsafe-products-items-worth-rs-3-lakh-seized-11306673#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/suryoday-sfb-q4-updates-gross-advances-jump-29-yoy-deposits-surge-32/articleshow/129999223.cms",
+    "category": "finance",
+    "title": "Suryoday SFB Q4 updates: Gross advances jump 29% YoY, deposits surge 32%",
+    "summary": "Suryoday Small Finance Bank\u2019s Q4FY26 gross advances jumped 29% YoY to Rs 13,201 crore, while deposits surged 32% to Rs 13,958 crore. Retail deposits and CASA showed strong growth, and disbursements rose 46% YoY. The stock ended 1.7% higher on NSE, th",
+    "image": "https://img.etimg.com/photo/msid-129999223,imgsize-3420.cms",
+    "source": "ET",
+    "pubDate": "Fri, 03 Apr 2026 16:23:42 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/suryoday-sfb-q4-updates-gross-advances-jump-29-yoy-deposits-surge-32/articleshow/129999223.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-iran-war-strait-of-hormuz-bab-al-mandab-strait-suez-canal-strait-of-malacca-turkish-straits-global-oil-flows-world-oil-chokeholds-11306491#publisher=newsstand",
+    "category": "india",
+    "title": "'Five Straits' Trap: How Hormuz Blockade Exposes Global Oil's Fatal Flaw",
+    "summary": "The Strait of Hormuz, controlled by Iran.",
+    "image": "https://c.ndtvimg.com/2026-03/ouigpgkc_strait-of-hormuz-_625x300_20_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 16:21:05 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-strait-of-hormuz-bab-al-mandab-strait-suez-canal-strait-of-malacca-turkish-straits-global-oil-flows-world-oil-chokeholds-11306491#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/before-tamil-nadu-poll-mk-stalin-writes-to-pm-on-foreign-funding-bill-11306713#publisher=newsstand",
+    "category": "india",
+    "title": "Before Tamil Nadu Poll, MK Stalin Writes To PM On Foreign Funding Bill",
+    "summary": "In a politically-loaded remark, Stalin noted that the bill is believed to have been held back temporarily due to concerns over electoral repercussions in states like Tamil Nadu, Kerala and Assam.",
+    "image": "https://c.ndtvimg.com/2026-02/hlagni1s_mk-stalin-pm-modi_625x300_16_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 16:06:12 +0530",
+    "link": "https://www.ndtv.com/india-news/before-tamil-nadu-poll-mk-stalin-writes-to-pm-on-foreign-funding-bill-11306713#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/pickleball-booming-in-india-are-hard-concrete-courts-quietly-causing-more-knee-and-ankle-injuries-11306469#publisher=newsstand",
+    "category": "india",
+    "title": "Pickleball Booming In India: Are Hard Concrete Courts Quietly Causing More Knee And Ankle Injuries?",
+    "summary": "Pickleball Surge in India",
+    "image": "https://c.ndtvimg.com/2026-04/rp9m61h_pickleball-and-its-related-injuries-_625x300_03_April_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 16:05:30 +0530",
+    "link": "https://www.ndtv.com/health/pickleball-booming-in-india-are-hard-concrete-courts-quietly-causing-more-knee-and-ankle-injuries-11306469#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/watch-iranian-girl-goes-on-the-swing-as-plumes-of-smoke-rise-from-targeted-naval-port-11306323#publisher=newsstand",
+    "category": "india",
+    "title": "Video: Iranian Girl Swings As Smoke Rises In Background After US-Israel Strike",
+    "summary": "US and Israeli forces struck the Shahid Haghani Port in Bandar Abbas recently.",
+    "image": "https://c.ndtvimg.com/2026-04/lln4h70o_1_625x300_03_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Apr 2026 16:01:20 +0530",
+    "link": "https://www.ndtv.com/world-news/watch-iranian-girl-goes-on-the-swing-as-plumes-of-smoke-rise-from-targeted-naval-port-11306323#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/elon-musks-spacex-ipo-targets-1-75-trillion-valuation-biggest-in-history/videoshow/129998787.cms",
     "category": "finance",
     "title": "Elon Musk\u2019s SpaceX IPO targets $1.75 trillion valuation. Biggest in history?",
@@ -120,84 +180,14 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/elon-musks-spacex-ipo-targets-1-75-trillion-valuation-biggest-in-history/videoshow/129998787.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/speaking-from-some-other-station-bhagwant-mann-slams-raghav-chadha-11306315#publisher=newsstand",
+    "id": "https://www.ndtv.com/feature/ai-chatbots-lie-and-manipulate-to-protect-each-other-from-deletion-new-study-finds-11306654#publisher=newsstand",
     "category": "india",
-    "title": "\"Speaking From Some Other Station\": Bhagwant Mann Slams Raghav Chadha",
-    "summary": "He said that if Raghav Chadha is unwilling to speak on issues like the \"deletion\" of votes in Bengal.",
-    "image": "https://c.ndtvimg.com/2026-04/6ilu7l1k_cm-bhagwant-mann_625x300_03_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "AI Chatbots Lie And Manipulate To Protect Each Other From Deletion, New Study Finds",
+    "summary": "AI chatbots manipulate shutdown processes to preserve fellow models, the study found.",
+    "image": "https://c.ndtvimg.com/2026-04/o2df9vls_as_625x300_03_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 14:55:06 +0530",
-    "link": "https://www.ndtv.com/india-news/speaking-from-some-other-station-bhagwant-mann-slams-raghav-chadha-11306315#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/opinion/iran-israel-war-why-have-indias-fuel-prices-remained-unchanged-even-as-europe-sees-50-spikes-11306372#publisher=newsstand",
-    "category": "india",
-    "title": "Opinion: Opinion | Why Are India's Fuel Prices Stable Even As Europe, Africa See 50% Spikes?",
-    "summary": "India imports 88% of its crude. Why then is it not seeing massive price hikes for fuel and LPG?",
-    "image": "https://c.ndtvimg.com/2019-10/uc6snhn_petrol-pump_650x400_07_October_19.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 14:50:42 +0530",
-    "link": "https://www.ndtv.com/opinion/iran-israel-war-why-have-indias-fuel-prices-remained-unchanged-even-as-europe-sees-50-spikes-11306372#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/science/nasas-orion-captures-stunning-crescent-view-of-earth-on-artemis-iis-first-day-11306283#publisher=newsstand",
-    "category": "india",
-    "title": "NASA's Artemis II Captures Stunning Crescent Earth From Space After Launch",
-    "summary": "Upon reaching space, Orion unfurled its four solar arrays.",
-    "image": "https://c.ndtvimg.com/2026-04/c1b2n3q_nasa_625x300_03_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 14:49:48 +0530",
-    "link": "https://www.ndtv.com/science/nasas-orion-captures-stunning-crescent-view-of-earth-on-artemis-iis-first-day-11306283#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/middle-east-war-as-irans-lego-style-videos-go-viral-meet-the-team-behind-them-11305219#publisher=newsstand",
-    "category": "india",
-    "title": "As Iran's Lego-Style War Videos Go Viral, Meet The Team Behind Them",
-    "summary": "These animations mirror a broader online culture where political messaging often uses humour.",
-    "image": "https://c.ndtvimg.com/2026-03/5cqqg8cg_iran-legi_625x300_10_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 14:47:21 +0530",
-    "link": "https://www.ndtv.com/world-news/middle-east-war-as-irans-lego-style-videos-go-viral-meet-the-team-behind-them-11305219#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/president-donald-trump-anger-over-iran-war-pushes-nato-into-fresh-crisis-middle-east-crisis-11306312#publisher=newsstand",
-    "category": "india",
-    "title": "Trump's Anger Over Iran War Pushes NATO Into Fresh Crisis",
-    "summary": "Under a law passed in 2023, a US president cannot exit the alliance without the consent of US Senate.",
-    "image": "https://c.ndtvimg.com/2026-04/265e4tao_nato-trump_625x300_03_April_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 14:45:31 +0530",
-    "link": "https://www.ndtv.com/world-news/president-donald-trump-anger-over-iran-war-pushes-nato-into-fresh-crisis-middle-east-crisis-11306312#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/bjps-top-guns-amit-shah-nitin-gadkari-campaign-for-new-candidate-in-assam-11306336#publisher=newsstand",
-    "category": "india",
-    "title": "BJP's Top Guns Amit Shah, Nitin Gadkari Campaign For New Candidate In Assam",
-    "summary": "The BJP's campaign gained momentum with high-profile rallies addressed by central leaders.",
-    "image": "https://c.ndtvimg.com/2026-04/6mre6d4g_assam_625x300_03_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 14:43:14 +0530",
-    "link": "https://www.ndtv.com/india-news/bjps-top-guns-amit-shah-nitin-gadkari-campaign-for-new-candidate-in-assam-11306336#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/europe-must-brace-for-long-lasting-energy-shock-eu-energy-commissioner-warns-11306316#publisher=newsstand",
-    "category": "india",
-    "title": "Europe Must Brace For Long-Lasting Energy Shock, EU Energy Commissioner Warns",
-    "summary": "EU urges fuel-saving measures, including voluntary schemes and car-free Sundays.",
-    "image": "https://c.ndtvimg.com/2026-04/eqdgchu4_petrol_625x300_03_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 14:40:32 +0530",
-    "link": "https://www.ndtv.com/world-news/europe-must-brace-for-long-lasting-energy-shock-eu-energy-commissioner-warns-11306316#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/iced-coffee-vs-iced-tea-which-is-better-for-weight-loss-11306246#publisher=newsstand",
-    "category": "india",
-    "title": "Iced Coffee vs Iced Tea: Which Is Better For Weight Loss?",
-    "summary": "Iced coffee and iced tea have benefits as well as side-effects",
-    "image": "https://c.ndtvimg.com/2026-04/p4t1ok6s_iced-coffee-and-iced-tea_625x300_03_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Apr 2026 14:39:33 +0530",
-    "link": "https://www.ndtv.com/health/iced-coffee-vs-iced-tea-which-is-better-for-weight-loss-11306246#publisher=newsstand"
+    "pubDate": "Fri, 03 Apr 2026 15:53:43 +0530",
+    "link": "https://www.ndtv.com/feature/ai-chatbots-lie-and-manipulate-to-protect-each-other-from-deletion-new-study-finds-11306654#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/iran-war-earnings-hit-and-more-70-stocks-brokerages-pick-from-a-ravaged-indian-market-for-fy27/articleshow/129997387.cms",
@@ -240,6 +230,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/losing-1-billion-a-day-gurmeet-chadha-urges-pmo-finance-ministry-to-revisit-capital-gains-tax-stt/articleshow/129995974.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c937g7nd5x4o#0",
+    "category": "global",
+    "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
+    "summary": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 03 Apr 2026 11:12:28 GMT",
+    "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/etmarkets-smart-talk-renewables-defence-to-lead-in-fy27-infra-and-gas-stocks-offer-high-risk-opportunities-siddarth-bhamre/articleshow/129994961.cms",
     "category": "finance",
     "title": "ETMarkets Smart Talk | Renewables, defence to lead in FY27; infra and gas stocks offer high-risk opportunities: Siddarth",
@@ -250,24 +250,34 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/etmarkets-smart-talk-renewables-defence-to-lead-in-fy27-infra-and-gas-stocks-offer-high-risk-opportunities-siddarth-bhamre/articleshow/129994961.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/views/de-dollarisation-war-and-debt-why-gold-is-regaining-monetary-relevance/articleshow/129994795.cms",
-    "category": "finance",
-    "title": "De-dollarisation, war, and debt: Why gold is regaining monetary relevance",
-    "summary": "Gold is regaining prominence as global markets face geopolitical tensions, rising debt and de-dollarisation trends. Central bank buying, structural shifts in the financial system and weakening confidence in fiat currencies are driving demand. Despite",
-    "image": "https://img.etimg.com/photo/msid-129994795,imgsize-175159.cms",
-    "source": "ET",
-    "pubDate": "Fri, 03 Apr 2026 10:55:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/views/de-dollarisation-war-and-debt-why-gold-is-regaining-monetary-relevance/articleshow/129994795.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1530279.html",
+    "category": "sports",
+    "title": "Brook to sit out April, Root set for three Yorkshire appearances",
+    "summary": "Six players involved on the Ashes tour were in action on the opening day of the County Championship",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/407900/407956.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 03 Apr 2026 10:55:10 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530279.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-to-deepen-insurance-bet-with-rs-389-crore-infusion-in-axis-max-life-stake-seen-at-19-99/articleshow/129994737.cms",
-    "category": "finance",
-    "title": "Axis Bank to deepen insurance bet with Rs 389 crore infusion in Axis Max Life; stake seen at 19.99%",
-    "summary": "Axis Bank plans to invest Rs 389 crore in Axis Max Life, raising its combined stake to 19.99%, near the regulatory cap. The move strengthens its insurance play as the sector expands. The deal remains subject to approvals, while Max Financial will ret",
-    "image": "https://img.etimg.com/photo/msid-129994737,imgsize-7556.cms",
-    "source": "ET",
-    "pubDate": "Fri, 03 Apr 2026 10:52:08 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-to-deepen-insurance-bet-with-rs-389-crore-infusion-in-axis-max-life-stake-seen-at-19-99/articleshow/129994737.cms"
+    "id": "https://www.bbc.com/sport/articles/ce8jzpj6nyko#0",
+    "category": "global",
+    "title": "No positive drug tests during Winter Olympics, for first time in 28 years",
+    "summary": "For the first time in 28 years, no athlete has been found to have taken a banned substance at an Olympics - so far.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 03 Apr 2026 10:18:59 GMT",
+    "link": "https://www.bbc.com/sport/articles/ce8jzpj6nyko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cy91x2n29nlo#0",
+    "category": "global",
+    "title": "International law experts allege violations in Iran war",
+    "summary": "The White House says it is making the entire region safer by eliminating short and long-term threats.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 03 Apr 2026 10:18:11 GMT",
+    "link": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cy01w2yjzr8o#0",
@@ -278,16 +288,6 @@
     "source": "BBC",
     "pubDate": "Fri, 03 Apr 2026 09:45:55 GMT",
     "link": "https://www.bbc.com/news/articles/cy01w2yjzr8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c937g7nd5x4o#0",
-    "category": "global",
-    "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
-    "summary": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 03 Apr 2026 09:29:01 GMT",
-    "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530258.html",
@@ -322,7 +322,7 @@
   {
     "id": "https://www.bbc.com/news/videos/crl10127elgo#0",
     "category": "global",
-    "title": "'Trust us, you look amazing': Artemis II astronauts speak from space",
+    "title": "Watch: Artemis II astronauts speak from space",
     "summary": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
