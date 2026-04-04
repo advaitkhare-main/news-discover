@@ -110,14 +110,44 @@
     "link": "https://www.ndtv.com/india-news/mayabunder-andaman-floats-werent-armed-weather-inputs-missing-pawan-hans-chopper-crash-probe-11312198#publisher=newsstand"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cjr9l2p950do#1",
+    "category": "global",
+    "title": "How will rising fuel costs affect driving lessons?",
+    "summary": "Two bodies which represent driving instructors have sent letters to the UK government.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 04 Apr 2026 23:06:16 GMT",
+    "link": "https://www.bbc.com/news/articles/cjr9l2p950do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cr71vne5k70o#1",
+    "category": "global",
+    "title": "Streetwear and crop tops take World Cup fashion to new heights",
+    "summary": "Inspired by football culture on and off the pitch, this year's kit collections mix archive classics with streetwear staples.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 04 Apr 2026 23:01:44 GMT",
+    "link": "https://www.bbc.com/news/articles/cr71vne5k70o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c5y90jl8veyo#0",
     "category": "global",
     "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
     "summary": "Donald Trump wants Iran to strike a deal and to open the strategic Strait of Hormuz whose closure has led to a spike in oil prices.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sat, 04 Apr 2026 21:56:24 GMT",
+    "pubDate": "Sat, 04 Apr 2026 22:54:06 GMT",
     "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/ce3d5gkd2geo#0",
+    "category": "global",
+    "title": "'Something we have never seen before': Artemis II crew describe far side of Moon",
+    "summary": "Astronauts on Artemis II have entered the third day of their mission around the far side of the Moon and back again.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 04 Apr 2026 22:45:08 GMT",
+    "link": "https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c93edxr57d0o#0",
@@ -320,26 +350,6 @@
     "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-67k-as-crypto-markets-stay-muted-volatility-seen-rising-ahead/articleshow/130014542.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cvg04839gljo#1",
-    "category": "global",
-    "title": "Bus or Lime bike? New subscription heats up the race for a cheaper commute",
-    "summary": "How we travel to work in cities might be changing as e-scooter and e-bike fares become cheaper than traditional public transport.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 04 Apr 2026 07:02:22 GMT",
-    "link": "https://www.bbc.com/news/articles/cvg04839gljo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce8jzr423p9o#0",
-    "category": "global",
-    "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
-    "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 04 Apr 2026 06:42:48 GMT",
-    "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -378,15 +388,5 @@
     "source": "VentureBeat",
     "pubDate": "Fri, 16 Jan 2026 14:01:00 GMT",
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx2e7e90kneo#1",
-    "category": "global",
-    "title": "State pension age starts rising to 67 - here's how much you get and when",
-    "summary": "The age at which people can start receiving the state pension is going up in stages over the next two years.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 03 Apr 2026 23:27:52 GMT",
-    "link": "https://www.bbc.com/news/articles/cx2e7e90kneo?at_medium=RSS&at_campaign=rss"
   }
 ]
