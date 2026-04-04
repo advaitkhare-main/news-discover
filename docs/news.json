@@ -152,7 +152,7 @@
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-all-eyes-on-21700-make-or-break-zone-as-nifty-weakens-further/articleshow/130015190.cms",
     "category": "finance",
-    "title": "Dalal Street Week Ahead: All eyes on 21,700 make-or-break zone as Nifty weakens further",
+    "title": "Dalal Street Week Ahead: All eyes on 21,700 make-or-break zone as Nifty braces for volatility",
     "summary": "Nifty ended lower after persistent selling dragged the index below key short-term supports, signalling further weakness. With the index approaching the crucial 21,700 zone, sentiment remains fragile amid global uncertainties. Technical indicators sta",
     "image": "https://img.etimg.com/photo/msid-130015190,imgsize-1214436.cms",
     "source": "ET",
@@ -188,6 +188,16 @@
     "source": "ET",
     "pubDate": "Sat, 04 Apr 2026 12:07:59 +0530",
     "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-67k-as-crypto-markets-stay-muted-volatility-seen-rising-ahead/articleshow/130014542.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0le43jw8e9o#1",
+    "category": "global",
+    "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
+    "summary": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 04 Apr 2026 10:41:38 GMT",
+    "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530426.html",
@@ -378,15 +388,5 @@
     "source": "BBC",
     "pubDate": "Fri, 03 Apr 2026 23:04:24 GMT",
     "link": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cz0ey7z2jx3o#0",
-    "category": "global",
-    "title": "Three charged over Jewish charity ambulance fires",
-    "summary": "Four Hatzola ambulances were set alight in the car park of a synagogue in Golders Green in the early hours of 23 March.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 03 Apr 2026 22:35:16 GMT",
-    "link": "https://www.bbc.com/news/articles/cz0ey7z2jx3o?at_medium=RSS&at_campaign=rss"
   }
 ]
