@@ -30,34 +30,74 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/india-news/after-failed-attempt-last-year-delhi-eyes-artificial-rain-again-11310941#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/assam-assembly-elections-2026-amid-lpg-crisis-himanta-sarma-promises-2-free-cylinders-if-reelected-11311130#publisher=newsstand",
+    "category": "india",
+    "title": "Amid LPG Crisis, Himanta Sarma Promises 2 Free Cylinders If Reelected",
+    "summary": "Assam will vote on April 9 and counting will be held on May 4.",
+    "image": "https://c.ndtvimg.com/2024-01/u743q1go_himanta-biswa-sarma_625x300_11_January_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 04 Apr 2026 18:39:30 +0530",
+    "link": "https://www.ndtv.com/india-news/assam-assembly-elections-2026-amid-lpg-crisis-himanta-sarma-promises-2-free-cylinders-if-reelected-11311130#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/most-heart-risk-calculators-failing-to-flag-heart-attacks-in-indians-finds-study-11310600#publisher=newsstand",
+    "category": "india",
+    "title": "Most Heart Risk Calculators Fail To Flag Heart Attacks In Indians, Finds Study",
+    "summary": "The study, conducted on 4,975 patients with first-time heart attacks, found significant differences in how five major global risk prediction models categorised individuals, raising concerns over their reliability for South Asian populations.",
+    "image": "https://c.ndtvimg.com/2026-03/rn1o375k_heart_625x300_16_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 04 Apr 2026 18:34:46 +0530",
+    "link": "https://www.ndtv.com/health/most-heart-risk-calculators-failing-to-flag-heart-attacks-in-indians-finds-study-11310600#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/its-been-deeply-enriching-british-architect-after-6-month-backpacking-journey-across-india-11311079#publisher=newsstand",
+    "category": "india",
+    "title": "'It's Been Deeply Enriching': British Architect After 6-Month Backpacking Journey Across India",
+    "summary": "An architect documents a transformative six-month solo journey across India focused on architecture.",
+    "image": "https://c.ndtvimg.com/2026-04/5qn7j4fs_as_625x300_04_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 04 Apr 2026 18:27:10 +0530",
+    "link": "https://www.ndtv.com/offbeat/its-been-deeply-enriching-british-architect-after-6-month-backpacking-journey-across-india-11311079#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-israel-war-no-payment-hurdle-for-iranian-crude-imports-india-dismisses-rumours-11311069#publisher=newsstand",
+    "category": "india",
+    "title": "\"No Payment Hurdle For Iranian Crude Imports\": India Dismisses Rumours",
+    "summary": "Indian refiners have been looking at opportunities to purchase a few cargoes of Iranian oil on water.",
+    "image": "https://c.ndtvimg.com/2026-04/nhv4ibkc_ping-shun-crude-oil-tanker_625x300_01_April_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Sat, 04 Apr 2026 18:25:02 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-no-payment-hurdle-for-iranian-crude-imports-india-dismisses-rumours-11311069#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/mumbai-resident-misses-city-just-2-months-after-moving-to-bengaluru-post-viral-11310720#publisher=newsstand",
+    "category": "india",
+    "title": "Mumbai Resident Misses City Just 2 Months After Moving To Bengaluru, Post Viral",
+    "summary": "The Mumbai resident shared how they were missing Mumbai already.",
+    "image": "https://c.ndtvimg.com/2025-12/kvpje0f8_marine-drive_625x300_22_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 04 Apr 2026 18:02:17 +0530",
+    "link": "https://www.ndtv.com/offbeat/mumbai-resident-misses-city-just-2-months-after-moving-to-bengaluru-post-viral-11310720#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/delhis-rml-doctors-perform-rare-heart-surgery-on-patient-with-mirror-image-organs-11310423#publisher=newsstand",
+    "category": "india",
+    "title": "Delhi's RML Doctors Perform Rare Heart Surgery On Patient With 'Mirror Image' Organs",
+    "summary": "The surgery was performed on March 30, and was covered under the government's Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY).",
+    "image": "https://c.ndtvimg.com/2026-02/50qnf5mc_heart-attack_625x300_18_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 04 Apr 2026 17:59:54 +0530",
+    "link": "https://www.ndtv.com/health/delhis-rml-doctors-perform-rare-heart-surgery-on-patient-with-mirror-image-organs-11310423#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/cloud-seeding-after-failed-attempt-last-year-delhi-eyes-artificial-rain-again-11310941#publisher=newsstand",
     "category": "india",
     "title": "After Failed Attempt Last Year, Delhi Eyes Artificial Rain Again",
     "summary": "Another round of trials was conducted earlier this year, sources said.",
     "image": "https://c.ndtvimg.com/2025-10/po213qnc_cloud-seeding_625x300_28_October_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Sat, 04 Apr 2026 17:46:50 +0530",
-    "link": "https://www.ndtv.com/india-news/after-failed-attempt-last-year-delhi-eyes-artificial-rain-again-11310941#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/assam-assembly-elections-2026-hagrama-mohilary-pramod-boro-as-alliances-shift-2-bodoland-leaders-hope-to-play-kingmaker-in-assam-11310676#publisher=newsstand",
-    "category": "india",
-    "title": "As Alliances Shift, 2 Bodoland Leaders Hope To Play 'Kingmaker' In Assam",
-    "summary": "Mohilary's BPF is in an alliance with the BJP this time.",
-    "image": "https://c.ndtvimg.com/2026-04/3qea3qoo_1_625x300_04_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 04 Apr 2026 17:44:33 +0530",
-    "link": "https://www.ndtv.com/india-news/assam-assembly-elections-2026-hagrama-mohilary-pramod-boro-as-alliances-shift-2-bodoland-leaders-hope-to-play-kingmaker-in-assam-11310676#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/division-bench-upholds-rajasthan-high-courts-decision-to-cancel-si-recruitment-exam-2021-11310786#publisher=newsstand",
-    "category": "india",
-    "title": "Rajasthan High Court Upholds Single Bench Order Cancelling SI Recruitment Exam 2021",
-    "summary": "Rajasthan SI 2021 recruitment notification was issued on February 3, 2021,",
-    "image": "https://c.ndtvimg.com/2025-08/mjvume7_3_625x300_28_August_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 04 Apr 2026 17:44:02 +0530",
-    "link": "https://www.ndtv.com/education/division-bench-upholds-rajasthan-high-courts-decision-to-cancel-si-recruitment-exam-2021-11310786#publisher=newsstand"
+    "pubDate": "Sat, 04 Apr 2026 17:50:31 +0530",
+    "link": "https://www.ndtv.com/india-news/cloud-seeding-after-failed-attempt-last-year-delhi-eyes-artificial-rain-again-11310941#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/us-iran-war-news-f-15-f-35-us-pilot-missing-iran-hostage-blindfolded-made-to-kneel-what-happened-last-time-iran-held-us-personnel-11310886#publisher=newsstand",
@@ -66,48 +106,8 @@
     "summary": "If Iran captures the missing airman, it would not be the first time Tehran has held American personnel.",
     "image": "https://c.ndtvimg.com/2026-04/55einv5_iran-hostage_625x300_04_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Sat, 04 Apr 2026 17:32:27 +0530",
+    "pubDate": "Sat, 04 Apr 2026 17:49:28 +0530",
     "link": "https://www.ndtv.com/world-news/us-iran-war-news-f-15-f-35-us-pilot-missing-iran-hostage-blindfolded-made-to-kneel-what-happened-last-time-iran-held-us-personnel-11310886#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/a-new-gene-therapy-may-restore-hearing-in-weeks-give-people-born-deaf-a-chance-to-hear-again-11310795#publisher=newsstand",
-    "category": "india",
-    "title": "A New Gene Therapy May Restore Hearing In Weeks, Give People Born Deaf A Chance To Hear Again",
-    "summary": "The treatment targets a specific type of inherited deafness caused by mutations in a gene called OTOF.",
-    "image": "https://c.ndtvimg.com/2026-04/h71n3m8s_hearing-impairment_625x300_04_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 04 Apr 2026 17:28:10 +0530",
-    "link": "https://www.ndtv.com/health/a-new-gene-therapy-may-restore-hearing-in-weeks-give-people-born-deaf-a-chance-to-hear-again-11310795#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/magnitude-6-0-earthquake-strikes-off-north-indonesia-11310804#publisher=newsstand",
-    "category": "india",
-    "title": "Magnitude 6.0 Earthquake Strikes Off North Indonesia",
-    "summary": "Earthquakes are a near-daily occurrence in the Philippines (Representational)",
-    "image": "https://c.ndtvimg.com/2024-11/4h4fqblo_earthquake-generic_625x300_28_November_24.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 04 Apr 2026 17:22:39 +0530",
-    "link": "https://www.ndtv.com/world-news/magnitude-6-0-earthquake-strikes-off-north-indonesia-11310804#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/food/200-kg-of-artificially-ripened-mangoes-seized-in-hyderabad-fruit-trader-arrested-11309438#publisher=newsstand",
-    "category": "india",
-    "title": "200 kg Of Artificially Ripened Mangoes Seized In Hyderabad, Fruit Trader Arrested",
-    "summary": "Food safety rules allow only five sachets of ethylene ripener for every 20 kg of mangoes.",
-    "image": "https://c.ndtvimg.com/2025-05/prlgicb8_mango_625x300_05_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 04 Apr 2026 17:22:02 +0530",
-    "link": "https://www.ndtv.com/food/200-kg-of-artificially-ripened-mangoes-seized-in-hyderabad-fruit-trader-arrested-11309438#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/school-assembly-news-headlines-april-5-top-national-world-sports-business-news-11310829#publisher=newsstand",
-    "category": "india",
-    "title": "School Assembly News Headlines (April 5): Top National, World, Sports, Business News",
-    "summary": "School Assembly News Headlines: Shreyas Iyer' Captaincy Slammed Despite Win",
-    "image": "https://c.ndtvimg.com/2026-03/vkuk3apg_school-assembly-news-headlines_625x300_16_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 04 Apr 2026 17:20:48 +0530",
-    "link": "https://www.ndtv.com/education/school-assembly-news-headlines-april-5-top-national-world-sports-business-news-11310829#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/au-small-finance-bank-q4-business-update-deposits-up-23-at-rs-1-52-lakh-crore-advances-rise-25/articleshow/130016671.cms",
@@ -140,6 +140,46 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/8-stocks-surged-over-50-in-each-of-the-last-3-fiscal-years-rally-up-to-3100/slideshow/130016086.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cg40xx110peo#0",
+    "category": "global",
+    "title": "Amber wind warning issued as Storm Dave set to hit parts of UK",
+    "summary": "The Met Office said injuries or danger to life could occur as a result of flying debris.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 04 Apr 2026 13:39:54 GMT",
+    "link": "https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/clyjrrl17j1o#0",
+    "category": "global",
+    "title": "Fourth suspect arrested over Jewish charity ambulance arson attack",
+    "summary": "Three men who had been charged following the attack appeared at court this morning, and have since been remanded in custody.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 04 Apr 2026 13:37:47 GMT",
+    "link": "https://www.bbc.com/news/articles/clyjrrl17j1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1530439.html",
+    "category": "sports",
+    "title": "CSK's bowlers face stern RCB test as rivalry momentum shifts",
+    "summary": "RCB have won their last three games against CSK, turning the tide in this rivalry",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/400200/400223.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 04 Apr 2026 13:35:30 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530439.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cp869m2gzr0o#0",
+    "category": "global",
+    "title": "Russian attack on Ukraine market kills five",
+    "summary": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 04 Apr 2026 13:13:36 GMT",
+    "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-q4-business-update-lender-reports-15-yoy-growth-in-deposits-advances-jump-12/articleshow/130015244.cms",
     "category": "finance",
     "title": "HDFC Bank Q4 business update: Lender reports 15% YoY growth in deposits, advances jump 12%",
@@ -170,16 +210,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-evolution-decoded-ace-investor-vijay-kedia-explains-it-with-a-simple-house-building-analogy/articleshow/130014840.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c5y80nj5v50o#0",
-    "category": "global",
-    "title": "Amber alert for Storm Dave as Scotland to take brunt of wind and snow",
-    "summary": "Power firm SSEN predicts wind gusts could reach about 80mph in parts of the country over the Easter weekend.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 04 Apr 2026 12:31:18 GMT",
-    "link": "https://www.bbc.com/news/articles/c5y80nj5v50o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/midcap-mayhem-10-stocks-that-plunged-up-to-29-in-march-how-many-do-you-own/slideshow/130014658.cms",
     "category": "finance",
     "title": "Midcap mayhem! 10 stocks that plunged up to 29% in March. How many do you own?",
@@ -198,16 +228,6 @@
     "source": "ET",
     "pubDate": "Sat, 04 Apr 2026 12:07:59 +0530",
     "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-67k-as-crypto-markets-stay-muted-volatility-seen-rising-ahead/articleshow/130014542.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0le43jw8e9o#1",
-    "category": "global",
-    "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
-    "summary": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 04 Apr 2026 10:41:38 GMT",
-    "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530426.html",
@@ -250,16 +270,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530418.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cjd8y33ze08o#0",
-    "category": "global",
-    "title": "Five Met Police officers taken off duty after bag of weapons is left in the street",
-    "summary": "A member of the public found the bag containing guns and a Taser on a south London street.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 04 Apr 2026 06:46:54 GMT",
-    "link": "https://www.bbc.com/news/articles/cjd8y33ze08o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/ce8jzr423p9o#0",
     "category": "global",
     "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
@@ -300,16 +310,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530381.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530376.html",
-    "category": "sports",
-    "title": "Shreyas: 'We want to impress each other, not others outside'",
-    "summary": "The PBKS captain top-scored with 50 as his team chased down 210 with eight balls to spare",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415237.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 04 Apr 2026 02:46:16 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530376.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cvgk8yxxkvpo#1",
     "category": "global",
     "title": "What not to say to a friend who is struggling to conceive",
@@ -323,7 +323,7 @@
     "id": "https://www.bbc.com/news/articles/cj60r2kdnw1o#1",
     "category": "global",
     "title": "17m people are obsessed with a power-washing video game",
-    "summary": "PowerWash Simulator 2 has been nominated for two Bafta Games Awards - but why have mundane job games become so popular?",
+    "summary": "It's been nominated for two Bafta Games Awards - but why have mundane job games like PowerWash Simulator 2 become so popular?",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Sat, 04 Apr 2026 00:03:41 GMT",
@@ -380,7 +380,7 @@
     "link": "https://www.bbc.com/news/articles/cx2e7e90kneo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/czd7y1n3jyjo#0",
+    "id": "https://www.bbc.com/news/articles/czd7y1n3jyjo#1",
     "category": "global",
     "title": "After 16 years in power, could Viktor Orban finally be unseated?",
     "summary": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?",
