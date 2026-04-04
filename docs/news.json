@@ -110,13 +110,53 @@
     "link": "https://www.ndtv.com/world-news/us-iran-israel-2-drones-1-minute-apart-how-iran-hit-cia-station-inside-us-embassy-in-saudi-11311478#publisher=newsstand"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cg40xx110peo#0",
+    "category": "global",
+    "title": "Storm Dave to 'deepen' as amber wind warning sets in for parts of UK",
+    "summary": "Yellow wind warnings cover parts of all four UK nations, with the storm set to sweep eastward overnight.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 04 Apr 2026 19:23:50 GMT",
+    "link": "https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1530521.html",
+    "category": "sports",
+    "title": "Mehidy, Litton to remain Bangladesh's ODI and T20I captains until next World Cups",
+    "summary": "Mohammad Rafique has been appointed spin-bowling consultant for one year",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/412100/412178.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 04 Apr 2026 19:09:59 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530521.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1530517.html",
+    "category": "sports",
+    "title": "Sameer Minhas 70 gives Islamabad United a rollicking win over Rawalpindiz",
+    "summary": "Rawalpindiz have now lost all three games while Rizwan suffered his 13th PSL defeat in 14 games as captain",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415287.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 04 Apr 2026 19:01:23 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530517.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1530460.html",
+    "category": "sports",
+    "title": "Du Plooy, Cracknell, Roland-Jones keep Middlesex in command",
+    "summary": "Miles Hammond's unbeaten fifty props up Gloucestershire after hosts post 445-9 dec",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/399500/399597.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 04 Apr 2026 18:49:55 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530460.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1530516.html",
     "category": "sports",
     "title": "Bishnoi, Deshpande help Rajasthan Royals defend 210 in nervy finish",
     "summary": "Half-centuries from Jurel and Jaiswal punished GT but Sudharsan's fifty and a late Rabada-Rashid partnership gave RR a scare",
     "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415289.jpg",
     "source": "Cricinfo",
-    "pubDate": "Sat, 04 Apr 2026 18:30:56 GMT",
+    "pubDate": "Sat, 04 Apr 2026 18:35:05 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1530516.html?ex_cid=OTC-RSS"
   },
   {
@@ -160,36 +200,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530463.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530468.html",
-    "category": "sports",
-    "title": "Clarke, Haynes blunt Somerset after Pennington five-for",
-    "summary": "Unbroken stand puts champions on course despite three-wicket burst from Migael Pretorius",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415282.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 04 Apr 2026 17:49:52 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530468.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530458.html",
-    "category": "sports",
-    "title": "Andersson's double-hundred drives Derbyshire to daunting heights",
-    "summary": "Impressive knock from allrounder puts Worcestershire on back foot before Lategan resists",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415281.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 04 Apr 2026 17:49:51 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530458.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530456.html",
-    "category": "sports",
-    "title": "Evergreen Anderson takes five to leave Northants on the ropes",
-    "summary": "Seamer claims first-class wicket for 25th consecutive season to put visitors on top",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415262.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 04 Apr 2026 17:38:10 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530456.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c5y90jl8veyo#0",
     "category": "global",
     "title": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
@@ -198,16 +208,6 @@
     "source": "BBC",
     "pubDate": "Sat, 04 Apr 2026 16:19:25 GMT",
     "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cg40xx110peo#0",
-    "category": "global",
-    "title": "Amber wind warning issued as Storm Dave set to hit parts of UK",
-    "summary": "Yellow wind warnings will cover parts of all four UK nations by Saturday evening.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 04 Apr 2026 16:11:34 GMT",
-    "link": "https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c86e04l4yneo#0",
