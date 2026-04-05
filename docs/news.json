@@ -30,6 +30,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cg40xx110peo#0",
+    "category": "global",
+    "title": "Storm Dave brings 'disruptive' winds to parts of UK",
+    "summary": "Yellow wind warnings cover parts of all four UK nations, with the storm sweeping eastward overnight.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 05 Apr 2026 01:09:45 GMT",
+    "link": "https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/iran-israel-war-oil-sanctions-us-india-makes-first-iranian-oil-purchase-in-7-years-with-no-payment-hurdle-11312289#publisher=newsstand",
     "category": "india",
     "title": "India Makes First Iranian Oil Purchase In 7 Years, With \"No Payment Hurdle\"",
@@ -80,6 +90,26 @@
     "link": "https://www.ndtv.com/world-news/us-most-lethal-long-range-missiles-are-now-positioned-for-an-iran-strike-11312254#publisher=newsstand"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cje47vy0w3ko#1",
+    "category": "global",
+    "title": "ICE wanted to build a detention centre -  this small farming town said no",
+    "summary": "Residents say they support the administration's immigration agenda - but not its plans to build a detention centre in their backyard.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 05 Apr 2026 00:06:35 GMT",
+    "link": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/ce3d5gkd2geo#0",
+    "category": "global",
+    "title": "'Something we have never seen before': Artemis II crew describe far side of Moon",
+    "summary": "Astronauts on the Artemis II mission are on the third day of their journey around the far side of the Moon.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 05 Apr 2026 00:04:03 GMT",
+    "link": "https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/heat-storms-and-ballot-indias-april-elections-face-a-new-climate-reality-11312219#publisher=newsstand",
     "category": "india",
     "title": "Heat, Storms And Ballot: India's April Elections Face A New Climate Reality",
@@ -110,14 +140,14 @@
     "link": "https://www.ndtv.com/india-news/mayabunder-andaman-floats-werent-armed-weather-inputs-missing-pawan-hans-chopper-crash-probe-11312198#publisher=newsstand"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cjr9l2p950do#1",
+    "id": "https://www.bbc.com/news/articles/c5yj97yd6v5o#0",
     "category": "global",
-    "title": "How will rising fuel costs affect driving lessons?",
-    "summary": "Two bodies which represent driving instructors have sent letters to the UK government.",
+    "title": "AI videos fuel rhetoric as Orb\u00e1n bids for four more years in Hungary",
+    "summary": "Videos have targeted Viktor Orb\u00e1n's election rival, who could unseat him after 16 years in office.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sat, 04 Apr 2026 23:06:16 GMT",
-    "link": "https://www.bbc.com/news/articles/cjr9l2p950do?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Sat, 04 Apr 2026 23:15:48 GMT",
+    "link": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cr71vne5k70o#1",
@@ -133,21 +163,11 @@
     "id": "https://www.bbc.com/news/articles/c5y90jl8veyo#0",
     "category": "global",
     "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
-    "summary": "Donald Trump wants Iran to strike a deal and to open the strategic Strait of Hormuz whose closure has led to a spike in oil prices.",
+    "summary": "Iran rejected Donald Trump's ultimatum for a deal to re-open the Strait of Hormuz whose closure has led to a spike in oil prices.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Sat, 04 Apr 2026 22:54:06 GMT",
     "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/ce3d5gkd2geo#0",
-    "category": "global",
-    "title": "'Something we have never seen before': Artemis II crew describe far side of Moon",
-    "summary": "Astronauts on Artemis II have entered the third day of their mission around the far side of the Moon and back again.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 04 Apr 2026 22:45:08 GMT",
-    "link": "https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c93edxr57d0o#0",
@@ -188,16 +208,6 @@
     "source": "Cricinfo",
     "pubDate": "Sat, 04 Apr 2026 19:57:52 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1530523.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cg40xx110peo#0",
-    "category": "global",
-    "title": "Storm Dave to 'deepen' as amber wind warning sets in for parts of UK",
-    "summary": "Yellow wind warnings cover parts of all four UK nations, with the storm set to sweep eastward overnight.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 04 Apr 2026 19:23:50 GMT",
-    "link": "https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530521.html",
@@ -258,16 +268,6 @@
     "source": "Cricinfo",
     "pubDate": "Sat, 04 Apr 2026 18:12:57 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1530462.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/clyjrrl17j1o#0",
-    "category": "global",
-    "title": "Fourth suspect arrested over Jewish charity ambulance arson attack",
-    "summary": "Three men charged following the attack appeared at court this morning, and have since been remanded in custody.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 04 Apr 2026 15:10:04 GMT",
-    "link": "https://www.bbc.com/news/articles/clyjrrl17j1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/au-small-finance-bank-q4-business-update-deposits-up-23-at-rs-1-52-lakh-crore-advances-rise-25/articleshow/130016671.cms",
