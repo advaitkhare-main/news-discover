@@ -30,64 +30,144 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/middle-east-war-unbalanced-stupid-iran-on-trumps-48-hour-ultimatum-for-peace-deal-11312544#publisher=newsstand",
+    "category": "india",
+    "title": "Iran Warns Of \"Big Surprise\" For US After Trump's \"Stupid, Nervous\" Ultimatum",
+    "summary": "Trump warned of severe military consequences if the Strait of Hormuz is not reopened.",
+    "image": "https://c.ndtvimg.com/2026-03/h42hhp18_trump-iran-new-leader_625x300_20_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 05 Apr 2026 10:12:57 +0530",
+    "link": "https://www.ndtv.com/world-news/middle-east-war-unbalanced-stupid-iran-on-trumps-48-hour-ultimatum-for-peace-deal-11312544#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-middle-eat-conflict-chinese-firms-use-ai-to-track-us-military-moves-report-11312675#publisher=newsstand",
+    "category": "india",
+    "title": "Chinese Firms Use AI To Track US Military Moves In Iran War: Report",
+    "summary": "Online posts have circulated details of US carrier movements, aircraft positioning and base activity.",
+    "image": "https://c.ndtvimg.com/2026-03/21v4j8o_us-military-equipment-rushed-to-iran_625x300_30_March_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sun, 05 Apr 2026 10:11:39 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-middle-eat-conflict-chinese-firms-use-ai-to-track-us-military-moves-report-11312675#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/agra-murder-case-extramarital-affair-burnt-body-a-tattoo-and-qr-code-clue-wifes-affair-behind-grisly-murder-11313082#publisher=newsstand",
+    "category": "india",
+    "title": "Burnt Body, A Tattoo, And QR Code Clue: Wife's Affair Behind Grisly Murder",
+    "summary": "Police have arrested Lokendra's wife, Mahesh and his friend",
+    "image": "https://c.ndtvimg.com/2026-04/snn31h0s_up-crime-news_625x300_04_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 05 Apr 2026 10:04:34 +0530",
+    "link": "https://www.ndtv.com/india-news/agra-murder-case-extramarital-affair-burnt-body-a-tattoo-and-qr-code-clue-wifes-affair-behind-grisly-murder-11313082#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-us-war-missing-us-jet-crew-member-in-iran-rescued-after-heavy-firefight-report-11313024#publisher=newsstand",
+    "category": "india",
+    "title": "\"We Got Him\": Trump Says Missing US Jet Pilot In Iran Rescued In \"Daring Op\"",
+    "summary": "The pilot has sustained injuries but \"will be fine\", Trump said.",
+    "image": "https://c.ndtvimg.com/2026-04/m8mt5a44_trump_625x300_05_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 05 Apr 2026 10:04:23 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-us-war-missing-us-jet-crew-member-in-iran-rescued-after-heavy-firefight-report-11313024#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/bjps-5th-list-for-bengal-polls-includes-veteran-ex-union-ministers-nephew-11312108#publisher=newsstand",
+    "category": "india",
+    "title": "BJP's 5th List For Bengal Polls Includes Veteran, Ex-Union Minister's Nephew",
+    "summary": "The BJP has released the names of 292 candidates for the 294 seats in West Bengal so far.",
+    "image": "https://c.ndtvimg.com/2026-04/ejmpaiao_mp-bjp-media-team-33-spokespersons-41-panelists-9-co-media-incharge-list_625x300_02_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 05 Apr 2026 10:00:42 +0530",
+    "link": "https://www.ndtv.com/india-news/bjps-5th-list-for-bengal-polls-includes-veteran-ex-union-ministers-nephew-11312108#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-iran-war-trump-on-how-us-rescued-2-pilots-from-iran-sent-dozens-of-aircraft-missing-f-15-jet-crew-member-11313057#publisher=newsstand",
+    "category": "india",
+    "title": "\"Sent Dozens Of Aircraft\": Trump On How US Rescued Pilot From Iran",
+    "summary": "",
+    "image": "https://c.ndtvimg.com/2026-04/kqosvsuk_trump_625x300_04_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 05 Apr 2026 10:00:06 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-trump-on-how-us-rescued-2-pilots-from-iran-sent-dozens-of-aircraft-missing-f-15-jet-crew-member-11313057#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/trump-shares-video-of-strike-in-tehran-says-many-of-irans-military-leaders-terminated-11312535#publisher=newsstand",
+    "category": "india",
+    "title": "\"Iran's Military Leaders Terminated\": Trump Shares Video Of Tehran Attack",
+    "summary": "Trump said \"many\" of Iran's military leaders were killed in a huge strike.",
+    "image": "https://c.ndtvimg.com/2026-04/bh42e578_trump-shares-video-of-attack-on-tehran_625x300_05_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sun, 05 Apr 2026 09:59:09 +0530",
+    "link": "https://www.ndtv.com/world-news/trump-shares-video-of-strike-in-tehran-says-many-of-irans-military-leaders-terminated-11312535#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/middle-east-us-iran-war-global-leaders-bypass-us-to-tackle-strait-of-hormuz-crisis-11312662#publisher=newsstand",
+    "category": "india",
+    "title": "Global Leaders Bypass US To Tackle Strait Of Hormuz Crisis",
+    "summary": "The Iran war has triggered a \"breaking point\" in relations between the United States and Europe.",
+    "image": "https://c.ndtvimg.com/2026-04/8sbeujjo_hormuz_625x300_02_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 05 Apr 2026 09:56:05 +0530",
+    "link": "https://www.ndtv.com/world-news/middle-east-us-iran-war-global-leaders-bypass-us-to-tackle-strait-of-hormuz-crisis-11312662#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/can-sensex-nifty-rally-for-a-third-consecutive-session-on-monday-5-factors-to-watch-this-week/articleshow/130033416.cms",
+    "category": "finance",
+    "title": "Can Sensex, Nifty rally for a third consecutive session on Monday? 5 factors to watch this week",
+    "summary": "Indian markets ended higher despite sharp intraday swings, with Sensex and Nifty extending gains for a second session in FY27. However, the outlook remains volatile and event-driven, with Middle East tensions and the Strait of Hormuz situation likely",
+    "image": "https://img.etimg.com/photo/msid-130033416,imgsize-126394.cms",
+    "source": "ET",
+    "pubDate": "Sun, 05 Apr 2026 09:20:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-sensex-nifty-rally-for-a-third-consecutive-session-on-monday-5-factors-to-watch-this-week/articleshow/130033416.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/14-penny-stocks-crash-up-to-75-in-just-3-months-did-you-invest-in-any/slideshow/130033441.cms",
+    "category": "finance",
+    "title": "\u200b\u200b14 penny stocks crash up to 75% in just 3 months. Did you invest in any?",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-130033318,imgsize-118244.cms",
+    "source": "ET",
+    "pubDate": "Sun, 05 Apr 2026 09:05:42 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/14-penny-stocks-crash-up-to-75-in-just-3-months-did-you-invest-in-any/slideshow/130033441.cms"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1530540.html",
+    "category": "sports",
+    "title": "Hayden expects GT bowlers to 'keep consistently bowling their best ball'",
+    "summary": "Gujarat Titans bowled nine wides and hit just seven sixes in their loss to Rajasthan Royals, both areas of concern for them at IPL 2026",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415292.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 05 Apr 2026 04:57:30 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530540.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cg40xx110peo#0",
     "category": "global",
-    "title": "Storm Dave brings 'disruptive' winds to parts of UK",
-    "summary": "Yellow wind warnings cover parts of all four UK nations, with the storm sweeping eastward overnight.",
+    "title": "Storm Dave to ease on Easter Sunday after amber alert expires",
+    "summary": "Storm Dave will clear northeast on Easter Sunday, bringing \"sunshine and showers\" to much of the country.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sun, 05 Apr 2026 01:09:45 GMT",
+    "pubDate": "Sun, 05 Apr 2026 04:04:31 GMT",
     "link": "https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/iran-israel-war-oil-sanctions-us-india-makes-first-iranian-oil-purchase-in-7-years-with-no-payment-hurdle-11312289#publisher=newsstand",
-    "category": "india",
-    "title": "India Makes First Iranian Oil Purchase In 7 Years, With \"No Payment Hurdle\"",
-    "summary": "Last month, the US temporarily removed sanctions on Iranian oil to ease supply shortages.",
-    "image": "https://c.ndtvimg.com/2026-04/nhv4ibkc_ping-shun-crude-oil-tanker_625x300_01_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 05 Apr 2026 00:20:35 +0530",
-    "link": "https://www.ndtv.com/india-news/iran-israel-war-oil-sanctions-us-india-makes-first-iranian-oil-purchase-in-7-years-with-no-payment-hurdle-11312289#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1530523.html",
+    "category": "sports",
+    "title": "Bishnoi: Worked on 'perfecting my lengths' after difficult 2025",
+    "summary": "Bishnoi, who finished with 4 for 41 against GT and earned the Player-of-the-Match award, credited his turnaround to work on the \"physical, technical and mental aspects\" of his game",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415285.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 05 Apr 2026 03:23:04 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530523.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/india-news/4-cops-suspended-for-chaos-during-suvendu-adhikaris-nomination-filing-11312274#publisher=newsstand",
-    "category": "india",
-    "title": "4 Cops Suspended For Chaos During Suvendu Adhikari's Nomination Filing",
-    "summary": "Union Home Minister Amit Shah had accompanied Adhikari for the filing of the nomination papers.",
-    "image": "https://c.ndtvimg.com/2026-04/41jrtags_amit-shah_160x120_02_April_26.jpg",
-    "source": "NDTV",
-    "pubDate": "Sun, 05 Apr 2026 00:09:53 +0530",
-    "link": "https://www.ndtv.com/india-news/4-cops-suspended-for-chaos-during-suvendu-adhikaris-nomination-filing-11312274#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/yamuna-clean-up-goes-high-tech-delhi-to-deploy-multitasking-harvesters-11312142#publisher=newsstand",
-    "category": "india",
-    "title": "Yamuna Clean-Up Goes High-Tech, Delhi Deploys Multitasking 'Harvesters'",
-    "summary": "The machines have been procured at a cost of Rs 2.9 crore and are ready for use.",
-    "image": "https://c.ndtvimg.com/2026-04/60av886o_yamuna-cleanup_625x300_04_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 05 Apr 2026 00:09:20 +0530",
-    "link": "https://www.ndtv.com/india-news/yamuna-clean-up-goes-high-tech-delhi-to-deploy-multitasking-harvesters-11312142#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/israel-preparing-attack-on-iranian-energy-sites-awaits-us-approval-report-11312266#publisher=newsstand",
-    "category": "india",
-    "title": "Israel Preparing Attack On Iranian Energy Sites, Awaits US Approval: Report",
-    "summary": "Israel said that any such attacks would likely come within the next week.",
-    "image": "https://c.ndtvimg.com/2026-03/lpm2sde_tehran_625x300_09_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 05 Apr 2026 00:08:06 +0530",
-    "link": "https://www.ndtv.com/world-news/israel-preparing-attack-on-iranian-energy-sites-awaits-us-approval-report-11312266#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-most-lethal-long-range-missiles-are-now-positioned-for-an-iran-strike-11312254#publisher=newsstand",
-    "category": "india",
-    "title": "US' Most Lethal Long-Range Missiles Are Now Positioned For An Iran Strike",
-    "summary": "Minuteman III or \"Doomsday missile\" is a nuclear-capable missile",
-    "image": "https://c.ndtvimg.com/2026-03/tjrf0f08_minutemaniii_625x300_05_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 05 Apr 2026 00:07:24 +0530",
-    "link": "https://www.ndtv.com/world-news/us-most-lethal-long-range-missiles-are-now-positioned-for-an-iran-strike-11312254#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1530531.html",
+    "category": "sports",
+    "title": "Three BCB directors resign in one evening amid ongoing turmoil",
+    "summary": "Faiazur Rahman, Shanian Taneem and Mehrab Alam Chowdhury step down from their positions after marathon BCB meeting on Saturday",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/369100/369153.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 05 Apr 2026 02:45:21 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530531.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cje47vy0w3ko#1",
@@ -110,34 +190,14 @@
     "link": "https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/heat-storms-and-ballot-indias-april-elections-face-a-new-climate-reality-11312219#publisher=newsstand",
-    "category": "india",
-    "title": "Heat, Storms And Ballot: India's April Elections Face A New Climate Reality",
-    "summary": "India's election authorities have begun adjusting to this new reality",
-    "image": "https://c.ndtvimg.com/2024-04/j20lmuqg_voting-generic_625x300_25_April_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 04 Apr 2026 23:46:55 +0530",
-    "link": "https://www.ndtv.com/india-news/heat-storms-and-ballot-indias-april-elections-face-a-new-climate-reality-11312219#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/deviations-then-silence-what-happened-before-jharkhand-air-ambulance-crash-11312082#publisher=newsstand",
-    "category": "india",
-    "title": "Deviations, Then Silence: What Happened Before Jharkhand Air Ambulance Crash",
-    "summary": "The aircraft was completely destroyed, with debris scattered over a one-kilometre area.",
-    "image": "https://c.ndtvimg.com/2026-02/jddqohmk_jharkhand-_160x120_25_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 04 Apr 2026 23:45:47 +0530",
-    "link": "https://www.ndtv.com/india-news/deviations-then-silence-what-happened-before-jharkhand-air-ambulance-crash-11312082#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/mayabunder-andaman-floats-werent-armed-weather-inputs-missing-pawan-hans-chopper-crash-probe-11312198#publisher=newsstand",
-    "category": "india",
-    "title": "Floats Weren't Armed, Weather Inputs Missing: Pawan Hans Chopper Crash Probe",
-    "summary": "Investigators have found no evidence of any technical malfunction prior to the flight.",
-    "image": "https://c.ndtvimg.com/2026-02/dfi5fo64_pawan-hans-helicopter-crash_625x300_24_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 04 Apr 2026 23:43:12 +0530",
-    "link": "https://www.ndtv.com/india-news/mayabunder-andaman-floats-werent-armed-weather-inputs-missing-pawan-hans-chopper-crash-probe-11312198#publisher=newsstand"
+    "id": "https://www.bbc.com/sport/football/articles/cvg0350nlwzo#0",
+    "category": "global",
+    "title": "Is season running away from frazzled Arsenal?",
+    "summary": "Arsenal must regroup after their hopes of a quadruple were wrecked in two weeks by successive defeats for the first time this season.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 04 Apr 2026 23:32:08 GMT",
+    "link": "https://www.bbc.com/sport/football/articles/cvg0350nlwzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c5yj97yd6v5o#0",
@@ -158,16 +218,6 @@
     "source": "BBC",
     "pubDate": "Sat, 04 Apr 2026 23:01:44 GMT",
     "link": "https://www.bbc.com/news/articles/cr71vne5k70o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5y90jl8veyo#0",
-    "category": "global",
-    "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
-    "summary": "Iran rejected Donald Trump's ultimatum for a deal to re-open the Strait of Hormuz whose closure has led to a spike in oil prices.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 04 Apr 2026 22:54:06 GMT",
-    "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c93edxr57d0o#0",
@@ -198,16 +248,6 @@
     "source": "Cricinfo",
     "pubDate": "Sat, 04 Apr 2026 19:58:57 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1530459.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530523.html",
-    "category": "sports",
-    "title": "Bishnoi: Worked on 'perfecting my lengths' after difficult 2025",
-    "summary": "Bishnoi, who finished with 4 for 41 against GT and earned the Player-of-the-Match award, credited his turnaround to work on the \"physical, technical and mental aspects\" of his game",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415285.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 04 Apr 2026 19:57:52 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530523.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530521.html",
@@ -248,26 +288,6 @@
     "source": "Cricinfo",
     "pubDate": "Sat, 04 Apr 2026 18:35:05 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1530516.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530461.html",
-    "category": "sports",
-    "title": "Durham seamers take charge on rain-affected day",
-    "summary": "Kent face stiff fourth-innings task after conceding overnight deficit of 221",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415279.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 04 Apr 2026 18:12:58 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530461.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530462.html",
-    "category": "sports",
-    "title": "Ingram back to the grind as Glamorgan show fight",
-    "summary": "Solid contributions from Kellaway, Cook, Crane and van der Gugten see hosts recover from 28 for 4",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415286.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 04 Apr 2026 18:12:57 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530462.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/au-small-finance-bank-q4-business-update-deposits-up-23-at-rs-1-52-lakh-crore-advances-rise-25/articleshow/130016671.cms",
@@ -328,26 +348,6 @@
     "source": "ET",
     "pubDate": "Sat, 04 Apr 2026 12:31:26 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-evolution-decoded-ace-investor-vijay-kedia-explains-it-with-a-simple-house-building-analogy/articleshow/130014840.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/midcap-mayhem-10-stocks-that-plunged-up-to-29-in-march-how-many-do-you-own/slideshow/130014658.cms",
-    "category": "finance",
-    "title": "Midcap mayhem! 10 stocks that plunged up to 29% in March. How many do you own?",
-    "summary": "Midcap stocks saw sharp declines in March as rising crude prices, geopolitical tensions and continued FII outflows dragged markets lower, with the Nifty falling over 11%. This list highlights 10 worst-performing midcaps, with losses of up to 29%, ref",
-    "image": "https://img.etimg.com/photo/msid-130014555,imgsize-28128.cms",
-    "source": "ET",
-    "pubDate": "Sat, 04 Apr 2026 12:08:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/midcap-mayhem-10-stocks-that-plunged-up-to-29-in-march-how-many-do-you-own/slideshow/130014658.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-67k-as-crypto-markets-stay-muted-volatility-seen-rising-ahead/articleshow/130014542.cms",
-    "category": "finance",
-    "title": "Bitcoin holds near $67K as crypto markets stay muted; volatility seen rising ahead",
-    "summary": "Bitcoin hovered near the $67,000 mark on Saturday as crypto markets stayed muted, with traders awaiting a potential volatility spike. While BTC and ETH moved sideways, analysts flagged tightening ranges and bottoming implied volatility. Key levels re",
-    "image": "https://img.etimg.com/photo/msid-130014542,imgsize-1652344.cms",
-    "source": "ET",
-    "pubDate": "Sat, 04 Apr 2026 12:07:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-67k-as-crypto-markets-stay-muted-volatility-seen-rising-ahead/articleshow/130014542.cms"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
