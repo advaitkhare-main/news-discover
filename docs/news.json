@@ -90,16 +90,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530640.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cp86942yj97o#0",
-    "category": "global",
-    "title": "Pepsi withdraws as UK festival sponsor after Kanye West backlash",
-    "summary": "Sir Keir Starmer says it is \"deeply concerning\" the rapper is set to headline a festival after recent antisemitic comments.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 05 Apr 2026 19:58:17 GMT",
-    "link": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -120,6 +110,86 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
+    "id": "https://www.ndtv.com/india-news/car-breaks-barrier-enters-delhi-assembly-ink-thrown-at-speakers-vehicle-11317676#publisher=newsstand",
+    "category": "india",
+    "title": "Masked Man In Car Breaks Barrier At Delhi Assembly In Massive Breach, Flees",
+    "summary": "The car entered the Delhi Assembly premises breaking through Gate No 2 at around 2 pm",
+    "image": "https://c.ndtvimg.com/2026-04/c71dtj6_delhi-assembly-security-breach_650x400_06_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 16:29:15 +0530",
+    "link": "https://www.ndtv.com/india-news/car-breaks-barrier-enters-delhi-assembly-ink-thrown-at-speakers-vehicle-11317676#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/mamata-banerjee-pahalgam-bengal-election-2026-another-pahalgam-before-polls-mamata-banerjees-shocker-bjps-response-11318029#publisher=newsstand",
+    "category": "india",
+    "title": "'Another Pahalgam Before Polls?' Mamata Banerjee's Shocker, BJP's Response",
+    "summary": "Mamata Banerjee made a shocking remark on Pahalgam attack at a poll rally",
+    "image": "https://c.ndtvimg.com/2026-04/gb8fbd08_mamata-banerjee_625x300_06_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 16:29:01 +0530",
+    "link": "https://www.ndtv.com/india-news/mamata-banerjee-pahalgam-bengal-election-2026-another-pahalgam-before-polls-mamata-banerjees-shocker-bjps-response-11318029#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/us-israel-iran-war-the-quiet-coup-within-us-military-over-the-iran-war-11317917#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion | Is An 'Iran' Rift Brewing Between Trump And His Military? Hints From 2003",
+    "summary": "General Randy George's ouster carries echoes of Defence Secretary Donald Rumsfeld sidelining General Eric Shinseki after disagreements over troop requirements for the Iraq war.",
+    "image": "https://c.ndtvimg.com/2026-04/ibfj2748_trump-george_625x300_03_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 16:20:48 +0530",
+    "link": "https://www.ndtv.com/opinion/us-israel-iran-war-the-quiet-coup-within-us-military-over-the-iran-war-11317917#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-little-changed-hemmed-in-by-position-unwinding-importer-hedging/articleshow/130058387.cms",
+    "category": "finance",
+    "title": "Rupee ends little changed, hemmed in by position unwinding, importer hedging",
+    "summary": "The Indian rupee closed nearly unchanged on Monday, wedged between \u200bdollar sales spurred by the \u200bunwinding of arbitrage positions and importers' hedging demand amid swirling \u200brisks from the Iran war.",
+    "image": "https://img.etimg.com/photo/msid-130058387,imgsize-47754.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 16:15:24 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-little-changed-hemmed-in-by-position-unwinding-importer-hedging/articleshow/130058387.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/food/1400-kg-fake-paneer-made-with-chemicals-rs-28-lakh-goods-seized-as-massive-racket-busted-in-surat-11317902#publisher=newsstand",
+    "category": "india",
+    "title": "1400 Kg Fake Paneer Made With Chemicals, Rs 28 Lakh Goods Seized As Massive Racket Busted In Surat",
+    "summary": "1,400 kg of toxic paneer confiscated.",
+    "image": "https://c.ndtvimg.com/2026-04/ulm6p6uc_paneer_625x300_06_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 16:09:48 +0530",
+    "link": "https://www.ndtv.com/food/1400-kg-fake-paneer-made-with-chemicals-rs-28-lakh-goods-seized-as-massive-racket-busted-in-surat-11317902#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-iran-war-escalation-trap-donald-trump-middle-east-news-middle-east-war-latest-strait-of-hormuz-news-11317552#publisher=newsstand",
+    "category": "india",
+    "title": "How Iran Sucker-Punched Trump Into 'Escalation Trap' 'Hellhole'",
+    "summary": "US President Donald Trump (File).",
+    "image": "https://c.ndtvimg.com/2026-04/73cdgth8_donald-trump-photo-appti_625x300_06_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 15:56:04 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-escalation-trap-donald-trump-middle-east-news-middle-east-war-latest-strait-of-hormuz-news-11317552#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/ssc-junior-engineer-tier-2-exam-2026-admit-card-out-download-link-here-11317796#publisher=newsstand",
+    "category": "india",
+    "title": "SSC Junior Engineer Tier 2 Exam 2026: Admit Card Out, Download Link Here",
+    "summary": "SSC Junior Engineer Tier 2 Admit Card Out, Here's The Direct Link",
+    "image": "https://c.ndtvimg.com/2025-12/vhkkeg1o_ssc-cgl-tier1-result-2025-date_625x300_13_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 15:52:30 +0530",
+    "link": "https://www.ndtv.com/education/ssc-junior-engineer-tier-2-exam-2026-admit-card-out-download-link-here-11317796#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/in-setback-to-vedanta-supreme-court-refuses-to-interfere-with-order-allowing-adani-to-acquire-jaiprakash-associates-ltd-11317830#publisher=newsstand",
+    "category": "india",
+    "title": "In Setback To Vedanta, Top Court Refuses To Interfere With Order Allowing Adani To Acquire JAL",
+    "summary": "Vedanta had approached the court seeking a stay on Adani Enterprises' Rs 14,500-crore resolution plan.",
+    "image": "https://c.ndtvimg.com/2023-07/4qgfvaco_supreme-court-new_625x300_11_July_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 15:50:09 +0530",
+    "link": "https://www.ndtv.com/india-news/in-setback-to-vedanta-supreme-court-refuses-to-interfere-with-order-allowing-adani-to-acquire-jaiprakash-associates-ltd-11317830#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/intense-quick-commerce-competition-ahead-ubs-cuts-eternal-swiggys-target-prices-but-sees-attractive-valuations/articleshow/130057722.cms",
     "category": "finance",
     "title": "Intense quick commerce competition ahead? UBS cuts Eternal, Swiggy\u2019s target prices but sees attractive valuations",
@@ -130,9 +200,19 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/intense-quick-commerce-competition-ahead-ubs-cuts-eternal-swiggys-target-prices-but-sees-attractive-valuations/articleshow/130057722.cms"
   },
   {
+    "id": "https://www.ndtv.com/education/cbse-board-result-live-cbse-board-10th-12th-results-2026-date-and-time-direct-link-official-websites-and-2nd-phase-exam-datesheet-live-updates-11305838#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE 10th, 12th Results 2026 Date And Time Live: Class 10 Result Soon, Check Details",
+    "summary": "CBSE Class 10, 12 Results 2026 Date and Time Live Updates: The Class 10 result will be announced soon.",
+    "image": "https://c.ndtvimg.com/2026-04/eao2nlns_cbse-10th-12th-results-2026-_625x300_03_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 15:44:04 +0530",
+    "link": "https://www.ndtv.com/education/cbse-board-result-live-cbse-board-10th-12th-results-2026-date-and-time-direct-link-official-websites-and-2nd-phase-exam-datesheet-live-updates-11305838#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/uae-based-valura-ai-makes-india-debut-with-a-rs-3000-crore-pipeline/articleshow/130057573.cms",
     "category": "finance",
-    "title": "UAE-based Valura.ai makes India debut with a Rs 3,000 crore pipeline",
+    "title": "UAE-based Valura.ai makes India debut with a Rs 3,000 crore AUM pipeline",
     "summary": "AI-native platform Valura.ai has onboarded over 1,000 wealth advisors across India ahead of its launch, creating a Rs 3,000 crore AUM pipeline. The platform offers multi-asset global investing with AI-driven research, local custody under IFSCA, and c",
     "image": "https://img.etimg.com/photo/msid-130057573,imgsize-3312.cms",
     "source": "ET",
@@ -150,66 +230,6 @@
     "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-and-ethereum-outperform-gold-and-equities-in-march-report/articleshow/130057393.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/car-breaks-barrier-enters-delhi-assembly-ink-thrown-at-speakers-vehicle-11317676#publisher=newsstand",
-    "category": "india",
-    "title": "Car Breaks Barrier, Enters Delhi Assembly. Ink Thrown At Speaker's Vehicle",
-    "summary": "Car Breaks Barrier, Enters Delhi Assembly. Ink Thrown At Speaker's Vehicle",
-    "image": "https://c.ndtvimg.com/2026-04/c71dtj6_delhi-assembly-security-breach_650x400_06_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 15:31:47 +0530",
-    "link": "https://www.ndtv.com/india-news/car-breaks-barrier-enters-delhi-assembly-ink-thrown-at-speakers-vehicle-11317676#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/study-finds-rising-cancer-rates-especially-after-breast-cancer-treatment-11317437#publisher=newsstand",
-    "category": "india",
-    "title": "Therapy-Linked Blood Cancer Rising In Japan After Breast Cancer Treatment, Study Warns",
-    "summary": "Image for representation purposes only",
-    "image": "https://c.ndtvimg.com/2026-04/5b8n1jec_japan-study-on-blood-cancer_625x300_06_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 15:27:14 +0530",
-    "link": "https://www.ndtv.com/health/study-finds-rising-cancer-rates-especially-after-breast-cancer-treatment-11317437#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/30-years-before-iran-op-us-pilot-scott-ogrady-survived-behind-enemy-lines-for-days-in-bosnia-11317409#publisher=newsstand",
-    "category": "india",
-    "title": "30 Years Before Iran Op, A Pilot Who Survived Behind Enemy Lines For Days",
-    "summary": "In 1995, US pilot Scott O'Grady survived for six days after his F-16 was shot down over Bosnia",
-    "image": "https://c.ndtvimg.com/2026-04/dao6tro4_scott-ogrady-_625x300_06_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 15:26:52 +0530",
-    "link": "https://www.ndtv.com/world-news/30-years-before-iran-op-us-pilot-scott-ogrady-survived-behind-enemy-lines-for-days-in-bosnia-11317409#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/uddhav-thackeray-congress-sanjay-raut-sena-ubt-how-bypoll-in-ajit-pawars-bastion-has-widened-cracks-in-opposition-bloc-11317505#publisher=newsstand",
-    "category": "india",
-    "title": "Team Uddhav's \"Maturity\" Dig And 2022 Reminder, Congress's Shayari Reply",
-    "summary": "The Congress and Shiv Sena (UBT) are trading barbs in Maharashtra",
-    "image": "https://c.ndtvimg.com/2023-09/qi63326o_rahul-gandhi-uddhav-thackeray-ani_625x300_01_September_23.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 15:25:12 +0530",
-    "link": "https://www.ndtv.com/india-news/uddhav-thackeray-congress-sanjay-raut-sena-ubt-how-bypoll-in-ajit-pawars-bastion-has-widened-cracks-in-opposition-bloc-11317505#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/sensex-today-stock-market-share-market-nifty-live-updates-today-6-april-rbi-mpc-repo-rate-iran-war-donald-trump-11316136#publisher=newsstand",
-    "category": "india",
-    "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 700 Points On Possibility Of US-Iran Deal",
-    "summary": "Stock Market Today Live News Updates: Markets trade in green.",
-    "image": "https://c.ndtvimg.com/2026-04/i81n8koc_share-market-closing_625x300_01_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 15:21:50 +0530",
-    "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-share-market-nifty-live-updates-today-6-april-rbi-mpc-repo-rate-iran-war-donald-trump-11316136#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/24-36-hour-shifts-are-burning-out-indian-doctors-5-key-systemic-problems-indias-medical-providers-face-11317317#publisher=newsstand",
-    "category": "india",
-    "title": "24-36 Hour Shifts Are Burning Out Indian Doctors: 5 Key Systemic Problems India's Medical Providers Face",
-    "summary": "24-36 Hour Shifts Burning Out Indian Doctors",
-    "image": "https://c.ndtvimg.com/2026-04/0o5a4oco_2436-hour-shifts-burning-out-indian-doctors_625x300_06_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 15:20:34 +0530",
-    "link": "https://www.ndtv.com/health/24-36-hour-shifts-are-burning-out-indian-doctors-5-key-systemic-problems-indias-medical-providers-face-11317317#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/nifty-is-oversold-and-holding-support-angel-ones-rajesh-bhosale-flags-2-stocks-to-buy-right-now/articleshow/130057165.cms",
     "category": "finance",
     "title": "Nifty is oversold and holding support; Angel One's Rajesh Bhosale flags 2 stocks to buy right now",
@@ -218,26 +238,6 @@
     "source": "ET",
     "pubDate": "Mon, 06 Apr 2026 15:19:09 +0530",
     "link": "https://economictimes.indiatimes.com/markets/expert-view/nifty-is-oversold-and-holding-support-angel-ones-rajesh-bhosale-flags-2-stocks-to-buy-right-now/articleshow/130057165.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/bengal-sir-hearing-live-supreme-court-to-hear-pleas-on-sir-of-bengal-electoral-rolls-assembly-elections-arvind-kejriwal-excise-policy-scam-high-court-11316609#publisher=newsstand",
-    "category": "india",
-    "title": "Bengal SIR Hearing Live: Supreme Court To Hear Pleas On SIR Of Bengal Electoral Rolls",
-    "summary": "Bengal SIR Hearing Live Updates: The Special Intensive Revision (SIR) of electoral rolls has become the most prominent issue ahead of the upcoming West Bengal Assembly elections.",
-    "image": "https://c.ndtvimg.com/2026-04/kkq61oh_bengal_625x300_06_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 15:18:31 +0530",
-    "link": "https://www.ndtv.com/india-news/bengal-sir-hearing-live-supreme-court-to-hear-pleas-on-sir-of-bengal-electoral-rolls-assembly-elections-arvind-kejriwal-excise-policy-scam-high-court-11316609#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-news-half-a-billion-dollars-the-likely-cost-of-f-15-crash-and-daring-rescue-op-11317632#publisher=newsstand",
-    "category": "india",
-    "title": "Half A Billion Dollars: The Likely Cost Of F-15 Crash And Daring Rescue Op",
-    "summary": "The F-15E downed by the Iranians roughly costs $100 million.",
-    "image": "https://c.ndtvimg.com/2026-04/fmu5nl0c_us-pilot-rescue-_625x300_05_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 15:18:23 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-news-half-a-billion-dollars-the-likely-cost-of-f-15-crash-and-daring-rescue-op-11317632#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-radar-sell-gold-on-rise-4-technical-triggers-to-support-the-trade/articleshow/130056556.cms",
@@ -270,14 +270,14 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-rises-as-traders-brush-off-trumps-iran-threat-focus-on-potential-deal/articleshow/130055850.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-riing-today-rs-3-lakh-crore-added-sensex-jumps-500-pts-nifty-near-22900-iran-us-ceasefire-framework-3-other-factors-behind-d-st-rally/articleshow/130055571.cms",
-    "category": "finance",
-    "title": "Rs 5 lakh crore gains! Sensex soars 787 pts, Nifty reclaims 22,950; Iran-US ceasefire framework, 3 other factors behind ",
-    "summary": "Indian stock markets staged a remarkable recovery, erasing morning losses to turn positive by afternoon. This surge was primarily fueled by media reports of a Pakistan-brokered Iran-US ceasefire framework, significantly boosting investor confidence. ",
-    "image": "https://img.etimg.com/photo/msid-130055571,imgsize-92166.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 14:06:38 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-riing-today-rs-3-lakh-crore-added-sensex-jumps-500-pts-nifty-near-22900-iran-us-ceasefire-framework-3-other-factors-behind-d-st-rally/articleshow/130055571.cms"
+    "id": "https://www.bbc.com/news/articles/cwywnkdn3zno#0",
+    "category": "global",
+    "title": "Pressure mounts over UK festival's Kanye West booking",
+    "summary": "Jewish groups and MPs call on the London festival to cancel the controversial rapper's headline booking.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 06 Apr 2026 11:10:02 GMT",
+    "link": "https://www.bbc.com/news/articles/cwywnkdn3zno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c04xqglg7xgo#0",
