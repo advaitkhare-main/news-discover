@@ -30,17 +30,7 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cj0vyzmmy50o#0",
-    "category": "global",
-    "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
-    "summary": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 05 Apr 2026 23:02:53 GMT",
-    "link": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn085pdly86o#0",
+    "id": "https://www.bbc.com/news/articles/cn085pdly86o#1",
     "category": "global",
     "title": "Benefits and pensions rise as two-child cap ends",
     "summary": "Families on some benefits with three or more children will get an average rise of \u00a34,100 a year.",
@@ -68,6 +58,106 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 12 Jan 2026 11:30:00 GMT",
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/tamil-nadu-custodial-deaths-4-days-to-death-6-years-to-justice-inside-the-tamil-nadu-custodial-killings-11319793#publisher=newsstand",
+    "category": "india",
+    "title": "4 Days To Death, 6 Years To Justice: Inside The Tamil Nadu Custodial Killings",
+    "summary": "The verdict marks more than five years of proceedings.",
+    "image": "https://c.ndtvimg.com/2026-04/gtqpb77s_tamil-nadu-custodial-deaths-_625x300_06_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 22:18:39 +0530",
+    "link": "https://www.ndtv.com/india-news/tamil-nadu-custodial-deaths-4-days-to-death-6-years-to-justice-inside-the-tamil-nadu-custodial-killings-11319793#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/gyanesh-kumar-opposition-notice-on-motion-to-remove-poll-body-chief-rejected-in-parliament-11319782#publisher=newsstand",
+    "category": "india",
+    "title": "Opposition Notice On Motion To Remove Poll Body Chief Rejected In Parliament",
+    "summary": "The opposition had submitted notices against the CEC.",
+    "image": "https://c.ndtvimg.com/2025-08/a06eah4_gyanesh-kumar_625x300_22_August_25.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 22:15:24 +0530",
+    "link": "https://www.ndtv.com/india-news/gyanesh-kumar-opposition-notice-on-motion-to-remove-poll-body-chief-rejected-in-parliament-11319782#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-considering-large-scale-training-push-for-independent-directors-to-boost-corporate-governance-tuhin-kanta-pandey/articleshow/130066352.cms",
+    "category": "finance",
+    "title": "Sebi considering large-scale training push for independent directors to boost corporate governance: Tuhin Kanta Pandey",
+    "summary": "Sebi is planning a large-scale capacity-building initiative for independent directors to strengthen corporate governance, Chairman Tuhin Kanta Pandey said. The move signals a shift from rule-making to improving boardroom effectiveness, with focus on ",
+    "image": "https://img.etimg.com/photo/msid-130066352,imgsize-198784.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 22:12:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-considering-large-scale-training-push-for-independent-directors-to-boost-corporate-governance-tuhin-kanta-pandey/articleshow/130066352.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/update-1-ny-fed-says-march-supply-chain-pressures-highest-since-start-of-2023/articleshow/130066269.cms",
+    "category": "finance",
+    "title": "NY Fed says March supply chain pressures highest since start of 2023",
+    "summary": "In March, supply chain pressures surged to levels unseen since earlier this year, largely due to the ongoing conflict in the Middle East. This escalation could further drive up inflation, creating hurdles for the Federal Reserve's price stabilization",
+    "image": "https://img.etimg.com/photo/msid-130066269,imgsize-165762.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 22:11:45 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/update-1-ny-fed-says-march-supply-chain-pressures-highest-since-start-of-2023/articleshow/130066269.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/your-birth-weight-may-play-a-role-in-your-stroke-risk-than-your-current-adult-weight-says-new-study-11319692#publisher=newsstand",
+    "category": "india",
+    "title": "Your Birth Weight May Play A Role In Your Stroke Risk Than Your Current Adult Weight, Says New Study",
+    "summary": "People whose birth weight was below the median of 3.5 kg had about a 21% higher risk of all stroke events combined, including both ischaemic (blocked vessel) strokes and intracerebral haemorrhagic (bleeding) strokes.",
+    "image": "https://c.ndtvimg.com/2026-04/5c69i9qg_newborn-baby_625x300_02_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 22:06:56 +0530",
+    "link": "https://www.ndtv.com/health/your-birth-weight-may-play-a-role-in-your-stroke-risk-than-your-current-adult-weight-says-new-study-11319692#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/delhi-awaits-big-traffic-relief-as-pragati-maidan-underpass-back-on-track-11319749#publisher=newsstand",
+    "category": "india",
+    "title": "Delhi Awaits Big Traffic Relief As Pragati Maidan Underpass Back On Track",
+    "summary": "The underpass is the last missing link in the Pragati Maidan corridor (File)",
+    "image": "https://c.ndtvimg.com/2020-05/h7qs88s8_delhi-ito-traffic-ani_625x300_19_May_20.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 22:06:02 +0530",
+    "link": "https://www.ndtv.com/india-news/delhi-awaits-big-traffic-relief-as-pragati-maidan-underpass-back-on-track-11319749#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-iran-war-f-15-pilot-rescue-bid-or-uranium-heist-irans-big-claim-on-daring-us-op-to-save-airman-11319747#publisher=newsstand",
+    "category": "india",
+    "title": "Rescue Bid Or Uranium Heist? Iran's Big Claim On Daring US Op To Save Airman",
+    "summary": "On April 3, an F-15E Strike Eagle was downed over southwestern Iran.",
+    "image": "https://c.ndtvimg.com/2026-04/ulvt9tk8_iran-uranium-heist-pea_625x300_06_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 22:05:55 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-f-15-pilot-rescue-bid-or-uranium-heist-irans-big-claim-on-daring-us-op-to-save-airman-11319747#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/delhi-ews-lottery-2026-48-000-seats-open-in-private-schools-11319715#publisher=newsstand",
+    "category": "india",
+    "title": "Delhi EWS Lottery 2026: 48,000 Seats Open In Private Schools",
+    "summary": "Families participate in digital draw for admissions.",
+    "image": "https://c.ndtvimg.com/2026-04/dgk7ate4_delhi-ews-lottery-2026_625x300_06_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 21:58:09 +0530",
+    "link": "https://www.ndtv.com/education/delhi-ews-lottery-2026-48-000-seats-open-in-private-schools-11319715#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/iim-calcutta-with-50-of-rs-80-lakh-package-as-kidnapping-insurance-african-firm-shocks-internet-11319672#publisher=newsstand",
+    "category": "india",
+    "title": "With 50% Of Rs 80 Lakh Package As 'Kidnapping Insurance', African Firm Shocks Internet",
+    "summary": "The online users called it \"bizarre\".",
+    "image": "https://c.ndtvimg.com/2026-04/mbbiplp_office-setup_625x300_06_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 21:47:23 +0530",
+    "link": "https://www.ndtv.com/offbeat/iim-calcutta-with-50-of-rs-80-lakh-package-as-kidnapping-insurance-african-firm-shocks-internet-11319672#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/amit-jogi-sentenced-to-life-in-2003-ramavatar-jaggi-murder-case-11319640#publisher=newsstand",
+    "category": "india",
+    "title": "Ex-Chhattisgarh Chief Minister Ajit Jogi's Son Gets Life Term In 2003 Murder Case",
+    "summary": "The CBI alleged a larger criminal conspiracy involving Amit Jogi and others",
+    "image": "https://c.ndtvimg.com/2023-10/g3bunmb_amit-jogi_625x300_22_October_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 21:45:37 +0530",
+    "link": "https://www.ndtv.com/india-news/amit-jogi-sentenced-to-life-in-2003-ramavatar-jaggi-murder-case-11319640#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/new-jersey-cannot-regulate-kalshis-prediction-market-us-appeals-court-rules/articleshow/130065838.cms",
@@ -130,104 +220,54 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/iran-rejects-ceasefire-as-deadline-nears-on-trump-hell-ultimatum/articleshow/130065024.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-israel-us-war-latest-news-iran-rejects-us-ceasefire-proposal-lists-demands-in-10-point-plan-11319376#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Rejects US Ceasefire Proposal, Lists Demands In 10-Point Plan",
-    "summary": "The response includes demands for an end to all conflicts in the region.",
-    "image": "https://c.ndtvimg.com/2026-03/tv1i6fuc_trump-khamenei-afp_625x300_13_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 20:46:23 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-israel-us-war-latest-news-iran-rejects-us-ceasefire-proposal-lists-demands-in-10-point-plan-11319376#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1530747.html",
+    "category": "sports",
+    "title": "Tawanda Muyeye weathers Durham storm with defiant hundred",
+    "summary": "Kent batter (and Storm Dave) prevent hosts from converting their dominance into a win",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/398700/398782.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 06 Apr 2026 17:32:01 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530747.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/india-news/2-scorpio-suvs-ram-each-other-in-gurugram-road-rage-video-goes-viral-11319345#publisher=newsstand",
-    "category": "india",
-    "title": "2 Scorpio SUVs Ram Each Other In Gurugram, Road Rage Video Goes Viral",
-    "summary": "The cause of the altercation remains unclear.",
-    "image": "https://c.ndtvimg.com/2026-04/rm3ih5tk_scorpio-crash-gurgaon_625x300_06_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 20:42:26 +0530",
-    "link": "https://www.ndtv.com/india-news/2-scorpio-suvs-ram-each-other-in-gurugram-road-rage-video-goes-viral-11319345#publisher=newsstand"
+    "id": "https://www.bbc.com/weather/articles/cn7866klrp2o#1",
+    "category": "global",
+    "title": "Warmest weather of the year expected with 24C this week",
+    "summary": "The warmest weather of the year is expected on Tuesday and Wednesday as temperatures rise above average, as Simon King explains",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 06 Apr 2026 17:03:44 GMT",
+    "link": "https://www.bbc.com/weather/articles/cn7866klrp2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/rbi-keeps-investment-limit-for-fpis-in-g-secs-unchanged-for-fy27/articleshow/130064656.cms",
-    "category": "finance",
-    "title": "RBI keeps investment limit for FPIs in G-secs unchanged for FY27",
-    "summary": "The Reserve Bank on Monday said the investment limit for foreign portfolio investors in government securities through the general route will remain unchanged at 6 per cent of the outstanding stocks of securities for 2026-27.",
-    "image": "https://img.etimg.com/photo/msid-130064656,imgsize-87662.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 20:41:08 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-keeps-investment-limit-for-fpis-in-g-secs-unchanged-for-fy27/articleshow/130064656.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1530741.html",
+    "category": "sports",
+    "title": "Nottinghamshire bat away Somerset to take draw",
+    "summary": "Batters hold firm to leave Taunton unscathed to start title defense",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415359.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 06 Apr 2026 16:55:20 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530741.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/india-news/never-outshine-the-master-raghav-chadhas-cryptic-post-amid-aap-row-11318042#publisher=newsstand",
-    "category": "india",
-    "title": "\"Never Outshine The Master\": Raghav Chadha's Cryptic Post Amid AAP Row",
-    "summary": "\"Somebody gifted me a book this week. Funny how timing works,\" he wrote in the caption.",
-    "image": "https://c.ndtvimg.com/2026-04/noetkd24_raghav-chadha_625x300_06_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 20:35:59 +0530",
-    "link": "https://www.ndtv.com/india-news/never-outshine-the-master-raghav-chadhas-cryptic-post-amid-aap-row-11318042#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1530750.html",
+    "category": "sports",
+    "title": "Hasaranga, Pathirana yet to undergo SLC-mandated fitness tests",
+    "summary": "They picked up injuries during the World Cup, and need to clear the tests to get NOCs for IPL 2026",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/412500/412506.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 06 Apr 2026 16:53:11 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530750.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-adani-green-rbl-bank-and-3-more-stocks-on-tuesday-for-gains-up-to-8/slideshow/130064637.cms",
-    "category": "finance",
-    "title": "Market Trading Guide: Buy Adani Green, RBL Bank and 3 more stocks on Tuesday for gains up to 8%",
-    "summary": "Nifty extended its winning streak, forming a bullish pattern with improving sentiment. Analysts see upside toward 23,400 levels, supported by RSI strength. Experts recommend stocks like Granules India, Bank of Baroda, and Adani Green, citing breakout",
-    "image": "https://img.etimg.com/photo/msid-130064502,imgsize-96642.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 20:29:34 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-adani-green-rbl-bank-and-3-more-stocks-on-tuesday-for-gains-up-to-8/slideshow/130064637.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/middle-east-war-tiger-poached-carcass-buried-a-sensational-claim-follows-23-days-later-11319098#publisher=newsstand",
-    "category": "india",
-    "title": "Tiger Poached, Carcass Buried. A 'Gulf War' Claim Follows 23 Days Later",
-    "summary": "For 23 days, there was no on-ground verification.",
-    "image": "https://c.ndtvimg.com/2019-01/n1sa6vso_tiger-generic_625x300_05_January_19.jpg",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 20:25:10 +0530",
-    "link": "https://www.ndtv.com/india-news/middle-east-war-tiger-poached-carcass-buried-a-sensational-claim-follows-23-days-later-11319098#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/these-foods-are-silently-increasing-your-sodium-intake-and-harming-your-hearts-health-11319290#publisher=newsstand",
-    "category": "india",
-    "title": "These Foods Are Silently Increasing Your Sodium Intake And Harming Your Heart's Health",
-    "summary": "High sodium intake can negatively affect your heart's health",
-    "image": "https://c.ndtvimg.com/2024-12/lc9b3jt8_salt_650x400_03_December_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 20:24:53 +0530",
-    "link": "https://www.ndtv.com/health/these-foods-are-silently-increasing-your-sodium-intake-and-harming-your-hearts-health-11319290#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/rajasthan-teacher-attempts-to-extort-rs-1-4-crore-from-2-businessmen-arrested-11319188#publisher=newsstand",
-    "category": "india",
-    "title": "Rajasthan Teacher Attempts To Extort Rs 1.4 Crore From 2 Businessmen, Arrested",
-    "summary": "The motorcycle used in the crime has also been seized.",
-    "image": "https://c.ndtvimg.com/2025-05/en2fs4vk_rajasthan-police-generic-image_625x300_04_May_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 20:18:56 +0530",
-    "link": "https://www.ndtv.com/india-news/rajasthan-teacher-attempts-to-extort-rs-1-4-crore-from-2-businessmen-arrested-11319188#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/school-assembly-news-headlines-april-7-top-national-world-business-sports-news-11319258#publisher=newsstand",
-    "category": "india",
-    "title": "School Assembly News Headlines (April 7): Top National, World, Business, Sports News",
-    "summary": "School Assembly News Headlines: Is China Plotting A Coup In Hormuz?",
-    "image": "https://c.ndtvimg.com/2019-05/o5lslqjo_cbse-board-result_625x300_04_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 20:14:48 +0530",
-    "link": "https://www.ndtv.com/education/school-assembly-news-headlines-april-7-top-national-world-business-sports-news-11319258#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/feeling-bloated-this-lymphatic-massage-trend-might-help-11319242#publisher=newsstand",
-    "category": "india",
-    "title": "Feeling Bloated? This Lymphatic Massage Trend Might Help",
-    "summary": "Lymphatic Massage Trend Might Help",
-    "image": "https://c.ndtvimg.com/2026-01/c5asm838_foods-causes-bloating-ang-constipation_625x300_27_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 20:13:34 +0530",
-    "link": "https://www.ndtv.com/health/feeling-bloated-this-lymphatic-massage-trend-might-help-11319242#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/cgqk4en5150o#1",
+    "category": "global",
+    "title": "Tories urge Waitrose to reinstate worker sacked 'after tackling shoplifter'",
+    "summary": "The Waitrose employee says he was dismissed from his job after 17 years for trying to stop a theft of Easter eggs.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 06 Apr 2026 16:37:35 GMT",
+    "link": "https://www.bbc.com/news/articles/cgqk4en5150o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530738.html",
@@ -240,7 +280,7 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530738.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cwywnkdn3zno#0",
+    "id": "https://www.bbc.com/news/articles/cwywnkdn3zno#1",
     "category": "global",
     "title": "Kanye West's right to enter UK under review after festival outcry",
     "summary": "The rapper's appearance in London in July has caused controversy because of his past antisemitic comments.",
@@ -248,16 +288,6 @@
     "source": "BBC",
     "pubDate": "Mon, 06 Apr 2026 16:03:52 GMT",
     "link": "https://www.bbc.com/news/articles/cwywnkdn3zno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/weather/articles/cn7866klrp2o#0",
-    "category": "global",
-    "title": "Warmest weather of the year expected with 24C this week",
-    "summary": "The warmest weather of the year is expected on Tuesday and Wednesday as temperatures rise above average, as Simon King explains",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 06 Apr 2026 15:38:21 GMT",
-    "link": "https://www.bbc.com/weather/articles/cn7866klrp2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530745.html",
@@ -290,7 +320,7 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530740.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c625q951ng3o#0",
+    "id": "https://www.bbc.com/news/articles/c625q951ng3o#1",
     "category": "global",
     "title": "Ban for teacher who told pupils about drunken night",
     "summary": "Natasha Blackmore, 36, met students outside of school and told them of relationships and drunken nights.",
@@ -310,17 +340,7 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530755.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530750.html",
-    "category": "sports",
-    "title": "Hasaranga, Pathirana yet to undergo SLC-mandated fitness tests",
-    "summary": "They picked up injuries during the World Cup, and need to clear the tests to get NOCs for IPL 2026",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/412500/412506.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 06 Apr 2026 13:13:13 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530750.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c04xqglg7xgo#0",
+    "id": "https://www.bbc.com/news/articles/c04xqglg7xgo#1",
     "category": "global",
     "title": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
     "summary": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction.",
@@ -330,7 +350,7 @@
     "link": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cddqm316mvjo#0",
+    "id": "https://www.bbc.com/news/articles/cddqm316mvjo#1",
     "category": "global",
     "title": "Illegal rave shut down as police face 'violent and hostile' crowd",
     "summary": "Dorset Police said the event drew about 2,000 people and more than 100 vehicles.",
@@ -340,17 +360,7 @@
     "link": "https://www.bbc.com/news/articles/cddqm316mvjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530732.html",
-    "category": "sports",
-    "title": "Rizvi leads Orange Cap race at IPL 2026, Bishnoi top of Purple Cap table",
-    "summary": "Here's a look at the Orange Cap and Purple Cap leaderboards at IPL 2026 after the first 11 games of the group stage",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415100/415150.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 06 Apr 2026 08:53:04 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530732.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5y9j02dvq5o#0",
+    "id": "https://www.bbc.com/news/articles/c5y9j02dvq5o#1",
     "category": "global",
     "title": "Don't put off treatment during doctors' strike, NHS tells patients",
     "summary": "The strike comes at the end of the bank holiday weekend and NHS managers fear demand could be \"challenging\".",
@@ -358,16 +368,6 @@
     "source": "BBC",
     "pubDate": "Mon, 06 Apr 2026 08:14:25 GMT",
     "link": "https://www.bbc.com/news/articles/c5y9j02dvq5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530724.html",
-    "category": "sports",
-    "title": "Rayudu: CSK 'just stuck to that bad plan' against RCB",
-    "summary": "RCB \"a team that's making the right decision at the right time,\" Aaron Finch says after their 43-run win over CSK",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415316.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 06 Apr 2026 04:41:13 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530724.html?ex_cid=OTC-RSS"
   },
   {
     "id": "1OII24oTfVYyF45IOoAjy8",
