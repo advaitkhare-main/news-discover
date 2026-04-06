@@ -70,164 +70,174 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
-    "id": "https://www.ndtv.com/india-news/sheer-failure-supreme-court-raps-top-bengal-officer-over-malda-incident-11318517#publisher=newsstand",
-    "category": "india",
-    "title": "'Can't Take High Court Chief Justice's Call?' Top Court Raps Bengal Officer",
-    "summary": "it was \"sheer failure of both you and your administration,\" CJI Surya Kant said.",
-    "image": "https://c.ndtvimg.com/2026-04/ohb5arj_bengal-sir_625x300_02_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 19:52:39 +0530",
-    "link": "https://www.ndtv.com/india-news/sheer-failure-supreme-court-raps-top-bengal-officer-over-malda-incident-11318517#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/israel-iran-war-israel-says-struck-irans-largest-petrochemical-facility-11319128#publisher=newsstand",
-    "category": "india",
-    "title": "Israel Says Struck Iran's Largest Petrochemical Facility",
-    "summary": "\"The situation is currently under control,\" officials said (File)",
-    "image": "https://c.ndtvimg.com/2024-10/nh1vl9go_lebanon_625x300_22_October_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 19:43:21 +0530",
-    "link": "https://www.ndtv.com/world-news/israel-iran-war-israel-says-struck-irans-largest-petrochemical-facility-11319128#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/equirus-appoints-aletheia-capitals-chief-economist-jim-walker-as-its-global-economic-advisor/articleshow/130063479.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/iran-rejects-ceasefire-as-deadline-nears-on-trump-hell-ultimatum/articleshow/130065024.cms",
     "category": "finance",
-    "title": "Equirus appoints Aletheia Capital's Chief Economist Jim Walker as its Global Economic Advisor",
-    "summary": "Equirus Securities has appointed Dr. Jim Walker as Global Economic Advisor, strengthening its partnership with Aletheia Capital. The move enhances macro research capabilities, offering institutional clients deeper insights into global cycles, capital",
-    "image": "https://img.etimg.com/photo/msid-130063479,imgsize-4110.cms",
+    "title": "Iran rejects ceasefire as deadline nears on Trump 'hell' ultimatum",
+    "summary": "Amid rising tensions, the United States and Iran are embarking on discussions to mitigate their enduring hostilities. In a bold stance, Iran has turned down a limited ceasefire, calling for a definitive cessation of all military engagements. Proposed",
+    "image": "https://img.etimg.com/photo/msid-130065024,imgsize-45926.cms",
     "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 19:42:56 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/equirus-appoints-aletheia-capitals-chief-economist-jim-walker-as-its-global-economic-advisor/articleshow/130063479.cms"
+    "pubDate": "Mon, 06 Apr 2026 20:58:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/iran-rejects-ceasefire-as-deadline-nears-on-trump-hell-ultimatum/articleshow/130065024.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/tiger-poached-carcass-buried-a-sensational-claim-follows-23-days-later-11319098#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/iran-israel-us-war-latest-news-iran-rejects-us-ceasefire-proposal-lists-demands-in-10-point-plan-11319376#publisher=newsstand",
     "category": "india",
-    "title": "Tiger Poached, Carcass Buried. A Sensational Claim Follows 23 Days Later",
+    "title": "Iran Rejects US Ceasefire Proposal, Lists Demands In 10-Point Plan",
+    "summary": "The response includes demands for an end to all conflicts in the region.",
+    "image": "https://c.ndtvimg.com/2026-03/tv1i6fuc_trump-khamenei-afp_625x300_13_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 20:46:23 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-israel-us-war-latest-news-iran-rejects-us-ceasefire-proposal-lists-demands-in-10-point-plan-11319376#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/2-scorpio-suvs-ram-each-other-in-gurugram-road-rage-video-goes-viral-11319345#publisher=newsstand",
+    "category": "india",
+    "title": "2 Scorpio SUVs Ram Each Other In Gurugram, Road Rage Video Goes Viral",
+    "summary": "The cause of the altercation remains unclear.",
+    "image": "https://c.ndtvimg.com/2026-04/rm3ih5tk_scorpio-crash-gurgaon_625x300_06_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 20:42:26 +0530",
+    "link": "https://www.ndtv.com/india-news/2-scorpio-suvs-ram-each-other-in-gurugram-road-rage-video-goes-viral-11319345#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/rbi-keeps-investment-limit-for-fpis-in-g-secs-unchanged-for-fy27/articleshow/130064656.cms",
+    "category": "finance",
+    "title": "RBI keeps investment limit for FPIs in G-secs unchanged for FY27",
+    "summary": "The Reserve Bank on Monday said the investment limit for foreign portfolio investors in government securities through the general route will remain unchanged at 6 per cent of the outstanding stocks of securities for 2026-27.",
+    "image": "https://img.etimg.com/photo/msid-130064656,imgsize-87662.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 20:41:08 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-keeps-investment-limit-for-fpis-in-g-secs-unchanged-for-fy27/articleshow/130064656.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/never-outshine-the-master-raghav-chadhas-cryptic-post-amid-aap-row-11318042#publisher=newsstand",
+    "category": "india",
+    "title": "\"Never Outshine The Master\": Raghav Chadha's Cryptic Post Amid AAP Row",
+    "summary": "\"Somebody gifted me a book this week. Funny how timing works,\" he wrote in the caption.",
+    "image": "https://c.ndtvimg.com/2026-04/noetkd24_raghav-chadha_625x300_06_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 20:35:59 +0530",
+    "link": "https://www.ndtv.com/india-news/never-outshine-the-master-raghav-chadhas-cryptic-post-amid-aap-row-11318042#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-adani-green-rbl-bank-and-3-more-stocks-on-tuesday-for-gains-up-to-8/slideshow/130064637.cms",
+    "category": "finance",
+    "title": "Market Trading Guide: Buy Adani Green, RBL Bank and 3 more stocks on Tuesday for gains up to 8%",
+    "summary": "Nifty extended its winning streak, forming a bullish pattern with improving sentiment. Analysts see upside toward 23,400 levels, supported by RSI strength. Experts recommend stocks like Granules India, Bank of Baroda, and Adani Green, citing breakout",
+    "image": "https://img.etimg.com/photo/msid-130064502,imgsize-96642.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 20:29:34 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-adani-green-rbl-bank-and-3-more-stocks-on-tuesday-for-gains-up-to-8/slideshow/130064637.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-goldman-sachs-private-credit-fund-defies-sector-wide-spike-in-redemptions/articleshow/130064365.cms",
+    "category": "finance",
+    "title": "US stocks: Goldman Sachs' private credit fund defies sector-wide spike in redemptions",
+    "summary": "Goldman Sachs' private credit fund disclosed on Monday that investors sought \u200bto repurchase just under 5% of shares in the first quarter, setting it apart from the rest of the industry that is struggling with a surge in redemptions.",
+    "image": "https://img.etimg.com/photo/msid-130064365,imgsize-142208.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 20:26:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-goldman-sachs-private-credit-fund-defies-sector-wide-spike-in-redemptions/articleshow/130064365.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/middle-east-war-tiger-poached-carcass-buried-a-sensational-claim-follows-23-days-later-11319098#publisher=newsstand",
+    "category": "india",
+    "title": "Tiger Poached, Carcass Buried. A 'Gulf War' Claim Follows 23 Days Later",
     "summary": "For 23 days, there was no on-ground verification.",
     "image": "https://c.ndtvimg.com/2019-01/n1sa6vso_tiger-generic_625x300_05_January_19.jpg",
     "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 19:38:56 +0530",
-    "link": "https://www.ndtv.com/india-news/tiger-poached-carcass-buried-a-sensational-claim-follows-23-days-later-11319098#publisher=newsstand"
+    "pubDate": "Mon, 06 Apr 2026 20:25:10 +0530",
+    "link": "https://www.ndtv.com/india-news/middle-east-war-tiger-poached-carcass-buried-a-sensational-claim-follows-23-days-later-11319098#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/mit-of-iran-hit-tehran-accuses-us-israel-of-targeting-universities-11319050#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/these-foods-are-silently-increasing-your-sodium-intake-and-harming-your-hearts-health-11319290#publisher=newsstand",
     "category": "india",
-    "title": "\"MIT Of Iran\" Hit, Tehran Accuses US, Israel Of Targeting Universities",
-    "summary": "The conflict, which is now in its 38th day, began on 28 February.",
-    "image": "https://c.ndtvimg.com/2026-04/hvis1elg_trump-education-pea_625x300_06_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "These Foods Are Silently Increasing Your Sodium Intake And Harming Your Heart's Health",
+    "summary": "High sodium intake can negatively affect your heart's health",
+    "image": "https://c.ndtvimg.com/2024-12/lc9b3jt8_salt_650x400_03_December_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 19:36:06 +0530",
-    "link": "https://www.ndtv.com/world-news/mit-of-iran-hit-tehran-accuses-us-israel-of-targeting-universities-11319050#publisher=newsstand"
+    "pubDate": "Mon, 06 Apr 2026 20:24:53 +0530",
+    "link": "https://www.ndtv.com/health/these-foods-are-silently-increasing-your-sodium-intake-and-harming-your-hearts-health-11319290#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/blackrock-files-for-nasdaq-100-fund-expanding-competition-with-invesco/articleshow/130063287.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/soleno-shares-jump-33-as-neurocrine-expands-into-metabolic-diseases-with-2-9-billion-buyout/articleshow/130064256.cms",
     "category": "finance",
-    "title": "BlackRock files for Nasdaq-100 fund, expanding competition with Invesco",
-    "summary": "BlackRock is set to shake up the financial landscape with its new exchange-traded fund designed to mirror the Nasdaq-100 index. This initiative presents a bold challenge to the established Invesco QQQ Trust ETF. Introducing the iShares Nasdaq-100 ETF",
-    "image": "https://img.etimg.com/photo/msid-130063287,imgsize-63636.cms",
+    "title": "Soleno shares jump 33% as Neurocrine expands into metabolic diseases with $2.9 billion buyout",
+    "summary": "Neurocrine Biosciences will acquire rare-disease drugmaker Soleno Therapeutics for $2.9 \u200bbillion in cash, the companies said on Monday, marking the neuroscience-focused drugmaker's expansion into metabolic disorders.",
+    "image": "https://img.etimg.com/photo/msid-130064256,imgsize-22568.cms",
     "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 19:34:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/blackrock-files-for-nasdaq-100-fund-expanding-competition-with-invesco/articleshow/130063287.cms"
+    "pubDate": "Mon, 06 Apr 2026 20:19:46 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/soleno-shares-jump-33-as-neurocrine-expands-into-metabolic-diseases-with-2-9-billion-buyout/articleshow/130064256.cms"
   },
   {
-    "id": "https://www.ndtv.com/health/physical-social-factors-may-together-account-for-up-to-9-times-higher-risk-of-faster-brain-ageing-study-11319024#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/rajasthan-teacher-attempts-to-extort-rs-1-4-crore-from-2-businessmen-arrested-11319188#publisher=newsstand",
     "category": "india",
-    "title": "Physical, Social Factors May Together Account For Up To 9 Times Higher Risk Of Faster Brain Ageing: Study",
-    "summary": "Physical, Social Factors May Raise Brain Ageing Risk 9 Times",
-    "image": "https://c.ndtvimg.com/2026-02/vem19ulg_brain-health_625x300_26_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Rajasthan Teacher Attempts To Extort Rs 1.4 Crore From 2 Businessmen, Arrested",
+    "summary": "The motorcycle used in the crime has also been seized.",
+    "image": "https://c.ndtvimg.com/2025-05/en2fs4vk_rajasthan-police-generic-image_625x300_04_May_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 19:32:48 +0530",
-    "link": "https://www.ndtv.com/health/physical-social-factors-may-together-account-for-up-to-9-times-higher-risk-of-faster-brain-ageing-study-11319024#publisher=newsstand"
+    "pubDate": "Mon, 06 Apr 2026 20:18:56 +0530",
+    "link": "https://www.ndtv.com/india-news/rajasthan-teacher-attempts-to-extort-rs-1-4-crore-from-2-businessmen-arrested-11319188#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/barings-private-credit-fund-limits-withdrawals-after-redemption-requests-surge/articleshow/130063176.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wells-fargo-no-longer-expects-fed-rate-cuts-in-2026-as-iran-war-drags-on/articleshow/130064197.cms",
     "category": "finance",
-    "title": "Barings' private credit fund limits withdrawals after redemption requests surge",
-    "summary": "Barings has taken a measured approach by limiting investor withdrawals from its private credit fund, allowing only 5% redemptions despite requests for 11.3% in the initial quarter. This decision is designed to protect the interests of long-term share",
-    "image": "https://img.etimg.com/photo/msid-130063176,imgsize-14256.cms",
+    "title": "Wells Fargo no longer expects Fed rate cuts in 2026 as Iran war drags on",
+    "summary": "Wells \u200bFargo Investment Institute said on Monday it \u200bno longer expects the U.S. Federal Reserve to cut interest rates in 2026, citing uncertainty around inflation and heightened geopolitical \u200crisks tied \u2060to \u2060the Middle East war.",
+    "image": "https://img.etimg.com/photo/msid-130064197,imgsize-50678.cms",
     "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 19:30:43 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/barings-private-credit-fund-limits-withdrawals-after-redemption-requests-surge/articleshow/130063176.cms"
+    "pubDate": "Mon, 06 Apr 2026 20:15:35 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wells-fargo-no-longer-expects-fed-rate-cuts-in-2026-as-iran-war-drags-on/articleshow/130064197.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/indias-nse-to-launch-plattsbased-crude-futures-in-tie-up-with-sp-global-energy/articleshow/130063183.cms",
-    "category": "finance",
-    "title": "India's NSE to launch Platts\u2011based crude futures in tie-up with S&amp;P Global Energy",
-    "summary": "India's National Stock Exchange \u200bwill launch exchange-traded \u200bderivatives based on Platts \u200boil price benchmarks through a collaboration with S&amp;P Global Energy, the bourse said on \u200cMonday.",
-    "image": "https://img.etimg.com/photo/msid-130063183,imgsize-49890.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 19:30:02 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-nse-to-launch-plattsbased-crude-futures-in-tie-up-with-sp-global-energy/articleshow/130063183.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/education/delhi-university-ug-admissions-2026-likely-to-begin-in-third-week-of-may-details-here-11318978#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/school-assembly-news-headlines-april-7-top-national-world-business-sports-news-11319258#publisher=newsstand",
     "category": "india",
-    "title": "Delhi University UG Admissions 2026: Likely To Begin In Third Week Of May, Details Here",
-    "summary": "Delhi UG Admissions: Admissions are based on CUET scores",
-    "image": "https://i.ndtvimg.com/i/2014-10/delhi-university_625x300_71414575796.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "School Assembly News Headlines (April 7): Top National, World, Business, Sports News",
+    "summary": "School Assembly News Headlines: Is China Plotting A Coup In Hormuz?",
+    "image": "https://c.ndtvimg.com/2019-05/o5lslqjo_cbse-board-result_625x300_04_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 19:26:02 +0530",
-    "link": "https://www.ndtv.com/education/delhi-university-ug-admissions-2026-likely-to-begin-in-third-week-of-may-details-here-11318978#publisher=newsstand"
+    "pubDate": "Mon, 06 Apr 2026 20:14:48 +0530",
+    "link": "https://www.ndtv.com/education/school-assembly-news-headlines-april-7-top-national-world-business-sports-news-11319258#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/2026-bengal-elections-malda-sir-hearing-cctv-shows-how-judicial-officers-cars-in-bengal-were-chased-by-34-bikes-11318355#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/feeling-bloated-this-lymphatic-massage-trend-might-help-11319242#publisher=newsstand",
     "category": "india",
-    "title": "CCTV Shows How Judicial Officers' Cars In Bengal Were Chased By 34 Bikes",
-    "summary": "A large crowd surrounded their vehicles and held them for around nine hours.",
-    "image": "https://c.ndtvimg.com/2026-04/h28666co_malda-_625x300_06_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Feeling Bloated? This Lymphatic Massage Trend Might Help",
+    "summary": "Lymphatic Massage Trend Might Help",
+    "image": "https://c.ndtvimg.com/2026-01/c5asm838_foods-causes-bloating-ang-constipation_625x300_27_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 19:25:59 +0530",
-    "link": "https://www.ndtv.com/india-news/2026-bengal-elections-malda-sir-hearing-cctv-shows-how-judicial-officers-cars-in-bengal-were-chased-by-34-bikes-11318355#publisher=newsstand"
+    "pubDate": "Mon, 06 Apr 2026 20:13:34 +0530",
+    "link": "https://www.ndtv.com/health/feeling-bloated-this-lymphatic-massage-trend-might-help-11319242#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-open-higher-as-investors-weigh-mideast-resolution-hopes/articleshow/130062847.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-service-sector-cools-in-march-price-paid-measure-highest-in-3-5-years/articleshow/130064058.cms",
     "category": "finance",
-    "title": "US Stocks today: S&amp;P 500, Nasdaq open higher as investors weigh Mideast resolution hopes",
-    "summary": "The \u200bS&amp;P 500 \u200band the Nasdaq \u200bopened higher on Monday after the indexes marked \u200ctheir \u2060biggest \u2060weekly jump in \u200bfour months in the last \u200bsession, while investors assessed prospects of an \u200bend to \u2060the Middle \u200cEast \u200bconflict.",
-    "image": "https://img.etimg.com/photo/msid-130062847,imgsize-243302.cms",
+    "title": "US service sector cools in March; price paid measure highest in 3.5 years",
+    "summary": "U.S. services sector growth slowed in March, while prices paid by businesses for inputs climbed to near a 3-1/2-year high, an early sign that the prolonged war with Iran was boosting inflation pressures.",
+    "image": "https://img.etimg.com/photo/msid-130064058,imgsize-46056.cms",
     "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 19:13:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-open-higher-as-investors-weigh-mideast-resolution-hopes/articleshow/130062847.cms"
+    "pubDate": "Mon, 06 Apr 2026 20:13:24 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-service-sector-cools-in-march-price-paid-measure-highest-in-3-5-years/articleshow/130064058.cms"
   },
   {
-    "id": "https://www.ndtv.com/opinion/the-dantewada-massacre-when-i-had-to-arrange-aircraft-for-75-slain-crpf-officers-11318708#publisher=newsstand",
-    "category": "india",
-    "title": "Opinion: Blog | The Dantewada Massacre, And What India Needs To Do To Stay Maoist-Free",
-    "summary": "In 2010, I was Assistant Chief of the Air Staff controlling transport aircraft and helicopters, and on April 6 that year had to arrange An-32 aircraft to carry coffins of 75 CRPF jawans.",
-    "image": "https://c.ndtvimg.com/2023-01/m68ijrqs_crpf-generic-maoist-encounter-ani_625x300_12_January_23.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 19:10:20 +0530",
-    "link": "https://www.ndtv.com/opinion/the-dantewada-massacre-when-i-had-to-arrange-aircraft-for-75-slain-crpf-officers-11318708#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-jeremy-grantham-every-bubble-ends-with-the-same-words-this-time-is-different-/articleshow/130058136.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/insurance-firms-raise-stakes-in-10-mid-cap-stocks-in-q3fy26/slideshow/130064037.cms",
     "category": "finance",
-    "title": "Quote of the day by Jeremy Grantham: \"Every bubble ends with the same words: 'This time is different.\"",
-    "summary": "Financial bubbles\u2014from 17th-century tulips to tech and housing markets\u2014reflect recurring investor psychology: optimism, greed, and the belief that \u201cthis time is different.\u201d Despite innovation, overvaluation, herd behaviour, and FOMO often trigger cra",
-    "image": "https://img.etimg.com/photo/msid-130058136,imgsize-619692.cms",
+    "title": "Insurance firms raise stakes in 10 mid-cap stocks in Q3FY26",
+    "summary": "Insurance companies increased stakes in several NSE midcap stocks during the December 2025 quarter, signaling rising confidence. Stocks like Voltas, One97 Communications, and Dabur India saw notable gains, reflecting insurers\u2019 strategic shift toward ",
+    "image": "https://img.etimg.com/photo/msid-130063697,imgsize-44680.cms",
     "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 18:00:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-jeremy-grantham-every-bubble-ends-with-the-same-words-this-time-is-different-/articleshow/130058136.cms"
+    "pubDate": "Mon, 06 Apr 2026 19:50:57 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/insurance-firms-raise-stakes-in-10-mid-cap-stocks-in-q3fy26/slideshow/130064037.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-talks-crude-brent-oil-ai-tech-stock-price-inflation-news/liveblog/130060936.cms",
-    "category": "finance",
-    "title": "US Stock Market Today | Dow Jones | Nasdaq Live: S&amp;P 500, Nasdaq open higher as investors weigh Iran war resolution ",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-130060936,imgsize-2521735.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 17:53:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-talks-crude-brent-oil-ai-tech-stock-price-inflation-news/liveblog/130060936.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-iran-war-may-push-us-inflation-interest-rates-higher-than-expectations-warns-jpmorgan-ceo-jamie-dimon/articleshow/130060857.cms",
-    "category": "finance",
-    "title": "US Stocks | Iran war may push US inflation, interest rates higher than expectations, warns JPMorgan CEO Jamie Dimon",
-    "summary": "JPMorgan CEO Jamie Dimon warns that the US-Iran war and rising oil prices could push inflation and interest rates higher than expected, despite the US economy\u2019s resilience. Geopolitical tensions, high asset prices, and private credit risks may trigge",
-    "image": "https://img.etimg.com/photo/msid-130060857,imgsize-18202.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 17:50:41 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-iran-war-may-push-us-inflation-interest-rates-higher-than-expectations-warns-jpmorgan-ceo-jamie-dimon/articleshow/130060857.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1530745.html",
+    "category": "sports",
+    "title": "Morgan makes the inroads as Middlesex claim rare winning start",
+    "summary": "Higgins ends resistance to secure opening-round win for first time since 2018",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/379400/379489.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 06 Apr 2026 15:12:25 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530745.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530765.html",
@@ -348,16 +358,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 06 Apr 2026 07:57:13 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1530670.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530649.html",
-    "category": "sports",
-    "title": "Shami sets up LSG victory before Pant fifty takes them home",
-    "summary": "Fifties from Klaasen and Reddy took SRH from 26 for 4 to 156, but Pant took LSG over the line",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415311.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 06 Apr 2026 07:24:52 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530649.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530724.html",
