@@ -100,16 +100,6 @@
     "link": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cj60x206dx1o#0",
-    "category": "global",
-    "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
-    "summary": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 05 Apr 2026 19:17:42 GMT",
-    "link": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -130,6 +120,146 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/intense-quick-commerce-competition-ahead-ubs-cuts-eternal-swiggys-target-prices-but-sees-attractive-valuations/articleshow/130057722.cms",
+    "category": "finance",
+    "title": "Intense quick commerce competition ahead? UBS cuts Eternal, Swiggy\u2019s target prices but sees attractive valuations",
+    "summary": "UBS reduced its FY27-29 quick commerce NOV estimates by 7-11% for Blinkit, and GOV estimates by 17-22% for Instamart.",
+    "image": "https://img.etimg.com/photo/msid-130057722,imgsize-106926.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 15:44:28 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/intense-quick-commerce-competition-ahead-ubs-cuts-eternal-swiggys-target-prices-but-sees-attractive-valuations/articleshow/130057722.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/uae-based-valura-ai-makes-india-debut-with-a-rs-3000-crore-pipeline/articleshow/130057573.cms",
+    "category": "finance",
+    "title": "UAE-based Valura.ai makes India debut with a Rs 3,000 crore pipeline",
+    "summary": "AI-native platform Valura.ai has onboarded over 1,000 wealth advisors across India ahead of its launch, creating a Rs 3,000 crore AUM pipeline. The platform offers multi-asset global investing with AI-driven research, local custody under IFSCA, and c",
+    "image": "https://img.etimg.com/photo/msid-130057573,imgsize-3312.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 15:39:14 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/uae-based-valura-ai-makes-india-debut-with-a-rs-3000-crore-pipeline/articleshow/130057573.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-and-ethereum-outperform-gold-and-equities-in-march-report/articleshow/130057393.cms",
+    "category": "finance",
+    "title": "Bitcoin and Ethereum outperform gold and equities in March : Report",
+    "summary": "Bitcoin and Ethereum have outperformed traditional safe-haven assets and major equity indices during the 2026 US-Iran conflict, according to Binance Research's Monthly Market Insights: April 2026 released on Monday.",
+    "image": "https://img.etimg.com/photo/msid-130057393,imgsize-74080.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 15:32:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-and-ethereum-outperform-gold-and-equities-in-march-report/articleshow/130057393.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/car-breaks-barrier-enters-delhi-assembly-ink-thrown-at-speakers-vehicle-11317676#publisher=newsstand",
+    "category": "india",
+    "title": "Car Breaks Barrier, Enters Delhi Assembly. Ink Thrown At Speaker's Vehicle",
+    "summary": "Car Breaks Barrier, Enters Delhi Assembly. Ink Thrown At Speaker's Vehicle",
+    "image": "https://c.ndtvimg.com/2026-04/c71dtj6_delhi-assembly-security-breach_650x400_06_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 15:31:47 +0530",
+    "link": "https://www.ndtv.com/india-news/car-breaks-barrier-enters-delhi-assembly-ink-thrown-at-speakers-vehicle-11317676#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/study-finds-rising-cancer-rates-especially-after-breast-cancer-treatment-11317437#publisher=newsstand",
+    "category": "india",
+    "title": "Therapy-Linked Blood Cancer Rising In Japan After Breast Cancer Treatment, Study Warns",
+    "summary": "Image for representation purposes only",
+    "image": "https://c.ndtvimg.com/2026-04/5b8n1jec_japan-study-on-blood-cancer_625x300_06_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 15:27:14 +0530",
+    "link": "https://www.ndtv.com/health/study-finds-rising-cancer-rates-especially-after-breast-cancer-treatment-11317437#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/30-years-before-iran-op-us-pilot-scott-ogrady-survived-behind-enemy-lines-for-days-in-bosnia-11317409#publisher=newsstand",
+    "category": "india",
+    "title": "30 Years Before Iran Op, A Pilot Who Survived Behind Enemy Lines For Days",
+    "summary": "In 1995, US pilot Scott O'Grady survived for six days after his F-16 was shot down over Bosnia",
+    "image": "https://c.ndtvimg.com/2026-04/dao6tro4_scott-ogrady-_625x300_06_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 15:26:52 +0530",
+    "link": "https://www.ndtv.com/world-news/30-years-before-iran-op-us-pilot-scott-ogrady-survived-behind-enemy-lines-for-days-in-bosnia-11317409#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/uddhav-thackeray-congress-sanjay-raut-sena-ubt-how-bypoll-in-ajit-pawars-bastion-has-widened-cracks-in-opposition-bloc-11317505#publisher=newsstand",
+    "category": "india",
+    "title": "Team Uddhav's \"Maturity\" Dig And 2022 Reminder, Congress's Shayari Reply",
+    "summary": "The Congress and Shiv Sena (UBT) are trading barbs in Maharashtra",
+    "image": "https://c.ndtvimg.com/2023-09/qi63326o_rahul-gandhi-uddhav-thackeray-ani_625x300_01_September_23.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 15:25:12 +0530",
+    "link": "https://www.ndtv.com/india-news/uddhav-thackeray-congress-sanjay-raut-sena-ubt-how-bypoll-in-ajit-pawars-bastion-has-widened-cracks-in-opposition-bloc-11317505#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/sensex-today-stock-market-share-market-nifty-live-updates-today-6-april-rbi-mpc-repo-rate-iran-war-donald-trump-11316136#publisher=newsstand",
+    "category": "india",
+    "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 700 Points On Possibility Of US-Iran Deal",
+    "summary": "Stock Market Today Live News Updates: Markets trade in green.",
+    "image": "https://c.ndtvimg.com/2026-04/i81n8koc_share-market-closing_625x300_01_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 15:21:50 +0530",
+    "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-share-market-nifty-live-updates-today-6-april-rbi-mpc-repo-rate-iran-war-donald-trump-11316136#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/24-36-hour-shifts-are-burning-out-indian-doctors-5-key-systemic-problems-indias-medical-providers-face-11317317#publisher=newsstand",
+    "category": "india",
+    "title": "24-36 Hour Shifts Are Burning Out Indian Doctors: 5 Key Systemic Problems India's Medical Providers Face",
+    "summary": "24-36 Hour Shifts Burning Out Indian Doctors",
+    "image": "https://c.ndtvimg.com/2026-04/0o5a4oco_2436-hour-shifts-burning-out-indian-doctors_625x300_06_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 15:20:34 +0530",
+    "link": "https://www.ndtv.com/health/24-36-hour-shifts-are-burning-out-indian-doctors-5-key-systemic-problems-indias-medical-providers-face-11317317#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/nifty-is-oversold-and-holding-support-angel-ones-rajesh-bhosale-flags-2-stocks-to-buy-right-now/articleshow/130057165.cms",
+    "category": "finance",
+    "title": "Nifty is oversold and holding support; Angel One's Rajesh Bhosale flags 2 stocks to buy right now",
+    "summary": "Indian markets are showing signs of a potential bounce despite choppy trading. Technical analyst Rajesh Bhosale highlights a bullish reversal pattern on the Nifty, suggesting a buy-on-dip strategy with support at 22,200-22,400. He recommends specific",
+    "image": "https://img.etimg.com/photo/msid-130057165,imgsize-6360.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 15:19:09 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/nifty-is-oversold-and-holding-support-angel-ones-rajesh-bhosale-flags-2-stocks-to-buy-right-now/articleshow/130057165.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/bengal-sir-hearing-live-supreme-court-to-hear-pleas-on-sir-of-bengal-electoral-rolls-assembly-elections-arvind-kejriwal-excise-policy-scam-high-court-11316609#publisher=newsstand",
+    "category": "india",
+    "title": "Bengal SIR Hearing Live: Supreme Court To Hear Pleas On SIR Of Bengal Electoral Rolls",
+    "summary": "Bengal SIR Hearing Live Updates: The Special Intensive Revision (SIR) of electoral rolls has become the most prominent issue ahead of the upcoming West Bengal Assembly elections.",
+    "image": "https://c.ndtvimg.com/2026-04/kkq61oh_bengal_625x300_06_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 15:18:31 +0530",
+    "link": "https://www.ndtv.com/india-news/bengal-sir-hearing-live-supreme-court-to-hear-pleas-on-sir-of-bengal-electoral-rolls-assembly-elections-arvind-kejriwal-excise-policy-scam-high-court-11316609#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-news-half-a-billion-dollars-the-likely-cost-of-f-15-crash-and-daring-rescue-op-11317632#publisher=newsstand",
+    "category": "india",
+    "title": "Half A Billion Dollars: The Likely Cost Of F-15 Crash And Daring Rescue Op",
+    "summary": "The F-15E downed by the Iranians roughly costs $100 million.",
+    "image": "https://c.ndtvimg.com/2026-04/fmu5nl0c_us-pilot-rescue-_625x300_05_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 15:18:23 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-news-half-a-billion-dollars-the-likely-cost-of-f-15-crash-and-daring-rescue-op-11317632#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-radar-sell-gold-on-rise-4-technical-triggers-to-support-the-trade/articleshow/130056556.cms",
+    "category": "finance",
+    "title": "Commodity Radar: Sell gold on rise. 4 technical triggers to support the trade",
+    "summary": "\u200bGold continues to remain a \u2018sell-on-rise\u2019 trade, undergoing a phase of consolidation. June futures on MCX rose over Rs 600 (0.4%) to breach the Rs 1.5 lakh mark on Monday, despite subdued global cues.",
+    "image": "https://img.etimg.com/photo/msid-130056556,imgsize-45106.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 14:46:32 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-radar-sell-gold-on-rise-4-technical-triggers-to-support-the-trade/articleshow/130056556.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/markets-oversold-largecaps-offer-best-entry-point-right-now-rishi-kohli/articleshow/130056195.cms",
+    "category": "finance",
+    "title": "Markets oversold, largecaps offer best entry point right now: Rishi Kohli",
+    "summary": "Indian equity markets have experienced significant volatility, with valuations now presenting an attractive entry point. Despite geopolitical uncertainties delaying earnings growth, CIO Rishi Kohli suggests largecaps offer a safer entry, with a strat",
+    "image": "https://img.etimg.com/photo/msid-130056195,imgsize-19862.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 14:27:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/markets-oversold-largecaps-offer-best-entry-point-right-now-rishi-kohli/articleshow/130056195.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-rises-as-traders-brush-off-trumps-iran-threat-focus-on-potential-deal/articleshow/130055850.cms",
     "category": "finance",
     "title": "Global Markets | Japan's Nikkei rises as traders brush off Trump's Iran threat, focus on potential deal",
@@ -142,7 +272,7 @@
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-riing-today-rs-3-lakh-crore-added-sensex-jumps-500-pts-nifty-near-22900-iran-us-ceasefire-framework-3-other-factors-behind-d-st-rally/articleshow/130055571.cms",
     "category": "finance",
-    "title": "Rs 3 lakh crore added! Sensex jumps 500 pts, Nifty near 22,900; Iran-US ceasefire framework, 3 other factors behind the ",
+    "title": "Rs 5 lakh crore gains! Sensex soars 787 pts, Nifty reclaims 22,950; Iran-US ceasefire framework, 3 other factors behind ",
     "summary": "Indian stock markets staged a remarkable recovery, erasing morning losses to turn positive by afternoon. This surge was primarily fueled by media reports of a Pakistan-brokered Iran-US ceasefire framework, significantly boosting investor confidence. ",
     "image": "https://img.etimg.com/photo/msid-130055571,imgsize-92166.cms",
     "source": "ET",
@@ -150,144 +280,24 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-riing-today-rs-3-lakh-crore-added-sensex-jumps-500-pts-nifty-near-22900-iran-us-ceasefire-framework-3-other-factors-behind-d-st-rally/articleshow/130055571.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-upgrades-dmart-to-overweight-says-juggernaut-is-rolling-heres-why/articleshow/130055819.cms",
-    "category": "finance",
-    "title": "Goldman Sachs upgrades DMart to overweight, says juggernaut is rolling! Here\u2019s why",
-    "summary": "Goldman Sachs has upgraded Avenue Supermarts (DMart) to overweight following a strong Q4, signalling momentum in the retailer\u2019s growth. The brokerage expects accelerated topline growth from 85 new store additions in FY26, supported by inflation-drive",
-    "image": "https://img.etimg.com/photo/msid-130055819,imgsize-83922.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 14:04:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-upgrades-dmart-to-overweight-says-juggernaut-is-rolling-heres-why/articleshow/130055819.cms"
+    "id": "https://www.bbc.com/news/articles/c04xqglg7xgo#0",
+    "category": "global",
+    "title": "Savannah Guthrie returns to NBC's Today show, as search for mother goes on",
+    "summary": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 06 Apr 2026 10:16:36 GMT",
+    "link": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/this-too-shall-pass-prashant-jains-case-for-staying-invested-and-where-he-is-putting-money-now/articleshow/130055518.cms",
-    "category": "finance",
-    "title": "'This too shall pass': Prashant Jain's case for staying invested and where he Is putting money now",
-    "summary": "Seasoned fund manager Prashant Jain believes India's current market panic is temporary, citing structural resilience and falling oil import dependence. He highlights domestic flows as an underappreciated buffer against FII outflows, with retail money",
-    "image": "https://img.etimg.com/photo/msid-130055518,imgsize-667428.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 13:54:08 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/this-too-shall-pass-prashant-jains-case-for-staying-invested-and-where-he-is-putting-money-now/articleshow/130055518.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/health/megan-thee-stallions-stage-collapse-due-to-low-metabolic-stress-here-is-everything-you-need-to-know-about-the-health-condition-11317182#publisher=newsstand",
-    "category": "india",
-    "title": "Megan Thee Stallion's Stage Collapse Due To Low Metabolic Stress: Here Is Everything You Need To Know About The Health C",
-    "summary": "Megan Thee Stallion suffered from low metabolic stress and collapsed on stage",
-    "image": "https://c.ndtvimg.com/2026-04/fi4igdc4_megan-thee-stallion_625x300_06_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 13:51:44 +0530",
-    "link": "https://www.ndtv.com/health/megan-thee-stallions-stage-collapse-due-to-low-metabolic-stress-here-is-everything-you-need-to-know-about-the-health-condition-11317182#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/majid-khademi-irans-revolutionary-guards-intel-chief-killed-in-us-israel-strikes-11317220#publisher=newsstand",
-    "category": "india",
-    "title": "Majid Khademi, Iran's Revolutionary Guards' Intel Chief, Killed In US-Israel Strikes",
-    "summary": "Khademi took over for General Mohammad Kazemi, who Israel killed in the 12-day war in June.",
-    "image": "https://c.ndtvimg.com/2026-04/bjdgh6vs_majid-khademi-irgc_625x300_06_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 13:50:57 +0530",
-    "link": "https://www.ndtv.com/world-news/majid-khademi-irans-revolutionary-guards-intel-chief-killed-in-us-israel-strikes-11317220#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/jodhpur-sees-4-cases-of-laughing-epilepsy-all-about-the-rare-form-of-epilepsy-11316964#publisher=newsstand",
-    "category": "india",
-    "title": "Jodhpur Sees 4 Cases Of Laughing Epilepsy: All About The Rare Form Of Epilepsy",
-    "summary": "All About Laughing Epilepsy",
-    "image": "https://c.ndtvimg.com/2026-04/j8okndfc_all-about-laughing-epilepsy_625x300_06_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 13:45:51 +0530",
-    "link": "https://www.ndtv.com/health/jodhpur-sees-4-cases-of-laughing-epilepsy-all-about-the-rare-form-of-epilepsy-11316964#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-keep-cutting-stakes-in-14-smallcap-stocks-as-shares-crash-up-to-65-in-3-months/slideshow/130055656.cms",
-    "category": "finance",
-    "title": "FIIs keep cutting stakes in 14 smallcap stocks as shares crash up to 65% in 3 months",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-130055349,imgsize-11026.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 13:44:37 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-keep-cutting-stakes-in-14-smallcap-stocks-as-shares-crash-up-to-65-in-3-months/slideshow/130055656.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/v-mart-retail-shares-rocket-over-30-in-three-days-whats-fuelling-the-rally/articleshow/130055316.cms",
-    "category": "finance",
-    "title": "V-Mart Retail shares rocket over 30% in three days! What\u2019s fuelling the rally?",
-    "summary": "V-Mart Retail shares surged over 14% following a robust quarterly update. The company reported a significant 24% revenue jump to Rs 971 crore and impressive same-store sales growth. Expansion remains a key focus, with 29 new stores opened in the quar",
-    "image": "https://img.etimg.com/photo/msid-130055316,imgsize-52456.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 13:43:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/v-mart-retail-shares-rocket-over-30-in-three-days-whats-fuelling-the-rally/articleshow/130055316.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/health/mom-influencer-who-lost-27-kgs-blames-cortisol-for-post-gym-dullness-11317244#publisher=newsstand",
-    "category": "india",
-    "title": "Mom Influencer, Who Lost 27 Kgs, Blames Cortisol For Post-Gym Dullness",
-    "summary": "High cortisol levels can cause dullness on face",
-    "image": "https://c.ndtvimg.com/2026-04/54iam314_yamini-jain-_625x300_06_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 13:41:15 +0530",
-    "link": "https://www.ndtv.com/health/mom-influencer-who-lost-27-kgs-blames-cortisol-for-post-gym-dullness-11317244#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/sensex-today-stock-market-share-market-nifty-live-updates-today-6-april-rbi-mpc-repo-rate-iran-war-donald-trump-11316136#publisher=newsstand",
-    "category": "india",
-    "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 500 Points On Possibility Of US-Iran Deal",
-    "summary": "Stock Market Today Live News Updates: Markets likely to open negative today.",
-    "image": "https://c.ndtvimg.com/2026-04/i81n8koc_share-market-closing_625x300_01_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 13:37:55 +0530",
-    "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-share-market-nifty-live-updates-today-6-april-rbi-mpc-repo-rate-iran-war-donald-trump-11316136#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/feature/laid-off-oracle-engineer-returns-home-drives-uber-while-living-off-smart-savings-plan-no-panic-11317229#publisher=newsstand",
-    "category": "india",
-    "title": "Laid-Off Oracle Techie Returns Home, Drives Uber While Living Off Smart Savings Plan: \"No Panic. No Stress\"",
-    "summary": "At the same time, he is working on plans to start a small business with the support of his family.",
-    "image": "https://i.ndtvimg.com/i/2017-03/uber-cab_650x400_81489744683.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 13:35:08 +0530",
-    "link": "https://www.ndtv.com/feature/laid-off-oracle-engineer-returns-home-drives-uber-while-living-off-smart-savings-plan-no-panic-11317229#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-iran-israel-war-iran-us-receive-draft-proposal-for-45-day-ceasefire-strait-of-hormuz-reopening-middle-east-conflict-11317193#publisher=newsstand",
-    "category": "india",
-    "title": "Iran, US Receive Draft Proposal For 45-Day Ceasefire, Hormuz Reopening",
-    "summary": "It remains unclear whether the sides would agree to such terms",
-    "image": "https://c.ndtvimg.com/2026-04/0c9h3q8k_iran_625x300_06_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 13:33:46 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-israel-war-iran-us-receive-draft-proposal-for-45-day-ceasefire-strait-of-hormuz-reopening-middle-east-conflict-11317193#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/us-woman-left-startled-after-spotting-job-visa-blessings-poster-inside-indian-temple-in-texas-11316548#publisher=newsstand",
-    "category": "india",
-    "title": "US Woman Left Startled After Spotting \"Job Visa Blessings\" Poster Inside Indian Temple In Texas",
-    "summary": "Savanah Hernandez, on X, shared a photo of a sign inside a temple.",
-    "image": "https://c.ndtvimg.com/2026-04/9o209npk_viral-video_625x300_06_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 13:23:48 +0530",
-    "link": "https://www.ndtv.com/offbeat/us-woman-left-startled-after-spotting-job-visa-blessings-poster-inside-indian-temple-in-texas-11316548#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-crash-6-in-two-days-wipes-off-rs-1-lakh-crore-what-lies-ahead/articleshow/130054974.cms",
-    "category": "finance",
-    "title": "Reliance Industries shares crash 6% in two days, wipes off Rs 1 lakh crore. What lies ahead?",
-    "summary": "Reliance Industries shares have fallen sharply over two days, erasing over Rs 1 lakh crore in market value amid weak technical indicators and policy concerns. Analysts see near-term pressure with key support levels in focus, though stability above th",
-    "image": "https://img.etimg.com/photo/msid-130054974,imgsize-34218.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 13:22:25 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-crash-6-in-two-days-wipes-off-rs-1-lakh-crore-what-lies-ahead/articleshow/130054974.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bofa-cuts-indias-nifty-50-earnings-forecast-as-stagflation-fears-rise/articleshow/130054534.cms",
-    "category": "finance",
-    "title": "BofA cuts India's Nifty 50 earnings forecast as stagflation fears rise",
-    "summary": "BofA Securities has significantly lowered its earnings growth forecast for Nifty 50 companies to 8.5% for FY27, citing rising stagflation risks and potential impact of high crude oil prices.  The brokerage also reduced India's GDP growth estimate and",
-    "image": "https://img.etimg.com/photo/msid-130054534,imgsize-134923.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 13:00:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bofa-cuts-indias-nifty-50-earnings-forecast-as-stagflation-fears-rise/articleshow/130054534.cms"
+    "id": "https://www.bbc.com/news/articles/c9d4g24y5x8o#0",
+    "category": "global",
+    "title": "Northern Ireland becomes first in UK to give parents two weeks paid leave for miscarriage",
+    "summary": "Northern Ireland becomes first part of UK to bring in legal entitlement for parents affected by miscarriage at any stage of a pregnancy to have paid leave.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 06 Apr 2026 09:10:03 GMT",
+    "link": "https://www.bbc.com/news/articles/c9d4g24y5x8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530732.html",
@@ -348,16 +358,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 06 Apr 2026 06:08:34 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1530697.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c9d4g24y5x8o#0",
-    "category": "global",
-    "title": "Northern Ireland becomes first in UK to give parents two weeks paid leave for miscarriage",
-    "summary": "Northern Ireland becomes first part of UK to bring in legal entitlement for parents affected by miscarriage at any stage of a pregnancy to have paid leave.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 06 Apr 2026 04:44:13 GMT",
-    "link": "https://www.bbc.com/news/articles/c9d4g24y5x8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530724.html",
