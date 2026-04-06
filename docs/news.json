@@ -20,6 +20,16 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://www.ndtv.com/world-news/iran-war-donald-trump-on-expletive-laded-post-against-iran-11320468#publisher=newsstand",
+    "category": "india",
+    "title": "\"Don't Care About Critics\": Trump On Expletive-Laded Post Against Iran",
+    "summary": "Critics slammed Trump's profanity-laden post on Truth Social on Easter Sunday.",
+    "image": "https://c.ndtvimg.com/2026-04/5it6m17o_donald-trump_625x300_07_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Tue, 07 Apr 2026 03:57:25 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-on-expletive-laded-post-against-iran-11320468#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-as-investors-parse-us-iran-negotiations-threats/articleshow/130070714.cms",
     "category": "finance",
     "title": "US stocks today: US stocks end higher as investors parse US-Iran negotiations, threats",
@@ -100,16 +110,6 @@
     "link": "https://www.ndtv.com/world-news/us-iran-israel-war-middle-east-live-updates-trump-deadline-strait-of-hormuz-oil-prices-dubai-uae-11316005#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-latest-news-entire-iran-can-be-taken-out-in-one-night-trumps-big-warning-ahead-of-ceasefire-deadline-11319902#publisher=newsstand",
-    "category": "india",
-    "title": "\"Entire Iran Can Be Taken Out In One Night\": Trump's Warning Before Deadline",
-    "summary": "Trump told reporters he had options against Iran even more severe than his previous threats.",
-    "image": "https://c.ndtvimg.com/2026-03/7uiru26s_trump-iran-plan_625x300_07_March_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 00:02:42 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-latest-news-entire-iran-can-be-taken-out-in-one-night-trumps-big-warning-ahead-of-ceasefire-deadline-11319902#publisher=newsstand"
-  },
-  {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
     "category": "scitech",
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -118,16 +118,6 @@
     "source": "VentureBeat",
     "pubDate": "Thu, 22 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn085pdly86o#1",
-    "category": "global",
-    "title": "Benefits and pensions rise as two-child cap ends",
-    "summary": "Families on some benefits with three or more children will get an average rise of \u00a34,100 a year.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 05 Apr 2026 23:00:58 GMT",
-    "link": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
@@ -148,6 +138,36 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 12 Jan 2026 11:30:00 GMT",
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c070v00xzl5o#1",
+    "category": "global",
+    "title": "Call for parents to teach online privacy like road safety",
+    "summary": "Three in four parents fear their child cannot make safe choices about personal data online, the data watchdog finds.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 06 Apr 2026 23:05:52 GMT",
+    "link": "https://www.bbc.com/news/articles/c070v00xzl5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/czexw94rj5jo#1",
+    "category": "global",
+    "title": "Trump's deadline nears - with little indication Iran is on board",
+    "summary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 06 Apr 2026 23:04:23 GMT",
+    "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8ej461k3e5o#1",
+    "category": "global",
+    "title": "Disruption expected as six-day doctors' strike begins",
+    "summary": "The NHS is advising patients in England to only use emergency services when necessary but attend any confirmed appointments.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 06 Apr 2026 23:02:51 GMT",
+    "link": "https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-feds-austan-goolsbee-beth-hammack-say-inflation-is-flashing-orange-or-worse/articleshow/130067610.cms",
@@ -178,6 +198,16 @@
     "source": "ET",
     "pubDate": "Mon, 06 Apr 2026 22:11:45 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/update-1-ny-fed-says-march-supply-chain-pressures-highest-since-start-of-2023/articleshow/130066269.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cqj8ep9w1pno#1",
+    "category": "global",
+    "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
+    "summary": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 06 Apr 2026 21:55:50 GMT",
+    "link": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/new-jersey-cannot-regulate-kalshis-prediction-market-us-appeals-court-rules/articleshow/130065838.cms",
@@ -228,26 +258,6 @@
     "source": "ET",
     "pubDate": "Mon, 06 Apr 2026 21:30:57 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wells-fargo-investment-institute-downgrades-energy-sector-to-unfavorable-on-limited-war-premium/articleshow/130065593.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4gxz5zw348o#1",
-    "category": "global",
-    "title": "Schools in knife crime hotspots to get specialist training",
-    "summary": "A new partnership will provide training for school leaders about knife-crime risk, the government says.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 06 Apr 2026 21:30:13 GMT",
-    "link": "https://www.bbc.com/news/articles/c4gxz5zw348o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0mj4jeyvmzo#1",
-    "category": "global",
-    "title": "Trump endorses ex-UK political aide Steve Hilton for California governor",
-    "summary": "Steve Hilton, who advised the former prime minster and hosted a Fox News show, is running as a Republican.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 06 Apr 2026 18:55:45 GMT",
-    "link": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530784.html",
@@ -358,16 +368,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 06 Apr 2026 16:55:20 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1530741.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5y9j02dvq5o#1",
-    "category": "global",
-    "title": "Don't put off treatment during doctors' strike, NHS tells patients",
-    "summary": "The strike comes at the end of the bank holiday weekend and NHS managers fear demand could be \"challenging\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 06 Apr 2026 08:14:25 GMT",
-    "link": "https://www.bbc.com/news/articles/c5y9j02dvq5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1OII24oTfVYyF45IOoAjy8",
