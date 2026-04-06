@@ -50,26 +50,6 @@
     "link": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530586.html",
-    "category": "sports",
-    "title": "SRH bring in Livingstone and Harshal against LSG",
-    "summary": "LSG chose to chase in an afternoon game in Hyderabad",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/339700/339770.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 05 Apr 2026 22:24:23 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530586.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530640.html",
-    "category": "sports",
-    "title": "Critchley five seals three-day win as Hampshire endure horror start",
-    "summary": "Essex claim thumping victory in opening round as hosts subside meekly after following on",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/404200/404254.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 05 Apr 2026 20:26:09 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530640.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -90,6 +70,136 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
+    "id": "https://www.ndtv.com/india-news/sheer-failure-supreme-court-raps-top-bengal-officer-over-malda-incident-11318517#publisher=newsstand",
+    "category": "india",
+    "title": "'Can't Take High Court Chief Justice's Call?' Top Court Raps Bengal Officer",
+    "summary": "it was \"sheer failure of both you and your administration,\" CJI Surya Kant said.",
+    "image": "https://c.ndtvimg.com/2026-04/ohb5arj_bengal-sir_625x300_02_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 19:52:39 +0530",
+    "link": "https://www.ndtv.com/india-news/sheer-failure-supreme-court-raps-top-bengal-officer-over-malda-incident-11318517#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/israel-iran-war-israel-says-struck-irans-largest-petrochemical-facility-11319128#publisher=newsstand",
+    "category": "india",
+    "title": "Israel Says Struck Iran's Largest Petrochemical Facility",
+    "summary": "\"The situation is currently under control,\" officials said (File)",
+    "image": "https://c.ndtvimg.com/2024-10/nh1vl9go_lebanon_625x300_22_October_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 19:43:21 +0530",
+    "link": "https://www.ndtv.com/world-news/israel-iran-war-israel-says-struck-irans-largest-petrochemical-facility-11319128#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/equirus-appoints-aletheia-capitals-chief-economist-jim-walker-as-its-global-economic-advisor/articleshow/130063479.cms",
+    "category": "finance",
+    "title": "Equirus appoints Aletheia Capital's Chief Economist Jim Walker as its Global Economic Advisor",
+    "summary": "Equirus Securities has appointed Dr. Jim Walker as Global Economic Advisor, strengthening its partnership with Aletheia Capital. The move enhances macro research capabilities, offering institutional clients deeper insights into global cycles, capital",
+    "image": "https://img.etimg.com/photo/msid-130063479,imgsize-4110.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 19:42:56 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/equirus-appoints-aletheia-capitals-chief-economist-jim-walker-as-its-global-economic-advisor/articleshow/130063479.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/tiger-poached-carcass-buried-a-sensational-claim-follows-23-days-later-11319098#publisher=newsstand",
+    "category": "india",
+    "title": "Tiger Poached, Carcass Buried. A Sensational Claim Follows 23 Days Later",
+    "summary": "For 23 days, there was no on-ground verification.",
+    "image": "https://c.ndtvimg.com/2019-01/n1sa6vso_tiger-generic_625x300_05_January_19.jpg",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 19:38:56 +0530",
+    "link": "https://www.ndtv.com/india-news/tiger-poached-carcass-buried-a-sensational-claim-follows-23-days-later-11319098#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/mit-of-iran-hit-tehran-accuses-us-israel-of-targeting-universities-11319050#publisher=newsstand",
+    "category": "india",
+    "title": "\"MIT Of Iran\" Hit, Tehran Accuses US, Israel Of Targeting Universities",
+    "summary": "The conflict, which is now in its 38th day, began on 28 February.",
+    "image": "https://c.ndtvimg.com/2026-04/hvis1elg_trump-education-pea_625x300_06_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 19:36:06 +0530",
+    "link": "https://www.ndtv.com/world-news/mit-of-iran-hit-tehran-accuses-us-israel-of-targeting-universities-11319050#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/blackrock-files-for-nasdaq-100-fund-expanding-competition-with-invesco/articleshow/130063287.cms",
+    "category": "finance",
+    "title": "BlackRock files for Nasdaq-100 fund, expanding competition with Invesco",
+    "summary": "BlackRock is set to shake up the financial landscape with its new exchange-traded fund designed to mirror the Nasdaq-100 index. This initiative presents a bold challenge to the established Invesco QQQ Trust ETF. Introducing the iShares Nasdaq-100 ETF",
+    "image": "https://img.etimg.com/photo/msid-130063287,imgsize-63636.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 19:34:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/blackrock-files-for-nasdaq-100-fund-expanding-competition-with-invesco/articleshow/130063287.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/physical-social-factors-may-together-account-for-up-to-9-times-higher-risk-of-faster-brain-ageing-study-11319024#publisher=newsstand",
+    "category": "india",
+    "title": "Physical, Social Factors May Together Account For Up To 9 Times Higher Risk Of Faster Brain Ageing: Study",
+    "summary": "Physical, Social Factors May Raise Brain Ageing Risk 9 Times",
+    "image": "https://c.ndtvimg.com/2026-02/vem19ulg_brain-health_625x300_26_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 19:32:48 +0530",
+    "link": "https://www.ndtv.com/health/physical-social-factors-may-together-account-for-up-to-9-times-higher-risk-of-faster-brain-ageing-study-11319024#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/barings-private-credit-fund-limits-withdrawals-after-redemption-requests-surge/articleshow/130063176.cms",
+    "category": "finance",
+    "title": "Barings' private credit fund limits withdrawals after redemption requests surge",
+    "summary": "Barings has taken a measured approach by limiting investor withdrawals from its private credit fund, allowing only 5% redemptions despite requests for 11.3% in the initial quarter. This decision is designed to protect the interests of long-term share",
+    "image": "https://img.etimg.com/photo/msid-130063176,imgsize-14256.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 19:30:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/barings-private-credit-fund-limits-withdrawals-after-redemption-requests-surge/articleshow/130063176.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/indias-nse-to-launch-plattsbased-crude-futures-in-tie-up-with-sp-global-energy/articleshow/130063183.cms",
+    "category": "finance",
+    "title": "India's NSE to launch Platts\u2011based crude futures in tie-up with S&amp;P Global Energy",
+    "summary": "India's National Stock Exchange \u200bwill launch exchange-traded \u200bderivatives based on Platts \u200boil price benchmarks through a collaboration with S&amp;P Global Energy, the bourse said on \u200cMonday.",
+    "image": "https://img.etimg.com/photo/msid-130063183,imgsize-49890.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 19:30:02 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-nse-to-launch-plattsbased-crude-futures-in-tie-up-with-sp-global-energy/articleshow/130063183.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/delhi-university-ug-admissions-2026-likely-to-begin-in-third-week-of-may-details-here-11318978#publisher=newsstand",
+    "category": "india",
+    "title": "Delhi University UG Admissions 2026: Likely To Begin In Third Week Of May, Details Here",
+    "summary": "Delhi UG Admissions: Admissions are based on CUET scores",
+    "image": "https://i.ndtvimg.com/i/2014-10/delhi-university_625x300_71414575796.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 19:26:02 +0530",
+    "link": "https://www.ndtv.com/education/delhi-university-ug-admissions-2026-likely-to-begin-in-third-week-of-may-details-here-11318978#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/2026-bengal-elections-malda-sir-hearing-cctv-shows-how-judicial-officers-cars-in-bengal-were-chased-by-34-bikes-11318355#publisher=newsstand",
+    "category": "india",
+    "title": "CCTV Shows How Judicial Officers' Cars In Bengal Were Chased By 34 Bikes",
+    "summary": "A large crowd surrounded their vehicles and held them for around nine hours.",
+    "image": "https://c.ndtvimg.com/2026-04/h28666co_malda-_625x300_06_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 19:25:59 +0530",
+    "link": "https://www.ndtv.com/india-news/2026-bengal-elections-malda-sir-hearing-cctv-shows-how-judicial-officers-cars-in-bengal-were-chased-by-34-bikes-11318355#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-open-higher-as-investors-weigh-mideast-resolution-hopes/articleshow/130062847.cms",
+    "category": "finance",
+    "title": "US Stocks today: S&amp;P 500, Nasdaq open higher as investors weigh Mideast resolution hopes",
+    "summary": "The \u200bS&amp;P 500 \u200band the Nasdaq \u200bopened higher on Monday after the indexes marked \u200ctheir \u2060biggest \u2060weekly jump in \u200bfour months in the last \u200bsession, while investors assessed prospects of an \u200bend to \u2060the Middle \u200cEast \u200bconflict.",
+    "image": "https://img.etimg.com/photo/msid-130062847,imgsize-243302.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Apr 2026 19:13:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-open-higher-as-investors-weigh-mideast-resolution-hopes/articleshow/130062847.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/the-dantewada-massacre-when-i-had-to-arrange-aircraft-for-75-slain-crpf-officers-11318708#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Blog | The Dantewada Massacre, And What India Needs To Do To Stay Maoist-Free",
+    "summary": "In 2010, I was Assistant Chief of the Air Staff controlling transport aircraft and helicopters, and on April 6 that year had to arrange An-32 aircraft to carry coffins of 75 CRPF jawans.",
+    "image": "https://c.ndtvimg.com/2023-01/m68ijrqs_crpf-generic-maoist-encounter-ani_625x300_12_January_23.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Apr 2026 19:10:20 +0530",
+    "link": "https://www.ndtv.com/opinion/the-dantewada-massacre-when-i-had-to-arrange-aircraft-for-75-slain-crpf-officers-11318708#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-jeremy-grantham-every-bubble-ends-with-the-same-words-this-time-is-different-/articleshow/130058136.cms",
     "category": "finance",
     "title": "Quote of the day by Jeremy Grantham: \"Every bubble ends with the same words: 'This time is different.\"",
@@ -100,74 +210,14 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-jeremy-grantham-every-bubble-ends-with-the-same-words-this-time-is-different-/articleshow/130058136.cms"
   },
   {
-    "id": "https://www.ndtv.com/health/aiims-harvard-gut-doctor-lists-10-weird-signs-your-body-is-actually-healthy-11318257#publisher=newsstand",
-    "category": "india",
-    "title": "AIIMS, Harvard-Trained Gut Doctor Lists 10 Weird Signs Your Body Is Actually Healthy",
-    "summary": "Regular bowel movements indicate healthy functioning of the digestive tract",
-    "image": "https://c.ndtvimg.com/2026-04/dp8kiqqk_healthy-eating_625x300_03_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 17:57:13 +0530",
-    "link": "https://www.ndtv.com/health/aiims-harvard-gut-doctor-lists-10-weird-signs-your-body-is-actually-healthy-11318257#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-news-half-a-billion-dollars-the-likely-cost-of-f-15-crash-and-daring-rescue-op-11317632#publisher=newsstand",
-    "category": "india",
-    "title": "Half A Billion Dollars: The Likely Cost Of F-15 Crash And Daring Rescue Op",
-    "summary": "The F-15E downed by the Iranians roughly costs $100 million.",
-    "image": "https://c.ndtvimg.com/2026-04/17utqd7o_us-rescue-mission_625x300_06_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 17:56:56 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-news-half-a-billion-dollars-the-likely-cost-of-f-15-crash-and-daring-rescue-op-11317632#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/if-state-machinery-fails-top-court-on-threat-to-bengal-sir-officers-11318291#publisher=newsstand",
-    "category": "india",
-    "title": "\"If State Machinery Fails...\": Top Court On Threat To Bengal SIR Officers",
-    "summary": "\"If State Machinery Fails...\": Top Court On Threat To Bengal SIR Officers",
-    "image": "https://c.ndtvimg.com/2022-10/tthv9vd8_supreme-court-india-generic-pti_625x300_10_October_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 17:56:06 +0530",
-    "link": "https://www.ndtv.com/india-news/if-state-machinery-fails-top-court-on-threat-to-bengal-sir-officers-11318291#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/opinion/why-are-americas-most-advanced-planes-losing-to-iran-11316861#publisher=newsstand",
-    "category": "india",
-    "title": "Opinion: Opinion | How Iran Has Pierced The One 'Shield' That Protected America For 30 Years",
-    "summary": "The downing of the American F-15E and two A-10 Thunderbolt II lay bare the vulnerability of non-stealth, low-altitude platforms operating in contested environments.",
-    "image": "https://c.ndtvimg.com/2026-04/trf7pht_us-rescue-mission_625x300_06_April_26.jpg",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 17:54:39 +0530",
-    "link": "https://www.ndtv.com/opinion/why-are-americas-most-advanced-planes-losing-to-iran-11316861#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/up-board-completes-evaluation-process-to-release-class-10-12-result-soon-check-download-link-official-websites-11318497#publisher=newsstand",
-    "category": "india",
-    "title": "UP Board Completes Evaluation Process, To Release Class 10, 12 Result Soon",
-    "summary": "UP Board Class 10, 12 Result 2026 Out Soon, Check Download  Link, Details Here",
-    "image": "https://c.ndtvimg.com/2025-11/pe0u72n8_up-board-exams-2026_625x300_13_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 17:53:49 +0530",
-    "link": "https://www.ndtv.com/education/up-board-completes-evaluation-process-to-release-class-10-12-result-soon-check-download-link-official-websites-11318497#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/watch-woman-praises-introvert-friendly-technology-at-finland-airport-internet-reacts-11318343#publisher=newsstand",
-    "category": "india",
-    "title": "Watch: Woman Praises \"Introvert-Friendly\" Technology At Finland Airport, Internet Reacts",
-    "summary": "One user suggested that this system can be a \"headache\".",
-    "image": "https://c.ndtvimg.com/2026-04/jbgv224o_finland-airport_625x300_06_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 17:53:48 +0530",
-    "link": "https://www.ndtv.com/offbeat/watch-woman-praises-introvert-friendly-technology-at-finland-airport-internet-reacts-11318343#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/live-blog/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-talks-crude-brent-oil-ai-tech-stock-price-inflation-news/liveblog/130060936.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-talks-crude-brent-oil-ai-tech-stock-price-inflation-news/liveblog/130060936.cms",
     "category": "finance",
-    "title": "US Stock Market Today | Dow Jones | Nasdaq Live: S&amp;P 500, Nasdaq futures edge up as investors weigh Iran war develop",
+    "title": "US Stock Market Today | Dow Jones | Nasdaq Live: S&amp;P 500, Nasdaq open higher as investors weigh Iran war resolution ",
     "summary": "",
     "image": "https://img.etimg.com/photo/msid-130060936,imgsize-2521735.cms",
     "source": "ET",
     "pubDate": "Mon, 06 Apr 2026 17:53:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-talks-crude-brent-oil-ai-tech-stock-price-inflation-news/liveblog/130060936.cms"
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-talks-crude-brent-oil-ai-tech-stock-price-inflation-news/liveblog/130060936.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-iran-war-may-push-us-inflation-interest-rates-higher-than-expectations-warns-jpmorgan-ceo-jamie-dimon/articleshow/130060857.cms",
@@ -180,74 +230,54 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-iran-war-may-push-us-inflation-interest-rates-higher-than-expectations-warns-jpmorgan-ceo-jamie-dimon/articleshow/130060857.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/12-great-scholarships-for-indian-students-to-pursue-postgraduation-in-the-uk-11318459#publisher=newsstand",
-    "category": "india",
-    "title": "12 GREAT Scholarships For Indian Students To Pursue Postgraduation In UK",
-    "summary": "Each scholarship is worth a minimum of 10,000 pounds towards tuition fees.",
-    "image": "https://c.ndtvimg.com/2026-04/68peev5_study-abroad_625x300_06_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 17:47:16 +0530",
-    "link": "https://www.ndtv.com/education/12-great-scholarships-for-indian-students-to-pursue-postgraduation-in-the-uk-11318459#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1530765.html",
+    "category": "sports",
+    "title": "KKR bat with Narine and Varun unavailable",
+    "summary": "The last time KKR played without either mystery spinner was in 2019",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/360200/360287.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 06 Apr 2026 14:37:26 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530765.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-jump-on-mideast-peace-proposal-10-year-yield-slides-most-in-15-weeks/articleshow/130060680.cms",
-    "category": "finance",
-    "title": "India bonds jump on Mideast peace proposal, 10-year yield slides most in 15 weeks",
-    "summary": "Indian bonds surged \u200bon Monday, with the 10-year \u200byield falling the most in nearly 15 weeks, on \u200bhopes of an end to the Middle East war after the U.S. and Iran received the framework for a plan to end their five-week-old conflict.",
-    "image": "https://img.etimg.com/photo/msid-130060680,imgsize-153216.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 17:45:24 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-jump-on-mideast-peace-proposal-10-year-yield-slides-most-in-15-weeks/articleshow/130060680.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1530740.html",
+    "category": "sports",
+    "title": "Crocombe delivers as Sussex land emphatic 222-run win",
+    "summary": "Leicestershire show fight but can only delay inevitable, as visitors make quick amends for points deficit",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/338500/338563.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 06 Apr 2026 14:04:39 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530740.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/india-news/tea-tribe-factor-intensifies-battle-in-upper-assam-ahead-of-polls-11318463#publisher=newsstand",
-    "category": "india",
-    "title": "Tea Tribe Factor Intensifies Battle In Upper Assam Ahead Of Polls",
-    "summary": "The electoral battle in Upper Assam is shaping up to be intensely competitive. (Representational)",
-    "image": "https://c.ndtvimg.com/2024-05/iq20o3c_voting-generic-_625x300_07_May_24.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Apr 2026 17:44:49 +0530",
-    "link": "https://www.ndtv.com/india-news/tea-tribe-factor-intensifies-battle-in-upper-assam-ahead-of-polls-11318463#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/c625q951ng3o#0",
+    "category": "global",
+    "title": "Ban for teacher who told pupils about drunken night",
+    "summary": "Natasha Blackmore, 36, met students outside of school and told them of relationships and drunken nights.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 06 Apr 2026 13:50:44 GMT",
+    "link": "https://www.bbc.com/news/articles/c625q951ng3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-trent-ril-amp-dmart-among-8-big-movers-on-monday/slideshow/130059851.cms",
-    "category": "finance",
-    "title": "Gainers &amp; Losers: Trent, RIL &amp; DMart among 8 big movers on Monday",
-    "summary": "Trent, RIL, DMart, Senco Gold and other top movers drove D-Street action on Monday as Nifty rose 255 points and Sensex gained 787 points amid strong quarterly updates and market-wide buying.",
-    "image": "https://img.etimg.com/photo/msid-130059851,imgsize-54288.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 17:06:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-trent-ril-amp-dmart-among-8-big-movers-on-monday/slideshow/130059851.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1530755.html",
+    "category": "sports",
+    "title": "Sooryavanshi meets Bumrah as RR eye top of the table",
+    "summary": "Hardik Pandya is expected to return for MI after missing their game against DC",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415261.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 06 Apr 2026 13:33:13 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530755.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/rpsg-ventures-among-6-stocks-that-hit-52-week-high-rally-up-to-72-in-a-month/slideshow/130059739.cms",
-    "category": "finance",
-    "title": "RPSG Ventures among 6 stocks that hit 52-week high; rally up to 72% in a month",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-130059577,imgsize-6050.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 16:57:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/rpsg-ventures-among-6-stocks-that-hit-52-week-high-rally-up-to-72-in-a-month/slideshow/130059739.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/tdi-infratech-to-invest-rs-750-cr-on-150-acre-township-project-in-ludhiana-punjab/articleshow/130059319.cms",
-    "category": "finance",
-    "title": "TDI Infratech to invest Rs 750 cr on 150-acre township project in Ludhiana, Punjab",
-    "summary": "Realty firm TDI Infratech on Monday said it will invest Rs 750 crore to develop a 150-acre township in Ludhiana as part of its expansion plan.",
-    "image": "https://img.etimg.com/photo/msid-130059319,imgsize-9726.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 16:51:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/tdi-infratech-to-invest-rs-750-cr-on-150-acre-township-project-in-ludhiana-punjab/articleshow/130059319.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/max-estates-q4-pre-sales-at-rs-3392cr-fy26-bookings-flat-at-rs-5305cr/articleshow/130059159.cms",
-    "category": "finance",
-    "title": "Max Estates Q4 pre-sales at Rs 3,392cr, FY26 bookings flat at Rs 5,305cr",
-    "summary": "Realty firm Max Estates Ltd on Monday reported its sales bookings at Rs 3,392 crore for the fourth quarter of the last fiscal year on better demand for its properties.",
-    "image": "https://img.etimg.com/photo/msid-130059159,imgsize-20552.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 16:46:14 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/max-estates-q4-pre-sales-at-rs-3392cr-fy26-bookings-flat-at-rs-5305cr/articleshow/130059159.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1530750.html",
+    "category": "sports",
+    "title": "Hasaranga, Pathirana yet to undergo SLC-mandated fitness tests",
+    "summary": "They picked up injuries during the World Cup, and need to clear the tests to get NOCs for IPL 2026",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/412500/412506.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 06 Apr 2026 13:13:13 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530750.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cwywnkdn3zno#0",
@@ -258,16 +288,6 @@
     "source": "BBC",
     "pubDate": "Mon, 06 Apr 2026 13:00:29 GMT",
     "link": "https://www.bbc.com/news/articles/cwywnkdn3zno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx2vpz1kwreo#0",
-    "category": "global",
-    "title": "How rescue of US airman in remote part of Iran unfolded",
-    "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 06 Apr 2026 12:22:21 GMT",
-    "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c04xqglg7xgo#0",
@@ -338,26 +358,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 06 Apr 2026 07:24:52 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1530649.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530696.html",
-    "category": "sports",
-    "title": "Tim David and Rajat Patidar inflict bruising defeat on CSK",
-    "summary": "RCB posted 250 for 3, their third-highest total in the IPL and the highest ever by any team against CSK, and went on to win by 43 runs",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415330.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 06 Apr 2026 07:14:53 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530696.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530697.html",
-    "category": "sports",
-    "title": "Sultans back at the top of the table after spin and Smith trump Gladiators",
-    "summary": "Quetta Gladiators' 166 was never going to be enough, and Multan Sultans chased that target down in 17.3 overs",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415331.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 06 Apr 2026 06:08:34 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530697.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530724.html",
