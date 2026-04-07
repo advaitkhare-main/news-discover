@@ -20,94 +20,164 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-donald-trump-on-expletive-laded-post-against-iran-11320468#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/imf-cuts-global-growth-outlook-as-iran-war-chokes-oil-flags-inflation-risk-11320642#publisher=newsstand",
     "category": "india",
-    "title": "\"Don't Care About Critics\": Trump On Expletive-Laded Post Against Iran",
-    "summary": "Critics slammed Trump's profanity-laden post on Truth Social on Easter Sunday.",
-    "image": "https://c.ndtvimg.com/2026-04/5it6m17o_donald-trump_625x300_07_April_26.jpeg",
+    "title": "IMF Cuts Global Growth Outlook As Iran War Chokes Oil, Flags Inflation Risk",
+    "summary": "IMF MD Kristalina Georgieva says all roads lead to higher prices and slower growth.",
+    "image": "https://c.ndtvimg.com/2026-04/uvdorp3g_imf-md-kristalina-georgieva_625x300_07_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 03:57:25 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-on-expletive-laded-post-against-iran-11320468#publisher=newsstand"
+    "pubDate": "Tue, 07 Apr 2026 07:10:52 +0530",
+    "link": "https://www.ndtv.com/india-news/imf-cuts-global-growth-outlook-as-iran-war-chokes-oil-flags-inflation-risk-11320642#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-as-investors-parse-us-iran-negotiations-threats/articleshow/130070714.cms",
+    "id": "https://www.ndtv.com/india-news/air-india-ceo-campbell-wilson-steps-down-report-11320306#publisher=newsstand",
+    "category": "india",
+    "title": "Air India CEO Campbell Wilson Steps Down: Report",
+    "summary": "Campbell Wilson was appointed on a five-year contract.",
+    "image": "https://c.ndtvimg.com/2026-04/iivsdl2k_air-india-ceo-campbell-wilson_625x300_07_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 07 Apr 2026 07:07:02 +0530",
+    "link": "https://www.ndtv.com/india-news/air-india-ceo-campbell-wilson-steps-down-report-11320306#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/delhi-news/delhi-records-33-3-degrees-celsius-yellow-alert-issued-for-2-days-11320639#publisher=newsstand",
+    "category": "india",
+    "title": "Delhi Records 33.3 Degrees Celsius, Yellow Alert Issued For 2 Days",
+    "summary": "Minimum temperatures also stayed below normal across Delhi.",
+    "image": "https://c.ndtvimg.com/2023-06/rjbmlu_delhi-summer-generic-ani_625x300_12_June_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 07 Apr 2026 07:00:48 +0530",
+    "link": "https://www.ndtv.com/delhi-news/delhi-records-33-3-degrees-celsius-yellow-alert-issued-for-2-days-11320639#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/meghalaya-board-mbose-sslc10th-result-2026-live-marksheet-direct-link-pass-percentage-toppers-list-download-scorecard-live-updates-11320630#publisher=newsstand",
+    "category": "india",
+    "title": "Meghalaya Board MBOSE SSLC 10th Result 2026 LIVE: Matrics Result To Be Out Today At 11AM",
+    "summary": "Meghalaya Board MBOSE SSLC 10th Result 2026 LIVE: Marksheet Link And Toppers List",
+    "image": "https://c.ndtvimg.com/2025-04/8cqvi4g_meghalaya-board-of-school-education_625x300_05_April_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 07 Apr 2026 06:58:20 +0530",
+    "link": "https://www.ndtv.com/education/meghalaya-board-mbose-sslc10th-result-2026-live-marksheet-direct-link-pass-percentage-toppers-list-download-scorecard-live-updates-11320630#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/chennai-news/tamil-nadu-election-2026-chennai-lawyer-entrepreneur-youtuber-techie-chennais-egmore-to-see-1st-time-candidates-11320618#publisher=newsstand",
+    "category": "india",
+    "title": "Lawyer, Entrepreneur, YouTuber, Techie: Chennai's Egmore To See 1st Time Candidates",
+    "summary": "DMK's Tamilan Prasanna, AIADMK's Abishek Rengasamy and TVK's Raj Mohan are contesting from Egmore.",
+    "image": "https://c.ndtvimg.com/2026-04/ogntd5dg_egmore_625x300_07_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 07 Apr 2026 06:58:13 +0530",
+    "link": "https://www.ndtv.com/chennai-news/tamil-nadu-election-2026-chennai-lawyer-entrepreneur-youtuber-techie-chennais-egmore-to-see-1st-time-candidates-11320618#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/indias-most-advanced-atomic-reactor-prototype-fast-breeder-reactor-pfbr-at-kalpakkam-in-tamil-nadu-reaches-milestone-attains-criticality-11320590#publisher=newsstand",
+    "category": "india",
+    "title": "India's Most Advanced Atomic Reactor Reaches Milestone, Attains Criticality",
+    "summary": "The PFBR has been more than two decades in the making",
+    "image": "https://c.ndtvimg.com/2026-04/f4e5rp2s_pfbr_625x300_07_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 07 Apr 2026 06:47:02 +0530",
+    "link": "https://www.ndtv.com/india-news/indias-most-advanced-atomic-reactor-prototype-fast-breeder-reactor-pfbr-at-kalpakkam-in-tamil-nadu-reaches-milestone-attains-criticality-11320590#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-extend-gains-as-trump-sharpens-rhetoric-on-iran/articleshow/130073586.cms",
     "category": "finance",
-    "title": "US stocks today: US stocks end higher as investors parse US-Iran negotiations, threats",
-    "summary": "As eyes turn towards international events, Indian investors are paying close attention. US stock markets experienced a rally, fueled by hopeful signs surrounding US-Iran ceasefire negotiations. President Trump's assertive remarks concerning the Strai",
-    "image": "https://img.etimg.com/photo/msid-130070714,imgsize-24394.cms",
+    "title": "Oil prices extend gains as Trump sharpens rhetoric on Iran",
+    "summary": "Oil prices climbed Tuesday as President Trump intensified threats against Iran over the Strait of Hormuz. Iran rejected a ceasefire, demanding a permanent end to the war, while disruptions to oil flows and damaged energy facilities continue to suppor",
+    "image": "https://img.etimg.com/photo/msid-130073586,imgsize-1149937.cms",
     "source": "ET",
-    "pubDate": "Tue, 07 Apr 2026 01:37:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-as-investors-parse-us-iran-negotiations-threats/articleshow/130070714.cms"
+    "pubDate": "Tue, 07 Apr 2026 06:41:14 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-extend-gains-as-trump-sharpens-rhetoric-on-iran/articleshow/130073586.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-donald-trump-eyes-iran-oil-as-war-expands-11320323#publisher=newsstand",
-    "category": "india",
-    "title": "\"I Am A Businessman First\": Trump Eyes Iran Oil As War Expands",
-    "summary": "Trump argued that securing oil resources could offset the cost of military operations.",
-    "image": "https://c.ndtvimg.com/2026-04/abf5jsqk_donald-trump_625x300_07_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 01:06:55 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-eyes-iran-oil-as-war-expands-11320323#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-higher-with-iran-deadline-in-focus/articleshow/130073519.cms",
+    "category": "finance",
+    "title": "Global Market Today: Asian stocks open higher with Iran deadline in focus",
+    "summary": "Markets are reacting to uncertainty surrounding President Donald Trump's Iran deadline. Tentative ceasefire signals are battling fears of conflict escalation. Brent crude oil prices are fluctuating. Asian shares saw gains, led by technology stocks. P",
+    "image": "https://img.etimg.com/photo/msid-130073519,imgsize-28316.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Apr 2026 06:29:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-higher-with-iran-deadline-in-focus/articleshow/130073519.cms"
   },
   {
-    "id": "https://www.ndtv.com/feature/study-suggests-planet-earth-might-have-reached-its-limit-11320263#publisher=newsstand",
-    "category": "india",
-    "title": "Study Suggests Planet Earth Might Have Reached Its Limit",
-    "summary": "The study's findings emphasise the urgent need for sustainable practices and global cooperation to mitigate the ecological crisis.",
-    "image": "https://c.ndtvimg.com/2026-04/dtcab4mk_earth_625x300_07_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 00:35:56 +0530",
-    "link": "https://www.ndtv.com/feature/study-suggests-planet-earth-might-have-reached-its-limit-11320263#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/non-life-insurers-seen-holding-up-better-than-life-peers/articleshow/130073489.cms",
+    "category": "finance",
+    "title": "Non-life insurers seen holding up better than life peers",
+    "summary": "Indian insurers anticipate subdued Q4 earnings due to equity market declines impacting investment gains. While life insurers face muted profitability and slower demand for ULIPs and guaranteed products, general and health insurers are poised for robu",
+    "image": "https://img.etimg.com/photo/msid-130073489,imgsize-29454.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Apr 2026 06:24:22 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/non-life-insurers-seen-holding-up-better-than-life-peers/articleshow/130073489.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/iran-war-donald-trump-says-iranians-should-rise-up-against-government-if-ceasefire-declared-11320257#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Says Iranians Should Rise Up Against Government If Ceasefire Declared",
-    "summary": "Iran War: Trump, who has threatened to bomb Iran's power plants and bridges, also said he believed Iranians \"would be willing to suffer that in order to have freedom.\"",
-    "image": "https://c.ndtvimg.com/2026-03/v72pufqg_donald-trump-reuters_625x300_28_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 00:34:41 +0530",
-    "link": "https://www.ndtv.com/india-news/iran-war-donald-trump-says-iranians-should-rise-up-against-government-if-ceasefire-declared-11320257#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/telecom-earnings-likely-to-stay-subdued-in-q4/articleshow/130073450.cms",
+    "category": "finance",
+    "title": "Telecom earnings likely to stay subdued in Q4",
+    "summary": "Telecom operators are poised for a muted March quarter, with analysts anticipating steady underlying growth tempered by fewer operating days and rising energy costs. Investor focus is shifting towards upcoming tariff hikes, expected between 10-20% in",
+    "image": "https://img.etimg.com/photo/msid-130073450,imgsize-183468.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Apr 2026 06:17:21 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/telecom-earnings-likely-to-stay-subdued-in-q4/articleshow/130073450.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/artemis-ii-astronauts-on-lunar-flyby-travel-farthest-into-space-than-any-human-11320123#publisher=newsstand",
-    "category": "india",
-    "title": "Artemis Astronauts On Lunar Flyby Travel Further Into Space Than Any Human",
-    "summary": "The Artemis II team broke the previous record set by 1970's Apollo 13 mission",
-    "image": "https://c.ndtvimg.com/2026-04/n3m9eq04_nasa-artemis-2-prapti_625x300_06_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 00:28:59 +0530",
-    "link": "https://www.ndtv.com/world-news/artemis-ii-astronauts-on-lunar-flyby-travel-farthest-into-space-than-any-human-11320123#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130065235.cms",
+    "category": "finance",
+    "title": "GIFT Nifty down 80 points; here's the trading setup for today's session",
+    "summary": "Indian stock markets continued their upward trend for a third day. Analysts suggest further gains are possible if the market surpasses Monday's high. A failure to do so could lead to a period of consolidation. The India VIX, a fear gauge, saw a sligh",
+    "image": "https://img.etimg.com/photo/msid-130065235,imgsize-88221.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Apr 2026 06:11:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130065235.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-f-15-rescue-donald-trump-war-news-iran-did-not-know-f-15-airman-was-missing-then-a-leaker-broke-the-story-11320156#publisher=newsstand",
-    "category": "india",
-    "title": "\"Give It Up Or Go To Jail\": Trump Vows To Find F-15 \"Leak\", Threatens Media",
-    "summary": "Trump said the disclosure forced the US military into a far more difficult position.",
-    "image": "https://c.ndtvimg.com/2026-04/kgag1ulo_trump_625x300_06_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 00:24:51 +0530",
-    "link": "https://www.ndtv.com/world-news/us-f-15-rescue-donald-trump-war-news-iran-did-not-know-f-15-airman-was-missing-then-a-leaker-broke-the-story-11320156#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-nykaa-godrej-consumer-titagarh-rail-fino-payments-bank-nmdc/articleshow/130065134.cms",
+    "category": "finance",
+    "title": "Stocks in news: Nykaa, Godrej Consumer, Titagarh Rail, Fino Payments Bank, NMDC",
+    "summary": "Indian markets closed with over 1% gains, though volatility persisted. Analysts eye crude oil prices and India Vix for sustained recovery. Key stocks like Nykaa, NMDC, and Godrej Consumer are in focus due to Q4 results and news. PC Jeweller reported ",
+    "image": "https://img.etimg.com/photo/msid-130065134,imgsize-605584.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Apr 2026 06:11:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-nykaa-godrej-consumer-titagarh-rail-fino-payments-bank-nmdc/articleshow/130065134.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/delhi-assembly-breach-sarabjit-singh-hes-mentally-unstable-family-of-man-who-breached-delhi-assembly-11320184#publisher=newsstand",
-    "category": "india",
-    "title": "\"He's Mentally Unstable\": Family Of Man Who Breached Delhi Assembly",
-    "summary": "According to initial reports, Sarabjit entered the Vidhan Sabha premises alone.",
-    "image": "https://c.ndtvimg.com/2026-04/8mqje8uc_delhi-assembly-breach-sarabjit-singh-_625x300_07_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 00:20:10 +0530",
-    "link": "https://www.ndtv.com/india-news/delhi-assembly-breach-sarabjit-singh-hes-mentally-unstable-family-of-man-who-breached-delhi-assembly-11320184#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-moves-to-curb-rupee-volatility-after-sharp-fy26-slide/articleshow/130073394.cms",
+    "category": "finance",
+    "title": "RBI moves to curb rupee volatility after sharp FY26 slide",
+    "summary": "The Reserve Bank of India is tightening oversight of foreign-exchange markets and non-deliverable forward (NDF) norms to curb rupee volatility. Recent directives cap banks' net open foreign-exchange positions and prohibit offering rupee NDF contracts",
+    "image": "https://img.etimg.com/photo/msid-130073394,imgsize-1149314.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Apr 2026 06:06:48 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-moves-to-curb-rupee-volatility-after-sharp-fy26-slide/articleshow/130073394.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-iran-israel-war-middle-east-live-updates-trump-deadline-strait-of-hormuz-oil-prices-dubai-uae-11316005#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/ukraine-president-volodymyr-zelensky-says-he-stands-by-ceasefire-proposal-to-russia-11320555#publisher=newsstand",
     "category": "india",
-    "title": "US-Iran War Live Updates: Trump Says Iranians 'Willing To Suffer' For Freedom",
-    "summary": "US Israel Iran War Live Updates: Trump has threatened further strikes on Iran.",
-    "image": "https://c.ndtvimg.com/2026-04/5894ulk4_khademi_625x300_06_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Ukraine's Zelensky Says He Stands By Ceasefire Proposal To Russia",
+    "summary": "Zelensky said in his nightly video address that the proposal had been conveyed to Moscow through the US.",
+    "image": "https://c.ndtvimg.com/2022-04/o6tn4et4_ukrainian-president-volodymyr-zelensky_625x300_02_April_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 00:08:48 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-israel-war-middle-east-live-updates-trump-deadline-strait-of-hormuz-oil-prices-dubai-uae-11316005#publisher=newsstand"
+    "pubDate": "Tue, 07 Apr 2026 05:53:26 +0530",
+    "link": "https://www.ndtv.com/world-news/ukraine-president-volodymyr-zelensky-says-he-stands-by-ceasefire-proposal-to-russia-11320555#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/10-year-benchmark-sovereign-bond-yield-falls-9-bps/articleshow/130073351.cms",
+    "category": "finance",
+    "title": "10-year benchmark sovereign bond yield falls 9 bps",
+    "summary": "Indian sovereign bond yields saw a significant drop on Monday. This retreat followed reports of a potential de-escalation in the West Asia war. Expectations of a peace framework between the US and Iran boosted market sentiment. Additionally, a lower-",
+    "image": "https://img.etimg.com/photo/msid-130073351,imgsize-91929.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Apr 2026 05:52:24 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/10-year-benchmark-sovereign-bond-yield-falls-9-bps/articleshow/130073351.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/artemis-ii-astronauts-regain-contact-with-nasa-after-40-minute-blackout-11320529#publisher=newsstand",
+    "category": "india",
+    "title": "Artemis II Astronauts Regain Contact With NASA After 40-Minute Blackout",
+    "summary": "Soon astronauts will witness a solar eclipse, when the Sun will be behind the Moon.",
+    "image": "https://c.ndtvimg.com/2026-04/ie4uch2g_artemis-ii-mission_625x300_07_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 07 Apr 2026 05:44:01 +0530",
+    "link": "https://www.ndtv.com/world-news/artemis-ii-astronauts-regain-contact-with-nasa-after-40-minute-blackout-11320529#publisher=newsstand"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
@@ -140,7 +210,7 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c070v00xzl5o#1",
+    "id": "https://www.bbc.com/news/articles/c070v00xzl5o#0",
     "category": "global",
     "title": "Call for parents to teach online privacy like road safety",
     "summary": "Three in four parents fear their child cannot make safe choices about personal data online, the data watchdog finds.",
@@ -150,9 +220,9 @@
     "link": "https://www.bbc.com/news/articles/c070v00xzl5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/czexw94rj5jo#1",
+    "id": "https://www.bbc.com/news/articles/czexw94rj5jo#0",
     "category": "global",
-    "title": "Trump's deadline nears - with little indication Iran is on board",
+    "title": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
     "summary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -160,7 +230,7 @@
     "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c8ej461k3e5o#1",
+    "id": "https://www.bbc.com/news/articles/c8ej461k3e5o#0",
     "category": "global",
     "title": "Disruption expected as six-day doctors' strike begins",
     "summary": "The NHS is advising patients in England to only use emergency services when necessary but attend any confirmed appointments.",
@@ -170,37 +240,7 @@
     "link": "https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-feds-austan-goolsbee-beth-hammack-say-inflation-is-flashing-orange-or-worse/articleshow/130067610.cms",
-    "category": "finance",
-    "title": "US Fed's Austan Goolsbee, Beth Hammack say inflation is flashing 'orange' or worse",
-    "summary": "Federal Reserve officials Beth Hammack and Austan Goolsbee expressed concern over persistent inflation, rating it orange to red. While Hammack sees the labor market as yellow to green, Goolsbee views it as yellow due to uncertainty. Both acknowledge ",
-    "image": "https://img.etimg.com/photo/msid-130067610,imgsize-79834.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 22:57:55 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-feds-austan-goolsbee-beth-hammack-say-inflation-is-flashing-orange-or-worse/articleshow/130067610.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-considering-large-scale-training-push-for-independent-directors-to-boost-corporate-governance-tuhin-kanta-pandey/articleshow/130066352.cms",
-    "category": "finance",
-    "title": "Sebi considering large-scale training push for independent directors to boost corporate governance: Tuhin Kanta Pandey",
-    "summary": "Sebi is planning a large-scale capacity-building initiative for independent directors to strengthen corporate governance, Chairman Tuhin Kanta Pandey said. The move signals a shift from rule-making to improving boardroom effectiveness, with focus on ",
-    "image": "https://img.etimg.com/photo/msid-130066352,imgsize-198784.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 22:12:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-considering-large-scale-training-push-for-independent-directors-to-boost-corporate-governance-tuhin-kanta-pandey/articleshow/130066352.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/update-1-ny-fed-says-march-supply-chain-pressures-highest-since-start-of-2023/articleshow/130066269.cms",
-    "category": "finance",
-    "title": "NY Fed says March supply chain pressures highest since start of 2023",
-    "summary": "In March, supply chain pressures surged to levels unseen since earlier this year, largely due to the ongoing conflict in the Middle East. This escalation could further drive up inflation, creating hurdles for the Federal Reserve's price stabilization",
-    "image": "https://img.etimg.com/photo/msid-130066269,imgsize-165762.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 22:11:45 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/update-1-ny-fed-says-march-supply-chain-pressures-highest-since-start-of-2023/articleshow/130066269.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cqj8ep9w1pno#1",
+    "id": "https://www.bbc.com/news/articles/cqj8ep9w1pno#0",
     "category": "global",
     "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
     "summary": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline.",
@@ -210,54 +250,24 @@
     "link": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/new-jersey-cannot-regulate-kalshis-prediction-market-us-appeals-court-rules/articleshow/130065838.cms",
-    "category": "finance",
-    "title": "New Jersey cannot regulate Kalshi's prediction market, US appeals court rules",
-    "summary": "A federal appeals court ruled on Monday that New Jersey gaming regulators cannot prevent Kalshi from \u200ballowing people in the state to use \u200bits prediction market to place financial bets on the outcome of sporting events.",
-    "image": "https://img.etimg.com/photo/msid-130065838,imgsize-12142.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 21:44:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/new-jersey-cannot-regulate-kalshis-prediction-market-us-appeals-court-rules/articleshow/130065838.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-national-healthcare-properties-moves-closer-to-public-markets-with-us-ipo-filing/articleshow/130065715.cms",
-    "category": "finance",
-    "title": "US Stocks: National Healthcare Properties moves closer to public markets with US IPO filing",
-    "summary": "National Healthcare Properties \u200bmade public its paperwork for \u200ba U.S. initial public offering on Monday, the latest \u200breal estate investment trust looking to tap public markets this year.",
-    "image": "https://img.etimg.com/photo/msid-130065715,imgsize-18922.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 21:40:08 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-national-healthcare-properties-moves-closer-to-public-markets-with-us-ipo-filing/articleshow/130065715.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/white-house-says-increased-productivity-means-fed-can-cut-rates/articleshow/130065638.cms",
-    "category": "finance",
-    "title": "White House says increased productivity means Fed can cut rates",
-    "summary": "White \u200bHouse economic adviser \u200bKevin Hassett told CNBC on \u200cMonday \u2060that he \u2060expects \u200bincreased productivity in the \u200bU.S. economy will allow \u200bthe \u2060Federal Reserve to \u200clower \u200binterest \u200brates.",
-    "image": "https://img.etimg.com/photo/msid-130065638,imgsize-68338.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 21:35:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/white-house-says-increased-productivity-means-fed-can-cut-rates/articleshow/130065638.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwyvr08l7lzo#1",
+    "id": "https://www.bbc.com/news/articles/c4gxz5zw348o#0",
     "category": "global",
-    "title": "Wireless Festival boss defends Kanye West booking and asks people to forgive rapper",
-    "summary": "Its managing director calls the rapper's past comments \"abhorrent\" but asks people to \"offer some forgiveness\".",
+    "title": "Schools in knife crime hotspots to get specialist training",
+    "summary": "A new partnership will provide training for school leaders about knife-crime risk, the government says.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 06 Apr 2026 21:31:06 GMT",
-    "link": "https://www.bbc.com/news/articles/cwyvr08l7lzo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 06 Apr 2026 21:30:13 GMT",
+    "link": "https://www.bbc.com/news/articles/c4gxz5zw348o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wells-fargo-investment-institute-downgrades-energy-sector-to-unfavorable-on-limited-war-premium/articleshow/130065593.cms",
-    "category": "finance",
-    "title": "Wells Fargo Investment Institute downgrades energy sector to 'unfavorable' on limited war premium",
-    "summary": "Wells Fargo Investment Institute downgraded its rating on \u200bthe S&amp;P 500 \u200benergy sector to \"unfavorable\", citing what it \u200bsaid were limited prospects for a sustained oil-price risk premium despite the ongoing conflict in the Middle East.",
-    "image": "https://img.etimg.com/photo/msid-130065593,imgsize-45130.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Apr 2026 21:30:57 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wells-fargo-investment-institute-downgrades-energy-sector-to-unfavorable-on-limited-war-premium/articleshow/130065593.cms"
+    "id": "https://www.bbc.com/news/articles/c0mj4jeyvmzo#0",
+    "category": "global",
+    "title": "Trump endorses ex-UK political aide Steve Hilton for California governor",
+    "summary": "Steve Hilton, who advised the former prime minster and hosted a Fox News show, is running as a Republican.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 06 Apr 2026 18:55:45 GMT",
+    "link": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530784.html",
@@ -300,16 +310,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530783.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c04xqglg7xgo#1",
-    "category": "global",
-    "title": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
-    "summary": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 06 Apr 2026 18:07:46 GMT",
-    "link": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1530744.html",
     "category": "sports",
     "title": "Waite, Hose and Brookes scupper Derbyshire",
@@ -320,7 +320,7 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530744.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cddqm316mvjo#1",
+    "id": "https://www.bbc.com/news/articles/cddqm316mvjo#0",
     "category": "global",
     "title": "Illegal rave shut down as police face 'violent and hostile' crowd",
     "summary": "Dorset Police said the event drew about 2,000 people and more than 100 vehicles.",
@@ -350,7 +350,7 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530747.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/weather/articles/cn7866klrp2o#1",
+    "id": "https://www.bbc.com/weather/articles/cn7866klrp2o#0",
     "category": "global",
     "title": "Warmest weather of the year expected with 24C this week",
     "summary": "The warmest weather of the year is expected on Tuesday and Wednesday as temperatures rise above average, as Simon King explains",
