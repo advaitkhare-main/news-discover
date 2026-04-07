@@ -20,164 +20,214 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://www.ndtv.com/india-news/imf-cuts-global-growth-outlook-as-iran-war-chokes-oil-flags-inflation-risk-11320642#publisher=newsstand",
-    "category": "india",
-    "title": "IMF Cuts Global Growth Outlook As Iran War Chokes Oil, Flags Inflation Risk",
-    "summary": "IMF MD Kristalina Georgieva says all roads lead to higher prices and slower growth.",
-    "image": "https://c.ndtvimg.com/2026-04/uvdorp3g_imf-md-kristalina-georgieva_625x300_07_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 07:10:52 +0530",
-    "link": "https://www.ndtv.com/india-news/imf-cuts-global-growth-outlook-as-iran-war-chokes-oil-flags-inflation-risk-11320642#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/air-india-ceo-campbell-wilson-steps-down-report-11320306#publisher=newsstand",
-    "category": "india",
-    "title": "Air India CEO Campbell Wilson Steps Down: Report",
-    "summary": "Campbell Wilson was appointed on a five-year contract.",
-    "image": "https://c.ndtvimg.com/2026-04/iivsdl2k_air-india-ceo-campbell-wilson_625x300_07_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 07:07:02 +0530",
-    "link": "https://www.ndtv.com/india-news/air-india-ceo-campbell-wilson-steps-down-report-11320306#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/delhi-news/delhi-records-33-3-degrees-celsius-yellow-alert-issued-for-2-days-11320639#publisher=newsstand",
-    "category": "india",
-    "title": "Delhi Records 33.3 Degrees Celsius, Yellow Alert Issued For 2 Days",
-    "summary": "Minimum temperatures also stayed below normal across Delhi.",
-    "image": "https://c.ndtvimg.com/2023-06/rjbmlu_delhi-summer-generic-ani_625x300_12_June_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 07:00:48 +0530",
-    "link": "https://www.ndtv.com/delhi-news/delhi-records-33-3-degrees-celsius-yellow-alert-issued-for-2-days-11320639#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/meghalaya-board-mbose-sslc10th-result-2026-live-marksheet-direct-link-pass-percentage-toppers-list-download-scorecard-live-updates-11320630#publisher=newsstand",
-    "category": "india",
-    "title": "Meghalaya Board MBOSE SSLC 10th Result 2026 LIVE: Matrics Result To Be Out Today At 11AM",
-    "summary": "Meghalaya Board MBOSE SSLC 10th Result 2026 LIVE: Marksheet Link And Toppers List",
-    "image": "https://c.ndtvimg.com/2025-04/8cqvi4g_meghalaya-board-of-school-education_625x300_05_April_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 06:58:20 +0530",
-    "link": "https://www.ndtv.com/education/meghalaya-board-mbose-sslc10th-result-2026-live-marksheet-direct-link-pass-percentage-toppers-list-download-scorecard-live-updates-11320630#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/chennai-news/tamil-nadu-election-2026-chennai-lawyer-entrepreneur-youtuber-techie-chennais-egmore-to-see-1st-time-candidates-11320618#publisher=newsstand",
-    "category": "india",
-    "title": "Lawyer, Entrepreneur, YouTuber, Techie: Chennai's Egmore To See 1st Time Candidates",
-    "summary": "DMK's Tamilan Prasanna, AIADMK's Abishek Rengasamy and TVK's Raj Mohan are contesting from Egmore.",
-    "image": "https://c.ndtvimg.com/2026-04/ogntd5dg_egmore_625x300_07_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 06:58:13 +0530",
-    "link": "https://www.ndtv.com/chennai-news/tamil-nadu-election-2026-chennai-lawyer-entrepreneur-youtuber-techie-chennais-egmore-to-see-1st-time-candidates-11320618#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/indias-most-advanced-atomic-reactor-prototype-fast-breeder-reactor-pfbr-at-kalpakkam-in-tamil-nadu-reaches-milestone-attains-criticality-11320590#publisher=newsstand",
-    "category": "india",
-    "title": "India's Most Advanced Atomic Reactor Reaches Milestone, Attains Criticality",
-    "summary": "The PFBR has been more than two decades in the making",
-    "image": "https://c.ndtvimg.com/2026-04/f4e5rp2s_pfbr_625x300_07_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 06:47:02 +0530",
-    "link": "https://www.ndtv.com/india-news/indias-most-advanced-atomic-reactor-prototype-fast-breeder-reactor-pfbr-at-kalpakkam-in-tamil-nadu-reaches-milestone-attains-criticality-11320590#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-extend-gains-as-trump-sharpens-rhetoric-on-iran/articleshow/130073586.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/iran-war-impact-on-travel-how-jefferies-is-tweaking-its-hotel-airline-stock-portfolio/articleshow/130076408.cms",
     "category": "finance",
-    "title": "Oil prices extend gains as Trump sharpens rhetoric on Iran",
-    "summary": "Oil prices climbed Tuesday as President Trump intensified threats against Iran over the Strait of Hormuz. Iran rejected a ceasefire, demanding a permanent end to the war, while disruptions to oil flows and damaged energy facilities continue to suppor",
-    "image": "https://img.etimg.com/photo/msid-130073586,imgsize-1149937.cms",
+    "title": "Iran war impact on travel: How Jefferies is tweaking its hotel, airline stock portfolio",
+    "summary": "Jefferies has turned cautious on India\u2019s travel sector as the Iran\u2013Middle East war hurts international traffic, lifts fuel costs and weakens foreign tourist arrivals. It trims earnings for airlines, hotels and travel-tech names, while maintaining BUY",
+    "image": "https://img.etimg.com/photo/msid-130076408,imgsize-2865167.cms",
     "source": "ET",
-    "pubDate": "Tue, 07 Apr 2026 06:41:14 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-extend-gains-as-trump-sharpens-rhetoric-on-iran/articleshow/130073586.cms"
+    "pubDate": "Tue, 07 Apr 2026 10:23:32 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/iran-war-impact-on-travel-how-jefferies-is-tweaking-its-hotel-airline-stock-portfolio/articleshow/130076408.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-higher-with-iran-deadline-in-focus/articleshow/130073519.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/creditaccess-grameen-shares-rocket-10-after-strong-q4-business-update-disbursements-jump-28-yoy/articleshow/130076330.cms",
     "category": "finance",
-    "title": "Global Market Today: Asian stocks open higher with Iran deadline in focus",
-    "summary": "Markets are reacting to uncertainty surrounding President Donald Trump's Iran deadline. Tentative ceasefire signals are battling fears of conflict escalation. Brent crude oil prices are fluctuating. Asian shares saw gains, led by technology stocks. P",
-    "image": "https://img.etimg.com/photo/msid-130073519,imgsize-28316.cms",
+    "title": "CreditAccess Grameen shares rocket 10% after strong Q4 business update, disbursements jump 28% YoY",
+    "summary": "CreditAccess Grameen shares surged after reporting strong FY26 disbursement growth and robust Q4 performance. The company posted steady portfolio expansion, improved asset quality, and sharp profit growth in Q3. Rising retail contribution and borrowe",
+    "image": "https://img.etimg.com/photo/msid-130076330,imgsize-8372.cms",
     "source": "ET",
-    "pubDate": "Tue, 07 Apr 2026 06:29:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-higher-with-iran-deadline-in-focus/articleshow/130073519.cms"
+    "pubDate": "Tue, 07 Apr 2026 10:18:08 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/creditaccess-grameen-shares-rocket-10-after-strong-q4-business-update-disbursements-jump-28-yoy/articleshow/130076330.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/non-life-insurers-seen-holding-up-better-than-life-peers/articleshow/130073489.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-spacex-plans-record-breaking-ipo-with-massive-retail-investor-push/articleshow/130076270.cms",
     "category": "finance",
-    "title": "Non-life insurers seen holding up better than life peers",
-    "summary": "Indian insurers anticipate subdued Q4 earnings due to equity market declines impacting investment gains. While life insurers face muted profitability and slower demand for ULIPs and guaranteed products, general and health insurers are poised for robu",
-    "image": "https://img.etimg.com/photo/msid-130073489,imgsize-29454.cms",
+    "title": "US Stock Market | SpaceX plans record-breaking IPO with massive retail investor push",
+    "summary": "SpaceX is preparing for a groundbreaking IPO, planning to allocate an unusually large share to retail investors, potentially up to 30%. This move aims to reward supporters and broaden participation beyond traditional institutions. The company is also",
+    "image": "https://img.etimg.com/photo/msid-130076270,imgsize-89488.cms",
     "source": "ET",
-    "pubDate": "Tue, 07 Apr 2026 06:24:22 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/non-life-insurers-seen-holding-up-better-than-life-peers/articleshow/130073489.cms"
+    "pubDate": "Tue, 07 Apr 2026 10:13:29 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-spacex-plans-record-breaking-ipo-with-massive-retail-investor-push/articleshow/130076270.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/telecom-earnings-likely-to-stay-subdued-in-q4/articleshow/130073450.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/dont-rush-to-buy-the-dip-yet-warns-ajay-bagga-heres-why/articleshow/130076237.cms",
     "category": "finance",
-    "title": "Telecom earnings likely to stay subdued in Q4",
-    "summary": "Telecom operators are poised for a muted March quarter, with analysts anticipating steady underlying growth tempered by fewer operating days and rising energy costs. Investor focus is shifting towards upcoming tariff hikes, expected between 10-20% in",
-    "image": "https://img.etimg.com/photo/msid-130073450,imgsize-183468.cms",
+    "title": "Don't rush to buy the dip yet, warns Ajay Bagga; here's why",
+    "summary": "Market expert Ajay Bagga advises investors to exercise patience amid Middle East conflict, warning against chasing early market upticks due to elevated downside risks. He anticipates a prolonged conflict could trigger a strong global recession, impac",
+    "image": "https://img.etimg.com/photo/msid-130076237,imgsize-19162.cms",
     "source": "ET",
-    "pubDate": "Tue, 07 Apr 2026 06:17:21 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/telecom-earnings-likely-to-stay-subdued-in-q4/articleshow/130073450.cms"
+    "pubDate": "Tue, 07 Apr 2026 10:12:03 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/dont-rush-to-buy-the-dip-yet-warns-ajay-bagga-heres-why/articleshow/130076237.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130065235.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/torn-between-largecap-and-smallcap-funds-the-sweet-spot-may-be-in-the-middle/articleshow/130076198.cms",
     "category": "finance",
-    "title": "GIFT Nifty down 80 points; here's the trading setup for today's session",
-    "summary": "Indian stock markets continued their upward trend for a third day. Analysts suggest further gains are possible if the market surpasses Monday's high. A failure to do so could lead to a period of consolidation. The India VIX, a fear gauge, saw a sligh",
-    "image": "https://img.etimg.com/photo/msid-130065235,imgsize-88221.cms",
+    "title": "Torn between largecap and smallcap funds? The sweet spot may be in the middle",
+    "summary": "Midcap funds have emerged as a stable investment option, delivering positive returns in FY26 while largecap and smallcap funds faltered. This outperformance is attributed to market flows and strong business performance in sectors like manufacturing a",
+    "image": "https://img.etimg.com/photo/msid-130076198,imgsize-3203148.cms",
     "source": "ET",
-    "pubDate": "Tue, 07 Apr 2026 06:11:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130065235.cms"
+    "pubDate": "Tue, 07 Apr 2026 10:09:27 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/torn-between-largecap-and-smallcap-funds-the-sweet-spot-may-be-in-the-middle/articleshow/130076198.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-nykaa-godrej-consumer-titagarh-rail-fino-payments-bank-nmdc/articleshow/130065134.cms",
-    "category": "finance",
-    "title": "Stocks in news: Nykaa, Godrej Consumer, Titagarh Rail, Fino Payments Bank, NMDC",
-    "summary": "Indian markets closed with over 1% gains, though volatility persisted. Analysts eye crude oil prices and India Vix for sustained recovery. Key stocks like Nykaa, NMDC, and Godrej Consumer are in focus due to Q4 results and news. PC Jeweller reported ",
-    "image": "https://img.etimg.com/photo/msid-130065134,imgsize-605584.cms",
-    "source": "ET",
-    "pubDate": "Tue, 07 Apr 2026 06:11:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-nykaa-godrej-consumer-titagarh-rail-fino-payments-bank-nmdc/articleshow/130065134.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-moves-to-curb-rupee-volatility-after-sharp-fy26-slide/articleshow/130073394.cms",
-    "category": "finance",
-    "title": "RBI moves to curb rupee volatility after sharp FY26 slide",
-    "summary": "The Reserve Bank of India is tightening oversight of foreign-exchange markets and non-deliverable forward (NDF) norms to curb rupee volatility. Recent directives cap banks' net open foreign-exchange positions and prohibit offering rupee NDF contracts",
-    "image": "https://img.etimg.com/photo/msid-130073394,imgsize-1149314.cms",
-    "source": "ET",
-    "pubDate": "Tue, 07 Apr 2026 06:06:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-moves-to-curb-rupee-volatility-after-sharp-fy26-slide/articleshow/130073394.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/ukraine-president-volodymyr-zelensky-says-he-stands-by-ceasefire-proposal-to-russia-11320555#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/centre-doubles-daily-allocation-of-5-kg-free-trade-lpg-cylinders-for-migrant-labourers-across-states-11321070#publisher=newsstand",
     "category": "india",
-    "title": "Ukraine's Zelensky Says He Stands By Ceasefire Proposal To Russia",
-    "summary": "Zelensky said in his nightly video address that the proposal had been conveyed to Moscow through the US.",
-    "image": "https://c.ndtvimg.com/2022-04/o6tn4et4_ukrainian-president-volodymyr-zelensky_625x300_02_April_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Relief For Migrants, Centre Doubles Allocation Of 5 Kg Cylinders To States",
+    "summary": "5 kg LPG cylinders can be bought by just showing an identity proof",
+    "image": "https://c.ndtvimg.com/2025-01/hqg0gkh_stove-gas-burner-generic_625x300_11_January_25.jpg",
     "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 05:53:26 +0530",
-    "link": "https://www.ndtv.com/world-news/ukraine-president-volodymyr-zelensky-says-he-stands-by-ceasefire-proposal-to-russia-11320555#publisher=newsstand"
+    "pubDate": "Tue, 07 Apr 2026 10:07:38 +0530",
+    "link": "https://www.ndtv.com/india-news/centre-doubles-daily-allocation-of-5-kg-free-trade-lpg-cylinders-for-migrant-labourers-across-states-11321070#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/10-year-benchmark-sovereign-bond-yield-falls-9-bps/articleshow/130073351.cms",
-    "category": "finance",
-    "title": "10-year benchmark sovereign bond yield falls 9 bps",
-    "summary": "Indian sovereign bond yields saw a significant drop on Monday. This retreat followed reports of a potential de-escalation in the West Asia war. Expectations of a peace framework between the US and Iran boosted market sentiment. Additionally, a lower-",
-    "image": "https://img.etimg.com/photo/msid-130073351,imgsize-91929.cms",
-    "source": "ET",
-    "pubDate": "Tue, 07 Apr 2026 05:52:24 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/10-year-benchmark-sovereign-bond-yield-falls-9-bps/articleshow/130073351.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/artemis-ii-astronauts-regain-contact-with-nasa-after-40-minute-blackout-11320529#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/world-health-day-2026-mandate-why-standing-with-science-is-the-only-way-to-survive-the-wellness-misinformation-era-11319527#publisher=newsstand",
     "category": "india",
-    "title": "Artemis II Astronauts Regain Contact With NASA After 40-Minute Blackout",
-    "summary": "Soon astronauts will witness a solar eclipse, when the Sun will be behind the Moon.",
-    "image": "https://c.ndtvimg.com/2026-04/ie4uch2g_artemis-ii-mission_625x300_07_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "World Health Day 2026 Mandate: Why 'Standing With Science' Is the Only Way To Survive The Wellness Misinformation Era",
+    "summary": "Image for representation purposes only",
+    "image": "https://c.ndtvimg.com/2026-04/71p6479k_health-misinformation_625x300_06_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 05:44:01 +0530",
-    "link": "https://www.ndtv.com/world-news/artemis-ii-astronauts-regain-contact-with-nasa-after-40-minute-blackout-11320529#publisher=newsstand"
+    "pubDate": "Tue, 07 Apr 2026 10:05:29 +0530",
+    "link": "https://www.ndtv.com/health/world-health-day-2026-mandate-why-standing-with-science-is-the-only-way-to-survive-the-wellness-misinformation-era-11319527#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-hindalco-just-got-upgraded-by-jp-morgan-how-iran-war-may-benefit-these-2-metal-stocks/articleshow/130076109.cms",
+    "category": "finance",
+    "title": "Vedanta, Hindalco just got upgraded by JP Morgan: How Iran war may benefit these 2 metal stocks",
+    "summary": "JPMorgan upgraded Hindalco Industries and Vedanta to overweight, citing higher aluminium prices driven by West Asia tensions. The move boosted both stocks, with JPMorgan also raising price targets, indicating 20\u201322% upside and strong earnings growth ",
+    "image": "https://img.etimg.com/photo/msid-130076109,imgsize-75932.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Apr 2026 10:05:28 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-hindalco-just-got-upgraded-by-jp-morgan-how-iran-war-may-benefit-these-2-metal-stocks/articleshow/130076109.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/world-health-day-pm-modi-extends-greetings-expresses-gratitude-to-healthcare-workers-11321038#publisher=newsstand",
+    "category": "india",
+    "title": "World Health Day 2026: PM Modi Salutes Healthcare Workers, Extends Greetings",
+    "summary": "New Delhi, April 7 (IANS) Marking the occasion of World Health Day, Prime Minister Narendra Modi on Tuesday expressed heartfelt gratitude to healthcare workers and all those committed to improving global well-being, while reiterating the need to buil",
+    "image": "https://c.ndtvimg.com/2026-04/2jp60vro_pm-modi_625x300_06_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 07 Apr 2026 10:03:09 +0530",
+    "link": "https://www.ndtv.com/health/world-health-day-pm-modi-extends-greetings-expresses-gratitude-to-healthcare-workers-11321038#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-imf-warns-of-lasting-economic-impact-from-war-triggered-supply-disruptions/articleshow/130076060.cms",
+    "category": "finance",
+    "title": "Global Market | IMF warns of lasting economic impact from war-triggered supply disruptions",
+    "summary": "The IMF warned that the Middle East conflict could slow global growth while fuelling inflation due to energy supply disruptions. With oil prices surging and trade routes impacted, vulnerable economies face rising risks, prompting expectations of down",
+    "image": "https://img.etimg.com/photo/msid-130076060,imgsize-88242.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Apr 2026 10:02:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-imf-warns-of-lasting-economic-impact-from-war-triggered-supply-disruptions/articleshow/130076060.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-rising-costs-slower-growth-services-data-signals-sticky-inflation-risk/articleshow/130076018.cms",
+    "category": "finance",
+    "title": "US Stock Market | Rising Costs, Slower Growth: Services data signals sticky inflation risk",
+    "summary": "US services growth slowed in March as inflation pressures surged amid rising fuel costs and Middle East tensions. While demand remained resilient with strong new orders, higher input costs and supply disruptions raised concerns, prompting expectation",
+    "image": "https://img.etimg.com/photo/msid-130076018,imgsize-10774.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Apr 2026 09:59:09 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-rising-costs-slower-growth-services-data-signals-sticky-inflation-risk/articleshow/130076018.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/bengaluru-resident-faces-tough-house-hunt-as-rs-30-000-rent-fails-to-offer-basic-amenities-11320761#publisher=newsstand",
+    "category": "india",
+    "title": "Bengaluru Resident Faces Tough House Hunt As Rs 30,000 Rent Fails To Offer Basic Amenities",
+    "summary": "Representative Image",
+    "image": "https://c.ndtvimg.com/2026-04/t25q6fv8_flats_625x300_07_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Tue, 07 Apr 2026 09:57:08 +0530",
+    "link": "https://www.ndtv.com/offbeat/bengaluru-resident-faces-tough-house-hunt-as-rs-30-000-rent-fails-to-offer-basic-amenities-11320761#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/art-ultra-rich-wealthy-investment-cyrus-poonawalla-raja-ravi-verma-painting-11320759#publisher=newsstand",
+    "category": "india",
+    "title": "Why A Multi-Crore Painting Makes Financial Sense To The Ultra-Rich",
+    "summary": "Billionaire Cyrus Poonawalla bought a Raja Ravi Varma painting for Rs 167 crore.",
+    "image": "https://c.ndtvimg.com/2026-04/e160gngo_raja-ravi-verma-painting_625x300_07_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 07 Apr 2026 09:57:03 +0530",
+    "link": "https://www.ndtv.com/india-news/art-ultra-rich-wealthy-investment-cyrus-poonawalla-raja-ravi-verma-painting-11320759#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/experts-share-health-tips-for-desk-workers-how-to-stay-active-in-a-sedentary-job-11318811#publisher=newsstand",
+    "category": "india",
+    "title": "Experts Share Health Tips For Desk Workers: How To Stay Active In A Sedentary Job",
+    "summary": "Staying active in a sedentary job does not require drastic changes",
+    "image": "https://c.ndtvimg.com/2026-04/6m1mn624_health-experts-share-tips-to-stay-active-at-your-desk-job_625x300_06_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 07 Apr 2026 09:51:31 +0530",
+    "link": "https://www.ndtv.com/health/experts-share-health-tips-for-desk-workers-how-to-stay-active-in-a-sedentary-job-11318811#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-iran-war-news-iran-calls-for-human-chains-around-key-power-plants-as-trumps-hormuz-deadline-nears-11320688#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Threatens To Bomb Iran Power Plants, Tehran Preps Human Chain Shield",
+    "summary": "Tehran has called on the country's youth to gather around the sites on Tuesday.",
+    "image": "https://c.ndtvimg.com/2026-04/58dso03s_iran-power-plant_625x300_07_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Tue, 07 Apr 2026 09:41:48 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-news-iran-calls-for-human-chains-around-key-power-plants-as-trumps-hormuz-deadline-nears-11320688#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/share-market-live-updates-markets-bse-sensex-nse-nifty50-gift-nifty-us-iran-ceasefire-stock-market-today-april-7-11320909#publisher=newsstand",
+    "category": "india",
+    "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 300 Points As Iran Rejects US Ceasefire Proposal",
+    "summary": "Stock Market Today Live News Updates: Markets are likely to open in red.",
+    "image": "https://c.ndtvimg.com/2026-03/pvr197nk_india-stock-market_625x300_15_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 07 Apr 2026 09:40:00 +0530",
+    "link": "https://www.ndtv.com/india-news/share-market-live-updates-markets-bse-sensex-nse-nifty50-gift-nifty-us-iran-ceasefire-stock-market-today-april-7-11320909#publisher=newsstand"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1530793.html",
+    "category": "sports",
+    "title": "Finch: Green looks 'tentative' but KKR shouldn't 'push him down' the order",
+    "summary": "The IPL's most expensive overseas player has yet to hit rhythm this season",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415100/415171.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 07 Apr 2026 04:39:54 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530793.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/crr1jyk0qwjo#0",
+    "category": "global",
+    "title": "Australia's most-decorated living soldier arrested over alleged war crimes",
+    "summary": "Ben Roberts-Smith, who denies all wrongdoing, previously lost a landmark defamation case over the alleged murders.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 07 Apr 2026 04:05:07 GMT",
+    "link": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1530792.html",
+    "category": "sports",
+    "title": "Rizvi keeps Orange Cap, Bishnoi holds the Purple cap",
+    "summary": "A look at the Orange Cap race and the Purple Cap race in IPL 2026 after 12 games",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415285.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 07 Apr 2026 03:27:34 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530792.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cyv16lq2rp1o#0",
+    "category": "global",
+    "title": "JD Vance due in Hungary to back Orban's re-election bid",
+    "summary": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 07 Apr 2026 01:45:41 GMT",
+    "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/cp38vg5knveo#0",
+    "category": "global",
+    "title": "Watch: Artemis II mission loses contact with Earth for 40 minutes",
+    "summary": "Once contact was regained, astronaut Christina Koch said: \"It is so great to hear from Earth again.\"",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 07 Apr 2026 01:03:27 GMT",
+    "link": "https://www.bbc.com/news/videos/cp38vg5knveo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
@@ -240,34 +290,14 @@
     "link": "https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cqj8ep9w1pno#0",
+    "id": "https://www.bbc.com/news/articles/cwyvr08l7lzo#0",
     "category": "global",
-    "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
-    "summary": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline.",
+    "title": "Wireless Festival boss defends Kanye West booking and asks people to forgive rapper",
+    "summary": "Its managing director calls the rapper's past comments \"abhorrent\" but asks people to \"offer some forgiveness\".",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 06 Apr 2026 21:55:50 GMT",
-    "link": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4gxz5zw348o#0",
-    "category": "global",
-    "title": "Schools in knife crime hotspots to get specialist training",
-    "summary": "A new partnership will provide training for school leaders about knife-crime risk, the government says.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 06 Apr 2026 21:30:13 GMT",
-    "link": "https://www.bbc.com/news/articles/c4gxz5zw348o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0mj4jeyvmzo#0",
-    "category": "global",
-    "title": "Trump endorses ex-UK political aide Steve Hilton for California governor",
-    "summary": "Steve Hilton, who advised the former prime minster and hosted a Fox News show, is running as a Republican.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 06 Apr 2026 18:55:45 GMT",
-    "link": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 06 Apr 2026 21:31:06 GMT",
+    "link": "https://www.bbc.com/news/articles/cwyvr08l7lzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530784.html",
@@ -320,16 +350,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530744.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cddqm316mvjo#0",
-    "category": "global",
-    "title": "Illegal rave shut down as police face 'violent and hostile' crowd",
-    "summary": "Dorset Police said the event drew about 2,000 people and more than 100 vehicles.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 06 Apr 2026 18:01:24 GMT",
-    "link": "https://www.bbc.com/news/articles/cddqm316mvjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1530755.html",
     "category": "sports",
     "title": "Sooryavanshi meets Bumrah as RR eye top of the table",
@@ -340,16 +360,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530755.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530747.html",
-    "category": "sports",
-    "title": "Tawanda Muyeye weathers Durham storm with defiant hundred",
-    "summary": "Kent batter (and Storm Dave) prevent hosts from converting their dominance into a win",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/398700/398782.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 06 Apr 2026 17:32:01 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530747.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/weather/articles/cn7866klrp2o#0",
     "category": "global",
     "title": "Warmest weather of the year expected with 24C this week",
@@ -358,16 +368,6 @@
     "source": "BBC",
     "pubDate": "Mon, 06 Apr 2026 17:03:44 GMT",
     "link": "https://www.bbc.com/weather/articles/cn7866klrp2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530741.html",
-    "category": "sports",
-    "title": "Nottinghamshire bat away Somerset to take draw",
-    "summary": "Batters hold firm to leave Taunton unscathed to start title defense",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415359.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 06 Apr 2026 16:55:20 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530741.html?ex_cid=OTC-RSS"
   },
   {
     "id": "1OII24oTfVYyF45IOoAjy8",
