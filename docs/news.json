@@ -1,53 +1,93 @@
 [
   {
-    "id": "https://www.ndtv.com/india-news/kerala-elections-2026-who-is-chandy-oommen-congress-mla-from-puthuppally-11254885#publisher=newsstand",
-    "category": "india",
-    "title": "All About Chandy Oommen, Son Of Former Kerala Chief Minister Oommen Chandy",
-    "summary": "Chandy Oommen was born in March 1986 inPuthuppally",
-    "image": "https://c.ndtvimg.com/2026-04/alkpfbv8_chandy-oommen_625x300_08_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 08 Apr 2026 00:21:31 +0530",
-    "link": "https://www.ndtv.com/india-news/kerala-elections-2026-who-is-chandy-oommen-congress-mla-from-puthuppally-11254885#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-close-mixed-with-signs-of-progress-as-trumps-iran-deadline-draws-near/articleshow/130096575.cms",
+    "category": "finance",
+    "title": "US stocks today: US stocks close mixed, with signs of progress as Trump's Iran deadline draws near",
+    "summary": "U.S. stocks ended mixed as investors tracked last-minute diplomatic efforts ahead of the Iran deadline to reopen the Strait of Hormuz. Rising oil prices and inflation concerns weighed on sentiment, while healthcare stocks gained on policy support. Ma",
+    "image": "https://img.etimg.com/photo/msid-130096575,imgsize-176349.cms",
+    "source": "ET",
+    "pubDate": "Wed, 08 Apr 2026 01:35:26 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-close-mixed-with-signs-of-progress-as-trumps-iran-deadline-draws-near/articleshow/130096575.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/china-didnt-just-quietly-buy-irans-oil-it-funded-its-wartime-economy-11325381#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/assam-elections-2026-the-secret-story-of-ulfa-039-s-formation-in-1979-11268977#publisher=newsstand",
     "category": "india",
-    "title": "China Didn't Just Quietly Buy Iran's Oil. It Funded Its Wartime Economy",
-    "summary": "Alongside China's banking channels, Iran relied heavily on front companies in Hong Kong",
-    "image": "https://c.ndtvimg.com/2026-04/rj3a2q48_xi-jinping_625x300_08_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Assam Elections 2026: Tracing ULFA's Secret Origins Since 1979",
+    "summary": "The Centre launched Operation Bajrang in 1990, which targeted ULFA leadership, infrastructure.",
+    "image": "https://c.ndtvimg.com/2025-07/bkrtvtlg_ulfa-_625x300_13_July_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Wed, 08 Apr 2026 00:18:19 +0530",
-    "link": "https://www.ndtv.com/world-news/china-didnt-just-quietly-buy-irans-oil-it-funded-its-wartime-economy-11325381#publisher=newsstand"
+    "pubDate": "Wed, 08 Apr 2026 00:55:02 +0530",
+    "link": "https://www.ndtv.com/india-news/assam-elections-2026-the-secret-story-of-ulfa-039-s-formation-in-1979-11268977#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/bengaluru-woman-faces-unusual-situation-when-parents-visit-her-workplace-just-brown-parents-11325362#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/iran-war-iran-says-ready-for-all-scenarios-after-trump-threats-11325471#publisher=newsstand",
     "category": "india",
-    "title": "Bengaluru Woman Faces Unusual Situation When Parents Visit Her Workplace: \"Just Brown Parents\"",
-    "summary": "The woman said her parents visited her workplace and spoke to her manager about her behaviour.",
-    "image": "https://c.ndtvimg.com/2026-04/rdgnm0qg_tejaswini-anand_625x300_08_April_26.jpeg",
+    "title": "Iran Says Ready For \"All Scenarios\" After Trump Threats",
+    "summary": "Iran is prepared for all possibilities in its war with the United States and Israel, First Vice President Mohammad Reza Aref said, following threats from US President Donald Trump.",
+    "image": "https://c.ndtvimg.com/2026-04/ada8f4do_mohammad-reza-aref_625x300_08_April_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Wed, 08 Apr 2026 00:12:14 +0530",
-    "link": "https://www.ndtv.com/offbeat/bengaluru-woman-faces-unusual-situation-when-parents-visit-her-workplace-just-brown-parents-11325362#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/2-cops-suspended-over-delhi-assembly-breach-11325361#publisher=newsstand",
-    "category": "india",
-    "title": "2 Cops Suspended Over Delhi Assembly Breach",
-    "summary": "Singh was arrested on Monday evening, hours after he drove an SUV into the Delhi Assembly premises.",
-    "image": "https://c.ndtvimg.com/2026-04/ltm9s26k_delhi-assembly-security-breach_650x400_06_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 08 Apr 2026 00:11:00 +0530",
-    "link": "https://www.ndtv.com/india-news/2-cops-suspended-over-delhi-assembly-breach-11325361#publisher=newsstand"
+    "pubDate": "Wed, 08 Apr 2026 00:53:44 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-iran-says-ready-for-all-scenarios-after-trump-threats-11325471#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/trump-iran-deadline-kharg-island-us-iran-war-today-7-hours-to-deadline-how-trumps-civilisation-ending-threats-could-play-out-11325038#publisher=newsstand",
     "category": "india",
-    "title": "7 Hours To Go: Here's How Trump's Civilisation-Ending Threats Could Play Out",
+    "title": "5 Hours To Go: Here's How Trump's Civilisation-Ending Threats Could Play Out",
     "summary": "Trump's deadline came attached to a warning that left little room for ambiguity.",
     "image": "https://c.ndtvimg.com/2026-04/qk73ssh4_trump-iran-pea_625x300_07_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Wed, 08 Apr 2026 00:03:04 +0530",
+    "pubDate": "Wed, 08 Apr 2026 00:42:05 +0530",
     "link": "https://www.ndtv.com/world-news/trump-iran-deadline-kharg-island-us-iran-war-today-7-hours-to-deadline-how-trumps-civilisation-ending-threats-could-play-out-11325038#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-russia-china-veto-un-resolution-on-reopening-strait-of-hormuz-11325433#publisher=newsstand",
+    "category": "india",
+    "title": "Russia, China Veto UN Resolution On Reopening Strait Of Hormuz",
+    "summary": "Russia and China vetoed a UN Security Council resolution Tuesday on reopening the Strait of Hormuz.",
+    "image": "https://c.ndtvimg.com/2026-04/cuts16d4_un-meeting-on-strait-of-hormuz_625x300_08_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 08 Apr 2026 00:35:48 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-russia-china-veto-un-resolution-on-reopening-strait-of-hormuz-11325433#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/rahul-gandhis-hands-not-clean-how-can-he-accuse-me-himanta-sarma-11325414#publisher=newsstand",
+    "category": "india",
+    "title": "\"Rahul Gandhi's Hands Not Clean, How Can He Accuse Me?\" Himanta Sarma",
+    "summary": "Sarma reflected on how his approach to public speaking evolved over the last decade.",
+    "image": "https://c.ndtvimg.com/2024-01/u743q1go_himanta-biswa-sarma_625x300_11_January_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 08 Apr 2026 00:32:33 +0530",
+    "link": "https://www.ndtv.com/india-news/rahul-gandhis-hands-not-clean-how-can-he-accuse-me-himanta-sarma-11325414#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-iran-war-on-donald-trumps-end-of-civilisation-remark-iran-envoys-stinging-retort-11325407#publisher=newsstand",
+    "category": "india",
+    "title": "On Donald Trump's \"End Of Civilisation Remark\", Iran Envoy's Stinging Retort",
+    "summary": "Motlagh said if they had to bow to Trump's ultimatums, they would have done it long ago.",
+    "image": "https://c.ndtvimg.com/2026-04/r53qhku4_saeid-reza-mosayeb-motlagh_625x300_08_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 08 Apr 2026 00:30:31 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-on-donald-trumps-end-of-civilisation-remark-iran-envoys-stinging-retort-11325407#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/taiwan-opposition-leader-lands-in-china-calls-visit-a-journey-to-peace-11325406#publisher=newsstand",
+    "category": "india",
+    "title": "Taiwan Opposition Leader Lands In China, Calls Visit A 'Journey To Peace'",
+    "summary": "China claims the self-ruled island as its own territory and has not excluded the use of force to take it",
+    "image": "https://c.ndtvimg.com/2026-04/ag1u0oig_taiwan-opposition_625x300_08_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 08 Apr 2026 00:30:29 +0530",
+    "link": "https://www.ndtv.com/world-news/taiwan-opposition-leader-lands-in-china-calls-visit-a-journey-to-peace-11325406#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-iran-israel-war-middle-east-live-updates-trump-deadline-strait-of-hormuz-oil-prices-dubai-uae-11316005#publisher=newsstand",
+    "category": "india",
+    "title": "US-Iran War Live Updates: UN Chief 'Very Troubled' By Trump Threats Against Iran, Says Spokesman",
+    "summary": "US Israel Iran War Live Updates: Trump's gave Iran a Tuesday, 8 pm ET deadline to open Strait Of Hormuz.",
+    "image": "https://c.ndtvimg.com/2026-03/bd66ftmg_trump-strait-of-hormuz_625x300_04_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 08 Apr 2026 00:27:08 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-israel-war-middle-east-live-updates-trump-deadline-strait-of-hormuz-oil-prices-dubai-uae-11316005#publisher=newsstand"
   },
   {
     "id": "4ri2LVmhlv34kOOk94nnsi",
@@ -68,36 +108,6 @@
     "source": "VentureBeat",
     "pubDate": "Tue, 13 Jan 2026 13:00:00 GMT",
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/ai-cameras-poll-cancellation-for-booth-capturing-among-poll-bodys-plans-for-bengal-11324030#publisher=newsstand",
-    "category": "india",
-    "title": "Poll Body Signals More Repolls, Fresh Elections If Rules Are Broken In Bengal",
-    "summary": "Voting can be declared void in case of malpractice, EC sources said. (Representational image)",
-    "image": "https://c.ndtvimg.com/2024-04/558veht_bengal-election_625x300_19_April_24.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 23:59:17 +0530",
-    "link": "https://www.ndtv.com/india-news/ai-cameras-poll-cancellation-for-booth-capturing-among-poll-bodys-plans-for-bengal-11324030#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/as-deadline-looms-iran-says-it-has-shut-all-channels-of-talks-with-us-report-11323924#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Deadline Looms, Iran Cuts, Then Reopens Communication With US: Report",
-    "summary": "As Deadline Looms, Iran Says It Has Shut All Channels Of Talks With US: Report",
-    "image": "https://c.ndtvimg.com/2026-03/tv1i6fuc_trump-khamenei-afp_625x300_13_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 23:57:22 +0530",
-    "link": "https://www.ndtv.com/world-news/as-deadline-looms-iran-says-it-has-shut-all-channels-of-talks-with-us-report-11323924#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/adani-group-seeks-dismissal-of-lawsuit-by-us-markets-regulator-cites-overreach-11325206#publisher=newsstand",
-    "category": "india",
-    "title": "Gautam Adani Seeks Dismissal Of Lawsuit By US Markets Regulator, Cites Overreach",
-    "summary": "The defendants are seeking dismissal of the case in full.",
-    "image": "https://c.ndtvimg.com/2023-02/nt2q8sf4_adani-group-generic-reuters_625x300_03_February_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Apr 2026 23:51:57 +0530",
-    "link": "https://www.ndtv.com/india-news/adani-group-seeks-dismissal-of-lawsuit-by-us-markets-regulator-cites-overreach-11325206#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/health-insurers-rise-after-us-lifts-2027-medicare-advantage-payment-rates/articleshow/130093943.cms",
@@ -170,14 +180,34 @@
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/physical-oil-prices-hit-record-highs-near-150-a-barrel-as-hormuz-crisis-worsens/articleshow/130090716.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-ramco-systems-natco-pharma-and-2-more-stocks-on-wednesday-for-gains-up-to-14/slideshow/130089799.cms",
-    "category": "finance",
-    "title": "Market Trading Guide: Buy Ramco Systems, Natco Pharma and 2 more stocks on Wednesday for gains up to 14%",
-    "summary": "Nifty extended gains for a fourth session, confirming a breakout and positive near-term trend above key moving averages. Analysts highlight resistance at 23,200 and volatility risks from Middle East tensions, while recommending four stocks showing bu",
-    "image": "https://img.etimg.com/photo/msid-130089625,imgsize-2032.cms",
-    "source": "ET",
-    "pubDate": "Tue, 07 Apr 2026 20:00:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-ramco-systems-natco-pharma-and-2-more-stocks-on-wednesday-for-gains-up-to-14/slideshow/130089799.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1530841.html",
+    "category": "sports",
+    "title": "Jaiswal powers Royals past Mumbai Indians in 11-over thrash",
+    "summary": "The Rajasthan Royals openers added 80 runs in five overs to stun Mumbai Indians in a rain-hit game",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415375.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 07 Apr 2026 20:12:06 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1530841.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4gxk3kxjr0o#0",
+    "category": "global",
+    "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
+    "summary": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 07 Apr 2026 19:40:05 GMT",
+    "link": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/c4g5j33p6vno#0",
+    "category": "global",
+    "title": "Watch: Iranians form human chains at bridges and power plants",
+    "summary": "Tehran had urged people to gather outside potential US and Israeli targets after Donald Trump threatened to attack civilian infrastructure.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 07 Apr 2026 19:36:03 GMT",
+    "link": "https://www.bbc.com/news/videos/c4g5j33p6vno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cx2vdekdweqo#0",
@@ -188,16 +218,6 @@
     "source": "BBC",
     "pubDate": "Tue, 07 Apr 2026 18:40:52 GMT",
     "link": "https://www.bbc.com/news/articles/cx2vdekdweqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4gxk3kxjr0o#0",
-    "category": "global",
-    "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
-    "summary": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 07 Apr 2026 18:37:19 GMT",
-    "link": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530799.html",
@@ -218,16 +238,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 07 Apr 2026 17:26:55 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1530835.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx2w0v19gw8o#0",
-    "category": "global",
-    "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
-    "summary": "Attacks have targeted bridges, steel plants and pharmaceutical facilities, verified videos show.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 07 Apr 2026 17:15:34 GMT",
-    "link": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530802.html",
@@ -308,16 +318,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 07 Apr 2026 14:54:32 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1530819.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530817.html",
-    "category": "sports",
-    "title": "Alana King regains No. 1 spot in ODI bowling rankings",
-    "summary": "Australia legspinner retakes the top spot from Sophie Ecclestone",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415100/415183.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 07 Apr 2026 14:41:39 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530817.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/crr1e5zqdyko#0",
