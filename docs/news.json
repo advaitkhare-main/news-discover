@@ -50,14 +50,34 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-unveils-first-ai-model-from-costly-superintelligence-team/articleshow/130120353.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cj0ve1006g9o#2",
+    "category": "global",
+    "title": "Starmer says a lot of work remains to make US-Iran ceasefire hold",
+    "summary": "The prime minister says fully reopening the Strait of Hormuz would help \"stabilise\" prices in the UK.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 08 Apr 2026 21:12:20 GMT",
+    "link": "https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c0j6d538l6qo#1",
     "category": "global",
-    "title": "More than 100 killed across Lebanon in large wave of Israeli strikes",
+    "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
     "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Wed, 08 Apr 2026 20:06:38 GMT",
+    "pubDate": "Wed, 08 Apr 2026 20:54:59 GMT",
     "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvgkv9y97n0o#1",
+    "category": "global",
+    "title": "Negotiators face huge task to close gaps in rival Iran peace proposals",
+    "summary": "A US 15-point plan and an Iranian 10-point variant are oceans apart, writes the BBC's diplomatic correspondent.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 08 Apr 2026 20:26:48 GMT",
+    "link": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1531054.html",
@@ -130,16 +150,6 @@
     "link": "https://www.bbc.com/news/articles/c62l597wl0yo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cj0ve1006g9o#2",
-    "category": "global",
-    "title": "Starmer says a lot of work remains to make US-Iran ceasefire hold",
-    "summary": "The prime minister says fully reopening the Strait of Hormuz would help \"stabilise\" prices in the UK.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 08 Apr 2026 16:11:26 GMT",
-    "link": "https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1531018.html",
     "category": "sports",
     "title": "Depleted KKR look to get their campaign going against LSG",
@@ -178,16 +188,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 08 Apr 2026 14:10:16 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1531020.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5ywpv1d4geo#1",
-    "category": "global",
-    "title": "Why fuel and food prices could still be affected for months",
-    "summary": "Analysts fear long-lasting economic damage from the US-Israel war with Iran has already been set in motion.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 08 Apr 2026 14:07:41 GMT",
-    "link": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1531002.html",
@@ -238,6 +238,36 @@
     "source": "VentureBeat",
     "pubDate": "Thu, 22 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-shaky-us-iran-ceasefire-in-doubt-as-israeli-strikes-kill-over-180-in-lebanon-11331239#publisher=newsstand",
+    "category": "india",
+    "title": "Shaky US-Iran Ceasefire In Doubt As Israeli Strikes Kill Over 180 In Lebanon",
+    "summary": "Lebanon said at least 182 people were killed and hundreds were wounded on Wednesday.",
+    "image": "https://c.ndtvimg.com/2026-04/gma4lj9k_lebanon_625x300_08_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 09 Apr 2026 02:30:10 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-shaky-us-iran-ceasefire-in-doubt-as-israeli-strikes-kill-over-180-in-lebanon-11331239#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-jd-vance-to-lead-1st-round-of-us-iran-talks-in-pakistan-white-house-11331208#publisher=newsstand",
+    "category": "india",
+    "title": "JD Vance To Lead 1st Round Of US-Iran Talks In Pakistan: White House",
+    "summary": "White House said that JD Vance has played a very significant and key role since the beginning of war.",
+    "image": "https://c.ndtvimg.com/2026-04/34070vbk_jd-vance_625x300_08_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 09 Apr 2026 02:09:32 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-jd-vance-to-lead-1st-round-of-us-iran-talks-in-pakistan-white-house-11331208#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/choose-truce-or-continue-war-via-israel-iran-warns-us-over-lebanon-attacks-11331100#publisher=newsstand",
+    "category": "india",
+    "title": "Choose Truce Or \"Continue War Via Israel\": Iran Warns US Over Lebanon Attacks",
+    "summary": "Iran's Abbas Araghchi warned that the US must choose between a ceasefire or \"continue war via Israel\".",
+    "image": "https://c.ndtvimg.com/2026-03/r7cbqvj_seyed-abbas-araghchi_625x300_19_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 09 Apr 2026 01:34:36 +0530",
+    "link": "https://www.ndtv.com/world-news/choose-truce-or-continue-war-via-israel-iran-warns-us-over-lebanon-attacks-11331100#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-ends-sharply-higher-on-us-iran-ceasefire/articleshow/130123732.cms",
@@ -318,36 +348,6 @@
     "source": "NDTV",
     "pubDate": "Thu, 09 Apr 2026 00:10:27 +0530",
     "link": "https://www.ndtv.com/india-news/pune-doctor-75-duped-of-rs-12-crore-in-share-market-investment-fraud-cops-11330917#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/inside-15-minute-meet-between-trinamool-congress-and-poll-body-chief-11330909#publisher=newsstand",
-    "category": "india",
-    "title": "Inside 15-Minute Meet Between Trinamool Congress And Poll Body Chief",
-    "summary": "The meeting followed a request from the Trinamool Congress for an appointment.",
-    "image": "https://c.ndtvimg.com/2026-04/j0k2sdrg_gyanesh-kumar-derek-split-_650x400_08_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 00:08:36 +0530",
-    "link": "https://www.ndtv.com/india-news/inside-15-minute-meet-between-trinamool-congress-and-poll-body-chief-11330909#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/up-woman-beats-3-year-old-stepdaughter-to-death-police-11330902#publisher=newsstand",
-    "category": "india",
-    "title": "UP Woman Beats 3-Year-Old Stepdaughter To Death: Police",
-    "summary": "Further investigation is underway, say officials. (Representational)",
-    "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 00:07:12 +0530",
-    "link": "https://www.ndtv.com/india-news/up-woman-beats-3-year-old-stepdaughter-to-death-police-11330902#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-us-iran-ceasefire-donald-trump-iran-closes-strait-of-hormuz-in-response-to-israeli-strikes-on-lebanon-11330466#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Closes Strait Of Hormuz In Response To Israeli Strikes On Lebanon",
-    "summary": "Israeli PM Benjamin Netanyahu has publicly shown support for the US decision for a ceasefire",
-    "image": "https://c.ndtvimg.com/2025-06/o2o3aikk_straitofhormuz_160x120_20_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 00:05:18 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-us-iran-ceasefire-donald-trump-iran-closes-strait-of-hormuz-in-response-to-israeli-strikes-on-lebanon-11330466#publisher=newsstand"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
