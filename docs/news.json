@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/dolly-khanna-adds-a-multibagger-and-a-smallcap-in-march-quarter-check-details/articleshow/130110706.cms",
+    "category": "finance",
+    "title": "Dolly Khanna adds a multibagger and a smallcap in March quarter. Check details",
+    "summary": "Ace investor Dolly Khanna added two new stocks to her portfolio in the March quarter, picking up stakes in Chennai Petroleum Corporation and multibagger Sharda Cropchem. Both stocks delivered strong one-year returns, with Sharda Cropchem surging 119%",
+    "image": "https://img.etimg.com/photo/msid-130110706,imgsize-36372.cms",
+    "source": "ET",
+    "pubDate": "Wed, 08 Apr 2026 16:13:45 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/dolly-khanna-adds-a-multibagger-and-a-smallcap-in-march-quarter-check-details/articleshow/130110706.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-extends-rally-forward-premiums-slump-as-oil-dives-on-ceasefire/articleshow/130110565.cms",
+    "category": "finance",
+    "title": "Rupee extends rally, forward premiums slump as oil dives on ceasefire",
+    "summary": "The Indian rupee gained for the fourth consecutive session \u200bon Wednesday, while forward premiums \u200bdeclined as a plunge in oil prices after the \u200bU.S.-Iran ceasefire supported global risk appetite.",
+    "image": "https://img.etimg.com/photo/msid-130110565,imgsize-47754.cms",
+    "source": "ET",
+    "pubDate": "Wed, 08 Apr 2026 16:10:47 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-extends-rally-forward-premiums-slump-as-oil-dives-on-ceasefire/articleshow/130110565.cms"
+  },
+  {
     "id": "https://www.ndtv.com/feature/invited-me-to-his-apartment-pakistani-entrepreneur-defends-sam-altman-amid-sociopath-claims-11328023#publisher=newsstand",
     "category": "india",
     "title": "\"Invited Me To His Apartment\": Pakistani Entrepreneur Defends Sam Altman Amid 'Sociopath' Claims",
@@ -140,24 +160,14 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-futures-climb-on-relief-from-us-iran-ceasefire/articleshow/130107932.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/rbi-maintains-optimism-on-growth-signals-caution-on-inflation-and-fx-volatility-anubhuti-sahay/articleshow/130107318.cms",
-    "category": "finance",
-    "title": "RBI maintains optimism on growth, signals caution on inflation and FX volatility: Anubhuti Sahay",
-    "summary": "The Reserve Bank of India's latest policy stance balances optimism on growth with caution on inflation and foreign exchange volatility. Analysts noted the central bank's FY27 growth projection of 6.9% appears optimistic compared to market expectation",
-    "image": "https://img.etimg.com/photo/msid-130107318,imgsize-4688.cms",
-    "source": "ET",
-    "pubDate": "Wed, 08 Apr 2026 13:54:42 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/rbi-maintains-optimism-on-growth-signals-caution-on-inflation-and-fx-volatility-anubhuti-sahay/articleshow/130107318.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fear-gone-india-vix-crashes-21-on-iran-war-ceasefire-after-doubling-last-month/articleshow/130107172.cms",
-    "category": "finance",
-    "title": "India VIX eases 21% after March surge as Iran war ceasefire soothes sentiment",
-    "summary": "India VIX, which measures volatility in markets, eased nearly 21% on Wednesday after Iran and US announced a temporary ceasefire to their raging war in the Middle East, cooling off the skyrocketing rally in oil prices and bringing back risk-on sentim",
-    "image": "https://img.etimg.com/photo/msid-130107172,imgsize-35424.cms",
-    "source": "ET",
-    "pubDate": "Wed, 08 Apr 2026 13:49:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fear-gone-india-vix-crashes-21-on-iran-war-ceasefire-after-doubling-last-month/articleshow/130107172.cms"
+    "id": "https://www.bbc.com/news/videos/cgldg5nn9d8o#1",
+    "category": "global",
+    "title": "Watch: Iranians gather in Tehran following ceasefire announcement",
+    "summary": "Pro-government demonstrators poured onto the streets of the Iranian capital after the announcement of the two-week conditional ceasefire between the US and Iran.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 08 Apr 2026 11:29:33 GMT",
+    "link": "https://www.bbc.com/news/videos/cgldg5nn9d8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cj401ll8j5zo#2",
@@ -166,18 +176,68 @@
     "summary": "Mortgage rates have been rising and hundreds of the cheapest deals have disappeared over the last month.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Wed, 08 Apr 2026 09:51:42 GMT",
+    "pubDate": "Wed, 08 Apr 2026 11:09:49 GMT",
     "link": "https://www.bbc.com/news/articles/cj401ll8j5zo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c5y9lg10595o#2",
+    "id": "https://www.bbc.com/news/articles/ce84z6y3ke4o#1",
     "category": "global",
-    "title": "Tributes after British teen dies in reported Vietnam motorbike fall",
-    "summary": "Orla Wates is remembered by her mother as \"beautiful, independent and very funny\".",
+    "title": "What we know about the two-week ceasefire between the US and Iran",
+    "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Wed, 08 Apr 2026 09:26:28 GMT",
-    "link": "https://www.bbc.com/news/articles/c5y9lg10595o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Wed, 08 Apr 2026 11:00:53 GMT",
+    "link": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cj0ve1006g9o#2",
+    "category": "global",
+    "title": "Starmer to visit Middle East after US and Iran reach deal",
+    "summary": "The prime minister welcomes the deal, saying the UK will do \"all we can to support and sustain this ceasefire\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 08 Apr 2026 10:56:54 GMT",
+    "link": "https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/clyrzrp0x5go#2",
+    "category": "global",
+    "title": "Hospitals coping well with doctors' strike so far - NHS boss",
+    "summary": "Resident doctors in England \u2013 the new name for junior doctors \u2013 are taking part in their 15th walkout in a long-running pay dispute.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 08 Apr 2026 10:56:27 GMT",
+    "link": "https://www.bbc.com/news/articles/clyrzrp0x5go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1531002.html",
+    "category": "sports",
+    "title": "Islamabad United's Mir Hamza Sajjad recovering after concussion",
+    "summary": "Mir Hamza Sajjad, the reserve Islamabad United fast bowler, was hit in the back of the head by a stray hit during a training session",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415397.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 08 Apr 2026 10:50:54 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531002.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0j6d538l6qo#1",
+    "category": "global",
+    "title": "Israel strikes southern Lebanon after US-Iran ceasefire",
+    "summary": "Air strikes hit the Tyre and Nabatieh areas hours after the US-Iran ceasefire was announced.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 08 Apr 2026 10:49:37 GMT",
+    "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1531000.html",
+    "category": "sports",
+    "title": "Green expected to begin bowling in KKR's game against LSG on Thursday",
+    "summary": "Cameron Green hasn't bowled at all in IPL 2026, and KKR's team balance - already hampered by injuries - has been affected as a result",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415396.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 08 Apr 2026 10:42:29 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531000.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530799.html",
@@ -200,64 +260,14 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1530841.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530819.html",
-    "category": "sports",
-    "title": "Buttler: 'Trusting my game and experience' to come good for GT",
-    "summary": "His team-mate B Sai Sudharsan also feels Buttler is closest among all batters to get back to full form",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415100/415107.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 08 Apr 2026 08:39:31 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530819.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/cgldg5nn9d8o#1",
-    "category": "global",
-    "title": "Watch: Iranians gather in Tehran following ceasefire announcement",
-    "summary": "Pro-government demonstrators poured onto the streets of the Iranian capital after the announcement of the two-week conditional ceasefire between the US and Iran.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 08 Apr 2026 08:22:15 GMT",
-    "link": "https://www.bbc.com/news/videos/cgldg5nn9d8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1530835.html",
-    "category": "sports",
-    "title": "'Serious abuse of power' - Bangladesh government dissolves BCB board",
-    "summary": "\"The election process was not free, fair or transparent,\" NSC sports director Ahesan said",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/412200/412277.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 08 Apr 2026 08:19:55 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1530835.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c8r40y3rv75o#1",
     "category": "global",
     "title": "Oil prices plunge on agreement to reopen Strait of Hormuz",
-    "summary": "Crude prices tumbled by as much as 15% on the conditional pause but is higher than before the war.",
+    "summary": "Crude prices tumbled by as much as 15% on the conditional pause but remain far higher than before the war.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Wed, 08 Apr 2026 08:15:36 GMT",
     "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cj0ve1006g9o#2",
-    "category": "global",
-    "title": "Starmer to visit Middle East after US and Iran reach deal",
-    "summary": "The prime minister welcomes the deal, saying the UK will do \"all we can to support and sustain this ceasefire\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 08 Apr 2026 07:09:22 GMT",
-    "link": "https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cj401qvgg19o#1",
-    "category": "global",
-    "title": "How Pakistan helped secure a fragile truce between the US and Iran",
-    "summary": "Pakistan has a historic relationship with Iran, but an agreement was far from certain, writes the BBC\u2019s Caroline Davies",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 08 Apr 2026 05:03:31 GMT",
-    "link": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1530876.html",
@@ -308,16 +318,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 08 Apr 2026 03:00:17 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1530867.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce84z6y3ke4o#1",
-    "category": "global",
-    "title": "What we know about the two-week ceasefire between the US and Iran",
-    "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 08 Apr 2026 02:58:55 GMT",
-    "link": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "4ri2LVmhlv34kOOk94nnsi",
