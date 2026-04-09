@@ -60,6 +60,16 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/american-airlines-set-to-resume-us-flights-to-venezuela-as-soon-as-april-30/articleshow/130150576.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c3ex07l1qvpo#0",
+    "category": "global",
+    "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
+    "summary": "She called rumours that Epstein introduced her to Donald Trump \"mean-spirited attempts to defame my reputation\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 09 Apr 2026 22:27:36 GMT",
+    "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-surges-back-above-100-mark-as-supply-concerns-outweigh-iran-ceasefire/articleshow/130148978.cms",
     "category": "finance",
     "title": "Oil price surges back above $100 mark as supply concerns outweigh Iran ceasefire",
@@ -68,6 +78,16 @@
     "source": "ET",
     "pubDate": "Thu, 09 Apr 2026 22:04:22 +0530",
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-surges-back-above-100-mark-as-supply-concerns-outweigh-iran-ceasefire/articleshow/130148978.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c93enywd10ro#0",
+    "category": "global",
+    "title": "Israeli strikes on Lebanon are wrong and should stop, PM says",
+    "summary": "Lebanon's health ministry says more than 300 people died in strikes on Wednesday.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 09 Apr 2026 21:49:31 GMT",
+    "link": "https://www.bbc.com/news/articles/c93enywd10ro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/130148328.cms",
@@ -98,26 +118,6 @@
     "source": "BBC",
     "pubDate": "Thu, 09 Apr 2026 21:05:32 GMT",
     "link": "https://www.bbc.com/news/articles/ce35zkl9dg3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c3ex07l1qvpo#0",
-    "category": "global",
-    "title": "Melania Trump says rumours linking her to Epstein 'need to stop'",
-    "summary": "The first lady denies any connection to Jeffrey Epstein in a surprise statement, and calls on Congress to hear from his victims.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 09 Apr 2026 21:03:08 GMT",
-    "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c93enywd10ro#0",
-    "category": "global",
-    "title": "Israeli strikes on Lebanon are wrong and should stop, PM says",
-    "summary": "Lebanon's health ministry says more than 300 people died in strikes on Wednesday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 09 Apr 2026 20:45:34 GMT",
-    "link": "https://www.bbc.com/news/articles/c93enywd10ro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1531186.html",
@@ -290,6 +290,46 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://www.ndtv.com/world-news/iran-war-donald-trump-warns-iran-over-toll-on-ships-transiting-strait-of-hormuz-11336383#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Warns Iran Over Toll On Ships Transiting Strait Of Hormuz",
+    "summary": "US President Donald Trump on Thursday warned Iran against imposing a toll for ships passing through the Strait of Hormuz, after Tehran agreed to reopen the crucial route as part of a two-week ceasefire.",
+    "image": "https://c.ndtvimg.com/2026-04/5it6m17o_donald-trump_625x300_07_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 03:21:28 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-warns-iran-over-toll-on-ships-transiting-strait-of-hormuz-11336383#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/nitish-kumar-to-take-oath-as-rajya-sabha-member-today-11336366#publisher=newsstand",
+    "category": "india",
+    "title": "Nitish Kumar To Take Oath As Rajya Sabha Member Today",
+    "summary": "esigned from the Bihar Legislative Council (MLC) on March 30.",
+    "image": "https://c.ndtvimg.com/2026-04/ikc53eao_nitish-kumar-_625x300_08_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 03:05:56 +0530",
+    "link": "https://www.ndtv.com/india-news/nitish-kumar-to-take-oath-as-rajya-sabha-member-today-11336366#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/israeli-pm-benjamin-netanyahus-corruption-trial-to-resume-on-april-12-11336328#publisher=newsstand",
+    "category": "india",
+    "title": "Israeli PM Netanyahu's Corruption Trial To Resume On April 12",
+    "summary": "Israeli Prime Minister Benjamin Netanyahu's corruption trial will resume on Sunday.",
+    "image": "https://c.ndtvimg.com/2025-11/0umj7758_benjamin-netanyahu-_625x300_24_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 02:38:18 +0530",
+    "link": "https://www.ndtv.com/world-news/israeli-pm-benjamin-netanyahus-corruption-trial-to-resume-on-april-12-11336328#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/meitei-groups-seek-action-after-attack-on-bsf-soldiers-house-kills-2-children-11336281#publisher=newsstand",
+    "category": "india",
+    "title": "Meitei Groups Seek Action After Attack On BSF Soldier's House Kills 2 Children",
+    "summary": "The organisations alleged Kuki militants were responsible for the attack.",
+    "image": "https://c.ndtvimg.com/2026-04/pua6bmlk_meitei-civil-society-_625x300_10_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 02:08:52 +0530",
+    "link": "https://www.ndtv.com/india-news/meitei-groups-seek-action-after-attack-on-bsf-soldiers-house-kills-2-children-11336281#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-as-middle-east-peace-talks-lift-sentiment/articleshow/130153466.cms",
     "category": "finance",
     "title": "US stocks today: US stocks end higher as Middle East peace talks lift sentiment",
@@ -348,45 +388,5 @@
     "source": "NDTV",
     "pubDate": "Fri, 10 Apr 2026 00:43:58 +0530",
     "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-iran-ceasefire-missile-strikes-middle-east-crisis-conflict-live-news-iran-drone-attack-trump-ceasefire-strait-of-ho-11325915#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/trump-considers-removing-some-us-troops-from-europe-amid-nato-strains-11336114#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Considers Removing Some US Troops From Europe Amid NATO Strains",
-    "summary": "White House official told Reuters that Trump was specifically discussing bringing troops back to the US.",
-    "image": "https://c.ndtvimg.com/2026-04/vcuabkk4_us-president-donald-trump_625x300_08_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 00:41:44 +0530",
-    "link": "https://www.ndtv.com/world-news/trump-considers-removing-some-us-troops-from-europe-amid-nato-strains-11336114#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/region-wide-ceasefire-would-hasten-his-jailing-iran-minister-abbas-araghchi-on-benjamin-netanyahu-11336069#publisher=newsstand",
-    "category": "india",
-    "title": "Region-Wide Ceasefire Would Hasten His Jailing: Iran Minister On Netanyahu",
-    "summary": "Netanyahu is the first sitting Israeli prime minister to be charged with a crime",
-    "image": "https://c.ndtvimg.com/2026-04/pa8o4nsc_araghchi-netanyahu_625x300_10_April_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 00:40:49 +0530",
-    "link": "https://www.ndtv.com/world-news/region-wide-ceasefire-would-hasten-his-jailing-iran-minister-abbas-araghchi-on-benjamin-netanyahu-11336069#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/moving-to-new-stage-in-managing-strait-of-hormuz-mojtaba-khamenei-11335915#publisher=newsstand",
-    "category": "india",
-    "title": "'Moving To New Stage In Managing Strait of Hormuz': Mojtaba Khamenei",
-    "summary": "Traffic through the Strait of Hormuz remained extremely limited despite the announcement of the ceasefire",
-    "image": "https://c.ndtvimg.com/2026-03/mdbj4o08_mojtaba-_625x300_12_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 00:34:15 +0530",
-    "link": "https://www.ndtv.com/world-news/moving-to-new-stage-in-managing-strait-of-hormuz-mojtaba-khamenei-11335915#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/assembly-elections-2026-live-kerala-assam-puducherry-voting-live-news-updates-high-stakes-battle-bjp-congress-tmc-tvk-aiadmk-ldf-udf-vijay-candidates-11331487#publisher=newsstand",
-    "category": "india",
-    "title": "Election 2026 LIVE: Assam Sees 85% Voter Turnout, Kerala Records Nearly 78%, Puducherry 90%",
-    "summary": "Assembly Elections 2026 Voting Today LIVE: Voting in Kerala, Assam, Puducherry is underway.",
-    "image": "https://c.ndtvimg.com/2024-12/1r4gj5l8_voting-generic_625x300_22_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 00:23:27 +0530",
-    "link": "https://www.ndtv.com/india-news/assembly-elections-2026-live-kerala-assam-puducherry-voting-live-news-updates-high-stakes-battle-bjp-congress-tmc-tvk-aiadmk-ldf-udf-vijay-candidates-11331487#publisher=newsstand"
   }
 ]
