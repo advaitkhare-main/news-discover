@@ -1,45 +1,5 @@
 [
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/traders-place-large-950-million-bet-on-oil-price-falling-hours-ahead-of-ceasefire/articleshow/130121381.cms",
-    "category": "finance",
-    "title": "Traders place large $950 million bet on oil price falling hours ahead of ceasefire",
-    "summary": "Just as the US and Iran reached a crucial ceasefire, investors took a colossal leap into the market with a $950 million bet against rising oil prices. This gamble follows a notable trend of large trades in recent weeks.",
-    "image": "https://img.etimg.com/photo/msid-130121381,imgsize-82142.cms",
-    "source": "ET",
-    "pubDate": "Wed, 08 Apr 2026 23:31:21 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/traders-place-large-950-million-bet-on-oil-price-falling-hours-ahead-of-ceasefire/articleshow/130121381.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/fedex-trucking-spinoff-targets-2026-operating-margin-of-12/articleshow/130121201.cms",
-    "category": "finance",
-    "title": "FedEx trucking spinoff targets 2026 operating margin of 12%",
-    "summary": "As FedEx Freight prepares for its upcoming independence on June 1, it's setting ambitious goals with a projected 12 percent operating margin this year. The trucking giant forecasts a hefty revenue of $8.7 billion, alongside promising medium-term grow",
-    "image": "https://img.etimg.com/photo/msid-130121201,imgsize-127586.cms",
-    "source": "ET",
-    "pubDate": "Wed, 08 Apr 2026 23:24:10 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fedex-trucking-spinoff-targets-2026-operating-margin-of-12/articleshow/130121201.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-the-bond-market-wont-bounce-back-to-pre-war-levels/articleshow/130121101.cms",
-    "category": "finance",
-    "title": "Why the bond market won't bounce back to pre-war levels",
-    "summary": "In light of the recent ceasefire, the prospects for global bond markets remain fraught with difficulty. Energy prices continue to climb, accompanied by stubborn inflation that renders a smooth recovery uncertain. As central banks appear reluctant to ",
-    "image": "https://img.etimg.com/photo/msid-130121101,imgsize-17168.cms",
-    "source": "ET",
-    "pubDate": "Wed, 08 Apr 2026 23:18:19 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-the-bond-market-wont-bounce-back-to-pre-war-levels/articleshow/130121101.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/ex-rio-tinto-ceos-deep-sea-mining-firm-to-merge-with-odyssey-in-1-billion-deal/articleshow/130120738.cms",
-    "category": "finance",
-    "title": "Ex-Rio Tinto CEO's deep-sea mining firm to merge with Odyssey in $1 billion deal",
-    "summary": "A transformative merger is on the horizon as American Ocean Minerals, spearheaded by Tom Albanese, partners with Odyssey Marine Exploration to unveil one of the largest collections of deep-sea mineral reserves. This ambitious endeavor focuses on tapp",
-    "image": "https://img.etimg.com/photo/msid-130120738,imgsize-10858.cms",
-    "source": "ET",
-    "pubDate": "Wed, 08 Apr 2026 23:09:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ex-rio-tinto-ceos-deep-sea-mining-firm-to-merge-with-odyssey-in-1-billion-deal/articleshow/130120738.cms"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c0q98w57k25o#1",
     "category": "global",
     "title": "'Even if Iran war ends now, farmers' costs will have to be passed on'",
@@ -50,16 +10,6 @@
     "link": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-unveils-first-ai-model-from-costly-superintelligence-team/articleshow/130120353.cms",
-    "category": "finance",
-    "title": "Meta unveils first AI model from costly superintelligence team",
-    "summary": "In a bold leap into the future, Meta Platforms has introduced Muse Spark, the first artificial intelligence model crafted by its advanced superintelligence team. This launch is a clear signal of Meta's intention to stand toe-to-toe with competitors i",
-    "image": "https://img.etimg.com/photo/msid-130120353,imgsize-20066.cms",
-    "source": "ET",
-    "pubDate": "Wed, 08 Apr 2026 22:55:42 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-unveils-first-ai-model-from-costly-superintelligence-team/articleshow/130120353.cms"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cj0ve1006g9o#2",
     "category": "global",
     "title": "Starmer says much work remains to make US-Iran ceasefire hold",
@@ -68,26 +18,6 @@
     "source": "BBC",
     "pubDate": "Wed, 08 Apr 2026 22:42:46 GMT",
     "link": "https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/czx9kvqxeq5o#2",
-    "category": "global",
-    "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
-    "summary": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 08 Apr 2026 22:08:33 GMT",
-    "link": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0j6d538l6qo#1",
-    "category": "global",
-    "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
-    "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 08 Apr 2026 20:54:59 GMT",
-    "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cvgkv9y97n0o#1",
@@ -118,16 +48,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 08 Apr 2026 19:46:42 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1531062.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c6258qe1yl0o#2",
-    "category": "global",
-    "title": "'Ketamine Queen' sentenced to 15 years in Matthew Perry overdose death",
-    "summary": "Jasveen Sangha was found guilty of selling drugs that killed Friends actor Matthew Perry who had struggled with addiction for years.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 08 Apr 2026 19:34:29 GMT",
-    "link": "https://www.bbc.com/news/articles/c6258qe1yl0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1531052.html",
@@ -240,6 +160,116 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-as-investors-remain-wary-us-iran-ceasefire-will-open-supply-flow/articleshow/130126965.cms",
+    "category": "finance",
+    "title": "Oil rises as investors remain wary US-Iran ceasefire will open supply flow",
+    "summary": "Oil prices surged on Thursday. Investors worry about Middle East supply not fully resuming. Doubts linger about a U.S.-Iran ceasefire holding. The vital Strait of Hormuz remains restricted. Brent crude and WTI crude futures saw significant increases.",
+    "image": "https://img.etimg.com/photo/msid-130126965,imgsize-39284.cms",
+    "source": "ET",
+    "pubDate": "Thu, 09 Apr 2026 06:47:56 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-as-investors-remain-wary-us-iran-ceasefire-will-open-supply-flow/articleshow/130126965.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-turn-cautious-as-reality-intrudes-in-gulf/articleshow/130126831.cms",
+    "category": "finance",
+    "title": "Global Market Today: Asian stocks turn cautious as reality intrudes in Gulf",
+    "summary": "Asian markets are subdued as a fragile Gulf ceasefire shows signs of breaking. Oil prices are rising again, signaling prolonged inflation. Investors are cautious as the Strait of Hormuz remains under threat. This instability impacts global markets, w",
+    "image": "https://img.etimg.com/photo/msid-130126831,imgsize-252278.cms",
+    "source": "ET",
+    "pubDate": "Thu, 09 Apr 2026 06:26:35 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-turn-cautious-as-reality-intrudes-in-gulf/articleshow/130126831.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/titan-shares-rally-on-strong-q4-jewellery-biz-growth/articleshow/130126790.cms",
+    "category": "finance",
+    "title": "Titan shares rally on strong Q4 jewellery biz growth",
+    "summary": "Titan Company shares surged to a record high on Wednesday. This jump followed a strong business update for the March quarter. The jewellery division saw significant growth, driven by Tanishq and Mia. Buyer growth improved, and higher average ticket s",
+    "image": "https://img.etimg.com/photo/msid-130126790,imgsize-15352.cms",
+    "source": "ET",
+    "pubDate": "Thu, 09 Apr 2026 06:20:34 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/titan-shares-rally-on-strong-q4-jewellery-biz-growth/articleshow/130126790.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/global-relief-wave-lifts-indian-markets-but-fiis-stay-cautious/articleshow/130126747.cms",
+    "category": "finance",
+    "title": "Global relief wave lifts Indian markets, but FIIs stay cautious",
+    "summary": "Indian equity indices surged significantly on Wednesday, with the Sensex and Nifty experiencing their strongest single-day gains in years. This rally was fueled by relief over a US-Iran ceasefire, leading to a drop in oil prices and easing inflation ",
+    "image": "https://img.etimg.com/photo/msid-130126747,imgsize-16064.cms",
+    "source": "ET",
+    "pubDate": "Thu, 09 Apr 2026 06:15:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-relief-wave-lifts-indian-markets-but-fiis-stay-cautious/articleshow/130126747.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/specialised-non-bank-participants-to-get-entry-into-term-money-market/articleshow/130126728.cms",
+    "category": "finance",
+    "title": "Specialised non-bank participants to get entry into term money market",
+    "summary": "The Reserve Bank of India is opening up the term money market to a wider range of financial institutions, including specialized government-backed entities like Nabard and Sidbi. Previously exclusive to banks and primary dealers, this move aims to ref",
+    "image": "https://img.etimg.com/photo/msid-130126728,imgsize-113522.cms",
+    "source": "ET",
+    "pubDate": "Thu, 09 Apr 2026 06:08:55 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/specialised-non-bank-participants-to-get-entry-into-term-money-market/articleshow/130126728.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130120058.cms",
+    "category": "finance",
+    "title": "GIFT Nifty down 180 points; here's the trading setup for today's session",
+    "summary": "Benchmark indices rallied on April 8, buoyed by firm global cues and a sharp decline in crude oil prices following a US-Iran ceasefire announcement. Analysts suggest sustaining above the 20-day EMA and the Wednesday bullish gap area will maintain a p",
+    "image": "https://img.etimg.com/photo/msid-130120058,imgsize-88221.cms",
+    "source": "ET",
+    "pubDate": "Thu, 09 Apr 2026 06:01:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130120058.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-hdfc-bank-itc-hotels-hyundai-india-adani-enterprises/articleshow/130119950.cms",
+    "category": "finance",
+    "title": "Stocks in news: TCS, HDFC Bank, ITC Hotels, Hyundai India, Adani Enterprises",
+    "summary": "Markets surged for the fourth consecutive session, buoyed by favorable geopolitical cues. Key stocks like TCS, HDFC Bank, ITC Hotels, Hyundai India, and Adani Enterprises are in focus due to Q4 results and news developments. Analysts emphasize the ne",
+    "image": "https://img.etimg.com/photo/msid-130119950,imgsize-605584.cms",
+    "source": "ET",
+    "pubDate": "Thu, 09 Apr 2026 06:01:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-hdfc-bank-itc-hotels-hyundai-india-adani-enterprises/articleshow/130119950.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/north-korea-says-latest-tests-used-cluster-bomb-warhead-missiles-11331433#publisher=newsstand",
+    "category": "india",
+    "title": "North Korea Says Latest Tests Used Cluster-Bomb Warhead Missiles",
+    "summary": "North Korea on Thursday said its testing spree this week involved various new weapons systems.",
+    "image": "https://c.ndtvimg.com/2026-04/rdnnssp_north-korea_625x300_09_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 09 Apr 2026 05:54:23 +0530",
+    "link": "https://www.ndtv.com/world-news/north-korea-says-latest-tests-used-cluster-bomb-warhead-missiles-11331433#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/adani-gets-to-schedule-a-hearing-in-sec-case-group-stocks-surge/articleshow/130126632.cms",
+    "category": "finance",
+    "title": "Adani gets to schedule a hearing in SEC case, Group stocks surge",
+    "summary": "Adani Group stocks surged as Gautam Adani sought dismissal of a US SEC civil fraud case. Adani Green Energy led gains, jumping 12%. A US court granted Adani's request to schedule a hearing on his plea to dismiss the case, citing lack of personal juri",
+    "image": "https://img.etimg.com/photo/msid-130126632,imgsize-38784.cms",
+    "source": "ET",
+    "pubDate": "Thu, 09 Apr 2026 05:47:16 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-gets-to-schedule-a-hearing-in-sec-case-group-stocks-surge/articleshow/130126632.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/nuke-watchdog-praises-major-nuclear-milestone-at-kalpakkam-11331419#publisher=newsstand",
+    "category": "india",
+    "title": "\"Impressive\": Nuke Watchdog Praises India's Nuclear Milestone At Kalpakkam",
+    "summary": "Grossi concluded his message on X extending congratulations to Prime Minister Narendra Modi.",
+    "image": "https://c.ndtvimg.com/2026-04/thrlt09_rafael-mariano-grossi_625x300_09_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 09 Apr 2026 05:27:51 +0530",
+    "link": "https://www.ndtv.com/india-news/nuke-watchdog-praises-major-nuclear-milestone-at-kalpakkam-11331419#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/donald-trump-meets-nato-chief-mark-rutte-amid-talk-of-pulling-out-of-military-alliance-11331387#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Meets NATO Chief Amid Talk Of Pulling Out Of Military Alliance",
+    "summary": "Trump had suggested the US may consider leaving the trans-Atlantic alliance.",
+    "image": "https://c.ndtvimg.com/2026-01/u40sd4s_mark-rutte-and-trump_625x300_22_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 09 Apr 2026 04:42:50 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trump-meets-nato-chief-mark-rutte-amid-talk-of-pulling-out-of-military-alliance-11331387#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/iran-war-shaky-us-iran-ceasefire-in-doubt-as-israeli-strikes-kill-over-180-in-lebanon-11331239#publisher=newsstand",
     "category": "india",
     "title": "Shaky US-Iran Ceasefire In Doubt As Israeli Strikes Kill Over 180 In Lebanon",
@@ -270,24 +300,24 @@
     "link": "https://www.ndtv.com/world-news/choose-truce-or-continue-war-via-israel-iran-warns-us-over-lebanon-attacks-11331100#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-ends-sharply-higher-on-us-iran-ceasefire/articleshow/130123732.cms",
-    "category": "finance",
-    "title": "US stocks today: Dow Jones surges 1,300 points, S&amp;P, Nasdaq 2% on U.S.-Iran ceasefire",
-    "summary": "World markets experienced a dramatic uplift as the U.S. and Iran cemented a two-week ceasefire, alleviating concerns over inflation and volatile oil markets. With this breakthrough, major U.S. stock indices soared, especially in sectors tied to econo",
-    "image": "https://img.etimg.com/photo/msid-130123732,imgsize-133400.cms",
-    "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 01:34:14 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-ends-sharply-higher-on-us-iran-ceasefire/articleshow/130123732.cms"
+    "id": "https://www.bbc.com/news/articles/cq6j0rnvlzeo#1",
+    "category": "global",
+    "title": "Oil prices rise as investors eye fragile US-Iran ceasefire",
+    "summary": "Crude prices plunged on Wednesday after a deal was announced that includes the opening of the Strait of Hormuz.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 09 Apr 2026 01:31:06 GMT",
+    "link": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-minutes-show-growing-openness-to-rate-hikes-at-march-meeting/articleshow/130123246.cms",
-    "category": "finance",
-    "title": "Fed minutes show growing openness to rate hikes at March meeting",
-    "summary": "In recent meetings, Federal Reserve officials mulled the idea of increasing interest rates as inflation rates climbed beyond target thresholds, influenced in part by the intensifying U.S.-Israeli conflict with Iran. Despite this, there is a strong ex",
-    "image": "https://img.etimg.com/photo/msid-130123246,imgsize-23404.cms",
-    "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 00:43:18 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-minutes-show-growing-openness-to-rate-hikes-at-march-meeting/articleshow/130123246.cms"
+    "id": "https://www.bbc.com/news/articles/czx9kvqxeq5o#2",
+    "category": "global",
+    "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
+    "summary": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 09 Apr 2026 01:01:26 GMT",
+    "link": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.ndtv.com/india-news/who-is-this-segal-supreme-court-on-centre-objection-to-dy-chandrachud-view-on-adultery-11331006#publisher=newsstand",
@@ -310,44 +340,14 @@
     "link": "https://www.ndtv.com/world-news/iran-war-iran-accuses-us-of-violating-key-clauses-of-peace-framework-before-talks-11330994#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/afghanistan-pakistan-agree-to-avoid-escalation-china-11328907#publisher=newsstand",
-    "category": "india",
-    "title": "Pakistan And Afghanistan Agreed To Avoid Escalation: China",
-    "summary": "According to the Chinese spokeswoman, Afghanistan and Pakistan express a desire to resolve differences.",
-    "image": "https://c.ndtvimg.com/2025-12/hmsfr37g_afghanistan-pakistan-border-clash_625x300_06_December_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 00:39:26 +0530",
-    "link": "https://www.ndtv.com/world-news/afghanistan-pakistan-agree-to-avoid-escalation-china-11328907#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-daly-says-us-economic-fundamentals-in-a-good-place/articleshow/130122897.cms",
-    "category": "finance",
-    "title": "Fed's Daly says US economic fundamentals in a 'good place'",
-    "summary": "Mary Daly, the head of the San Francisco Federal Reserve, is optimistic about the vitality of the US economy. With consumers maintaining their spending habits and businesses showing a commitment to investment, she emphasizes resilience. Despite worri",
-    "image": "https://img.etimg.com/photo/msid-130122897,imgsize-450488.cms",
-    "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 00:26:34 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-daly-says-us-economic-fundamentals-in-a-good-place/articleshow/130122897.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/ketamine-queen-jailed-for-15-years-for-selling-drugs-to-friends-star-matthew-perry-11330927#publisher=newsstand",
-    "category": "india",
-    "title": "'Ketamine Queen' Jailed For 15 Years For Selling Drugs To Matthew Perry",
-    "summary": "Matthew Perry was found unresponsive in the hot tub of his luxury Los Angeles home in 2023.",
-    "image": "https://c.ndtvimg.com/2024-08/k180k688_matthew-perry-jasveen-sangha-_625x300_16_August_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 00:13:12 +0530",
-    "link": "https://www.ndtv.com/world-news/ketamine-queen-jailed-for-15-years-for-selling-drugs-to-friends-star-matthew-perry-11330927#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/pune-doctor-75-duped-of-rs-12-crore-in-share-market-investment-fraud-cops-11330917#publisher=newsstand",
-    "category": "india",
-    "title": "Pune Doctor, 75, Duped Of Rs 12 Crore In Share Market Investment Fraud: Cops",
-    "summary": "Further investigation is underway, say officials. (Representational)",
-    "image": "https://c.ndtvimg.com/2025-07/ho5kh54g_cyber-fraud-_625x300_19_July_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 00:10:27 +0530",
-    "link": "https://www.ndtv.com/india-news/pune-doctor-75-duped-of-rs-12-crore-in-share-market-investment-fraud-cops-11330917#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/cq593g970z7o#2",
+    "category": "global",
+    "title": "22,000 students told to pay back 'mis-sold' maintenance loans",
+    "summary": "Those affected have been told their courses were never eligible for maintenance or childcare loans",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 09 Apr 2026 00:01:40 GMT",
+    "link": "https://www.bbc.com/news/articles/cq593g970z7o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
