@@ -30,16 +30,6 @@
     "link": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531054.html",
-    "category": "sports",
-    "title": "Prasidh trumps Miller in last-ball finish as GT clinch thriller",
-    "summary": "Prasidh's slower ball to end the game finally gave GT their first win of IPL 2026",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415422.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 08 Apr 2026 19:48:25 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531054.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1531062.html",
     "category": "sports",
     "title": "Gill reveals tactics for last ball: 'We knew a slower one will be difficult to hit'",
@@ -110,26 +100,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1531020.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531002.html",
-    "category": "sports",
-    "title": "Islamabad United's Mir Hamza Sajjad recovering after concussion",
-    "summary": "Mir Hamza Sajjad, the reserve Islamabad United fast bowler, was hit in the back of the head by a stray hit during a training session",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415397.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 08 Apr 2026 10:50:54 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531002.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531000.html",
-    "category": "sports",
-    "title": "Green expected to begin bowling in KKR's game against LSG on Thursday",
-    "summary": "Cameron Green hasn't bowled at all in IPL 2026, and KKR's team balance - already hampered by injuries - has been affected as a result",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415396.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 08 Apr 2026 10:42:29 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531000.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -160,154 +130,204 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-as-investors-remain-wary-us-iran-ceasefire-will-open-supply-flow/articleshow/130126965.cms",
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/silver-drops-rs-5000/kg-gold-slides-marginally-as-rising-crude-prices-and-rate-hike-fears-dent-mood-what-should-you-do/articleshow/130129123.cms",
     "category": "finance",
-    "title": "Oil rises as investors remain wary US-Iran ceasefire will open supply flow",
-    "summary": "Oil prices surged on Thursday. Investors worry about Middle East supply not fully resuming. Doubts linger about a U.S.-Iran ceasefire holding. The vital Strait of Hormuz remains restricted. Brent crude and WTI crude futures saw significant increases.",
-    "image": "https://img.etimg.com/photo/msid-130126965,imgsize-39284.cms",
+    "title": "Silver drops Rs 5,000/kg, gold slides marginally as rising crude prices and rate hike fears dent mood. What should you d",
+    "summary": "Gold and silver prices fell on the MCX on Thursday. This followed minutes from the US Federal Reserve's meeting indicating a preference for further rate hikes. Investors also watched developments in the Middle East. Gold futures saw a decline, while ",
+    "image": "https://img.etimg.com/photo/msid-130129123,imgsize-130272.cms",
     "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 06:47:56 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-as-investors-remain-wary-us-iran-ceasefire-will-open-supply-flow/articleshow/130126965.cms"
+    "pubDate": "Thu, 09 Apr 2026 09:38:54 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-drops-rs-5000/kg-gold-slides-marginally-as-rising-crude-prices-and-rate-hike-fears-dent-mood-what-should-you-do/articleshow/130129123.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-turn-cautious-as-reality-intrudes-in-gulf/articleshow/130126831.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/why-market-is-falling-today-sensex-drops-300-points-nifty-below-23950-as-fading-ceasefire-hopes-spike-oil-prices/articleshow/130128978.cms",
     "category": "finance",
-    "title": "Global Market Today: Asian stocks turn cautious as reality intrudes in Gulf",
-    "summary": "Asian markets are subdued as a fragile Gulf ceasefire shows signs of breaking. Oil prices are rising again, signaling prolonged inflation. Investors are cautious as the Strait of Hormuz remains under threat. This instability impacts global markets, w",
-    "image": "https://img.etimg.com/photo/msid-130126831,imgsize-252278.cms",
+    "title": "Sensex falls over 500 points, Nifty below 23,900 as fading ceasefire hopes spike oil prices",
+    "summary": "Indian stock markets ended a five-day winning streak on Thursday, with the Sensex and Nifty 50 experiencing declines. Investor sentiment was dampened by diminishing hopes for an Iran-US ceasefire, among other factors. Major losers included Infosys an",
+    "image": "https://img.etimg.com/photo/msid-130128978,imgsize-46670.cms",
     "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 06:26:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-turn-cautious-as-reality-intrudes-in-gulf/articleshow/130126831.cms"
+    "pubDate": "Thu, 09 Apr 2026 09:29:03 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-market-is-falling-today-sensex-drops-300-points-nifty-below-23950-as-fading-ceasefire-hopes-spike-oil-prices/articleshow/130128978.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/titan-shares-rally-on-strong-q4-jewellery-biz-growth/articleshow/130126790.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-q4-results-today-6-things-to-track-for-investors-spooked-by-ai-crash/articleshow/130129009.cms",
     "category": "finance",
-    "title": "Titan shares rally on strong Q4 jewellery biz growth",
-    "summary": "Titan Company shares surged to a record high on Wednesday. This jump followed a strong business update for the March quarter. The jewellery division saw significant growth, driven by Tanishq and Mia. Buyer growth improved, and higher average ticket s",
-    "image": "https://img.etimg.com/photo/msid-130126790,imgsize-15352.cms",
+    "title": "TCS Q4 results today: 6 things to track for investors spooked by AI crash",
+    "summary": "Tata Consultancy Services reports its March quarter results today. Investors will focus on management's outlook for FY27 demand, artificial intelligence, and large deal momentum. The IT major's commentary could shape sentiment for the entire sector. ",
+    "image": "https://img.etimg.com/photo/msid-130129009,imgsize-2293697.cms",
     "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 06:20:34 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/titan-shares-rally-on-strong-q4-jewellery-biz-growth/articleshow/130126790.cms"
+    "pubDate": "Thu, 09 Apr 2026 09:29:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-q4-results-today-6-things-to-track-for-investors-spooked-by-ai-crash/articleshow/130129009.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/global-relief-wave-lifts-indian-markets-but-fiis-stay-cautious/articleshow/130126747.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-oil-spike-and-war-risks-complicate-feds-next-move/articleshow/130128973.cms",
     "category": "finance",
-    "title": "Global relief wave lifts Indian markets, but FIIs stay cautious",
-    "summary": "Indian equity indices surged significantly on Wednesday, with the Sensex and Nifty experiencing their strongest single-day gains in years. This rally was fueled by relief over a US-Iran ceasefire, leading to a drop in oil prices and easing inflation ",
-    "image": "https://img.etimg.com/photo/msid-130126747,imgsize-16064.cms",
+    "title": "US Stock Market: Oil spike and war risks complicate Fed\u2019s next move",
+    "summary": "Investors are reassessing US interest rate cuts. A pause in the Iran conflict eased inflation fears, but oil prices remain high. This creates uncertainty for the Federal Reserve's policy. Upcoming inflation data will be crucial. Policymakers are watc",
+    "image": "https://img.etimg.com/photo/msid-130128973,imgsize-61424.cms",
     "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 06:15:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-relief-wave-lifts-indian-markets-but-fiis-stay-cautious/articleshow/130126747.cms"
+    "pubDate": "Thu, 09 Apr 2026 09:25:56 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-oil-spike-and-war-risks-complicate-feds-next-move/articleshow/130128973.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/specialised-non-bank-participants-to-get-entry-into-term-money-market/articleshow/130126728.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-from-panic-to-pause-bonds-face-a-new-higher-for-longer-phase/articleshow/130128923.cms",
     "category": "finance",
-    "title": "Specialised non-bank participants to get entry into term money market",
-    "summary": "The Reserve Bank of India is opening up the term money market to a wider range of financial institutions, including specialized government-backed entities like Nabard and Sidbi. Previously exclusive to banks and primary dealers, this move aims to ref",
-    "image": "https://img.etimg.com/photo/msid-130126728,imgsize-113522.cms",
+    "title": "Global Market | From Panic to Pause: Bonds face a new \u2018higher for longer\u2019 phase",
+    "summary": "Global bond markets show signs of stabilization following a war-driven selloff, but a full recovery is unlikely due to persistent inflation and elevated energy prices. A tentative ceasefire has offered temporary relief, yet investors now anticipate h",
+    "image": "https://img.etimg.com/photo/msid-130128923,imgsize-65194.cms",
     "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 06:08:55 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/specialised-non-bank-participants-to-get-entry-into-term-money-market/articleshow/130126728.cms"
+    "pubDate": "Thu, 09 Apr 2026 09:23:32 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-from-panic-to-pause-bonds-face-a-new-higher-for-longer-phase/articleshow/130128923.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130120058.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bosch-shares-in-focus-after-acquiring-bosch-chassis-systems-for-rs-9068-crore-check-details/articleshow/130128862.cms",
     "category": "finance",
-    "title": "GIFT Nifty down 180 points; here's the trading setup for today's session",
-    "summary": "Benchmark indices rallied on April 8, buoyed by firm global cues and a sharp decline in crude oil prices following a US-Iran ceasefire announcement. Analysts suggest sustaining above the 20-day EMA and the Wednesday bullish gap area will maintain a p",
-    "image": "https://img.etimg.com/photo/msid-130120058,imgsize-88221.cms",
+    "title": "Bosch shares jump 3% after acquiring Bosch Chassis Systems for Rs 9,068 crore. Check details",
+    "summary": "Bosch share price surged 3% after the company approved the acquisition of a 100% stake in Bosch Chassis Systems India (BCSI) for Rs 9,068.68 crore. This strategic move aims to transition Bosch from a component supplier to an integrated solutions prov",
+    "image": "https://img.etimg.com/photo/msid-130128862,imgsize-63381.cms",
     "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 06:01:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130120058.cms"
+    "pubDate": "Thu, 09 Apr 2026 09:19:28 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bosch-shares-in-focus-after-acquiring-bosch-chassis-systems-for-rs-9068-crore-check-details/articleshow/130128862.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-hdfc-bank-itc-hotels-hyundai-india-adani-enterprises/articleshow/130119950.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-in-focus-ahead-of-it-firms-q4-earnings-announcement-what-to-expect/articleshow/130128834.cms",
     "category": "finance",
-    "title": "Stocks in news: TCS, HDFC Bank, ITC Hotels, Hyundai India, Adani Enterprises",
-    "summary": "Markets surged for the fourth consecutive session, buoyed by favorable geopolitical cues. Key stocks like TCS, HDFC Bank, ITC Hotels, Hyundai India, and Adani Enterprises are in focus due to Q4 results and news developments. Analysts emphasize the ne",
-    "image": "https://img.etimg.com/photo/msid-130119950,imgsize-605584.cms",
+    "title": "TCS shares in focus ahead of IT firm\u2019s Q4 earnings announcement. What to expect?",
+    "summary": "Investors are keenly watching TCS's earnings announcement following a significant IT stock plunge. Analysts anticipate moderate revenue and profit growth, with BFSI and technology verticals driving performance. Deal wins are expected to remain robust",
+    "image": "https://img.etimg.com/photo/msid-130128834,imgsize-24164.cms",
     "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 06:01:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-hdfc-bank-itc-hotels-hyundai-india-adani-enterprises/articleshow/130119950.cms"
+    "pubDate": "Thu, 09 Apr 2026 09:17:20 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-in-focus-ahead-of-it-firms-q4-earnings-announcement-what-to-expect/articleshow/130128834.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/north-korea-says-latest-tests-used-cluster-bomb-warhead-missiles-11331433#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/itc-hotels-shares-in-focus-after-marquee-investor-gqg-sells-rs-197-crore-stake-what-lies-ahead/articleshow/130128796.cms",
+    "category": "finance",
+    "title": "ITC Hotels shares in focus after marquee investor GQG sells Rs 197-crore stake. What lies ahead?",
+    "summary": "ITC Hotels shares are under scrutiny after GQG Partners sold a partial stake worth Rs 197 crore. Despite a 22% dip this year, driven by geopolitical tensions, the company's core hotel business shows growth in occupancy and pricing. Brokerages remain ",
+    "image": "https://img.etimg.com/photo/msid-130128796,imgsize-15784.cms",
+    "source": "ET",
+    "pubDate": "Thu, 09 Apr 2026 09:14:46 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/itc-hotels-shares-in-focus-after-marquee-investor-gqg-sells-rs-197-crore-stake-what-lies-ahead/articleshow/130128796.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/assembly-elections-2026-live-kerala-assam-puducherry-voting-live-news-updates-high-stakes-battle-bjp-congress-tmc-tvk-aiadmk-ldf-udf-vijay-candidates-11331487#publisher=newsstand",
     "category": "india",
-    "title": "North Korea Says Latest Tests Used Cluster-Bomb Warhead Missiles",
-    "summary": "North Korea on Thursday said its testing spree this week involved various new weapons systems.",
-    "image": "https://c.ndtvimg.com/2026-04/rdnnssp_north-korea_625x300_09_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Election 2026 LIVE: Assam Votes In 1st Polls After Delimitation, TVK Makes Electoral Debut In Puducherry",
+    "summary": "Assembly Elections 2026 Voting Today LIVE: Voting in Kerala, Assam, Puducherry is underway.",
+    "image": "https://c.ndtvimg.com/2024-12/1r4gj5l8_voting-generic_625x300_22_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 05:54:23 +0530",
-    "link": "https://www.ndtv.com/world-news/north-korea-says-latest-tests-used-cluster-bomb-warhead-missiles-11331433#publisher=newsstand"
+    "pubDate": "Thu, 09 Apr 2026 08:42:25 +0530",
+    "link": "https://www.ndtv.com/india-news/assembly-elections-2026-live-kerala-assam-puducherry-voting-live-news-updates-high-stakes-battle-bjp-congress-tmc-tvk-aiadmk-ldf-udf-vijay-candidates-11331487#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/adani-gets-to-schedule-a-hearing-in-sec-case-group-stocks-surge/articleshow/130126632.cms",
-    "category": "finance",
-    "title": "Adani gets to schedule a hearing in SEC case, Group stocks surge",
-    "summary": "Adani Group stocks surged as Gautam Adani sought dismissal of a US SEC civil fraud case. Adani Green Energy led gains, jumping 12%. A US court granted Adani's request to schedule a hearing on his plea to dismiss the case, citing lack of personal juri",
-    "image": "https://img.etimg.com/photo/msid-130126632,imgsize-38784.cms",
-    "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 05:47:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-gets-to-schedule-a-hearing-in-sec-case-group-stocks-surge/articleshow/130126632.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/nuke-watchdog-praises-major-nuclear-milestone-at-kalpakkam-11331419#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/white-house-leak-how-traders-made-big-profits-on-donald-trumps-ceasefire-post-us-iran-war-11331618#publisher=newsstand",
     "category": "india",
-    "title": "\"Impressive\": Nuke Watchdog Praises India's Nuclear Milestone At Kalpakkam",
-    "summary": "Grossi concluded his message on X extending congratulations to Prime Minister Narendra Modi.",
-    "image": "https://c.ndtvimg.com/2026-04/thrlt09_rafael-mariano-grossi_625x300_09_April_26.jpeg",
+    "title": "Insider Leak? Betting Accounts Earn Big On Trump's Ceasefire Post",
+    "summary": "These bets were made even though, in the hours before a two-week ceasefire was announced on Tuesday.",
+    "image": "https://c.ndtvimg.com/2026-03/6kue2urg_asian-stock-market-wrap_625x300_10_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 05:27:51 +0530",
-    "link": "https://www.ndtv.com/india-news/nuke-watchdog-praises-major-nuclear-milestone-at-kalpakkam-11331419#publisher=newsstand"
+    "pubDate": "Thu, 09 Apr 2026 08:32:17 +0530",
+    "link": "https://www.ndtv.com/world-news/white-house-leak-how-traders-made-big-profits-on-donald-trumps-ceasefire-post-us-iran-war-11331618#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/donald-trump-meets-nato-chief-mark-rutte-amid-talk-of-pulling-out-of-military-alliance-11331387#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/ketamine-queen-jasveen-sangha-the-indian-origin-dealer-jailed-for-friends-actor-matthew-perrys-death-11331628#publisher=newsstand",
     "category": "india",
-    "title": "Trump Meets NATO Chief Amid Talk Of Pulling Out Of Military Alliance",
-    "summary": "Trump had suggested the US may consider leaving the trans-Atlantic alliance.",
-    "image": "https://c.ndtvimg.com/2026-01/u40sd4s_mark-rutte-and-trump_625x300_22_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Indian-Origin \"Ketamine Queen\" Jailed For Selling Matthew Perry Drugs",
+    "summary": "The judge handed down a 15-year prison sentence to Jasveen Sangha",
+    "image": "https://c.ndtvimg.com/2025-08/rq8g528c_jasveen-sangha_625x300_19_August_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 04:42:50 +0530",
-    "link": "https://www.ndtv.com/world-news/donald-trump-meets-nato-chief-mark-rutte-amid-talk-of-pulling-out-of-military-alliance-11331387#publisher=newsstand"
+    "pubDate": "Thu, 09 Apr 2026 08:27:35 +0530",
+    "link": "https://www.ndtv.com/world-news/ketamine-queen-jasveen-sangha-the-indian-origin-dealer-jailed-for-friends-actor-matthew-perrys-death-11331628#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-shaky-us-iran-ceasefire-in-doubt-as-israeli-strikes-kill-over-180-in-lebanon-11331239#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/assam-assembly-election-2026-kerala-election-puducherry-election-today-assam-kerala-puducherry-vote-2026-elections-polling-begins-11329214#publisher=newsstand",
     "category": "india",
-    "title": "Shaky US-Iran Ceasefire In Doubt As Israeli Strikes Kill Over 180 In Lebanon",
-    "summary": "Lebanon said at least 182 people were killed and hundreds were wounded on Wednesday.",
-    "image": "https://c.ndtvimg.com/2026-04/gma4lj9k_lebanon_625x300_08_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "BJP Eyes Assam Hat-Trick, Three-Way Contest In Kerala High-Stake Polls",
+    "summary": "Assam, Kerala, and Puducherry kickstart the 2026 election cycle this morning",
+    "image": "https://c.ndtvimg.com/2024-04/67utevdo_election-generic-reuters_625x300_19_April_24.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 02:30:10 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-shaky-us-iran-ceasefire-in-doubt-as-israeli-strikes-kill-over-180-in-lebanon-11331239#publisher=newsstand"
+    "pubDate": "Thu, 09 Apr 2026 08:27:08 +0530",
+    "link": "https://www.ndtv.com/india-news/assam-assembly-election-2026-kerala-election-puducherry-election-today-assam-kerala-puducherry-vote-2026-elections-polling-begins-11329214#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-jd-vance-to-lead-1st-round-of-us-iran-talks-in-pakistan-white-house-11331208#publisher=newsstand",
+    "id": "https://www.ndtv.com/pune-news/pune-doctor-75-loses-over-rs-12-crore-in-online-trading-scam-11331702#publisher=newsstand",
     "category": "india",
-    "title": "JD Vance To Lead 1st Round Of US-Iran Talks In Pakistan: White House",
-    "summary": "White House said that JD Vance has played a very significant and key role since the beginning of war.",
-    "image": "https://c.ndtvimg.com/2026-04/34070vbk_jd-vance_625x300_08_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Pune Doctor, 75, Loses Over Rs 12 Crore In Online Trading Scam",
+    "summary": "An FIR has been registered with the cyber police station based on the doctor's complaint",
+    "image": "https://c.ndtvimg.com/2024-03/l6bmp0j_scam-generic_625x300_17_March_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 02:09:32 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-jd-vance-to-lead-1st-round-of-us-iran-talks-in-pakistan-white-house-11331208#publisher=newsstand"
+    "pubDate": "Thu, 09 Apr 2026 08:27:06 +0530",
+    "link": "https://www.ndtv.com/pune-news/pune-doctor-75-loses-over-rs-12-crore-in-online-trading-scam-11331702#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/choose-truce-or-continue-war-via-israel-iran-warns-us-over-lebanon-attacks-11331100#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/us-iran-war-news-why-iran-war-has-paused-but-lebanon-continues-to-be-a-flashpoint-explained-11331564#publisher=newsstand",
     "category": "india",
-    "title": "Choose Truce Or \"Continue War Via Israel\": Iran Warns US Over Lebanon Attacks",
-    "summary": "Iran's Abbas Araghchi warned that the US must choose between a ceasefire or \"continue war via Israel\".",
-    "image": "https://c.ndtvimg.com/2026-03/r7cbqvj_seyed-abbas-araghchi_625x300_19_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Iran Says US, Israel Violating 3 Ceasefire Clauses As Deal Hangs By Thread",
+    "summary": "A total of 254 people have been killed, and over 1,100 have been wounded across Lebanon",
+    "image": "https://c.ndtvimg.com/2026-04/a187lauo_lebanon-attack_625x300_09_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 01:34:36 +0530",
-    "link": "https://www.ndtv.com/world-news/choose-truce-or-continue-war-via-israel-iran-warns-us-over-lebanon-attacks-11331100#publisher=newsstand"
+    "pubDate": "Thu, 09 Apr 2026 08:17:37 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-news-why-iran-war-has-paused-but-lebanon-continues-to-be-a-flashpoint-explained-11331564#publisher=newsstand"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cq6j0rnvlzeo#1",
+    "id": "https://www.ndtv.com/offbeat/nepali-man-makes-indian-tourists-clean-gutka-spit-from-street-video-sparks-debate-11331640#publisher=newsstand",
+    "category": "india",
+    "title": "Nepali Man Makes Indian Tourists Clean Gutka Spit From Street, Video Sparks Debate",
+    "summary": "The incident highlights growing concerns regarding civic sense and responsible tourism.",
+    "image": "https://c.ndtvimg.com/2026-04/kcvjd5ao_nepalese-man-confronts-indian-tourists_625x300_09_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 09 Apr 2026 08:12:37 +0530",
+    "link": "https://www.ndtv.com/offbeat/nepali-man-makes-indian-tourists-clean-gutka-spit-from-street-video-sparks-debate-11331640#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/who-is-this-segal-supreme-court-on-centre-objection-to-dy-chandrachud-view-on-adultery-11331006#publisher=newsstand",
+    "category": "india",
+    "title": "\"Who's This Segal?\": Supreme Court On Centre's Objection To DY Chandrachud's View On Adultery",
+    "summary": "Centre criticised \"constitutional morality\" adopted by rulings on adultery and homosexuality",
+    "image": "https://c.ndtvimg.com/2022-10/tthv9vd8_supreme-court-india-generic-pti_625x300_10_October_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 09 Apr 2026 08:12:35 +0530",
+    "link": "https://www.ndtv.com/india-news/who-is-this-segal-supreme-court-on-centre-objection-to-dy-chandrachud-view-on-adultery-11331006#publisher=newsstand"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1531079.html",
+    "category": "sports",
+    "title": "Prasidh Krishna and Rashid Khan move up in Purple Cap race",
+    "summary": "After Gujarat Titans' victory over Delhi Capitals in Ahmedabad, there was a little shake-up in the purple cap race",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415100/415116.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 09 Apr 2026 04:23:36 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531079.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1531080.html",
+    "category": "sports",
+    "title": "Rayudu: Rahul's challenge is the strategy he comes out to bat with",
+    "summary": "Rayudu praises Rahul's ability after his 92 off 52 balls against GT",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415412.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 09 Apr 2026 04:14:13 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531080.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1531054.html",
+    "category": "sports",
+    "title": "Prasidh trumps Miller in last-ball finish as GT clinch thriller",
+    "summary": "Prasidh's slower ball to end the game finally gave GT their first win of IPL 2026",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415422.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 09 Apr 2026 04:09:48 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531054.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c05d8j9r5ejo#1",
     "category": "global",
-    "title": "Oil prices rise as investors eye fragile US-Iran ceasefire",
-    "summary": "Crude prices plunged on Wednesday after a deal was announced that includes the opening of the Strait of Hormuz.",
+    "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+    "summary": "The US president says Nato \"wasn't there when we needed them\" during the Iran war.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 09 Apr 2026 01:31:06 GMT",
-    "link": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 09 Apr 2026 01:59:34 GMT",
+    "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/czx9kvqxeq5o#2",
@@ -318,26 +338,6 @@
     "source": "BBC",
     "pubDate": "Thu, 09 Apr 2026 01:01:26 GMT",
     "link": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/who-is-this-segal-supreme-court-on-centre-objection-to-dy-chandrachud-view-on-adultery-11331006#publisher=newsstand",
-    "category": "india",
-    "title": "\"Who's This Segal?\": Supreme Court On Centre's Objection To DY Chandrachud's View On Adultery",
-    "summary": "Centre criticised \"constitutional morality\" adopted by rulings on adultery and homosexuality",
-    "image": "https://c.ndtvimg.com/2022-10/tthv9vd8_supreme-court-india-generic-pti_625x300_10_October_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 00:42:56 +0530",
-    "link": "https://www.ndtv.com/india-news/who-is-this-segal-supreme-court-on-centre-objection-to-dy-chandrachud-view-on-adultery-11331006#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-iran-accuses-us-of-violating-key-clauses-of-peace-framework-before-talks-11330994#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Accuses US Of Violating Key Clauses Of Peace Framework Before Talks",
-    "summary": "A fresh diplomatic row has erupted after Iranian officials accused the United States of violating three clauses of the 10-Point Proposal, the agreed framework for upcoming negotiations.",
-    "image": "https://c.ndtvimg.com/2026-04/1ub82cu_tehran-attack_625x300_02_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 00:39:47 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-iran-accuses-us-of-violating-key-clauses-of-peace-framework-before-talks-11330994#publisher=newsstand"
   },
   {
     "id": "https://www.bbc.com/news/articles/cq593g970z7o#2",
