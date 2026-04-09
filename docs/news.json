@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531062.html",
-    "category": "sports",
-    "title": "Gill reveals tactics for last ball: 'We knew a slower one will be difficult to hit'",
-    "summary": "\"We always thought 210 on this [pitch] we are 10-15 runs above par,\" says GT captain",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415416.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 08 Apr 2026 19:46:42 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531062.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -40,64 +30,154 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/india-news/delhis-excise-push-pays-off-revenue-crosses-rs-6-300-crore-department-sets-steep-target-11333784#publisher=newsstand",
-    "category": "india",
-    "title": "At Rs 6,300 Crore, Delhi Records Over 10% Rise In Liquor Revenue",
-    "summary": "The department has also moved to a paperless system through the new e-Abkari portal.",
-    "image": "https://i.ndtvimg.com/i/2016-12/alcohol-generic_650x400_51481901388.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 16:57:53 +0530",
-    "link": "https://www.ndtv.com/india-news/delhis-excise-push-pays-off-revenue-crosses-rs-6-300-crore-department-sets-steep-target-11333784#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/no-textbooks-yet-but-start-now-cbse-gives-schools-7-days-to-comply-with-third-language-11333665#publisher=newsstand",
-    "category": "india",
-    "title": "No Textbooks Yet: CBSE Directs Schools To Start Teaching Third Language Within 7 Days",
-    "summary": "CBSE introduces third language: Schools have been asked to start teaching the third language right away.",
-    "image": "https://c.ndtvimg.com/2025-04/jniidjv_ap-ssc-10th-results-2025_625x300_23_April_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 16:56:46 +0530",
-    "link": "https://www.ndtv.com/education/no-textbooks-yet-but-start-now-cbse-gives-schools-7-days-to-comply-with-third-language-11333665#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-have-irans-revolutionary-guard-have-put-sea-mines-in-strait-of-hormuz-middle-east-conflict-11332209#publisher=newsstand",
-    "category": "india",
-    "title": "'Danger Zones': Iran Shares Map Of Sea Mines In Hormuz Amid Ceasefire",
-    "summary": "The charts showed a large circle marked \"danger zone\" in Farsi over the Traffic Separation Scheme.",
-    "image": "https://c.ndtvimg.com/2026-04/m9nepf1o_strait-of-hormuz-_625x300_06_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 16:55:39 +0530",
-    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-have-irans-revolutionary-guard-have-put-sea-mines-in-strait-of-hormuz-middle-east-conflict-11332209#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/shashi-tharoor-exclusive-us-iran-ceasefire-should-be-celebrated-shashi-tharoor-exclusive-on-pak-role-in-ceasefire-11333848#publisher=newsstand",
-    "category": "india",
-    "title": "'Should Be Celebrated': Shashi Tharoor Exclusive On Pak Role In Ceasefire",
-    "summary": "Pakistan is Iran's neighbour and has its skin in the game, Shashi Tharoor told NDTV",
-    "image": "https://c.ndtvimg.com/2026-04/2a51qa78_shashi-tharoor-ndtv-_650x400_09_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 16:54:36 +0530",
-    "link": "https://www.ndtv.com/world-news/shashi-tharoor-exclusive-us-iran-ceasefire-should-be-celebrated-shashi-tharoor-exclusive-on-pak-role-in-ceasefire-11333848#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/feature/disney-prepares-to-lay-off-up-to-1-000-employees-amid-economic-uncertainty-11333906#publisher=newsstand",
-    "category": "india",
-    "title": "Disney Prepares To Lay Off Up To 1,000 Employees Amid Economic Uncertainty",
-    "summary": "Disney prepares to reduce workforce by up to 1,000 jobs.",
-    "image": "https://c.ndtvimg.com/2026-04/d9fv1f7s_walt-disney_625x300_09_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 16:52:52 +0530",
-    "link": "https://www.ndtv.com/feature/disney-prepares-to-lay-off-up-to-1-000-employees-amid-economic-uncertainty-11333906#publisher=newsstand"
-  },
-  {
     "id": "https://www.ndtv.com/education/karnataka-2nd-puc-12th-result-2026-live-to-be-out-soon-date-time-direct-link-toppers-list-pass-percentage-live-updates-11331490#publisher=newsstand",
     "category": "india",
-    "title": "Karnataka 2nd PUC Result 2026 (Out) LIVE: Direct link Active, Pass pecentage, Topper List To Be announced shortly",
+    "title": "Karnataka 2nd PUC Result 2026 LIVE: 84% Of Students Pass, Science Stream Leads With 90%",
     "summary": "Karnataka 2nd PUC Result 2026 Live (OUT) Updates",
     "image": "https://c.ndtvimg.com/2026-04/i3ti6g28_karnataka-2nd-puc-exam-result_625x300_05_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 16:52:00 +0530",
+    "pubDate": "Thu, 09 Apr 2026 18:35:14 +0530",
     "link": "https://www.ndtv.com/education/karnataka-2nd-puc-12th-result-2026-live-to-be-out-soon-date-time-direct-link-toppers-list-pass-percentage-live-updates-11331490#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/pakistani-man-charged-with-plotting-to-attack-a-jewish-center-in-new-york-pleads-guilty-11333956#publisher=newsstand",
+    "category": "india",
+    "title": "Pakistani Man Pleads Guilty For Plotting Terror Attack On US Jewish Centre",
+    "summary": "Muhammad Shahzeb Khan pleaded guilty for plotting a terrorist attack in Brooklyn targeting Jews.",
+    "image": "https://c.ndtvimg.com/2023-10/sjv40gi8_jews-in-america-afp_625x300_13_October_23.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 09 Apr 2026 18:30:20 +0530",
+    "link": "https://www.ndtv.com/world-news/pakistani-man-charged-with-plotting-to-attack-a-jewish-center-in-new-york-pleads-guilty-11333956#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/the-early-exposure-rule-how-growing-up-with-gluten-impacts-a-childs-gut-health-11334346#publisher=newsstand",
+    "category": "india",
+    "title": "The Early Exposure Rule: How Growing Up With Gluten Impacts A Child's Gut Health",
+    "summary": "Early gluten introduction is required to strengthen gut health",
+    "image": "https://c.ndtvimg.com/2026-04/55sk7fus_gluten-for-children_625x300_09_April_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 09 Apr 2026 18:29:35 +0530",
+    "link": "https://www.ndtv.com/health/the-early-exposure-rule-how-growing-up-with-gluten-impacts-a-childs-gut-health-11334346#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/us-based-nri-couple-to-return-to-india-after-oracle-layoffs-as-60-day-deadline-looms-11334392#publisher=newsstand",
+    "category": "india",
+    "title": "US-Based NRI Couple To Return To India After Oracle Layoffs As 60-Day Deadline Looms",
+    "summary": "NRI couple in US plans return to India after layoffs at Oracle impact their jobs.",
+    "image": "https://c.ndtvimg.com/2026-04/c0t8f5n_oracle_625x300_02_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 09 Apr 2026 18:22:06 +0530",
+    "link": "https://www.ndtv.com/offbeat/us-based-nri-couple-to-return-to-india-after-oracle-layoffs-as-60-day-deadline-looms-11334392#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/assam-hslc-result-2026-live-updates-result-to-be-out-on-april-10-check-official-websites-direct-link-11332448#publisher=newsstand",
+    "category": "india",
+    "title": "Assam HSLC Result 2026 To Be Out On April 10, Check Official Websites, Direct Link",
+    "summary": "Assam HSLC Result 2026 Live: To pass the exam, students must secure at least 30% marks in each subject.",
+    "image": "https://c.ndtvimg.com/2026-04/s27ctfb4_assam-hslc-result-2026-live-updates_625x300_09_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 09 Apr 2026 18:20:19 +0530",
+    "link": "https://www.ndtv.com/education/assam-hslc-result-2026-live-updates-result-to-be-out-on-april-10-check-official-websites-direct-link-11332448#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/is-plain-yogurt-safe-for-your-6-month-old-a-guide-to-starting-solids-safely-11334365#publisher=newsstand",
+    "category": "india",
+    "title": "Is Plain Yogurt Safe For Your 6-Month-Old? A guide To Starting Solids Safely",
+    "summary": "When starting solids, you can introduce various textures and flavours",
+    "image": "https://c.ndtvimg.com/2026-04/racl5umk_baby_625x300_09_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 09 Apr 2026 18:18:18 +0530",
+    "link": "https://www.ndtv.com/health/is-plain-yogurt-safe-for-your-6-month-old-a-guide-to-starting-solids-safely-11334365#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/dalcore-to-invest-rs-500-cr-to-build-branded-luxury-homes-in-gurugram/articleshow/130143515.cms",
+    "category": "finance",
+    "title": "Dalcore to invest Rs 500 cr to build branded luxury homes in Gurugram",
+    "summary": "Realty firm Dalcore on Thursday said it will invest Rs 500 crore to develop a luxury housing project at Gurugram, in partnership with a global design and lifestyle brand YOO.",
+    "image": "https://img.etimg.com/photo/msid-130143515,imgsize-14654.cms",
+    "source": "ET",
+    "pubDate": "Thu, 09 Apr 2026 18:16:50 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/dalcore-to-invest-rs-500-cr-to-build-branded-luxury-homes-in-gurugram/articleshow/130143515.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/assam-assembly-election-2026-kerala-election-puducherry-election-today-assam-kerala-puducherry-vote-2026-elections-polling-begins-11329214#publisher=newsstand",
+    "category": "india",
+    "title": "Voting Ends, Kerala Sees 75% Turnout, Assam 84.4% Till 5 pm",
+    "summary": "Assam, Kerala, and Puducherry kickstart the 2026 election cycle this morning",
+    "image": "https://c.ndtvimg.com/2024-04/67utevdo_election-generic-reuters_625x300_19_April_24.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 09 Apr 2026 18:13:40 +0530",
+    "link": "https://www.ndtv.com/india-news/assam-assembly-election-2026-kerala-election-puducherry-election-today-assam-kerala-puducherry-vote-2026-elections-polling-begins-11329214#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/indian-delegation-to-visit-washington-this-month-to-advance-us-trade-deal-11334290#publisher=newsstand",
+    "category": "india",
+    "title": "Indian Delegation To Visit Washington This Month To Advance US Trade Deal",
+    "summary": "The US confirmed it is preparing to host an Indian delegation in Washington later this month.",
+    "image": "https://c.ndtvimg.com/2026-03/aiukra9s_india-us-flag_625x300_16_March_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 09 Apr 2026 18:11:09 +0530",
+    "link": "https://www.ndtv.com/world-news/indian-delegation-to-visit-washington-this-month-to-advance-us-trade-deal-11334290#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/signature-global-q4-pre-sales-down-5-pc-to-rs-1620-cr-20-pc-drop-in-fy26-at-rs-8220-cr/articleshow/130143255.cms",
+    "category": "finance",
+    "title": "Signature Global Q4 pre-sales down 5 pc to Rs 1,620 cr, 20 pc drop in FY26 at Rs 8,220 cr",
+    "summary": "Realty firm Signature Global Ltd on Wednesday reported a 5 per cent decline in pre-sales to Rs 1,540 crore in the fourth quarter of the previous fiscal year.",
+    "image": "https://img.etimg.com/photo/msid-130143255,imgsize-15892.cms",
+    "source": "ET",
+    "pubDate": "Thu, 09 Apr 2026 18:07:20 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/signature-global-q4-pre-sales-down-5-pc-to-rs-1620-cr-20-pc-drop-in-fy26-at-rs-8220-cr/articleshow/130143255.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slide-as-oil-jumps-with-iran-truce-in-jeopardy/articleshow/130143145.cms",
+    "category": "finance",
+    "title": "India bonds slide as oil jumps with Iran truce in jeopardy",
+    "summary": "Indian government bonds \u200bfell on Thursday, with the \u200b10-year reversing nearly half of its biggest rally in four \u200byears, as oil rose on doubts over the U.S.-Iran ceasefire and shipping disruptions through the Strait of Hormuz.",
+    "image": "https://img.etimg.com/photo/msid-130143145,imgsize-21698.cms",
+    "source": "ET",
+    "pubDate": "Thu, 09 Apr 2026 18:02:31 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slide-as-oil-jumps-with-iran-truce-in-jeopardy/articleshow/130143145.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-ray-dalio-dont-get-hung-up-on-your-views-of-how-things-should-be-because-you-will-miss-out-on-learning-how-they-really-are-/articleshow/130131667.cms",
+    "category": "finance",
+    "title": "Quote of the day by Ray Dalio: \"Don't get hung up on your views of how things 'should' be because you will miss out on l",
+    "summary": "Investors often miss opportunities by clinging to expectations of how markets should behave. Ray Dalio stresses that markets are complex systems, not conforming to simple rules. Letting go of rigid views and embracing objectivity allows for better ad",
+    "image": "https://img.etimg.com/photo/msid-130131667,imgsize-31220.cms",
+    "source": "ET",
+    "pubDate": "Thu, 09 Apr 2026 18:00:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-ray-dalio-dont-get-hung-up-on-your-views-of-how-things-should-be-because-you-will-miss-out-on-learning-how-they-really-are-/articleshow/130131667.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-going-all-in-on-ai-as-2-3-billion-revenue-takes-shape-5-takeaways-from-q4-results/articleshow/130142319.cms",
+    "category": "finance",
+    "title": "TCS going all-in on AI as $2.3 billion revenue takes shape. 5 takeaways from Q4 results",
+    "summary": "Tata Consultancy Services signalled a decisive shift by positioning AI as a core growth engine rather than an experimental bet. With annualised AI revenue crossing $2.3 billion, strong deal wins, expanding margins and a rapidly upskilled workforce, t",
+    "image": "https://img.etimg.com/photo/msid-130142319,imgsize-2588374.cms",
+    "source": "ET",
+    "pubDate": "Thu, 09 Apr 2026 17:46:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-going-all-in-on-ai-as-2-3-billion-revenue-takes-shape-5-takeaways-from-q4-results/articleshow/130142319.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-war-israel-lebanon-ceasefire-deal-hormuz-brent-crude-oil-ai-stock-price-news/liveblog/130142661.cms",
+    "category": "finance",
+    "title": "US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures fall over shaky Mideast truce; inflation in focus",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-130142661,imgsize-2283948.cms",
+    "source": "ET",
+    "pubDate": "Thu, 09 Apr 2026 17:42:18 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-war-israel-lebanon-ceasefire-deal-hormuz-brent-crude-oil-ai-stock-price-news/liveblog/130142661.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/honasa-consumer-among-7-stocks-that-hit-52-week-high-rally-up-to-21-in-a-month/slideshow/130142375.cms",
+    "category": "finance",
+    "title": "Honasa Consumer among 7 stocks that hit 52-week high; rally up to 21% in a month",
+    "summary": "Despite a sharp Sensex decline, seven BSE 500 stocks hit 52-week highs, including Ather Energy and ABB India, reflecting strong momentum, recent gains, and continued investor optimism amid broader market weakness.",
+    "image": "https://img.etimg.com/photo/msid-130142108,imgsize-18976.cms",
+    "source": "ET",
+    "pubDate": "Thu, 09 Apr 2026 17:22:10 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/honasa-consumer-among-7-stocks-that-hit-52-week-high-rally-up-to-21-in-a-month/slideshow/130142375.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-as-fragile-mideast-truce-dents-stocks-bonds/articleshow/130141257.cms",
@@ -110,94 +190,14 @@
     "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-as-fragile-mideast-truce-dents-stocks-bonds/articleshow/130141257.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/married-at-14-maharashtra-girl-dies-by-suicide-husband-arrested-11333875#publisher=newsstand",
-    "category": "india",
-    "title": "Married At 14, Maharashtra Girl Dies By Suicide. Husband Arrested",
-    "summary": "The husband and father-in-law were arrested in connection with the case.",
-    "image": "https://c.ndtvimg.com/2026-04/0ndsd2jk_maharashtra-police_625x300_09_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 16:46:53 +0530",
-    "link": "https://www.ndtv.com/india-news/married-at-14-maharashtra-girl-dies-by-suicide-husband-arrested-11333875#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/feature/thousands-of-men-using-telegram-to-spy-on-women-and-share-private-images-new-research-warns-11333874#publisher=newsstand",
-    "category": "india",
-    "title": "Thousands Of Men Using Telegram To Spy On Women And Share Private Images, New Research Warns",
-    "summary": "Telegram says it blocked nearly 12 million groups and channels.",
-    "image": "https://c.ndtvimg.com/2026-04/r5f20m6_thousands-of-men-using-telegram-to-spy-on-women_625x300_09_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 09 Apr 2026 16:46:47 +0530",
-    "link": "https://www.ndtv.com/feature/thousands-of-men-using-telegram-to-spy-on-women-and-share-private-images-new-research-warns-11333874#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-q4-results-profit-rises-12-yoy-to-rs-13718-crore-co-declares-rs-31/share-dividend/articleshow/130140134.cms",
-    "category": "finance",
-    "title": "TCS Q4 FY26 Results: Profit jumps 12% YoY to Rs 13,718 crore; revenue rises 10%",
-    "summary": "TCS Q4 Results 2026: Tata Consultancy Services announced a 12% year-on-year increase in its consolidated net profit, reaching Rs 13,718 crore for the fourth quarter. The IT services giant also reported a 10% YoY revenue growth to Rs 70,698 crore, bol",
-    "image": "https://img.etimg.com/photo/msid-130140134,imgsize-22380.cms",
-    "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 16:06:45 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-q4-results-profit-rises-12-yoy-to-rs-13718-crore-co-declares-rs-31/share-dividend/articleshow/130140134.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-declares-rs-31-per-share-final-divided-for-fy26-total-payout-at-rs-39571-crore/articleshow/130139979.cms",
-    "category": "finance",
-    "title": "TCS declares Rs 31 per share final dividend, FY26 payout at Rs 39,571 crore",
-    "summary": "TCS Dividend News:  Tata Consultancy Services declared a final dividend of Rs 31 per share for the financial year ending March 31, 2026. The IT giant reported a 12% year-on-year growth in its consolidated net profit for the March quarter. Revenue als",
-    "image": "https://img.etimg.com/photo/msid-130139979,imgsize-76220.cms",
-    "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 16:06:32 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-declares-rs-31-per-share-final-divided-for-fy26-total-payout-at-rs-39571-crore/articleshow/130139979.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-to-consider-buyback-of-shares-after-steep-stock-crash-this-year/articleshow/130076073.cms",
-    "category": "finance",
-    "title": "Wipro to consider share buyback on April 16 after steep stock crash this year",
-    "summary": "An IT services major Wipro announced it will consider a share buyback alongside its Q4 results on April 16. This move follows a significant stock price decline and investor concerns about cash return versus AI investments.",
-    "image": "https://img.etimg.com/photo/msid-130076073,imgsize-47250.cms",
-    "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 16:04:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-to-consider-buyback-of-shares-after-steep-stock-crash-this-year/articleshow/130076073.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/explained-why-crude-oil-prices-are-eyeing-100-once-again-despite-iran-war-ceasefire/articleshow/130139791.cms",
-    "category": "finance",
-    "title": "Explained: Why crude oil prices are eyeing $100 once again despite Iran war ceasefire",
-    "summary": "Just when investors began to breathe easy on hopes that a two-week ceasefire would cool oil prices, markets were jolted back to reality, with crude once again hovering near the $100 mark.",
-    "image": "https://img.etimg.com/photo/msid-130139791,imgsize-43944.cms",
-    "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 15:54:14 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/explained-why-crude-oil-prices-are-eyeing-100-once-again-despite-iran-war-ceasefire/articleshow/130139791.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/nifty-eyes-24500-as-markets-shake-off-geopolitical-jitters-vedanta-ntpc-green-infosys-in-focus-rahul-sharma/articleshow/130139224.cms",
-    "category": "finance",
-    "title": "Nifty eyes 24,500 as markets shake off geopolitical jitters; Vedanta, NTPC Green, Infosys in focus: Rahul Sharma",
-    "summary": "Indian stock markets are showing strength despite global tensions. Technical analysts see a positive market structure and potential stock gains. Nifty faces resistance at 24,000 but has strong support at 22,800. Vedanta and NTPC Green are highlighted",
-    "image": "https://img.etimg.com/photo/msid-130139224,imgsize-32408.cms",
-    "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 15:33:54 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/nifty-eyes-24500-as-markets-shake-off-geopolitical-jitters-vedanta-ntpc-green-infosys-in-focus-rahul-sharma/articleshow/130139224.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/dip-buying-sunil-singhania-backed-abakkus-flexi-cap-fund-picks-1-4-stake-in-heritage-foods-in-march/articleshow/130139183.cms",
-    "category": "finance",
-    "title": "Dip buying: Sunil Singhania-backed Abakkus Flexi Cap Fund picks 1.4% stake in Heritage Foods in March",
-    "summary": "Ace Investor Sunil Singhania-backed Abakkus Flexi Cap Fund added Heritage Foods in the quarter ended March, picking nearly 13 lakh shares that account for 1.4% equity in the company.",
-    "image": "https://img.etimg.com/photo/msid-130139183,imgsize-13212.cms",
-    "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 15:28:22 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/dip-buying-sunil-singhania-backed-abakkus-flexi-cap-fund-picks-1-4-stake-in-heritage-foods-in-march/articleshow/130139183.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/bonus-issue-alert-anand-rathi-wealth-announces-11-bonus-issue-rs-7-dividend-check-details/articleshow/130139133.cms",
-    "category": "finance",
-    "title": "Bonus issue alert! Anand Rathi Wealth announces 1:1 bonus issue, Rs 7 dividend; check details",
-    "summary": "Anand Rathi Wealth announced a 1:1 bonus share issue and a final dividend of Rs 7 per share for the financial year 2026. The company's board approved these proposals. The bonus shares will be issued from free reserves. The company also reported stron",
-    "image": "https://img.etimg.com/photo/msid-130139133,imgsize-46794.cms",
-    "source": "ET",
-    "pubDate": "Thu, 09 Apr 2026 15:25:58 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/bonus-issue-alert-anand-rathi-wealth-announces-11-bonus-issue-rs-7-dividend-check-details/articleshow/130139133.cms"
+    "id": "https://www.bbc.com/news/articles/cre13qn9z7do#0",
+    "category": "global",
+    "title": "UK says Russia ran submarine operation over cables and pipelines",
+    "summary": "Defence Secretary John Healey says there is \"no evidence\" of any damage to UK infrastructure in the Atlantic.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 09 Apr 2026 13:07:54 GMT",
+    "link": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cgmenyllyz7o#0",
@@ -206,8 +206,38 @@
     "summary": "Authorities say 37 people are being treated in hospital, but around 30 others continued their journeys to the UK.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 09 Apr 2026 11:51:20 GMT",
+    "pubDate": "Thu, 09 Apr 2026 12:49:49 GMT",
     "link": "https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1531100.html",
+    "category": "sports",
+    "title": "Conway, spinners help United hand Qalandars a thumping",
+    "summary": "Qalandars were spun out for 100, and United raced to the target in 10.1 overs",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415425.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 09 Apr 2026 12:48:52 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531100.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cq6j0rnvlzeo#0",
+    "category": "global",
+    "title": "Petrol and diesel prices rise again as concerns grow over ceasefire",
+    "summary": "Motoring groups have warned drivers not to expect a significant drop in costs soon.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 09 Apr 2026 12:22:20 GMT",
+    "link": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1531096.html",
+    "category": "sports",
+    "title": "India's oldest Test cricketer CD Gopinath dies at 96",
+    "summary": "He was the last surviving member of the XI that achieved India's first Test win, against England in Chennai in 1952",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/389000/389041.png",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 09 Apr 2026 12:17:01 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531096.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c625l7qen3jo#0",
@@ -220,16 +250,6 @@
     "link": "https://www.bbc.com/news/articles/c625l7qen3jo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cq6j0rnvlzeo#0",
-    "category": "global",
-    "title": "Petrol and diesel prices rise again as concerns grow over ceasefire",
-    "summary": "Motoring groups have warned drivers not to expect a significant drop in costs soon.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 09 Apr 2026 11:07:23 GMT",
-    "link": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/ckgelr2pk0lo#0",
     "category": "global",
     "title": "Best-selling The Housemaid author Freida McFadden reveals true identity",
@@ -238,16 +258,6 @@
     "source": "BBC",
     "pubDate": "Thu, 09 Apr 2026 09:35:01 GMT",
     "link": "https://www.bbc.com/news/articles/ckgelr2pk0lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cly05k592ryo#0",
-    "category": "global",
-    "title": "Spanish police 'dismantle' Scottish drugs gang as crime boss arrested",
-    "summary": "The Civil Guard said the Lyons' organisation in Spain has been taken apart, with 14 arrests in four countries and 20 others under investigation.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 09 Apr 2026 09:10:55 GMT",
-    "link": "https://www.bbc.com/news/articles/cly05k592ryo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1531086.html",
@@ -328,16 +338,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 09 Apr 2026 04:36:17 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1531080.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531054.html",
-    "category": "sports",
-    "title": "Prasidh trumps Miller in last-ball finish as GT clinch thriller",
-    "summary": "Prasidh's slower ball to end the game finally gave GT their first win of IPL 2026",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415422.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 09 Apr 2026 04:09:48 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531054.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cq593g970z7o#0",
