@@ -30,6 +30,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/african-charity-sues-prince-harry-for-defamation-11341259#publisher=newsstand",
+    "category": "india",
+    "title": "African Charity Sues Prince Harry For Defamation",
+    "summary": "An African AIDS charity co-founded by Britain's Prince Harry said on Friday it had launched legal proceedings against him for \"reputational harm\", as the royal \"categorically\" rejected the  defamation claims.",
+    "image": "https://c.ndtvimg.com/2026-04/5h0fh0m4_prince-harry_625x300_02_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 11 Apr 2026 02:52:41 +0530",
+    "link": "https://www.ndtv.com/world-news/african-charity-sues-prince-harry-for-defamation-11341259#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/lebanon-says-israel-talks-to-take-place-next-week-in-washington-11341182#publisher=newsstand",
     "category": "india",
     "title": "Lebanon Says Israel Talks To Take Place Next Week In Washington",
@@ -110,16 +120,6 @@
     "link": "https://www.ndtv.com/world-news/no-us-talks-without-lebanon-ceasefire-asset-release-iran-speaker-11341008#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/rubi-kumari-thakur-nepal-gets-its-youngest-ever-deputy-speaker-she-is-a-26-year-old-student-11340999#publisher=newsstand",
-    "category": "india",
-    "title": "Nepal Gets Its Youngest Ever Deputy Speaker. She Is A 26-Year-Old Student",
-    "summary": "Out of the 275-member House, 256 lawmakers participated in the voting.",
-    "image": "https://c.ndtvimg.com/2026-04/2ekfpbv4_rubi-kumari-thakur_625x300_11_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Sat, 11 Apr 2026 00:20:33 +0530",
-    "link": "https://www.ndtv.com/world-news/rubi-kumari-thakur-nepal-gets-its-youngest-ever-deputy-speaker-she-is-a-26-year-old-student-11340999#publisher=newsstand"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -180,13 +180,33 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ackmans-64-billion-universal-bet-hinges-on-power-broker-bollore/articleshow/130176950.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c04x1lg1lygo#0",
+    "category": "global",
+    "title": "UK shelves Chagos deal after Trump opposition",
+    "summary": "UK government officials say they are not entirely abandoning the agreement but have run out of time.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Apr 2026 22:17:49 GMT",
+    "link": "https://www.bbc.com/news/articles/c04x1lg1lygo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1531258.html",
+    "category": "sports",
+    "title": "Robinson catches the eye before Woakes, Smith counterattack",
+    "summary": "Sussex captain leads penetrative bowling effort in front of watching Rob Key",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415482.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Apr 2026 21:55:16 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531258.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1531261.html",
     "category": "sports",
     "title": "Jamie Smith restates England credentials with second successive hundred",
     "summary": "Surrey take command through 200-run stand between Smith and Ollie Pope",
     "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415499.jpg",
     "source": "Cricinfo",
-    "pubDate": "Fri, 10 Apr 2026 21:24:22 GMT",
+    "pubDate": "Fri, 10 Apr 2026 21:31:06 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1531261.html?ex_cid=OTC-RSS"
   },
   {
@@ -330,16 +350,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1531263.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531310.html",
-    "category": "sports",
-    "title": "Rossouw, Shakeel hand Rawalpindiz fifth straight loss",
-    "summary": "Rawalpindiz's middle order imploded and they are now on the verge of a league-stage exit",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415477.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Apr 2026 18:56:49 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531310.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cx2wyn8wdz0o#0",
     "category": "global",
     "title": "The five big sticking points in US-Iran talks",
@@ -358,16 +368,6 @@
     "source": "BBC",
     "pubDate": "Fri, 10 Apr 2026 15:51:36 GMT",
     "link": "https://www.bbc.com/news/articles/c0krdgjy0kko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c39rkpe8mj2o#0",
-    "category": "global",
-    "title": "EU fingerprint and photo travel rules come into force",
-    "summary": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Apr 2026 15:29:23 GMT",
-    "link": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cy915wr1074o#0",
