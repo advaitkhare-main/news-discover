@@ -50,16 +50,6 @@
     "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/videos/c0e7dz0zwd0o#0",
-    "category": "global",
-    "title": "Watch: Melania Trump's surprise Epstein statement in full",
-    "summary": "She tells reporters at the White House that any claims linking the two \"need to end today\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 09 Apr 2026 19:00:43 GMT",
-    "link": "https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -100,54 +90,144 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
-    "id": "https://www.ndtv.com/education/assam-board-10th-result-2026-declared-heres-how-to-check-hslc-marksheet-using-digilocker-11337603#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/japanese-interval-walking-vs-10-000-steps-which-one-is-the-ultimate-fitness-routine-11338347#publisher=newsstand",
     "category": "india",
-    "title": "Assam Board HSLC Results 2026 Out: Here's How To Download Marksheet On DigiLocker",
-    "summary": "Assam Board HSLC Results 2026 Out: The overall pass percentage stands at 65.62 per cent.",
-    "image": "https://c.ndtvimg.com/2026-04/fm7itvn4_up-board-class-10-12-results-2026_625x300_01_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Japanese Interval Walking vs 10,000 Steps: Which One Is The Ultimate Fitness Routine?",
+    "summary": "Both walking methods have their unique advantages",
+    "image": "https://c.ndtvimg.com/2026-04/2stqr4f8_walking_625x300_10_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 14:13:27 +0530",
-    "link": "https://www.ndtv.com/education/assam-board-10th-result-2026-declared-heres-how-to-check-hslc-marksheet-using-digilocker-11337603#publisher=newsstand"
+    "pubDate": "Fri, 10 Apr 2026 16:02:27 +0530",
+    "link": "https://www.ndtv.com/health/japanese-interval-walking-vs-10-000-steps-which-one-is-the-ultimate-fitness-routine-11338347#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/india-successfully-demonstrates-1-000-kilometre-quantum-communication-network-using-homegrown-technology-11338613#publisher=newsstand",
+    "category": "india",
+    "title": "India Successfully Demonstrates 1,000-Kilometre Quantum Communication Network Using Homegrown Technology",
+    "summary": "India demonstrates 1,000 km quantum communication network using indigenous technology.",
+    "image": "https://c.ndtvimg.com/2026-04/vleknlso_as_625x300_10_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 16:02:15 +0530",
+    "link": "https://www.ndtv.com/india-news/india-successfully-demonstrates-1-000-kilometre-quantum-communication-network-using-homegrown-technology-11338613#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/blood-libels-israel-slams-pak-over-khawaja-asifs-cancerous-remark-11338435#publisher=newsstand",
+    "category": "india",
+    "title": "\"Blood Libels\": Israel Slams Pak Over Khawaja Asif's 'Cancerous' Remark",
+    "summary": "Minister said Israel would \"defend itself against terrorists who vow its destruction\"",
+    "image": "https://i.ndtvimg.com/i/2018-01/pakistan-foreign-minister-khawaja-asif_650x400_51515075783.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 15:59:17 +0530",
+    "link": "https://www.ndtv.com/world-news/blood-libels-israel-slams-pak-over-khawaja-asifs-cancerous-remark-11338435#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/new-to-the-treadmill-heres-how-many-minutes-you-need-to-walk-for-weight-loss-11338064#publisher=newsstand",
+    "category": "india",
+    "title": "New To The Treadmill? Here's How Many Minutes You Need To Walk For Weight Loss",
+    "summary": "How many minutes you should stay on treadmill for maximum weight loss",
+    "image": "https://c.ndtvimg.com/2026-04/jtmh26f8_how-many-minutes-you-should-stay-on-treadmill-to-maximise-the-weight-loss_625x300_10_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 15:57:03 +0530",
+    "link": "https://www.ndtv.com/health/new-to-the-treadmill-heres-how-many-minutes-you-need-to-walk-for-weight-loss-11338064#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-up-for-second-week-as-arbitrage-position-unwinding-us-iran-truce-boost-sentiment/articleshow/130166556.cms",
+    "category": "finance",
+    "title": "Rupee falls 22 paise, up for second week as US-Iran ceasefire boosts sentiment",
+    "summary": "The Indian rupee closed out a second consecutive \u200bweek of gains against the \u200bdollar, a feat it last achieved six months ago, supported \u200bby flows from the unwinding of residual arbitrage positions, as well as a plunge in crude oil prices after a short",
+    "image": "https://img.etimg.com/photo/msid-130166556,imgsize-769331.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Apr 2026 15:50:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-up-for-second-week-as-arbitrage-position-unwinding-us-iran-truce-boost-sentiment/articleshow/130166556.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/big-whale-ashish-kacholia-hikes-stakes-in-smallcap-market-outperformers-sg-finserv-aeroflex-in-q4/articleshow/130166531.cms",
+    "category": "finance",
+    "title": "Big Whale Ashish Kacholia hikes stakes in smallcap market outperformers SG Finserv, Aeroflex in Q4",
+    "summary": "Ace investor Ashish Kacholia increased his stakes in smallcaps SG Finserv and Aeroflex Industries during the March quarter. Both stocks have delivered strong returns, outperforming weak broader markets, with Aeroflex posting particularly sharp gains.",
+    "image": "https://img.etimg.com/photo/msid-130166531,imgsize-54550.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Apr 2026 15:47:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/big-whale-ashish-kacholia-hikes-stakes-in-smallcap-market-outperformers-sg-finserv-aeroflex-in-q4/articleshow/130166531.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-iran-war-israel-halts-strikes-on-lebanon-after-trumps-low-key-order-to-netanyahu-11337996#publisher=newsstand",
+    "category": "india",
+    "title": "Israel Pauses Strikes On Lebanon After Trump's 'Low-Key' Order To Netanyahu",
+    "summary": "Neither Israel nor Lebanon has publicly confirmed the US talks for next week so far.",
+    "image": "https://c.ndtvimg.com/2026-04/o7ttd23k_lebanon-afp_625x300_10_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 15:42:02 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-israel-halts-strikes-on-lebanon-after-trumps-low-key-order-to-netanyahu-11337996#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-10-april-brent-crude-oil-prices-us-iran-peace-talks-donald-trump-11336713#publisher=newsstand",
     "category": "india",
-    "title": "Stock Market LIVE Updates, Sensex Today: Sensex Climbs 800 Points On Hopes Of US-Iran Peace Talks",
-    "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates: Markets open in green.",
+    "title": "Stock Market, Sensex Today: Sensex Closes 900 Points Higher On Hopes Of US-Iran Peace Talks",
+    "summary": "Sensex Today, Stock Market, Nifty, Share Market: Markets close in green.",
     "image": "https://c.ndtvimg.com/2026-03/pvr197nk_india-stock-market_625x300_15_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 14:12:09 +0530",
+    "pubDate": "Fri, 10 Apr 2026 15:39:49 +0530",
     "link": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-10-april-brent-crude-oil-prices-us-iran-peace-talks-donald-trump-11336713#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/insensitivity-by-up-cops-hospital-top-court-on-4-year-olds-rape-murder-11338060#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/home-loan-property-mistakes-emi-cost-gst-rera-income-expense-real-estate-11338172#publisher=newsstand",
     "category": "india",
-    "title": "'Insensitivity By UP Cops, Hospital': Top Court On 4-year-Old's Rape-Murder",
-    "summary": "The victim's lawyer told the court that her father is being asked to withdraw the case every day.",
-    "image": "https://c.ndtvimg.com/2026-04/l4utqkvo_supreme-court-_625x300_02_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Taking a Home Loan? Read This Before You Sign Property Papers",
+    "summary": "A home loan does not become a burden overnight. It becomes one slowly, through overlooked details.",
+    "image": "https://c.ndtvimg.com/2025-12/7p0v9rts_home-loan-calculator-after-rbi-repo-rate-cut_625x300_07_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 14:11:32 +0530",
-    "link": "https://www.ndtv.com/india-news/insensitivity-by-up-cops-hospital-top-court-on-4-year-olds-rape-murder-11338060#publisher=newsstand"
+    "pubDate": "Fri, 10 Apr 2026 15:38:05 +0530",
+    "link": "https://www.ndtv.com/india-news/home-loan-property-mistakes-emi-cost-gst-rera-income-expense-real-estate-11338172#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/opinion/despite-the-ceasefire-iran-wont-give-up-on-a-hormuz-toll-that-easily-11327177#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-iran-ceasefire-missile-strikes-middle-east-crisis-conflict-live-news-iran-drone-attack-trump-ceasefire-strait-of-ho-11325915#publisher=newsstand",
     "category": "india",
-    "title": "Opinion: Opinion | What Happens To Oil Prices If Iran Really Starts Charging A Hormuz 'Toll'?",
-    "summary": "Iran has not agreed to reopen the Strait, but to allow passage via \"coordination\" with its Armed Forces. Even the IRGC Navy has said that the Strait \"will never return to its former state\".",
-    "image": "https://c.ndtvimg.com/2026-03/k6dmbf_image_160x120_14_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "US-Israel-Iran War Live: \"Iran Doing Very Poor Job Of Allowing Oil Through Strait Of Hormuz\": Trump",
+    "summary": "US-Israel-Iran War News Live: Iran has agreed to the ceasefire with US.",
+    "image": "https://c.ndtvimg.com/2026-04/4da0pnb_iran-war_625x300_08_April_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 14:09:08 +0530",
-    "link": "https://www.ndtv.com/opinion/despite-the-ceasefire-iran-wont-give-up-on-a-hormuz-toll-that-easily-11327177#publisher=newsstand"
+    "pubDate": "Fri, 10 Apr 2026 15:37:42 +0530",
+    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-iran-ceasefire-missile-strikes-middle-east-crisis-conflict-live-news-iran-drone-attack-trump-ceasefire-strait-of-ho-11325915#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/assam-board-class-10th-result-2026-re-checking-compartmental-exam-passing-criteria-11337947#publisher=newsstand",
-    "category": "india",
-    "title": "Assam 10th Board Results 2026: When, How To Apply For Re-evaluation And Compartmental Exams",
-    "summary": "Assam Board HSLC Result 2026: A total of 2,81,701 students have passed the examination this year.",
-    "image": "https://c.ndtvimg.com/2026-03/g6gnr0hc_cbse-board-exams-2026_625x300_18_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 14:07:57 +0530",
-    "link": "https://www.ndtv.com/education/assam-board-class-10th-result-2026-re-checking-compartmental-exam-passing-criteria-11337947#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/companies/tcs-ceo-calls-street-wrong-on-ai-threat-posts-40-bn-order-book-and-2-3-billion-in-ai-revenue-for-fy26/articleshow/130166020.cms",
+    "category": "finance",
+    "title": "TCS CEO calls Street \"wrong\" on AI threat; posts $40-bn order book and $2.3 billion in AI revenue for FY26",
+    "summary": "TCS CEO K Krithivasan dismisses fears of IT giants faltering in an AI-first era, asserting the company is actively leading the AI transition. He argues system integrators remain crucial for integrating new tech, driving transformative projects, and r",
+    "image": "https://img.etimg.com/photo/msid-130166020,imgsize-47518.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Apr 2026 15:29:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/companies/tcs-ceo-calls-street-wrong-on-ai-threat-posts-40-bn-order-book-and-2-3-billion-in-ai-revenue-for-fy26/articleshow/130166020.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/tcs-ceo-calls-street-wrong-on-ai-threat-posts-40-bn-order-book-and-2-3-billion-in-ai-revenue-for-fy26/articleshow/130165624.cms",
+    "category": "finance",
+    "title": "TCS CEO calls Street \"wrong\" on AI threat; posts $40-bn order book and $2.3 billion in AI revenue for FY26",
+    "summary": "TCS CEO K Krithivasan dismisses fears of IT giants faltering in an AI-first era, asserting the company is actively leading the AI transition. He argues system integrators remain crucial for integrating new tech, driving transformative projects, and r",
+    "image": "https://img.etimg.com/photo/msid-130165624,imgsize-47518.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Apr 2026 15:29:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/tcs-ceo-calls-street-wrong-on-ai-threat-posts-40-bn-order-book-and-2-3-billion-in-ai-revenue-for-fy26/articleshow/130165624.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/q4-moves-ace-investor-mukul-agrawal-raises-stake-in-2-smallcap-companies-do-you-own/articleshow/130165521.cms",
+    "category": "finance",
+    "title": "Q4 moves: Ace investor Mukul Agrawal raises stake in 2 smallcap companies. Do you own?",
+    "summary": "Ace investor Mukul Agrawal significantly boosted his holdings in Hindustan Construction Company (HCC) and Capacit\u2019e Infraprojects during Q4 FY26. He acquired nearly 60 lakh HCC shares, increasing his stake to 1.91%, and added 4.5 lakh Capacit\u2019e Infra",
+    "image": "https://img.etimg.com/photo/msid-130165521,imgsize-52014.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Apr 2026 15:07:46 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/q4-moves-ace-investor-mukul-agrawal-raises-stake-in-2-smallcap-companies-do-you-own/articleshow/130165521.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-are-nse-bse-closed-on-april-14-for-ambedkar-jayanti-check-market-closing-dates-list/articleshow/130165270.cms",
+    "category": "finance",
+    "title": "Stock Market Holiday 2026: Are NSE, BSE closed on April 14 for Ambedkar Jayanti? Check market closing dates list",
+    "summary": "Indian stock markets will remain shut on April 14 for Dr B.R. Ambedkar Jayanti, marking the seventh trading holiday of 2026. After this, nine more market holidays remain for the year. MCX will operate only in the evening session, while NCDEX will sta",
+    "image": "https://img.etimg.com/photo/msid-130165270,imgsize-84938.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Apr 2026 14:54:57 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-are-nse-bse-closed-on-april-14-for-ambedkar-jayanti-check-market-closing-dates-list/articleshow/130165270.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/irans-sanctions-busting-crypto-ambitions-grow-on-toll-payments/articleshow/130164127.cms",
@@ -160,36 +240,6 @@
     "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/irans-sanctions-busting-crypto-ambitions-grow-on-toll-payments/articleshow/130164127.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/tamil-nadu-election-2026-poll-flying-squad-checks-tvk-chief-vijays-vehicle-in-tamil-nadu-no-cash-found-11337858#publisher=newsstand",
-    "category": "india",
-    "title": "Poll Flying Squad Checks TVK Chief Vijay's Vehicle In Tamil Nadu, No Cash Found",
-    "summary": "He reportedly cooperated fully with the authorities during the brief inspection.",
-    "image": "https://c.ndtvimg.com/2026-04/viim7qf_vijay_625x300_09_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 14:00:50 +0530",
-    "link": "https://www.ndtv.com/india-news/tamil-nadu-election-2026-poll-flying-squad-checks-tvk-chief-vijays-vehicle-in-tamil-nadu-no-cash-found-11337858#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/food/shocking-raid-in-mailardevpally-unsafe-snack-manufacturing-unit-busted-11332661#publisher=newsstand",
-    "category": "india",
-    "title": "Stale Biryani Refrigerated For Several Days Allegedly Sold In Hyderabad, Restaurant Sealed",
-    "summary": "Man caught selling stale biriyani in hyderabad.",
-    "image": "https://c.ndtvimg.com/2026-04/qqc0bn6c_stale-biryani_625x300_10_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 13:59:36 +0530",
-    "link": "https://www.ndtv.com/food/shocking-raid-in-mailardevpally-unsafe-snack-manufacturing-unit-busted-11332661#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-israel-halts-strikes-on-lebanon-after-trumps-low-key-order-to-netanyahu-11337996#publisher=newsstand",
-    "category": "india",
-    "title": "Israel Halts Strikes On Lebanon After Trump's 'Low-Key' Order To Netanyahu",
-    "summary": "Neither Israel nor Lebanon has publicly confirmed the US talks for next week so far.",
-    "image": "https://c.ndtvimg.com/2026-04/o7ttd23k_lebanon-afp_625x300_10_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 13:56:24 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-israel-halts-strikes-on-lebanon-after-trumps-low-key-order-to-netanyahu-11337996#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/itdc-shares-rally-40-in-two-days-skyrocket-67-in-seven-sessions-whats-behind-the-surge/articleshow/130163832.cms",
     "category": "finance",
     "title": "ITDC shares rally 40% in two days, skyrocket 67% in seven sessions. What\u2019s behind the surge?",
@@ -200,64 +250,64 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/itdc-shares-rally-40-in-two-days-skyrocket-67-in-seven-sessions-whats-behind-the-surge/articleshow/130163832.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/valuations-turn-attractive-as-markets-look-beyond-uncertainty-a-balasubramanian/articleshow/130163725.cms",
-    "category": "finance",
-    "title": "Valuations turn attractive as markets look beyond uncertainty: A Balasubramanian",
-    "summary": "Amidst geopolitical uncertainty, market expert A Balasubramanian suggests the worst may be nearing an end, with improving macro signals and reasonable valuations in Indian equities. He highlights a revival in credit and deposit growth, indicating pot",
-    "image": "https://img.etimg.com/photo/msid-130163725,imgsize-25422.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 13:45:02 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/valuations-turn-attractive-as-markets-look-beyond-uncertainty-a-balasubramanian/articleshow/130163725.cms"
+    "id": "https://www.bbc.com/news/articles/c0krdgjy0kko#0",
+    "category": "global",
+    "title": "Man jailed for killing abused wife who jumped from bridge",
+    "summary": "The case was the first prosecution of its kind in Scotland, in that Lee Milne was responsible for killing Kimberly Milne even though she jumped to her death.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Apr 2026 10:47:05 GMT",
+    "link": "https://www.bbc.com/news/articles/c0krdgjy0kko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-slashed-stakes-in-12-smallcaps-in-q4-stocks-shed-up-to-55/slideshow/130164135.cms",
-    "category": "finance",
-    "title": "MFs slashed stakes in 12 smallcaps in Q4; stocks shed up to 55%",
-    "summary": "Mutual funds trimmed stakes in nearly 45 smallcap stocks during the March 2026 quarter compared with December 2025, signalling a cautious stance toward the segment.",
-    "image": "https://img.etimg.com/photo/msid-130163726,imgsize-3300.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 13:44:01 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-slashed-stakes-in-12-smallcaps-in-q4-stocks-shed-up-to-55/slideshow/130164135.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1531230.html",
+    "category": "sports",
+    "title": "On-the-rise Connolly 'keen to stick to my own strengths' at big-hitting Punjab Kings",
+    "summary": "\"I think there's still some slight things that I do that I still haven't mastered yet,\" 22-year-old Cooper Connolly says about life in the fast lane",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415100/415120.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Apr 2026 10:33:31 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531230.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/oil-prices-to-settle-at-75-80-in-2-months-nifty-to-touch-29k-by-march-2027-says-emkay-heres-why/articleshow/130163620.cms",
-    "category": "finance",
-    "title": "Oil prices to settle at $75-80 in 2 months, Nifty to touch 29K by March 2027, says Emkay. Here\u2019s why",
-    "summary": "Emkay Global Financial Services expects crude oil to stabilise at $75\u201380 within two months and sees the Nifty 50 hitting 29,000 by March 2027. A potential Iran\u2013US peace deal, easing energy pressures and steady earnings growth are seen driving a rebou",
-    "image": "https://img.etimg.com/photo/msid-130163620,imgsize-161331.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 13:38:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-prices-to-settle-at-75-80-in-2-months-nifty-to-touch-29k-by-march-2027-says-emkay-heres-why/articleshow/130163620.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1531200.html",
+    "category": "sports",
+    "title": "KKR's Raghuvanshi, Rahane in top five in Orange Cap race",
+    "summary": "Their side lost a thriller to LSG at Eden Gardens, but both batters continued to be among the runs",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415432.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Apr 2026 10:21:58 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531200.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/tcs-bets-on-ai-hiring-partnerships-as-currency-gains-lift-margins-eyes-360-degree-ecosystem-play/articleshow/130163054.cms",
-    "category": "finance",
-    "title": "TCS bets on AI hiring, partnerships as currency gains lift margins; eyes 360-degree ecosystem play",
-    "summary": "Tata Consultancy Services, India's largest IT firm, saw its profits grow slightly. This was helped by favorable currency rates and better operations. The company is also investing more in its employees, new collaborations, and buying other businesses",
-    "image": "https://img.etimg.com/photo/msid-130163054,imgsize-22380.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 13:16:34 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/tcs-bets-on-ai-hiring-partnerships-as-currency-gains-lift-margins-eyes-360-degree-ecosystem-play/articleshow/130163054.cms"
+    "id": "https://www.bbc.com/news/articles/cy814wypp5go#0",
+    "category": "global",
+    "title": "Dublin Airport issues travel guidance as Irish fuel protests continue",
+    "summary": "The Irish military will be deployed to move vehicles \"blocking critical infrastructure\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Apr 2026 09:52:39 GMT",
+    "link": "https://www.bbc.com/news/articles/cy814wypp5go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/buying-the-dip-chakri-lokapriya-bets-on-financials-it-and-cyclical-revival/articleshow/130162859.cms",
-    "category": "finance",
-    "title": "Buying the Dip: Chakri Lokapriya bets on financials, IT and cyclical revival",
-    "summary": "Market volatility presents a chance for investors. Chakri Lokapriya, CIO-Equities at LGT Wealth, highlights opportunities in financials, IT, and real estate. He sees potential in NBFCs and IT firms with improving deal pipelines. Real estate correctio",
-    "image": "https://img.etimg.com/photo/msid-130162859,imgsize-20096.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 13:00:31 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/buying-the-dip-chakri-lokapriya-bets-on-financials-it-and-cyclical-revival/articleshow/130162859.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1531229.html",
+    "category": "sports",
+    "title": "WTC expansion: ICC to consider allowing one-Test series in next cycle",
+    "summary": "An ICC working group led by Roger Twose is expected to present the recommendation to board heads at an ICC meeting soon",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/376900/376952.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Apr 2026 09:43:08 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531229.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-tumble-up-to-3-after-tcs-q4-earnings-whats-spooking-investors/articleshow/130162512.cms",
-    "category": "finance",
-    "title": "IT stocks slide up to 3% after TCS Q4 earnings. What's spooking investors?",
-    "summary": "IT stocks fell up to 3% after TCS reported Q4 results that failed to impress the Street, dragging the Nifty IT index over 2%. Despite broader market gains, investor sentiment weakened amid muted demand outlook, cautious brokerage commentary and renew",
-    "image": "https://img.etimg.com/photo/msid-130162512,imgsize-56974.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 12:44:37 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-tumble-up-to-3-after-tcs-q4-earnings-whats-spooking-investors/articleshow/130162512.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1531207.html",
+    "category": "sports",
+    "title": "Mukul Choudhary: 'I practise hitting 100-150 sixes every day'",
+    "summary": "\"I have practised that shot since childhood,\" the MS Dhoni fanboy says of the helicopter shot after setting IPL 2026 alight",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415452.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Apr 2026 09:35:38 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531207.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c3ex07l1qvpo#0",
@@ -300,46 +350,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1531217.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cly7d9rv4nro#0",
-    "category": "global",
-    "title": "Iran conflict must be 'line in sand' to build more resilient UK, Starmer says",
-    "summary": "The prime minister says \"shocks\" like the conflict in Iran are becoming more frequent.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Apr 2026 06:11:34 GMT",
-    "link": "https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531179.html",
-    "category": "sports",
-    "title": "Hasaranga out of IPL; LSG to name replacement soon",
-    "summary": "ESPNcricinfo has learnt South Africa's George Linde is the likely replacement",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/412500/412506.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Apr 2026 06:07:35 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531179.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531186.html",
-    "category": "sports",
-    "title": "Mukul Choudhary stuns KKR to seal last-ball win for LSG",
-    "summary": "Mukul Choudhary bashed a 25-ball half-century, having come in at 104 for 5 in the 13th over, to help LSG chase down 182",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415460.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Apr 2026 06:02:51 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531186.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531207.html",
-    "category": "sports",
-    "title": "Mukul Choudhary: 'I practise hitting 100-150 sixes every day'",
-    "summary": "\"I have practised that shot since childhood,\" the MS Dhoni fanboy says of the helicopter shot after setting IPL 2026 alight",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415452.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Apr 2026 05:45:24 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531207.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1531208.html",
     "category": "sports",
     "title": "'A little bit of smart cricket\u2026' - the missing ingredient in KKR's season so far",
@@ -348,16 +358,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 10 Apr 2026 05:40:27 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1531208.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531200.html",
-    "category": "sports",
-    "title": "KKR's Raghuvanshi, Rahane in top five of Orange Cap race",
-    "summary": "Their side lost a thriller to LSG at Eden Gardens, but both batters continued to be among the runs",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415432.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Apr 2026 02:58:02 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531200.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c2lwvz1pl1no#0",
@@ -372,7 +372,7 @@
   {
     "id": "https://www.bbc.com/sport/golf/articles/cx24pn55dg9o#0",
     "category": "global",
-    "title": "Co-leader McIlroy's golf does the talking after busy Masters build-up",
+    "title": "Rory McIlroy's golf does the talking after busy Masters build-up",
     "summary": "With the pomp and celebration of his Masters victory finished, Rory McIlroy reminded everyone he is back at Augusta to win again.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
