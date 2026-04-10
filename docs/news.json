@@ -30,26 +30,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c39rkpe8mj2o#0",
-    "category": "global",
-    "title": "EU fingerprint and photo travel rules come into force",
-    "summary": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 09 Apr 2026 23:04:32 GMT",
-    "link": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cp3l4yk5rlgo#0",
-    "category": "global",
-    "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
-    "summary": "Both sides have reason to end the war but share no common ground.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 09 Apr 2026 23:01:47 GMT",
-    "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -90,6 +70,156 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://www.ndtv.com/india-news/on-camera-flames-leap-into-the-air-as-fire-breaks-out-in-srinagar-jamia-arabia-ashraful-uloom-mosque-11339867#publisher=newsstand",
+    "category": "india",
+    "title": "On Camera, Flames Leap Into The Air As Fire Breaks Out In Srinagar Mosque",
+    "summary": "The cause of the fire was not immediately known. There were no reports of casualties or injuries so far.",
+    "image": "https://c.ndtvimg.com/2026-04/8t2390f8_jama-masjid-fire_625x300_10_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 19:55:01 +0530",
+    "link": "https://www.ndtv.com/india-news/on-camera-flames-leap-into-the-air-as-fire-breaks-out-in-srinagar-jamia-arabia-ashraful-uloom-mosque-11339867#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/the-moment-justice-yashwant-varma-dropped-exit-news-to-inquiry-panel-11339849#publisher=newsstand",
+    "category": "india",
+    "title": "The Moment Justice Yashwant Varma Dropped Exit News To Inquiry Panel",
+    "summary": "Justice Yashwant Varma resigned as a judge of the Allahabad High Court",
+    "image": "https://c.ndtvimg.com/2025-03/d6j44u6g_yashwant-varma-cash-row_650x400_24_March_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 19:51:45 +0530",
+    "link": "https://www.ndtv.com/india-news/the-moment-justice-yashwant-varma-dropped-exit-news-to-inquiry-panel-11339849#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/t-jeevan-reddy-meets-kcr-after-quitting-congress-indicates-he-will-join-brs-11339845#publisher=newsstand",
+    "category": "india",
+    "title": "Jeevan Reddy Meets KCR After Quitting Congress, Indicates He Will Join BRS",
+    "summary": "\"God himself has sent me to work with you,\" Reddy told KCR.",
+    "image": "https://c.ndtvimg.com/2026-04/hua66e64_kcr-jeevan-reddy-kcr_625x300_10_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 19:50:37 +0530",
+    "link": "https://www.ndtv.com/india-news/t-jeevan-reddy-meets-kcr-after-quitting-congress-indicates-he-will-join-brs-11339845#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/cash-row-judge-justice-yashwant-varma-quits-amid-removal-process-will-he-get-retirement-benefits-11338446#publisher=newsstand",
+    "category": "india",
+    "title": "Cash Row Judge Quits Amid Removal Process. Will He Get Retirement Benefits?",
+    "summary": "A large amount of cash was recovered from Justice Varma's residence",
+    "image": "https://c.ndtvimg.com/2026-04/ujbsjga_yashwant-varma_625x300_10_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 19:50:04 +0530",
+    "link": "https://www.ndtv.com/india-news/cash-row-judge-justice-yashwant-varma-quits-amid-removal-process-will-he-get-retirement-benefits-11338446#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/frequent-urination-in-men-early-sign-of-diabetes-or-prostate-issue-11339682#publisher=newsstand",
+    "category": "india",
+    "title": "Frequent Urination In Men: Early Sign Of Diabetes Or Prostate Issue?",
+    "summary": "In men, frequent urination is often linked to prostate health, especially as they age",
+    "image": "https://c.ndtvimg.com/2023-05/99uvqjo_prostate-supplement_625x300_18_May_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 19:49:13 +0530",
+    "link": "https://www.ndtv.com/health/frequent-urination-in-men-early-sign-of-diabetes-or-prostate-issue-11339682#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-consumer-inflation-surges-3-3-year-on-year-as-iran-war-impact-bites/articleshow/130172307.cms",
+    "category": "finance",
+    "title": "US consumer inflation surges 3.3% year-on-year as Iran war impact bites",
+    "summary": "Consumer inflation in the United States rose sharply to 3.3 percent in March, government data showed Wednesday, as higher energy prices due to the war in the Middle East hit Americans hard. By comparison, the consumer price index (CPI) rose only 2.4 ",
+    "image": "https://img.etimg.com/photo/msid-130172307,imgsize-41902.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Apr 2026 19:47:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-consumer-inflation-surges-3-3-year-on-year-as-iran-war-impact-bites/articleshow/130172307.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/feature/ryan-goslings-project-hail-mary-inspired-artemis-ii-crew-before-historic-moon-mission-11339701#publisher=newsstand",
+    "category": "india",
+    "title": "Ryan Gosling's 'Project Hail Mary' Inspired Artemis II Crew Before Historic Moon Mission",
+    "summary": "Artemis II astronauts got a private 'Project Hail Mary' screening.",
+    "image": "https://c.ndtvimg.com/2026-04/7b6qvaoo_aas_625x300_10_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 19:44:47 +0530",
+    "link": "https://www.ndtv.com/feature/ryan-goslings-project-hail-mary-inspired-artemis-ii-crew-before-historic-moon-mission-11339701#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/indias-cancer-cases-near-16-lakh-doctors-flag-early-detection-crisis-despite-advanced-tech-push-11339702#publisher=newsstand",
+    "category": "india",
+    "title": "India's Cancer Cases Near 16 Lakh, Doctors Flag Early Detection Crisis Despite Advanced Tech Push",
+    "summary": "At a time when cutting-edge therapies like CAR-T cell treatment, precision radiotherapy and robotic surgery are becoming available in India, oncologists say the biggest challenge remains delayed diagnosis, lack of screening, and deep inequalities in",
+    "image": "https://c.ndtvimg.com/2026-04/1n37ksgk_cancer_625x300_10_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 19:26:10 +0530",
+    "link": "https://www.ndtv.com/health/indias-cancer-cases-near-16-lakh-doctors-flag-early-detection-crisis-despite-advanced-tech-push-11339702#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/retired-gujarat-woman-loses-rs-78-lakh-in-10-day-digital-arrest-scam-11339717#publisher=newsstand",
+    "category": "india",
+    "title": "Retired Gujarat Woman Loses Rs 78 Lakh in 10-Day 'Digital Arrest' Scam",
+    "summary": "The police have successfully frozen four bank accounts.",
+    "image": "https://c.ndtvimg.com/2025-11/tetkpvik_digital-arrest_625x300_30_November_25.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 19:25:31 +0530",
+    "link": "https://www.ndtv.com/india-news/retired-gujarat-woman-loses-rs-78-lakh-in-10-day-digital-arrest-scam-11339717#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stakes-in-these-9-stocks-in-march-quarter-do-you-own-any/slideshow/130172226.cms",
+    "category": "finance",
+    "title": "FIIs cut stakes in these 9 stocks in March quarter. Do you own any?",
+    "summary": "Foreign institutional investors reduced stakes in several Nifty 500 stocks during the March 2026 quarter, including HDFC Bank and DLF, reflecting cautious sentiment, strategic reallocations and potential concerns about market outlook and individual s",
+    "image": "https://img.etimg.com/photo/msid-130171854,imgsize-8712.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Apr 2026 19:20:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stakes-in-these-9-stocks-in-march-quarter-do-you-own-any/slideshow/130172226.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-sp-500-nasdaq-open-higher-after-inflation-data-mideast-in-focus/articleshow/130171571.cms",
+    "category": "finance",
+    "title": "US stocks today:  S&amp;P 500, Nasdaq open higher after inflation data; Mideast in focus",
+    "summary": "The \u200bS&amp;P 500 \u200band the \u200bNasdaq opened higher on Friday after March inflation \u200cdata \u2060largely \u2060aligned with expectations \u200bdespite persistent pressures from the \u200bIran war, while investors assessed the \u200bstability of \u2060the ceasefire.",
+    "image": "https://img.etimg.com/photo/msid-130171571,imgsize-124290.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Apr 2026 19:10:45 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-sp-500-nasdaq-open-higher-after-inflation-data-mideast-in-focus/articleshow/130171571.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/the-rupees-swing-when-currency-becomes-the-deal-maker-or-breaker/articleshow/130171014.cms",
+    "category": "finance",
+    "title": "The rupee\u2019s swing: When currency becomes the deal maker or breaker",
+    "summary": "Rupee volatility has become central to India\u2019s distressed deals, driving stress for firms with dollar debt despite stable operations. Elevated hedging costs and FX uncertainty are reshaping pricing, deal structures, and timelines, with investors favo",
+    "image": "https://img.etimg.com/photo/msid-130171014,imgsize-247744.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Apr 2026 18:44:23 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/the-rupees-swing-when-currency-becomes-the-deal-maker-or-breaker/articleshow/130171014.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/nse-rolls-out-nanosecond-level-acknowledgement-for-market-orders-from-april-11/articleshow/130170308.cms",
+    "category": "finance",
+    "title": "NSE rolls out nanosecond-level acknowledgement for market orders from April 11",
+    "summary": "The National Stock Exchange of India introduces nanosecond-level order acknowledgement across segments from April 11, enhancing speed, transparency and execution certainty, reducing latency from microseconds, improving real-time tracking, risk manage",
+    "image": "https://img.etimg.com/photo/msid-130170308,imgsize-50558.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Apr 2026 18:12:21 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-rolls-out-nanosecond-level-acknowledgement-for-market-orders-from-april-11/articleshow/130170308.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/from-llms-to-superintelligence-vijay-kedia-decodes-ai-stack-for-investors/articleshow/130170209.cms",
+    "category": "finance",
+    "title": "From LLMs to superintelligence, Vijay Kedia decodes AI stack for investors",
+    "summary": "Investor Vijay Kedia outlines AI\u2019s evolution in investing, from LLMs offering insights to agentic and multi-agent systems executing trades, culminating in AGI and superintelligence capable of autonomous, superior decision-making, transforming investi",
+    "image": "https://img.etimg.com/photo/msid-130170209,imgsize-1179024.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Apr 2026 18:10:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-llms-to-superintelligence-vijay-kedia-decodes-ai-stack-for-investors/articleshow/130170209.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/iran-truce-spurs-best-week-for-india-bonds-in-over-six-years/articleshow/130170096.cms",
+    "category": "finance",
+    "title": "Iran truce spurs best week for India bonds in over six years",
+    "summary": "Indian government bonds ended their \u200bbest week in six-and-a-half \u200byears on Friday, as a fragile truce between U.S. \u200band Iran cooled oil prices and a neutral central bank policy aided sentiment.",
+    "image": "https://img.etimg.com/photo/msid-130170096,imgsize-49592.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Apr 2026 18:07:53 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/iran-truce-spurs-best-week-for-india-bonds-in-over-six-years/articleshow/130170096.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-fritz-leutwiler-a-prudent-investor-should-always-keep-some-dry-powder-in-reserve/articleshow/130169207.cms",
     "category": "finance",
     "title": "Quote of the day by Fritz Leutwiler: \"A prudent investor should always keep some dry powder in reserve\"",
@@ -100,154 +230,14 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-fritz-leutwiler-a-prudent-investor-should-always-keep-some-dry-powder-in-reserve/articleshow/130169207.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-today-us-stock-market-live-updatesus-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-war-israel-lebanon-ceasefire-talks-hormuz-brent-crude-oil-inflation-ai-stock-price-news/liveblog/130169418.cms",
-    "category": "finance",
-    "title": "US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures steady ahead of inflation data, Mideast truce in focus",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-130169418,imgsize-2638357.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 17:39:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-today-us-stock-market-live-updatesus-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-war-israel-lebanon-ceasefire-talks-hormuz-brent-crude-oil-inflation-ai-stock-price-news/liveblog/130169418.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-anand-rathi-among-11-stocks-that-hit-52-week-high-rally-up-to-25-in-a-month/slideshow/130169667.cms",
-    "category": "finance",
-    "title": "\u200bAther Energy, Anand Rathi among 11 stocks that hit 52-week high; rally up to 25% in a month",
-    "summary": "Sensex surged 919 points as 11 BSE 500 stocks, including Ather Energy and Titan Company, hit 52-week highs, signaling strong momentum, broad-based buying interest, and continued bullish sentiment in markets.",
-    "image": "https://img.etimg.com/photo/msid-130169382,imgsize-5472.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 17:37:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-anand-rathi-among-11-stocks-that-hit-52-week-high-rally-up-to-25-in-a-month/slideshow/130169667.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/indian-household-gold-higher-than-gold-reserves-of-worlds-top-10-central-banks-assocham/articleshow/130169308.cms",
-    "category": "finance",
-    "title": "Indian household gold higher than gold reserves of world's top 10 central banks: Assocham",
-    "summary": "India\u2019s households now hold more gold than the top 10 central banks combined, with estimates ranging from $2.4 trillion to $10 trillion. Assocham says this vast, largely idle wealth could be a major economic catalyst if channelled into formal systems",
-    "image": "https://img.etimg.com/photo/msid-130169308,imgsize-81485.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 17:34:43 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/indian-household-gold-higher-than-gold-reserves-of-worlds-top-10-central-banks-assocham/articleshow/130169308.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/calm-before-storm-axis-banks-neelkanth-mishra-says-india-must-brace-for-geopolitical-shocks-every-12-years/articleshow/130169169.cms",
-    "category": "finance",
-    "title": "Calm before storm? Axis Bank's Neelkanth Mishra says India must brace for geopolitical shocks every 1\u20132 years",
-    "summary": "Axis Bank Chief Economist Neelkanth Mishra warned that India should brace for geopolitical shocks every 1\u20132 years, calling current tensions part of a broader US\u2013China \u201cgrand war.\u201d While markets stabilised after a ceasefire push, Mishra cautioned that",
-    "image": "https://img.etimg.com/photo/msid-130169169,imgsize-947099.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 17:30:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/calm-before-storm-axis-banks-neelkanth-mishra-says-india-must-brace-for-geopolitical-shocks-every-12-years/articleshow/130169169.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/health/women-feeling-constantly-tired-is-not-normal-doctor-explains-role-of-hormones-iron-and-lifestyle-11338726#publisher=newsstand",
-    "category": "india",
-    "title": "Women Feeling Constantly Tired Is Not Normal: Doctor Explains Role Of Hormones, Iron And Lifestyle",
-    "summary": "Persistent tiredness should be viewed as a clinical signal",
-    "image": "https://c.ndtvimg.com/2026-04/e5jfksl_fatigue-in-women_625x300_10_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 17:13:52 +0530",
-    "link": "https://www.ndtv.com/health/women-feeling-constantly-tired-is-not-normal-doctor-explains-role-of-hormones-iron-and-lifestyle-11338726#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/nayab-singh-saini-kotak-mahindra-bank-idfc-first-bank-cbi-to-probe-bank-fraud-cases-no-one-will-be-spared-haryana-chief-minister-11338990#publisher=newsstand",
-    "category": "india",
-    "title": "CBI To Probe Bank Fraud Cases, No One Will Be Spared: Haryana Chief Minister",
-    "summary": "The irregularities are linked to fixed deposits worth Rs 750 crore.",
-    "image": "https://c.ndtvimg.com/2025-10/jnupiv9k_nayab-singh-saini_625x300_11_October_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 17:13:29 +0530",
-    "link": "https://www.ndtv.com/india-news/nayab-singh-saini-kotak-mahindra-bank-idfc-first-bank-cbi-to-probe-bank-fraud-cases-no-one-will-be-spared-haryana-chief-minister-11338990#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/cbse-result-2026-day-guide-how-to-check-scores-download-marksheet-fix-common-errors-11214703#publisher=newsstand",
-    "category": "india",
-    "title": "CBSE Exams 2026 Result Day Guide: How To Check Scores, Download Marksheet, Fix Errors",
-    "summary": "CBSE Results 2026: Last year, CBSE declared the results for both Class 10 and Class 12 on May 13.",
-    "image": "https://c.ndtvimg.com/2026-03/e5ks7dr_cbse-board-exams_625x300_14_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 17:08:32 +0530",
-    "link": "https://www.ndtv.com/education/cbse-result-2026-day-guide-how-to-check-scores-download-marksheet-fix-common-errors-11214703#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/it-felt-satisfying-candidate-turns-down-job-offer-from-indian-mnc-tells-recruiter-they-are-backlisted-11338915#publisher=newsstand",
-    "category": "india",
-    "title": "'It Felt Satisfying': Candidate Turns Down Job Offer From Indian MNC,  Tells Recruiter They Are 'Backlisted'",
-    "summary": "Job seeker rejects job offer by blacklisting company during recruiter call.",
-    "image": "https://c.ndtvimg.com/2026-04/2gupqopk_as_625x300_10_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 17:00:22 +0530",
-    "link": "https://www.ndtv.com/offbeat/it-felt-satisfying-candidate-turns-down-job-offer-from-indian-mnc-tells-recruiter-they-are-backlisted-11338915#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/bengal-elections-2026-aimim-breaks-alliance-with-humayun-kabirs-party-after-trinamool-sting-11336820#publisher=newsstand",
-    "category": "india",
-    "title": "Explosive 'Sting' And End Of The Road For A Owaisi-Humayun Kabir Alliance",
-    "summary": "Asaduddin Owaisi's AIMIM also asserted that it will go solo in Bengal polls (file)",
-    "image": "https://c.ndtvimg.com/2025-12/ohmvboak_owaisi_160x120_12_December_25.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 16:55:00 +0530",
-    "link": "https://www.ndtv.com/india-news/bengal-elections-2026-aimim-breaks-alliance-with-humayun-kabirs-party-after-trinamool-sting-11336820#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/telangana-ts-inter-results-2026-live-updates-1st-2nd-year-results-on-april-11-official-websites-direct-link-to-check-11338869#publisher=newsstand",
-    "category": "india",
-    "title": "Telangana Inter 1st, 2nd Year Results Likely On April 11, Here's Direct Link To Check",
-    "summary": "Telangana Inter Results 2026: Students must secure at least 35% marks in each subject to pass the exam.",
-    "image": "https://c.ndtvimg.com/2026-04/dvrt4hhc_telangana-ts-inter-results-2026-_625x300_10_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 16:54:56 +0530",
-    "link": "https://www.ndtv.com/education/telangana-ts-inter-results-2026-live-updates-1st-2nd-year-results-on-april-11-official-websites-direct-link-to-check-11338869#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/ghalibafs-hard-line-on-talks-resurfaces-as-iran-us-negotiations-in-pak-loom-11338881#publisher=newsstand",
-    "category": "india",
-    "title": "Ghalibaf's Hard Line On Talks Resurfaces As Iran-US Negotiations In Pak Loom",
-    "summary": "In the February 10, 2025 speech, Ghalibaf referenced Ali Khamenei's position on engagement with the US.",
-    "image": "https://c.ndtvimg.com/2026-04/uuuqpqac_ghalibaf_625x300_10_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 16:54:53 +0530",
-    "link": "https://www.ndtv.com/world-news/ghalibafs-hard-line-on-talks-resurfaces-as-iran-us-negotiations-in-pak-loom-11338881#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/amit-shah-was-asked-about-humayun-kabir-sting-remarks-his-babri-answer-11338850#publisher=newsstand",
-    "category": "india",
-    "title": "Amit Shah Was Asked About Humayun Kabir 'Sting' Remarks. His \"Babri\" Answer",
-    "summary": "Humayun Kabir and the BJP are like the South Pole and the North Pole, said Amit Shah",
-    "image": "https://c.ndtvimg.com/2026-04/p3kficls_amit-shah-pti_625x300_10_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 16:48:43 +0530",
-    "link": "https://www.ndtv.com/india-news/amit-shah-was-asked-about-humayun-kabir-sting-remarks-his-babri-answer-11338850#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/oil-will-fall-back-to-7080-sunil-singhania-sees-a-buying-opportunity-in-the-chaos/articleshow/130167924.cms",
-    "category": "finance",
-    "title": "Oil will fall back to $70\u201380,  Sunil Singhania sees a buying opportunity in the chaos",
-    "summary": "High crude oil prices and global tensions are creating market volatility. However, fund manager Sunil Singhania sees this as a buying opportunity. He believes the current oil price premium is unsustainable. Singhania highlights India's relative insul",
-    "image": "https://img.etimg.com/photo/msid-130167924,imgsize-15132.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 16:47:09 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/oil-will-fall-back-to-7080-sunil-singhania-sees-a-buying-opportunity-in-the-chaos/articleshow/130167924.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/tata-investment-tata-chemicals-shares-surge-up-to-8-after-mistry-backs-tata-sons-listing-push/articleshow/130167350.cms",
-    "category": "finance",
-    "title": "Tata Investment, Tata Chemicals shares surge up to 8% after Mistry backs Tata Sons listing push",
-    "summary": "Shares of select Tata group companies moved sharply higher after Shapoorji Pallonji Mistry backed the case for listing Tata Sons, calling it a \"necessary revolution\" rather than a regulatory compulsion. Tata Chemicals rose as much as 8%, while Tata I",
-    "image": "https://img.etimg.com/photo/msid-130167350,imgsize-15926.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 16:20:12 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-investment-tata-chemicals-shares-surge-up-to-8-after-mistry-backs-tata-sons-listing-push/articleshow/130167350.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/exclusive-india-to-push-for-reporting-of-offshore-rupee-trades-despite-resistance-sources-say/articleshow/130166715.cms",
-    "category": "finance",
-    "title": "India to push for reporting of offshore rupee trades despite resistance: Report",
-    "summary": "India plans to move ahead with a proposal mandating that banks report \u200boffshore rupee derivative trades despite objections from \u200blenders, two sources familiar with the matter said, in an attempt to bring \u200btransparency to a market that has amplified p",
-    "image": "https://img.etimg.com/photo/msid-130166715,imgsize-34240.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 15:56:23 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/exclusive-india-to-push-for-reporting-of-offshore-rupee-trades-despite-resistance-sources-say/articleshow/130166715.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1531253.html",
+    "category": "sports",
+    "title": "All eyes on Samson and Gaikwad as CSK seek reset",
+    "summary": "Delhi Capitals are coming off a narrow loss against Gujarat Titans",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415234.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Apr 2026 14:21:53 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531253.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cy915wr1074o#0",
@@ -256,8 +246,18 @@
     "summary": "Two dogs seized from the same address have been destroyed, police say.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 10 Apr 2026 13:00:39 GMT",
+    "pubDate": "Fri, 10 Apr 2026 14:20:49 GMT",
     "link": "https://www.bbc.com/news/articles/cy915wr1074o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cr71ld371j5o#0",
+    "category": "global",
+    "title": "Iran conflict will define us for a generation, says PM",
+    "summary": "Speaking during a three-day visit to the Middle East, the prime minister says the current ceasefire is \"fragile\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Apr 2026 13:20:08 GMT",
+    "link": "https://www.bbc.com/news/articles/cr71ld371j5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1531243.html",
@@ -268,16 +268,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 10 Apr 2026 12:33:21 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1531243.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy814wypp5go#0",
-    "category": "global",
-    "title": "Ireland protester willing to 'close the country' over fuel costs",
-    "summary": "Travel across parts of the Republic of Ireland has been affected for the fourth day in a row on Friday as vehicles, including tractors, block roads.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Apr 2026 12:08:50 GMT",
-    "link": "https://www.bbc.com/news/articles/cy814wypp5go?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1531234.html",
@@ -360,6 +350,16 @@
     "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cly7d9px7leo#0",
+    "category": "global",
+    "title": "Parents' fury at Army's delay to report missing son",
+    "summary": "L/Cpl Ryan Rudd was not reported missing until two weeks after he was last seen in Selby.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Apr 2026 07:58:43 GMT",
+    "link": "https://www.bbc.com/news/articles/cly7d9px7leo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1531215.html",
     "category": "sports",
     "title": "Learoyd shines in Green vs Gold contest with over 200 runs",
@@ -370,14 +370,14 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1531215.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531217.html",
-    "category": "sports",
-    "title": "Lister called up for Bangladesh tour after Clarke injury",
-    "summary": "Ben Sears will also miss the ODI leg of the trip having been signed as a replacement player in the PSL",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/379500/379536.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Apr 2026 07:00:30 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531217.html?ex_cid=OTC-RSS"
+    "id": "https://www.bbc.com/sport/basketball/articles/cn431d7ee11o#0",
+    "category": "global",
+    "title": "LeBron and Bronny James record first son-to-father assist in NBA history",
+    "summary": "Bronny James passes to parent LeBron for the first son-to-father assist in NBA history as the Los Angeles Lakers beat the Golden State Warriors.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Apr 2026 06:48:55 GMT",
+    "link": "https://www.bbc.com/sport/basketball/articles/cn431d7ee11o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/resources/idt-8ea95b22-220c-44be-8704-c41cdff0df66#0",
