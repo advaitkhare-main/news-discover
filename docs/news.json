@@ -70,6 +70,26 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://www.ndtv.com/world-news/trump-threatens-iran-hours-before-talks-warns-of-fresh-strikes-if-there-is-no-deal-11340391#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Threatens Iran Hours Before Talks, Warns Of Strikes If There's No Deal",
+    "summary": "Trump Threatens Iran Hours Before Talks, Warns Of Fresh Strikes If There Is No Deal",
+    "image": "https://c.ndtvimg.com/2026-03/s31qaccc_trump-iran_625x300_15_March_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 21:40:32 +0530",
+    "link": "https://www.ndtv.com/world-news/trump-threatens-iran-hours-before-talks-warns-of-fresh-strikes-if-there-is-no-deal-11340391#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/feature/artemis-ii-crew-to-return-with-tiny-avatar-chips-that-could-revolutionise-deep-space-travel-11340270#publisher=newsstand",
+    "category": "india",
+    "title": "Artemis II Crew To Return With Tiny 'Avatar' Chips That Could Revolutionise Deep Space Travel",
+    "summary": "Artemis II crew returns with organ chips to study effects of deep-space flight on human health.",
+    "image": "https://c.ndtvimg.com/2026-04/g3citnms_as_625x300_10_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 21:11:48 +0530",
+    "link": "https://www.ndtv.com/feature/artemis-ii-crew-to-return-with-tiny-avatar-chips-that-could-revolutionise-deep-space-travel-11340270#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-consumer-sentiment-dives-to-a-record-low-in-april-amid-iran-war/articleshow/130174179.cms",
     "category": "finance",
     "title": "US consumer sentiment dives to a record low in April amid Iran war",
@@ -160,16 +180,6 @@
     "link": "https://www.ndtv.com/education/study-abroad-opportunity-centre-offers-125-overseas-scholarships-annually-for-marginalised-students-11340031#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/job-applicant-left-broken-after-interviewers-mock-qualifications-lost-all-confidence-11340017#publisher=newsstand",
-    "category": "india",
-    "title": "Job Applicant Left 'Broken' After Interviewers Mock Qualifications: 'Lost All Confidence'",
-    "summary": "The interview panel mocked an experienced candidate during a job interview.",
-    "image": "https://c.ndtvimg.com/2026-04/nh4qitck_as_625x300_10_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 20:27:57 +0530",
-    "link": "https://www.ndtv.com/offbeat/job-applicant-left-broken-after-interviewers-mock-qualifications-lost-all-confidence-11340017#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/record-surge-in-gasoline-prices-fuels-us-consumer-inflation-in-march/articleshow/130173051.cms",
     "category": "finance",
     "title": "Record surge in gasoline prices fuels US consumer inflation in March",
@@ -178,16 +188,6 @@
     "source": "ET",
     "pubDate": "Fri, 10 Apr 2026 20:11:21 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/record-surge-in-gasoline-prices-fuels-us-consumer-inflation-in-march/articleshow/130173051.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/cbi-court-convicts-jails-3-retired-bank-officials-in-pnb-loan-fraud-case-11339886#publisher=newsstand",
-    "category": "india",
-    "title": "CBI Court Convicts 3 Retired Bank Officials, 6 Others In PNB Loan Fraud Case",
-    "summary": "Probes revealed that the accused submitted forged documents to secure loans.",
-    "image": "https://c.ndtvimg.com/2026-04/oqghnao4_anvil_625x300_10_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 20:09:04 +0530",
-    "link": "https://www.ndtv.com/india-news/cbi-court-convicts-jails-3-retired-bank-officials-in-pnb-loan-fraud-case-11339886#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/railway-infra-company-vishal-nirmiti-gets-sebi-nod-for-ipo/articleshow/130172891.cms",
@@ -230,6 +230,46 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-sp-500-nasdaq-open-higher-after-inflation-data-mideast-in-focus/articleshow/130171571.cms"
   },
   {
+    "id": "https://www.espncricinfo.com/ci/content/story/1531289.html",
+    "category": "sports",
+    "title": "Fleming: 'Criticism is fair when you don't do well'",
+    "summary": "\"We just need a little bit of confidence and a bit of evidence, and that comes from getting across the line. And we haven't been too far off\"",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/399800/399862.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Apr 2026 16:28:45 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531289.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c75kv5vz66yo#0",
+    "category": "global",
+    "title": "One dead after bus carrying British tourists crashes in Canary Islands, officials say",
+    "summary": "The vehicle fell from a height of 10m near the San Sebasti\u00e1n de La Gomera,  according to Spanish news outlet El Mundo.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Apr 2026 16:25:28 GMT",
+    "link": "https://www.bbc.com/news/articles/c75kv5vz66yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/czd7gd5m024o#0",
+    "category": "global",
+    "title": "Mandelson faces \u00a3300 fine for urinating in street",
+    "summary": "Lord Peter Mandelson is set to be fined for public urination but the council cannot find an address.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Apr 2026 16:04:27 GMT",
+    "link": "https://www.bbc.com/news/articles/czd7gd5m024o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0krdgjy0kko#0",
+    "category": "global",
+    "title": "Man jailed for killing abused wife who jumped from bridge",
+    "summary": "Lee Milne was sentenced to eight years for being responsible for his wife Kimberly's death, in the first case of its kind in Scotland.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Apr 2026 15:51:36 GMT",
+    "link": "https://www.bbc.com/news/articles/c0krdgjy0kko?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1531274.html",
     "category": "sports",
     "title": "Will Smeed makes first-class debut as substitute ... three years after red-ball retirement",
@@ -250,19 +290,19 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1531273.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c208k07em0mo#0",
+    "id": "https://www.bbc.com/news/articles/c39rkpe8mj2o#0",
     "category": "global",
-    "title": "Man arrested over deaths of four people trying to cross Channel",
-    "summary": "Two men and two women, whose identities have not yet been released, died when they tried to board a water taxi off the coast of Saint Etienne au Mont, near Calais.",
+    "title": "EU fingerprint and photo travel rules come into force",
+    "summary": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 10 Apr 2026 15:17:16 GMT",
-    "link": "https://www.bbc.com/news/articles/c208k07em0mo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Fri, 10 Apr 2026 15:29:23 GMT",
+    "link": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c3w37ggp011o#0",
     "category": "global",
-    "title": "EU airline industry fears fuel shortages if Strait of Hormuz stays closed",
+    "title": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
     "summary": "The trade body for European airports said if the Strait of Hormuz did not open in the next three weeks, there could be shortages.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -300,16 +340,6 @@
     "link": "https://www.bbc.com/news/articles/cy915wr1074o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cr71ld371j5o#0",
-    "category": "global",
-    "title": "Iran conflict will define us for a generation, says PM",
-    "summary": "Speaking during a three-day visit to the Middle East, the prime minister says the current ceasefire is \"fragile\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Apr 2026 13:20:08 GMT",
-    "link": "https://www.bbc.com/news/articles/cr71ld371j5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1531243.html",
     "category": "sports",
     "title": "George Linde replaces Wanindu Hasaranga at LSG",
@@ -330,16 +360,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1531234.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c0krdgjy0kko#0",
-    "category": "global",
-    "title": "Man jailed for killing abused wife who jumped from bridge",
-    "summary": "Lee Milne was sentenced to eight years for being responsible for his wife Kimberly's death, in the first case of its kind in Scotland.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Apr 2026 10:47:05 GMT",
-    "link": "https://www.bbc.com/news/articles/c0krdgjy0kko?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1531230.html",
     "category": "sports",
     "title": "On-the-rise Connolly 'keen to stick to my own strengths' at big-hitting Punjab Kings",
@@ -348,26 +368,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 10 Apr 2026 10:33:31 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1531230.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531200.html",
-    "category": "sports",
-    "title": "KKR's Raghuvanshi, Rahane in top five in Orange Cap race",
-    "summary": "Their side lost a thriller to LSG at Eden Gardens, but both batters continued to be among the runs",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415432.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Apr 2026 10:21:58 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531200.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c3ex07l1qvpo#0",
-    "category": "global",
-    "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
-    "summary": "She called rumours that Epstein introduced her to Donald Trump \"mean-spirited attempts to defame my reputation\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Apr 2026 08:37:05 GMT",
-    "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cly7d9px7leo#0",
