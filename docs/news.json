@@ -30,6 +30,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-us-will-have-strait-of-hormuz-open-fairly-soon-11341368#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Says US Will Have Strait Of Hormuz \"Open Fairly Soon\"",
+    "summary": "Trump also suggested that other countries were offering help but did not identify any nation.",
+    "image": "https://c.ndtvimg.com/2026-03/v72pufqg_donald-trump-reuters_625x300_28_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 11 Apr 2026 04:33:13 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-us-will-have-strait-of-hormuz-open-fairly-soon-11341368#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/african-charity-sues-prince-harry-for-defamation-11341259#publisher=newsstand",
     "category": "india",
     "title": "African Charity Sues Prince Harry For Defamation",
@@ -110,16 +120,6 @@
     "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-iran-ceasefire-missile-strikes-middle-east-crisis-conflict-live-news-iran-drone-attack-trump-ceasefire-strait-of-ho-11325915#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/no-us-talks-without-lebanon-ceasefire-asset-release-iran-speaker-11341008#publisher=newsstand",
-    "category": "india",
-    "title": "No US Talks Without Lebanon Ceasefire, Asset Release: Iran Speaker",
-    "summary": "Ghalibaf and Abbas Araghchi were expected to lead the Iranian delegation in the Pakistani capital.",
-    "image": "https://c.ndtvimg.com/2026-03/q08tf9l8_mohammad-bagher-ghalibaf_625x300_24_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 11 Apr 2026 00:25:02 +0530",
-    "link": "https://www.ndtv.com/world-news/no-us-talks-without-lebanon-ceasefire-asset-release-iran-speaker-11341008#publisher=newsstand"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -180,7 +180,7 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ackmans-64-billion-universal-bet-hinges-on-power-broker-bollore/articleshow/130176950.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c04x1lg1lygo#0",
+    "id": "https://www.bbc.com/news/articles/c04x1lg1lygo#1",
     "category": "global",
     "title": "UK shelves Chagos deal after Trump opposition",
     "summary": "UK government officials say they are not entirely abandoning the agreement but have run out of time.",
@@ -260,7 +260,7 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/copper-claws-higher-to-three-week-peak-as-investors-balance-iran-with-chinese-demand/articleshow/130173459.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c75kv5vz66yo#0",
+    "id": "https://www.bbc.com/news/articles/c75kv5vz66yo#1",
     "category": "global",
     "title": "British man, 77, dies after tourist bus crashes in Canary Islands",
     "summary": "The vehicle fell from a height of 10m near the San Sebasti\u00e1n de La Gomera,  according to Spanish news outlet El Mundo.",
@@ -290,7 +290,7 @@
     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/railway-infra-company-vishal-nirmiti-gets-sebi-nod-for-ipo/articleshow/130172891.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cr517n2v7myo#0",
+    "id": "https://www.bbc.com/news/articles/cr517n2v7myo#1",
     "category": "global",
     "title": "Prince Harry sued for defamation by charity Sentebale he co-founded",
     "summary": "Prince Harry left the charity last year in an acrimonious dispute over how Sentebale was being managed.",
@@ -310,7 +310,7 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1531274.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/ce84rvx0e6do#0",
+    "id": "https://www.bbc.com/news/articles/ce84rvx0e6do#1",
     "category": "global",
     "title": "Great at gaming? US air traffic control wants you to apply",
     "summary": "A new government ad campaign is trying to persuade gamers to apply for air safety roles.",
@@ -350,7 +350,7 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1531263.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cx2wyn8wdz0o#0",
+    "id": "https://www.bbc.com/news/articles/cx2wyn8wdz0o#1",
     "category": "global",
     "title": "The five big sticking points in US-Iran talks",
     "summary": "Peace talks between the US and Iran are due to begin in Pakistan on Saturday.",
@@ -360,7 +360,7 @@
     "link": "https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c0krdgjy0kko#0",
+    "id": "https://www.bbc.com/news/articles/c0krdgjy0kko#1",
     "category": "global",
     "title": "Man jailed for killing abused wife who jumped from bridge",
     "summary": "Lee Milne was sentenced to eight years for being responsible for his wife Kimberly's death, in the first case of its kind in Scotland.",
@@ -370,7 +370,7 @@
     "link": "https://www.bbc.com/news/articles/c0krdgjy0kko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cy915wr1074o#0",
+    "id": "https://www.bbc.com/news/articles/cy915wr1074o#1",
     "category": "global",
     "title": "Man arrested after baby girl dies from dog bite",
     "summary": "Two dogs seized from the same address have been destroyed, police say.",
@@ -380,7 +380,7 @@
     "link": "https://www.bbc.com/news/articles/cy915wr1074o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cly7d9px7leo#0",
+    "id": "https://www.bbc.com/news/articles/cly7d9px7leo#1",
     "category": "global",
     "title": "Parents' fury at Army's delay to report missing son",
     "summary": "L/Cpl Ryan Rudd was not reported missing until two weeks after he was last seen in Selby.",
