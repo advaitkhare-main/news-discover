@@ -30,6 +30,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c39rkpe8mj2o#0",
+    "category": "global",
+    "title": "EU fingerprint and photo travel rules come into force",
+    "summary": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 09 Apr 2026 23:04:32 GMT",
+    "link": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cp3l4yk5rlgo#0",
     "category": "global",
     "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
@@ -38,16 +48,6 @@
     "source": "BBC",
     "pubDate": "Thu, 09 Apr 2026 23:01:47 GMT",
     "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn0wkkwev2vo#0",
-    "category": "global",
-    "title": "Russia and Ukraine agree to truce for Orthodox Easter",
-    "summary": "Vladimir Putin announced the truce, which will last from Saturday afternoon on 11 April through Easter Sunday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 09 Apr 2026 22:33:48 GMT",
-    "link": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/videos/c0e7dz0zwd0o#0",
@@ -100,164 +100,174 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-retreats-to-71k-after-73k-rejection-as-macro-risks-250m-etf-outflows-weigh-on-sentiment/articleshow/130161516.cms",
-    "category": "finance",
-    "title": "Bitcoin retreats to $71K after $73K rejection as macro risks, $250M ETF outflows weigh on sentiment",
-    "summary": "Bitcoin trades near $71,000 on Friday. Macroeconomic uncertainty and geopolitical risks are capping its momentum. Recent ETF outflows have also impacted buying pressure. Analysts watch the CPI release for potential price movements. Market sentiment h",
-    "image": "https://img.etimg.com/photo/msid-130161516,imgsize-1652344.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 12:03:18 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-retreats-to-71k-after-73k-rejection-as-macro-risks-250m-etf-outflows-weigh-on-sentiment/articleshow/130161516.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-shares-tumble-4-as-firm-closes-in-on-12-billion-organon-acquisition-whats-spooking-investors/articleshow/130160781.cms",
-    "category": "finance",
-    "title": "Sun Pharma shares tumble 4% as firm closes in on $12-billion Organon acquisition. What\u2019s spooking investors?",
-    "summary": "Shares of Sun Pharmaceutical Industries fell sharply after ET reported the company had submitted a $12-billion binding offer for Organon &amp; Co. Investors remain cautious as the pharma major nears its biggest-ever overseas acquisition amid debt con",
-    "image": "https://img.etimg.com/photo/msid-130160781,imgsize-119514.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 11:30:22 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-shares-tumble-4-as-firm-closes-in-on-12-billion-organon-acquisition-whats-spooking-investors/articleshow/130160781.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/tata-sons-ipo-after-venu-srinivasan-tata-trusts-vice-chairman-vijay-singh-backs-listing-of-tata-sons-says-report/articleshow/130160730.cms",
-    "category": "finance",
-    "title": "Tata Sons IPO: After Venu Srinivasan, Tata Trusts Vice Chairman Vijay Singh backs listing of Tata Sons, says report",
-    "summary": "A Tata Trusts trustee has backed listing Tata Sons via an IPO, aligning with growing support despite the group\u2019s earlier stance to remain unlisted and explore alternatives to avoid going public.",
-    "image": "https://img.etimg.com/photo/msid-130160730,imgsize-98518.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 11:26:56 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tata-sons-ipo-after-venu-srinivasan-tata-trusts-vice-chairman-vijay-singh-backs-listing-of-tata-sons-says-report/articleshow/130160730.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/education/assam-hslc-result-2026-declared-class-10-scorecard-download-link-here-11337200#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/assam-board-10th-result-2026-declared-heres-how-to-check-hslc-marksheet-using-digilocker-11337603#publisher=newsstand",
     "category": "india",
-    "title": "Assam HSLC Result 2026 Declared: 65.62% Students Pass, Class 10 Scorecard Download Link Here",
-    "summary": "Assam SEBA 10th Result Out: Download Directly Here",
-    "image": "https://c.ndtvimg.com/2026-04/nl75qh5c_ads_625x300_10_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Assam Board HSLC Results 2026 Out: Here's How To Download Marksheet On DigiLocker",
+    "summary": "Assam Board HSLC Results 2026 Out: The overall pass percentage stands at 65.62 per cent.",
+    "image": "https://c.ndtvimg.com/2026-04/fm7itvn4_up-board-class-10-12-results-2026_625x300_01_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 11:22:43 +0530",
-    "link": "https://www.ndtv.com/education/assam-hslc-result-2026-declared-class-10-scorecard-download-link-here-11337200#publisher=newsstand"
+    "pubDate": "Fri, 10 Apr 2026 14:13:27 +0530",
+    "link": "https://www.ndtv.com/education/assam-board-10th-result-2026-declared-heres-how-to-check-hslc-marksheet-using-digilocker-11337603#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/railtel-corporation-shares-jump-4-after-securing-rs-23-18-crore-order/articleshow/130160619.cms",
+    "id": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-10-april-brent-crude-oil-prices-us-iran-peace-talks-donald-trump-11336713#publisher=newsstand",
+    "category": "india",
+    "title": "Stock Market LIVE Updates, Sensex Today: Sensex Climbs 800 Points On Hopes Of US-Iran Peace Talks",
+    "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates: Markets open in green.",
+    "image": "https://c.ndtvimg.com/2026-03/pvr197nk_india-stock-market_625x300_15_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 14:12:09 +0530",
+    "link": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-10-april-brent-crude-oil-prices-us-iran-peace-talks-donald-trump-11336713#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/insensitivity-by-up-cops-hospital-top-court-on-4-year-olds-rape-murder-11338060#publisher=newsstand",
+    "category": "india",
+    "title": "'Insensitivity By UP Cops, Hospital': Top Court On 4-year-Old's Rape-Murder",
+    "summary": "The victim's lawyer told the court that her father is being asked to withdraw the case every day.",
+    "image": "https://c.ndtvimg.com/2026-04/l4utqkvo_supreme-court-_625x300_02_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 14:11:32 +0530",
+    "link": "https://www.ndtv.com/india-news/insensitivity-by-up-cops-hospital-top-court-on-4-year-olds-rape-murder-11338060#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/despite-the-ceasefire-iran-wont-give-up-on-a-hormuz-toll-that-easily-11327177#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion | What Happens To Oil Prices If Iran Really Starts Charging A Hormuz 'Toll'?",
+    "summary": "Iran has not agreed to reopen the Strait, but to allow passage via \"coordination\" with its Armed Forces. Even the IRGC Navy has said that the Strait \"will never return to its former state\".",
+    "image": "https://c.ndtvimg.com/2026-03/k6dmbf_image_160x120_14_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 14:09:08 +0530",
+    "link": "https://www.ndtv.com/opinion/despite-the-ceasefire-iran-wont-give-up-on-a-hormuz-toll-that-easily-11327177#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/assam-board-class-10th-result-2026-re-checking-compartmental-exam-passing-criteria-11337947#publisher=newsstand",
+    "category": "india",
+    "title": "Assam 10th Board Results 2026: When, How To Apply For Re-evaluation And Compartmental Exams",
+    "summary": "Assam Board HSLC Result 2026: A total of 2,81,701 students have passed the examination this year.",
+    "image": "https://c.ndtvimg.com/2026-03/g6gnr0hc_cbse-board-exams-2026_625x300_18_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Apr 2026 14:07:57 +0530",
+    "link": "https://www.ndtv.com/education/assam-board-class-10th-result-2026-re-checking-compartmental-exam-passing-criteria-11337947#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/irans-sanctions-busting-crypto-ambitions-grow-on-toll-payments/articleshow/130164127.cms",
     "category": "finance",
-    "title": "RailTel Corporation shares jump 4% after securing Rs 23.18 crore order",
-    "summary": "RailTel Corporation of India's shares surged after securing a Rs 23.18 crore work order from the Goa Building and Other Construction Workers Welfare Board for an online portal. This follows a significant Rs 455 crore infrastructure contract awarded i",
-    "image": "https://img.etimg.com/photo/msid-130160619,imgsize-160495.cms",
+    "title": "Iran\u2019s sanctions-busting crypto ambitions grow on toll payments",
+    "summary": "Iran proposes digital currency for Strait of Hormuz passage tolls. This move highlights a significant sanctions-evasion network.  While legitimate channels find this plan unworkable, Iran's crypto ecosystem is growing.  The Islamic Revolutionary Guar",
+    "image": "https://img.etimg.com/photo/msid-130164127,imgsize-204822.cms",
     "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 11:22:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/railtel-corporation-shares-jump-4-after-securing-rs-23-18-crore-order/articleshow/130160619.cms"
+    "pubDate": "Fri, 10 Apr 2026 14:02:27 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/irans-sanctions-busting-crypto-ambitions-grow-on-toll-payments/articleshow/130164127.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/punjab-police-arrest-main-accussed-amritpal-singh-mehron-in-punjabi-influencer-kamal-kaurs-murder-11337269#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/tamil-nadu-election-2026-poll-flying-squad-checks-tvk-chief-vijays-vehicle-in-tamil-nadu-no-cash-found-11337858#publisher=newsstand",
     "category": "india",
-    "title": "Punjab Police Arrest Main Accussed In Punjabi Influencer Kamal Kaur's Murder",
-    "summary": "Kamal Kaur was found dead in an abandoned car in a parking lot in Bathinda.",
-    "image": "https://c.ndtvimg.com/2025-06/d3a6lgkg_kamal-kaur-instagram_625x300_13_June_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Poll Flying Squad Checks TVK Chief Vijay's Vehicle In Tamil Nadu, No Cash Found",
+    "summary": "He reportedly cooperated fully with the authorities during the brief inspection.",
+    "image": "https://c.ndtvimg.com/2026-04/viim7qf_vijay_625x300_09_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 11:20:24 +0530",
-    "link": "https://www.ndtv.com/india-news/punjab-police-arrest-main-accussed-amritpal-singh-mehron-in-punjabi-influencer-kamal-kaurs-murder-11337269#publisher=newsstand"
+    "pubDate": "Fri, 10 Apr 2026 14:00:50 +0530",
+    "link": "https://www.ndtv.com/india-news/tamil-nadu-election-2026-poll-flying-squad-checks-tvk-chief-vijays-vehicle-in-tamil-nadu-no-cash-found-11337858#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/health/world-homeopathy-day-2026-sugar-pills-in-small-paper-pouches-to-ayush-ministry-collaborations-how-homeopathy-made-a-lasting-mark-in-indian-medicine-11337337#publisher=newsstand",
+    "id": "https://www.ndtv.com/food/shocking-raid-in-mailardevpally-unsafe-snack-manufacturing-unit-busted-11332661#publisher=newsstand",
     "category": "india",
-    "title": "World Homeopathy Day 2026: Sugar Pills In Small Paper Pouches To Ayush Ministry Collaborations, How Homeopathy Made A La",
-    "summary": "Homeopathy has come a long way since the 18th century",
-    "image": "https://c.ndtvimg.com/2026-04/o8f51s0c_homeopathy-history_625x300_10_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Stale Biryani Refrigerated For Several Days Allegedly Sold In Hyderabad, Restaurant Sealed",
+    "summary": "Man caught selling stale biriyani in hyderabad.",
+    "image": "https://c.ndtvimg.com/2026-04/qqc0bn6c_stale-biryani_625x300_10_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 11:18:15 +0530",
-    "link": "https://www.ndtv.com/health/world-homeopathy-day-2026-sugar-pills-in-small-paper-pouches-to-ayush-ministry-collaborations-how-homeopathy-made-a-lasting-mark-in-indian-medicine-11337337#publisher=newsstand"
+    "pubDate": "Fri, 10 Apr 2026 13:59:36 +0530",
+    "link": "https://www.ndtv.com/food/shocking-raid-in-mailardevpally-unsafe-snack-manufacturing-unit-busted-11332661#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/assam-hslc-result-2026-live-updates-assam-10th-results-direct-link-toppers-list-pass-percentage-download-scorecard-live-updates-official-websites-11336642#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/us-iran-war-israel-halts-strikes-on-lebanon-after-trumps-low-key-order-to-netanyahu-11337996#publisher=newsstand",
     "category": "india",
-    "title": "Assam HSLC Class 10th Result 2026 (OUT) LIVE Updates: Scorecard Download Link, Official Websites Here",
-    "summary": "Assam HSLC Class 10th Results LIVE: Class 10 result out",
-    "image": "https://c.ndtvimg.com/2026-04/q5udtp1c_as_625x300_10_April_26.jpeg",
+    "title": "Israel Halts Strikes On Lebanon After Trump's 'Low-Key' Order To Netanyahu",
+    "summary": "Neither Israel nor Lebanon has publicly confirmed the US talks for next week so far.",
+    "image": "https://c.ndtvimg.com/2026-04/o7ttd23k_lebanon-afp_625x300_10_April_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 11:17:39 +0530",
-    "link": "https://www.ndtv.com/education/assam-hslc-result-2026-live-updates-assam-10th-results-direct-link-toppers-list-pass-percentage-download-scorecard-live-updates-official-websites-11336642#publisher=newsstand"
+    "pubDate": "Fri, 10 Apr 2026 13:56:24 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-israel-halts-strikes-on-lebanon-after-trumps-low-key-order-to-netanyahu-11337996#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/priyanka-purohit-purohit-devkrishna-madhya-pradesh-woman-lover-hire-hitman-kill-husband-told-him-tum-kaale-ho-dont-deserve-me-11337297#publisher=newsstand",
-    "category": "india",
-    "title": "\"Tum Kaale Ho, Don't Deserve Me\": Madhya Pradesh Woman Plots Murder Of Husband With Lover",
-    "summary": "Priyanka even staged herself as a victim raising an alarm after the attackers fled",
-    "image": "https://c.ndtvimg.com/2026-04/qf1vgb0o_dhar-murder_625x300_10_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 11:16:58 +0530",
-    "link": "https://www.ndtv.com/india-news/priyanka-purohit-purohit-devkrishna-madhya-pradesh-woman-lover-hire-hitman-kill-husband-told-him-tum-kaale-ho-dont-deserve-me-11337297#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-iran-lebanon-israel-war-ready-for-all-scenarios-iran-says-no-talks-with-us-till-lebanon-ceasefire-11337326#publisher=newsstand",
-    "category": "india",
-    "title": "\"Ready For All Scenarios\": Iran Says No Talks With US Till Lebanon Ceasefire",
-    "summary": "Israel-Lebanon negotiations are expected next week in Washington",
-    "image": "https://c.ndtvimg.com/2026-04/ntpjjick_lebanon_625x300_09_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 11:16:55 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-lebanon-israel-war-ready-for-all-scenarios-iran-says-no-talks-with-us-till-lebanon-ceasefire-11337326#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/white-house-insider-trading-how-traders-made-millions-with-leaked-war-news-donald-trump-iran-11337295#publisher=newsstand",
-    "category": "india",
-    "title": "White House Insider Trading: How Traders Made Millions With Leaked War News",
-    "summary": "Some traders have made millions. This has raised serious concerns about insider trading.",
-    "image": "https://c.ndtvimg.com/2026-03/1h0j1gjc_white-house_650x400_11_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 11:16:40 +0530",
-    "link": "https://www.ndtv.com/india-news/white-house-insider-trading-how-traders-made-millions-with-leaked-war-news-donald-trump-iran-11337295#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/mamata-banerjee-thrown-out-writers-in-1993-a-vow-that-mamata-banerjee-kept-for-18-years-until-she-tore-down-left-rule-11337341#publisher=newsstand",
-    "category": "india",
-    "title": "A Vow That Mamata Banerjee Kept For 18 Years, Until She Tore Down Left Rule",
-    "summary": "On May 6, Mamata Banerjee was confronted with a brutal incident.",
-    "image": "https://c.ndtvimg.com/2026-04/q3bq9m2g_mamata-banerjee-1993_625x300_10_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Apr 2026 11:16:05 +0530",
-    "link": "https://www.ndtv.com/india-news/mamata-banerjee-thrown-out-writers-in-1993-a-vow-that-mamata-banerjee-kept-for-18-years-until-she-tore-down-left-rule-11337341#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/tcs-deal-wins-signal-stability-despite-ai-concerns-sandip-agarwal/articleshow/130160448.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/itdc-shares-rally-40-in-two-days-skyrocket-67-in-seven-sessions-whats-behind-the-surge/articleshow/130163832.cms",
     "category": "finance",
-    "title": "TCS deal wins signal stability despite AI concerns: Sandip Agarwal",
-    "summary": "TCS's robust $12 billion Total Contract Value signals stability amidst AI disruption fears, indicating intact client spending. Analysts project 5-6% dollar growth and 16-17% rupee earnings CAGR, suggesting potential stock rerating. IT firms' system i",
-    "image": "https://img.etimg.com/photo/msid-130160448,imgsize-14906.cms",
+    "title": "ITDC shares rally 40% in two days, skyrocket 67% in seven sessions. What\u2019s behind the surge?",
+    "summary": "ITDC shares surged over 16%, extending a sharp multi-day rally of more than 67%, driven by reports of asset monetisation, including the divestment of key hotel subsidiaries under the government\u2019s monetisation plan.",
+    "image": "https://img.etimg.com/photo/msid-130163832,imgsize-11620.cms",
     "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 11:11:12 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/tcs-deal-wins-signal-stability-despite-ai-concerns-sandip-agarwal/articleshow/130160448.cms"
+    "pubDate": "Fri, 10 Apr 2026 13:51:50 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/itdc-shares-rally-40-in-two-days-skyrocket-67-in-seven-sessions-whats-behind-the-surge/articleshow/130163832.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-hemmed-in-by-heavy-supply-fragile-truce/articleshow/130160389.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/valuations-turn-attractive-as-markets-look-beyond-uncertainty-a-balasubramanian/articleshow/130163725.cms",
     "category": "finance",
-    "title": "India bonds hemmed in by heavy supply, fragile truce",
-    "summary": "Indian government bonds remained steady Friday, impacted by a large sale of the benchmark 10-year note and worries over high oil prices due to a fragile U.S.-Iran ceasefire. Traders awaited the auction results, anticipating potential yield increases.",
-    "image": "https://img.etimg.com/photo/msid-130160389,imgsize-111102.cms",
+    "title": "Valuations turn attractive as markets look beyond uncertainty: A Balasubramanian",
+    "summary": "Amidst geopolitical uncertainty, market expert A Balasubramanian suggests the worst may be nearing an end, with improving macro signals and reasonable valuations in Indian equities. He highlights a revival in credit and deposit growth, indicating pot",
+    "image": "https://img.etimg.com/photo/msid-130163725,imgsize-25422.cms",
     "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 11:05:47 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-hemmed-in-by-heavy-supply-fragile-truce/articleshow/130160389.cms"
+    "pubDate": "Fri, 10 Apr 2026 13:45:02 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/valuations-turn-attractive-as-markets-look-beyond-uncertainty-a-balasubramanian/articleshow/130163725.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-ai-anxiety-batters-us-software-stocks-as-growth-narrative-faces-fresh-test/articleshow/130160184.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-slashed-stakes-in-12-smallcaps-in-q4-stocks-shed-up-to-55/slideshow/130164135.cms",
     "category": "finance",
-    "title": "US Stock Market: AI anxiety batters US software stocks as growth narrative faces fresh test",
-    "summary": "U.S. software stocks tumbled as renewed fears over AI\u2019s disruptive impact hit sentiment, with Reuters reporting steep declines across major names. A cautious rollout of a new model from Anthropic heightened concerns that advanced AI could erode tradi",
-    "image": "https://img.etimg.com/photo/msid-130160184,imgsize-59286.cms",
+    "title": "MFs slashed stakes in 12 smallcaps in Q4; stocks shed up to 55%",
+    "summary": "Mutual funds trimmed stakes in nearly 45 smallcap stocks during the March 2026 quarter compared with December 2025, signalling a cautious stance toward the segment.",
+    "image": "https://img.etimg.com/photo/msid-130163726,imgsize-3300.cms",
     "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 10:51:39 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-ai-anxiety-batters-us-software-stocks-as-growth-narrative-faces-fresh-test/articleshow/130160184.cms"
+    "pubDate": "Fri, 10 Apr 2026 13:44:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-slashed-stakes-in-12-smallcaps-in-q4-stocks-shed-up-to-55/slideshow/130164135.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/india-bull-chris-wood-likes-pakistan-stock-market-around-imf-bailout-cycles/articleshow/130160030.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/oil-prices-to-settle-at-75-80-in-2-months-nifty-to-touch-29k-by-march-2027-says-emkay-heres-why/articleshow/130163620.cms",
     "category": "finance",
-    "title": "India bull Chris Wood likes Pakistan stock market around IMF bailout cycles",
-    "summary": "Jefferies strategist Christopher Wood says Pakistan offers high-beta opportunities around IMF bailout cycles, even as India remains his core long-term bet. While Pakistan\u2019s market has soared since the latest IMF programme, Wood notes that India\u2019s str",
-    "image": "https://img.etimg.com/photo/msid-130160030,imgsize-49112.cms",
+    "title": "Oil prices to settle at $75-80 in 2 months, Nifty to touch 29K by March 2027, says Emkay. Here\u2019s why",
+    "summary": "Emkay Global Financial Services expects crude oil to stabilise at $75\u201380 within two months and sees the Nifty 50 hitting 29,000 by March 2027. A potential Iran\u2013US peace deal, easing energy pressures and steady earnings growth are seen driving a rebou",
+    "image": "https://img.etimg.com/photo/msid-130163620,imgsize-161331.cms",
     "source": "ET",
-    "pubDate": "Fri, 10 Apr 2026 10:44:18 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-bull-chris-wood-likes-pakistan-stock-market-around-imf-bailout-cycles/articleshow/130160030.cms"
+    "pubDate": "Fri, 10 Apr 2026 13:38:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-prices-to-settle-at-75-80-in-2-months-nifty-to-touch-29k-by-march-2027-says-emkay-heres-why/articleshow/130163620.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/tcs-bets-on-ai-hiring-partnerships-as-currency-gains-lift-margins-eyes-360-degree-ecosystem-play/articleshow/130163054.cms",
+    "category": "finance",
+    "title": "TCS bets on AI hiring, partnerships as currency gains lift margins; eyes 360-degree ecosystem play",
+    "summary": "Tata Consultancy Services, India's largest IT firm, saw its profits grow slightly. This was helped by favorable currency rates and better operations. The company is also investing more in its employees, new collaborations, and buying other businesses",
+    "image": "https://img.etimg.com/photo/msid-130163054,imgsize-22380.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Apr 2026 13:16:34 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/tcs-bets-on-ai-hiring-partnerships-as-currency-gains-lift-margins-eyes-360-degree-ecosystem-play/articleshow/130163054.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/buying-the-dip-chakri-lokapriya-bets-on-financials-it-and-cyclical-revival/articleshow/130162859.cms",
+    "category": "finance",
+    "title": "Buying the Dip: Chakri Lokapriya bets on financials, IT and cyclical revival",
+    "summary": "Market volatility presents a chance for investors. Chakri Lokapriya, CIO-Equities at LGT Wealth, highlights opportunities in financials, IT, and real estate. He sees potential in NBFCs and IT firms with improving deal pipelines. Real estate correctio",
+    "image": "https://img.etimg.com/photo/msid-130162859,imgsize-20096.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Apr 2026 13:00:31 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/buying-the-dip-chakri-lokapriya-bets-on-financials-it-and-cyclical-revival/articleshow/130162859.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-tumble-up-to-3-after-tcs-q4-earnings-whats-spooking-investors/articleshow/130162512.cms",
+    "category": "finance",
+    "title": "IT stocks slide up to 3% after TCS Q4 earnings. What's spooking investors?",
+    "summary": "IT stocks fell up to 3% after TCS reported Q4 results that failed to impress the Street, dragging the Nifty IT index over 2%. Despite broader market gains, investor sentiment weakened amid muted demand outlook, cautious brokerage commentary and renew",
+    "image": "https://img.etimg.com/photo/msid-130162512,imgsize-56974.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Apr 2026 12:44:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-tumble-up-to-3-after-tcs-q4-earnings-whats-spooking-investors/articleshow/130162512.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c3ex07l1qvpo#0",
+    "category": "global",
+    "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
+    "summary": "She called rumours that Epstein introduced her to Donald Trump \"mean-spirited attempts to defame my reputation\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Apr 2026 08:37:05 GMT",
+    "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1531215.html",
@@ -288,16 +298,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 10 Apr 2026 07:00:30 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1531217.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c3ex07l1qvpo#0",
-    "category": "global",
-    "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
-    "summary": "She called rumours that Epstein introduced her to Donald Trump \"mean-spirited attempts to defame my reputation\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Apr 2026 06:59:43 GMT",
-    "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cly7d9rv4nro#0",
@@ -370,16 +370,6 @@
     "link": "https://www.bbc.com/news/articles/c2lwvz1pl1no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cvgkv1x149eo#0",
-    "category": "global",
-    "title": "Ten cases a day - 'blitz courts' could tackle the Crown Court backlog",
-    "summary": "The scheme, to fast-track cases and to cut the court backlog, is being expanded in England and Wales.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Apr 2026 00:54:16 GMT",
-    "link": "https://www.bbc.com/news/articles/cvgkv1x149eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/sport/golf/articles/cx24pn55dg9o#0",
     "category": "global",
     "title": "Co-leader McIlroy's golf does the talking after busy Masters build-up",
@@ -388,5 +378,15 @@
     "source": "BBC",
     "pubDate": "Fri, 10 Apr 2026 00:13:23 GMT",
     "link": "https://www.bbc.com/sport/golf/articles/cx24pn55dg9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/resources/idt-8ea95b22-220c-44be-8704-c41cdff0df66#0",
+    "category": "global",
+    "title": "How the cost of holidays, food and clothes is rising - despite the Iran ceasefire",
+    "summary": "Fuel costs have already soared, flights and mortgages are also rising - and food could soon do the same.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "link": "https://www.bbc.co.uk/news/resources/idt-8ea95b22-220c-44be-8704-c41cdff0df66?at_medium=RSS&at_campaign=rss"
   }
 ]
