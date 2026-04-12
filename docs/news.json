@@ -60,14 +60,24 @@
     "link": "https://www.ndtv.com/india-news/israel-iran-war-tributes-pour-in-for-ali-khamenei-at-iran-culture-house-in-delhi-11348259#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-us-war-us-iran-war-live-donald-trump-ex-cia-chief-says-1967-law-to-remove-presidents-formed-for-unhinged-trump-11348235#publisher=newsstand",
-    "category": "india",
-    "title": "Ex-CIA Chief Says 1967 Law To Remove Presidents Formed For \"Unhinged\" Trump",
-    "summary": "The amendment was submitted to the states by the 89th Congress in 1965 and was ratified in 1967.",
-    "image": "https://c.ndtvimg.com/2026-04/j5d0m238_trump-brennan-_625x300_12_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 12 Apr 2026 23:47:59 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-us-war-us-iran-war-live-donald-trump-ex-cia-chief-says-1967-law-to-remove-presidents-formed-for-unhinged-trump-11348235#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/c3v6n7wqd07o#0",
+    "category": "global",
+    "title": "Paddington musical dominates Olivier Awards",
+    "summary": "The beloved bear's stage show won seven prizes including best new musical and three acting prizes.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 12 Apr 2026 21:07:35 GMT",
+    "link": "https://www.bbc.com/news/articles/c3v6n7wqd07o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cm2r89y9n3go#0",
+    "category": "global",
+    "title": "Swinney says Scottish independence referendum could be held in 2028",
+    "summary": "The SNP leader made the claim in the BBC's televised debate ahead of next month's Scottish election.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 12 Apr 2026 21:07:24 GMT",
+    "link": "https://www.bbc.com/news/articles/cm2r89y9n3go?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/videos/c2lwrjwg29lo#0",
@@ -190,16 +200,6 @@
     "link": "https://www.bbc.com/news/articles/cvg4nmv0r12o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c8r402zz2gpo#0",
-    "category": "global",
-    "title": "Evita actress Rachel Zegler among stars on red carpet for Olivier Awards",
-    "summary": "Stage stars posed for pictures ahead of a night of celebration for UK theatre at the Royal Albert Hall.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 12 Apr 2026 17:10:51 GMT",
-    "link": "https://www.bbc.com/news/articles/c8r402zz2gpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c4gdlg7je4po#0",
     "category": "global",
     "title": "Eamonn Holmes thanks well-wishers after suffering stroke",
@@ -238,16 +238,6 @@
     "source": "ET",
     "pubDate": "Sun, 12 Apr 2026 15:36:21 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/7-best-performing-pms-that-delivered-up-to-43-returns-in-fy26/slideshow/130206240.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx2e8kj3yn4o#0",
-    "category": "global",
-    "title": "Four arrested over murder of Scottish businessman in Kenya",
-    "summary": "Campbell Scott's body was found in a pineapple sack about 60 miles from Nairobi where he was attending a conference in February last year.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 12 Apr 2026 14:47:55 GMT",
-    "link": "https://www.bbc.com/news/articles/cx2e8kj3yn4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/130205041.cms",
@@ -318,6 +308,16 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 19 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/hungarys-viktor-orban-a-trump-ally-loses-polls-after-16-years-in-power-11348436#publisher=newsstand",
+    "category": "india",
+    "title": "Hungary's Viktor Orban, A Trump Ally, Loses Polls After 16 years In Power",
+    "summary": "Viktor Orban was seeking a fifth straight term (File)",
+    "image": "https://c.ndtvimg.com/2024-06/96kjpbh_viktor-orban_625x300_24_June_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 13 Apr 2026 02:03:33 +0530",
+    "link": "https://www.ndtv.com/world-news/hungarys-viktor-orban-a-trump-ally-loses-polls-after-16-years-in-power-11348436#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/armed-men-kill-3-pakistani-coast-guards-in-arabian-sea-11348354#publisher=newsstand",
