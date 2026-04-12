@@ -134,7 +134,7 @@
     "category": "finance",
     "title": "A panicked race for barrels grips global oil market, price up as much as $140",
     "summary": "Global oil markets are witnessing a severe physical crude shortage as Middle East disruptions trigger frantic buying and record premiums for immediate supplies. While futures prices ease on ceasefire hopes, physical markets spike, exposing supply gap",
-    "image": "https://img.etimg.com/photo/msid-130204411,imgsize-133400.cms",
+    "image": "https://img.etimg.com/photo/msid-130204411,imgsize-150381.cms",
     "source": "ET",
     "pubDate": "Sun, 12 Apr 2026 13:17:09 +0530",
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/a-panicked-race-for-barrels-grips-global-oil-market-price-up-as-much-as-140/articleshow/130204411.cms"
@@ -174,7 +174,7 @@
     "category": "finance",
     "title": "Value in Volatility: Why smart money hunts \u2018gaps\u2019 in uncertain markets",
     "summary": "Global market volatility driven by geopolitics, inflation, and rates is reviving value investing principles. Veteran investor Arnold Van Den Berg highlights that uncertainty often creates mispriced assets, offering long-term opportunities for discipl",
-    "image": "https://img.etimg.com/photo/msid-130203467,imgsize-110642.cms",
+    "image": "https://img.etimg.com/photo/msid-130203467,imgsize-32364.cms",
     "source": "ET",
     "pubDate": "Sun, 12 Apr 2026 11:39:33 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/value-in-volatility-why-smart-money-hunts-gaps-in-uncertain-markets/articleshow/130203467.cms"
@@ -190,14 +190,34 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-extend-sell-off-in-april-pull-out-rs-48213-crore-from-indian-stocks-in-10-days/articleshow/130203138.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c3dlmdl1v57o#0",
+    "id": "https://www.bbc.com/news/articles/cp38z9lylddo#0",
     "category": "global",
-    "title": "US-Iran talks ending without deal disappointing, Streeting says",
-    "summary": "The health secretary says the UK - which is not involved in the talks - wants to see a deal that ends Iran's nuclear ambitions.",
+    "title": "More than 500 arrests at Palestine Action protest",
+    "summary": "Event organisers said it would show the \"resistance\" to the ban on the group was \"stronger than ever\".",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sun, 12 Apr 2026 09:28:04 GMT",
-    "link": "https://www.bbc.com/news/articles/c3dlmdl1v57o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Sun, 12 Apr 2026 10:33:03 GMT",
+    "link": "https://www.bbc.com/news/articles/cp38z9lylddo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1531562.html",
+    "category": "sports",
+    "title": "Gujarat Titans bowl against Lucknow Super Giants, both teams unchanged",
+    "summary": "Both teams have won their previous match, and are looking to break into the top four of the points table",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415500/415556.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 12 Apr 2026 10:11:11 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531562.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c75kx5dw395o#0",
+    "category": "global",
+    "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
+    "summary": "The star spent much of the gig singing along to YouTube videos of early hits like Baby and Never say Never.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 12 Apr 2026 10:07:58 GMT",
+    "link": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1531227.html",
@@ -206,8 +226,28 @@
     "summary": "The news will come as a boost to KKR, who are at the bottom on the IPL points table after failing to win even one of their four games so far",
     "image": "http://p.imgci.com/db/PICTURES/CMS/412800/412865.jpg",
     "source": "Cricinfo",
-    "pubDate": "Sun, 12 Apr 2026 09:02:15 GMT",
+    "pubDate": "Sun, 12 Apr 2026 09:55:09 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1531227.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cdxdepjrv95o#0",
+    "category": "global",
+    "title": "Hungarians vote in big numbers on whether to end Orb\u00e1n rule and elect rival",
+    "summary": "Most polls favour P\u00e9ter Magyar, who fronts a grassroots party, and early figures point to a record turnout of voters.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 12 Apr 2026 09:31:51 GMT",
+    "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c3dlmdl1v57o#0",
+    "category": "global",
+    "title": "US-Iran talks ending without deal disappointing, Streeting says",
+    "summary": "The health secretary says the UK - which is not involved in the talks - wants to see a deal that ends Iran's nuclear ambitions.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 12 Apr 2026 09:28:04 GMT",
+    "link": "https://www.bbc.com/news/articles/c3dlmdl1v57o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1531547.html",
@@ -260,26 +300,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1531479.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c6ppd0qdp1do#0",
-    "category": "global",
-    "title": "Legendary Bollywood singer Asha Bhosle dies aged 92",
-    "summary": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 12 Apr 2026 08:24:01 GMT",
-    "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531505.html",
-    "category": "sports",
-    "title": "Pollard on Bumrah: 'When the time comes to get wickets, he'll get wickets'",
-    "summary": "MI's spearhead isn't among the wickets yet, and looks down on pace even as he holds together a struggling attack",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415381.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 12 Apr 2026 07:46:17 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531505.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1531554.html",
     "category": "sports",
     "title": "RR manager Bhinder caught on camera using mobile phone in team dugout",
@@ -290,19 +310,9 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1531554.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/videos/cqj82xn9n8eo#0",
-    "category": "global",
-    "title": "Iran chose 'not to accept our terms', Vance says after negotiations",
-    "summary": "The US vice-president made the announcement after 21 hours of negotiations in Islamabad, Pakistan.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 12 Apr 2026 02:33:35 GMT",
-    "link": "https://www.bbc.com/news/videos/cqj82xn9n8eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/clyrdkxvmmpo#1",
     "category": "global",
-    "title": "From blast off to splashdown: My days following Nasa's historic mission to the Moon",
+    "title": "My days behind the scenes of Nasa's historic mission to the Moon",
     "summary": "BBC Science Editor Rebecca Morelle reflects on how it felt to watch history being made.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -338,16 +348,6 @@
     "source": "BBC",
     "pubDate": "Sat, 11 Apr 2026 23:12:58 GMT",
     "link": "https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cp38z9lylddo#0",
-    "category": "global",
-    "title": "More than 500 arrests at Palestine Action protest",
-    "summary": "Event organisers said it would show the \"resistance\" to the ban on the group was \"stronger than ever\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 11 Apr 2026 22:57:16 GMT",
-    "link": "https://www.bbc.com/news/articles/cp38z9lylddo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
