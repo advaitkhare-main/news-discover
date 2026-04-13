@@ -60,26 +60,6 @@
     "link": "https://www.bbc.com/news/articles/cm2r89y9n3go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531638.html",
-    "category": "sports",
-    "title": "Abbas, Chappell leave hosts reeling as Derbyshire eye rare Old Trafford win",
-    "summary": "Lancashire grateful for Marcus Harris' second significant score as they seek to set testing target",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415500/415598.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 12 Apr 2026 18:51:36 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531638.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531639.html",
-    "category": "sports",
-    "title": "Compton, Northeast fight for Kent in follow-on",
-    "summary": "Northants still on course for victory but made to work for their wickets on third day at Canterbury",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415280.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 12 Apr 2026 18:45:15 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531639.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -90,164 +70,244 @@
     "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/anthropics-new-claude-mythos-model-a-new-threat-in-the-waiting-for-indian-it-stocks/articleshow/130229888.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-down-20-from-peak-but-haitong-sees-26-upside-4-reasons-for-initiating-coverage/articleshow/130232704.cms",
     "category": "finance",
-    "title": "Anthropic's new Claude Mythos model: A new threat in the waiting for Indian IT stocks?",
-    "summary": "Indian IT stocks may face fresh turbulence as Anthropic\u2019s preview model, Mythos, raises disruption risks. Analysts warn its sharp gains in software engineering tasks mark a \u201cstep-jump,\u201d not incremental progress, potentially pressuring valuations. Kot",
-    "image": "https://img.etimg.com/photo/msid-130229888,imgsize-30652.cms",
+    "title": "Paytm down 20% from peak, but Haitong sees 26% upside. 4 reasons for initiating coverage",
+    "summary": "Haitong has initiated a coverage on One 97 Communication (Paytm) with an \u2018Outperform\u2019 rating for a target of Rs 1,410, implying an upside of 26%. The Hong Kong-based brokerage is betting on Paytm's leadership position in retail digital payments in In",
+    "image": "https://img.etimg.com/photo/msid-130232704,imgsize-31474.cms",
     "source": "ET",
-    "pubDate": "Mon, 13 Apr 2026 12:49:23 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/anthropics-new-claude-mythos-model-a-new-threat-in-the-waiting-for-indian-it-stocks/articleshow/130229888.cms"
+    "pubDate": "Mon, 13 Apr 2026 15:15:27 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-down-20-from-peak-but-haitong-sees-26-upside-4-reasons-for-initiating-coverage/articleshow/130232704.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-rally-8-while-eicher-motors-hero-motocorp-shares-drop-up-to-4-heres-why/articleshow/130229784.cms",
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/nses-rs-20000-crore-mega-ipo-gears-up-for-launch-who-can-sell-shares-via-ofs-check-eligibility-rules-deadlines-and-more/articleshow/130232508.cms",
     "category": "finance",
-    "title": "Ather Energy shares rally 8% while Eicher Motors, Hero MotoCorp shares drop up to 4%. Here's why",
-    "summary": "Delhi's draft EV Policy 2026-2030 aims to boost electric two-wheeler registrations from FY29, offering significant subsidies and tax exemptions. This move is expected to accelerate EV adoption and curb pollution. The policy's incentives are already i",
-    "image": "https://img.etimg.com/photo/msid-130229784,imgsize-663980.cms",
+    "title": "NSE's Rs 20,000 crore mega IPO gears up for launch: Who can sell shares via OFS? Check eligibility, rules, deadlines and",
+    "summary": "The National Stock Exchange\u2019s Rs 20,000 crore IPO is nearing launch, with a June DRHP filing expected. The issue will be a pure OFS, allowing only shareholders who held fully paid-up NSE shares since June 2025 to sell. Eligible investors must file EO",
+    "image": "https://img.etimg.com/photo/msid-130232508,imgsize-25526.cms",
     "source": "ET",
-    "pubDate": "Mon, 13 Apr 2026 12:45:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-rally-8-while-eicher-motors-hero-motocorp-shares-drop-up-to-4-heres-why/articleshow/130229784.cms"
+    "pubDate": "Mon, 13 Apr 2026 15:02:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nses-rs-20000-crore-mega-ipo-gears-up-for-launch-who-can-sell-shares-via-ofs-check-eligibility-rules-deadlines-and-more/articleshow/130232508.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-slide-as-us-iran-talks-fail-risk-appetite-sours/articleshow/130229319.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/the-rs-1-crore-sweet-spot-prestige-groups-irfan-razack-says-housing-demand-shows-no-signs-of-letting-up/articleshow/130232436.cms",
     "category": "finance",
-    "title": "Global Markets | Australian shares slide as US-Iran talks fail, risk appetite sours",
-    "summary": "Australian shares declined as collapsed U.S.-Iran peace talks and a U.S. blockade of Iranian ports soured market sentiment. The S&amp;P/ASX 200 index saw its steepest fall since April 2, with gold stocks leading the losses. Conversely, energy stocks ",
-    "image": "https://img.etimg.com/photo/msid-130229319,imgsize-158360.cms",
+    "title": "The Rs 1 crore sweet spot: Prestige Group's Irfan Razack says housing demand shows no signs of letting up",
+    "summary": "India's residential real estate market is defying the gloom. Prestige Group crossed the \u20b930,000 crore mark in housing sales for the full year, well ahead of its own guidance, and its chairman says the demand engine is still running hot.",
+    "image": "https://img.etimg.com/photo/msid-130232436,imgsize-103836.cms",
     "source": "ET",
-    "pubDate": "Mon, 13 Apr 2026 12:33:31 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-slide-as-us-iran-talks-fail-risk-appetite-sours/articleshow/130229319.cms"
+    "pubDate": "Mon, 13 Apr 2026 15:01:56 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/the-rs-1-crore-sweet-spot-prestige-groups-irfan-razack-says-housing-demand-shows-no-signs-of-letting-up/articleshow/130232436.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/cathie-wood-vs-michael-burry-the-11-million-palantir-bet-thats-splitting-wall-street/articleshow/130229035.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/you-can-now-invest-in-fixed-deposits-on-zerodhas-coin-rates-banks-and-how-it-works/articleshow/130232154.cms",
     "category": "finance",
-    "title": "Cathie Wood vs Michael Burry: The $11 million Palantir bet that\u2019s splitting Wall Street",
-    "summary": "Cathie Wood bought $11 million worth of Palantir Technologies shares, boosting ARK ETFs\u2019 holdings to over \u20b9283 crore, even as Michael Burry remains bearish. The funds also sold over $10 million worth of Advanced Micro Devices shares.",
-    "image": "https://img.etimg.com/photo/msid-130229035,imgsize-2852957.cms",
+    "title": "You can now invest in fixed deposits on Zerodha's Coin: Rates, banks and how it works",
+    "summary": "Zerodha has launched fixed deposit (FD) investments on its Coin platform, marking another step in its push to broaden beyond equities and mutual funds into more traditional savings products.",
+    "image": "https://img.etimg.com/photo/msid-130232154,imgsize-66792.cms",
     "source": "ET",
-    "pubDate": "Mon, 13 Apr 2026 12:25:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/cathie-wood-vs-michael-burry-the-11-million-palantir-bet-thats-splitting-wall-street/articleshow/130229035.cms"
+    "pubDate": "Mon, 13 Apr 2026 14:44:47 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/you-can-now-invest-in-fixed-deposits-on-zerodhas-coin-rates-banks-and-how-it-works/articleshow/130232154.cms"
   },
   {
-    "id": "https://www.ndtv.com/health/covid-virus-may-spread-more-widely-by-turning-lung-cells-into-targets-study-finds-11349426#publisher=newsstand",
-    "category": "india",
-    "title": "Covid Virus May Spread More Widely By Turning Lung Cells Into Targets, Study Says",
-    "summary": "The coronavirus that causes Covid-19 may spread through the lungs",
-    "image": "https://c.ndtvimg.com/2026-04/8ss9d88o_covid-19_625x300_13_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 11:56:15 +0530",
-    "link": "https://www.ndtv.com/health/covid-virus-may-spread-more-widely-by-turning-lung-cells-into-targets-study-finds-11349426#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/800-schools-in-odisha-to-be-reformed-as-model-educational-institutes-says-cm-11349633#publisher=newsstand",
-    "category": "india",
-    "title": "800 Schools In Odisha To Be Reformed As Model Educational Institutes, Says CM",
-    "summary": "Efforts are underway to set up Godabarish Mishra Adarsh Primary Schools in every panchayat.",
-    "image": "https://c.ndtvimg.com/2026-04/11eoj5f8_odhisha-schools_625x300_13_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 11:52:30 +0530",
-    "link": "https://www.ndtv.com/education/800-schools-in-odisha-to-be-reformed-as-model-educational-institutes-says-cm-11349633#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/iim-mumbai-iit-bombay-partner-to-launch-ug-programme-in-digital-science-and-business-management-11349626#publisher=newsstand",
-    "category": "india",
-    "title": "IIM Mumbai, IIT Bombay Partner To Launch UG Programme In Digital Science And Business Management",
-    "summary": "IIT Bombay Launches Digital Science UG Course With IIM Mumbai",
-    "image": "https://c.ndtvimg.com/2024-06/632dt0e_iim-mumbai_625x300_26_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 11:51:30 +0530",
-    "link": "https://www.ndtv.com/education/iim-mumbai-iit-bombay-partner-to-launch-ug-programme-in-digital-science-and-business-management-11349626#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/why-is-diarrhea-on-rise-in-children-under-5-icmr-study-reveals-possible-causes-11349513#publisher=newsstand",
-    "category": "india",
-    "title": "Why Are Diarrhea Cases Rising In Children Under 5? ICMR Study Reveals Causes",
-    "summary": "Around 1.7 billion cases of diarrhea are reported among children worldwide every year",
-    "image": "https://c.ndtvimg.com/2026-03/aic81nqk_child-stomach-pain_625x300_30_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 11:38:48 +0530",
-    "link": "https://www.ndtv.com/health/why-is-diarrhea-on-rise-in-children-under-5-icmr-study-reveals-possible-causes-11349513#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/noida-workers-protest-phase-2-vehicles-burnt-stones-thrown-as-noida-workers-protest-for-better-pay-11349392#publisher=newsstand",
-    "category": "india",
-    "title": "Cars Burnt, Roads Blocked: Haryana Move Sparks Noida Workers' Protest",
-    "summary": "Several vehicles have been burnt and vandalised as the protest turned violent",
-    "image": "https://c.ndtvimg.com/2026-04/dbruj854_noida-protest_625x300_13_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 11:38:35 +0530",
-    "link": "https://www.ndtv.com/india-news/noida-workers-protest-phase-2-vehicles-burnt-stones-thrown-as-noida-workers-protest-for-better-pay-11349392#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/the-150-crude-oil-warning-us-iran-conflict-sends-shockwaves-through-global-energy-markets/articleshow/130227231.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pakistan-stock-markets-crash-kse-100-plunges-6000-points-as-us-iran-ceasefire-talks-collapse/articleshow/130232102.cms",
     "category": "finance",
-    "title": "The $150 crude oil warning: US-Iran conflict sends shockwaves through global energy markets",
-    "summary": "Brent crude surged past $100 as the US announced a naval blockade on Iranian ports, escalating the US\u2013Iran conflict and sparking fears of a massive supply shock. Analysts warn prices could jump to $150 if the blockade persists, with up to 12 million ",
-    "image": "https://img.etimg.com/photo/msid-130227231,imgsize-56810.cms",
+    "title": "Pakistan stock markets crash: KSE 100 plunges 6,000 points as US-Iran ceasefire talks collapse",
+    "summary": "Pakistan\u2019s stock markets crashed on Monday, with its benchmark index KSE 100 plunging nearly 6,000 points after the ceasefire talks between Iran and US, which were brokered by the country\u2019s Prime Minister Shehbaz Sharif and army chief Asim Munir, fai",
+    "image": "https://img.etimg.com/photo/msid-130232102,imgsize-124944.cms",
     "source": "ET",
-    "pubDate": "Mon, 13 Apr 2026 11:38:19 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/the-150-crude-oil-warning-us-iran-conflict-sends-shockwaves-through-global-energy-markets/articleshow/130227231.cms"
+    "pubDate": "Mon, 13 Apr 2026 14:41:25 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pakistan-stock-markets-crash-kse-100-plunges-6000-points-as-us-iran-ceasefire-talks-collapse/articleshow/130232102.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-news-why-donald-trump-wants-to-block-strait-of-hormuz-already-in-irans-grip-how-will-it-work-11349440#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Says US Will Block The Already Blocked Hormuz. How It Will Work",
-    "summary": "Iran has been allowing a fraction of traffic to pass through Hormuz",
-    "image": "https://c.ndtvimg.com/2026-04/mh1s0rq8_hormuz_625x300_11_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 11:37:44 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-news-why-donald-trump-wants-to-block-strait-of-hormuz-already-in-irans-grip-how-will-it-work-11349440#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-news-iran-mb-ghalibaf-oil-prices-nostalgia-warning-after-trumps-hormuz-blockade-threat-11348862#publisher=newsstand",
-    "category": "india",
-    "title": "'f(f(O))>f(O)': Iran's 'Mathematical' Warning To US Over Hormuz Blockade Threat",
-    "summary": "Trump said the American Navy would swiftly begin a blockade in Hormuz",
-    "image": "https://c.ndtvimg.com/2026-03/mqktmths_trump-iran-mohammad-bagher-ghalibaf_625x300_25_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 11:36:47 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-news-iran-mb-ghalibaf-oil-prices-nostalgia-warning-after-trumps-hormuz-blockade-threat-11348862#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/top-woman-maoist-commander-rupi-killed-in-encounter-others-warned-time-running-out-11349538#publisher=newsstand",
-    "category": "india",
-    "title": "Top Woman Maoist Leader Killed In Encounter, Others Warned, \"Time Running Out\"",
-    "summary": "The top commander was identified as Rupi",
-    "image": "https://c.ndtvimg.com/2026-04/sn141314_rupi-_625x300_13_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 11:35:47 +0530",
-    "link": "https://www.ndtv.com/india-news/top-woman-maoist-commander-rupi-killed-in-encounter-others-warned-time-running-out-11349538#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/om-power-transmission-ipo-day-3-subscribed-over-80-gmp-and-key-details/articleshow/130226167.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-slip-as-middle-east-talks-collapse-naval-blockade-looms/articleshow/130231770.cms",
     "category": "finance",
-    "title": "Om Power Transmission IPO Day 3: Subscribed over 80%; GMP and key details",
-    "summary": "Om Power Transmission's Rs 150 crore IPO is nearing its close, with an 81% subscription rate. While retail investors show steady interest, grey market premiums suggest a modest listing gain. The company, an EPC firm in power transmission, aims to use",
-    "image": "https://img.etimg.com/photo/msid-130226167,imgsize-119452.cms",
+    "title": "Global Markets | European shares slip as Middle East talks collapse, naval blockade looms",
+    "summary": "European shares dropped on \u200bMonday as expectations of \u200ba swift resolution to the Middle East conflict \u200bfaded following the breakdown of U.S.-Iran negotiations and Washington's decision to impose a blockade around the Strait of Hormuz.",
+    "image": "https://img.etimg.com/photo/msid-130231770,imgsize-10428.cms",
     "source": "ET",
-    "pubDate": "Mon, 13 Apr 2026 11:12:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/om-power-transmission-ipo-day-3-subscribed-over-80-gmp-and-key-details/articleshow/130226167.cms"
+    "pubDate": "Mon, 13 Apr 2026 14:25:14 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-slip-as-middle-east-talks-collapse-naval-blockade-looms/articleshow/130231770.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slump-after-us-iran-peace-talks-falter/articleshow/130226065.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/bank-stocks-vs-consumer-discretionary-sunil-subramaniams-top-watchlist-for-the-summer-season/articleshow/130231752.cms",
     "category": "finance",
-    "title": "India bonds slump after US-Iran peace talks falter",
-    "summary": "Indian government bonds experienced a significant downturn Monday as failed U.S.-Iran peace talks sent oil prices soaring. This \"risk-off\" sentiment impacted the rupee and the Nifty 50, reflecting concerns over inflation and growth. Traders noted a r",
-    "image": "https://img.etimg.com/photo/msid-130226065,imgsize-87352.cms",
+    "title": "Bank stocks vs consumer discretionary: Sunil Subramaniam\u2019s top watchlist for the summer season",
+    "summary": "Market expert Sunil Subramaniam warns the bottom is yet to be established amid geopolitical tensions and Trump-induced volatility. He notes DIIs are holding back deployment ahead of a crucial earnings season, with flows turning cautious. Investors sh",
+    "image": "https://img.etimg.com/photo/msid-130231752,imgsize-1119697.cms",
     "source": "ET",
-    "pubDate": "Mon, 13 Apr 2026 11:06:01 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slump-after-us-iran-peace-talks-falter/articleshow/130226065.cms"
+    "pubDate": "Mon, 13 Apr 2026 14:23:24 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/bank-stocks-vs-consumer-discretionary-sunil-subramaniams-top-watchlist-for-the-summer-season/articleshow/130231752.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/tata-chemicals-tata-investment-corp-shares-rally-up-to-12-amid-tata-sons-ipo-buzz/articleshow/130225823.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/japanese-shares-end-lower-as-us-iran-talks-falter-naval-blockade-looms/articleshow/130231657.cms",
     "category": "finance",
-    "title": "Tata Chemicals, Tata Investment Corp shares rally up to 12% amid Tata Sons IPO buzz",
-    "summary": "Shares of Tata Chemicals and Tata Investment Corporation rose sharply on Monday amid growing buzz around a potential Tata Sons IPO. Support from key Tata Trusts members and stakeholders has raised expectations of value unlocking and improved governan",
-    "image": "https://img.etimg.com/photo/msid-130225823,imgsize-1036500.cms",
+    "title": "Japanese shares end lower as US-Iran talks falter, naval blockade looms",
+    "summary": "Japanese shares ended lower on Monday \u200bas the U.S.-Iran peace talks \u200bcollapsed over the weekend and the American Navy prepared a \u200bblockade on Iranian ports, casting fresh doubts about the durability of an ongoing ceasefire.",
+    "image": "https://img.etimg.com/photo/msid-130231657,imgsize-133008.cms",
     "source": "ET",
-    "pubDate": "Mon, 13 Apr 2026 10:53:15 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-chemicals-tata-investment-corp-shares-rally-up-to-12-amid-tata-sons-ipo-buzz/articleshow/130225823.cms"
+    "pubDate": "Mon, 13 Apr 2026 14:20:14 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japanese-shares-end-lower-as-us-iran-talks-falter-naval-blockade-looms/articleshow/130231657.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/serial-killer-who-targeted-women-living-alone-arrested-in-andhra-pradesh-11350081#publisher=newsstand",
+    "category": "india",
+    "title": "Serial Killer, Who Targeted Women Living Alone, Arrested In Andhra Pradesh",
+    "summary": "The notorious killer had been living under a carefully constructed fake identity.",
+    "image": "https://c.ndtvimg.com/2026-04/4bkbkl74_serial-killer_625x300_13_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 13 Apr 2026 13:30:35 +0530",
+    "link": "https://www.ndtv.com/india-news/serial-killer-who-targeted-women-living-alone-arrested-in-andhra-pradesh-11350081#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/is-okra-water-good-for-diabetics-impact-on-blood-sugar-levels-explained-11341831#publisher=newsstand",
+    "category": "india",
+    "title": "Is Okra Water Good For Diabetics? Impact On Blood Sugar Levels Explained",
+    "summary": "Okra water is rich in Vitamin C, K, magnesium, and folate",
+    "image": "https://c.ndtvimg.com/2026-04/1qg9m7bc_okra-water_625x300_11_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 13 Apr 2026 13:30:13 +0530",
+    "link": "https://www.ndtv.com/health/is-okra-water-good-for-diabetics-impact-on-blood-sugar-levels-explained-11341831#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/army-officer-son-assaulted-in-delhi-over-public-drinking-row-11350068#publisher=newsstand",
+    "category": "india",
+    "title": "Army Officer, Son Assaulted In Delhi Over Public Drinking Row",
+    "summary": "The accused who was allegedly drinking in his car in a Delhi neighbourhood",
+    "image": "https://c.ndtvimg.com/2026-04/gcmh7cbk_accused_625x300_13_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 13 Apr 2026 13:28:45 +0530",
+    "link": "https://www.ndtv.com/india-news/army-officer-son-assaulted-in-delhi-over-public-drinking-row-11350068#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/ghaziabad-news/ghaziabad-indirapuram-burglar-trapped-between-shutter-and-wall-during-clinic-break-in-11349529#publisher=newsstand",
+    "category": "india",
+    "title": "Thief Trapped Between Shutter And Wall During Clinic Break-In In Ghaziabad",
+    "summary": "A minor burglar got trapped between a clinic shutter and wall in Ghaziabad and was rescued by officials.",
+    "image": "https://c.ndtvimg.com/2026-04/aqdf90p4_ghaziabad-news_625x300_11_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 13 Apr 2026 13:28:38 +0530",
+    "link": "https://www.ndtv.com/ghaziabad-news/ghaziabad-indirapuram-burglar-trapped-between-shutter-and-wall-during-clinic-break-in-11349529#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-13-april-us-iran-israel-war-oil-prices-donald-trump-11348859#publisher=newsstand",
+    "category": "india",
+    "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 750 Points, Nifty Down 230 As Oil Prices Hit $102",
+    "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates: Markets opened in red on Monday.",
+    "image": "https://c.ndtvimg.com/2026-03/kabt9jls_stock-market-crash-_625x300_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 13 Apr 2026 13:23:43 +0530",
+    "link": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-13-april-us-iran-israel-war-oil-prices-donald-trump-11348859#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/iiser-iat-registration-2026-ends-today-heres-how-to-apply-check-direct-application-link-11349999#publisher=newsstand",
+    "category": "india",
+    "title": "IISER IAT Registration 2026: Ends Today, Here's How To Apply",
+    "summary": "IISER IAT 2026 Application Form: Check Direct Link Here",
+    "image": "https://c.ndtvimg.com/2026-04/92p2532g_as_625x300_13_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 13 Apr 2026 13:21:50 +0530",
+    "link": "https://www.ndtv.com/education/iiser-iat-registration-2026-ends-today-heres-how-to-apply-check-direct-application-link-11349999#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/jharkhand-excise-recruitment-exam-159-candidates-held-over-paper-leak-allegations-11350028#publisher=newsstand",
+    "category": "india",
+    "title": "Jharkhand Excise Recruitment Exam: 159 Candidates Held Over Paper Leak Allegations",
+    "summary": "JSSC Chairman Prashant Kumar said over 159 students were arrested. (Representative Image)",
+    "image": "https://c.ndtvimg.com/2023-05/lmmoldqk_exam-generic-ani-board-exam-generic-ani_625x300_13_May_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 13 Apr 2026 13:20:35 +0530",
+    "link": "https://www.ndtv.com/education/jharkhand-excise-recruitment-exam-159-candidates-held-over-paper-leak-allegations-11350028#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/ambedkar-jayanti-2026-date-history-significance-and-key-facts-11349809#publisher=newsstand",
+    "category": "india",
+    "title": "Ambedkar Jayanti 2026: Date, History, Significance And Key Facts",
+    "summary": "Dr. Ambedkar became the first Dalit to receive a doctorate in economics abroad.",
+    "image": "https://c.ndtvimg.com/2026-04/mt5usafo_ambedkar-jayanti-2026-celebration-in-mp_625x300_08_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 13 Apr 2026 13:20:13 +0530",
+    "link": "https://www.ndtv.com/offbeat/ambedkar-jayanti-2026-date-history-significance-and-key-facts-11349809#publisher=newsstand"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cp841y07w5xo#0",
+    "category": "global",
+    "title": "Pope says he will 'speak out loudly' against war after Trump criticism",
+    "summary": "The US president accuses Leo of being \"weak on crime and terrible for foreign policy\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 13 Apr 2026 09:50:38 GMT",
+    "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1531771.html",
+    "category": "sports",
+    "title": "ILT20 Season 5 to run from November 22 to December 20",
+    "summary": "The ILT20 has been moved to an even earlier window this year after being played in December-January the last time",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/411400/411416.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 13 Apr 2026 09:45:16 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531771.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1531638.html",
+    "category": "sports",
+    "title": "Abbas, Chappell leave hosts reeling as Derbyshire eye rare Old Trafford win",
+    "summary": "Lancashire grateful for Marcus Harris' second significant score as they seek to set testing target",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415500/415598.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 13 Apr 2026 09:44:37 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531638.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1531662.html",
+    "category": "sports",
+    "title": "Prasidh Krishna leads Purple Cap race at IPL 2026 after four-wicket haul",
+    "summary": "Rajat Patidar and Virat Kohli, meanwhile, are up in the top five of the Orange Cap table. Here's how things stand after Sunday's double-header at IPL 2026",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415500/415562.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 13 Apr 2026 09:00:54 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531662.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1531671.html",
+    "category": "sports",
+    "title": "Krunal keeps himself 'one step ahead' of batters despite massive odds",
+    "summary": "\"As a bowler, I always want to be one step ahead with the skill set as well as with the mental battle,\" Krunal Pandya says after playing a key role in RCB's win over MI",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415500/415599.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 13 Apr 2026 08:56:14 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531671.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1531692.html",
+    "category": "sports",
+    "title": "Swanepoel gets NOC from CSA but still faces disciplinary action",
+    "summary": "South African fast bowler Beyers Swanepoel is now expected to be available for Worcestershire's next match, at home against Kent from April 24",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415074.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 13 Apr 2026 08:48:12 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531692.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c624vezv52do#0",
+    "category": "global",
+    "title": "Deep-fried food and daily sausage rolls banned in new school dinner plans",
+    "summary": "Schools are being told to cut down on sugary desserts, and provide more vegetables and whole grains.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 13 Apr 2026 08:36:55 GMT",
+    "link": "https://www.bbc.com/news/articles/c624vezv52do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn0wzxqyx17o#0",
+    "category": "global",
+    "title": "Katya Adler: Celebration in Budapest, relief in Brussels but a blow for Moscow",
+    "summary": "European leaders share Hungarians' joy over the ousting of Vladimir Putin's EU ally, writes the BBC's Europe editor.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 13 Apr 2026 08:28:35 GMT",
+    "link": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1531652.html",
@@ -280,26 +340,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1531657.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c624vezv52do#0",
-    "category": "global",
-    "title": "Deep-fried food banned in new plans for school dinners",
-    "summary": "Schools are being told to cut down on sugary desserts, and provide more vegetables and whole grains.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 13 Apr 2026 06:56:23 GMT",
-    "link": "https://www.bbc.com/news/articles/c624vezv52do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c77mezv330lo#0",
-    "category": "global",
-    "title": "PM to scrap spy chiefs' Hillsborough Law veto",
-    "summary": "Security chiefs will not be able to block spies from giving evidence to future public inquiries.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 13 Apr 2026 06:53:35 GMT",
-    "link": "https://www.bbc.com/news/articles/c77mezv330lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c937jkvp3w8o#0",
     "category": "global",
     "title": "UK could adopt EU single market rules under new legislation",
@@ -318,46 +358,6 @@
     "source": "BBC",
     "pubDate": "Mon, 13 Apr 2026 06:25:29 GMT",
     "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531692.html",
-    "category": "sports",
-    "title": "Swanepoel gets NOC from CSA but still faces disciplinary action",
-    "summary": "South African fast bowler Beyers Swanepoel is now expected to be available for Worcestershire's next match, at home against Kent from April 24",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415074.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 13 Apr 2026 06:23:00 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531692.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531671.html",
-    "category": "sports",
-    "title": "Krunal keeps himself 'one step ahead' of batters despite massive odds",
-    "summary": "\"As a bowler, I always want to be one step ahead with the skill set as well as with the mental battle,\" Krunal Pandya says after playing a key role in RCB's win over MI",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415500/415599.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 13 Apr 2026 04:51:43 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531671.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy81lg4yzeyo#0",
-    "category": "global",
-    "title": "Viktor Orb\u00e1n's Hungarian experiment runs out of steam",
-    "summary": "P\u00e9ter Magyar's historic win offers peace for a country exhausted by the tensions of Viktor Orb\u00e1n's rule,  Nick Thorpe reports from Budapest.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 13 Apr 2026 01:58:32 GMT",
-    "link": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531662.html",
-    "category": "sports",
-    "title": "Prasidh Krishna leads Purple Cap race at IPL 2026 after four-wicket haul",
-    "summary": "Rajat Patidar and Virat Kohli, meanwhile, are up in the top five of the Orange Cap table. Here's how things stand after Sunday's double-header at IPL 2026",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415500/415562.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 13 Apr 2026 01:45:15 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531662.html?ex_cid=OTC-RSS"
   },
   {
     "id": "7EaNv4Ip2AUlW9RClUv2cB",
