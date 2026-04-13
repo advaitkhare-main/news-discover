@@ -30,16 +30,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c78rjxj19mno#0",
-    "category": "global",
-    "title": "Rachel Zegler's heroes, prizes for Paddington and more moments from the Olivier Awards",
-    "summary": "The 50th Oliviers at the Royal Albert Hall provided some memorable conversations away from the ceremony.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 12 Apr 2026 22:13:28 GMT",
-    "link": "https://www.bbc.com/news/articles/c78rjxj19mno?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -50,24 +40,124 @@
     "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-iran-israel-war-live-updates-us-blockade-iranian-ships-in-strait-of-hormuz-us-iran-failed-peace-talks-ghalibaf-jd-vance-trump-iran-war-israel-11348832#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-ipo-hopefuls-forge-ahead-with-listing-plans-amid-market-swings/articleshow/130241853.cms",
+    "category": "finance",
+    "title": "US IPO hopefuls forge ahead with listing plans amid market swings",
+    "summary": "Companies across sectors have resumed IPO roadshows despite Middle East tensions, signalling pent-up demand in the pipeline. Analysts expect listings to pick up if volatility eases, with improving valuations and lower VIX supporting sentiment. 2026 i",
+    "image": "https://img.etimg.com/photo/msid-130241853,imgsize-1415912.cms",
+    "source": "ET",
+    "pubDate": "Mon, 13 Apr 2026 21:48:55 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-ipo-hopefuls-forge-ahead-with-listing-plans-amid-market-swings/articleshow/130241853.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-shares-jump-12-on-deal-with-anthropic-stock-surges-40-in-unbeaten-five-session-rally/articleshow/130241485.cms",
+    "category": "finance",
+    "title": "CoreWeave shares jump 12% on deal with Anthropic; stock surges 40% in unbeaten five-session rally",
+    "summary": "CoreWeave shares surged after a multi-year deal with Anthropic to power Claude AI models, extending a five-session rally. The agreement boosts its position in AI infrastructure as demand for large-scale compute accelerates globally.",
+    "image": "https://img.etimg.com/photo/msid-130241485,imgsize-16424.cms",
+    "source": "ET",
+    "pubDate": "Mon, 13 Apr 2026 21:30:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-shares-jump-12-on-deal-with-anthropic-stock-surges-40-in-unbeaten-five-session-rally/articleshow/130241485.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/j-p-morgan-morgan-stanley-urge-buying-the-dip-as-us-earnings-stay-resilient/articleshow/130241179.cms",
+    "category": "finance",
+    "title": "J.P.Morgan, Morgan Stanley urge buying the dip as US earnings stay resilient",
+    "summary": "Wall Street brokerages J.P. Morgan and Morgan Stanley see recent market weakness as a buying opportunity, backed by resilient earnings growth. Despite Middle East tensions, the S&amp;P 500 has rebounded from March lows, with strategists viewing the p",
+    "image": "https://img.etimg.com/photo/msid-130241179,imgsize-90742.cms",
+    "source": "ET",
+    "pubDate": "Mon, 13 Apr 2026 21:17:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/j-p-morgan-morgan-stanley-urge-buying-the-dip-as-us-earnings-stay-resilient/articleshow/130241179.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/assembly-elections-west-bengal-assam-tamil-nadu-puducherry-live-updates-the-numbers-game-with-rahul-kanwal-11352193#publisher=newsstand",
     "category": "india",
-    "title": "US-Iran-Israel War LIVE Updates: Deadline Ends For Trump's Hormuz Naval Blockade, Iranian Ports",
-    "summary": "US-Iran News: US will implement the blockade today around 7:30 pm IST.",
-    "image": "https://c.ndtvimg.com/2026-04/b9eaa4s8_strait-of-hormuz_625x300_11_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Highlights: The Numbers Game With Rahul Kanwal: Decoding Tamil Nadu Elections",
+    "summary": "Catch the most insightful election analysis only on The Numbers Game with Rahul Kanwal.",
+    "image": "https://c.ndtvimg.com/2026-04/0vempp6c_the-numbers-game-_625x300_13_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 19:46:26 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-israel-war-live-updates-us-blockade-iranian-ships-in-strait-of-hormuz-us-iran-failed-peace-talks-ghalibaf-jd-vance-trump-iran-war-israel-11348832#publisher=newsstand"
+    "pubDate": "Mon, 13 Apr 2026 20:53:03 +0530",
+    "link": "https://www.ndtv.com/india-news/assembly-elections-west-bengal-assam-tamil-nadu-puducherry-live-updates-the-numbers-game-with-rahul-kanwal-11352193#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/lic-announces-11-bonus-issue-check-details/articleshow/130240698.cms",
+    "category": "finance",
+    "title": "LIC announces 1:1 bonus issue, first since listing. Check details",
+    "summary": "State-owned insurer LIC's board has approved a 1:1 bonus share issue, granting one additional share for every share held on the record date. This move will be funded by capitalizing Rs 6,325 crore from reserves by December 2025 and is expected to be ",
+    "image": "https://img.etimg.com/photo/msid-130240698,imgsize-123232.cms",
+    "source": "ET",
+    "pubDate": "Mon, 13 Apr 2026 20:46:39 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/lic-announces-11-bonus-issue-check-details/articleshow/130240698.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-shares-fall-5-despite-19-yoy-earnings-growth-amid-wall-street-gloom/articleshow/130240531.cms",
+    "category": "finance",
+    "title": "Goldman Sachs shares fall 5% despite 19% YoY earnings growth amid Wall Street gloom",
+    "summary": "Goldman Sachs shares dropped nearly 5% despite strong Q1 results, as geopolitical tensions and market volatility weighed on sentiment. Revenue, profit, and trading performance improved year-on-year, but broader uncertainty pressured the stock.",
+    "image": "https://img.etimg.com/photo/msid-130240531,imgsize-1723618.cms",
+    "source": "ET",
+    "pubDate": "Mon, 13 Apr 2026 20:36:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-shares-fall-5-despite-19-yoy-earnings-growth-amid-wall-street-gloom/articleshow/130240531.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/hidden-hormone-disorder-affecting-your-heart-doctors-warn-11352330#publisher=newsstand",
+    "category": "india",
+    "title": "Hidden Hormone Disorder Affecting Your Heart? Doctors Warn",
+    "summary": "Heart health is not just about arteries and cholesterol levels",
+    "image": "https://c.ndtvimg.com/2026-03/hb5ibe8g_heart-attack_625x300_27_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 13 Apr 2026 20:32:07 +0530",
+    "link": "https://www.ndtv.com/health/hidden-hormone-disorder-affecting-your-heart-doctors-warn-11352330#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/patanjali-foods-board-to-meet-on-april-21-to-consider-second-interim-dividend-q4-earnings/articleshow/130240302.cms",
+    "category": "finance",
+    "title": "Patanjali Foods board to meet on April 21 to consider second interim dividend, Q4 earnings",
+    "summary": "Patanjali Foods will consider a second interim dividend for FY26 on April 21, alongside March quarter results. The stock remains under pressure, trading below key averages and down sharply over the past year.",
+    "image": "https://img.etimg.com/photo/msid-130240302,imgsize-1100108.cms",
+    "source": "ET",
+    "pubDate": "Mon, 13 Apr 2026 20:25:09 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/patanjali-foods-board-to-meet-on-april-21-to-consider-second-interim-dividend-q4-earnings/articleshow/130240302.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/telangana-higher-education-council-releases-dost-2026-notification-for-undergraduate-admissions-11352252#publisher=newsstand",
+    "category": "india",
+    "title": "Telangana Higher Education Council Releases DOST 2026 Notification For Undergraduate Admissions",
+    "summary": "Students can choose their preferred college and course aligning with their future career plans.",
+    "image": "https://i.ndtvimg.com/i/2017-06/students_650x400_61496744807.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 13 Apr 2026 20:10:47 +0530",
+    "link": "https://www.ndtv.com/education/telangana-higher-education-council-releases-dost-2026-notification-for-undergraduate-admissions-11352252#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/after-850-job-rejections-indian-engineers-microsoft-success-story-wins-internet-11352170#publisher=newsstand",
+    "category": "india",
+    "title": "After 850 Job Rejections, Indian Engineer's Microsoft Success Story Wins Internet",
+    "summary": "His story highlights the importance of hard work.",
+    "image": "https://c.ndtvimg.com/2026-04/3la0u8r4_deergh-kataria_625x300_13_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 13 Apr 2026 19:54:54 +0530",
+    "link": "https://www.ndtv.com/offbeat/after-850-job-rejections-indian-engineers-microsoft-success-story-wins-internet-11352170#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/us-iran-war-pakistan-peace-talks-collapse-islamabad-peacemaker-moment-crumbles-what-now-for-pak-11352107#publisher=newsstand",
     "category": "india",
     "title": "Pakistan's Big Peace Bet Backfires After US Iran Talks Collapse. What Now?",
     "summary": "Pak's bid to broker USIran peace collapsed, exposing limits of its peacemaker role and now, with no clear path forward, has three options - behindthescenes diplomacy, regional containment, or trying to leverage its mediatory brand despite failure.",
-    "image": "https://c.ndtvimg.com/2026-04/p3sqios_trump-mojtaba-iran-war_650x400_09_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "image": "https://c.ndtvimg.com/2026-04/p3sqios_trump-mojtaba-iran-war_650x400_09_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 19:43:48 +0530",
+    "pubDate": "Mon, 13 Apr 2026 19:53:50 +0530",
     "link": "https://www.ndtv.com/world-news/us-iran-war-pakistan-peace-talks-collapse-islamabad-peacemaker-moment-crumbles-what-now-for-pak-11352107#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-iran-israel-war-live-updates-us-blockade-iranian-ships-in-strait-of-hormuz-us-iran-failed-peace-talks-ghalibaf-jd-vance-trump-iran-war-israel-11348832#publisher=newsstand",
+    "category": "india",
+    "title": "US-Iran-Israel War LIVE Updates: Deadline Ends For Trump's Hormuz Naval Blockade, Iranian Ports",
+    "summary": "US-Iran News: US will implement the blockade today around 7:30 pm IST.",
+    "image": "https://c.ndtvimg.com/2026-04/b9eaa4s8_strait-of-hormuz_625x300_11_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 13 Apr 2026 19:49:04 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-israel-war-live-updates-us-blockade-iranian-ships-in-strait-of-hormuz-us-iran-failed-peace-talks-ghalibaf-jd-vance-trump-iran-war-israel-11348832#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/iran-us-war-benjamin-netanyahu-donald-trump-pakistan-high-above-skies-of-islamabad-a-call-was-made-to-netanyahu-what-was-said-11351724#publisher=newsstand",
@@ -90,46 +180,6 @@
     "link": "https://www.ndtv.com/world-news/israel-iran-war-nato-allies-refuse-to-join-trumps-strait-of-hormuz-blockade-plan-11351990#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/the-complex-role-of-hezbollah-as-lebanon-israel-diplomacy-intensifies-11351565#publisher=newsstand",
-    "category": "india",
-    "title": "The Complex Role Of Hezbollah As Lebanon-Israel Diplomacy Intensifies",
-    "summary": "Hezbollah entered the US-Israel-Iran war as an ally of Tehran on the 2nd of March.",
-    "image": "https://c.ndtvimg.com/2026-03/kloe5aos_hezbollah-_625x300_21_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 19:22:01 +0530",
-    "link": "https://www.ndtv.com/world-news/the-complex-role-of-hezbollah-as-lebanon-israel-diplomacy-intensifies-11351565#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/india-to-lead-global-pharma-landscape-with-innovation-driven-approach-minister-11351747#publisher=newsstand",
-    "category": "india",
-    "title": "India To Lead Global Pharma Landscape With Innovation-Driven Approach: Minister",
-    "summary": "India shifts from generics giant to biopharma innovation hub",
-    "image": "https://c.ndtvimg.com/2026-02/u0kaf79g_jp-nadda_625x300_17_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 19:20:15 +0530",
-    "link": "https://www.ndtv.com/health/india-to-lead-global-pharma-landscape-with-innovation-driven-approach-minister-11351747#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/burnt-body-to-remove-worms-a-brothers-chilling-confession-in-dhanbad-11351783#publisher=newsstand",
-    "category": "india",
-    "title": "The Dhanbad Bathroom Horror: Two Brothers, One Dead Sister",
-    "summary": "Lipika Kumari was in a state of depression, one of the brothers said",
-    "image": "https://c.ndtvimg.com/2026-04/2mt8dus4_dhanbad-_625x300_13_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 19:16:57 +0530",
-    "link": "https://www.ndtv.com/india-news/burnt-body-to-remove-worms-a-brothers-chilling-confession-in-dhanbad-11351783#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/stress-sleep-and-sugar-dermatologist-shares-the-lifestyle-triggers-behind-sudden-acne-in-30s-and-40s-11351886#publisher=newsstand",
-    "category": "india",
-    "title": "Stress, Sleep And Sugar: Dermatologist Shares The Lifestyle Triggers Behind Sudden Acne In 30s And 40s",
-    "summary": "Dermatologist Gurveen Waraich outlines 5 real reasons for acne despite the absence of any medical issues.",
-    "image": "https://c.ndtvimg.com/2025-05/briljlq8_acne_625x300_23_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 19:16:12 +0530",
-    "link": "https://www.ndtv.com/health/stress-sleep-and-sugar-dermatologist-shares-the-lifestyle-triggers-behind-sudden-acne-in-30s-and-40s-11351886#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-subdued-at-open-as-failed-us-iran-talks-unsettle-investors/articleshow/130238638.cms",
     "category": "finance",
     "title": "US stocks today: Dow falls over 300 points as failed US-Iran talks unsettle investors",
@@ -150,64 +200,64 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-pru-amc-q4-results-profit-rises-10-yoy-to-rs-763-cr-co-declares-rs-12-4-dividend/articleshow/130237894.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-india-among-4-midcap-stocks-that-hit-52-week-high-rally-up-to-17-in-a-month/slideshow/130237291.cms",
-    "category": "finance",
-    "title": "MCX India among 4 midcap stocks that hit 52-week high; rally up to 17% in a month",
-    "summary": "Four BSE 150 Midcap Index stocks, including MCX India, hit 52-week highs even as the broader market fell, with gains of up to 17% in a month, signalling strong momentum in select midcap counters.",
-    "image": "https://img.etimg.com/photo/msid-130237188,imgsize-162268.cms",
-    "source": "ET",
-    "pubDate": "Mon, 13 Apr 2026 18:06:47 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-india-among-4-midcap-stocks-that-hit-52-week-high-rally-up-to-17-in-a-month/slideshow/130237291.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1531840.html",
+    "category": "sports",
+    "title": "Who is Praful Hinge, who started his IPL career with a triple-wicket over?",
+    "summary": "The 24-year-old fast bowler from Vidarbha idolises Pat Cummins and is also inspired by Umesh Yadav",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415600/415628.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 13 Apr 2026 16:54:58 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531840.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-trim-losses-as-soft-cpi-spurs-value-buying/articleshow/130237111.cms",
-    "category": "finance",
-    "title": "India bonds trim losses as soft CPI spurs value buying",
-    "summary": "Indian government bonds trimmed \u200bmost of their losses \u200bon Monday, as softer-than-expected inflation data drew in \u200blate-session buyers, tempering concerns over price pressures following oil's surge after the collapse of the U.S.-Iran peace talks.",
-    "image": "https://img.etimg.com/photo/msid-130237111,imgsize-87352.cms",
-    "source": "ET",
-    "pubDate": "Mon, 13 Apr 2026 18:05:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-trim-losses-as-soft-cpi-spurs-value-buying/articleshow/130237111.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1531825.html",
+    "category": "sports",
+    "title": "ICC increases total prize pool for Women's T20 World Cup by 10%",
+    "summary": "The increase stems largely from the expansion from a 10 to 12-team competition, and an increase in group-stage matches from 20 to 30",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414342.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 13 Apr 2026 16:42:45 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531825.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-carl-icahn-in-takeovers-the-metaphor-is-war-the-secret-is-reserves-you-must-have-reserves-stretched-way-out-ahead-/articleshow/130236625.cms",
-    "category": "finance",
-    "title": "Quote of the day by Carl Icahn: \"In takeovers, the metaphor is war. The secret is reserves. You must have reserves stret",
-    "summary": "Carl Icahn's \"war chest\" analogy highlights that sustained success in investing, particularly in takeovers, hinges on having ample \"reserves.\" This principle extends to broader market investing, where liquidity and psychological resilience are crucia",
-    "image": "https://img.etimg.com/photo/msid-130236625,imgsize-204984.cms",
-    "source": "ET",
-    "pubDate": "Mon, 13 Apr 2026 17:51:01 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-carl-icahn-in-takeovers-the-metaphor-is-war-the-secret-is-reserves-you-must-have-reserves-stretched-way-out-ahead-/articleshow/130236625.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1531833.html",
+    "category": "sports",
+    "title": "Dhoni hits Chepauk nets but his recovery continues to stretch",
+    "summary": "He faced throwdowns from the support staff and didn't keep wicket ahead of CSK's fixture against KKR",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415494.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 13 Apr 2026 16:41:47 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531833.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-war-israel-ceasefire-talks-fail-ports-barricade-brent-crude-oil-stock-price-news/liveblog/130236460.cms",
-    "category": "finance",
-    "title": "US Stock Market Today | Dow Jones | Nasdaq Live: Dow falls over 300 points at open as failed US-Iran talks unsettle inve",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-130236460,imgsize-2373412.cms",
-    "source": "ET",
-    "pubDate": "Mon, 13 Apr 2026 17:42:41 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-war-israel-ceasefire-talks-fail-ports-barricade-brent-crude-oil-stock-price-news/liveblog/130236460.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1531810.html",
+    "category": "sports",
+    "title": "Smith, Pope continue strong form as Surrey secure high-scoring draw",
+    "summary": "Soporific batting surface has the last word in a match of 1,474 runs and only 24 wickets",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415467.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 13 Apr 2026 16:35:32 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531810.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sumitomo-corp-jv-firm-krisumi-to-invest-rs-4500-cr-on-housing-project-in-gurugram/articleshow/130236383.cms",
-    "category": "finance",
-    "title": "Sumitomo Corp JV firm Krisumi to invest Rs 4,500 cr on housing project in Gurugram",
-    "summary": "Realty firm Krisumi Corporation Ltd, a joint venture between Japan's Sumitomo Corporation and Krishna Group, will further invest around Rs 4,500 crore over the next 6-7 years on its ongoing 33.5 acre luxury housing project in Gurugram.",
-    "image": "https://img.etimg.com/photo/msid-130236383,imgsize-52440.cms",
-    "source": "ET",
-    "pubDate": "Mon, 13 Apr 2026 17:42:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sumitomo-corp-jv-firm-krisumi-to-invest-rs-4500-cr-on-housing-project-in-gurugram/articleshow/130236383.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1531786.html",
+    "category": "sports",
+    "title": "Notts bank first win despite Crane's resistance for Glamorgan",
+    "summary": "Liam Patterson-White takes three as reigning champions overcome newcomers on last day",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415350.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 13 Apr 2026 16:15:20 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531786.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/rmz-to-invest-usd-35bn-to-build-digital-infra-housing-commercial-projects-exploring-ipo/articleshow/130236340.cms",
-    "category": "finance",
-    "title": "RMZ to invest USD 35bn to build digital infra, housing, commercial projects, exploring IPO",
-    "summary": "Realty firm RMZ on Monday said it plans to invest USD 35 billion over the next five years to develop data centres, AI factories, commercial assets and housing projects and is also considering launching an Initial Public Offering (IPO).",
-    "image": "https://img.etimg.com/photo/msid-130236340,imgsize-133644.cms",
-    "source": "ET",
-    "pubDate": "Mon, 13 Apr 2026 17:38:36 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/rmz-to-invest-usd-35bn-to-build-digital-infra-housing-commercial-projects-exploring-ipo/articleshow/130236340.cms"
+    "id": "https://www.bbc.com/news/articles/crl141ern74o#0",
+    "category": "global",
+    "title": "Ex-Nigerian oil minister denies taking bribes",
+    "summary": "Diezani Alison-Madueke is accused of living \u201ca life of luxury\u201d in the UK at properties paid for and refurbished by industry figures.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 13 Apr 2026 16:05:59 GMT",
+    "link": "https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1531787.html",
@@ -218,6 +268,16 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 13 Apr 2026 14:44:22 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1531787.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cedeze6w5wqo#0",
+    "category": "global",
+    "title": "Man who threw girlfriend from tower block jailed",
+    "summary": "Jordan Herring, 22, is jailed for five years following the attack in November 2022.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 13 Apr 2026 14:38:16 GMT",
+    "link": "https://www.bbc.com/news/articles/cedeze6w5wqo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c995j57xepmo#0",
@@ -250,16 +310,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1531785.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531814.html",
-    "category": "sports",
-    "title": "RR opt to bowl against SRH; both teams make two changes",
-    "summary": "Lhuan-dre Pretorius and Tushar Deshpande came in for RR, while SRH included Sakib Hussain and Praful Hinge",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415600/415614.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 13 Apr 2026 14:05:20 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531814.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c239zz1m324o#0",
     "category": "global",
     "title": "Five key failures of killer's parents and agencies ahead of Southport attack",
@@ -270,39 +320,9 @@
     "link": "https://www.bbc.com/news/articles/c239zz1m324o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531807.html",
-    "category": "sports",
-    "title": "Venues for both matches between CSK and GT in IPL 2026 swapped",
-    "summary": "The IPL said the reason for the swap was the \"municipal corporation elections in Ahmedabad and other parts of Gujarat\" on April 26",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/401000/401088.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 13 Apr 2026 13:46:23 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531807.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531804.html",
-    "category": "sports",
-    "title": "CSK host out-of-form KKR in battle of stragglers",
-    "summary": "CSK have one win in four games, while KKR are yet to taste victory with three defeats and one no-result",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415497.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 13 Apr 2026 13:40:40 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531804.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531796.html",
-    "category": "sports",
-    "title": "Van Niekerk, Kapp to miss home T20Is against India",
-    "summary": "It is expected that, if fit, van Niekerk will be considered for selection for the T20 World Cup, which starts on June 12",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/358500/358512.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 13 Apr 2026 13:28:31 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531796.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cn897e8280do#0",
     "category": "global",
-    "title": "EasyJet passengers describe EU border 'nightmare'",
+    "title": "EasyJet passengers describe EU border 'nightmare' after flight leaves without them",
     "summary": "Airlines warn of further disruption due to the introduction of a new EU digital border control system.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -310,14 +330,14 @@
     "link": "https://www.bbc.com/news/articles/cn897e8280do?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531792.html",
-    "category": "sports",
-    "title": "Tim David fined by IPL for 'disobeying umpire's instructions' twice",
-    "summary": "MI captain Hardik Pandya also receives INR 12 lakh fine for maintaining a slow over-rate on Sunday",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415329.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 13 Apr 2026 12:54:07 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531792.html?ex_cid=OTC-RSS"
+    "id": "https://www.bbc.com/news/articles/cp841y07w5xo#0",
+    "category": "global",
+    "title": "Pope says he has 'no fear' of Trump after scathing criticism",
+    "summary": "The US president accuses Leo of being \"weak on crime and terrible for foreign policy\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 13 Apr 2026 12:50:30 GMT",
+    "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c0rxj4yygdwo#0",
@@ -338,26 +358,6 @@
     "source": "BBC",
     "pubDate": "Mon, 13 Apr 2026 11:03:12 GMT",
     "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c624vezv52do#0",
-    "category": "global",
-    "title": "Deep-fried food and daily sausage rolls banned in new school dinner plans",
-    "summary": "Schools are being told to cut down on sugary desserts, and provide more vegetables and whole grains.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 13 Apr 2026 08:36:55 GMT",
-    "link": "https://www.bbc.com/news/articles/c624vezv52do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/sport/golf/articles/cz78ge3g77qo#0",
-    "category": "global",
-    "title": "Where does McIlroy rank among golf's greats after Masters defence?",
-    "summary": "Rory McIlroy has added a rare Masters defence to the career Grand Slam - now he is aiming to keep climbing the all-time list of major victories.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 13 Apr 2026 04:16:11 GMT",
-    "link": "https://www.bbc.com/sport/golf/articles/cz78ge3g77qo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "7EaNv4Ip2AUlW9RClUv2cB",
