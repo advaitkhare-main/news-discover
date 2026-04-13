@@ -10,6 +10,36 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
+    "id": "https://www.ndtv.com/world-news/us-considers-another-round-of-talks-with-iran-as-ceasefire-deadline-looms-11353536#publisher=newsstand",
+    "category": "india",
+    "title": "US Considers Another Round Of Talks With Iran As Ceasefire Deadline Looms",
+    "summary": "Geneva and Islamabad are again being discussed as potential venues for another round of negotiations.",
+    "image": "https://c.ndtvimg.com/2026-04/sro4uomc_jd-vance-islamabad-talks_625x300_14_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 14 Apr 2026 03:59:00 +0530",
+    "link": "https://www.ndtv.com/world-news/us-considers-another-round-of-talks-with-iran-as-ceasefire-deadline-looms-11353536#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/north-korea-tests-cruise-anti-ship-missiles-from-naval-destroyer-11353510#publisher=newsstand",
+    "category": "india",
+    "title": "North Korea Tests Cruise, Anti-Ship Missiles From Naval Destroyer",
+    "summary": "Kim Jong Un observed the test alongside senior defence officials and naval commanders, the report said.",
+    "image": "https://c.ndtvimg.com/2026-04/ljn0842_kim-jong-un_625x300_14_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Tue, 14 Apr 2026 03:29:35 +0530",
+    "link": "https://www.ndtv.com/world-news/north-korea-tests-cruise-anti-ship-missiles-from-naval-destroyer-11353510#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/noida-protest-police-say-outsiders-tried-to-incite-unrest-in-noida-11353482#publisher=newsstand",
+    "category": "india",
+    "title": "Police Say \"Outsiders\" Tried To Incite Unrest In Noida",
+    "summary": "Factory workers in Noida are protesting for higher wages.",
+    "image": "https://c.ndtvimg.com/2026-04/re9uq84s_noida-protest_625x300_13_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 14 Apr 2026 03:09:52 +0530",
+    "link": "https://www.ndtv.com/india-news/noida-protest-police-say-outsiders-tried-to-incite-unrest-in-noida-11353482#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-he-hasnt-spoken-with-xi-jinping-on-iran-war-11353410#publisher=newsstand",
     "category": "india",
     "title": "Trump Says He Hasn't Spoken With Xi Jinping On Iran War",
@@ -100,36 +130,6 @@
     "link": "https://www.ndtv.com/india-news/you-treat-muslims-like-cattle-asaduddin-owaisi-on-mamata-banerjee-11353020#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/pakistani-woman-shares-amazing-experience-of-10-hour-layover-in-mumbai-internet-reacts-11353188#publisher=newsstand",
-    "category": "india",
-    "title": "Pakistani Woman Shares \"Amazing\" Experience Of 10-Hour Layover In Mumbai, Internet Reacts",
-    "summary": "She was travelling from London To Nepal via Mumbai.",
-    "image": "https://c.ndtvimg.com/2026-04/bs35kt08_pakistani-woman_625x300_13_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 23:50:47 +0530",
-    "link": "https://www.ndtv.com/offbeat/pakistani-woman-shares-amazing-experience-of-10-hour-layover-in-mumbai-internet-reacts-11353188#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/adani-green-energy-achieves-highest-esg-score-among-indian-companies-11353177#publisher=newsstand",
-    "category": "india",
-    "title": "Adani Green Energy Achieves Highest ESG Score Among Indian Companies",
-    "summary": "The score places AGEL at the top among all Indian companies assessed by CareEdge-ESG.",
-    "image": "https://c.ndtvimg.com/2026-04/r1j66038_adani-green-_625x300_13_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 23:45:26 +0530",
-    "link": "https://www.ndtv.com/india-news/adani-green-energy-achieves-highest-esg-score-among-indian-companies-11353177#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/vijays-cycle-campaign-draws-eyeballs-in-tamil-nadu-critics-say-stunt-11353176#publisher=newsstand",
-    "category": "india",
-    "title": "Vijay's Cycle Campaign Draws Eyeballs In Tamil Nadu, Critics Say \"Stunt\"",
-    "summary": "Vijay's red-and-black bicycle also sparked political debate at the time.",
-    "image": "https://c.ndtvimg.com/2026-04/98n0etr_vijay-cycle-rally_625x300_13_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 13 Apr 2026 23:45:14 +0530",
-    "link": "https://www.ndtv.com/india-news/vijays-cycle-campaign-draws-eyeballs-in-tamil-nadu-critics-say-stunt-11353176#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/chevron-shell-to-sign-agreements-for-oil-gas-areas-in-venezuela-sources-say/articleshow/130242652.cms",
     "category": "finance",
     "title": "Chevron, Shell to sign agreements for oil, gas areas in Venezuela, sources say",
@@ -138,6 +138,16 @@
     "source": "ET",
     "pubDate": "Mon, 13 Apr 2026 22:39:05 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/chevron-shell-to-sign-agreements-for-oil-gas-areas-in-venezuela-sources-say/articleshow/130242652.cms"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1531836.html",
+    "category": "sports",
+    "title": "Mitchell Starc, Deepti Sharma named as Wisden's Leading Cricketers in the World",
+    "summary": "Four Indians among Five Cricketers of Year in latest edition of Wisden Cricketers' Almanack",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415600/415631.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 13 Apr 2026 21:52:29 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1531836.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-ipo-hopefuls-forge-ahead-with-listing-plans-amid-market-swings/articleshow/130241853.cms",
@@ -288,16 +298,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 13 Apr 2026 17:15:56 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1531825.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1531833.html",
-    "category": "sports",
-    "title": "Dhoni hits Chepauk nets but his recovery continues to stretch",
-    "summary": "He faced throwdowns from the support staff and didn't keep wicket ahead of CSK's fixture against KKR",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415494.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 13 Apr 2026 16:41:47 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1531833.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/crl141ern74o#0",
