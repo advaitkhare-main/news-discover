@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/sp-500-nasdaq-jump-over-1-on-renewed-hopes-of-us-iran-talks-earnings-boost/articleshow/130268300.cms",
+    "category": "finance",
+    "title": "US stocks today: S&amp;P 500, Nasdaq jump over 1% on renewed hopes of US-Iran talks, earnings boost",
+    "summary": "US stocks rallied, with the S&amp;P 500 and Nasdaq closing higher as investors grew hopeful over potential Middle East de-escalation and Iran talks. Softer US producer inflation and a solid earnings season boosted risk appetite. Tech, software and se",
+    "image": "https://img.etimg.com/photo/msid-130268300,imgsize-124290.cms",
+    "source": "ET",
+    "pubDate": "Wed, 15 Apr 2026 01:40:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sp-500-nasdaq-jump-over-1-on-renewed-hopes-of-us-iran-talks-earnings-boost/articleshow/130268300.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/volodymyr-zelensky-says-us-doesnt-have-time-for-ukraine-because-of-iran-war-11358281#publisher=newsstand",
+    "category": "india",
+    "title": "Zelensky Says US Doesn't \"Have Time For Ukraine\" Because Of Iran War",
+    "summary": "Zelensky said that the issue of deliveries of US arms to Ukraine has become \"a big problem\".",
+    "image": "https://c.ndtvimg.com/2026-04/3iljbd8k_volodymyr-zelensky_625x300_15_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Apr 2026 01:31:12 +0530",
+    "link": "https://www.ndtv.com/world-news/volodymyr-zelensky-says-us-doesnt-have-time-for-ukraine-because-of-iran-war-11358281#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/revanth-reddy-writes-to-pm-over-delimitation-urges-southern-states-to-unite-11357491#publisher=newsstand",
+    "category": "india",
+    "title": "Revanth Reddy Writes To PM Over Delimitation, Urges Southern States To Unite",
+    "summary": "Revanth Reddy sought an all-party meeting for consensus on delimitation",
+    "image": "https://c.ndtvimg.com/2025-10/33kjfid8_revanth-reddy_625x300_30_October_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Apr 2026 01:11:46 +0530",
+    "link": "https://www.ndtv.com/india-news/revanth-reddy-writes-to-pm-over-delimitation-urges-southern-states-to-unite-11357491#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/israel-lebanon-agree-to-direct-negotiations-after-productive-talks-us-11358247#publisher=newsstand",
     "category": "india",
     "title": "Israel, Lebanon Agree To Direct Negotiations After \"Productive\" Talks: US",
@@ -70,24 +100,14 @@
     "link": "https://www.ndtv.com/world-news/world-economy-could-be-thrown-off-course-by-war-in-middle-east-international-monetary-fund-11358126#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/we-all-love-you-donald-trumps-huge-praise-for-pm-narendra-modi-in-call-11358087#publisher=newsstand",
-    "category": "india",
-    "title": "\"We All Love You\": Trump's Huge Praise For PM Modi In Call",
-    "summary": "PM Modi and Trump reviewed the \"substantial progress\" in bilateral ties during the phone call",
-    "image": "https://c.ndtvimg.com/2026-04/pkmhn7hg_modi-trump_625x300_14_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 14 Apr 2026 23:54:10 +0530",
-    "link": "https://www.ndtv.com/world-news/we-all-love-you-donald-trumps-huge-praise-for-pm-narendra-modi-in-call-11358087#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/pm-modi-speaks-to-donald-trump-call-lasted-40-minutes-11356999#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Dials PM Modi, Discusses Bilateral Cooperation, Strait Of Hormuz",
-    "summary": "US envoy to India Sergio Gor described the call as \"very positive and productive.\"",
-    "image": "https://c.ndtvimg.com/2025-02/mhc4gg54_narendra-modi-donald-trump-modi-trump-pti_625x300_15_February_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 14 Apr 2026 23:53:06 +0530",
-    "link": "https://www.ndtv.com/world-news/pm-modi-speaks-to-donald-trump-call-lasted-40-minutes-11356999#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/cvg44q1zdeno#0",
+    "category": "global",
+    "title": "King not meeting Epstein survivors, but state visit could help ease US-UK tensions",
+    "summary": "The US state visit will see the King heading into choppy diplomatic waters during London-Washington tensions.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 14 Apr 2026 21:31:15 GMT",
+    "link": "https://www.bbc.com/news/articles/cvg44q1zdeno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/oracle-shares-gain-4-extend-rally-after-ai-driven-power-deal-with-bloom-energy/articleshow/130263577.cms",
@@ -140,6 +160,16 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bessent-says-confident-that-core-inflation-is-going-down-fed-will-need-to-cut-rates/articleshow/130262719.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c9d44ld97dyo#0",
+    "category": "global",
+    "title": "Households could get free electricity for doing washing on sunny weekends",
+    "summary": "Providers can encourage people to use energy when \"weather conditions result in excess supply\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 14 Apr 2026 20:33:15 GMT",
+    "link": "https://www.bbc.com/news/articles/c9d44ld97dyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-govt-wants-new-fed-chair-in-place-soon-as-possible-treasury-chief/articleshow/130262399.cms",
     "category": "finance",
     "title": "US govt wants new Fed chair in place 'soon as possible': Treasury chief",
@@ -160,20 +190,10 @@
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/fragile-us-iran-talks-gold-rises-to-rs-1-53-lakh-silver-jumps-nearly-rs-10000-whats-next/articleshow/130262354.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-goolsbee-says-rate-cuts-may-need-to-wait-until-2027/articleshow/130261782.cms",
-    "category": "finance",
-    "title": "Fed's Goolsbee says rate cuts may need to wait until 2027",
-    "summary": "Chicago Federal \u200bReserve President Austan \u200bGoolsbee on Tuesday \u200bsaid interest-rate cuts may need to wait until 2027, \u200cdepending \u2060on \u2060how long oil \u200bprices stay high.",
-    "image": "https://img.etimg.com/photo/msid-130261782,imgsize-63688.cms",
-    "source": "ET",
-    "pubDate": "Tue, 14 Apr 2026 20:00:08 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-goolsbee-says-rate-cuts-may-need-to-wait-until-2027/articleshow/130261782.cms"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c4g66p2q075o#0",
     "category": "global",
     "title": "US Treasury secretary says short-term economic pain worth long-term security",
-    "summary": "Scott Bessent said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals.",
+    "summary": "US Treasury Secretary said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Tue, 14 Apr 2026 19:47:53 GMT",
@@ -270,16 +290,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1531855.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c9d44ld97dyo#0",
-    "category": "global",
-    "title": "Households could get free electricity for doing washing on sunny weekends",
-    "summary": "Providers can encourage people to use energy when \"weather conditions result in excess supply\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 14 Apr 2026 13:52:22 GMT",
-    "link": "https://www.bbc.com/news/articles/c9d44ld97dyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1531899.html",
     "category": "sports",
     "title": "SRH pick Madushanka as injury replacement for Carse",
@@ -298,16 +308,6 @@
     "source": "BBC",
     "pubDate": "Tue, 14 Apr 2026 13:17:11 GMT",
     "link": "https://www.bbc.com/news/articles/c04xx7wkg4xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c8jxe9npzdlo#0",
-    "category": "global",
-    "title": "Burglars who used Rightmove to target homes and steal \u00a31m of valuables jailed",
-    "summary": "The gang gloated about their crimes while two of them referred to themselves as Bonnie and Clyde.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 14 Apr 2026 13:08:50 GMT",
-    "link": "https://www.bbc.com/news/articles/c8jxe9npzdlo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1531896.html",
