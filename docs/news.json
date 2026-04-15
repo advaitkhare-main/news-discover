@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/mark-mobius-pioneer-of-emerging-markets-investing-dies-at-89/articleshow/130290715.cms",
+    "category": "finance",
+    "title": "Mark Mobius, pioneer of emerging markets investing, dies at 89",
+    "summary": "Mark Mobius, a pioneer of emerging markets investing, has died at 89. Known for decades at Franklin Templeton Investments, he championed opportunities across developing economies, delivering strong returns and shaping global investment strategies wor",
+    "image": "https://img.etimg.com/photo/msid-130290715,imgsize-15458.cms",
+    "source": "ET",
+    "pubDate": "Wed, 15 Apr 2026 23:18:17 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/mark-mobius-pioneer-of-emerging-markets-investing-dies-at-89/articleshow/130290715.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/chevron-executive-advises-americans-to-drive-less-amid-rising-oil-prices-11363035#publisher=newsstand",
+    "category": "india",
+    "title": "Chevron Executive Advises Americans To 'Drive Less' Amid Rising Oil Prices",
+    "summary": "Chevron executive suggests reducing driving to save money as global oil prices increase.",
+    "image": "https://c.ndtvimg.com/xe0fletu8fd_chevron-reuters_625x300.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Apr 2026 22:34:44 +0530",
+    "link": "https://www.ndtv.com/world-news/chevron-executive-advises-americans-to-drive-less-amid-rising-oil-prices-11363035#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/india-census-2027-safety-guide-tips-to-avoid-fraud-and-stay-secure-11362950#publisher=newsstand",
+    "category": "india",
+    "title": "India Census 2027 Safety Guide: Tips To Avoid Fraud And Stay Secure",
+    "summary": "If you receive a suspicious message or call, report it.",
+    "image": "https://c.ndtvimg.com/2026-04/segr9ed8_india-census-2027_625x300_15_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Apr 2026 22:16:41 +0530",
+    "link": "https://www.ndtv.com/india-news/india-census-2027-safety-guide-tips-to-avoid-fraud-and-stay-secure-11362950#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/jobs-or-schemes-what-sways-voters-in-bengals-coal-belt-durgapur-11361435#publisher=newsstand",
+    "category": "india",
+    "title": "Jobs Or Schemes? What Sways Voters In Bengal's Coal Belt Durgapur",
+    "summary": "Durgapur's proximity to Raniganj coal mines makes it apt for heavy industries.",
+    "image": "https://c.ndtvimg.com/2025-02/14cm3n0o_vote-generic_625x300_04_February_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Apr 2026 22:13:57 +0530",
+    "link": "https://www.ndtv.com/india-news/jobs-or-schemes-what-sways-voters-in-bengals-coal-belt-durgapur-11361435#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/ready-to-move-forward-canadian-envoy-on-india-canada-reset-11362909#publisher=newsstand",
+    "category": "india",
+    "title": "'Ready To Move Forward': Canadian Envoy On India-Canada Reset",
+    "summary": "\"It was a great shame that the relationship was at a rocky period,\" said Canadian envoy Cooter.",
+    "image": "https://c.ndtvimg.com/2026-04/4j0harnc_christopher-cooter-canada-envoy_625x300_15_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Apr 2026 22:12:43 +0530",
+    "link": "https://www.ndtv.com/india-news/ready-to-move-forward-canadian-envoy-on-india-canada-reset-11362909#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/watch-humanoid-robot-edward-chases-pack-of-wild-boars-in-poland-11362882#publisher=newsstand",
+    "category": "india",
+    "title": "Watch: Humanoid Robot 'Edward' Chases Pack Of Wild Boars In Poland",
+    "summary": "Edward Warchocki robot jogs after wild boars in Warsaw, becoming a viral social media hit.",
+    "image": "https://c.ndtvimg.com/2026-04/t97fds14_as_625x300_15_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Apr 2026 22:09:47 +0530",
+    "link": "https://www.ndtv.com/offbeat/watch-humanoid-robot-edward-chases-pack-of-wild-boars-in-poland-11362882#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/delhivery-block-deals-worth-rs-186-crore-see-goldman-sachs-morgan-stanley-mfs-step-in-nexus-sells-stake/articleshow/130288901.cms",
     "category": "finance",
     "title": "Delhivery block deals worth Rs 186 crore see Goldman Sachs, Morgan Stanley, MFs step in; Nexus sells stake",
@@ -10,24 +70,34 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/delhivery-block-deals-worth-rs-186-crore-see-goldman-sachs-morgan-stanley-mfs-step-in-nexus-sells-stake/articleshow/130288901.cms"
   },
   {
+    "id": "https://www.ndtv.com/world-news/1-dead-in-shooting-at-school-in-turkey-second-such-incident-in-24-hours-11361250#publisher=newsstand",
+    "category": "india",
+    "title": "5 Guns, 7 Magazines: 13-Year-Old Kills 9 In Turkey School, Then Shoots Self",
+    "summary": "\"Unfortunately, there's a fatality,\" local governor Mukerrem Unluer said",
+    "image": "https://c.ndtvimg.com/2026-04/i9jgfhek_turkey-shooting-reuters_650x400_15_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Apr 2026 21:45:42 +0530",
+    "link": "https://www.ndtv.com/world-news/1-dead-in-shooting-at-school-in-turkey-second-such-incident-in-24-hours-11361250#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/tcs-nashik-made-to-work-alone-on-rooftop-phone-snatched-tcs-nashik-victims-to-ndtv-11362391#publisher=newsstand",
     "category": "india",
     "title": "\"Thank God I Survived\": TCS Nashik Woman Employee Reveals More Horrors",
     "summary": "All arrested staff have been suspended by TCS.",
     "image": "https://c.ndtvimg.com/2026-04/dcag7s4s_tcs-nashik-_625x300_15_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Wed, 15 Apr 2026 21:22:05 +0530",
+    "pubDate": "Wed, 15 Apr 2026 21:37:23 +0530",
     "link": "https://www.ndtv.com/india-news/tcs-nashik-made-to-work-alone-on-rooftop-phone-snatched-tcs-nashik-victims-to-ndtv-11362391#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-to-send-more-troops-to-middle-east-as-iran-ceasefire-nears-end-report-11362644#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/2026-delimitation-bill-centres-new-delimitation-bill-has-provisions-for-pak-occupied-kashmir-too-11362759#publisher=newsstand",
     "category": "india",
-    "title": "US To Send More Troops To Middle East As Iran Ceasefire Nears End: Report",
-    "summary": "The current two-week ceasefire between the US and Iran scheduled to expire on April 22",
-    "image": "https://c.ndtvimg.com/2026-04/arcl931g_trump-us-troops_625x300_15_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Centre's New Delimitation Bill Has Provisions For Pak-Occupied Kashmir Too",
+    "summary": "The Bill is expected to be taken up during the extended three-day Budget session.",
+    "image": "https://c.ndtvimg.com/2025-09/j8ttpht_khyber-pakhtunkhwa-generic-unsplash-_625x300_19_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Wed, 15 Apr 2026 21:15:01 +0530",
-    "link": "https://www.ndtv.com/world-news/us-to-send-more-troops-to-middle-east-as-iran-ceasefire-nears-end-report-11362644#publisher=newsstand"
+    "pubDate": "Wed, 15 Apr 2026 21:35:38 +0530",
+    "link": "https://www.ndtv.com/india-news/2026-delimitation-bill-centres-new-delimitation-bill-has-provisions-for-pak-occupied-kashmir-too-11362759#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/130288159.cms",
@@ -40,16 +110,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/130288159.cms"
   },
   {
-    "id": "https://www.ndtv.com/bhopal-news/savita-pradhan-she-left-an-abusive-home-with-two-sons-and-a-dream-now-she-runs-a-city-11362453#publisher=newsstand",
-    "category": "india",
-    "title": "She Left An Abusive Home With Two Sons and A Dream. Now She Runs A City",
-    "summary": "Within MP's administrative circles, Savita Pradhan is spoken of with quiet admiration.",
-    "image": "https://c.ndtvimg.com/2026-04/78i1l7qc_savita-pradhan_625x300_15_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Apr 2026 20:51:57 +0530",
-    "link": "https://www.ndtv.com/bhopal-news/savita-pradhan-she-left-an-abusive-home-with-two-sons-and-a-dream-now-she-runs-a-city-11362453#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-power-grid-and-kirloskar-oil-engines-on-thursday-for-gains-up-to-7/articleshow/130287898.cms",
     "category": "finance",
     "title": "Market Trading Guide: Buy Power Grid and Kirloskar Oil Engines on Thursday for gains up to 7%",
@@ -60,46 +120,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-power-grid-and-kirloskar-oil-engines-on-thursday-for-gains-up-to-7/articleshow/130287898.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/west-bengal-assembly-elections-trinamool-congress-bjp-no-one-can-stop-babri-masjid-in-bengal-humayun-kabir-to-ndtv-11362270#publisher=newsstand",
-    "category": "india",
-    "title": "\"No One Can Stop Babri Masjid In Bengal\": Humayun Kabir To NDTV",
-    "summary": "On the split with Asaduddin Owaisi, Kabir said he considers the AIMIM chief an elder brother",
-    "image": "https://c.ndtvimg.com/2026-04/cvjvut4g_humayun-kabir-ndtv_625x300_15_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Apr 2026 20:49:00 +0530",
-    "link": "https://www.ndtv.com/india-news/west-bengal-assembly-elections-trinamool-congress-bjp-no-one-can-stop-babri-masjid-in-bengal-humayun-kabir-to-ndtv-11362270#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/massive-fire-rips-through-lucknow-slum-cluster-thick-smoke-seen-miles-away-11362444#publisher=newsstand",
-    "category": "india",
-    "title": "Massive Fire Rips Through Lucknow Slum Cluster, Thick Smoke Seen Miles Away",
-    "summary": "Officials said the fire is now largely under control",
-    "image": "https://c.ndtvimg.com/2026-04/uhu1j94c_lucknow-fire_625x300_15_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Apr 2026 20:44:41 +0530",
-    "link": "https://www.ndtv.com/india-news/massive-fire-rips-through-lucknow-slum-cluster-thick-smoke-seen-miles-away-11362444#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/politically-motivated-will-fight-womens-quota-bill-m-kharge-after-opposition-meet-11361515#publisher=newsstand",
-    "category": "india",
-    "title": "'Against Centre's Approach, Not Women's Quota Bill': M Kharge After Key Meet",
-    "summary": "Congress chief Mallikarjun Kharge said: \"We are in support of the Women's Reservation Bill but have objection to the government's approach\".",
-    "image": "https://c.ndtvimg.com/2025-11/ovbshgds_mallikarjun-kharge_625x300_19_November_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Apr 2026 20:41:40 +0530",
-    "link": "https://www.ndtv.com/india-news/politically-motivated-will-fight-womens-quota-bill-m-kharge-after-opposition-meet-11361515#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/do-you-know-about-algae-cooking-oil-health-benefits-explained-11362415#publisher=newsstand",
-    "category": "india",
-    "title": "Do You Know About Algae Cooking Oil? Health Benefits Explained",
-    "summary": "Beyond personal health, algae oil stands out for its environmental benefits",
-    "image": "https://c.ndtvimg.com/2026-04/i78rpobk_beyond-personal-health-algae-oil-stands-out-for-its-environmental-benefits_625x300_15_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Apr 2026 20:33:16 +0530",
-    "link": "https://www.ndtv.com/health/do-you-know-about-algae-cooking-oil-health-benefits-explained-11362415#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-pizza-chains-papa-johns-and-pizza-hut-edge-closer-to-finding-new-owners-sources-say/articleshow/130287198.cms",
     "category": "finance",
     "title": "US Stocks: Pizza chains Papa John's and Pizza Hut edge closer to finding new owners, sources say",
@@ -108,16 +128,6 @@
     "source": "ET",
     "pubDate": "Wed, 15 Apr 2026 20:21:12 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-pizza-chains-papa-johns-and-pizza-hut-edge-closer-to-finding-new-owners-sources-say/articleshow/130287198.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/education/cbse-class-10-2026-second-board-exams-loc-guidelines-dates-and-fee-details-out-check-details-inside-11362348#publisher=newsstand",
-    "category": "india",
-    "title": "CBSE Class 10 2026: Second Board Exams LOC Guidelines, Dates And Fee Details",
-    "summary": "CBSE Class 10 2026: Second Board Exams LOC Guidelines, Dates and Fee Details",
-    "image": "https://c.ndtvimg.com/2026-04/030e249_cbse_625x300_15_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Apr 2026 20:18:41 +0530",
-    "link": "https://www.ndtv.com/education/cbse-class-10-2026-second-board-exams-loc-guidelines-dates-and-fee-details-out-check-details-inside-11362348#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-snap-to-cut-1000-jobs-after-activist-pressure-bets-on-ai-efficiency-shares-up-5/articleshow/130287152.cms",
@@ -150,24 +160,64 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-dot-join-forces-to-curb-market-frauds-via-real-time-data-sharing-platform/articleshow/130286460.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-feds-beth-hammack-says-rates-likely-on-hold-for-a-good-while-cnbc-reports/articleshow/130286370.cms",
-    "category": "finance",
-    "title": "US Fed's Beth Hammack says rates likely on hold 'for a good while', CNBC reports",
-    "summary": "Federal \u200bReserve Bank of Cleveland President Beth Hammack said on Wednesday that while she sees no imminent need for the central bank to change its interest rate target setting, it's possible cuts or even hikes could lie ahead.",
-    "image": "https://img.etimg.com/photo/msid-130286370,imgsize-38862.cms",
-    "source": "ET",
-    "pubDate": "Wed, 15 Apr 2026 19:41:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-feds-beth-hammack-says-rates-likely-on-hold-for-a-good-while-cnbc-reports/articleshow/130286370.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1532067.html",
+    "category": "sports",
+    "title": "RCB top the table after bowlers help thump LSG",
+    "summary": "",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415600/415685.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 15 Apr 2026 18:00:59 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1532067.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/sport/tennis/articles/cgk00p2p8j2o#0",
+    "category": "global",
+    "title": "British doubles legend Jamie Murray retires from tennis",
+    "summary": "Jamie Murray, who became the first British doubles player to rise to world number one, has announced his retirement from tennis.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 15 Apr 2026 17:58:23 GMT",
+    "link": "https://www.bbc.com/sport/tennis/articles/cgk00p2p8j2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1532064.html",
+    "category": "sports",
+    "title": "CPL 2026 to begin August 7; Arnos Vale to host games for the first time",
+    "summary": "CPL fixtures will be played in a record-equalling eight nations this year",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/295700/295790.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 15 Apr 2026 17:46:58 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1532064.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1531994.html",
     "category": "sports",
-    "title": "Can struggling MI halt Shreyas and PBKS' unbeaten run?",
+    "title": "Doubts over Rohit as struggling MI run into red-hot PBKS",
     "summary": "Rohit, who retired hurt against RCB with what seemed like a hamstring issue, could be a doubtful starter",
     "image": "http://p.imgci.com/db/PICTURES/CMS/401500/401525.jpg",
     "source": "Cricinfo",
-    "pubDate": "Wed, 15 Apr 2026 16:44:56 GMT",
+    "pubDate": "Wed, 15 Apr 2026 17:38:23 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1531994.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1532065.html",
+    "category": "sports",
+    "title": "Rubel Hossain announces international retirement",
+    "summary": "He played the last of his 159 international games in April 2021",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/280700/280778.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 15 Apr 2026 17:33:24 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1532065.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1532063.html",
+    "category": "sports",
+    "title": "Rain can't douse The Blaze as champions Lancashire are beaten",
+    "summary": "Kelly, Prendergast do enough to stay ahead of DLS requirement in damp encounter at Trent Bridge",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415600/415686.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 15 Apr 2026 17:33:23 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1532063.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cj944dgwvm8o#0",
@@ -210,16 +260,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1532043.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1532037.html",
-    "category": "sports",
-    "title": "Simmons on Nahid Rana: 'We have to protect our trump card'",
-    "summary": "\"It is up to us to try and look after him and make sure that when he goes out there he gives everything that we want him to give for Bangladesh\"",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414612.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 15 Apr 2026 16:07:06 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1532037.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cyv11lryv7ro#0",
     "category": "global",
     "title": "BBC to cut almost one in 10 staff to make \u00a3500m savings",
@@ -240,26 +280,6 @@
     "link": "https://www.bbc.com/news/articles/cew77rwrevdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1532021.html",
-    "category": "sports",
-    "title": "RCB bowl, Hazlewood returns, Kohli on Impact Player bench",
-    "summary": "Mayank Yadav, who is on LSG's Impact bench, could make his first appearance of the season",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415600/415675.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 15 Apr 2026 15:55:39 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1532021.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1532034.html",
-    "category": "sports",
-    "title": "Rob Walter sees 54 players from NZ playing in Asia as 'massive positive'",
-    "summary": "There's a New Zealand ODI side in Bangladesh, an A squad in Sri Lanka, and 18 players in IPL and PSL combined",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/359600/359603.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 15 Apr 2026 15:44:40 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1532034.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cdxdd7ddzgdo#0",
     "category": "global",
     "title": "Starmer says he is 'not going to yield' to pressure from Trump on Iran war",
@@ -270,16 +290,6 @@
     "link": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/sport/tennis/articles/cgk00p2p8j2o#0",
-    "category": "global",
-    "title": "British doubles legend Jamie Murray retires from tennis",
-    "summary": "Jamie Murray, who became the first British doubles player to rise to world number one, has announced his retirement from tennis.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 15 Apr 2026 14:35:59 GMT",
-    "link": "https://www.bbc.com/sport/tennis/articles/cgk00p2p8j2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/ce844e6rjnyo#0",
     "category": "global",
     "title": "Two officers charged after pregnant woman killed in crash with police car",
@@ -288,16 +298,6 @@
     "source": "BBC",
     "pubDate": "Wed, 15 Apr 2026 14:31:18 GMT",
     "link": "https://www.bbc.com/news/articles/ce844e6rjnyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1532022.html",
-    "category": "sports",
-    "title": "Wiaan Mulder misses Essex's trip to Warwickshire for personal reasons",
-    "summary": "Allrounder heads home to South Africa after two County Championship appearances",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/409200/409252.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 15 Apr 2026 14:13:32 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1532022.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c070jxyjrmeo#0",
