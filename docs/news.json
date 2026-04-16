@@ -10,16 +10,6 @@
     "link": "https://www.bbc.com/news/articles/c86ey5n9vx9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c4g44gj7rgno#0",
-    "category": "global",
-    "title": "Lyse Doucet in Iran: Under fragile ceasefire, Iranians wonder if US deal can be done",
-    "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 15 Apr 2026 21:10:14 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1532073.html",
     "category": "sports",
     "title": "Kohli not at 100% fitness but 'happy with my intensity'",
@@ -60,6 +50,116 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/offbeat/chinas-humanoid-robot-hits-10-metres-second-sprint-edges-toward-usain-bolts-legendary-speed-11365725#publisher=newsstand",
+    "category": "india",
+    "title": "China's Humanoid Robot Hits 10 Metres/Second Sprint, Edges Toward Usain Bolt's Legendary Speed",
+    "summary": "The H1 is designed to closely mirror human biomechanics.",
+    "image": "https://c.ndtvimg.com/2026-04/o2pr5e24_chinas-humanoid-robot_625x300_16_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Apr 2026 15:48:16 +0530",
+    "link": "https://www.ndtv.com/offbeat/chinas-humanoid-robot-hits-10-metres-second-sprint-edges-toward-usain-bolts-legendary-speed-11365725#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/lead-levels-in-soil-dangerously-high-in-delhi-ncr-haryana-rajasthan-what-this-means-for-public-health-in-north-india-11332690#publisher=newsstand",
+    "category": "india",
+    "title": "Lead Levels In Soil Dangerously High In Delhi-NCR, Haryana, Rajasthan: What This Means For Public Health In North India",
+    "summary": "Lead levels have become dangerously high in the soil samples in 4 Indian states",
+    "image": "https://c.ndtvimg.com/2026-04/4jm5gc84_lead-contamination_625x300_09_April_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Apr 2026 15:48:15 +0530",
+    "link": "https://www.ndtv.com/health/lead-levels-in-soil-dangerously-high-in-delhi-ncr-haryana-rajasthan-what-this-means-for-public-health-in-north-india-11332690#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-iran-war-news-iran-wants-us-to-unfreeze-frozen-assets-worth-100-billion-where-are-they-11365965#publisher=newsstand",
+    "category": "india",
+    "title": "Iran Wants US To Unfreeze Frozen Assets Worth $100 Billion. Where Are They",
+    "summary": "Iran's assets are frozen in several countries, including the US, China, Japan, Iraq and Europe.",
+    "image": "https://c.ndtvimg.com/2026-04/nn4t5rps_iran_625x300_16_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Apr 2026 15:47:30 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-news-iran-wants-us-to-unfreeze-frozen-assets-worth-100-billion-where-are-they-11365965#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/israel-lebanon-war-iran-us-israel-war-explosions-rip-through-lebanon-town-as-israel-launches-massive-assault-11365892#publisher=newsstand",
+    "category": "india",
+    "title": "Explosions Rip Through Lebanon Town As Israel Launches Massive Assault",
+    "summary": "The visuals released by the IDF show large-scale detonation and desctruction.",
+    "image": "https://c.ndtvimg.com/2026-04/feerul5o_bint-jbeil-town-lebanon_625x300_16_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Apr 2026 15:47:27 +0530",
+    "link": "https://www.ndtv.com/world-news/israel-lebanon-war-iran-us-israel-war-explosions-rip-through-lebanon-town-as-israel-launches-massive-assault-11365892#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/should-have-implemented-it-25-30-years-ago-pm-modi-on-womens-quota-in-parliament-11365781#publisher=newsstand",
+    "category": "india",
+    "title": "\"Should Have Implemented It 25-30 Years Ago\": PM Modi On Women's Quota In Parliament",
+    "summary": "\"Should Have Implemented It 25-30 Years Ago\": PM Modi On Women's Quota In Parliament",
+    "image": "https://c.ndtvimg.com/2026-04/e6sqcr74_pm-modi-_650x400_16_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Apr 2026 15:43:49 +0530",
+    "link": "https://www.ndtv.com/india-news/should-have-implemented-it-25-30-years-ago-pm-modi-on-womens-quota-in-parliament-11365781#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/us-israel-iran-war-trump-and-munir-different-but-same-same-11365922#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion | Trump And Munir - Different, But Same Same",
+    "summary": "One needs to understand not just the US President but the remarkable structural symmetry between the two states he and Asim Munir respectively represent.",
+    "image": "https://c.ndtvimg.com/2026-04/u6ctnfkg_trump-munir_625x300_16_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Apr 2026 15:39:17 +0530",
+    "link": "https://www.ndtv.com/opinion/us-israel-iran-war-trump-and-munir-different-but-same-same-11365922#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/wont-be-any-discrimination-pms-guarantee-on-womens-quota-delimitation-11365855#publisher=newsstand",
+    "category": "india",
+    "title": "\"Won't Be Any Discrimination\": PM's Guarantee On Women's Quota, Delimitation",
+    "summary": "\"Won't Be Any Discrimination\": PM's Guarantee On Women's Quota, Delimitation",
+    "image": "https://c.ndtvimg.com/2026-04/dcj1hu34_pm-modi-_650x400_16_April_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Apr 2026 15:34:14 +0530",
+    "link": "https://www.ndtv.com/india-news/wont-be-any-discrimination-pms-guarantee-on-womens-quota-delimitation-11365855#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-16-april-us-iran-peace-talks-donald-trump-oil-price-11363875#publisher=newsstand",
+    "category": "india",
+    "title": "Stock Market Highlights, Sensex Today: Sensex, Nifty Close In Red As Auto, Realty, Bank Stocks Drag",
+    "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates: Markets close in red.",
+    "image": "https://c.ndtvimg.com/2026-04/ieasjib4_india-stock-market-bbg_625x300_16_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Apr 2026 15:33:38 +0530",
+    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-16-april-us-iran-peace-talks-donald-trump-oil-price-11363875#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-inch-higher-on-middle-east-peace-prospects-earnings-in-focus/articleshow/130302829.cms",
+    "category": "finance",
+    "title": "Global Markets | European shares inch higher on Middle East peace prospects; earnings in focus",
+    "summary": "European \u200bshares edged higher on Thursday as growing optimism about a potential resolution to the Middle East conflict lifted market sentiment, while investors assessed corporate earnings reports across the region.",
+    "image": "https://img.etimg.com/photo/msid-130302829,imgsize-24170.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Apr 2026 14:58:34 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-inch-higher-on-middle-east-peace-prospects-earnings-in-focus/articleshow/130302829.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/vikas-khemani-bets-big-on-indigo-bhel-and-psu-banks-amid-market-volatility/articleshow/130302459.cms",
+    "category": "finance",
+    "title": "Vikas Khemani bets big on IndiGo, BHEL, and PSU banks amid market volatility",
+    "summary": "Vikas Khemani of Carnelian Asset Management outlines his investment strategy amid market volatility. He favors mid and large-cap stocks, with selective contra plays like IndiGo. Khemani prefers conventional power enablers over renewables and emphasiz",
+    "image": "https://img.etimg.com/photo/msid-130302459,imgsize-49372.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Apr 2026 14:41:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/vikas-khemani-bets-big-on-indigo-bhel-and-psu-banks-amid-market-volatility/articleshow/130302459.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/indian-fund-outperforming-98-of-peers-bets-on-defense-stocks/articleshow/130302440.cms",
+    "category": "finance",
+    "title": "Indian fund outperforming 98% of peers bets on defense stocks",
+    "summary": "A $3 billion fund at Kotak Mahindra Asset Management Co. is backing Indian defense stocks, wagering that geopolitical tensions will boost local arms production and support the government\u2019s efforts to lower reliance on imports.",
+    "image": "https://img.etimg.com/photo/msid-130302440,imgsize-53194.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Apr 2026 14:37:20 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-fund-outperforming-98-of-peers-bets-on-defense-stocks/articleshow/130302440.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/earnings-may-drop-but-opportunity-is-bigger-vikas-khemani-makes-bullish-call-on-india-markets/articleshow/130302186.cms",
     "category": "finance",
     "title": "Earnings may drop but opportunity bigger; Vikas Khemani makes bullish call on India markets",
@@ -72,8 +172,8 @@
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-erases-all-gains-tumbles-800-points-from-peak-nifty-back-below-24200-mark/articleshow/130302205.cms",
     "category": "finance",
-    "title": "Bears return to D-St! Sensex erases all gains, tumbles 800 points from peak; Nifty back below 24,200 mark",
-    "summary": "Indian stock markets, Sensex and Nifty, saw their early gains evaporate on Thursday. Profit booking led to a decline in both benchmark indices. The Sensex dropped over 200 points, while the Nifty fell below the 24,200 mark. Several major stocks exper",
+    "title": "Bears back on Dalal Street! Sensex tumbles over 700 points from day\u2019s high, Nifty ends below 24,200",
+    "summary": "Indian stock markets faced significant intraday losses on Thursday. The Sensex and Nifty, after opening strong, reversed gains to end lower. This volatility coincided with the weekly expiry of Sensex F&amp;O contracts. Despite the benchmark indices f",
     "image": "https://img.etimg.com/photo/msid-130302205,imgsize-1759799.cms",
     "source": "ET",
     "pubDate": "Thu, 16 Apr 2026 14:24:09 +0530",
@@ -90,26 +190,6 @@
     "link": "https://economictimes.indiatimes.com/markets/expert-view/seasoned-market-investors-enjoy-market-volatility-while-some-young-retail-entrants-exit-anmi-president-kamlesh-shroff/articleshow/130302169.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-news-donald-trump-told-dutch-royals-his-plan-to-end-the-iran-war-what-it-is-11365388#publisher=newsstand",
-    "category": "india",
-    "title": "At Private Dinner With Dutch Royals, Trump Reveals His Plan To End Iran War",
-    "summary": "Trump hosted Dutch royals at White House on Wednesday",
-    "image": "https://c.ndtvimg.com/2026-04/ec304qko_trump-dutch-king-queen-afp_625x300_16_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Apr 2026 14:13:50 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-news-donald-trump-told-dutch-royals-his-plan-to-end-the-iran-war-what-it-is-11365388#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/parliament-special-session-live-updates-women-reservation-delimitation-bill-women-reservation-law-special-sitting-of-parliament-to-begin-today-11364182#publisher=newsstand",
-    "category": "india",
-    "title": "Parliament Special Session LIVE: \"Samajwadi Party In Favour Of Women Reservation\": Akhilesh Yadav",
-    "summary": "Parliament's 3-day special session Live Updates, Day 1: The government is expected to introduce three amendment Bills aimed at operationalising the legislation, which was passed in 2023 to provide 33% reservation for women in the Lok Sabha and State",
-    "image": "https://c.ndtvimg.com/2026-04/53so2pk4_rajya-sabha_625x300_16_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Apr 2026 14:11:47 +0530",
-    "link": "https://www.ndtv.com/india-news/parliament-special-session-live-updates-women-reservation-delimitation-bill-women-reservation-law-special-sitting-of-parliament-to-begin-today-11364182#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/commodities/news/akshaya-tritiya-2026-date-significance-and-best-time-to-buy-gold-details-here/articleshow/130301965.cms",
     "category": "finance",
     "title": "Akshaya Tritiya 2026: Date, significance and best time to buy gold. Details here",
@@ -118,26 +198,6 @@
     "source": "ET",
     "pubDate": "Thu, 16 Apr 2026 14:09:33 +0530",
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/akshaya-tritiya-2026-date-significance-and-best-time-to-buy-gold-details-here/articleshow/130301965.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/health/detox-trends-vs-real-liver-care-doctor-explains-what-actually-works-11362180#publisher=newsstand",
-    "category": "india",
-    "title": "Detox Trends vs Real Liver Care: Doctor Explains What Actually Works",
-    "summary": "The liver is one of the body's most vital organs, responsible for filtering blood, breaking down toxins",
-    "image": "https://i.ndtvimg.com/i/2017-07/liver-health-natural-remedies-healthy-living_650x400_51500362101.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Apr 2026 14:06:48 +0530",
-    "link": "https://www.ndtv.com/health/detox-trends-vs-real-liver-care-doctor-explains-what-actually-works-11362180#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/a-weapon-with-an-odd-name-could-really-hurt-million-dollar-us-jets-in-iran-11365069#publisher=newsstand",
-    "category": "india",
-    "title": "A Missile On One Soldier's Shoulder Could Ground The US Air War In Iran",
-    "summary": "MANPADs are shoulder-fired, anti-aircraft missiles (AI image)",
-    "image": "https://c.ndtvimg.com/2026-04/uinld554_china-iran-manpads-shoulder-launched-anti-aircraft-missiles-story-ai-image_625x300_16_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Apr 2026 14:03:51 +0530",
-    "link": "https://www.ndtv.com/world-news/a-weapon-with-an-odd-name-could-really-hurt-million-dollar-us-jets-in-iran-11365069#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/signature-global-ties-up-with-tonino-lamborghini-for-branded-housing-project-in-gurugram/articleshow/130301746.cms",
@@ -150,94 +210,44 @@
     "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/signature-global-ties-up-with-tonino-lamborghini-for-branded-housing-project-in-gurugram/articleshow/130301746.cms"
   },
   {
-    "id": "https://www.ndtv.com/ahmedabad-news/tribal-communities-in-navsari-launch-protest-over-housing-rights-and-demolition-fears-11365404#publisher=newsstand",
-    "category": "india",
-    "title": "Tribal Communities In Navsari Launch Protest Over Housing Rights And Demolition Fears",
-    "summary": "The movement is centred around four core demands.",
-    "image": "https://c.ndtvimg.com/2026-04/jbt6sg74_tribal-families-in-navsari-gujarat_625x300_16_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Apr 2026 13:59:36 +0530",
-    "link": "https://www.ndtv.com/ahmedabad-news/tribal-communities-in-navsari-launch-protest-over-housing-rights-and-demolition-fears-11365404#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/brigade-enterprises-to-build-39-acre-township-in-bengaluru-aims-rs-7200-cr-revenue/articleshow/130301721.cms",
-    "category": "finance",
-    "title": "Brigade Enterprises to build 39-acre township in Bengaluru, aims Rs 7,200-cr revenue",
-    "summary": "Realty firm Brigade Enterprises Ltd on Wednesday said it will develop a 39-acre township project in Bengaluru with an estimated revenue potential of Rs 7,200 crore.",
-    "image": "https://img.etimg.com/photo/msid-130301721,imgsize-4034.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Apr 2026 13:58:32 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/brigade-enterprises-to-build-39-acre-township-in-bengaluru-aims-rs-7200-cr-revenue/articleshow/130301721.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-16-april-us-iran-peace-talks-donald-trump-oil-price-11363875#publisher=newsstand",
-    "category": "india",
-    "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 150 Points As Auto, Realty Stocks Drag",
-    "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates: Markets to open in green.",
-    "image": "https://c.ndtvimg.com/2026-04/ieasjib4_india-stock-market-bbg_625x300_16_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Apr 2026 13:57:57 +0530",
-    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-16-april-us-iran-peace-talks-donald-trump-oil-price-11363875#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/no-curbs-on-religious-expression-lenskart-founder-peyush-bansal-on-grooming-policy-row-11364494#publisher=newsstand",
-    "category": "india",
-    "title": "'Bindi, Tilak Not Restricted': Lenskart Founder Clarifies After Row Over Grooming Policy",
-    "summary": "Peyush Bansal clarified that company has revised grooming policy multiple times",
-    "image": "https://c.ndtvimg.com/2026-04/7unhn5q_peyush-bansal-insta_650x400_16_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Apr 2026 13:57:14 +0530",
-    "link": "https://www.ndtv.com/india-news/no-curbs-on-religious-expression-lenskart-founder-peyush-bansal-on-grooming-policy-row-11364494#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/kalpataru-q4-pre-sales-rise-6-to-rs-1833-crore/articleshow/130301662.cms",
-    "category": "finance",
-    "title": "Kalpataru Q4 pre-sales rise 6 % to Rs 1,833 crore",
-    "summary": "Realty firm Kalpataru has reported 6 per cent increase in sales bookings at Rs 1,833 crore for the fourth quarter of the last fiscal.",
-    "image": "https://img.etimg.com/photo/msid-130301662,imgsize-26068.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Apr 2026 13:56:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/kalpataru-q4-pre-sales-rise-6-to-rs-1833-crore/articleshow/130301662.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/cigarettes-goat-liver-mumbai-gym-trainer-turned-godmans-cure-for-devotees-rhythm-panchal-monty-baba-11365392#publisher=newsstand",
-    "category": "india",
-    "title": "Cigarettes, Goat Liver: Gym Trainer-Turned-Godman's 'Cure' For Devotees",
-    "summary": "'Monty Baba' lured dozens of women under the guise of helping them bear children.",
-    "image": "https://c.ndtvimg.com/2026-04/agn4lfb4_mumbai-godman-rhythm-panchal-monty-baba_625x300_16_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Apr 2026 13:55:58 +0530",
-    "link": "https://www.ndtv.com/india-news/cigarettes-goat-liver-mumbai-gym-trainer-turned-godmans-cure-for-devotees-rhythm-panchal-monty-baba-11365392#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-unbelievable-600-rally-in-one-day-allbirds-shares-skyrocket-as-sneaker-maker-plans-ai-pivot/articleshow/130301607.cms",
-    "category": "finance",
-    "title": "US Stocks | Unbelievable 600% rally in one day! Allbirds shares skyrocket as sneaker-maker plans AI pivot",
-    "summary": "Allbirds shares skyrocketed nearly 600% in a single session after the footwear brand unveiled a dramatic pivot to AI compute infrastructure, rebranding as NewBird AI and securing a $50 million financing facility to buy GPUs. The move marks a complete",
-    "image": "https://img.etimg.com/photo/msid-130301607,imgsize-1628268.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Apr 2026 13:51:40 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-unbelievable-600-rally-in-one-day-allbirds-shares-skyrocket-as-sneaker-maker-plans-ai-pivot/articleshow/130301607.cms"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1532109.html",
-    "category": "sports",
-    "title": "Jackson loses WA deal after being leading one-day bowler",
-    "summary": "Teague Wyllie also loses his deal while pace bowler Kieran Elliott has moved west from Tasmania",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/387900/387939.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 16 Apr 2026 09:11:33 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1532109.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cpvxp4xnrwdo#0",
     "category": "global",
     "title": "UK prepares for food shortages in worst case scenario as Iran war continues",
     "summary": "The UK could face some food shortages by the summer under a worst case scenario drawn up by officials.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 16 Apr 2026 09:05:47 GMT",
+    "pubDate": "Thu, 16 Apr 2026 10:47:22 GMT",
     "link": "https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1532109.html",
+    "category": "sports",
+    "title": "Jackson loses WA contract after being leading one-day bowler",
+    "summary": "Teague Wyllie also loses his deal while pace bowler Kieran Elliott has moved west from Tasmania",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/387900/387939.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 16 Apr 2026 10:44:45 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1532109.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/clyxpnz45yzo#0",
+    "category": "global",
+    "title": "Minister considers banning over-the-counter flea treatments for pets",
+    "summary": "Ministers are considering restricting spot-on treatments and collars to prescriptions from vets and medical professionals.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Apr 2026 10:32:19 GMT",
+    "link": "https://www.bbc.com/news/articles/clyxpnz45yzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c77m5nvyz7vo#0",
+    "category": "global",
+    "title": "Police issue disorder warning after Epsom rape protest",
+    "summary": "Riot police are deployed in Epsom after protesters gathered to demand descriptions of the suspects.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Apr 2026 10:19:15 GMT",
+    "link": "https://www.bbc.com/news/articles/c77m5nvyz7vo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cgrll5zjkx4o#0",
@@ -268,16 +278,6 @@
     "source": "BBC",
     "pubDate": "Thu, 16 Apr 2026 08:01:52 GMT",
     "link": "https://www.bbc.com/news/articles/cql77wlqlx7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cz0e23r0993o#0",
-    "category": "global",
-    "title": "Economy grew faster than expected ahead of Iran war",
-    "summary": "The economy saw its biggest monthly rise in more than two years just before the outbreak of the US-Israeli war with Iran.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Apr 2026 07:38:33 GMT",
-    "link": "https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1532096.html",
