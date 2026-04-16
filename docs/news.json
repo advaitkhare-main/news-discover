@@ -60,6 +60,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-taps-deal-momentum-to-arrest-revenue-slide-but-growth-elusive-for-now/articleshow/130312418.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c239219g7l5o#0",
+    "category": "global",
+    "title": "Andrew invited to relinquish Freedom of City",
+    "summary": "Andrew Mountbatten-Windsor received the historic honour in 2012 \"by virtue of patrimony\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Apr 2026 21:36:04 GMT",
+    "link": "https://www.bbc.com/news/articles/c239219g7l5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/130312087.cms",
     "category": "finance",
     "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
@@ -98,16 +108,6 @@
     "source": "ET",
     "pubDate": "Thu, 16 Apr 2026 20:55:03 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/angel-one-q4-results-profit-soars-84-yoy-in-a-quarter-of-stock-market-crash/articleshow/130311584.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c239219g7l5o#0",
-    "category": "global",
-    "title": "Andrew invited to relinquish Freedom of City",
-    "summary": "Andrew Mountbatten-Windsor received the historic honour in 2012 \"by virtue of patrimony\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Apr 2026 20:25:16 GMT",
-    "link": "https://www.bbc.com/news/articles/c239219g7l5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cx2r15151xgo#0",
@@ -290,6 +290,26 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
+    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-how-middle-east-war-exposed-weakness-in-british-military-11368897#publisher=newsstand",
+    "category": "india",
+    "title": "How Middle East War Exposed Weakness In British Military",
+    "summary": "When a British military base in Cyprus was hit by a drone early on in the Iran conflict in March, Britain, whose navy was the largest in the world at the start of World War Two, took three weeks to deploy one warship to the eastern Mediterranean.",
+    "image": "https://i.ndtvimg.com/i/2017-11/british-army-operations-generic_650x400_61511945338.jpg",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 01:47:50 +0530",
+    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-how-middle-east-war-exposed-weakness-in-british-military-11368897#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-donald-trump-on-phone-call-with-pm-modi-11368884#publisher=newsstand",
+    "category": "india",
+    "title": "\"We Had A Very Good Conversation\": Trump On Phone Call With PM Modi",
+    "summary": "The remarks come days after PM Modi confirmed receiving a call from President Trump.",
+    "image": "https://c.ndtvimg.com/2025-09/r0mo927o_donald-trump-pm-modi_625x300_06_September_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 01:43:59 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-on-phone-call-with-pm-modi-11368884#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-edge-up-to-new-records-with-middle-east-hopes-in-focus/articleshow/130317556.cms",
     "category": "finance",
     "title": "US stocks today: S&amp;P 500, Nasdaq edge up to new records with Middle East truce hopes in focus",
@@ -358,26 +378,6 @@
     "source": "NDTV",
     "pubDate": "Fri, 17 Apr 2026 00:27:59 +0530",
     "link": "https://www.ndtv.com/india-news/robbers-gag-employee-loot-over-rs-1-lakh-from-office-in-jalandhar-11368734#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-pope-leo-in-cameroon-amid-spat-with-donald-trump-11368731#publisher=newsstand",
-    "category": "india",
-    "title": "\"World Being Ravaged By Tyrants\": Pope In Cameroon Amid Spat With Trump",
-    "summary": "Pope Leo XIV leads the Holy Mass at Bamenda Airport in Bamenda on Thursday.",
-    "image": "https://c.ndtvimg.com/2026-04/lijj71mk_pope-leo_625x300_17_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 00:23:26 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-pope-leo-in-cameroon-amid-spat-with-donald-trump-11368731#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/europe-has-6-weeks-or-so-of-jet-fuel-left-warns-energy-agency-head-11368726#publisher=newsstand",
-    "category": "india",
-    "title": "Europe Has \"6 Weeks Or So\" Of Jet Fuel Left Warns Energy Agency Head",
-    "summary": "Nearly 20% of the world's traded oil passes through the Strait of Hormuz in peacetime",
-    "image": "https://c.ndtvimg.com/2026-04/6pft3oo4_fatih-birol-_625x300_16_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 00:21:05 +0530",
-    "link": "https://www.ndtv.com/world-news/europe-has-6-weeks-or-so-of-jet-fuel-left-warns-energy-agency-head-11368726#publisher=newsstand"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
