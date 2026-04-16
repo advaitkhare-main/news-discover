@@ -50,6 +50,26 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/airflow-products-maker-madison-air-valued-at-15-7-billion-as-shares-rise-on-nyse-debut/articleshow/130314502.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c747r3v90k3o#0",
+    "category": "global",
+    "title": "Top Foreign Office official to leave post after Mandelson vetting row",
+    "summary": "It comes after it emerged the peer failed security vetting but the Foreign Office still allowed him to take up the post.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Apr 2026 22:34:56 GMT",
+    "link": "https://www.bbc.com/news/articles/c747r3v90k3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ce8jpz9rx2yo#0",
+    "category": "global",
+    "title": "Artemis II crew: 'We left as friends - we came back as best friends'",
+    "summary": "The four crew members gave their first press conference since they splashed down nearly a week ago, and emphasised hope and unity.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Apr 2026 21:49:38 GMT",
+    "link": "https://www.bbc.com/news/articles/ce8jpz9rx2yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-taps-deal-momentum-to-arrest-revenue-slide-but-growth-elusive-for-now/articleshow/130312418.cms",
     "category": "finance",
     "title": "Wipro taps deal momentum to arrest revenue slide, but growth elusive for now",
@@ -108,16 +128,6 @@
     "source": "ET",
     "pubDate": "Thu, 16 Apr 2026 20:55:03 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/angel-one-q4-results-profit-soars-84-yoy-in-a-quarter-of-stock-market-crash/articleshow/130311584.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx2r15151xgo#0",
-    "category": "global",
-    "title": "Starmer not aware Foreign Office overruled Mandelson vetting decision until this week, government says",
-    "summary": "A decision to go against the recommendation of the vetting agency was taken by officials in the Foreign Office, spokesperson says.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Apr 2026 19:22:19 GMT",
-    "link": "https://www.bbc.com/news/articles/cx2r15151xgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1532167.html",
@@ -240,16 +250,6 @@
     "link": "https://www.bbc.com/news/articles/c0q92lg9ln5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo#0",
-    "category": "global",
-    "title": "Former Arsenal goalkeeper Alex Manninger dies after car struck by train in Austria",
-    "summary": "Former Arsenal goalkeeper Alex Manninger dies at the age of 48 after his car is struck by a train.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Apr 2026 13:53:25 GMT",
-    "link": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1532119.html",
     "category": "sports",
     "title": "Mumbai introduces contract system for domestic players",
@@ -288,6 +288,26 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 05 Jan 2026 07:45:00 GMT",
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-he-may-visit-pakistan-if-us-iran-reach-deal-11369073#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Says He May Visit Pakistan If US, Iran Reach Deal",
+    "summary": "Trump also said without providing evidence that Iran has agreed to give up the enriched uranium.",
+    "image": "https://c.ndtvimg.com/2026-04/57nn80a_donald-trump_625x300_17_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 03:48:40 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-he-may-visit-pakistan-if-us-iran-reach-deal-11369073#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-10-day-ceasefire-deal-between-israel-lebanon-takes-effect-11369044#publisher=newsstand",
+    "category": "india",
+    "title": "10-Day Ceasefire Deal Between Israel, Lebanon Takes Effect",
+    "summary": "Trump said Hezbollah was included in the ceasefire.",
+    "image": "https://c.ndtvimg.com/2026-04/mcb94b24_lebanon-ceasefire_625x300_17_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 03:23:36 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-10-day-ceasefire-deal-between-israel-lebanon-takes-effect-11369044#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/us-israel-iran-war-how-middle-east-war-exposed-weakness-in-british-military-11368897#publisher=newsstand",
@@ -358,26 +378,6 @@
     "source": "NDTV",
     "pubDate": "Fri, 17 Apr 2026 00:44:06 +0530",
     "link": "https://www.ndtv.com/india-news/over-10-lakh-travelled-to-india-since-start-of-middle-east-tensions-centre-11368771#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/in-huge-claim-trump-says-iran-has-agreed-to-hand-over-its-enriched-uranium-11368603#publisher=newsstand",
-    "category": "india",
-    "title": "In Huge Claim, Trump Says Iran Has Agreed To Hand Over Its Enriched Uranium",
-    "summary": "\"There's a very good chance we're going to make a deal,\" Trump said",
-    "image": "https://c.ndtvimg.com/2026-04/kdbpguuk_trump-mojtaba_625x300_07_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 00:43:44 +0530",
-    "link": "https://www.ndtv.com/world-news/in-huge-claim-trump-says-iran-has-agreed-to-hand-over-its-enriched-uranium-11368603#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/robbers-gag-employee-loot-over-rs-1-lakh-from-office-in-jalandhar-11368734#publisher=newsstand",
-    "category": "india",
-    "title": "Robbers Gag Employee, Loot Over Rs 1 Lakh From Office In Jalandhar",
-    "summary": "The CCTV footage shows a female employee attending to customers inside the shop.",
-    "image": "https://c.ndtvimg.com/2026-04/vipbk7ag_jalandhar_625x300_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 00:27:59 +0530",
-    "link": "https://www.ndtv.com/india-news/robbers-gag-employee-loot-over-rs-1-lakh-from-office-in-jalandhar-11368734#publisher=newsstand"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
