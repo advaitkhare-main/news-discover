@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.bbc.com/news/articles/c86ey5n9vx9o#0",
-    "category": "global",
-    "title": "Why cheap power could matter more than clean power in the push for net zero",
-    "summary": "The question of how important making our electricity clean is to going green is coming under increasing scrutiny",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 15 Apr 2026 23:20:22 GMT",
-    "link": "https://www.bbc.com/news/articles/c86ey5n9vx9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -40,164 +30,234 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-life-q4-results-profit-climbs-4-yoy-hdfc-bank-to-hike-stake-buy-shares-worth-rs-1000-crore/articleshow/130305866.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/weak-and-lacklustre-why-jefferies-is-disappointed-with-wipro-earnings-as-adrs-fall-nearly-3/articleshow/130309687.cms",
     "category": "finance",
-    "title": "HDFC Life Q4 Results: Profit climbs 4% YoY; HDFC Bank to hike stake, buy shares worth Rs 1,000 crore",
-    "summary": "HDFC Life Insurance will issue shares worth one thousand crore rupees to promoter HDFC Bank. This move aims to strengthen the insurer's solvency and support future growth. The company reported a modest profit rise in the March quarter. Net premium in",
-    "image": "https://img.etimg.com/photo/msid-130305866,imgsize-12636.cms",
+    "title": "'Weak and lacklustre': Why Jefferies is disappointed with Wipro earnings as ADRs fall nearly 3%",
+    "summary": "Wipro\u2019s March quarter results missed expectations, with weak revenue growth, declining profit, and soft guidance. Jefferies highlighted slowing deal momentum, weakness in BFSI and healthcare, and client-specific declines, raising concerns over near-t",
+    "image": "https://img.etimg.com/photo/msid-130309687,imgsize-555900.cms",
     "source": "ET",
-    "pubDate": "Thu, 16 Apr 2026 17:10:39 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-life-q4-results-profit-climbs-4-yoy-hdfc-bank-to-hike-stake-buy-shares-worth-rs-1000-crore/articleshow/130305866.cms"
+    "pubDate": "Thu, 16 Apr 2026 19:33:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/weak-and-lacklustre-why-jefferies-is-disappointed-with-wipro-earnings-as-adrs-fall-nearly-3/articleshow/130309687.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/akasa-spicejet-aircraft-involved-in-minor-collision-at-delhi-airport-11366260#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/rahul-gandhi-pushed-for-womens-quota-by-2019-priyanka-gandhis-counter-in-lok-sabha-11367254#publisher=newsstand",
     "category": "india",
-    "title": "Winglet, Stabiliser Damaged: Akasa, SpiceJet Planes Collide At Delhi Airport",
-    "summary": "Akasa, SpiceJet Aircraft Involved In Minor Collision At Delhi Airport",
-    "image": "https://c.ndtvimg.com/2026-04/63rbjuig_delhi-airport-collision_650x400_16_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "\"Rahul Gandhi Pushed For Women's Quota By 2019\": Priyanka Gandhi's Counter",
+    "summary": "Priyanka Gandhi during Women's Reservation Bill debate in Lok Sabha",
+    "image": "https://c.ndtvimg.com/2026-04/j0sp6p5g_priyanka-gandhi_625x300_16_April_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Apr 2026 17:07:26 +0530",
-    "link": "https://www.ndtv.com/india-news/akasa-spicejet-aircraft-involved-in-minor-collision-at-delhi-airport-11366260#publisher=newsstand"
+    "pubDate": "Thu, 16 Apr 2026 19:22:48 +0530",
+    "link": "https://www.ndtv.com/india-news/rahul-gandhi-pushed-for-womens-quota-by-2019-priyanka-gandhis-counter-in-lok-sabha-11367254#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/israel-lebanon-war-iran-us-israel-war-explosions-rip-through-lebanon-town-as-israel-launches-massive-assault-11365892#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/from-karachi-to-lahore-a-kill-trail-of-terrorists-in-pakistan-by-unknown-gunmen-11367052#publisher=newsstand",
     "category": "india",
-    "title": "Explosions Rip Through Lebanon Town As Israel Launches Massive Assault",
-    "summary": "The visuals released by the IDF show large-scale detonation and desctruction.",
-    "image": "https://c.ndtvimg.com/2026-04/feerul5o_bint-jbeil-town-lebanon_625x300_16_April_26.jpeg",
+    "title": "From Karachi To Lahore: A Kill Trail Of Terrorists In Pakistan By \"Unknown Gunmen\"",
+    "summary": "The eliminations have often been attributed by local reports to \"unidentified gunmen\"",
+    "image": "https://c.ndtvimg.com/2026-04/tk8icgd_terrorists_625x300_16_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Apr 2026 17:02:49 +0530",
-    "link": "https://www.ndtv.com/world-news/israel-lebanon-war-iran-us-israel-war-explosions-rip-through-lebanon-town-as-israel-launches-massive-assault-11365892#publisher=newsstand"
+    "pubDate": "Thu, 16 Apr 2026 19:22:43 +0530",
+    "link": "https://www.ndtv.com/world-news/from-karachi-to-lahore-a-kill-trail-of-terrorists-in-pakistan-by-unknown-gunmen-11367052#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/health/how-often-should-you-check-your-blood-pressure-for-your-hearts-safety-doctor-answers-11366372#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/akasa-air-spicejet-plane-landing-on-wrong-runway-to-engine-sucking-in-container-close-calls-at-delhi-airport-11367125#publisher=newsstand",
     "category": "india",
-    "title": "How Often Should You Check Your Blood Pressure For Your Heart's Safety? Doctor Answers",
-    "summary": "To ensure accurate readings, maintain the correct posture",
-    "image": "https://c.ndtvimg.com/2026-04/pm9jitu4_blood-pressure_625x300_10_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Plane Landing On Wrong Runway To Engine Sucking In Container: Close Calls At Delhi Airport",
+    "summary": "This incident comes against the backdrop of several other safety-related events.",
+    "image": "https://c.ndtvimg.com/2025-12/p6r9f9a4_delhi-airport_625x300_09_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Apr 2026 17:01:55 +0530",
-    "link": "https://www.ndtv.com/health/how-often-should-you-check-your-blood-pressure-for-your-hearts-safety-doctor-answers-11366372#publisher=newsstand"
+    "pubDate": "Thu, 16 Apr 2026 19:18:44 +0530",
+    "link": "https://www.ndtv.com/india-news/akasa-air-spicejet-plane-landing-on-wrong-runway-to-engine-sucking-in-container-close-calls-at-delhi-airport-11367125#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/after-breach-bomb-threats-delhi-assembly-speaker-vijender-gupta-gets-z-security-11366314#publisher=newsstand",
-    "category": "india",
-    "title": "After Breach, Bomb Threats, Delhi Assembly Speaker Vijender Gupta Gets Z Security",
-    "summary": "In late March, the Delhi Legislative Assembly received a spate of threatening emails.",
-    "image": "https://i.ndtvimg.com/i/2016-06/vijender-gupta_650x400_51464961972.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Apr 2026 17:01:12 +0530",
-    "link": "https://www.ndtv.com/india-news/after-breach-bomb-threats-delhi-assembly-speaker-vijender-gupta-gets-z-security-11366314#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/feature/disney-starts-layoffs-under-new-ceo-1-000-jobs-cut-full-severance-details-revealed-11366363#publisher=newsstand",
-    "category": "india",
-    "title": "Disney Starts Layoffs Under New CEO: 1,000 Jobs Cut. Full Severance Details Revealed",
-    "summary": "Disney begins job cuts primarily in marketing, offering severance based on rank and tenure.",
-    "image": "https://c.ndtvimg.com/2026-04/6mmc266c_disney_625x300_10_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Apr 2026 16:57:09 +0530",
-    "link": "https://www.ndtv.com/feature/disney-starts-layoffs-under-new-ceo-1-000-jobs-cut-full-severance-details-revealed-11366363#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/youre-not-anti-science-for-questioning-your-supplements-says-lifestyle-medicine-expert-11366333#publisher=newsstand",
-    "category": "india",
-    "title": "You're Not Anti-Science For Questioning Your Supplements, Says Lifestyle Medicine Expert",
-    "summary": "Questioning what you hear about a product does not make you difficult or distrustful",
-    "image": "https://c.ndtvimg.com/2026-04/7iklhoe8_supplemensts_625x300_16_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Apr 2026 16:56:04 +0530",
-    "link": "https://www.ndtv.com/health/youre-not-anti-science-for-questioning-your-supplements-says-lifestyle-medicine-expert-11366333#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/gautam-duggad-on-why-midcaps-will-keep-beating-nifty-and-his-top-bets-for-fy27/articleshow/130305481.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/big-money-moves-11-large-cap-stocks-where-institutional-investors-raised-stakes-in-q4fy26/slideshow/130309599.cms",
     "category": "finance",
-    "title": "Gautam Duggad on why midcaps will keep beating Nifty and his top bets for FY27",
-    "summary": "Gautam Duggad of Motilal Oswal Financial Services anticipates a sharp earnings slowdown in the fourth quarter. He strongly recommends PSU banks, defence stocks, and capital market plays for the upcoming fiscal year 2027. Duggad believes midcap compan",
-    "image": "https://img.etimg.com/photo/msid-130305481,imgsize-91974.cms",
+    "title": "Big Money Moves: 11 large-cap stocks where institutional investors raised stakes in Q4FY26",
+    "summary": "Institutional investors increased stakes across major NSE large-cap stocks in March 2026, signaling confidence in fundamentals and future growth. Companies like Adani Power, Axis Bank, NTPC, and Coal India saw modest rises, supporting improved govern",
+    "image": "https://img.etimg.com/photo/msid-130309206,imgsize-4296.cms",
     "source": "ET",
-    "pubDate": "Thu, 16 Apr 2026 16:53:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/gautam-duggad-on-why-midcaps-will-keep-beating-nifty-and-his-top-bets-for-fy27/articleshow/130305481.cms"
+    "pubDate": "Thu, 16 Apr 2026 19:11:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/big-money-moves-11-large-cap-stocks-where-institutional-investors-raised-stakes-in-q4fy26/slideshow/130309599.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/migrants-are-faking-as-domestic-abuse-victims-to-fast-track-their-pr-in-the-uk-11366235#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-higher-with-earnings-in-focus/articleshow/130308985.cms",
+    "category": "finance",
+    "title": "US stocks today: US stocks open higher with earnings in focus",
+    "summary": "Wall \u200bStreet's \u200bmain indexes \u200bopened higher on Wednesday as investors assessed \u200cthe \u2060latest developments \u2060in \u200bthe Middle East and \u200ba raft of corporate earnings, \u200bwhile awaiting \u2060remarks from \u200cFederal \u200bReserve \u200bofficials.",
+    "image": "https://img.etimg.com/photo/msid-130308985,imgsize-126686.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Apr 2026 19:04:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-higher-with-earnings-in-focus/articleshow/130308985.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/aiims-trained-doctor-explains-what-happens-if-you-eat-avocado-daily-for-14-days-11367120#publisher=newsstand",
     "category": "india",
-    "title": "Migrants Are Faking Domestic Abuse To Fast-Track UK Permanent Residency",
-    "summary": "Immigration advisors reportedly coach clients to fabricate psychological abuse stories.",
-    "image": "https://c.ndtvimg.com/2026-04/phlm282o_uk-immigrants_625x300_16_April_26.jpeg",
+    "title": "AIIMS-Trained Doctor Explains What Happens If You Eat Avocado Daily For 14 Days",
+    "summary": "Avocados are rich in monounsaturated fats",
+    "image": "https://c.ndtvimg.com/2025-04/01ruq6ng_benefits-of-avocados-for-cholesterol-and-how-to-eat-them_625x300_10_April_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Apr 2026 16:52:38 +0530",
-    "link": "https://www.ndtv.com/world-news/migrants-are-faking-as-domestic-abuse-victims-to-fast-track-their-pr-in-the-uk-11366235#publisher=newsstand"
+    "pubDate": "Thu, 16 Apr 2026 19:04:40 +0530",
+    "link": "https://www.ndtv.com/health/aiims-trained-doctor-explains-what-happens-if-you-eat-avocado-daily-for-14-days-11367120#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/parliament-special-session-live-updates-women-reservation-delimitation-bill-women-reservation-law-special-sitting-of-parliament-to-begin-today-11364182#publisher=newsstand",
+    "id": "https://www.ndtv.com/feature/struggling-shoe-company-pivots-overnight-to-ai-company-stock-price-spikes-600-11367165#publisher=newsstand",
     "category": "india",
-    "title": "Parliament Special Session LIVE: \"50% Of Country's Population Should Be Made Part Of Decision-Making\": PM Modi",
-    "summary": "Parliament's 3-day special session Live Updates, Day 1: The government is expected to introduce three amendment Bills aimed at operationalising the legislation, which was passed in 2023 to provide 33% reservation for women in the Lok Sabha and State",
-    "image": "https://c.ndtvimg.com/2026-04/3a8ke41g_modi_625x300_16_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Struggling Shoe Company Pivots Overnight To AI Company, Stock Price Spikes 600%",
+    "summary": "Allbirds rebrands as NewBird AI and raises $50M to fund GPU acquisition for AI services.",
+    "image": "https://c.ndtvimg.com/2026-04/tesfvrc4_as_625x300_16_April_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Apr 2026 16:51:34 +0530",
-    "link": "https://www.ndtv.com/india-news/parliament-special-session-live-updates-women-reservation-delimitation-bill-women-reservation-law-special-sitting-of-parliament-to-begin-today-11364182#publisher=newsstand"
+    "pubDate": "Thu, 16 Apr 2026 19:03:50 +0530",
+    "link": "https://www.ndtv.com/feature/struggling-shoe-company-pivots-overnight-to-ai-company-stock-price-spikes-600-11367165#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/niftys-roadmap-to-24800-rahul-sharma-of-jm-financial-explains-why-hes-buying-the-dip/articleshow/130305120.cms",
-    "category": "finance",
-    "title": "Nifty's roadmap to 24,800: Rahul Sharma of JM Financial explains why he\u2019s buying the dip",
-    "summary": "Rahul Sharma of JM Financial remains bullish on Nifty, advising investors to \u201cbuy the dip\u201d with 24,800 as the next key resistance. He believes support around 24,100\u201323,700 remains intact, backed by strong sector leadership in PSU, metals, and IT, wit",
-    "image": "https://img.etimg.com/photo/msid-130305120,imgsize-26444.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Apr 2026 16:37:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/niftys-roadmap-to-24800-rahul-sharma-of-jm-financial-explains-why-hes-buying-the-dip/articleshow/130305120.cms"
+    "id": "https://www.ndtv.com/health/understanding-hemophilia-doctor-explains-symptoms-treatment-and-daily-challenges-11367105#publisher=newsstand",
+    "category": "india",
+    "title": "Understanding Hemophilia: Doctor Explains Symptoms, Treatment And Daily Challenges",
+    "summary": "Hemophilia, though rare, presents lifelong challenges that extend beyond bleeding episodes",
+    "image": "https://c.ndtvimg.com/2026-04/1dgmt5kg_hemophilia_625x300_16_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Apr 2026 19:03:23 +0530",
+    "link": "https://www.ndtv.com/health/understanding-hemophilia-doctor-explains-symptoms-treatment-and-daily-challenges-11367105#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q4-results-profit-falls-2-yoy-to-rs-3502-crore-but-revenue-rises-8/articleshow/130305068.cms",
-    "category": "finance",
-    "title": "Wipro Q4 Results: Profit falls 2% YoY to Rs 3,502 crore; revenue rises 8%",
-    "summary": "Wipro Q4 Results: Wipro's net profit dipped 2% to Rs 3,502 crore in the March quarter, despite an 8% revenue increase to Rs 24,236 crore. The IT services segment saw sluggish growth, with revenue up only 0.6% sequentially. The company announced a sig",
-    "image": "https://img.etimg.com/photo/msid-130305068,imgsize-47250.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Apr 2026 16:36:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q4-results-profit-falls-2-yoy-to-rs-3502-crore-but-revenue-rises-8/articleshow/130305068.cms"
+    "id": "https://www.ndtv.com/offbeat/woman-shares-what-working-in-india-is-really-like-for-nris-who-move-back-11367022#publisher=newsstand",
+    "category": "india",
+    "title": "Woman Shares What Working In India Is Really Like For NRIs Who Move Back",
+    "summary": "NRI counsellor Nupur Dave explains work life for professionals joining MNCs India.",
+    "image": "https://c.ndtvimg.com/2026-04/ukc58j94_nris_625x300_16_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Apr 2026 18:58:04 +0530",
+    "link": "https://www.ndtv.com/offbeat/woman-shares-what-working-in-india-is-really-like-for-nris-who-move-back-11367022#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q4-results-company-announces-rs-15000-crore-share-buyback-at-19-premium-check-key-things-to-know/articleshow/130305008.cms",
+    "id": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-seen-rising-on-optimism-over-us-iran-peace-deal/articleshow/130308730.cms",
     "category": "finance",
-    "title": "Wipro share buyback: IT major announces Rs 15,000 crore offer at 19% premium. Key things to know",
-    "summary": "Wipro share buyback: IT services giant Wipro announced a significant Rs 15,000 crore share buyback at Rs 250 per share, a 19% premium over the last closing price. This marks the company's first buyback in over three years, involving up to 60 crore sh",
-    "image": "https://img.etimg.com/photo/msid-130305008,imgsize-231198.cms",
+    "title": "Indian bonds seen rising on optimism over US-Iran peace deal",
+    "summary": "Indian government bonds are expected to extend \u200bgains in early deals \u200bon Thursday, as oil prices remain steady and market \u200bsentiment improves amid growing optimism over a U.S.-Iran peace deal.",
+    "image": "https://img.etimg.com/photo/msid-130308730,imgsize-125906.cms",
     "source": "ET",
-    "pubDate": "Thu, 16 Apr 2026 16:33:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q4-results-company-announces-rs-15000-crore-share-buyback-at-19-premium-check-key-things-to-know/articleshow/130305008.cms"
+    "pubDate": "Thu, 16 Apr 2026 18:53:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-seen-rising-on-optimism-over-us-iran-peace-deal/articleshow/130308730.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/zerodha-traders-saved-rs-25620-crore-brokerage-nithin-kamath-shows-the-calculation/articleshow/130304748.cms",
-    "category": "finance",
-    "title": "Zerodha traders saved Rs 25,620 crore brokerage: Nithin Kamath shows the calculation",
-    "summary": "Zerodha traders saved Rs 25,620 crore in brokerage between 2016 and 2025 due to the firm\u2019s zero-delivery brokerage model, founder Nithin Kamath said. He credited the bootstrapped structure for enabling a customer-first approach, avoiding aggressive m",
-    "image": "https://img.etimg.com/photo/msid-130304748,imgsize-28182.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Apr 2026 16:26:46 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/zerodha-traders-saved-rs-25620-crore-brokerage-nithin-kamath-shows-the-calculation/articleshow/130304748.cms"
+    "id": "https://www.ndtv.com/health/air-pollution-could-be-linked-with-increased-migraine-activity-study-finds-11366807#publisher=newsstand",
+    "category": "india",
+    "title": "Air Pollution Could Be Linked With Increased Migraine Activity, Finds Study",
+    "summary": "Migraines can be caused due to a rise in air pollution",
+    "image": "https://c.ndtvimg.com/2026-04/mk3kfoo8_air-pollution_625x300_16_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Apr 2026 18:52:57 +0530",
+    "link": "https://www.ndtv.com/health/air-pollution-could-be-linked-with-increased-migraine-activity-study-finds-11366807#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/rupee-edges-higher-as-optimism-over-iran-peace-deal-firms/articleshow/130304642.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/market-fall-sparks-buy-call-prateek-agrawal-on-why-this-dip-may-be-an-opportunity/videoshow/130308513.cms",
     "category": "finance",
-    "title": "Rupee edges higher as optimism over Iran peace deal firms",
-    "summary": "The Indian rupee closed slightly stronger on \u200bThursday on growing optimism over \u200ba potential deal to end the Iran war, \u200bwhich kept oil prices below $100 a barrel and lifted global equities to record highs.",
-    "image": "https://img.etimg.com/photo/msid-130304642,imgsize-34240.cms",
+    "title": "Market fall sparks buy call: Prateek Agrawal on why this dip may be an opportunity",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-130308513,imgsize-113198.cms",
     "source": "ET",
-    "pubDate": "Thu, 16 Apr 2026 16:15:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/rupee-edges-higher-as-optimism-over-iran-peace-deal-firms/articleshow/130304642.cms"
+    "pubDate": "Thu, 16 Apr 2026 18:39:55 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/market-fall-sparks-buy-call-prateek-agrawal-on-why-this-dip-may-be-an-opportunity/videoshow/130308513.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-inch-higher-on-middle-east-peace-prospects-earnings-in-focus/articleshow/130302829.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-paul-tudor-jones-the-most-important-rule-of-trading-is-to-play-great-defence-not-great-offence-/articleshow/130306990.cms",
     "category": "finance",
-    "title": "Global Markets | European shares inch higher on Middle East peace prospects; earnings in focus",
-    "summary": "European \u200bshares edged higher on Thursday as growing optimism about a potential resolution to the Middle East conflict lifted market sentiment, while investors assessed corporate earnings reports across the region.",
-    "image": "https://img.etimg.com/photo/msid-130302829,imgsize-24170.cms",
+    "title": "Quote of the day by Paul Tudor Jones: \"The most important rule of trading is to play great defence, not great offence.\"",
+    "summary": "Seasoned traders prioritize survival and consistency over aggressive bets, a principle championed by Paul Tudor Jones. This defensive mindset focuses on capital preservation and risk management, ensuring traders can endure losses and capitalize on op",
+    "image": "https://img.etimg.com/photo/msid-130306990,imgsize-16626.cms",
     "source": "ET",
-    "pubDate": "Thu, 16 Apr 2026 14:58:34 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-inch-higher-on-middle-east-peace-prospects-earnings-in-focus/articleshow/130302829.cms"
+    "pubDate": "Thu, 16 Apr 2026 18:00:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-paul-tudor-jones-the-most-important-rule-of-trading-is-to-play-great-defence-not-great-offence-/articleshow/130306990.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gmdc-gujarat-alkalies-among-8-commodities-stocks-that-hit-52-week-high-rally-up-to-65-in-a-month/slideshow/130307508.cms",
+    "category": "finance",
+    "title": "GMDC, Gujarat Alkalies among 8 commodities stocks that hit 52-week high; rally up to 65% in a month",
+    "summary": "Despite a weak broader market, commodity stocks stood out on Thursday, with eight names from the BSE commodities index hitting fresh 52-week highs. Stocks like Gujarat Alkalies, GMDC, and Indian Metals led the rally with gains of up to 65% in a month",
+    "image": "https://img.etimg.com/photo/msid-130307026,imgsize-24088.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Apr 2026 17:45:49 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gmdc-gujarat-alkalies-among-8-commodities-stocks-that-hit-52-week-high-rally-up-to-65-in-a-month/slideshow/130307508.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-war-ceasefire-talks-brent-crude-oil-inflation-earnings-tech-stock-price-news/liveblog/130306797.cms",
+    "category": "finance",
+    "title": "US Stock Market Today | Dow Jones | Nasdaq Live: US stocks open higher with earnings in focus",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-130306797,imgsize-2184048.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Apr 2026 17:38:45 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-war-ceasefire-talks-brent-crude-oil-inflation-earnings-tech-stock-price-news/liveblog/130306797.cms"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1532128.html",
+    "category": "sports",
+    "title": "Rohit and Santner miss out for Mumbai Indians against Punjab Kings",
+    "summary": "Mumbai Indians brought in Quinton de Kock for his first game of the season",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415000/415048.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 16 Apr 2026 14:49:29 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1532128.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4gx4zywjzwo#0",
+    "category": "global",
+    "title": "Three arrests after attempted arson attack at Persian media offices in London",
+    "summary": "An ignited container was thrown towards the building of a Persian language media organisation, police said.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Apr 2026 14:35:17 GMT",
+    "link": "https://www.bbc.com/news/articles/c4gx4zywjzwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1532135.html",
+    "category": "sports",
+    "title": "Hunain, Ali keep Rawalpindiz winless on tricky Karachi track",
+    "summary": "Labuschagne, Perera and Irfan played key knocks after Kingsmen also found themselves in trouble with the bat",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415700/415706.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 16 Apr 2026 14:14:54 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1532135.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1532123.html",
+    "category": "sports",
+    "title": "No Pathirana yet as free-falling KKR meet on-the-rise Gujarat Titans",
+    "summary": "Pathirana has received his NOC from SLC but will not be available for this game because of logistical reasons",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415100/415116.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 16 Apr 2026 14:14:46 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1532123.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1532129.html",
+    "category": "sports",
+    "title": "Mehidy: We cannot see New Zealand as a weak side",
+    "summary": "Tom Latham wants his players to stick to the processes and plans that have brought them success in domestic cricket",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/392800/392892.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 16 Apr 2026 14:05:21 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1532129.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0q92lg9ln5o#0",
+    "category": "global",
+    "title": "Home Office investigating after BBC finds migrants making false claims to stay in UK",
+    "summary": "No 10 says the government is working to ensure \"anyone potentially abusing our immigration system is held accountable\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Apr 2026 14:02:49 GMT",
+    "link": "https://www.bbc.com/news/articles/c0q92lg9ln5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo#0",
+    "category": "global",
+    "title": "Former Arsenal goalkeeper Alex Manninger dies after car struck by train in Austria",
+    "summary": "Former Arsenal goalkeeper Alex Manninger dies at the age of 48 after his car is struck by a train.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Apr 2026 13:53:25 GMT",
+    "link": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cpvxp4xnrwdo#0",
@@ -206,18 +266,38 @@
     "summary": "The UK could face some food shortages by the summer under a worst case scenario drawn up by government officials.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 16 Apr 2026 12:00:18 GMT",
+    "pubDate": "Thu, 16 Apr 2026 13:43:40 GMT",
     "link": "https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c05d2675pelo#0",
+    "id": "https://www.bbc.com/news/articles/ce3dp52l70zo#0",
     "category": "global",
-    "title": "Woman dies after being attacked by dogs at house",
-    "summary": "The dogs, not thought to be a banned breed, were destroyed after attacking the woman aged in her 70s.",
+    "title": "Vaccines a huge success, but public trust must be earned - key findings from Covid report",
+    "summary": "Immunisation saved hundreds of thousands of UK lives, but vaccine hesitancy remains an issue.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 16 Apr 2026 11:42:15 GMT",
-    "link": "https://www.bbc.com/news/articles/c05d2675pelo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 16 Apr 2026 13:02:12 GMT",
+    "link": "https://www.bbc.com/news/articles/ce3dp52l70zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1532119.html",
+    "category": "sports",
+    "title": "Mumbai introduces contract system for domestic players",
+    "summary": "The MCA did not specify whether the contracts would cover both men and women cricketers",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/396900/396933.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 16 Apr 2026 13:01:17 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1532119.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c93elnv973ro#0",
+    "category": "global",
+    "title": "Church warden murder conviction quashed",
+    "summary": "Benjamin Field has been in prison for the murder of Peter Farquhar, 69.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Apr 2026 12:10:03 GMT",
+    "link": "https://www.bbc.com/news/articles/c93elnv973ro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1532117.html",
@@ -230,26 +310,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1532117.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c93elnv973ro#0",
-    "category": "global",
-    "title": "Church warden murder conviction quashed",
-    "summary": "Benjamin Field has been in prison for the murder of Peter Farquhar, 69.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Apr 2026 11:34:51 GMT",
-    "link": "https://www.bbc.com/news/articles/c93elnv973ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/sport/football/articles/cg73p124k07o#0",
-    "category": "global",
-    "title": "Fifa blamed as World Cup trains set to cost $100",
-    "summary": "New Jersey Governor Mikie Sherrill accuses Fifa of failing to provide funding, which means fans must foot the bill for high transport costs at the World Cup this summer.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Apr 2026 11:02:13 GMT",
-    "link": "https://www.bbc.com/sport/football/articles/cg73p124k07o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1532109.html",
     "category": "sports",
     "title": "Jackson loses WA contract after being leading one-day bowler",
@@ -258,16 +318,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 16 Apr 2026 10:44:45 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1532109.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c8r48l0kd2do#0",
-    "category": "global",
-    "title": "'I was the most trolled person in the world,' Meghan says during Australia visit",
-    "summary": "Alongside her husband, the Duchess of Sussex was speaking to young people in Melbourne about the harms of social media.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Apr 2026 08:24:35 GMT",
-    "link": "https://www.bbc.com/news/articles/c8r48l0kd2do?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cql77wlqlx7o#0",
@@ -290,64 +340,14 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1532096.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1532100.html",
-    "category": "sports",
-    "title": "MI sign Krish Bhagat as injured Atharva Ankolekar's replacement",
-    "summary": "The Punjab seamer is yet to play T20s, but has impressed the MI management as a support bowler in the build-up to the IPL 2026 season",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415700/415700.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 16 Apr 2026 06:59:17 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1532100.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1532093.html",
-    "category": "sports",
-    "title": "Experienced Bangladesh face inexperienced NZ in hot Dhaka",
-    "summary": "NZ are without a number of their first-choice players who are away at the IPL or PSL",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414620.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 16 Apr 2026 05:50:13 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1532093.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/crl19dzdd38o#0",
     "category": "global",
-    "title": "Migrants making false domestic abuse claims to stay in UK, BBC investigation finds",
+    "title": "Migrants making false domestic abuse claims to stay in UK, BBC investigation reveals",
     "summary": "In the third part of an undercover investigation, the BBC reveals how rules aimed at protecting abuse victims are being exploited.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Thu, 16 Apr 2026 04:58:15 GMT",
     "link": "https://www.bbc.com/news/articles/crl19dzdd38o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1532090.html",
-    "category": "sports",
-    "title": "'Patidar's intent becoming their identity' - RCB's batting tempo impresses Finch, Rayudu",
-    "summary": "The RCB captain is averaging 55.50 and striking at 213.46 this season, and has hit 21 sixes and 12 fours",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415483.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 16 Apr 2026 04:16:04 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1532090.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1532084.html",
-    "category": "sports",
-    "title": "Virat Kohli moves to the top of the Orange Cap table",
-    "summary": "Here's how things stand after Match No. 23 at IPL 2026",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415600/415698.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 16 Apr 2026 02:24:50 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1532084.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1532080.html",
-    "category": "sports",
-    "title": "Cummins cleared for IPL return, targeting late April comeback",
-    "summary": "SRH's captain returned to Australia for scans which have provided positive news on his back injury",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414900/414998.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 16 Apr 2026 01:05:51 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1532080.html?ex_cid=OTC-RSS"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
