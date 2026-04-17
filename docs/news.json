@@ -30,26 +30,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cqj8pg5yppwo#0",
-    "category": "global",
-    "title": "UK seeks closer EU ties in volatile times - but at what cost?",
-    "summary": "The UK is adopting a \"ruthlessly pragmatic\" approach to becoming closer to its European neighbours, the UK's EU minister tells the BBC.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Apr 2026 23:49:34 GMT",
-    "link": "https://www.bbc.com/news/articles/cqj8pg5yppwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4gvvnpl5kno#0",
-    "category": "global",
-    "title": "Rising value of Pok\u00e9mon cards sparks smash and grab crime spree",
-    "summary": "Small shops across the UK are being targeted by thieves stealing collectibles worth thousands of pounds.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Apr 2026 23:01:59 GMT",
-    "link": "https://www.bbc.com/news/articles/c4gvvnpl5kno?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -78,6 +58,116 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 05 Jan 2026 07:45:00 GMT",
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-stronger-trims-underperformance-versus-asia-fx-on-rbi-measures/articleshow/130330661.cms",
+    "category": "finance",
+    "title": "Rupee ends stronger, trims underperformance versus Asia FX on RBI measures",
+    "summary": "The Indian rupee rose on Friday following a \u200bReuters report of a central \u200bbank step to curb state-run oil companies' dollar demand, adding \u200bto measures that have narrowed the currency's underperformance over the last fortnight.",
+    "image": "https://img.etimg.com/photo/msid-130330661,imgsize-76062.cms",
+    "source": "ET",
+    "pubDate": "Fri, 17 Apr 2026 16:34:42 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-stronger-trims-underperformance-versus-asia-fx-on-rbi-measures/articleshow/130330661.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/nifty-headed-to-24800-next-vinay-rajani-names-cg-power-and-pidilite-as-top-trading-picks/articleshow/130330377.cms",
+    "category": "finance",
+    "title": "Nifty headed to 24,800 next; Vinay Rajani names CG Power and Pidilite as top trading picks",
+    "summary": "Vinay Rajani of HDFC Securities believes the Indian market rally has further to go, identifying 24,000-24,100 as a buying opportunity on dips, with 24,800 as the next target. He highlights broad market participation and sector rotation as key strengt",
+    "image": "https://img.etimg.com/photo/msid-130330377,imgsize-28020.cms",
+    "source": "ET",
+    "pubDate": "Fri, 17 Apr 2026 16:31:04 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/nifty-headed-to-24800-next-vinay-rajani-names-cg-power-and-pidilite-as-top-trading-picks/articleshow/130330377.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/weather-office-predicts-thunderstorms-light-rain-in-delhi-yellow-alert-issued-11371027#publisher=newsstand",
+    "category": "india",
+    "title": "Weather Office Predicts Thunderstorms, Light Rain In Delhi, Yellow Alert Issued",
+    "summary": "The weather department has predicted thunderstorms accompanied by light rain.",
+    "image": "https://c.ndtvimg.com/2026-04/91u3gk2k_delhi-weather-_625x300_17_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 16:27:10 +0530",
+    "link": "https://www.ndtv.com/india-news/weather-office-predicts-thunderstorms-light-rain-in-delhi-yellow-alert-issued-11371027#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/rajasthan-university-protest-student-leader-makes-tea-bangs-utensils-outside-vc-office-11371233#publisher=newsstand",
+    "category": "india",
+    "title": "Rajasthan University Protest: Student Leader Makes Tea, Bangs Utensils Outside VC Office",
+    "summary": "Rajasthan University has been shut for last three days amid ongoing protest.",
+    "image": "https://c.ndtvimg.com/2026-04/vk924ghk_rajasthan-university-protest_625x300_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 16:24:21 +0530",
+    "link": "https://www.ndtv.com/education/rajasthan-university-protest-student-leader-makes-tea-bangs-utensils-outside-vc-office-11371233#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-q4-preview-nii-to-grow-up-to-12-pat-estimates-diverge-8-things-to-watch/articleshow/130330370.cms",
+    "category": "finance",
+    "title": "YES Bank Q4 preview: NII to grow up to 12%; PAT estimates diverge. 8 things to watch",
+    "summary": "YES Bank is poised for a steady Q4FY26 performance, with brokerages forecasting healthy earnings growth driven by stable margins and resilient loan expansion. Analysts anticipate a profit after tax between Rs 765 crore and Rs 1,066 crore, reflecting ",
+    "image": "https://img.etimg.com/photo/msid-130330370,imgsize-71888.cms",
+    "source": "ET",
+    "pubDate": "Fri, 17 Apr 2026 16:22:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-q4-preview-nii-to-grow-up-to-12-pat-estimates-diverge-8-things-to-watch/articleshow/130330370.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/too-little-body-fat-can-be-as-risky-as-obesity-7-surprising-side-effects-11371264#publisher=newsstand",
+    "category": "india",
+    "title": "Too Little Body Fat Can Be As Risky As Obesity: 7 Surprising Side Effects",
+    "summary": "Body fat is a major site for hormone conversion",
+    "image": "https://c.ndtvimg.com/2026-04/7p2f285c_weight-loss_625x300_17_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 16:13:54 +0530",
+    "link": "https://www.ndtv.com/health/too-little-body-fat-can-be-as-risky-as-obesity-7-surprising-side-effects-11371264#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/researchers-use-nasal-spray-to-suppress-brain-inflammation-reverse-ageing-11371256#publisher=newsstand",
+    "category": "india",
+    "title": "Researchers Use Nasal Spray To Suppress Brain Inflammation, Reverse ageing",
+    "summary": "Brain age-related diseases like dementia are a major health concern worldwide",
+    "image": "https://c.ndtvimg.com/2026-04/t5sni4rs_brain-agerelated-diseases-like-dementia-are-a-major-health-concern-worldwide_625x300_17_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 16:08:16 +0530",
+    "link": "https://www.ndtv.com/health/researchers-use-nasal-spray-to-suppress-brain-inflammation-reverse-ageing-11371256#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/food/2-000-kg-fake-ghee-worth-rs-14-lakh-seized-in-surat-factory-operating-for-2-years-11367765#publisher=newsstand",
+    "category": "india",
+    "title": "2,000 kg Fake Ghee Worth Rs 14 Lakh Seized In Surat Factory Operating For 2 Years",
+    "summary": "Artificial essence was added to replicate the smell of cow ghee.",
+    "image": "https://c.ndtvimg.com/2026-04/buphud2c_ghee-raid_625x300_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 16:07:57 +0530",
+    "link": "https://www.ndtv.com/food/2-000-kg-fake-ghee-worth-rs-14-lakh-seized-in-surat-factory-operating-for-2-years-11367765#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/not-womens-bill-attempt-to-change-electoral-map-of-india-rahul-gandhi-11371042#publisher=newsstand",
+    "category": "india",
+    "title": "\"Panic Reaction\": Rahul Gandhi On Centre Linking Delimitation, Women's Bill",
+    "summary": "On the controversial delimitation issue, Gandhi said: \"What the government is doing now is nothing short of anti-national act (and) we won't allow you to do it opposition will defeat this.\"",
+    "image": "https://c.ndtvimg.com/2026-04/bt4a1dp4_rahul-gandhi_625x300_17_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 16:06:51 +0530",
+    "link": "https://www.ndtv.com/india-news/not-womens-bill-attempt-to-change-electoral-map-of-india-rahul-gandhi-11371042#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/pm-modis-leadership-gives-us-confidence-industrialist-sanjiv-goenka-to-ndtv-on-iran-war-11371232#publisher=newsstand",
+    "category": "india",
+    "title": "'PM Modi's Leadership Gives Us Confidence': Sanjiv Goenka To NDTV On Iran War",
+    "summary": "Sanjiv Goenka in conversation with Rahul Kanwal",
+    "image": "https://c.ndtvimg.com/2026-04/i8el40f_kanwal-goenka-_625x300_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 16:03:05 +0530",
+    "link": "https://www.ndtv.com/india-news/pm-modis-leadership-gives-us-confidence-industrialist-sanjiv-goenka-to-ndtv-on-iran-war-11371232#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/russia-is-building-army-of-teen-influencers-to-creat-pro-war-content-11370661#publisher=newsstand",
+    "category": "india",
+    "title": "Russia Is Building Army Of Teen Influencers To Create Pro-War Content",
+    "summary": "The drive to instil young Russians with Kremlin-approved values comes from the very top.",
+    "image": "https://c.ndtvimg.com/2026-04/4rnue07k_russia-war_625x300_17_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 15:51:01 +0530",
+    "link": "https://www.ndtv.com/world-news/russia-is-building-army-of-teen-influencers-to-creat-pro-war-content-11370661#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-consumer-care-shares-soar-16-after-q4-net-profit-doubles-to-rs-63-crore/articleshow/130329556.cms",
@@ -110,86 +200,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/windlas-biotech-announces-rs-47-crore-buyback-at-rs-1000/share-sets-april-24-as-record-date/articleshow/130329363.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/not-womens-bill-attempt-to-change-electoral-map-of-india-rahul-gandhi-11371042#publisher=newsstand",
-    "category": "india",
-    "title": "\"Not Women's Bill, Attempt To Change Electoral Map Of India\": Rahul Gandhi",
-    "summary": "",
-    "image": "https://c.ndtvimg.com/2026-04/bt4a1dp4_rahul-gandhi_625x300_17_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 15:33:22 +0530",
-    "link": "https://www.ndtv.com/india-news/not-womens-bill-attempt-to-change-electoral-map-of-india-rahul-gandhi-11371042#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/ai-finds-hidden-skin-cancer-risk-flags-1-in-3-danger-rate-study-11370939#publisher=newsstand",
-    "category": "india",
-    "title": "AI Finds Hidden Skin Cancer Risk, Flags 1-In-3 Danger Rate: Study",
-    "summary": "Melanoma is one of the most serious forms of skin cancer",
-    "image": "https://c.ndtvimg.com/2026-04/mckn7n5_melanoma-is-one-of-the-most-serious-forms-of-skin-cancer_625x300_17_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 15:32:36 +0530",
-    "link": "https://www.ndtv.com/health/ai-finds-hidden-skin-cancer-risk-flags-1-in-3-danger-rate-study-11370939#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/6-reasons-why-women-must-add-seeds-to-their-daily-diet-11370700#publisher=newsstand",
-    "category": "india",
-    "title": "6 Reasons Why Women Must Add Seeds To Their Daily Diet",
-    "summary": "Seeds such as sesame and chia are rich in calcium",
-    "image": "https://c.ndtvimg.com/2026-04/gl1dib0k_seeds_625x300_17_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 15:27:54 +0530",
-    "link": "https://www.ndtv.com/health/6-reasons-why-women-must-add-seeds-to-their-daily-diet-11370700#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/eating-dinner-just-before-going-to-bed-your-digestion-may-not-keep-up-overnight-11370938#publisher=newsstand",
-    "category": "india",
-    "title": "Eating Dinner Just Before Going To Bed? Your Digestion May Not Keep Up Overnight",
-    "summary": "Eating immediately before bedtime places the digestive system under strain",
-    "image": "https://c.ndtvimg.com/2026-04/shf3ju9c_late-dinner_625x300_17_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 15:17:28 +0530",
-    "link": "https://www.ndtv.com/health/eating-dinner-just-before-going-to-bed-your-digestion-may-not-keep-up-overnight-11370938#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/opinion/challenges-for-the-first-bjp-government-in-bihar-11370999#publisher=newsstand",
-    "category": "india",
-    "title": "Opinion: Opinion | Challenges For The First BJP Government In Bihar",
-    "summary": "Although Choudhary is the face of the government, Bihar remains a coalition system involving the BJP, JD(U) and other regional parties. This builds inherent tension for the top man.",
-    "image": "https://c.ndtvimg.com/2026-04/no1mfpi4_samrat-chaudhary_625x300_15_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 15:17:22 +0530",
-    "link": "https://www.ndtv.com/opinion/challenges-for-the-first-bjp-government-in-bihar-11370999#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/parliament-special-session-live-updates-women-reservation-delimitation-bill-women-reservation-law-special-sitting-of-parliament-to-begin-today-11364182#publisher=newsstand",
-    "category": "india",
-    "title": "Parliament Special Session LIVE: \"Panic Reaction\", Says Rahul Gandhi On Centre Linking Delimitation, Women's Bill",
-    "summary": "Parliament's 3-day special session Live Updates, Day 1: The government is expected to introduce three amendment Bills aimed at operationalising the legislation, which was passed in 2023 to provide 33% reservation for women in the Lok Sabha and State",
-    "image": "https://c.ndtvimg.com/2026-04/nmthppto_rg-parl_625x300_17_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 15:15:42 +0530",
-    "link": "https://www.ndtv.com/india-news/parliament-special-session-live-updates-women-reservation-delimitation-bill-women-reservation-law-special-sitting-of-parliament-to-begin-today-11364182#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/jharkhand-jac-class-9-result-2026-out-live-heres-direct-link-to-download-marksheet-11370775#publisher=newsstand",
-    "category": "india",
-    "title": "Jharkhand JAC Class 9 Result 2026 Out: Here's Direct Link To Download Marksheet",
-    "summary": "JAC 9th Result 2026 Out: Check your result here and download marksheet",
-    "image": "https://c.ndtvimg.com/2026-04/l7ugu9ds_jharkhand-jac-class-9-result-2026-out-_625x300_17_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 15:06:34 +0530",
-    "link": "https://www.ndtv.com/education/jharkhand-jac-class-9-result-2026-out-live-heres-direct-link-to-download-marksheet-11370775#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/aiming-to-avenge-daughters-elopment-woman-poisons-neighbours-prasad-in-surat-gujarat-11370932#publisher=newsstand",
-    "category": "india",
-    "title": "Aiming To Avenge Daughter's Elopment, Gujarat Woman Poisons Neighbours' 'Prasad'",
-    "summary": "The Donda family remains in a state of deep trauma",
-    "image": "https://c.ndtvimg.com/2026-04/he44ciq8_gujarat_625x300_17_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 15:00:15 +0530",
-    "link": "https://www.ndtv.com/india-news/aiming-to-avenge-daughters-elopment-woman-poisons-neighbours-prasad-in-surat-gujarat-11370932#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/west-asia-crisis-india-resilient-for-now-but-second-order-inflation-pain-is-coming-warns-swaminathan-aiyar/articleshow/130328494.cms",
     "category": "finance",
     "title": "West Asia crisis: India resilient for now, but second-order inflation pain is coming, warns Swaminathan Aiyar",
@@ -210,34 +220,24 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-china-stocks-slip-as-investors-take-profits-and-await-possible-us-iran-talks/articleshow/130328412.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/wipro-ceo-srini-pallia-says-market-is-highly-competitive-highlights-firms-robust-pipeline-ai-adoption/articleshow/130328204.cms",
-    "category": "finance",
-    "title": "Wipro CEO Srini Pallia says market is highly competitive, highlights firm's robust pipeline, AI adoption",
-    "summary": "Wipro's CEO Srini Pallia remains confident about the company's strong project pipeline. He indicates that ongoing global trade disruptions and tariff changes are not significantly impacting Wipro's business. While some specific client issues were not",
-    "image": "https://img.etimg.com/photo/msid-130328204,imgsize-120864.cms",
-    "source": "ET",
-    "pubDate": "Fri, 17 Apr 2026 14:41:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/wipro-ceo-srini-pallia-says-market-is-highly-competitive-highlights-firms-robust-pipeline-ai-adoption/articleshow/130328204.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1532351.html",
+    "category": "sports",
+    "title": "Australia's white-ball tour of Bangladesh locked in for June",
+    "summary": "Dhaka will host the ODIs before the tour shifts to Chattogram for the three T20Is",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/371000/371092.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 17 Apr 2026 11:22:52 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1532351.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/mukesh-ambanis-jio-platforms-likely-to-file-ipo-papers-in-may/articleshow/130328064.cms",
-    "category": "finance",
-    "title": "Mukesh Ambani\u2019s Jio Platforms likely to file IPO papers in May",
-    "summary": "Reliance Industries is reportedly planning to file draft IPO paperwork for Jio Platforms in May, incorporating full fiscal year earnings. This revised timeline, pushed back from March due to market downturns, aims to present a more favorable investor",
-    "image": "https://img.etimg.com/photo/msid-130328064,imgsize-2702325.cms",
-    "source": "ET",
-    "pubDate": "Fri, 17 Apr 2026 14:37:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/mukesh-ambanis-jio-platforms-likely-to-file-ipo-papers-in-may/articleshow/130328064.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/citius-transnet-invit-ipo-check-gmp-and-subscription-trends-before-you-bid/articleshow/130328101.cms",
-    "category": "finance",
-    "title": "Citius Transnet InvIT IPO: Check GMP and subscription trends before you bid",
-    "summary": "Citius Transnet InvIT's Rs 1,105 crore IPO opened with zero grey market premium, signaling a flat debut. The issue, focusing on road infrastructure, saw lukewarm subscription on day one, primarily from non-institutional investors.  With a yield-focus",
-    "image": "https://img.etimg.com/photo/msid-130328101,imgsize-58932.cms",
-    "source": "ET",
-    "pubDate": "Fri, 17 Apr 2026 14:34:58 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/citius-transnet-invit-ipo-check-gmp-and-subscription-trends-before-you-bid/articleshow/130328101.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1532354.html",
+    "category": "sports",
+    "title": "ECB considering relaxing rules on England eligibility",
+    "summary": "Changes under discussion could bring England qualification more into line with ICC regulations",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/304800/304828.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 17 Apr 2026 11:21:43 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1532354.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c625dd1zjy3o#0",
@@ -258,6 +258,16 @@
     "source": "BBC",
     "pubDate": "Fri, 17 Apr 2026 10:22:46 GMT",
     "link": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/sport/formula1/articles/cgld6r0e73go#0",
+    "category": "global",
+    "title": "What it's really like to try to make it to F1",
+    "summary": "BBC Sport explores the financial reality of two drivers with experience of trying to climb the motorsport ladder to reach Formula 1.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Apr 2026 09:41:19 GMT",
+    "link": "https://www.bbc.com/sport/formula1/articles/cgld6r0e73go?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1532201.html",
@@ -288,6 +298,16 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 17 Apr 2026 08:34:47 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1532204.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cwyk2xrkvnzo#0",
+    "category": "global",
+    "title": "Avengers reassemble and Ariana meets the Fockers - Hollywood studios preview new movies",
+    "summary": "Some of the most hotly anticipated new films of the next couple of years are previewed at CinemaCon.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Apr 2026 08:30:34 GMT",
+    "link": "https://www.bbc.com/news/articles/cwyk2xrkvnzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1532184.html",
@@ -348,26 +368,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 17 Apr 2026 06:31:51 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1532195.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1532198.html",
-    "category": "sports",
-    "title": "Has de Kock overtaken Rickelton as MI's first pick for overseas opener?",
-    "summary": "Quinton de Kock is \"a guy who's really at peace with where his career's at compared to somebody else,\" Aaron Finch says",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415700/415713.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 17 Apr 2026 05:07:13 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1532198.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1532183.html",
-    "category": "sports",
-    "title": "Bennett King returns to Queensland high performance role",
-    "summary": "He previously held the job for four years having coach Queensland to a hat-trick of Shield titles in the early 2000s",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414400/414469.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 17 Apr 2026 00:52:38 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1532183.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c8dl8l5l008o#0",
