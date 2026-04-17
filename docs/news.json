@@ -60,34 +60,104 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
-    "id": "https://www.ndtv.com/world-news/strait-of-hormuz-hormuz-completely-open-but-blockade-will-remain-in-full-force-says-donald-trump-11372232#publisher=newsstand",
-    "category": "india",
-    "title": "After Iran's \"Hormuz Open\" Declaration, Trump's Blockade In \"Full Force\" Update",
-    "summary": "Strait of Hormuz Hormuz \"completely open\" but blockade will remain in \"full force\", says Donald Trump",
-    "image": "https://c.ndtvimg.com/2026-04/c83ark48_hormuz_625x300_15_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 19:41:49 +0530",
-    "link": "https://www.ndtv.com/world-news/strait-of-hormuz-hormuz-completely-open-but-blockade-will-remain-in-full-force-says-donald-trump-11372232#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-to-announce-q4-earnings-on-april-24-board-to-consider-final-dividend/articleshow/130337159.cms",
+    "category": "finance",
+    "title": "RIL to announce Q4 earnings on April 24; board to consider final dividend",
+    "summary": "Reliance Industries will announce Q4FY26 earnings on April 24 as its board meets to approve results and consider final dividend for FY26 followed by an analyst meet to discuss performance and outlook",
+    "image": "https://img.etimg.com/photo/msid-130337159,imgsize-94594.cms",
+    "source": "ET",
+    "pubDate": "Fri, 17 Apr 2026 21:02:06 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-to-announce-q4-earnings-on-april-24-board-to-consider-final-dividend/articleshow/130337159.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/up-board-class-10-12-results-2026-likely-on-april-25-how-to-check-upmsp-marksheet-11372453#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/israel-iran-war-enough-is-enough-trump-says-us-banned-israel-from-bombing-lebanon-11372883#publisher=newsstand",
     "category": "india",
-    "title": "Uttar Pradesh Board Class 10, 12 Results 2026 Likely On April 25: How To Check Marksheet",
-    "summary": "Besides the official website, students can also receive their board results over an SMS.",
-    "image": "https://c.ndtvimg.com/2026-04/m1g00d3g_up-board-result-2026_625x300_17_April_26.jpeg",
+    "title": "\"Enough Is Enough\": Trump Says US Banned Israel From Bombing Lebanon",
+    "summary": "The US president also said the US will get nuclear material from Iran.",
+    "image": "https://s.ndtvimg.com/images/entities/300/donald-trump_638630538762086042_121957.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 19:37:52 +0530",
-    "link": "https://www.ndtv.com/education/up-board-class-10-12-results-2026-likely-on-april-25-how-to-check-upmsp-marksheet-11372453#publisher=newsstand"
+    "pubDate": "Fri, 17 Apr 2026 20:55:28 +0530",
+    "link": "https://www.ndtv.com/world-news/israel-iran-war-enough-is-enough-trump-says-us-banned-israel-from-bombing-lebanon-11372883#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/the-fate-of-2-more-bills-after-womens-quota-move-fails-parliament-test-11372654#publisher=newsstand",
+    "category": "india",
+    "title": "After Women's Quota Move Fails House Test, What About The Other 2 Bills",
+    "summary": "Three bills including on women's quota failed to clear parliament",
+    "image": "https://c.ndtvimg.com/2024-12/m64glt6_rajya-sabha-pti_625x300_06_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 20:52:13 +0530",
+    "link": "https://www.ndtv.com/india-news/the-fate-of-2-more-bills-after-womens-quota-move-fails-parliament-test-11372654#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/raghav-chadha-congratulates-harivansh-on-third-term-as-rajya-sabha-deputy-chairman-11371301#publisher=newsstand",
+    "category": "india",
+    "title": "Raghav Chadha Congratulates Harivansh On Third Term As Rajya Sabha Deputy Chairman",
+    "summary": "The AAP MP also thanked Rajya Sabha Chairman C.P. Radhakrishnan.",
+    "image": "https://c.ndtvimg.com/2026-04/qsb4jv4o_raghav-chadha_625x300_09_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 20:51:55 +0530",
+    "link": "https://www.ndtv.com/india-news/raghav-chadha-congratulates-harivansh-on-third-term-as-rajya-sabha-deputy-chairman-11371301#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-clears-four-ipos-including-avaada-electro-and-grand-housing/articleshow/130336958.cms",
+    "category": "finance",
+    "title": "Sebi clears four IPOs including Avaada Electro and Grand Housing",
+    "summary": "Securities and Exchange Board of India approved IPOs of Avaada Electro Grand Housing Sonaselection India and Vishal Nirmiti with Avaada leading as a major renewable energy listing aimed at expansion and growth",
+    "image": "https://img.etimg.com/photo/msid-130336958,imgsize-198784.cms",
+    "source": "ET",
+    "pubDate": "Fri, 17 Apr 2026 20:49:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-clears-four-ipos-including-avaada-electro-and-grand-housing/articleshow/130336958.cms"
   },
   {
     "id": "https://www.ndtv.com/india-news/parliament-special-session-live-updates-women-reservation-delimitation-bill-women-reservation-law-special-sitting-of-parliament-to-begin-today-11364182#publisher=newsstand",
     "category": "india",
-    "title": "Parliament Special Session LIVE: Voting Underway For 3 Key Bills On Women's Reservation, Delimitation In Lok Sabha",
+    "title": "Parliament Special Session LIVE: Constitutional Amendment Fails In Lok Sabha, Falls Short Of Two-Thirds Majority",
     "summary": "Parliament's 3-day special session Live Updates, Day 1: The government is expected to introduce three amendment Bills aimed at operationalising the legislation, which was passed in 2023 to provide 33% reservation for women in the Lok Sabha and State",
-    "image": "https://c.ndtvimg.com/2026-04/nmthppto_rg-parl_625x300_17_April_26.jpg?im=FitAndFill,algorithm=dnn,width=270,height=300",
+    "image": "https://c.ndtvimg.com/2023-09/28vhplqg_new-parliament-ndtv-650_650x400_19_September_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 19:36:07 +0530",
+    "pubDate": "Fri, 17 Apr 2026 20:49:08 +0530",
     "link": "https://www.ndtv.com/india-news/parliament-special-session-live-updates-women-reservation-delimitation-bill-women-reservation-law-special-sitting-of-parliament-to-begin-today-11364182#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/womens-quota-bill-fails-lok-sabha-tst-doesnt-get-two-thirds-majority-11372488#publisher=newsstand",
+    "category": "india",
+    "title": "Women's Quota Bill Fails Lok Sabha Test, Doesn't Get Two-Thirds Majority",
+    "summary": "The bill got 298 votes in its favour and 230 against.",
+    "image": "https://c.ndtvimg.com/2026-04/1u68bf0c_lok-sabha-_650x400_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 20:37:47 +0530",
+    "link": "https://www.ndtv.com/india-news/womens-quota-bill-fails-lok-sabha-tst-doesnt-get-two-thirds-majority-11372488#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/adani-group-partners-mhada-to-redevelop-mumbais-motilal-nagar-11372768#publisher=newsstand",
+    "category": "india",
+    "title": "Adani Group Partners MHADA To Redevelop Mumbai's Motilal Nagar",
+    "summary": "The project proposes mid-rise development with eight-floor residential buildings.",
+    "image": "https://c.ndtvimg.com/2025-04/773fk8l4_adani-generic-reuters_625x300_29_April_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 20:35:20 +0530",
+    "link": "https://www.ndtv.com/india-news/adani-group-partners-mhada-to-redevelop-mumbais-motilal-nagar-11372768#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/school-assembly-news-headlines-april-18-national-world-sports-updates-11372740#publisher=newsstand",
+    "category": "india",
+    "title": "School Assembly News Headlines (April 18): National, World, Sports Updates",
+    "summary": "Women's Quota Bill fails Lok Sabha test, doesn't get two-thirds majority.",
+    "image": "https://c.ndtvimg.com/2026-04/1u68bf0c_lok-sabha-_650x400_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 20:23:46 +0530",
+    "link": "https://www.ndtv.com/education/school-assembly-news-headlines-april-18-national-world-sports-updates-11372740#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/us-israel-iran-war-children-still-draw-the-sun-art-from-destroyed-iran-school-shown-in-delhi-11372709#publisher=newsstand",
+    "category": "india",
+    "title": "Children Still Draw The Sun: Art From Destroyed Iran School Shown In Delhi",
+    "summary": "right suns, open skies, homes, and hopeful imagery dominate the pages.",
+    "image": "https://c.ndtvimg.com/2026-04/n9qmu9go_iran_625x300_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Apr 2026 20:17:32 +0530",
+    "link": "https://www.ndtv.com/india-news/us-israel-iran-war-children-still-draw-the-sun-art-from-destroyed-iran-school-shown-in-delhi-11372709#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-russell-2000-scales-intraday-peak-weeks-after-war-driven-slide-into-correction/articleshow/130335400.cms",
@@ -98,16 +168,6 @@
     "source": "ET",
     "pubDate": "Fri, 17 Apr 2026 19:35:13 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-russell-2000-scales-intraday-peak-weeks-after-war-driven-slide-into-correction/articleshow/130335400.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/after-love-and-land-now-corporate-jihad-devendra-fadnavis-on-tcs-case-11372419#publisher=newsstand",
-    "category": "india",
-    "title": "'After Love And Land, Now Corporate Jihad': Devendra Fadnavis On TCS Case",
-    "summary": "Devendra Fadnavis raised concerns over \"corporate jihad\"",
-    "image": "https://c.ndtvimg.com/2026-04/574goclg_fadnavis_625x300_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 19:32:38 +0530",
-    "link": "https://www.ndtv.com/india-news/after-love-and-land-now-corporate-jihad-devendra-fadnavis-on-tcs-case-11372419#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-jumps-over-300-points-after-oil-price-crash-what-to-expect-on-monday/articleshow/130335382.cms",
@@ -130,26 +190,6 @@
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-crash-nearly-10-after-iran-says-homurz-completely-open-in-ceasefire/articleshow/130335258.cms"
   },
   {
-    "id": "https://www.ndtv.com/health/haemophilia-and-sports-benefits-precautions-and-choosing-the-right-activity-11372274#publisher=newsstand",
-    "category": "india",
-    "title": "Haemophilia And Sports: Benefits, Precautions, And Choosing The Right Activity",
-    "summary": "Traditionally, because of the fear of bleeding, children with haemophilia were discouraged from participating in sports. However, this perspective has changed significantly over the past few decades.",
-    "image": "https://c.ndtvimg.com/2026-04/752r2m44_table-tennis_625x300_17_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 19:23:11 +0530",
-    "link": "https://www.ndtv.com/health/haemophilia-and-sports-benefits-precautions-and-choosing-the-right-activity-11372274#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/lsr-students-allege-parents-called-after-peaceful-protest-with-flowers-11372341#publisher=newsstand",
-    "category": "india",
-    "title": "LSR Students Allege Parents Called After Peaceful Protest With Flowers",
-    "summary": "What has deepened concern among students are allegations of pressure beyond campus.",
-    "image": "https://c.ndtvimg.com/2026-04/app7uk48_lsr-protest_625x300_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 19:18:44 +0530",
-    "link": "https://www.ndtv.com/education/lsr-students-allege-parents-called-after-peaceful-protest-with-flowers-11372341#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-soars-over-600-points-as-iran-announces-opening-of-strait-of-hormuz/articleshow/130334726.cms",
     "category": "finance",
     "title": "US stocks today: US stocks rally after Iran says Strait of Hormuz 'completely open'",
@@ -158,26 +198,6 @@
     "source": "ET",
     "pubDate": "Fri, 17 Apr 2026 19:11:20 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-soars-over-600-points-as-iran-announces-opening-of-strait-of-hormuz/articleshow/130334726.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/health/experts-urge-standard-treatment-guidelines-to-streamline-haemophilia-care-in-india-11372295#publisher=newsstand",
-    "category": "india",
-    "title": "Experts Urge Standard Treatment Guidelines To Streamline Haemophilia Care In India",
-    "summary": "In mild cases of haemophilia, sometimes a person may not be aware that they have a deficiency",
-    "image": "https://c.ndtvimg.com/2026-04/0o6eir1g_haemophilia_625x300_17_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 19:10:54 +0530",
-    "link": "https://www.ndtv.com/health/experts-urge-standard-treatment-guidelines-to-streamline-haemophilia-care-in-india-11372295#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-declares-passage-for-all-commercial-vessels-through-strait-of-hormuz-completely-open-during-ceasefire-period-11372002#publisher=newsstand",
-    "category": "india",
-    "title": "Strait Of Hormuz \"Completely Open\" During Ceasefire: Iran's Big Announcement",
-    "summary": "US President Donald Trump also confirmed on social media that the Strait of Hormuz is \"fully open\"",
-    "image": "https://c.ndtvimg.com/2026-04/kcpvi5rk_strait-of-hormuz_625x300_09_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 19:01:09 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-declares-passage-for-all-commercial-vessels-through-strait-of-hormuz-completely-open-during-ceasefire-period-11372002#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-financial-q4-results-cons-pat-declines-14-yoy-to-rs-272-crore-despite-106-surge-in-revenue/articleshow/130334137.cms",
@@ -200,34 +220,54 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-clears-nses-investment-in-proposed-national-coal-exchange-move-to-formalise-coal-trading/articleshow/130334160.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/institutional-ownership-drops-across-10-stocks-in-q4-are-you-still-holding/slideshow/130333562.cms",
-    "category": "finance",
-    "title": "Institutional ownership drops across 10 stocks in Q4. Are you still holding?",
-    "summary": "Institutional ownership declined across several Nifty 500 stocks in Q4FY26, including Newgen Software Technologies and Adani Enterprises, signalling portfolio rebalancing and cautious sentiment among FIIs and DIIs as they trimmed exposure to select c",
-    "image": "https://img.etimg.com/photo/msid-130333231,imgsize-262514.cms",
-    "source": "ET",
-    "pubDate": "Fri, 17 Apr 2026 18:11:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/institutional-ownership-drops-across-10-stocks-in-q4-are-you-still-holding/slideshow/130333562.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-stanley-druckenmiller-earnings-dont-move-the-overall-market-its-the-federal-reserve-board-focus-on-the-central-banks-and-focus-on-the-movement-of-liquidity-/articleshow/130330876.cms",
-    "category": "finance",
-    "title": "Quote of the day Stanley Druckenmiller: \"Earnings don't move the overall market; it's the Federal Reserve Board. Focus o",
-    "summary": "Central banks like the Federal Reserve control market direction through liquidity. Abundant money fuels asset prices, while tightening liquidity can stall markets. Even strong company earnings may not boost stock values when money is scarce. Investor",
-    "image": "https://img.etimg.com/photo/msid-130330876,imgsize-10022.cms",
-    "source": "ET",
-    "pubDate": "Fri, 17 Apr 2026 18:00:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-stanley-druckenmiller-earnings-dont-move-the-overall-market-its-the-federal-reserve-board-focus-on-the-central-banks-and-focus-on-the-movement-of-liquidity-/articleshow/130330876.cms"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c145vjr3j8ro#0",
     "category": "global",
-    "title": "Man found guilty of 2003 rape which saw an innocent man jailed for 17 years",
+    "title": "Paul Quinn guilty of 2003 rape that saw innocent man jailed for 17 years",
     "summary": "Paul Quinn, 52, is found guilty of the rape for which Andrew Malkinson was jailed for 17 years.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 17 Apr 2026 14:50:19 GMT",
+    "pubDate": "Fri, 17 Apr 2026 15:49:29 GMT",
     "link": "https://www.bbc.com/news/articles/c145vjr3j8ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cedepz85l0lo#0",
+    "category": "global",
+    "title": "Hope Street actor Finnian Garbutt dies aged 28",
+    "summary": "The actor, known for his role in BBC police drama Hope Street, has died \"peacefully at home\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Apr 2026 15:47:18 GMT",
+    "link": "https://www.bbc.com/news/articles/cedepz85l0lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cj60p6zldzgo#0",
+    "category": "global",
+    "title": "Kensington Gardens shut after claims of drones near Israeli embassy",
+    "summary": "It comes after a group claimed to have targeted the Israeli Embassy in an online video post.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Apr 2026 15:34:09 GMT",
+    "link": "https://www.bbc.com/news/articles/cj60p6zldzgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1532398.html",
+    "category": "sports",
+    "title": "Dhoni watch resumes as SRH meet resurgent CSK",
+    "summary": "Selection calls loom for CSK with Khaleel ruled out, while SRH will hope Travishek regain their old consistency",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415600/415672.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 17 Apr 2026 15:31:43 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1532398.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ckgwp7kgrgxo#0",
+    "category": "global",
+    "title": "Nursery worker jailed over death of toddler restrained during nap time",
+    "summary": "Noah Sibanda died \"alone, scared and in pain\", his mother says.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Apr 2026 15:26:24 GMT",
+    "link": "https://www.bbc.com/news/articles/ckgwp7kgrgxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1532201.html",
@@ -236,7 +276,7 @@
     "summary": "Bangladesh lost their last six wickets for just 37 runs to lose their way in a chase of 248",
     "image": "http://p.imgci.com/db/PICTURES/CMS/415700/415762.jpg",
     "source": "Cricinfo",
-    "pubDate": "Fri, 17 Apr 2026 14:46:52 GMT",
+    "pubDate": "Fri, 17 Apr 2026 15:18:37 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1532201.html?ex_cid=OTC-RSS"
   },
   {
@@ -250,14 +290,14 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1532388.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/ckg045z73z1o#0",
+    "id": "https://www.bbc.com/news/articles/c9qd2gjrv4ro#0",
     "category": "global",
-    "title": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
-    "summary": "Brent crude sinks 10% after Iran says the key waterway is completely open for commercial ships for the rest of the ceasefire.",
+    "title": "Key questions facing government over Mandelson checks",
+    "summary": "It's emerged that Lord Mandelson did not pass inital security vetting checks ahead of taking up the role of ambassador to the United States.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 17 Apr 2026 14:12:03 GMT",
-    "link": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Fri, 17 Apr 2026 14:07:05 GMT",
+    "link": "https://www.bbc.com/news/articles/c9qd2gjrv4ro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1532351.html",
@@ -268,16 +308,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 17 Apr 2026 13:58:09 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1532351.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cj60p6zldzgo#0",
-    "category": "global",
-    "title": "Kensington Gardens shut after claims of drones near Israeli embassy",
-    "summary": "It comes after a group claimed to have targeted the Israeli Embassy in an online video post.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 17 Apr 2026 13:47:33 GMT",
-    "link": "https://www.bbc.com/news/articles/cj60p6zldzgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1532368.html",
@@ -338,36 +368,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 17 Apr 2026 11:21:43 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1532354.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c625dd1zjy3o#0",
-    "category": "global",
-    "title": "Harry and Meghan meet Bondi shooting survivors",
-    "summary": "On the fourth day of their Australian visit, the royal couple pay tribute to the 15 people killed in the Bondi shooting.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 17 Apr 2026 10:37:05 GMT",
-    "link": "https://www.bbc.com/news/articles/c625dd1zjy3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c2ev24yx4rmo#0",
-    "category": "global",
-    "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-    "summary": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 17 Apr 2026 10:22:46 GMT",
-    "link": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1532337.html",
-    "category": "sports",
-    "title": "Glenton Stuurman's Kent spell cut short by injury",
-    "summary": "South Africa seamer to return home after scans rule him out for six weeks",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415700/415741.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 17 Apr 2026 09:15:34 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1532337.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/clyr7dmry5mo#0",
