@@ -33,11 +33,21 @@
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-end-at-fresh-records-as-oil-prices-tumble/articleshow/130342793.cms",
     "category": "finance",
     "title": "US stocks today: S&amp;P 500, Nasdaq end at fresh records as oil prices tumble",
-    "summary": "Major Wall Street indices rocketed to fresh records Friday after Iran's announcement reopening the Strait of Hormuz sent oil prices sharply lower.",
+    "summary": "S&amp;P 500, Nasdaq and Dow hit fresh records as optimism over a possible Iran-US deal and Strait of Hormuz reopening sent oil prices down, easing inflation and boosting equities.",
     "image": "https://img.etimg.com/photo/msid-130342793,imgsize-248936.cms",
     "source": "ET",
     "pubDate": "Sat, 18 Apr 2026 01:43:02 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-end-at-fresh-records-as-oil-prices-tumble/articleshow/130342793.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/bangladesh-begins-receiving-additional-5-000-tonnes-of-diesel-from-india-11373816#publisher=newsstand",
+    "category": "india",
+    "title": "Bangladesh Begins Receiving Additional 5,000 Tonnes Of Diesel From India",
+    "summary": "Overall, Bangladesh is expected to receive around 25,000 tonnes of diesel from India during April.",
+    "image": "https://c.ndtvimg.com/2026-03/lvmeg4ik_bangladesh-news_625x300_11_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Apr 2026 01:35:51 +0530",
+    "link": "https://www.ndtv.com/world-news/bangladesh-begins-receiving-additional-5-000-tonnes-of-diesel-from-india-11373816#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/iran-war-iran-says-its-enriched-uranium-would-not-be-transferred-anywhere-11373768#publisher=newsstand",
@@ -160,16 +170,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocksdrone-maker-aevex-valued-at-2-6-billion-as-shares-rise-in-nyse-debut/articleshow/130340770.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/womens-reservation-bill-womens-quota-bill-womens-representation-in-legislatures-what-the-numbers-reveal-11373494#publisher=newsstand",
-    "category": "india",
-    "title": "Women's Representation In Legislatures: What The Numbers Reveal",
-    "summary": "Women's participation as voters has been strong and continues to rise.",
-    "image": "https://c.ndtvimg.com/2026-04/1mrlgjp4_1_625x300_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 23:31:20 +0530",
-    "link": "https://www.ndtv.com/india-news/womens-reservation-bill-womens-quota-bill-womens-representation-in-legislatures-what-the-numbers-reveal-11373494#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/traders-place-760-million-bet-on-falling-oil-ahead-of-hormuz-announcement/articleshow/130338898.cms",
     "category": "finance",
     "title": "Traders place $760 million bet on falling oil ahead of Hormuz announcement",
@@ -200,6 +200,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/kadimi-group-expands-global-footprint/articleshow/130337431.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cwydex228vko#0",
+    "category": "global",
+    "title": "Chris Mason: Mandelson saga is a messy palaver - and the questions continue to swirl",
+    "summary": "Sir Keir and the top official at the Foreign Office at the time are expected to face questions from MPs next week.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Apr 2026 21:17:43 GMT",
+    "link": "https://www.bbc.com/news/articles/cwydex228vko?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-to-announce-q4-earnings-on-april-24-board-to-consider-final-dividend/articleshow/130337159.cms",
     "category": "finance",
     "title": "RIL to announce Q4 earnings on April 24; board to consider final dividend",
@@ -228,16 +238,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 17 Apr 2026 20:16:49 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1532415.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c9qd2gjrv4ro#0",
-    "category": "global",
-    "title": "Key questions facing government over Mandelson checks",
-    "summary": "It's emerged that Lord Mandelson did not pass inital security vetting checks ahead of taking up the role of ambassador to the United States.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 17 Apr 2026 19:24:18 GMT",
-    "link": "https://www.bbc.com/news/articles/c9qd2gjrv4ro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1532201.html",
@@ -330,6 +330,16 @@
     "link": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cq6jq12dmmro#0",
+    "category": "global",
+    "title": "A man wrongfully served 17 years for rape. Now another man has been convicted",
+    "summary": "Malkinson had his rape conviction quashed in 2023 after fresh DNA analysis linked a new suspect to the offence.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Apr 2026 16:39:42 GMT",
+    "link": "https://www.bbc.com/news/articles/cq6jq12dmmro?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c17v2452vglo#0",
     "category": "global",
     "title": "'Staggering' I was not told Mandelson failed vetting, says PM",
@@ -338,16 +348,6 @@
     "source": "BBC",
     "pubDate": "Fri, 17 Apr 2026 16:23:47 GMT",
     "link": "https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c145vjr3j8ro#0",
-    "category": "global",
-    "title": "Man guilty of 2003 rape that saw innocent Andrew Malkinson jailed for 17 years",
-    "summary": "Paul Quinn, 52, is found guilty of the rape for which Andrew Malkinson was jailed for 17 years.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 17 Apr 2026 16:02:59 GMT",
-    "link": "https://www.bbc.com/news/articles/c145vjr3j8ro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/clyxp4q5k93o#0",
@@ -360,6 +360,16 @@
     "link": "https://www.bbc.com/news/articles/clyxp4q5k93o?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cedepz85l0lo#0",
+    "category": "global",
+    "title": "Hope Street actor Finnian Garbutt dies aged 28",
+    "summary": "The actor, known for his role in BBC police drama Hope Street, has died \"peacefully at home\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Apr 2026 15:47:18 GMT",
+    "link": "https://www.bbc.com/news/articles/cedepz85l0lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/ckgwp7kgrgxo#0",
     "category": "global",
     "title": "Nursery worker jailed over death of toddler restrained during nap time",
@@ -368,16 +378,6 @@
     "source": "BBC",
     "pubDate": "Fri, 17 Apr 2026 15:26:24 GMT",
     "link": "https://www.bbc.com/news/articles/ckgwp7kgrgxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn9qprx2ljlo#0",
-    "category": "global",
-    "title": "Former Radio 1 DJ and Live Aid presenter Andy Kershaw dies aged 66",
-    "summary": "The broadcaster was known for his eclectic taste and for helping champion world music on BBC Radio 1.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 17 Apr 2026 12:08:18 GMT",
-    "link": "https://www.bbc.com/news/articles/cn9qprx2ljlo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
