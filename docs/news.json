@@ -30,6 +30,26 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/india-news/dushyant-chautala-alleges-police-intercepted-his-car-aimed-pistol-at-him-11373910#publisher=newsstand",
+    "category": "india",
+    "title": "Dushyant Chautala Alleges Police Intercepted His Car, Aimed Pistol At Him",
+    "summary": "Jannayak Janta Party leader Dushyant Chautala on Friday alleged that a police car blocked his way.",
+    "image": "https://c.ndtvimg.com/2026-04/ou5nqc88_dushyant-chautala-attack-news_625x300_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Apr 2026 02:35:28 +0530",
+    "link": "https://www.ndtv.com/india-news/dushyant-chautala-alleges-police-intercepted-his-car-aimed-pistol-at-him-11373910#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-iran-says-its-enriched-uranium-would-not-be-transferred-anywhere-11373768#publisher=newsstand",
+    "category": "india",
+    "title": "Iran Says Its Enriched Uranium Would Not Be Transferred \"Anywhere\"",
+    "summary": "Iran's foreign ministry on Friday said the country's stockpile of enriched uranium would not be transferred \"anywhere\", denying an earlier claim by US President Donald Trump that the Islamic republic had agreed to hand it over.",
+    "image": "https://c.ndtvimg.com/2021-04/rsnjfgjk_iran-uranium_625x300_20_April_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Apr 2026 02:26:57 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-iran-says-its-enriched-uranium-would-not-be-transferred-anywhere-11373768#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-end-at-fresh-records-as-oil-prices-tumble/articleshow/130342793.cms",
     "category": "finance",
     "title": "US stocks today: S&amp;P 500, Nasdaq end at fresh records as oil prices tumble",
@@ -48,16 +68,6 @@
     "source": "NDTV",
     "pubDate": "Sat, 18 Apr 2026 01:35:51 +0530",
     "link": "https://www.ndtv.com/world-news/bangladesh-begins-receiving-additional-5-000-tonnes-of-diesel-from-india-11373816#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-war-iran-says-its-enriched-uranium-would-not-be-transferred-anywhere-11373768#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Says Its Enriched Uranium Would Not Be Transferred \"Anywhere\"",
-    "summary": "Iran's foreign ministry on Friday said the country's stockpile of enriched uranium would not be transferred \"anywhere\", denying an earlier claim by US President Donald Trump that the Islamic republic had agreed to hand it over.",
-    "image": "https://c.ndtvimg.com/2021-04/rsnjfgjk_iran-uranium_625x300_20_April_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 18 Apr 2026 00:53:25 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-iran-says-its-enriched-uranium-would-not-be-transferred-anywhere-11373768#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/strait-of-hormuz-completely-open-but-irans-revolutionary-guards-impose-fresh-conditions-11373756#publisher=newsstand",
@@ -150,16 +160,6 @@
     "link": "https://www.ndtv.com/india-news/rain-gusty-winds-hit-delhi-as-met-department-warns-of-thunderstorms-11373584#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/health/diabetes-drug-metformin-could-reduce-insulin-needs-for-people-with-type-1-diabetes-study-11373531#publisher=newsstand",
-    "category": "india",
-    "title": "Diabetes Drug Metformin Could Reduce Insulin Needs For People With Type 1 Diabetes: Study",
-    "summary": "Benefits of metformin for people with type 1 diabetes",
-    "image": "https://c.ndtvimg.com/2026-04/0h02vqts_metformin_625x300_17_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Apr 2026 23:41:50 +0530",
-    "link": "https://www.ndtv.com/health/diabetes-drug-metformin-could-reduce-insulin-needs-for-people-with-type-1-diabetes-study-11373531#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocksdrone-maker-aevex-valued-at-2-6-billion-as-shares-rise-in-nyse-debut/articleshow/130340770.cms",
     "category": "finance",
     "title": "US Stocks|Drone maker AEVEX valued at $2.6 billion as shares rise in NYSE debut",
@@ -188,6 +188,16 @@
     "source": "ET",
     "pubDate": "Fri, 17 Apr 2026 22:25:05 +0530",
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/how-50-days-of-the-iran-war-led-to-the-loss-of-50-billion-worth-of-oil/articleshow/130338646.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cpqx3z0gz0wo#0",
+    "category": "global",
+    "title": "Clair Obscur takes top Bafta Games Award but misses out on clean sweep",
+    "summary": "The French role-playing game is crowned at another ceremony - but takes just a handful of awards home.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Apr 2026 21:37:04 GMT",
+    "link": "https://www.bbc.com/news/articles/cpqx3z0gz0wo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/kadimi-group-expands-global-footprint/articleshow/130337431.cms",
@@ -358,16 +368,6 @@
     "source": "BBC",
     "pubDate": "Fri, 17 Apr 2026 15:54:00 GMT",
     "link": "https://www.bbc.com/news/articles/clyxp4q5k93o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cedepz85l0lo#0",
-    "category": "global",
-    "title": "Hope Street actor Finnian Garbutt dies aged 28",
-    "summary": "The actor, known for his role in BBC police drama Hope Street, has died \"peacefully at home\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 17 Apr 2026 15:47:18 GMT",
-    "link": "https://www.bbc.com/news/articles/cedepz85l0lo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/ckgwp7kgrgxo#0",
