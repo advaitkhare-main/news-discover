@@ -10,6 +10,26 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-closes-slightly-down-on-renewed-tensions-between-us-iran/articleshow/130402320.cms",
+    "category": "finance",
+    "title": "US Stock Market: US stocks closes slightly down on renewed tensions between US, Iran",
+    "summary": "U.S. stocks edged lower as renewed U.S.-Iran tensions cast doubt on a ceasefire, despite Iran considering peace talks. Oil prices surged as the Strait of Hormuz was intermittently closed. Investors are now assessing the impact of these geopolitical e",
+    "image": "https://img.etimg.com/photo/msid-130402320,imgsize-63589.cms",
+    "source": "ET",
+    "pubDate": "Tue, 21 Apr 2026 01:32:11 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-closes-slightly-down-on-renewed-tensions-between-us-iran/articleshow/130402320.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/gurgaon-news/33-year-old-man-dies-by-suicide-after-killing-his-wife-in-gurugram-cops-11385351#publisher=newsstand",
+    "category": "india",
+    "title": "33-Year-Old Man Dies By Suicide After Killing His Wife In Gurugram: Cops",
+    "summary": "No suicide note was found at the spot, police said. (Representational)",
+    "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 21 Apr 2026 01:22:05 +0530",
+    "link": "https://www.ndtv.com/gurgaon-news/33-year-old-man-dies-by-suicide-after-killing-his-wife-in-gurugram-cops-11385351#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/ahead-of-islamabad-talks-donald-trump-says-iran-deal-will-be-far-better-than-obama-nuke-deal-jcpoa-11385310#publisher=newsstand",
     "category": "india",
     "title": "Ahead Of Pak Talks, Trump Says Iran Deal Will Be \"Far Better\" Than Obama Nuke Deal",
@@ -120,16 +140,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fermi-stock-drops-sharply-after-ceo-and-cfo-departures/articleshow/130400111.cms"
   },
   {
-    "id": "https://www.ndtv.com/feature/researchers-find-concerning-antibiotic-resistance-genes-in-newborns-just-hours-after-birth-11384908#publisher=newsstand",
-    "category": "india",
-    "title": "Researchers Find Concerning Antibiotic Resistance Genes In Newborns Just Hours After Birth",
-    "summary": "Doctors analysed meconium samples of infants.",
-    "image": "https://c.ndtvimg.com/2026-04/v49gkd08_newborns_625x300_20_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 20 Apr 2026 23:23:50 +0530",
-    "link": "https://www.ndtv.com/feature/researchers-find-concerning-antibiotic-resistance-genes-in-newborns-just-hours-after-birth-11384908#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-nominee-warsh-commits-to-central-banks-independence-with-limits/articleshow/130399521.cms",
     "category": "finance",
     "title": "US Fed nominee Warsh commits to central bank's independence, with limits",
@@ -180,14 +190,34 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-inc-borrowed-4-6-billion-from-overseas-markets-in-february/articleshow/130397195.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/130396881.cms",
-    "category": "finance",
-    "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
-    "summary": "Indian markets closed with modest gains led by SBI and ICICI Bank, as auto and energy sectors recovered; Nifty 50 up 0.05% at 24,364.85, Sensex up 0.03% at 78,520.30. India VIX rose 9.21% amid volatility. US and European markets mixed on geopolitical",
-    "image": "https://img.etimg.com/photo/msid-130396881,imgsize-110642.cms",
-    "source": "ET",
-    "pubDate": "Mon, 20 Apr 2026 21:17:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/130396881.cms"
+    "id": "https://www.bbc.com/news/articles/c1kr19lry18o#0",
+    "category": "global",
+    "title": "Apple names new chief executive to replace Tim Cook",
+    "summary": "John Ternus will take over running the technology giant as Cook steps up to become executive chairman.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 20 Apr 2026 21:22:26 GMT",
+    "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/ckg3l2k81x5o#0",
+    "category": "global",
+    "title": "Wolves relegation from Premier League confirmed - and why it had been coming",
+    "summary": "Wolves have been relegated from the Premier League.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 20 Apr 2026 20:56:09 GMT",
+    "link": "https://www.bbc.com/sport/football/articles/ckg3l2k81x5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c5y7vd6gpq1o#0",
+    "category": "global",
+    "title": "Phones to be banned in schools by law in England under government plans",
+    "summary": "Education minister Jacqui Smith said the move would create \"a clear legal requirement for schools\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 20 Apr 2026 20:53:11 GMT",
+    "link": "https://www.bbc.com/news/articles/c5y7vd6gpq1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/crr1v4gzkvlo#0",
@@ -198,16 +228,6 @@
     "source": "BBC",
     "pubDate": "Mon, 20 Apr 2026 19:23:17 GMT",
     "link": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5y7vd6gpq1o#0",
-    "category": "global",
-    "title": "Phones to be banned in schools by law in England under government plans",
-    "summary": "Education minister Jacqui Smith said the move would create \"a clear legal requirement for schools\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 20 Apr 2026 19:02:18 GMT",
-    "link": "https://www.bbc.com/news/articles/c5y7vd6gpq1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1532943.html",
@@ -270,16 +290,6 @@
     "link": "https://www.bbc.com/news/articles/cjd8448m959o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c0e7jjwzn7eo#0",
-    "category": "global",
-    "title": "'Huge relief' as students given loans 'in error' get repayment reprieve",
-    "summary": "Approximately 22,000 weekend students had been told their courses were never eligible for student finance.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 20 Apr 2026 16:07:01 GMT",
-    "link": "https://www.bbc.com/news/articles/c0e7jjwzn7eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1532873.html",
     "category": "sports",
     "title": "Sam Robson 162 secures high-scoring draw for Middlesex",
@@ -328,16 +338,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 20 Apr 2026 14:56:44 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1532867.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cr71kp5318vo#0",
-    "category": "global",
-    "title": "Amy Winehouse's dad loses court case over auction",
-    "summary": "Mitch Winehouse accused two friends of profiting from items sold at auctions in the United States.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 20 Apr 2026 11:27:19 GMT",
-    "link": "https://www.bbc.com/news/articles/cr71kp5318vo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cwyxxjgdn94o#0",
