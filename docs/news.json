@@ -10,6 +10,26 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
+    "id": "https://www.ndtv.com/world-news/apple-ceo-tim-cook-to-step-down-in-september-11385509#publisher=newsstand",
+    "category": "india",
+    "title": "Apple CEO Tim Cook To Step Down In September, Names New Executive",
+    "summary": "Apple CEO Tim Cook is stepping down from the job that he inherited from the late Steve Jobs.",
+    "image": "https://c.ndtvimg.com/2026-02/3rdp3q5_tim-cook_625x300_06_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 21 Apr 2026 03:15:36 +0530",
+    "link": "https://www.ndtv.com/world-news/apple-ceo-tim-cook-to-step-down-in-september-11385509#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/mumbai-news/mumbai-businessman-loses-rs-3-25-crore-in-cheating-cum-extortion-case-11385386#publisher=newsstand",
+    "category": "india",
+    "title": "Mumbai Businessman Loses Rs 3.25 Crore In Cheating-Cum-Extortion Case",
+    "summary": "A nine-member inter-state criminal gang allegedly duped a Mumbai-based businessman of around Rs 3.25 crore in a cheating-cum-extortion case and also assaulted and threatened him, a police official said on Monday.",
+    "image": "https://c.ndtvimg.com/mumbai-police-generic-650_625x300_1530015277492.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 21 Apr 2026 01:55:08 +0530",
+    "link": "https://www.ndtv.com/mumbai-news/mumbai-businessman-loses-rs-3-25-crore-in-cheating-cum-extortion-case-11385386#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-closes-slightly-down-on-renewed-tensions-between-us-iran/articleshow/130402320.cms",
     "category": "finance",
     "title": "US Stock Market: US stocks closes slightly down on renewed tensions between US, Iran",
@@ -110,26 +130,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/world-news/video-hot-air-balloon-carrying-13-people-makes-emergency-landing-at-california-home-11385165#publisher=newsstand",
-    "category": "india",
-    "title": "Video: Hot Air Balloon Carrying 13 People Makes Emergency Landing At California Home",
-    "summary": "The group was celebrating a wedding anniversary.",
-    "image": "https://c.ndtvimg.com/2026-04/rk73jops_hotair-balloon_625x300_20_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 20 Apr 2026 23:53:07 +0530",
-    "link": "https://www.ndtv.com/world-news/video-hot-air-balloon-carrying-13-people-makes-emergency-landing-at-california-home-11385165#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/cross-border-car-smuggling-in-focus-as-bhutan-customs-team-arrives-in-kerala-11385082#publisher=newsstand",
-    "category": "india",
-    "title": "Cross-Border Car Smuggling In Focus As Bhutan Customs Team Arrives In Kerala",
-    "summary": "Investigators say the smuggling network involved luxury cars and high-end motorcycles",
-    "image": "https://c.ndtvimg.com/2024-07/8l35fcdg_car-generic_625x300_26_July_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 20 Apr 2026 23:30:43 +0530",
-    "link": "https://www.ndtv.com/india-news/cross-border-car-smuggling-in-focus-as-bhutan-customs-team-arrives-in-kerala-11385082#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/fermi-stock-drops-sharply-after-ceo-and-cfo-departures/articleshow/130400111.cms",
     "category": "finance",
     "title": "Fermi stock drops sharply after CEO and CFO departures",
@@ -158,6 +158,26 @@
     "source": "ET",
     "pubDate": "Mon, 20 Apr 2026 22:21:51 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/honeywell-to-sell-productivity-solutions-unit-to-brady-for-1-4-billion/articleshow/130398243.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c1kr19lry18o#0",
+    "category": "global",
+    "title": "Apple names new chief executive to replace Tim Cook",
+    "summary": "John Ternus will take over running the technology giant as Cook steps up to become executive chairman.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 20 Apr 2026 22:03:26 GMT",
+    "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cdxd88r2wjzo#0",
+    "category": "global",
+    "title": "Trump says US will not lift Hormuz blockade until deal made with Iran",
+    "summary": "The US president's comments come amid uncertainty over whether Iran will attend peace talks in Pakistan this week.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 20 Apr 2026 21:52:12 GMT",
+    "link": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/bse-launches-housing-finance-index-to-track-sectoral-opportunities-enable-passive-investing/articleshow/130397312.cms",
@@ -190,20 +210,10 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-inc-borrowed-4-6-billion-from-overseas-markets-in-february/articleshow/130397195.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c1kr19lry18o#0",
-    "category": "global",
-    "title": "Apple names new chief executive to replace Tim Cook",
-    "summary": "John Ternus will take over running the technology giant as Cook steps up to become executive chairman.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 20 Apr 2026 21:22:26 GMT",
-    "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/sport/football/articles/ckg3l2k81x5o#0",
     "category": "global",
     "title": "Wolves relegation from Premier League confirmed - and why it had been coming",
-    "summary": "Wolves have been relegated from the Premier League.",
+    "summary": "Wolves have been relegated from the Premier League after just three wins in their first 33 games of the season.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Mon, 20 Apr 2026 20:56:09 GMT",
@@ -218,16 +228,6 @@
     "source": "BBC",
     "pubDate": "Mon, 20 Apr 2026 20:53:11 GMT",
     "link": "https://www.bbc.com/news/articles/c5y7vd6gpq1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/crr1v4gzkvlo#0",
-    "category": "global",
-    "title": "US singer D4vd charged with murder stemming from death of missing teenage girl",
-    "summary": "Prosecutors say the singer, real name David Anthony Burke, could face life in prison due to the nature of the case.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 20 Apr 2026 19:23:17 GMT",
-    "link": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1532943.html",
