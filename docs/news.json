@@ -30,84 +30,134 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/india-news/cheetah-ranthambore-tiger-reserve-in-rare-sight-tiger-leopard-cheetah-spotted-together-in-ranthambore-11384375#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/us-iran-war-donald-trump-asim-munir-israel-pakistanis-have-done-good-job-of-sucking-up-to-trump-mehdi-hasan-to-ndtv-11384847#publisher=newsstand",
     "category": "india",
-    "title": "Tiger, Leopard, Cheetah Seen Together In Rare Ranthambore Moment",
-    "summary": "The spotting occured in the forest's zone 9",
-    "image": "https://c.ndtvimg.com/2026-04/0bmntu3_ranthambor-spotting_625x300_20_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "\"Pakistanis Have Done Good Job Of Sucking Up To Trump\": Mehdi Hasan To NDTV",
+    "summary": "Pakistan has \"done a good job\" in cultivating closeness with Trump, Mehdi Hasan said.",
+    "image": "https://c.ndtvimg.com/2026-04/a8cq5jk_mehdi-hasan-ndtv-_625x300_20_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 20 Apr 2026 21:26:25 +0530",
-    "link": "https://www.ndtv.com/india-news/cheetah-ranthambore-tiger-reserve-in-rare-sight-tiger-leopard-cheetah-spotted-together-in-ranthambore-11384375#publisher=newsstand"
+    "pubDate": "Mon, 20 Apr 2026 22:31:28 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-donald-trump-asim-munir-israel-pakistanis-have-done-good-job-of-sucking-up-to-trump-mehdi-hasan-to-ndtv-11384847#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-donald-trump-enriched-uranium-us-wants-irans-nuclear-dust-the-legacy-of-american-uranium-diplomacy-11383709#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/6-low-impact-workouts-for-people-with-joint-pain-11384811#publisher=newsstand",
     "category": "india",
-    "title": "In Bombed Facilities, Unstable Tunnels, US' Toughest Uranium Extraction Yet",
-    "summary": "Iran has already rejected any proposal involving direct transfer to the United States.",
-    "image": "https://c.ndtvimg.com/2026-04/94rpnpe4_trump-ndtv-_625x300_20_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "6 Low-Impact Workouts For People With Joint Pain",
+    "summary": "Low-impact workouts are a safe and effective way to stay fit, reduce stiffness, and build strength without the stress of high-intensity exercises on sore knees, hips, back, or other areas.",
+    "image": "https://c.ndtvimg.com/2026-04/2stqr4f8_walking_625x300_10_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 20 Apr 2026 21:23:54 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-donald-trump-enriched-uranium-us-wants-irans-nuclear-dust-the-legacy-of-american-uranium-diplomacy-11383709#publisher=newsstand"
+    "pubDate": "Mon, 20 Apr 2026 22:28:52 +0530",
+    "link": "https://www.ndtv.com/health/6-low-impact-workouts-for-people-with-joint-pain-11384811#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/2-killed-as-planned-fight-escalates-to-mass-shooting-in-north-carolina-park-11384787#publisher=newsstand",
+    "category": "india",
+    "title": "2 Killed As Planned Fight Escalates To Mass Shooting In North Carolina Park",
+    "summary": "Police said several victims and suspects have been identified.",
+    "image": "https://c.ndtvimg.com/2026-04/7tpke73k_carolina_625x300_20_April_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Mon, 20 Apr 2026 22:27:56 +0530",
+    "link": "https://www.ndtv.com/world-news/2-killed-as-planned-fight-escalates-to-mass-shooting-in-north-carolina-park-11384787#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/14-indian-ships-in-hormuz-new-delhi-intensifies-efforts-for-safe-passage-11384459#publisher=newsstand",
+    "category": "india",
+    "title": "14 Indian Ships In Hormuz, New Delhi Intensifies Efforts For Safe Passage",
+    "summary": "Since the outbreak of conflict, India safely evacuated 10 Indian-flagged tankers.",
+    "image": "https://c.ndtvimg.com/2026-04/2epb4f0o_strait-of-hormuz-closure_625x300_18_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 20 Apr 2026 22:27:54 +0530",
+    "link": "https://www.ndtv.com/india-news/14-indian-ships-in-hormuz-new-delhi-intensifies-efforts-for-safe-passage-11384459#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/israel-lebanon-war-art-amid-rubble-concert-in-lebanon-aims-to-defy-war-with-music-11384711#publisher=newsstand",
+    "category": "india",
+    "title": "Art Amid Rubble: Concert In Lebanon Aims To Defy War With Music",
+    "summary": "After every war in Lebanon, music and art have become an important tool for survival.",
+    "image": "https://c.ndtvimg.com/2026-04/dqbirs28_beirut_625x300_20_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 20 Apr 2026 22:23:46 +0530",
+    "link": "https://www.ndtv.com/world-news/israel-lebanon-war-art-amid-rubble-concert-in-lebanon-aims-to-defy-war-with-music-11384711#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/honeywell-to-sell-productivity-solutions-unit-to-brady-for-1-4-billion/articleshow/130398243.cms",
+    "category": "finance",
+    "title": "Honeywell to sell productivity solutions unit to Brady for $1.4 billion",
+    "summary": "Honeywell is selling its productivity solutions and services unit to Brady for $1.4 billion in an all-cash deal. This move aims to streamline Honeywell's business footprint as it prepares to split into separate aerospace, automation, and advanced mat",
+    "image": "https://img.etimg.com/photo/msid-130398243,imgsize-7824.cms",
+    "source": "ET",
+    "pubDate": "Mon, 20 Apr 2026 22:21:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/honeywell-to-sell-productivity-solutions-unit-to-brady-for-1-4-billion/articleshow/130398243.cms"
   },
   {
     "id": "https://www.ndtv.com/education/jee-main-session-2-result-be-btech-paper-result-live-updates-nta-april-session-scorecards-final-answer-key-toppers-cut-off-percentile-download-11381180#publisher=newsstand",
     "category": "india",
-    "title": "JEE Main Session 2 Result 2026 LIVE Updates: NTA Scorecard Out, Download Link Here",
-    "summary": "JEE Main Session 2 Result 2026 LIVE: Scorecard to be Released at jeemain.nta.nic.in, answer key out",
+    "title": "JEE Main Session 2 Result 2026 Highlights: NTA Scorecard Out, Download Link Here",
+    "summary": "JEE Main Session 2 Result 2026 Highlights: Scorecard to be Released at jeemain.nta.nic.in, answer key out",
     "image": "https://c.ndtvimg.com/2026-04/9hf72q3o_asd_625x300_20_April_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 20 Apr 2026 21:18:29 +0530",
+    "pubDate": "Mon, 20 Apr 2026 22:00:01 +0530",
     "link": "https://www.ndtv.com/education/jee-main-session-2-result-be-btech-paper-result-live-updates-nta-april-session-scorecards-final-answer-key-toppers-cut-off-percentile-download-11381180#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/jee-main-result-download-link-unresponsive-amid-lakhs-of-aspirants-logging-in-for-session-2-scorecards-11384408#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/school-assembly-news-headlines-april-21-top-national-world-sports-education-news-11384676#publisher=newsstand",
     "category": "india",
-    "title": "JEE Main Result Download Link Unresponsive Amid Lakhs Of Aspirants Logging In For Session 2 Scorecards",
-    "summary": "Approximately, 11.06 lakh candidates have registered within India for Paper 1 (BE/BTech).",
-    "image": "https://c.ndtvimg.com/2026-04/j4367ou8_jee_625x300_20_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "School Assembly News Headlines (April 21): Top National, World, Sports, Education News",
+    "summary": "School Assembly News Headlines (April 21)",
+    "image": "https://i.ndtvimg.com/i/2017-02/little-school-children_650x400_41488002220.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 20 Apr 2026 21:13:33 +0530",
-    "link": "https://www.ndtv.com/education/jee-main-result-download-link-unresponsive-amid-lakhs-of-aspirants-logging-in-for-session-2-scorecards-11384408#publisher=newsstand"
+    "pubDate": "Mon, 20 Apr 2026 21:50:12 +0530",
+    "link": "https://www.ndtv.com/education/school-assembly-news-headlines-april-21-top-national-world-sports-education-news-11384676#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/3-year-old-girl-mauled-to-death-by-stray-dogs-in-telangana-11384374#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/diaphragmatic-breathing-what-is-it-and-how-it-helps-to-calm-your-anxiety-11384595#publisher=newsstand",
     "category": "india",
-    "title": "3-Year-Old Girl Mauled To Death By Stray Dogs In Telangana",
-    "summary": "The stray dogs pounced on the child when she was playing outside her house.",
-    "image": "https://c.ndtvimg.com/2026-04/kvel9ucs_stray-dogs_625x300_20_April_26.jpeg",
+    "title": "Diaphragmatic Breathing: What Is It And How It Helps To Calm Your Anxiety?",
+    "summary": "Diaphragmatic breathing can help in calming your anxiety",
+    "image": "https://c.ndtvimg.com/2026-04/u0rsnrrc_diaphragmatic-breathing_625x300_20_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 20 Apr 2026 21:11:40 +0530",
-    "link": "https://www.ndtv.com/india-news/3-year-old-girl-mauled-to-death-by-stray-dogs-in-telangana-11384374#publisher=newsstand"
+    "pubDate": "Mon, 20 Apr 2026 21:47:58 +0530",
+    "link": "https://www.ndtv.com/health/diaphragmatic-breathing-what-is-it-and-how-it-helps-to-calm-your-anxiety-11384595#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/iranian-envoy-summoned-after-revolutionary-guards-fire-on-indian-ships-11384459#publisher=newsstand",
-    "category": "india",
-    "title": "Iranian Envoy Summoned After Revolutionary Guards Fire On Indian Ships",
-    "summary": "Since the outbreak of conflict, India safely evacuated 10 Indian-flagged tankers.",
-    "image": "https://c.ndtvimg.com/2026-04/2epb4f0o_strait-of-hormuz-closure_625x300_18_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 20 Apr 2026 21:03:58 +0530",
-    "link": "https://www.ndtv.com/india-news/iranian-envoy-summoned-after-revolutionary-guards-fire-on-indian-ships-11384459#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bse-launches-housing-finance-index-to-track-sectoral-opportunities-enable-passive-investing/articleshow/130397312.cms",
+    "category": "finance",
+    "title": "BSE launches Housing Finance Index to track sectoral opportunities, enable passive investing",
+    "summary": "BSE Index Services introduced the Housing Finance Index to measure housing finance companies\u2019 performance. Drawn from BSE 1000, it supports ETFs, mutual funds, PMS strategies, and sector-specific tracking. LIC Housing Finance holds the highest weight",
+    "image": "https://img.etimg.com/photo/msid-130397312,imgsize-212200.cms",
+    "source": "ET",
+    "pubDate": "Mon, 20 Apr 2026 21:43:54 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-launches-housing-finance-index-to-track-sectoral-opportunities-enable-passive-investing/articleshow/130397312.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/sri-lanka-sends-back-19-indian-fishermen-days-after-arrests-11384144#publisher=newsstand",
-    "category": "india",
-    "title": "Sri Lanka Sends Back 19 Indian Fishermen Days After Arrests",
-    "summary": "The fishermen issue is a contentious one in the ties between India and Sri Lanka.",
-    "image": "https://c.ndtvimg.com/2026-04/tvqlvm8g_indian-fishermen-_625x300_20_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 20 Apr 2026 21:03:31 +0530",
-    "link": "https://www.ndtv.com/india-news/sri-lanka-sends-back-19-indian-fishermen-days-after-arrests-11384144#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/pnb-housing-finance-q4-profit-surges-19-to-rs-656-crore-with-strong-retail-growth/articleshow/130397271.cms",
+    "category": "finance",
+    "title": "PNB Housing Finance Q4 profit surges 19% to Rs 656 crore with strong retail growth",
+    "summary": "PNB Housing Finance reported a 19% rise in Q4 net profit to Rs 656 crore. FY26 profit grew 18% to Rs 2,291 crore. The company proposed Rs 8 per share dividend while its assets under management expanded 13% to Rs 90,921 crore with strong retail loan g",
+    "image": "https://img.etimg.com/photo/msid-130397271,imgsize-15530.cms",
+    "source": "ET",
+    "pubDate": "Mon, 20 Apr 2026 21:40:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pnb-housing-finance-q4-profit-surges-19-to-rs-656-crore-with-strong-retail-growth/articleshow/130397271.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/study-abroad-top-10-universities-in-europe-based-on-qs-ranking-2026-11384000#publisher=newsstand",
-    "category": "india",
-    "title": "Study Abroad: Top 10 Universities In Europe Based On QS Ranking 2026",
-    "summary": "University of Oxford took the first position with an overall score of 100.",
-    "image": "https://c.ndtvimg.com/2026-04/nuo0blq4_study-abroad-2026_625x300_20_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 20 Apr 2026 21:02:03 +0530",
-    "link": "https://www.ndtv.com/education/study-abroad-top-10-universities-in-europe-based-on-qs-ranking-2026-11384000#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/india-inc-borrowed-4-6-billion-from-overseas-markets-in-february/articleshow/130397195.cms",
+    "category": "finance",
+    "title": "India Inc borrowed $4.6 billion from overseas markets in February",
+    "summary": "Indian corporates raised $4.60 billion in ECB in February, 14% lower than January. Over 100 firms borrowed $4.20 billion via the automatic route, while Piramal Finance took $400 million via approval. ABC Cleantech led with $595 million.",
+    "image": "https://img.etimg.com/photo/msid-130397195,imgsize-21250.cms",
+    "source": "ET",
+    "pubDate": "Mon, 20 Apr 2026 21:37:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-inc-borrowed-4-6-billion-from-overseas-markets-in-february/articleshow/130397195.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/130396881.cms",
+    "category": "finance",
+    "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+    "summary": "Indian markets closed with modest gains led by SBI and ICICI Bank, as auto and energy sectors recovered; Nifty 50 up 0.05% at 24,364.85, Sensex up 0.03% at 78,520.30. India VIX rose 9.21% amid volatility. US and European markets mixed on geopolitical",
+    "image": "https://img.etimg.com/photo/msid-130396881,imgsize-110642.cms",
+    "source": "ET",
+    "pubDate": "Mon, 20 Apr 2026 21:17:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/130396881.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-cesc-and-trent-on-tuesday-for-near-term-gains-up-to-9/articleshow/130396191.cms",
@@ -140,63 +190,43 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-adobe-shares-rises-after-it-launches-ai-suite-for-corporate-clients-as-competition-heats-up/articleshow/130395072.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-muted-as-us-iran-tensions-escalate/articleshow/130394115.cms",
-    "category": "finance",
-    "title": "US stocks today: S&amp;P 500, Nasdaq retreat as mounting U.S.-Iran tensions dampen sentiment",
-    "summary": "Wall Street indices eased from record highs as renewed U.S.-Iran tensions overshadowed a strong previous week. Oil prices jumped, boosting the energy sector, while tech stocks saw mixed performance. Investors now await quarterly earnings reports for ",
-    "image": "https://img.etimg.com/photo/msid-130394115,imgsize-270448.cms",
-    "source": "ET",
-    "pubDate": "Mon, 20 Apr 2026 19:07:40 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-muted-as-us-iran-tensions-escalate/articleshow/130394115.cms"
+    "id": "https://www.bbc.com/news/articles/c5y7vd6gpq1o#0",
+    "category": "global",
+    "title": "Phones to be banned in schools by law in England, government says",
+    "summary": "Education minister Jacqui Smith said the move would create \"a clear legal requirement for schools\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 20 Apr 2026 17:40:46 GMT",
+    "link": "https://www.bbc.com/news/articles/c5y7vd6gpq1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/cummins-india-among-7-stocks-that-hit-52-week-high-rally-up-to-32-in-a-month/slideshow/130393480.cms",
-    "category": "finance",
-    "title": "Cummins India among 7 stocks that hit 52-week high; rally up to 32% in a month",
-    "summary": "Indian stock markets saw a positive start to the week, with the Sensex inching up. A notable trend emerged as seven companies within the BSE 100 index reached their 52-week highs, signaling strong investor confidence and potential for further growth.",
-    "image": "https://img.etimg.com/photo/msid-130393322,imgsize-8388.cms",
-    "source": "ET",
-    "pubDate": "Mon, 20 Apr 2026 18:32:06 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/cummins-india-among-7-stocks-that-hit-52-week-high-rally-up-to-32-in-a-month/slideshow/130393480.cms"
+    "id": "https://www.bbc.com/news/articles/cjd8448m959o#0",
+    "category": "global",
+    "title": "Key points from Starmer's Mandelson statement",
+    "summary": "The prime minister has been back in the Commons after it emerged the Labour peer failed vetting.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 20 Apr 2026 17:00:45 GMT",
+    "link": "https://www.bbc.com/news/articles/cjd8448m959o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-announces-demerger-record-date-shareholders-to-get-11-shares-in-new-entities/articleshow/130392744.cms",
-    "category": "finance",
-    "title": "Vedanta announces demerger record date, shareholders to get 1:1 shares in new entities",
-    "summary": "Vedanta's board has approved May 1, 2026, as the effective and record date for its demerger. Shareholders will receive shares in newly carved-out businesses, including aluminium, power, and oil and gas, in proportion to their existing holdings. This ",
-    "image": "https://img.etimg.com/photo/msid-130392744,imgsize-34108.cms",
-    "source": "ET",
-    "pubDate": "Mon, 20 Apr 2026 18:08:58 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-announces-demerger-record-date-shareholders-to-get-11-shares-in-new-entities/articleshow/130392744.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-warren-buffett-you-should-never-test-the-depth-of-the-water-with-both-feet-/articleshow/130392308.cms",
-    "category": "finance",
-    "title": "Quote of the day by Warren Buffett: \u201cYou should never test the depth of the water with both feet.\u201d",
-    "summary": "In turbulent markets, Warren Buffett's advice to \"never test the depth of the water with both feet\" emphasizes cautious, gradual investment. This strategy involves phased entries, diversification, and thorough analysis to mitigate risks, prioritizing",
-    "image": "https://img.etimg.com/photo/msid-130392308,imgsize-31122.cms",
-    "source": "ET",
-    "pubDate": "Mon, 20 Apr 2026 17:59:20 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-warren-buffett-you-should-never-test-the-depth-of-the-water-with-both-feet-/articleshow/130392308.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-federal-reserve-ai-tech-stock-price-news/liveblog/130392480.cms",
-    "category": "finance",
-    "title": "US Stock Market Today | Dow Jones | Nasdaq Live: S&amp;P 500, Nasdaq trade lower as Mideast war tensions escalate",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-130392480,imgsize-122930.cms",
-    "source": "ET",
-    "pubDate": "Mon, 20 Apr 2026 17:58:47 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-federal-reserve-ai-tech-stock-price-news/liveblog/130392480.cms"
+    "id": "https://www.bbc.com/news/articles/c393eww1pero#0",
+    "category": "global",
+    "title": "Adoptive father 'sexually abused and smothered baby'",
+    "summary": "A man is on trial accused of murdering 13-month-old Preston Davey in Blackpool.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 20 Apr 2026 16:55:43 GMT",
+    "link": "https://www.bbc.com/news/articles/c393eww1pero?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c0e7jjwzn7eo#0",
     "category": "global",
-    "title": "'Huge relief' as students given loans in error get repayment reprieve",
+    "title": "'Huge relief' as students given loans 'in error' get repayment reprieve",
     "summary": "Approximately 22,000 weekend students had been told their courses were never eligible for student finance.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 20 Apr 2026 15:53:01 GMT",
+    "pubDate": "Mon, 20 Apr 2026 16:07:01 GMT",
     "link": "https://www.bbc.com/news/articles/c0e7jjwzn7eo?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -250,16 +280,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1532867.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/czd7m7d699do#0",
-    "category": "global",
-    "title": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
-    "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week,",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 20 Apr 2026 14:54:21 GMT",
-    "link": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c7vqgge5g8lo#0",
     "category": "global",
     "title": "Trump tariff refunds begin but consumers likely to miss out",
@@ -310,16 +330,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1532886.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c0q9v1p2dd2o#0",
-    "category": "global",
-    "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
-    "summary": "Three boys and five girls, aged between three to 11, were killed in the shooting on Sunday, officials say.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 20 Apr 2026 12:56:03 GMT",
-    "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cr71kp5318vo#0",
     "category": "global",
     "title": "Amy Winehouse's dad loses court case over auction",
@@ -328,16 +338,6 @@
     "source": "BBC",
     "pubDate": "Mon, 20 Apr 2026 11:27:19 GMT",
     "link": "https://www.bbc.com/news/articles/cr71kp5318vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce8lp2ny3rro#0",
-    "category": "global",
-    "title": "Travelodge 'extremely sorry' for giving stranger key to couple's room",
-    "summary": "Woman says she was left feeling shaken and believes the chain needs to do more to improve security.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 20 Apr 2026 05:05:02 GMT",
-    "link": "https://www.bbc.com/news/articles/ce8lp2ny3rro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cwyxxjgdn94o#0",
