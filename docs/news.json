@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533198.html",
+    "category": "sports",
+    "title": "'I just tried to win the game as quickly as I could' - Wolvaardt scorches 53-ball 115",
+    "summary": "Skipper not satisfied with 3-0 series win and wants to chase a five-match sweep against India",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415700/415788.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 22 Apr 2026 23:29:47 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533198.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ce9ml02g5k7o#0",
+    "category": "global",
+    "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
+    "summary": "He is the latest high-ranking military leader to leave the administration in recent months.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 22 Apr 2026 23:11:25 GMT",
+    "link": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ckg98q1yx9vo#0",
+    "category": "global",
+    "title": "Ban 'forever chemicals' in uniforms and frying pans, MPs urge",
+    "summary": "School uniforms and non-stick pans are some of the everyday products that should stop using chemicals called PFAS, MPs say.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 22 Apr 2026 23:11:24 GMT",
+    "link": "https://www.bbc.com/news/articles/ckg98q1yx9vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c3w3vqv0edpo#0",
+    "category": "global",
+    "title": "Iran says Strait of Hormuz cannot be opened due to ceasefire breaches",
+    "summary": "Iran's chief negotiator says \"violations\" by the US and Israel make it impossible to open the strait.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 22 Apr 2026 23:00:24 GMT",
+    "link": "https://www.bbc.com/news/articles/c3w3vqv0edpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cr41yx7pxglo#0",
     "category": "global",
     "title": "Officials release cause of death for teen found dead in singer D4vd's car",
@@ -110,16 +150,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1533193.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cm2934ep3zro#0",
-    "category": "global",
-    "title": "'I can't stop using it' - under-16s have their say on possible social media ban",
-    "summary": "Thirty three children discussed possible limits the government are considering on social media.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 22 Apr 2026 20:13:44 GMT",
-    "link": "https://www.bbc.com/news/articles/cm2934ep3zro?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitdelta-india-launches-institutional-grade-vda-infrastructure-targets-trust-led-growth-in-crypto-market/articleshow/130444563.cms",
     "category": "finance",
     "title": "BitDelta India launches institutional-grade VDA infrastructure, targets trust-led growth in crypto market",
@@ -170,16 +200,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1533178.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c78lp5jw8yxo#0",
-    "category": "global",
-    "title": "Analysis: Unhappy Labour MPs aren't ready to oust Starmer yet",
-    "summary": "Labour MPs say that while the prime minister is unpopular, a contest is unlikely as there isn't a candidate ready to replace him.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 22 Apr 2026 18:23:37 GMT",
-    "link": "https://www.bbc.com/news/articles/c78lp5jw8yxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1533108.html",
     "category": "sports",
     "title": "South Africa bowl first in pursuit of T20I series win against India",
@@ -200,26 +220,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1533156.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c0q9xq7knq2o#0",
-    "category": "global",
-    "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
-    "summary": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 22 Apr 2026 16:19:36 GMT",
-    "link": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533123.html",
-    "category": "sports",
-    "title": "Kusal, Yousaf fifties take table-toppers Zalmi to seventh successive win",
-    "summary": "Ali Raza, who became the youngest Pakistan bowler to take a T20 hat-trick, helped restrict Kings to 182",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416010.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 22 Apr 2026 15:27:11 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533123.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -238,6 +238,16 @@
     "source": "VentureBeat",
     "pubDate": "Tue, 13 Jan 2026 13:00:00 GMT",
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-navy-secretary-john-phelan-quits-trump-administration-amid-hormuz-blockade-11395782#publisher=newsstand",
+    "category": "india",
+    "title": "US Navy Secretary Quits Trump Administration Amid Hormuz Blockade",
+    "summary": "Phelan's departure also comes just weeks after Hegseth fired the Army's top officer, Gen. Randy George.",
+    "image": "https://c.ndtvimg.com/2026-04/luuihgik_john-phelan_625x300_23_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 03:53:31 +0530",
+    "link": "https://www.ndtv.com/world-news/us-navy-secretary-john-phelan-quits-trump-administration-amid-hormuz-blockade-11395782#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/lebanese-journalist-amal-khalil-killed-in-israeli-strike-11395695#publisher=newsstand",
@@ -318,16 +328,6 @@
     "source": "NDTV",
     "pubDate": "Thu, 23 Apr 2026 00:25:19 +0530",
     "link": "https://www.ndtv.com/world-news/nepal-home-minister-sudan-gurung-resigns-in-weeks-over-financial-transactions-11395370#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/2026-west-bengal-elections-2026-tamil-nadu-elections-1-000-crores-and-counting-record-seizures-in-tamil-nadu-bengal-before-polls-11395362#publisher=newsstand",
-    "category": "india",
-    "title": "1,000 Crores And Counting: Record Seizures In Tamil Nadu, Bengal Before Polls",
-    "summary": "Officials indicated that the numbers could rise further.",
-    "image": "https://c.ndtvimg.com/2024-02/6k6p2298_money-generic_625x300_15_February_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 00:23:26 +0530",
-    "link": "https://www.ndtv.com/india-news/2026-west-bengal-elections-2026-tamil-nadu-elections-1-000-crores-and-counting-record-seizures-in-tamil-nadu-bengal-before-polls-11395362#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-fico-shares-slide-as-freddie-mac-fannie-mae-begin-accepting-rival-vantagescore/articleshow/130450555.cms",
