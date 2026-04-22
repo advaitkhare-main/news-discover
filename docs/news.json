@@ -1,33 +1,133 @@
 [
   {
-    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-influencers/bitdelta-india-launches-institutional-grade-vda-infrastructure-targets-trust-led-growth-in-crypto-market/articleshow/130444563.cms",
+    "id": "https://www.ndtv.com/india-news/calcutta-high-court-allows-preventive-arrests-for-bengal-elections-as-per-law-11394622#publisher=newsstand",
+    "category": "india",
+    "title": "Calcutta High Court Allows Preventive Arrests For Bengal Elections As Per Law",
+    "summary": "The polling for the 294-member Assembly in West Bengal will be held in two phases.",
+    "image": "https://c.ndtvimg.com/2025-03/6becqis_court-generic_625x300_05_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 22 Apr 2026 21:19:27 +0530",
+    "link": "https://www.ndtv.com/india-news/calcutta-high-court-allows-preventive-arrests-for-bengal-elections-as-per-law-11394622#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/india-bound-tanker-among-2-seized-by-irans-revolutionary-guards-11394482#publisher=newsstand",
+    "category": "india",
+    "title": "India-Bound Ship Among 2 Seized By Iran's Revolutionary Guards",
+    "summary": "All three containers crossed the Strait of Hormuz from the Persian Gulf.",
+    "image": "https://c.ndtvimg.com/2026-04/m9nepf1o_strait-of-hormuz-_625x300_06_April_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Wed, 22 Apr 2026 21:11:42 +0530",
+    "link": "https://www.ndtv.com/world-news/india-bound-tanker-among-2-seized-by-irans-revolutionary-guards-11394482#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/can-you-get-a-heart-attack-despite-normal-blood-lipid-and-sugar-tests-a-cardiologist-explains-11394533#publisher=newsstand",
+    "category": "india",
+    "title": "Can You Get A Heart Attack Despite Normal Blood, Lipid And Sugar Tests? A Cardiologist Explains",
+    "summary": "Traditional blood tests provide a limited snapshot",
+    "image": "https://c.ndtvimg.com/2026-03/2qv53me4_heart-attack-costs_625x300_31_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 22 Apr 2026 21:06:33 +0530",
+    "link": "https://www.ndtv.com/health/can-you-get-a-heart-attack-despite-normal-blood-lipid-and-sugar-tests-a-cardiologist-explains-11394533#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/delhi-news/irs-officers-daughter-found-murdered-in-delhi-home-servant-main-suspect-11392590#publisher=newsstand",
+    "category": "india",
+    "title": "IRS Officer's Daughter, 22, Sexually Assaulted, Killed By Help In Delhi: Cops",
+    "summary": "Preliminary inquiry suggests that the woman was sexually assaulted",
+    "image": "https://c.ndtvimg.com/2026-04/ai6q6fks_irs-daughter-murder-_650x400_22_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 22 Apr 2026 21:04:57 +0530",
+    "link": "https://www.ndtv.com/delhi-news/irs-officers-daughter-found-murdered-in-delhi-home-servant-main-suspect-11392590#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/130445804.cms",
+    "category": "finance",
+    "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+    "summary": "Nifty 50 and BSE Sensex declined, snapping a three-day rally due to IT and FMCG losses. Rising India VIX signaled caution, though broader trends remain positive with key support and resistance levels in focus.",
+    "image": "https://img.etimg.com/photo/msid-130445804,imgsize-116884.cms",
+    "source": "ET",
+    "pubDate": "Wed, 22 Apr 2026 21:02:10 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/130445804.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-iran-war-live-34-iran-tankers-slip-past-us-strait-of-hormuz-blockade-with-over-900-million-in-oil-11393844#publisher=newsstand",
+    "category": "india",
+    "title": "34 Iran Tankers Slip Past US Hormuz Blockade, With Over $900 Million In Oil: Report",
+    "summary": "34 tankers with links to Iran have transited past the US blockade",
+    "image": "https://c.ndtvimg.com/2026-04/6tm38q2_strait-of-hormuz_625x300_22_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 22 Apr 2026 20:53:07 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-live-34-iran-tankers-slip-past-us-strait-of-hormuz-blockade-with-over-900-million-in-oil-11393844#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/2-ships-attacked-being-taken-to-iran-amid-us-stalemate-report-11392812#publisher=newsstand",
+    "category": "india",
+    "title": "2 Ships Attacked, Being Taken To Iran Amid US Stalemate: Report",
+    "summary": "The MSC Francesca that has been seized and taken to Iran",
+    "image": "https://c.ndtvimg.com/2026-04/ikbn2o0g_msc-vessel_625x300_22_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 22 Apr 2026 20:53:03 +0530",
+    "link": "https://www.ndtv.com/world-news/2-ships-attacked-being-taken-to-iran-amid-us-stalemate-report-11392812#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/liver-damage-in-your-20s-experts-link-it-to-frequent-energy-drink-consumption-11393999#publisher=newsstand",
+    "category": "india",
+    "title": "Liver Damage In Your 20s? Experts Link It To Frequent Energy Drink Consumption",
+    "summary": "Energy drink consumption can lead to liver damage in people who are in their 20s",
+    "image": "https://c.ndtvimg.com/2026-04/g1m1o28c_energy-level_625x300_22_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 22 Apr 2026 20:51:07 +0530",
+    "link": "https://www.ndtv.com/health/liver-damage-in-your-20s-experts-link-it-to-frequent-energy-drink-consumption-11393999#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/not-obliged-to-provide-child-maintenance-if-not-biological-father-top-court-11394490#publisher=newsstand",
+    "category": "india",
+    "title": "Not Obliged To Provide Child Maintenance If Not Biological Father: Top Court",
+    "summary": "The woman had gone to the top court after the Delhi High Court had turned down her appeal.",
+    "image": "https://c.ndtvimg.com/2026-04/7742oh9c_supreme-court_625x300_20_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 22 Apr 2026 20:47:51 +0530",
+    "link": "https://www.ndtv.com/india-news/not-obliged-to-provide-child-maintenance-if-not-biological-father-top-court-11394490#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-adani-green-and-hbl-engineering-on-thursday-for-gains-up-to-16/articleshow/130445336.cms",
+    "category": "finance",
+    "title": "Market Trading Guide: Buy Adani Green and HBL Engineering on Thursday for gains up to 16%",
+    "summary": "Nifty 50 ended lower, breaking its winning streak amid IT and FMCG weakness. Technical indicators show mixed signals with bearish bias short term. Analysts highlight support levels and recommend selective buying in Adani Green Energy and HBL Engineer",
+    "image": "https://img.etimg.com/photo/msid-130445336,imgsize-139860.cms",
+    "source": "ET",
+    "pubDate": "Wed, 22 Apr 2026 20:34:46 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-adani-green-and-hbl-engineering-on-thursday-for-gains-up-to-16/articleshow/130445336.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/only-a-handful-of-traders-power-indias-fo-volumes-highlights-zerodhas-nithin-kamath/articleshow/130445179.cms",
+    "category": "finance",
+    "title": "Only a handful of traders power India\u2019s F&amp;O volumes, highlights Zerodha's Nithin Kamath",
+    "summary": "Nithin Kamath said India\u2019s F&amp;O market remains small despite perceptions, with limited participation. A tiny group of 1\u20132% traders drives 60\u201370% of volumes, making brokerage revenues highly dependent on a narrow, concentrated investor base.",
+    "image": "https://img.etimg.com/photo/msid-130445179,imgsize-28182.cms",
+    "source": "ET",
+    "pubDate": "Wed, 22 Apr 2026 20:27:02 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/only-a-handful-of-traders-power-indias-fo-volumes-highlights-zerodhas-nithin-kamath/articleshow/130445179.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/india-denies-cash-crypto-payments-to-iran-for-hormuz-passage/articleshow/130445104.cms",
+    "category": "finance",
+    "title": "India denies cash, crypto payments to Iran for Hormuz passage",
+    "summary": "India has denied making any payments, in cash or cryptocurrency, to Iran for safe passage of its vessels through the Strait of Hormuz. This clarification follows an incident on April 18 where two Indian vessels were fired upon by Iranian forces and f",
+    "image": "https://img.etimg.com/photo/msid-130445104,imgsize-92132.cms",
+    "source": "ET",
+    "pubDate": "Wed, 22 Apr 2026 20:24:02 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/india-denies-cash-crypto-payments-to-iran-for-hormuz-passage/articleshow/130445104.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitdelta-india-launches-institutional-grade-vda-infrastructure-targets-trust-led-growth-in-crypto-market/articleshow/130444563.cms",
     "category": "finance",
     "title": "BitDelta India launches institutional-grade VDA infrastructure, targets trust-led growth in crypto market",
     "summary": "BitDelta India launched as an FIU-registered VDASP, targeting India\u2019s growing crypto market with institutional-grade infrastructure, strong security, and compliance. The platform offers unified INR trading, advanced technology, and aims to drive trus",
     "image": "https://img.etimg.com/photo/msid-130444563,imgsize-2826.cms",
     "source": "ET",
     "pubDate": "Wed, 22 Apr 2026 20:04:40 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-influencers/bitdelta-india-launches-institutional-grade-vda-infrastructure-targets-trust-led-growth-in-crypto-market/articleshow/130444563.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/good-news-on-talks-with-iran-could-come-by-friday-trump-11394173#publisher=newsstand",
-    "category": "india",
-    "title": "\"Good News\" On Talks With Iran Could Come By Friday: Trump",
-    "summary": "\"Good News\" On Talks With Iran Could Come By Friday: Trump",
-    "image": "https://i.ndtvimg.com/i/2018-04/donald-trump-reuters_650x400_81522641277.jpg",
-    "source": "NDTV",
-    "pubDate": "Wed, 22 Apr 2026 20:01:40 +0530",
-    "link": "https://www.ndtv.com/world-news/good-news-on-talks-with-iran-could-come-by-friday-trump-11394173#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/do-mosquitoes-bite-more-if-you-drink-alcohol-heres-what-science-says-11394257#publisher=newsstand",
-    "category": "india",
-    "title": "Do Mosquitoes Bite More If You Drink Alcohol? Here's What Science Says",
-    "summary": "Some studies suggest that drinking alcohol may increase your chances of getting bitten by mosquito",
-    "image": "https://c.ndtvimg.com/2026-04/4ll1uv5g_some-studies-suggest-that-drinking-alcohol-may-increase-your-chances-of-getting-bitten-by-mosquito_625x300_22_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 22 Apr 2026 19:58:29 +0530",
-    "link": "https://www.ndtv.com/health/do-mosquitoes-bite-more-if-you-drink-alcohol-heres-what-science-says-11394257#publisher=newsstand"
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitdelta-india-launches-institutional-grade-vda-infrastructure-targets-trust-led-growth-in-crypto-market/articleshow/130444563.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/traders-place-430-million-bet-on-lower-oil-price-before-trump-ceasefire-extension/articleshow/130444359.cms",
@@ -40,36 +140,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/traders-place-430-million-bet-on-lower-oil-price-before-trump-ceasefire-extension/articleshow/130444359.cms"
   },
   {
-    "id": "https://www.ndtv.com/feature/meet-luna-an-ai-bot-running-boutique-store-with-2-human-employees-in-california-11394218#publisher=newsstand",
-    "category": "india",
-    "title": "Meet Luna, An AI Bot Running Boutique Store With 2 Human Employees In California",
-    "summary": "AI bot Luna runs San Francisco boutique, hires staff, and manages operations autonomously.",
-    "image": "https://c.ndtvimg.com/2026-04/9lckjrss_as_625x300_22_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 22 Apr 2026 19:51:31 +0530",
-    "link": "https://www.ndtv.com/feature/meet-luna-an-ai-bot-running-boutique-store-with-2-human-employees-in-california-11394218#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/mallikarjun-kharge-gets-election-commission-notice-for-pm-modi-terrorist-remark-11393669#publisher=newsstand",
-    "category": "india",
-    "title": "Mallikarjun Kharge Gets Election Commission Notice For PM Modi \"Terrorist\" Remark",
-    "summary": "Kharge has denied having called PM Modi \"a terrorist\".",
-    "image": "https://c.ndtvimg.com/2025-11/ovbshgds_mallikarjun-kharge_625x300_19_November_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 22 Apr 2026 19:45:44 +0530",
-    "link": "https://www.ndtv.com/india-news/mallikarjun-kharge-gets-election-commission-notice-for-pm-modi-terrorist-remark-11393669#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/bengal-polls-2026-meet-agnimitra-paul-bjp-mla-eyeing-consecutive-term-from-asansol-dakshin-11391996#publisher=newsstand",
-    "category": "india",
-    "title": "Meet Agnimitra Paul, BJP MLA Defending Asansol Dakshin Seat",
-    "summary": "BJP's Agnimitra Paul",
-    "image": "https://c.ndtvimg.com/2026-04/bsm1nd78_agnimitra-paul-_625x300_22_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 22 Apr 2026 19:44:56 +0530",
-    "link": "https://www.ndtv.com/india-news/bengal-polls-2026-meet-agnimitra-paul-bjp-mla-eyeing-consecutive-term-from-asansol-dakshin-11391996#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-boeing-posts-smaller-than-expected-quarterly-loss-as-recovery-gains-traction/articleshow/130444122.cms",
     "category": "finance",
     "title": "US Stocks: Boeing posts smaller-than-expected quarterly loss as recovery gains traction",
@@ -78,16 +148,6 @@
     "source": "ET",
     "pubDate": "Wed, 22 Apr 2026 19:44:36 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-boeing-posts-smaller-than-expected-quarterly-loss-as-recovery-gains-traction/articleshow/130444122.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/hormuz-blocked-4-million-for-panama-crossing-and-us-crude-on-the-rise-11393195#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Vindicated? Iran Crisis Turning US Crude Into World's Safe Bet",
-    "summary": "As Iranbacked forces block the Strait of Hormuz, refiners race to reroute US Gulf crude through the Panama Canal  paying historic premiums just to pass through.",
-    "image": "https://c.ndtvimg.com/2026-04/00iuq4ak_us-iran-war-strait-of-hormuz-oil-blockade-panama-canal-alternative-route-us-gulf-coast-crude_625x300_22_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 22 Apr 2026 19:43:56 +0530",
-    "link": "https://www.ndtv.com/world-news/hormuz-blocked-4-million-for-panama-crossing-and-us-crude-on-the-rise-11393195#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-blockchain-billionaire-sun-takes-trump-familys-crypto-firm-to-court/articleshow/130443905.cms",
@@ -100,64 +160,104 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-blockchain-billionaire-sun-takes-trump-familys-crypto-firm-to-court/articleshow/130443905.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/pune-man-fakes-police-selection-to-get-marriage-offers-faces-police-case-11394104#publisher=newsstand",
-    "category": "india",
-    "title": "Pune Man Fakes Police Selection To Get Marriage Offers, Faces Police Case",
-    "summary": "Rishikesh Raju Jadhav put up posters around Pune city, claiming to be a cop",
-    "image": "https://c.ndtvimg.com/2026-04/ms94oqj_pune-man-_625x300_22_April_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 22 Apr 2026 19:34:30 +0530",
-    "link": "https://www.ndtv.com/india-news/pune-man-fakes-police-selection-to-get-marriage-offers-faces-police-case-11394104#publisher=newsstand"
+    "id": "https://www.bbc.com/sport/football/articles/c9d4w8032vno#0",
+    "category": "global",
+    "title": "Head coach Liam Rosenior sacked by Chelsea after three months in charge",
+    "summary": "Chelsea sack head coach Liam Rosenior after losing five consecutive Premier League matches without scoring for the first time since 1912.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 22 Apr 2026 16:45:57 GMT",
+    "link": "https://www.bbc.com/sport/football/articles/c9d4w8032vno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/foreigner-travelling-solo-in-india-genuinely-shocked-by-5-things-11394094#publisher=newsstand",
-    "category": "india",
-    "title": "Foreigner Travelling Solo In India \"Genuinely Shocked\" By 5 Things",
-    "summary": "The traveller praised the Indian cuisine and the authenticity and flavour of the food.",
-    "image": "https://c.ndtvimg.com/2026-04/our27cus_india-travel_625x300_22_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 22 Apr 2026 19:33:21 +0530",
-    "link": "https://www.ndtv.com/offbeat/foreigner-travelling-solo-in-india-genuinely-shocked-by-5-things-11394094#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1533156.html",
+    "category": "sports",
+    "title": "MI, CSK to take decision on Rohit and Dhoni on matchday",
+    "summary": "Both batted in the nets on Wednesday, suggesting their return from injury may be imminent",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416030.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 22 Apr 2026 16:40:47 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533156.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-philip-morris-trims-annual-profit-forecast-amid-nicotine-pouch-uncertainty/articleshow/130443833.cms",
-    "category": "finance",
-    "title": "US Stocks: Philip Morris trims annual profit forecast amid nicotine pouch uncertainty",
-    "summary": "Philip \u200bMorris International cut its annual profit forecast \u200bon Wednesday amid regulatory uncertainty over its Zyn nicotine pouches and rising competition in tobacco products.",
-    "image": "https://img.etimg.com/photo/msid-130443833,imgsize-6174.cms",
-    "source": "ET",
-    "pubDate": "Wed, 22 Apr 2026 19:33:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-philip-morris-trims-annual-profit-forecast-amid-nicotine-pouch-uncertainty/articleshow/130443833.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1533108.html",
+    "category": "sports",
+    "title": "South Africa bowl first in pursuit of T20I series win against India",
+    "summary": "South Africa made two changes to their team, while India made three",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415700/415780.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 22 Apr 2026 16:40:46 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533108.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-best-buy-taps-insider-bonfig-to-succeed-veteran-barry-as-ceo-amid-demand-slowdown/articleshow/130443716.cms",
-    "category": "finance",
-    "title": "US Stocks: Best Buy taps insider Bonfig to succeed veteran Barry as CEO amid demand slowdown",
-    "summary": "Best Buy on Wednesday named insider Jason Bonfig as CEO, replacing longtime executive Corie Barry, in \u200ca leadership change \u2060that \u2060comes as the U.S. retailer grapples with weak consumer demand and tariff-related supply-chain pressures.",
-    "image": "https://img.etimg.com/photo/msid-130443716,imgsize-121932.cms",
-    "source": "ET",
-    "pubDate": "Wed, 22 Apr 2026 19:29:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-best-buy-taps-insider-bonfig-to-succeed-veteran-barry-as-ceo-amid-demand-slowdown/articleshow/130443716.cms"
+    "id": "https://www.bbc.com/news/articles/c5yjl1pmv55o#0",
+    "category": "global",
+    "title": "PM's ex-chief of staff to give evidence on Mandelson vetting",
+    "summary": "The prime minister's former chief of staff will face questions about his role in the appointment of Lord Mandelson.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 22 Apr 2026 16:23:15 GMT",
+    "link": "https://www.bbc.com/news/articles/c5yjl1pmv55o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-u-s-stocks-open-higher-on-ceasefire-extension-relief/articleshow/130443292.cms",
-    "category": "finance",
-    "title": "US stocks today: U.S. stocks gains after Iran ceasefire extension and robust earnings bring relief",
-    "summary": "Wall Street indexes climbed Wednesday as President Trump extended the Iran ceasefire, despite ongoing uncertainty over the waterway's opening. Strong earnings reports, particularly from GE Vernova and Boston Scientific, bolstered investor confidence ",
-    "image": "https://img.etimg.com/photo/msid-130443292,imgsize-155922.cms",
-    "source": "ET",
-    "pubDate": "Wed, 22 Apr 2026 19:06:25 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-u-s-stocks-open-higher-on-ceasefire-extension-relief/articleshow/130443292.cms"
+    "id": "https://www.bbc.com/news/articles/c0q9xq7knq2o#0",
+    "category": "global",
+    "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
+    "summary": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 22 Apr 2026 16:19:36 GMT",
+    "link": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-communications-q4-results-profit-falls-75-yoy-to-rs-259-crore-co-declares-rs-17-5-dividend/articleshow/130442972.cms",
-    "category": "finance",
-    "title": "Tata Communications Q4 Results: Profit falls 75% YoY to Rs 259 crore; co declares Rs 17.5 dividend",
-    "summary": "Tata Communications reported a 75% YoY drop in Q4 profit to Rs 259 crore due to absence of one-off gains, despite 9% revenue growth. Higher costs and base effects pressured margins, while the company announced a Rs 17.5 dividend.",
-    "image": "https://img.etimg.com/photo/msid-130442972,imgsize-20160.cms",
-    "source": "ET",
-    "pubDate": "Wed, 22 Apr 2026 18:51:25 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-communications-q4-results-profit-falls-75-yoy-to-rs-259-crore-co-declares-rs-17-5-dividend/articleshow/130442972.cms"
+    "id": "https://www.bbc.com/news/articles/c8x7kxjgq9xo#0",
+    "category": "global",
+    "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+    "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 22 Apr 2026 16:14:20 GMT",
+    "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533148.html",
+    "category": "sports",
+    "title": "All eyes on Dhoni and Rohit as IPL's defining rivalry returns",
+    "summary": "It's CSK vs MI again, but both teams have been far from their best in recent years and find themselves at a crossroads",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/359500/359518.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 22 Apr 2026 15:59:19 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533148.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn8de0dg5j9o#0",
+    "category": "global",
+    "title": "Black children eight times more likely to be strip searched by police, report says",
+    "summary": "A new report says while the number of strip searches has decreased, ethnic disparities in their use persist.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 22 Apr 2026 15:55:22 GMT",
+    "link": "https://www.bbc.com/news/articles/cn8de0dg5j9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533123.html",
+    "category": "sports",
+    "title": "Kusal, Yousaf fifties take table-toppers Zalmi to seventh successive win",
+    "summary": "Ali Raza, who became the youngest Pakistan bowler to take a T20 hat-trick, helped restrict Kings to 182",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416010.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 22 Apr 2026 15:27:11 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533123.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533140.html",
+    "category": "sports",
+    "title": "Mohsin Khan bowls first ever maiden to Vaibhav Sooryavanshi and dismisses him",
+    "summary": "The Rajasthan Royals opener was dismissed for 8 off 11 balls in Lucknow",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416015.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 22 Apr 2026 15:08:43 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533140.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cre1r4n5j5wo#0",
@@ -168,26 +268,6 @@
     "source": "BBC",
     "pubDate": "Wed, 22 Apr 2026 15:00:40 GMT",
     "link": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533140.html",
-    "category": "sports",
-    "title": "Mohsin Khan bowls first ever maiden to Vaibhav Sooryavanshi and dismisses him",
-    "summary": "The Rajasthan Royals opener was dismissed for 8 off 11 balls in Lucknow",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416015.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 22 Apr 2026 14:54:31 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533140.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533123.html",
-    "category": "sports",
-    "title": "Kusal, Yousaf fifties take table-toppers Zalmi to seventh successive win",
-    "summary": "Ali Raza, who became the youngest Pakistan bowler to take a T20 hat-trick, helped restrict Kings to 182",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416010.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 22 Apr 2026 14:45:46 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533123.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cqxl98zvvw5o#0",
@@ -220,26 +300,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1533119.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c4glkwww345o#0",
-    "category": "global",
-    "title": "Supreme Court rejects bid to revoke adoption of sisters",
-    "summary": "The children, now 18 and 19, supported their adoptive mother's application to the court.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 22 Apr 2026 14:28:19 GMT",
-    "link": "https://www.bbc.com/news/articles/c4glkwww345o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5yjl1pmv55o#0",
-    "category": "global",
-    "title": "PM's ex-chief of staff to give evidence on Mandelson vetting",
-    "summary": "The prime minister's former chief of staff will face questions about his role in the appointment of Lord Mandelson.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 22 Apr 2026 14:28:01 GMT",
-    "link": "https://www.bbc.com/news/articles/c5yjl1pmv55o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1533105.html",
     "category": "sports",
     "title": "Mayank Yadav returns as LSG choose to bowl against RR",
@@ -253,71 +313,11 @@
     "id": "https://www.bbc.com/news/articles/cq59xx6n3j7o#0",
     "category": "global",
     "title": "Starmer admits No 10 asked about job for aide Matthew Doyle",
-    "summary": "The ex-communications chief was made a Labour peer after leaving Downing Street in March 2025, but was suspended from the parliamentary party this February over links with a convicted sex offender.",
+    "summary": "The prime minister was questioned at PMQs about allegations that Downing Street had asked about a diplomat role for the then-communications chief.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Wed, 22 Apr 2026 13:13:14 GMT",
     "link": "https://www.bbc.com/news/articles/cq59xx6n3j7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533106.html",
-    "category": "sports",
-    "title": "O'Rourke backs young NZ to put 'best foot forward and win series'",
-    "summary": "\"I think we've got a pretty new group here, like a lot of us haven't been here before and haven't played too much in Bangladesh\"",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/397800/397825.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 22 Apr 2026 13:00:11 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533106.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533060.html",
-    "category": "sports",
-    "title": "Finch to Axar: 'You're not willing to stand up at the moment'",
-    "summary": "DC captain avoided a match-up against the left-handed Abhishek Sharma, prompting criticism",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415900/415978.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 22 Apr 2026 12:10:15 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533060.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533096.html",
-    "category": "sports",
-    "title": "LPL 2026 from July 10 to August 5",
-    "summary": "The sixth edition will feature the recently renovated SSC in Colombo as an LPL venue for the first time",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/385100/385176.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 22 Apr 2026 11:41:54 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533096.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c75k002qkzno#0",
-    "category": "global",
-    "title": "Three ways the latest inflation figures affect you",
-    "summary": "How high could inflation get? And what could it mean for borrowers and savers around the country?",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 22 Apr 2026 11:39:25 GMT",
-    "link": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cnv8l99r3yyo#0",
-    "category": "global",
-    "title": "EU approves \u20ac90bn loan for Ukraine as pipeline is turned on ending deadlock",
-    "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 22 Apr 2026 11:19:57 GMT",
-    "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cj0v632yddzo#0",
-    "category": "global",
-    "title": "'Superstar' runners praised for helping exhausted man finish marathon",
-    "summary": "Two runners go viral for helping carry exhausted man over the finish line.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 22 Apr 2026 09:50:06 GMT",
-    "link": "https://www.bbc.com/news/articles/cj0v632yddzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "4ri2LVmhlv34kOOk94nnsi",
