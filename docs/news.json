@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cr41yx7pxglo#0",
+    "category": "global",
+    "title": "Officials release cause of death for teen found dead in singer D4vd's car",
+    "summary": "The medical examiner said the 14-year-old's cause of death was determined months ago but was blocked from release.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 22 Apr 2026 22:39:58 GMT",
+    "link": "https://www.bbc.com/news/articles/cr41yx7pxglo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cz0ev7enk2lo#0",
     "category": "global",
     "title": "UK and France strike new \u00a3662m small boats deal",
@@ -28,16 +38,6 @@
     "source": "BBC",
     "pubDate": "Wed, 22 Apr 2026 21:10:56 GMT",
     "link": "https://www.bbc.com/news/articles/c5yjl1pmv55o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ckgej0x3lrdo#0",
-    "category": "global",
-    "title": "Two more arrests over alleged arson plot on Jewish site",
-    "summary": "Two men are held over an alleged plan to commit arson at a site connected to the Jewish community.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 22 Apr 2026 21:05:24 GMT",
-    "link": "https://www.bbc.com/news/articles/ckgej0x3lrdo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/130445804.cms",
@@ -240,6 +240,16 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://www.ndtv.com/world-news/lebanese-journalist-amal-khalil-killed-in-israeli-strike-11395695#publisher=newsstand",
+    "category": "india",
+    "title": "Lebanese Journalist Amal Khalil Killed In Israeli Strike",
+    "summary": "Amal Khalil and photographer Zeinab Faraj were covering developments near the town of al-Tayri.",
+    "image": "https://c.ndtvimg.com/2026-04/r8g761j8_amal-khalil_625x300_23_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 03:21:19 +0530",
+    "link": "https://www.ndtv.com/world-news/lebanese-journalist-amal-khalil-killed-in-israeli-strike-11395695#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-market-rises-on-iran-ceasefire-extension-and-solid-earnings/articleshow/130451561.cms",
     "category": "finance",
     "title": "US stocks today: US market rises on Iran ceasefire extension and solid earnings",
@@ -318,16 +328,6 @@
     "source": "NDTV",
     "pubDate": "Thu, 23 Apr 2026 00:23:26 +0530",
     "link": "https://www.ndtv.com/india-news/2026-west-bengal-elections-2026-tamil-nadu-elections-1-000-crores-and-counting-record-seizures-in-tamil-nadu-bengal-before-polls-11395362#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-says-reopening-strait-of-hormuz-not-possible-under-us-naval-blockade-11395355#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Says Reopening Strait of Hormuz 'Not Possible' Under US Naval Blockade",
-    "summary": "Trump announced an extension of the Iran ceasefire on Tuesday.",
-    "image": "https://c.ndtvimg.com/2026-03/q08tf9l8_mohammad-bagher-ghalibaf_625x300_24_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 00:20:27 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-says-reopening-strait-of-hormuz-not-possible-under-us-naval-blockade-11395355#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-fico-shares-slide-as-freddie-mac-fannie-mae-begin-accepting-rival-vantagescore/articleshow/130450555.cms",
