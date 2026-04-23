@@ -20,24 +20,104 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://www.ndtv.com/world-news/uninformed-inappropriate-in-poor-taste-india-after-trump-hell-hole-row-11400181#publisher=newsstand",
-    "category": "india",
-    "title": "\"Uninformed, Inappropriate, In Poor Taste\": India After Trump 'Hell-Hole' Row",
-    "summary": "Donald Trump had shared a derogatory post on India made by a podcaster",
-    "image": "https://c.ndtvimg.com/2025-04/qph7os5_donald-trump-reuters_625x300_22_April_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 22:24:13 +0530",
-    "link": "https://www.ndtv.com/world-news/uninformed-inappropriate-in-poor-taste-india-after-trump-hell-hole-row-11400181#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-jones-plummets-over-500-points-after-trump-orders-us-navy-to-kill-any-boat-laying-mines-in-hormuz/articleshow/130476499.cms",
+    "category": "finance",
+    "title": "US stocks: Dow Jones plummets over 500 points after Trump orders US Navy to kill any boat laying mines in Strait of Horm",
+    "summary": "US markets experienced a sharp decline on Thursday. US President Donald Trump issued a directive for the Navy to engage any boats laying mines in the Strait of Hormuz. This action heightened existing tensions in the region. US forces also intercepted",
+    "image": "https://img.etimg.com/photo/msid-130476499,imgsize-243302.cms",
+    "source": "ET",
+    "pubDate": "Thu, 23 Apr 2026 23:34:56 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-jones-plummets-over-500-points-after-trump-orders-us-navy-to-kill-any-boat-laying-mines-in-hormuz/articleshow/130476499.cms"
   },
   {
-    "id": "https://www.ndtv.com/feature/sundar-pichai-reveals-ai-now-generates-75-of-googles-new-code-11400273#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-to-launch-new-products-ahead-of-extended-trading-hours-plan/articleshow/130476381.cms",
+    "category": "finance",
+    "title": "Nasdaq to launch new products ahead of extended trading hours plan",
+    "summary": "Nasdaq is launching new products for extended U.S. stock trading. This move will allow trading for 23 hours a day, five days a week. The expansion aims to provide greater global access to popular U.S. stocks. This change is expected to begin on Decem",
+    "image": "https://img.etimg.com/photo/msid-130476381,imgsize-38154.cms",
+    "source": "ET",
+    "pubDate": "Thu, 23 Apr 2026 23:28:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-to-launch-new-products-ahead-of-extended-trading-hours-plan/articleshow/130476381.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/assam-woman-decapitates-mother-spends-night-with-severed-head-11400478#publisher=newsstand",
     "category": "india",
-    "title": "Sundar Pichai Reveals AI Now Generates 75% Of Google's New Code",
-    "summary": "Sundar Pichai reveals AI now generates 75% of Google's new code, up from 50% last year.",
-    "image": "https://c.ndtvimg.com/2026-04/h8jbcknk_sundar-pichai_625x300_16_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Assam Woman Decapitates Mother, Spends Night With Severed Head",
+    "summary": "The woman also attacked her father and sister.",
+    "image": "https://c.ndtvimg.com/2026-04/3sl6un48_attack_625x300_23_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 22:16:06 +0530",
-    "link": "https://www.ndtv.com/feature/sundar-pichai-reveals-ai-now-generates-75-of-googles-new-code-11400273#publisher=newsstand"
+    "pubDate": "Thu, 23 Apr 2026 23:27:23 +0530",
+    "link": "https://www.ndtv.com/india-news/assam-woman-decapitates-mother-spends-night-with-severed-head-11400478#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/bumper-wheat-harvest-in-madhya-pradesh-centre-ratchets-up-procurement-11400498#publisher=newsstand",
+    "category": "india",
+    "title": "Bumper Wheat Harvest In Madhya Pradesh, Centre Ratchets Up Procurement",
+    "summary": "The Central Government has now approved the a larger procurement target.",
+    "image": "https://c.ndtvimg.com/2022-06/qcpkfs6_wheat-generic-reuters_625x300_22_June_22.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 23:15:25 +0530",
+    "link": "https://www.ndtv.com/india-news/bumper-wheat-harvest-in-madhya-pradesh-centre-ratchets-up-procurement-11400498#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/radical-preacher-amritpal-singh-in-punjab-polices-2-day-custody-in-assam-11400495#publisher=newsstand",
+    "category": "india",
+    "title": "Radical Preacher Amritpal Singh In Punjab Police's 2-Day Custody In Assam",
+    "summary": "Despite being incarcerated, Amritpal Singh won the Khadoor Sahib Lok Sabha seat",
+    "image": "https://c.ndtvimg.com/2024-06/k4o01dk8_amritpal-singh_625x300_18_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 23:15:21 +0530",
+    "link": "https://www.ndtv.com/india-news/radical-preacher-amritpal-singh-in-punjab-polices-2-day-custody-in-assam-11400495#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/russia-ukraine-war-eu-approves-105-billion-loan-for-ukraine-imposes-new-sanctions-on-russia-11400475#publisher=newsstand",
+    "category": "india",
+    "title": "EU Approves $105 Billion Loan For Ukraine, Imposes New Sanctions On Russia",
+    "summary": "The row has held up EU support for Ukraine at a time when the United States has largely cut Kyiv off.",
+    "image": "https://c.ndtvimg.com/2026-04/1mdc6crg_volodymyr-zelensky_625x300_15_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 23:09:15 +0530",
+    "link": "https://www.ndtv.com/world-news/russia-ukraine-war-eu-approves-105-billion-loan-for-ukraine-imposes-new-sanctions-on-russia-11400475#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/feature/new-research-suggests-fruits-and-vegetables-may-increase-cancer-risk-11400464#publisher=newsstand",
+    "category": "india",
+    "title": "New Research Suggests Fruits And Vegetables May Increase Cancer Risk",
+    "summary": "The new data suggests diet, specifically pesticide exposure from the so-called healthy foods, could be another factor.",
+    "image": "https://c.ndtvimg.com/2026-04/lcit59es_fruits-and-vegetables-_625x300_23_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 23:05:17 +0530",
+    "link": "https://www.ndtv.com/feature/new-research-suggests-fruits-and-vegetables-may-increase-cancer-risk-11400464#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/russia-warns-european-nations-against-hosting-french-nuclear-capable-bombers-11400452#publisher=newsstand",
+    "category": "india",
+    "title": "Russia Warns European Nations Against Hosting French Nuclear-Capable Bombers",
+    "summary": "NATO this week criticised Russia and China over their nuclear arms policies.",
+    "image": "https://c.ndtvimg.com/2025-11/uolsf1fs_putin-ukraine-warning_625x300_28_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 23:03:04 +0530",
+    "link": "https://www.ndtv.com/world-news/russia-warns-european-nations-against-hosting-french-nuclear-capable-bombers-11400452#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/exclusive-ex-army-chief-general-mm-naravane-denies-being-abandoned-during-china-face-off-11399591#publisher=newsstand",
+    "category": "india",
+    "title": "Exclusive: Ex-Army Chief Denies Being \"Abandoned\" During China Face-Off",
+    "summary": "NDTV's Vishnu Som speaks to General MM Naravane (retired)",
+    "image": "https://c.ndtvimg.com/2026-04/ovif84r8_general-naravane_625x300_23_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 22:59:52 +0530",
+    "link": "https://www.ndtv.com/india-news/exclusive-ex-army-chief-general-mm-naravane-denies-being-abandoned-during-china-face-off-11399591#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/indian-seafarer-among-crew-of-ship-seized-by-iran-centre-says-hes-safe-strait-of-hormuz-iran-war-11400383#publisher=newsstand",
+    "category": "india",
+    "title": "Indian Seafarer Among Crew Of Ship Seized By Iran, Centre Says He's Safe",
+    "summary": "Iran on Wednesday captured two foreign container ships seeking to exit the strait.",
+    "image": "https://c.ndtvimg.com/2026-04/hp95m0dg_strait-of-hormuz_625x300_21_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 22:40:48 +0530",
+    "link": "https://www.ndtv.com/india-news/indian-seafarer-among-crew-of-ship-seized-by-iran-centre-says-hes-safe-strait-of-hormuz-iran-war-11400383#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/freeport-delays-grasberg-recovery-due-to-wetter-ore-shares-fall/articleshow/130474610.cms",
@@ -48,56 +128,6 @@
     "source": "ET",
     "pubDate": "Thu, 23 Apr 2026 22:15:32 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/freeport-delays-grasberg-recovery-due-to-wetter-ore-shares-fall/articleshow/130474610.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/russia-ukraine-war-russian-town-sees-toxic-rain-after-ukraine-strike-officials-issue-warning-11400260#publisher=newsstand",
-    "category": "india",
-    "title": "Russian Town Sees Toxic Rain After Ukraine Strike, Officials Issue Warning",
-    "summary": "Thick plumes of smoke rise from an oil refinery in Russia's Tuapse after an Ukrainian drone attack",
-    "image": "https://c.ndtvimg.com/2026-04/hmpoia0o_tuapse-oil-refinery-attack_625x300_23_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 22:15:05 +0530",
-    "link": "https://www.ndtv.com/world-news/russia-ukraine-war-russian-town-sees-toxic-rain-after-ukraine-strike-officials-issue-warning-11400260#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/west-bengal-election-2026-phase-1-voting-live-updates-trinamool-tmc-bjp-fight-for-152-seats-pm-modi-mamata-banerjee-11395947#publisher=newsstand",
-    "category": "india",
-    "title": "West Bengal Elections 1st Phase Voting LIVE Updates | Bengal Sees Highest-Ever Voter Turnout At 92.59%",
-    "summary": "Bengal Elections 2026 Phase 1 Voting: The second phase of polling will be held on April 29.",
-    "image": "https://c.ndtvimg.com/2026-04/t3jndk0g_agnimitra-paul_625x300_23_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 22:06:54 +0530",
-    "link": "https://www.ndtv.com/india-news/west-bengal-election-2026-phase-1-voting-live-updates-trinamool-tmc-bjp-fight-for-152-seats-pm-modi-mamata-banerjee-11395947#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/west-bengal-election-2026-phase-1-voting-live-updates-mamata-banerjee-tmc-tamil-nadu-election-2026-voting-live-updates-tamil-nadu-poll-bjp-dmk-aiadmk-11395961#publisher=newsstand",
-    "category": "india",
-    "title": "West Bengal, Tamil Nadu Elections 2026 LIVE Updates: Highest-Ever Voter Turnout In West Bengal, Tamil Nadu",
-    "summary": "Votes for both Tamil Nadu and West Bengal will be counted on May 4.",
-    "image": "https://c.ndtvimg.com/2026-04/f1ruqek_pti-election-voting_625x300_23_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 22:06:23 +0530",
-    "link": "https://www.ndtv.com/india-news/west-bengal-election-2026-phase-1-voting-live-updates-mamata-banerjee-tmc-tamil-nadu-election-2026-voting-live-updates-tamil-nadu-poll-bjp-dmk-aiadmk-11395961#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/assam-hs-result-2026-live-ahsec-to-announce-class-12-scores-on-april-28-11400006#publisher=newsstand",
-    "category": "india",
-    "title": "Assam HS Result 2026: AHSEC To Announce Class 12 Scores On April 28",
-    "summary": "Assam HS Result 2026 To Be Declared On April 28",
-    "image": "https://c.ndtvimg.com/2026-04/m2upjpfc_assam_625x300_23_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 22:00:48 +0530",
-    "link": "https://www.ndtv.com/education/assam-hs-result-2026-live-ahsec-to-announce-class-12-scores-on-april-28-11400006#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/west-bengal-election-2026-bengal-chief-minister-will-be-from-bjp-amit-shah-to-ndtv-at-rally-11399910#publisher=newsstand",
-    "category": "india",
-    "title": "\"Bengal Chief Minister Will Be From BJP\": Amit Shah To NDTV At Rally",
-    "summary": "Amit Shah alleged Mamata Banerjee's \"goons\" couldn't start large-scale violence this time",
-    "image": "https://c.ndtvimg.com/2026-04/2dolop4s_amit-shah_625x300_23_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 21:43:11 +0530",
-    "link": "https://www.ndtv.com/india-news/west-bengal-election-2026-bengal-chief-minister-will-be-from-bjp-amit-shah-to-ndtv-at-rally-11399910#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-american-airlines-dims-2026-forecast-as-high-fuel-costs-hurt-margins/articleshow/130473350.cms",
@@ -130,16 +160,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/130473182.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/students-pay-rs-300-to-use-mobile-phones-for-cheating-during-exam-in-maharashtra-11399981#publisher=newsstand",
-    "category": "india",
-    "title": "Students Pay Rs 300 To Use Mobile Phones For Cheating During Exam In Maharashtra",
-    "summary": "Around 400 students are taking exams at this centre.",
-    "image": "https://c.ndtvimg.com/2026-04/3ds2d2l8_chandrapur_625x300_23_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 21:08:54 +0530",
-    "link": "https://www.ndtv.com/education/students-pay-rs-300-to-use-mobile-phones-for-cheating-during-exam-in-maharashtra-11399981#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-dr-reddys-laboratories-and-solar-industries-on-friday-for-gains-up-to-14/articleshow/130473051.cms",
     "category": "finance",
     "title": "Market Trading Guide: Buy Dr Reddy\u2019s Laboratories and Solar Industries on Friday for gains up to 14%",
@@ -160,24 +180,84 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-honeywell-forecasts-second-quarter-revenue-below-estimates-over-middle-east-conflict/articleshow/130472076.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-warner-bros-shareholders-approve-paramounts-81-billion-takeover-of-the-hollywood-giant/articleshow/130471987.cms",
-    "category": "finance",
-    "title": "US stocks: Warner Bros shareholders approve Paramount's $81 billion takeover of the Hollywood giant",
-    "summary": "Warner Bros. Discovery's shareholders approved an $81 billion sale of the company to Skydance-owned Paramount on Thursday, propelling a mega merger that could vastly reshape Hollywood and the wider media landscape closer to the finish line.",
-    "image": "https://img.etimg.com/photo/msid-130471987,imgsize-41368.cms",
-    "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 20:16:34 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-warner-bros-shareholders-approve-paramounts-81-billion-takeover-of-the-hollywood-giant/articleshow/130471987.cms"
+    "id": "https://www.bbc.com/news/articles/clyxlnzrq41o#0",
+    "category": "global",
+    "title": "Proxy attacks in UK a real and growing concern, says PM",
+    "summary": "The prime minister says he is increasingly worried a number of countries are behind attacks in the UK.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 23 Apr 2026 18:50:58 GMT",
+    "link": "https://www.bbc.com/news/articles/clyxlnzrq41o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-lululemon-sinks-after-new-ceo-hire-from-nike-fails-to-impress-investors/articleshow/130471892.cms",
-    "category": "finance",
-    "title": "US stocks: Lululemon sinks after new CEO hire from Nike fails to impress investors",
-    "summary": "Lululemon Athletica shares tumbled about 12% in early trading on Thursday, as the struggling athletic apparel maker's decision to tap a CEO from turnaround-embattled Nike failed to reassure investors.",
-    "image": "https://img.etimg.com/photo/msid-130471892,imgsize-54368.cms",
-    "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 20:12:29 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-lululemon-sinks-after-new-ceo-hire-from-nike-fails-to-impress-investors/articleshow/130471892.cms"
+    "id": "https://www.bbc.com/news/articles/c86ezy3qvjno#0",
+    "category": "global",
+    "title": "No rape took place outside Epsom church, say police",
+    "summary": "The force says the woman concerned had injured her head on a night out and made 'a confused report'.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 23 Apr 2026 18:46:04 GMT",
+    "link": "https://www.bbc.com/news/articles/c86ezy3qvjno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533331.html",
+    "category": "sports",
+    "title": "Bates to retire from international cricket after T20 World Cup",
+    "summary": "\"I have one final mission: to head to the UK and win another World Cup,\" she says",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/407500/407566.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 23 Apr 2026 18:40:44 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533331.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533333.html",
+    "category": "sports",
+    "title": "Khushdil pulls off stunning chase to end Karachi Kings' losing streak",
+    "summary": "Karachi Kings chased down Lahore Qalandars' total of 199 with eight balls to spare",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416089.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 23 Apr 2026 18:40:22 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533333.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533318.html",
+    "category": "sports",
+    "title": "'He brings that magic dust' - The inside story of Bellingham's Phoenix investment",
+    "summary": "Warwickshire and Knighthead Capital apply Tom Brady model by bringing Birmingham's highest-profile footballer on board",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415900/415993.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 23 Apr 2026 18:34:52 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533318.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533330.html",
+    "category": "sports",
+    "title": "Samson century, Hosein four-for hand Mumbai Indians their biggest defeat",
+    "summary": "Noor Ahmad also picked up two wickets as MI, chasing 208 were bowled out for just 104 in 19 overs",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416081.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 23 Apr 2026 18:34:41 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533330.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/cp86g5m8vyyo#0",
+    "category": "global",
+    "title": "Masked Iranian forces appear to seize ships in staged video",
+    "summary": "Analysis indicates that parts of the video appear to have been filmed hours after the ships were reportedly seized.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 23 Apr 2026 18:15:28 GMT",
+    "link": "https://www.bbc.com/news/videos/cp86g5m8vyyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c3w3v77l23xo#0",
+    "category": "global",
+    "title": "Police arrest two over alleged drug sales through shops in West Midlands after BBC investigation",
+    "summary": "It follows a BBC investigation that found High Street mini-marts were selling drugs in some West Midlands towns.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 23 Apr 2026 18:15:21 GMT",
+    "link": "https://www.bbc.com/news/articles/c3w3v77l23xo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cx2wdegnzzjo#0",
@@ -186,8 +266,18 @@
     "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 23 Apr 2026 16:53:44 GMT",
+    "pubDate": "Thu, 23 Apr 2026 17:36:11 GMT",
     "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533294.html",
+    "category": "sports",
+    "title": "Clash of contrasts at the Chinnaswamy as RCB host GT",
+    "summary": "The two sets of batters couldn't be more different from each other, but where RCB and GT are similar is in the ability of their fast-bowling packs",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415600/415690.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 23 Apr 2026 17:25:22 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533294.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cy81lrnv5peo#0",
@@ -220,36 +310,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1533267.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cgj09ny0dq6o#0",
-    "category": "global",
-    "title": "Warner Bros shareholders approve Paramount's $111bn takeover",
-    "summary": "The approval came as Donald Trump is to attend a dinner with billionaire Paramount backers the Ellisons.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 23 Apr 2026 16:15:45 GMT",
-    "link": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5y9nln8pvwo#0",
-    "category": "global",
-    "title": "Doctor warned Nottingham attacker he would end up killing",
-    "summary": "However, Dr Faizal Seedat told the Nottingham Inquiry he did not actually believe Valdo Calocane would kill.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 23 Apr 2026 16:14:45 GMT",
-    "link": "https://www.bbc.com/news/articles/c5y9nln8pvwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c3w3v77l23xo#0",
-    "category": "global",
-    "title": "Police arrest two over alleged drug sales through shops in West Midlands after BBC investigation",
-    "summary": "It follows a BBC investigation that found High Street mini-marts were selling drugs in some West Midlands towns.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 23 Apr 2026 15:59:40 GMT",
-    "link": "https://www.bbc.com/news/articles/c3w3v77l23xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1533303.html",
     "category": "sports",
     "title": "Ben Charlesworth to join Lancashire at the end of the season",
@@ -270,16 +330,6 @@
     "link": "https://www.bbc.com/news/articles/ckg98qjrllqo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533286.html",
-    "category": "sports",
-    "title": "Shanto century, Mustafizur five-for seals series win for Bangladesh",
-    "summary": "Dean Foxcroft's late charge, during which he put up a fifty-run stand with No. 11 Ben Lister, could not get New Zealand over the line",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416058.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 23 Apr 2026 15:25:08 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533286.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cx2ev8zed5zo#0",
     "category": "global",
     "title": "Sara Cox replaces Scott Mills on Radio 2 breakfast show",
@@ -288,56 +338,6 @@
     "source": "BBC",
     "pubDate": "Thu, 23 Apr 2026 15:23:25 GMT",
     "link": "https://www.bbc.com/news/articles/cx2ev8zed5zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533294.html",
-    "category": "sports",
-    "title": "Clash of contrasts at the Chinnaswamy as RCB host GT",
-    "summary": "The two sets of batters couldn't be more different from each other, but where RCB and GT are similar is in the ability of their fast-bowling packs",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415600/415690.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 23 Apr 2026 15:07:15 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533294.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533252.html",
-    "category": "sports",
-    "title": "Nuwan Thushara withdraws lawsuit against Sri Lanka Cricket",
-    "summary": "Nuwan Thushara is yet to join RCB at IPL 2026 but the team hasn't named a replacement for him yet",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/390600/390673.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 23 Apr 2026 14:32:09 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533252.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533276.html",
-    "category": "sports",
-    "title": "Rawalpindiz break duck in penultimate game of their season",
-    "summary": "Asif Afridi, Mohammad Amir, Saad Masood and Dian Forrester combined forces to stop Islamabad United at 137, before the Rawalpindiz batters got to the target with 11 balls in hand",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416067.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 23 Apr 2026 14:24:59 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533276.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533285.html",
-    "category": "sports",
-    "title": "UAE captain Waseem fined and handed demerit point for criticising umpiring",
-    "summary": "Waseem said the umpiring was biased during the second T20I against Nepal",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413200/413234.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 23 Apr 2026 14:24:21 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533285.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cpvxgl3n138o#0",
-    "category": "global",
-    "title": "Health data of 500,000 people offered for sale online in China after UK Biobank breach",
-    "summary": "The government said medical data was affected but no personally identifiable information had been made available.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 23 Apr 2026 11:45:41 GMT",
-    "link": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
