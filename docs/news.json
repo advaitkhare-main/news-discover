@@ -1,25 +1,5 @@
 [
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533198.html",
-    "category": "sports",
-    "title": "'I just tried to win the game as quickly as I could' - Wolvaardt scorches 53-ball 115",
-    "summary": "Skipper not satisfied with 3-0 series win and wants to chase a five-match sweep against India",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415700/415788.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 22 Apr 2026 23:40:18 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533198.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ckg98q1yx9vo#0",
-    "category": "global",
-    "title": "Ban 'forever chemicals' in uniforms and frying pans, MPs urge",
-    "summary": "School uniforms and non-stick pans are some of the everyday products that should stop using chemicals called PFAS, MPs say.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 22 Apr 2026 23:11:24 GMT",
-    "link": "https://www.bbc.com/news/articles/ckg98q1yx9vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cn0ep28drllo#0",
     "category": "global",
     "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
@@ -28,26 +8,6 @@
     "source": "BBC",
     "pubDate": "Wed, 22 Apr 2026 21:23:25 GMT",
     "link": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533148.html",
-    "category": "sports",
-    "title": "All eyes on Dhoni and Rohit as IPL's defining rivalry returns",
-    "summary": "It's CSK vs MI again, but both teams have been far from their best in recent years and find themselves at a crossroads",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/359500/359518.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 22 Apr 2026 20:55:20 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533148.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533193.html",
-    "category": "sports",
-    "title": "Wolvaardt seals series for SA with blazing hundred",
-    "summary": "The result means South Africa have won all three of their home series this season in preparation for June's T20 World Cup",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416045.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 22 Apr 2026 20:20:59 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533193.html?ex_cid=OTC-RSS"
   },
   {
     "id": "4ri2LVmhlv34kOOk94nnsi",
@@ -70,164 +30,224 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/selective-investing-the-way-forward-as-ai-valuations-reshape-market-trends-dipan-mehta/articleshow/130457619.cms",
-    "category": "finance",
-    "title": "Selective investing the way forward as AI, valuations reshape market trends: Dipan Mehta",
-    "summary": "Dipan Mehta advises caution on large-cap IT due to AI disruption, favoring midcap players like Persistent Systems and Tata Elxsi. While Trent shows momentum, high valuations warrant tempered expectations. Seasonal plays like cooling solutions, exempl",
-    "image": "https://img.etimg.com/photo/msid-130457619,imgsize-23128.cms",
-    "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 10:39:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/selective-investing-the-way-forward-as-ai-valuations-reshape-market-trends-dipan-mehta/articleshow/130457619.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/mega-conviction-10-stocks-where-fiis-raised-over-2-stake-when-everything-in-markets-was-crashing/articleshow/130457581.cms",
-    "category": "finance",
-    "title": "Mega conviction! 10 stocks where FIIs raised over 2% stake when everything in markets was crashing",
-    "summary": "Despite massive FII outflows amid global volatility, foreign investors sharply increased stakes in 10 Indian stocks during Q4. Retail, financials, manufacturing, and specialty chemicals saw the strongest gains, signalling selective high-conviction bu",
-    "image": "https://img.etimg.com/photo/msid-130457581,imgsize-1969732.cms",
-    "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 10:37:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/mega-conviction-10-stocks-where-fiis-raised-over-2-stake-when-everything-in-markets-was-crashing/articleshow/130457581.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/power-systems-shares-jumps-7-after-motilal-oswal-initiates-buy-with-rs-340-target/articleshow/130457484.cms",
-    "category": "finance",
-    "title": "Power Systems shares jumps 7% after Motilal Oswal initiates \u2018Buy\u2019 with Rs 340 target",
-    "summary": "Fujiyama Power Systems shares surged over 6% after Motilal Oswal initiated coverage with a Buy rating and Rs 340 target price. Strong solar market prospects, capacity expansion, and policy support boosted sentiment, although technical indicators sign",
-    "image": "https://img.etimg.com/photo/msid-130457484,imgsize-63150.cms",
-    "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 10:32:19 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/power-systems-shares-jumps-7-after-motilal-oswal-initiates-buy-with-rs-340-target/articleshow/130457484.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-effect-this-smallcap-solar-stock-rallies-21-in-two-days-do-you-own/articleshow/130457418.cms",
-    "category": "finance",
-    "title": "Vijay Kedia effect: This smallcap solar stock rallies 21% in two days. Do you own?",
-    "summary": "Websol Energy System shares surged 21% in two sessions after investor Vijay Kedia emerged as a key shareholder. The rally was driven by improved sentiment and strong price momentum. The company also announced a board meeting to consider Q4 results an",
-    "image": "https://img.etimg.com/photo/msid-130457418,imgsize-33854.cms",
-    "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 10:27:29 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-effect-this-smallcap-solar-stock-rallies-21-in-two-days-do-you-own/articleshow/130457418.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-ibm-shares-slide-after-software-weakness-clouds-q1-results/articleshow/130457317.cms",
-    "category": "finance",
-    "title": "US Stock Market: IBM shares slide after software weakness clouds Q1 results",
-    "summary": "IBM shares fell in after-hours trading after its Q1 results signalled a slowdown in revenue growth, particularly in its software division. While earnings beat estimates, concerns around AI-driven disruption and softer segment performance weighed on s",
-    "image": "https://img.etimg.com/photo/msid-130457317,imgsize-69534.cms",
-    "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 10:21:37 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-ibm-shares-slide-after-software-weakness-clouds-q1-results/articleshow/130457317.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/delta-corp-shares-slide-over-3-as-q4-profit-plunges-90-to-rs-16-45-crore/articleshow/130457263.cms",
-    "category": "finance",
-    "title": "Delta Corp shares slide over 3% as Q4 profit plunges 90% to Rs 16.45 crore",
-    "summary": "Delta Corp shares fell over 3% after reporting a 90% year-on-year drop in Q4 profit, alongside weaker revenue and EBITDA performance. Despite announcing a dividend, the stock remains under pressure, with long-term weakness intact even as valuations a",
-    "image": "https://img.etimg.com/photo/msid-130457263,imgsize-35116.cms",
-    "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 10:19:02 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/delta-corp-shares-slide-over-3-as-q4-profit-plunges-90-to-rs-16-45-crore/articleshow/130457263.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/havells-shares-tank-6-post-weak-q4-morgan-stanley-cuts-to-underweight-goldman-sachs-trims-target/articleshow/130457195.cms",
-    "category": "finance",
-    "title": "Havells shares tank 6% post weak Q4 show. Morgan Stanley cuts to underweight, Goldman Sachs trims target",
-    "summary": "Havells shares fell sharply on Thursday after a weak Q4, with revenue growth slowing and EBITDA declining. A sharp rise in other income boosted profit, but brokerages flagged margin pressures and muted demand. Morgan Stanley downgraded the stock, whi",
-    "image": "https://img.etimg.com/photo/msid-130457195,imgsize-30954.cms",
-    "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 10:16:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/havells-shares-tank-6-post-weak-q4-morgan-stanley-cuts-to-underweight-goldman-sachs-trims-target/articleshow/130457195.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hsbc-downgrades-india-to-underweight-as-oil-shock-clouds-earnings-recovery/articleshow/130457106.cms",
-    "category": "finance",
-    "title": "HSBC downgrades Indian stocks to \u2018underweight\u2019 as oil shock clouds earnings recovery",
-    "summary": "HSBC has downgraded Indian equities to \"underweight,\" citing surging energy prices from the Middle East war as a threat to the country's earnings recovery. With Brent crude above $100 a barrel, inflation and growth risks are elevated, making India le",
-    "image": "https://img.etimg.com/photo/msid-130457106,imgsize-80446.cms",
-    "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 10:09:38 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hsbc-downgrades-india-to-underweight-as-oil-shock-clouds-earnings-recovery/articleshow/130457106.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-assesses-nato-allies-with-naughty-and-nice-list-amid-iran-war-11394757#publisher=newsstand",
-    "category": "india",
-    "title": "US Assesses NATO Allies With \"Naughty And Nice\" List Amid Iran War",
-    "summary": "The move underscores Trump's continued warnings that allies who fail to meet US expectations on defence",
-    "image": "https://c.ndtvimg.com/2025-10/qk8r9le4_donald-trump-afp_625x300_30_October_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 09:54:27 +0530",
-    "link": "https://www.ndtv.com/world-news/us-assesses-nato-allies-with-naughty-and-nice-list-amid-iran-war-11394757#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/upmsp-board-class-10-12-result-2026-live-updates-up-board-result-upmsp-edu-in-download-scorecard-marksheet-check-pass-percentage-marks-download-topper-11396138#publisher=newsstand",
-    "category": "india",
-    "title": "UP Board Result 2026 LIVE: UPMSP Class 10, 12 Result Today At 4 PM, Download Link Here",
-    "summary": "UP Board UPMSP Class 10, 12 Result LIVE Updates: Result Releasing Today At 4  PM",
-    "image": "https://c.ndtvimg.com/2026-04/p1urudkk_asd_625x300_23_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 09:52:51 +0530",
-    "link": "https://www.ndtv.com/education/upmsp-board-class-10-12-result-2026-live-updates-up-board-result-upmsp-edu-in-download-scorecard-marksheet-check-pass-percentage-marks-download-topper-11396138#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/viral-video-shows-iit-kharagpur-professor-hosting-students-serving-them-lunch-on-his-birthday-11396364#publisher=newsstand",
-    "category": "india",
-    "title": "Video Shows IIT Kharagpur Professor Hosting Students, Serving Them Lunch On His Birthday",
-    "summary": "The viral clip shows the professor cutting a chocolate cake as students gather around.",
-    "image": "https://c.ndtvimg.com/2026-04/11cq8h3c_iit-kharagpur-professor_625x300_23_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 09:50:14 +0530",
-    "link": "https://www.ndtv.com/offbeat/viral-video-shows-iit-kharagpur-professor-hosting-students-serving-them-lunch-on-his-birthday-11396364#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/costly-school-books-under-scanner-nhrc-orders-pan-india-audit-sends-notices-to-cbse-centre-11396373#publisher=newsstand",
-    "category": "india",
-    "title": "Costly School Books Under Scanner: NHRC Orders Pan-India Audit, Sends Notices To CBSE, Centre",
-    "summary": "The move follows complaints that several private schools are sidestepping NCERT books",
-    "image": "https://c.ndtvimg.com/2026-04/178q89e8_asd_625x300_23_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 09:38:17 +0530",
-    "link": "https://www.ndtv.com/education/costly-school-books-under-scanner-nhrc-orders-pan-india-audit-sends-notices-to-cbse-centre-11396373#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/delhi-irs-daughter-murder-east-of-kailash-2-days-2-rapes-1-murder-ex-house-helps-crime-trail-from-alwar-to-delhi-11395167#publisher=newsstand",
-    "category": "india",
-    "title": "2 Days, 2 Rapes, 1 Murder: Ex-House Help's Crime Trail From Alwar To Delhi",
-    "summary": "After the assault in Alwar, Rahul travelled to Delhi, where the murder took place.",
-    "image": "https://c.ndtvimg.com/2026-04/r6cai30c_delhi-murder_625x300_22_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 09:32:50 +0530",
-    "link": "https://www.ndtv.com/india-news/delhi-irs-daughter-murder-east-of-kailash-2-days-2-rapes-1-murder-ex-house-helps-crime-trail-from-alwar-to-delhi-11395167#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/up-board-upmsp-results-2026-today-at-4-pm-how-to-check-class-10-12-scores-on-ndtv-11396346#publisher=newsstand",
-    "category": "india",
-    "title": "UP Board Results 2026 Today At 4 PM: How To Check Class 10, 12 Scores On NDTV",
-    "summary": "UP Board UPMSP Class 10, 12 Results 2026: Students can check and download their scorecards on ndtv.com.",
-    "image": "https://c.ndtvimg.com/2026-04/ivgcgu7k_up-board-upmsp-results-2026-today-at-4-pm_625x300_23_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 09:32:45 +0530",
-    "link": "https://www.ndtv.com/education/up-board-upmsp-results-2026-today-at-4-pm-how-to-check-class-10-12-scores-on-ndtv-11396346#publisher=newsstand"
-  },
-  {
     "id": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-23-april-us-iran-talks-donald-trump-oil-prices-11396064#publisher=newsstand",
     "category": "india",
-    "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 650 Points, Nifty Down 175 Amid Mixed Global Cues, Oil Rallies",
+    "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 750 Points, Nifty Down 180 Amid Mixed Global Cues, Oil Rallies",
     "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates: Markets to open in red.",
     "image": "https://c.ndtvimg.com/2026-03/lc416nag_stock-market-crash-in-india_625x300_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 09:26:52 +0530",
+    "pubDate": "Thu, 23 Apr 2026 12:52:00 +0530",
     "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-23-april-us-iran-talks-donald-trump-oil-prices-11396064#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-iran-ceasefire-shut-up-iran-mocks-trumps-ceasefire-extension-with-ai-video-11396234#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/how-many-meals-should-you-really-eat-in-a-day-nutritionists-explain-11396863#publisher=newsstand",
     "category": "india",
-    "title": "\"Shut Up\": Iran Mocks Trump's Ceasefire Extension With AI Video",
-    "summary": "The video ends with AI Trump saying he'll extend the ceasefire",
-    "image": "https://c.ndtvimg.com/2026-04/eqlbrrp_trump-shut-up_625x300_23_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "How Many Meals Should You Really Eat In A Day? Nutritionists Explain",
+    "summary": "The exact number of meals that you need to eat during a day depend on your lifestyle",
+    "image": "https://c.ndtvimg.com/2026-04/gf27s708_dizziness-or-lightheadedness_625x300_23_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 09:25:50 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-ceasefire-shut-up-iran-mocks-trumps-ceasefire-extension-with-ai-video-11396234#publisher=newsstand"
+    "pubDate": "Thu, 23 Apr 2026 12:51:41 +0530",
+    "link": "https://www.ndtv.com/health/how-many-meals-should-you-really-eat-in-a-day-nutritionists-explain-11396863#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/karnataka-sslc-result-2026-live-kseab-10th-results-passing-marks-toppers-list-direct-link-to-download-11396074#publisher=newsstand",
+    "category": "india",
+    "title": "Karnataka SSLC Result 2026 (OUT) LIVE: Direct Link To Check Here; 94.10% Students Pass",
+    "summary": "Karnataka SSLC Result 2026 LIVE: Candidates must secure at least 35% marks in each subject.",
+    "image": "https://c.ndtvimg.com/2026-04/ud22trtc_karnataka-sslc-result-2026-out_625x300_23_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 12:49:41 +0530",
+    "link": "https://www.ndtv.com/education/karnataka-sslc-result-2026-live-kseab-10th-results-passing-marks-toppers-list-direct-link-to-download-11396074#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/west-bengal-election-2026-phase-1-voting-live-updates-trinamool-tmc-bjp-fight-for-152-seats-pm-modi-mamata-banerjee-11395947#publisher=newsstand",
+    "category": "india",
+    "title": "West Bengal Elections 1st Phase Voting LIVE Updates: Trinamool Accuses Cops Of Acting In BJP's Favour, Suvendu Adhikari ",
+    "summary": "LIVE Updates on Bengal Elections 2026 Phase 1 Voting: A close contest is expected in at least 80 seats",
+    "image": "https://c.ndtvimg.com/2026-04/g7i0v3j4_bengal-polls-pti_625x300_23_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 12:48:33 +0530",
+    "link": "https://www.ndtv.com/india-news/west-bengal-election-2026-phase-1-voting-live-updates-trinamool-tmc-bjp-fight-for-152-seats-pm-modi-mamata-banerjee-11395947#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/irs-officer-daughter-murder-rape-east-of-kailash-delhi-rape-rahul-meena-ex-help-killed-irs-officers-daughter-tried-to-open-locker-with-her-finger-11397221#publisher=newsstand",
+    "category": "india",
+    "title": "Ex-Help Killed IRS Officer's Daughter, Tried To Open Locker With Her Finger",
+    "summary": "Rahul Meena was arrested from a hotel in Delhi's Dwarka area.",
+    "image": "https://c.ndtvimg.com/2026-04/lnp03uj8_rahul-meena-delhi-irs-officer-daughter-rape_625x300_23_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 12:46:47 +0530",
+    "link": "https://www.ndtv.com/india-news/irs-officer-daughter-murder-rape-east-of-kailash-delhi-rape-rahul-meena-ex-help-killed-irs-officers-daughter-tried-to-open-locker-with-her-finger-11397221#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/do-you-know-genetically-altered-mosquitoes-could-help-fight-malaria-heres-how-11397211#publisher=newsstand",
+    "category": "india",
+    "title": "Do You Know Genetically Altered Mosquitoes Could Help Fight Malaria? Here's How",
+    "summary": "Genetically altered mosquitoes represent a bold step in the fight against malaria",
+    "image": "https://c.ndtvimg.com/2026-04/971ri7to_genetically-altered-mosquitoes-represent-a-bold-step-in-the-fight-against-malaria_625x300_23_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 12:44:12 +0530",
+    "link": "https://www.ndtv.com/health/do-you-know-genetically-altered-mosquitoes-could-help-fight-malaria-heres-how-11397211#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-increase-stake-in-suzlon-energy-for-third-straight-quarter-whats-keeping-them-interested/articleshow/130460439.cms",
+    "category": "finance",
+    "title": "FIIs increase stake in Suzlon Energy for third straight quarter. What\u2019s keeping them interested?",
+    "summary": "Foreign institutional investors have increased their stake in Suzlon Energy for the third consecutive quarter, signalling sustained confidence despite broader market outflows. Strong earnings expectations, a robust order book, improving balance sheet",
+    "image": "https://img.etimg.com/photo/msid-130460439,imgsize-732963.cms",
+    "source": "ET",
+    "pubDate": "Thu, 23 Apr 2026 12:44:07 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-increase-stake-in-suzlon-energy-for-third-straight-quarter-whats-keeping-them-interested/articleshow/130460439.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/be-cautious-on-it-stocks-back-energy-and-telecom-neeraj-dewan/articleshow/130460401.cms",
+    "category": "finance",
+    "title": "Be cautious on IT stocks, back energy and telecom: Neeraj Dewan",
+    "summary": "Market expert Neeraj Dewan advises caution in IT, favoring energy, telecom, FMCG, and select consumer durables for better risk-reward. He sees potential margin expansion in FMCG due to rising inflation and expects strong demand for AC and refrigerato",
+    "image": "https://img.etimg.com/photo/msid-130460401,imgsize-38452.cms",
+    "source": "ET",
+    "pubDate": "Thu, 23 Apr 2026 12:41:46 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/be-cautious-on-it-stocks-back-energy-and-telecom-neeraj-dewan/articleshow/130460401.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/british-man-called-doha-hotel-unsafe-for-women-after-his-wife-was-harassed-what-happened-next-was-wild-11397053#publisher=newsstand",
+    "category": "india",
+    "title": "British Man Called Doha Hotel \"Unsafe\" After His Wife Was Harassed. What Happened Next Was Wild",
+    "summary": "The couple were staying at the Ritz-Carlton Doha when the incident occurred.",
+    "image": "https://c.ndtvimg.com/2026-04/tdd11uq8_arrest_625x300_23_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 12:40:26 +0530",
+    "link": "https://www.ndtv.com/world-news/british-man-called-doha-hotel-unsafe-for-women-after-his-wife-was-harassed-what-happened-next-was-wild-11397053#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/karnataka-sslc-result-2026-out-check-your-scores-via-digilocker-here-11397041#publisher=newsstand",
+    "category": "india",
+    "title": "Karnataka SSLC Result 2026 Out: Check Your Scores Via DigiLocker Here",
+    "summary": "Karnataka Class 10 Result Out On DigiLocker, Check Here",
+    "image": "https://c.ndtvimg.com/2026-04/ufisevr4_ads_625x300_23_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 12:34:36 +0530",
+    "link": "https://www.ndtv.com/education/karnataka-sslc-result-2026-out-check-your-scores-via-digilocker-here-11397041#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/euro-zone-short-dated-yields-climb-for-fourth-day-amid-iran-us-stalemate/articleshow/130460183.cms",
+    "category": "finance",
+    "title": "Euro zone short-dated yields climb for fourth day amid Iran-US stalemate",
+    "summary": "Euro zone short-dated government bond yields climbed for a fourth day as tensions in the Strait of Hormuz fueled expectations of further European Central Bank rate hikes. Rising oil prices have heightened inflation concerns, prompting a hawkish outlo",
+    "image": "https://img.etimg.com/photo/msid-130460183,imgsize-35781.cms",
+    "source": "ET",
+    "pubDate": "Thu, 23 Apr 2026 12:30:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/euro-zone-short-dated-yields-climb-for-fourth-day-amid-iran-us-stalemate/articleshow/130460183.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/jio-financial-shares-jump-4-as-firm-inks-5050-jv-deal-with-allianz-for-general-health-insurance-business/articleshow/130460134.cms",
+    "category": "finance",
+    "title": "Jio Financial shares jump 4% as firm inks 50:50 JV deal with Allianz for general, health insurance business",
+    "summary": "Jio Financial Services shares jumped after it signed a binding agreement to form a 50:50 insurance joint venture with Allianz Group. The JV will focus on general and health insurance in India, formalising a partnership first announced in July 2025.",
+    "image": "https://img.etimg.com/photo/msid-130460134,imgsize-578659.cms",
+    "source": "ET",
+    "pubDate": "Thu, 23 Apr 2026 12:28:16 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-financial-shares-jump-4-as-firm-inks-5050-jv-deal-with-allianz-for-general-health-insurance-business/articleshow/130460134.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/how-wipros-rs-15000-crore-share-buyback-offer-can-give-double-digit-returns-in-weak-market/articleshow/130460052.cms",
+    "category": "finance",
+    "title": "How Wipro's Rs 15,000 crore share buyback offer can give double-digit returns in weak market",
+    "summary": "Wipro announced a Rs 15,000-crore share buyback at Rs 250 per share, offering a 22% premium. Retail investors could see returns of 11-13% with an expected 50-60% acceptance ratio. This tender route buyback, the first in three years, reserves 15% for ",
+    "image": "https://img.etimg.com/photo/msid-130460052,imgsize-231198.cms",
+    "source": "ET",
+    "pubDate": "Thu, 23 Apr 2026 12:25:19 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-wipros-rs-15000-crore-share-buyback-offer-can-give-double-digit-returns-in-weak-market/articleshow/130460052.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/trents-margins-may-stabilise-as-growth-enters-a-cautious-phase-jignanshu-gor/articleshow/130459831.cms",
+    "category": "finance",
+    "title": "Trent's margins may stabilise as growth enters a cautious phase: Jignanshu Gor",
+    "summary": "Trent Ltd. is entering a more measured growth phase after sharp expansion, with Q4 performance showing improved margins due to operational efficiency and a better brand mix. While Zudio continues its rapid store additions, declining revenue per squar",
+    "image": "https://img.etimg.com/photo/msid-130459831,imgsize-3026.cms",
+    "source": "ET",
+    "pubDate": "Thu, 23 Apr 2026 12:20:04 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/trents-margins-may-stabilise-as-growth-enters-a-cautious-phase-jignanshu-gor/articleshow/130459831.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-inches-toward-80k-on-1-5-billion-etf-inflows-short-squeeze-adds-momentum/articleshow/130459390.cms",
+    "category": "finance",
+    "title": "Bitcoin inches toward $80K on $1.5 billion ETF inflows, short squeeze adds momentum",
+    "summary": "Bitcoin is inching towards the $80,000 mark. Strong inflows into Bitcoin ETFs are supporting this rise. Major cryptocurrencies like Ethereum and altcoins are experiencing varied price movements. Investors are showing steady interest, with short selle",
+    "image": "https://img.etimg.com/photo/msid-130459390,imgsize-33844.cms",
+    "source": "ET",
+    "pubDate": "Thu, 23 Apr 2026 11:58:29 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-inches-toward-80k-on-1-5-billion-etf-inflows-short-squeeze-adds-momentum/articleshow/130459390.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-sink-as-oil-tops-100/bbl-on-us-iran-standoff/articleshow/130459281.cms",
+    "category": "finance",
+    "title": "India bonds sink as oil tops $100/bbl on US-Iran standoff",
+    "summary": "Indian government bonds experienced a decline on Thursday. Traders are factoring in the economic risks associated with oil prices exceeding $100 a barrel. Tensions in the Middle East have disrupted a key energy shipping route. This situation is expec",
+    "image": "https://img.etimg.com/photo/msid-130459281,imgsize-21698.cms",
+    "source": "ET",
+    "pubDate": "Thu, 23 Apr 2026 11:52:09 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-sink-as-oil-tops-100/bbl-on-us-iran-standoff/articleshow/130459281.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ckge5291152o#0",
+    "category": "global",
+    "title": "Annual UK borrowing falls by \u00a320bn but Iran war clouds outlook",
+    "summary": "The improvement in government finances is unlikely to last, analysts say, with the impact of the Iran way yet to hit.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 23 Apr 2026 07:38:45 GMT",
+    "link": "https://www.bbc.com/news/articles/ckge5291152o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533192.html",
+    "category": "sports",
+    "title": "Ed Smith joins ECB board as non-executive director",
+    "summary": "Former national selector returns to governing body in place of outgoing Baroness Zahida Manzoor",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/292900/292969.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 23 Apr 2026 07:20:07 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533192.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533207.html",
+    "category": "sports",
+    "title": "'Pooran is the catalyst' - Steyn on LSG's batting muddle",
+    "summary": "\"The poor form of Pooran just means that you're moving good batters to try and shepherd him,\" Dale Steyn says of LSG constantly tinkering with their batting order",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415600/415678.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 23 Apr 2026 06:35:23 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533207.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533227.html",
+    "category": "sports",
+    "title": "ICC calls Knight Riders' MLC base in Pomona 'cricket's home for LA28'",
+    "summary": "The venue at Fairplex will serve as Los Angeles Knight Riders' home venue at MLC 2026 and is expected to be the primary venue for cricket at the 2028 Olympic Games",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416053.png",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 23 Apr 2026 06:32:56 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533227.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533220.html",
+    "category": "sports",
+    "title": "Playing 'more than one game in his head' confusing Pant",
+    "summary": "\"Rishabh Pant's problem lies in the fact that he's yet to find his template for white-ball cricket,\" Saba Karim says after the LSG captain's latest failure",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416050.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 23 Apr 2026 05:48:09 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533220.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/cd6ldv655lpo#0",
+    "category": "global",
+    "title": "Watch: BBC goes undercover at mini-mart selling drugs",
+    "summary": "BBC UK editor Ed Thomas confronts a shopkeeper secretly filmed selling cannabis and cocaine to one of our researchers.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 23 Apr 2026 05:02:00 GMT",
+    "link": "https://www.bbc.com/news/videos/cd6ldv655lpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1533216.html",
@@ -260,26 +280,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1533213.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c5yvn036evlo#0",
-    "category": "global",
-    "title": "Lebanon accuses Israel of targeting journalist killed in airstrike",
-    "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 23 Apr 2026 04:25:30 GMT",
-    "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533207.html",
-    "category": "sports",
-    "title": "'Pooran is the catalyst' - Steyn on LSG's batting muddle",
-    "summary": "\"The poor form of Pooran just means that you're moving good batters to try and shepherd him,\" Dale Steyn says of LSG constantly tinkering with their batting order",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415600/415678.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 23 Apr 2026 04:21:47 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533207.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1533178.html",
     "category": "sports",
     "title": "Jadeja, Archer and Burger lead Royals to scrappy win against LSG",
@@ -310,14 +310,14 @@
     "link": "https://www.bbc.com/news/videos/cj0v65l4y9yo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cm2r70gwkjjo#0",
+    "id": "https://www.bbc.com/news/articles/cr41yx7pxglo#0",
     "category": "global",
-    "title": "'My baby scratches and scratches': Families say their homes are making their children sick",
-    "summary": "A cross-party report has called for safer conditions for the record number of families living in temporary accommodation.",
+    "title": "Girl, 14, found in singer D4vd's car died of 'multiple injuries'",
+    "summary": "The medical examiner said the 14-year-old's cause of death was determined months ago but was blocked from release.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 23 Apr 2026 00:35:10 GMT",
-    "link": "https://www.bbc.com/news/articles/cm2r70gwkjjo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 23 Apr 2026 00:39:56 GMT",
+    "link": "https://www.bbc.com/news/articles/cr41yx7pxglo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/ce8jjne5ereo#0",
