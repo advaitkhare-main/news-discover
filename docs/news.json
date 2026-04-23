@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.bbc.com/news/articles/ckg98q1yx9vo#0",
-    "category": "global",
-    "title": "Ban 'forever chemicals' in uniforms and frying pans, MPs urge",
-    "summary": "School uniforms and non-stick pans are some of the everyday products that should stop using chemicals called PFAS, MPs say.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 22 Apr 2026 23:11:24 GMT",
-    "link": "https://www.bbc.com/news/articles/ckg98q1yx9vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -30,164 +20,194 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://www.ndtv.com/education/up-board-10th-result-qr-code-scan-the-qr-code-and-check-your-result-11397658#publisher=newsstand",
-    "category": "india",
-    "title": "UP Board 10th Result QR Code: Scan The QR Code And Check Your Result",
-    "summary": "The QR code enables students to check their Class 10 results faster.",
-    "image": "https://c.ndtvimg.com/2026-04/5eap79ts_up-board-class-10-qr-code_625x300_23_April_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 16:03:47 +0530",
-    "link": "https://www.ndtv.com/education/up-board-10th-result-qr-code-scan-the-qr-code-and-check-your-result-11397658#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/trinamool-must-be-anxious-we-arent-bjp-chief-nitin-nabin-to-ndtv-on-sir-11398105#publisher=newsstand",
-    "category": "india",
-    "title": "'Trinamool Must Be Anxious, We Aren't': BJP Chief To NDTV On SIR",
-    "summary": "BJP chief Nitin Nabin and NDTV Editor-in-Chief Rahul Kanwal",
-    "image": "https://c.ndtvimg.com/2026-04/dj0ictpg_nitin-nabin_625x300_23_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 16:02:14 +0530",
-    "link": "https://www.ndtv.com/india-news/trinamool-must-be-anxious-we-arent-bjp-chief-nitin-nabin-to-ndtv-on-sir-11398105#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/kidney-disease-patients-can-eat-fruits-but-fortis-doctors-recommend-caution-see-list-11397545#publisher=newsstand",
-    "category": "india",
-    "title": "Kidney Disease Patients Can Eat Fruits, But Fortis Doctors Recommend Caution; See List",
-    "summary": "As kidney function declines, potassium control becomes important",
-    "image": "https://c.ndtvimg.com/2026-04/h4t7tpec_as-kidney-function-declines-potassium-control-becomes-important_625x300_23_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 15:58:07 +0530",
-    "link": "https://www.ndtv.com/health/kidney-disease-patients-can-eat-fruits-but-fortis-doctors-recommend-caution-see-list-11397545#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/no-ac-no-windows-employees-angry-rant-on-harsh-office-conditions-sparks-outrage-11397926#publisher=newsstand",
-    "category": "india",
-    "title": "\"No AC, No Windows\": Employee's Angry Rant On Harsh Office Conditions Sparks Outrage",
-    "summary": "The lack of windows has further worsened conditions, leaving the workspace with no natural airflow.",
-    "image": "https://c.ndtvimg.com/2026-04/v9c81jig_stressed-employee_625x300_23_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 15:55:55 +0530",
-    "link": "https://www.ndtv.com/offbeat/no-ac-no-windows-employees-angry-rant-on-harsh-office-conditions-sparks-outrage-11397926#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/flesh-eating-bacteria-found-in-long-island-waters-poses-20-risk-of-death-in-48-hours-11397815#publisher=newsstand",
-    "category": "india",
-    "title": "Flesh-Eating Bacteria Found In Long Island, Can Kill Humans, Dogs Within 48 Hours: Report",
-    "summary": "This bacterium can enter the body through cuts and wounds. (Representational photo)",
-    "image": "https://c.ndtvimg.com/2024-06/s6mukbgo_bacteria-generic_625x300_18_June_24.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 15:55:44 +0530",
-    "link": "https://www.ndtv.com/world-news/flesh-eating-bacteria-found-in-long-island-waters-poses-20-risk-of-death-in-48-hours-11397815#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/13-stocks-surge-up-to-180-ytd-2-turn-multibaggers-do-you-own-any/slideshow/130464979.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-q4-results-cons-profit-jumps-21-yoy-to-rs-8501-cr-targets-20000-fresher-hires-in-fy27/videoshow/130469480.cms",
     "category": "finance",
-    "title": "13 stocks surge up to 180% YTD; 2 turn multibaggers .  Do you own any?",
-    "summary": "Thirteen stocks have defied the broader market slump in 2026, surging up to 180% in just four months, with two turning multibaggers despite weak headline indices.",
-    "image": "https://img.etimg.com/photo/msid-130464725,imgsize-52282.cms",
+    "title": "Infosys Q4 Results: Cons profit jumps 21% YoY to Rs 8,501 cr; targets 20,000 fresher hires in FY27",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-130469480,imgsize-63750.cms",
     "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 15:54:37 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/13-stocks-surge-up-to-180-ytd-2-turn-multibaggers-do-you-own-any/slideshow/130464979.cms"
+    "pubDate": "Thu, 23 Apr 2026 18:31:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-q4-results-cons-profit-jumps-21-yoy-to-rs-8501-cr-targets-20000-fresher-hires-in-fy27/videoshow/130469480.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/rupee-bogged-down-in-worst-losing-streak-in-3-months-as-oil-pain-persists/articleshow/130464666.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/lt-tech-q4-results-profit-jumps-24-yoy-to-rs-347-crore-co-declares-rs-40-dividend/articleshow/130469300.cms",
     "category": "finance",
-    "title": "Rupee bogged down in worst losing streak in 3 months as oil pain persists",
-    "summary": "The Indian rupee fell for the fourth consecutive \u200bsession on Thursday, its \u200blongest losing streak since mid-January, as stalled peace talks \u200bbetween the U.S. and Iran lifted oil prices over $100 per barrel.",
-    "image": "https://img.etimg.com/photo/msid-130464666,imgsize-34240.cms",
+    "title": "L&amp;T Tech Q4 Results: Profit jumps 24% YoY to Rs 347 crore; co declares Rs 40 dividend",
+    "summary": "L&amp;T Technology Services posted strong profit growth with improved margins, driven by portfolio restructuring and focus on high value engineering and ai services, alongside steady deal wins and stable demand across segments",
+    "image": "https://img.etimg.com/photo/msid-130469300,imgsize-6654.cms",
     "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 15:53:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/rupee-bogged-down-in-worst-losing-streak-in-3-months-as-oil-pain-persists/articleshow/130464666.cms"
+    "pubDate": "Thu, 23 Apr 2026 18:27:08 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lt-tech-q4-results-profit-jumps-24-yoy-to-rs-347-crore-co-declares-rs-40-dividend/articleshow/130469300.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-us-iran-ceasefire-islamabad-talks-starit-of-hormuz-blockade-donald-trump-mojtaba-khamenei-11396003#publisher=newsstand",
-    "category": "india",
-    "title": "US-Iran War Live Updates: Tehran Claims It Received First Revenue From Hormuz Tolls",
-    "summary": "US-Iran War News Live Update:",
-    "image": "https://c.ndtvimg.com/2026-04/gv41i8eo_mojtaba-khamenei_625x300_23_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 15:52:50 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-us-iran-ceasefire-islamabad-talks-starit-of-hormuz-blockade-donald-trump-mojtaba-khamenei-11396003#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/netflix-announces-25-billion-share-buyback/articleshow/130464588.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/infosys-adrs-crash-nearly-6-in-pre-market-after-q4-results/articleshow/130468459.cms",
     "category": "finance",
-    "title": "Netflix announces $25 billion share buyback",
-    "summary": "Netflix on Thursday \u200csaid its \u2060board \u2060authorized an additional $25 \u200bbillion share repurchase program, on \u200btop of a buyback approved \u200bin December \u20602024, with \u200cno expiration \u200bdate.",
-    "image": "https://img.etimg.com/photo/msid-130464588,imgsize-161430.cms",
+    "title": "Infosys ADRs crash nearly 6% in pre-market after Q4 results",
+    "summary": "Infosys' US-listed ADRs dropped nearly 6% despite a strong March-quarter profit rise of 21% YoY to Rs 8,501 crore. While revenue surpassed estimates, a cautious FY27 revenue growth forecast of 1.5%-3.5% overshadowed stable operational performance and",
+    "image": "https://img.etimg.com/photo/msid-130468459,imgsize-37228.cms",
     "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 15:51:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/netflix-announces-25-billion-share-buyback/articleshow/130464588.cms"
+    "pubDate": "Thu, 23 Apr 2026 18:04:56 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/infosys-adrs-crash-nearly-6-in-pre-market-after-q4-results/articleshow/130468459.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-ted-weschler-investing-is-kind-of-a-game-of-connecting-the-dots-the-nice-thing-about-it-is-the-longer-you-are-in-the-business-as-long-as-you-are-intellectually-curious-your-collection-of-data-points-of-dots-gets-bigger-and-bigger/articleshow/130459348.cms",
+    "category": "finance",
+    "title": "Quote of the day by Ted Weschler: \"Investing is kind of a game of connecting the dots. The nice thing about it is the lo",
+    "summary": "Ted Weschler highlights investing as a process of connecting insights over time. Success comes from experience, curiosity, and patience, as investors gather information across cycles to identify patterns. The approach underscores disciplined thinking",
+    "image": "https://img.etimg.com/photo/msid-130459348,imgsize-2054833.cms",
+    "source": "ET",
+    "pubDate": "Thu, 23 Apr 2026 18:00:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-ted-weschler-investing-is-kind-of-a-game-of-connecting-the-dots-the-nice-thing-about-it-is-the-longer-you-are-in-the-business-as-long-as-you-are-intellectually-curious-your-collection-of-data-points-of-dots-gets-bigger-and-bigger/articleshow/130459348.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/sbi-life-delivers-on-guidance-targets-double-digit-protection-share-in-medium-term/articleshow/130468035.cms",
+    "category": "finance",
+    "title": "SBI Life delivers on guidance, targets double-digit protection share in medium term",
+    "summary": "SBI Life Insurance achieved its financial targets for FY26. The company is now prioritizing its protection business and agency channel. It aims to reduce reliance on ULIP products for better margins. SBI Life is investing in agent training with AI to",
+    "image": "https://img.etimg.com/photo/msid-130468035,imgsize-19300.cms",
+    "source": "ET",
+    "pubDate": "Thu, 23 Apr 2026 17:44:58 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/sbi-life-delivers-on-guidance-targets-double-digit-protection-share-in-medium-term/articleshow/130468035.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-ceasefire-talks-brent-crude-oil-ibm-tesla-it-tech-stock-price-news/liveblog/130468197.cms",
+    "category": "finance",
+    "title": "US Stock Market Today | Dow Jones | Nasdaq Live: US futures decline as Iran tensions keep investors cautious; earnings m",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-130468197,imgsize-228972.cms",
+    "source": "ET",
+    "pubDate": "Thu, 23 Apr 2026 17:43:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-ceasefire-talks-brent-crude-oil-ibm-tesla-it-tech-stock-price-news/liveblog/130468197.cms"
   },
   {
     "id": "https://www.ndtv.com/india-news/west-bengal-election-2026-phase-1-voting-live-updates-mamata-banerjee-tmc-tamil-nadu-election-2026-voting-live-updates-tamil-nadu-poll-bjp-dmk-aiadmk-11395961#publisher=newsstand",
     "category": "india",
-    "title": "West Bengal, Tamil Nadu Elections 2026 LIVE Updates: Voter Turnout Crosses 70%",
+    "title": "West Bengal, Tamil Nadu Elections 2026 LIVE Updates: Voter Turnout Crosses 80%",
     "summary": "West Bengal, Tamil Nadu Election Voting 2026 LIVE Updates: Around 3.6 crore voters in 152 of Bengal's 294 constituencies across 16 districts are expected to vote in the first phase today.",
     "image": "https://c.ndtvimg.com/2026-04/f1ruqek_pti-election-voting_625x300_23_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 15:48:36 +0530",
+    "pubDate": "Thu, 23 Apr 2026 17:40:48 +0530",
     "link": "https://www.ndtv.com/india-news/west-bengal-election-2026-phase-1-voting-live-updates-mamata-banerjee-tmc-tamil-nadu-election-2026-voting-live-updates-tamil-nadu-poll-bjp-dmk-aiadmk-11395961#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-streets-mystery-traders-minted-millions-in-6-cases-amid-iran-us-war-coincidence-or-insider-trading/articleshow/130464529.cms",
-    "category": "finance",
-    "title": "Wall Street's mystery traders minted millions in 6 cases amid Iran-US war. Coincidence or insider trading?",
-    "summary": "The ongoing US-Iran conflict has roiled global markets, but a few traders have made outsized gains by placing timely bets in stocks, oil futures, and betting platforms just before key announcements. At least six such instances have raised concerns ov",
-    "image": "https://img.etimg.com/photo/msid-130464529,imgsize-195836.cms",
-    "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 15:48:31 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-streets-mystery-traders-minted-millions-in-6-cases-amid-iran-us-war-coincidence-or-insider-trading/articleshow/130464529.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/education/jharkhand-jac-class-10th-result-live-out-95-27-per-cent-students-pass-download-link-here-11398098#publisher=newsstand",
+    "id": "https://www.ndtv.com/feature/what-is-masked-aadhaar-step-by-step-guide-to-download-it-11398748#publisher=newsstand",
     "category": "india",
-    "title": "Jharkhand 10th Result 2026 Out: Pass Percentage Reaches 95.278%, Check Scores Here",
-    "summary": "Jharkhand Board Class 10 Result Declared For 2026 Exams",
-    "image": "https://c.ndtvimg.com/2026-04/524r1fqk_jharkhand-board-class-10_625x300_23_April_26.jpeg",
+    "title": "What Is Masked Aadhaar? Step-By-Step Guide To Download It",
+    "summary": "People can print the masked Aadhaar as it is valid.",
+    "image": "https://c.ndtvimg.com/2026-02/04j139os_aadhaar-app-update_625x300_16_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 23 Apr 2026 15:46:11 +0530",
-    "link": "https://www.ndtv.com/education/jharkhand-jac-class-10th-result-live-out-95-27-per-cent-students-pass-download-link-here-11398098#publisher=newsstand"
+    "pubDate": "Thu, 23 Apr 2026 17:39:06 +0530",
+    "link": "https://www.ndtv.com/feature/what-is-masked-aadhaar-step-by-step-guide-to-download-it-11398748#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/indias-richest-state-is-said-to-prepare-for-power-utility-ipo/articleshow/130464000.cms",
-    "category": "finance",
-    "title": "India\u2019s richest state is said to prepare for power utility IPO",
-    "summary": "Maharashtra is preparing an IPO for its power distribution arm MSEDCL, aiming to raise $500 million to $1 billion. The move, supported by balance sheet restructuring and business separation, could mark a rare listing in the sector and test reforms in",
-    "image": "https://img.etimg.com/photo/msid-130464000,imgsize-43320.cms",
-    "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 15:25:47 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/indias-richest-state-is-said-to-prepare-for-power-utility-ipo/articleshow/130464000.cms"
+    "id": "https://www.ndtv.com/world-news/us-claims-it-seized-iran-linked-oil-tanker-in-indian-ocean-11398624#publisher=newsstand",
+    "category": "india",
+    "title": "US Claims It Seized Iran-Linked Oil Tanker In Indian Ocean",
+    "summary": "The ship was in the same location as as the oil tanker Tifani, which was earlier seized by US forces",
+    "image": "https://c.ndtvimg.com/2026-04/8p0k0u7c_iran-ship_625x300_23_April_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 17:35:56 +0530",
+    "link": "https://www.ndtv.com/world-news/us-claims-it-seized-iran-linked-oil-tanker-in-indian-ocean-11398624#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-birla-sun-life-amc-q4-results-cons-pat-drops-18-yoy-co-announces-rs-25-50/share-dividend-stock-surges-6/articleshow/130463939.cms",
-    "category": "finance",
-    "title": "Aditya Birla Sun Life AMC Q4 results: Cons PAT drops 18% YoY; co announces Rs 25.50/share dividend, stock surges 6%",
-    "summary": "Aditya Birla Sun Life AMC reported an 18% year-on-year decline in Q4 profit, even as revenue saw modest growth. The company announced a Rs 25.50 dividend per share. Despite weak earnings and higher expenses, the stock gained nearly 6%, supported by i",
-    "image": "https://img.etimg.com/photo/msid-130463939,imgsize-102610.cms",
-    "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 15:23:10 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-birla-sun-life-amc-q4-results-cons-pat-drops-18-yoy-co-announces-rs-25-50/share-dividend-stock-surges-6/articleshow/130463939.cms"
+    "id": "https://www.ndtv.com/health/how-many-meals-should-you-really-eat-in-a-day-nutritionists-explain-11396863#publisher=newsstand",
+    "category": "india",
+    "title": "How Many Meals Should You Really Eat In A Day? Nutritionists Explain",
+    "summary": "The exact number of meals that you need to eat during a day depend on your lifestyle",
+    "image": "https://c.ndtvimg.com/2026-04/gf27s708_dizziness-or-lightheadedness_625x300_23_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 17:35:04 +0530",
+    "link": "https://www.ndtv.com/health/how-many-meals-should-you-really-eat-in-a-day-nutritionists-explain-11396863#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/sw-solar-q4-results-cons-profit-surge-143-yoy-despite-23-revenue-decline/articleshow/130463623.cms",
-    "category": "finance",
-    "title": "SW Solar Q4 Results: Cons profit surge 143% YoY despite 23% revenue decline",
-    "summary": "Sterling and Wilson Renewable Energy reported a 143% jump in Q4 net profit to Rs 135 crore, but revenue declined 23% year-on-year to Rs 1,946 crore, indicating improved profitability despite lower sales.",
-    "image": "https://img.etimg.com/photo/msid-130463623,imgsize-32402.cms",
-    "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 15:09:17 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sw-solar-q4-results-cons-profit-surge-143-yoy-despite-23-revenue-decline/articleshow/130463623.cms"
+    "id": "https://www.ndtv.com/world-news/us-iran-war-live-video-iran-releases-footage-of-commandos-seizing-india-bound-ship-in-strait-of-hormuz-11398588#publisher=newsstand",
+    "category": "india",
+    "title": "Fast Boats, Masks, Rifles: How Iran Guards Seized India-Bound Ship In Hormuz",
+    "summary": "The video shows speedboats with Iranian flags approaching the vessels",
+    "image": "https://c.ndtvimg.com/2026-04/vrsfht3s_irgc-seizing-ship_625x300_23_April_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 17:32:54 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-live-video-iran-releases-footage-of-commandos-seizing-india-bound-ship-in-strait-of-hormuz-11398588#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/smallcap-investing-timing-risk-and-returns-golden-thumb-rule-ft-aniruddha-naha/videoshow/130463324.cms",
+    "id": "https://www.ndtv.com/health/nutritionists-verdict-on-flavoured-yoghurt-5-reasons-to-avoid-it-in-summers-for-better-health-11398557#publisher=newsstand",
+    "category": "india",
+    "title": "Nutritionist's Verdict On Flavoured Yoghurt: 6 Reasons To Avoid It In Summers For Better Health",
+    "summary": "Flavoured yogurt should be avoided in summers as it can damage the gut",
+    "image": "https://c.ndtvimg.com/2026-04/krhjhees_flavoured-yogurt_625x300_23_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 17:32:19 +0530",
+    "link": "https://www.ndtv.com/health/nutritionists-verdict-on-flavoured-yoghurt-5-reasons-to-avoid-it-in-summers-for-better-health-11398557#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/up-board-results-2026-step-by-step-guide-to-apply-for-rechecking-and-re-evaluation-11398671#publisher=newsstand",
+    "category": "india",
+    "title": "UP Board Results 2026: Step-By-Step Guide To Apply For Rechecking And Re-evaluation",
+    "summary": "How To Apply For UP Board Class 12 Result Revaluation And Scrutiny",
+    "image": "https://c.ndtvimg.com/2026-04/l16kifc8_up-board-10th-12th-result-2026_625x300_22_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 17:30:04 +0530",
+    "link": "https://www.ndtv.com/education/up-board-results-2026-step-by-step-guide-to-apply-for-rechecking-and-re-evaluation-11398671#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-capital-q4-results-cons-pat-jumps-43-yoy-to-rs-1502-crore-revenue-rises-9/articleshow/130467721.cms",
     "category": "finance",
-    "title": "Smallcap investing: timing, risk, and returns | Golden Thumb Rule ft Aniruddha Naha",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-130463324,imgsize-63206.cms",
+    "title": "Tata Capital Q4 Results: Cons PAT soars 43% YoY to Rs 1,502 crore, revenue rises 9%",
+    "summary": "Tata Capital Q4 Results Tata Capital announced a significant 43% year-on-year increase in its consolidated net profit for the March quarter of 2026, reaching Rs 1,502 crore. This growth was supported by a 9% rise in revenue from operations, which sto",
+    "image": "https://img.etimg.com/photo/msid-130467721,imgsize-70032.cms",
     "source": "ET",
-    "pubDate": "Thu, 23 Apr 2026 15:01:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/smallcap-investing-timing-risk-and-returns-golden-thumb-rule-ft-aniruddha-naha/videoshow/130463324.cms"
+    "pubDate": "Thu, 23 Apr 2026 17:27:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-capital-q4-results-cons-pat-jumps-43-yoy-to-rs-1502-crore-revenue-rises-9/articleshow/130467721.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-jio-financial-among-7-big-movers-on-thursday/slideshow/130467667.cms",
+    "category": "finance",
+    "title": "Gainers &amp; Losers: Jio Financial among 7 big movers on Thursday",
+    "summary": "Indian markets closed lower for a second straight session, with Sensex and Nifty falling over 1%. Selling pressure in IT, auto and financial stocks weighed on indices. Union Bank, Havells declined, while OFSS, Fractal Analytics and Jio Financial Serv",
+    "image": "https://img.etimg.com/photo/msid-130467667,imgsize-922726.cms",
+    "source": "ET",
+    "pubDate": "Thu, 23 Apr 2026 17:22:17 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-jio-financial-among-7-big-movers-on-thursday/slideshow/130467667.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/delhi-high-court-asks-google-x-to-remove-videos-of-arvind-kejriwals-case-hearing-11398558#publisher=newsstand",
+    "category": "india",
+    "title": "Delhi Court Asks Google, X To Remove Videos Of Arvind Kejriwal's Case Hearing",
+    "summary": "The matter has been listed for further hearing on July 6.",
+    "image": "https://c.ndtvimg.com/2026-04/lri9dh5o_arvind-kejriwal-live-updates_625x300_06_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Apr 2026 17:14:52 +0530",
+    "link": "https://www.ndtv.com/india-news/delhi-high-court-asks-google-x-to-remove-videos-of-arvind-kejriwals-case-hearing-11398558#publisher=newsstand"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cly60dwxjd1o#0",
+    "category": "global",
+    "title": "Israeli strikes kill eight Palestinians in Gaza, first responders say",
+    "summary": "One strike killed three children and two adults near a mosque in the northern town of Beit Lahia on Wednesday evening.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 23 Apr 2026 13:15:07 GMT",
+    "link": "https://www.bbc.com/news/articles/cly60dwxjd1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533262.html",
+    "category": "sports",
+    "title": "Naseem Shah limps off after hurting his knee in the field",
+    "summary": "The Rawalpindiz fast bowler hurt his left knee while trying to stop a boundary against Islamabad United",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416068.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 23 Apr 2026 12:52:30 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533262.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c30re70lqn1o#0",
+    "category": "global",
+    "title": "Knife killings down by 21% in England and Wales, figures show",
+    "summary": "The annual ONS crime data also shows overall recorded homicides have fallen.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 23 Apr 2026 12:37:48 GMT",
+    "link": "https://www.bbc.com/news/articles/c30re70lqn1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cz0ev7enk2lo#0",
@@ -196,8 +216,78 @@
     "summary": "The three-year agreement will see at least 50 riot-trained police officers drafted in to tackle violence and \u201chostile crowds\u201d.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 23 Apr 2026 10:54:49 GMT",
+    "pubDate": "Thu, 23 Apr 2026 12:22:40 GMT",
     "link": "https://www.bbc.com/news/articles/cz0ev7enk2lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533227.html",
+    "category": "sports",
+    "title": "ICC calls Knight Riders' MLC base in Pomona 'cricket's home for LA28'",
+    "summary": "The venue at Fairplex will serve as Los Angeles Knight Riders' home venue at MLC 2026 and is expected to be the primary venue for cricket at the 2028 Olympic Games",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416053.png",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 23 Apr 2026 12:20:35 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533227.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533220.html",
+    "category": "sports",
+    "title": "Playing 'more than one game in his head' confusing Pant",
+    "summary": "\"Rishabh Pant's problem lies in the fact that he's yet to find his template for white-ball cricket,\" Saba Karim says after the LSG captain's latest failure",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416050.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 23 Apr 2026 12:13:41 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533220.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533206.html",
+    "category": "sports",
+    "title": "Prince Yadav joins Anshul Kamboj at the top of IPL 2026 Purple Cap table",
+    "summary": "Vaibhav Sooryavanshi endured another failure, but still managed to get past Virat Kohli to the fourth spot on the Orange Cap table",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416026.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 23 Apr 2026 12:10:10 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533206.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cpvxgl3n138o#0",
+    "category": "global",
+    "title": "Health data of 500,000 people offered for sale online in China after UK Biobank breach",
+    "summary": "The government said medical data was affected but no personally identifiable information had been made available.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 23 Apr 2026 11:45:41 GMT",
+    "link": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533258.html",
+    "category": "sports",
+    "title": "CSK sign up Akash Madhwal as Ayush Mhatre's replacement",
+    "summary": "Madhwal has played 17 games in the IPL so far and has been part of the MI camp as a net bowler this season",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/360500/360595.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 23 Apr 2026 11:26:41 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533258.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cdrm8k7lzmko#0",
+    "category": "global",
+    "title": "Lyse Doucet: In Tehran, money is short and a return to war looms over daily life",
+    "summary": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 23 Apr 2026 11:26:01 GMT",
+    "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c5ylnvpg3l9o#0",
+    "category": "global",
+    "title": "Senior manager who worked at Lucy Letby's hospital arrested",
+    "summary": "The arrest was made as part of a wider investigation into leadership at the Countess of Chester Hospital.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 23 Apr 2026 11:22:18 GMT",
+    "link": "https://www.bbc.com/news/articles/c5ylnvpg3l9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c9d4zgnqpqeo#0",
@@ -230,16 +320,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1533252.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/sport/football/articles/cy813gy08v2o#0",
-    "category": "global",
-    "title": "No Fifa plans for Iran-Italy swap at World Cup",
-    "summary": "Fifa stands by comments made last week by president Gianni Infantino in which he said that \"the Iranian team is coming, for sure\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 23 Apr 2026 09:41:31 GMT",
-    "link": "https://www.bbc.com/sport/football/articles/cy813gy08v2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1533248.html",
     "category": "sports",
     "title": "Shanto century takes Bangladesh to 265 in humid Chattogram",
@@ -250,66 +330,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1533248.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533238.html",
-    "category": "sports",
-    "title": "Jeremiah Louis released from hospital but will continue to be monitored",
-    "summary": "Jeremiah Louis was rushed to hospital after being felled by a Jayden Seales delivery in a West Indies Championship match, which was then called off because of a \"dangerous pitch\"",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416057.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 23 Apr 2026 08:40:50 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533238.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533207.html",
-    "category": "sports",
-    "title": "'Pooran is the catalyst' - Steyn on LSG's batting muddle",
-    "summary": "\"The poor form of Pooran just means that you're moving good batters to try and shepherd him,\" Dale Steyn says of LSG constantly tinkering with their batting order",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415600/415678.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 23 Apr 2026 06:35:23 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533207.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533227.html",
-    "category": "sports",
-    "title": "ICC calls Knight Riders' MLC base in Pomona 'cricket's home for LA28'",
-    "summary": "The venue at Fairplex will serve as Los Angeles Knight Riders' home venue at MLC 2026 and is expected to be the primary venue for cricket at the 2028 Olympic Games",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416053.png",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 23 Apr 2026 06:32:56 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533227.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533220.html",
-    "category": "sports",
-    "title": "Playing 'more than one game in his head' confusing Pant",
-    "summary": "\"Rishabh Pant's problem lies in the fact that he's yet to find his template for white-ball cricket,\" Saba Karim says after the LSG captain's latest failure",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416050.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 23 Apr 2026 05:48:09 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533220.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/cd6ldv655lpo#0",
-    "category": "global",
-    "title": "Watch: BBC goes undercover at mini-mart selling drugs",
-    "summary": "BBC UK editor Ed Thomas confronts a shopkeeper secretly filmed selling cannabis and cocaine to one of our researchers.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 23 Apr 2026 05:02:00 GMT",
-    "link": "https://www.bbc.com/news/videos/cd6ldv655lpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533216.html",
-    "category": "sports",
-    "title": "New Zealand opt to field; Tanvir, Mustafizur in for Bangladesh",
-    "summary": "New Zealand brought in left-arm fast bowler Ben Lister with the series currently level 1-1",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/383500/383539.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 23 Apr 2026 05:01:28 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533216.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c62l429w2pko#0",
     "category": "global",
     "title": "High Street mini-marts selling cocaine, cannabis and prescription drugs, BBC secret filming reveals",
@@ -318,26 +338,6 @@
     "source": "BBC",
     "pubDate": "Thu, 23 Apr 2026 04:59:56 GMT",
     "link": "https://www.bbc.com/news/articles/c62l429w2pko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5yvn036evlo#0",
-    "category": "global",
-    "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
-    "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 23 Apr 2026 04:25:30 GMT",
-    "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce8jjne5ereo#0",
-    "category": "global",
-    "title": "The furious debate over building houses on golf courses",
-    "summary": "Are golf courses the right places to build housing, or are they simply a soft target?",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 23 Apr 2026 00:31:17 GMT",
-    "link": "https://www.bbc.com/news/articles/ce8jjne5ereo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
