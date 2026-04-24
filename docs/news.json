@@ -20,46 +20,6 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cp8645d9lvyo#0",
-    "category": "global",
-    "title": "Ringo Starr: 'I made all my mistakes on stage'",
-    "summary": "Beatles star reveals all about his new country album, being a Sir and coming up with the phrase A Hard Day's Night.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 23 Apr 2026 23:05:11 GMT",
-    "link": "https://www.bbc.com/news/articles/cp8645d9lvyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533330.html",
-    "category": "sports",
-    "title": "Samson century, Hosein four-for hand Mumbai Indians their biggest defeat",
-    "summary": "Noor Ahmad also picked up two wickets as MI, chasing 208 were bowled out for just 104 in 19 overs",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416081.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 23 Apr 2026 19:17:06 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533330.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533318.html",
-    "category": "sports",
-    "title": "'He brings that magic dust' - The inside story of Bellingham's Phoenix investment",
-    "summary": "Warwickshire and Knighthead Capital apply Tom Brady model by bringing Birmingham's highest-profile footballer on board",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415900/415993.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 23 Apr 2026 19:15:44 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533318.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533331.html",
-    "category": "sports",
-    "title": "Bates to retire from international cricket after T20 World Cup",
-    "summary": "\"I have one final mission: to head to the UK and win another World Cup,\" she says",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/407500/407566.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 23 Apr 2026 18:40:44 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533331.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
     "category": "scitech",
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -100,164 +60,204 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/is-this-normal-employee-uncomfortable-after-managers-ask-about-family-wealth-personal-life-11404322#publisher=newsstand",
-    "category": "india",
-    "title": "'Is This Normal?': Employee 'Uncomfortable' After Managers Ask About Family Wealth, Personal Life",
-    "summary": "IT professional in India shares discomfort over managers' private questions.",
-    "image": "https://c.ndtvimg.com/2025-11/cmchta7o_as_625x300_29_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 24 Apr 2026 18:41:46 +0530",
-    "link": "https://www.ndtv.com/offbeat/is-this-normal-employee-uncomfortable-after-managers-ask-about-family-wealth-personal-life-11404322#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/is-the-3-4-bhk-run-over-experts-flag-a-turning-point-in-the-property-cycle-11404314#publisher=newsstand",
-    "category": "india",
-    "title": "Is The 3-4 BHK Run Over? Experts Flag A Turning Point In The Property Cycle",
-    "summary": "Developers ignoring the middle class may soon find premium demand alone unsustainable.",
-    "image": "https://c.ndtvimg.com/2026-04/bp6a9bm8_mumbai_625x300_24_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 24 Apr 2026 18:39:19 +0530",
-    "link": "https://www.ndtv.com/offbeat/is-the-3-4-bhk-run-over-experts-flag-a-turning-point-in-the-property-cycle-11404314#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/us-israel-iran-war-indias-forex-reserves-jump-by-over-2-billion-to-703-3-billion-amid-iran-war-11404284#publisher=newsstand",
-    "category": "india",
-    "title": "India's Forex Reserves Jump By Over $2 Billion To 703.3 Billion Amid Iran War",
-    "summary": "Foreign currency assets increased by $1.48 billion to $557.46 billion. (Representational)",
-    "image": "https://c.ndtvimg.com/2024-12/0gf57158_currency-_625x300_19_December_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 24 Apr 2026 18:38:32 +0530",
-    "link": "https://www.ndtv.com/india-news/us-israel-iran-war-indias-forex-reserves-jump-by-over-2-billion-to-703-3-billion-amid-iran-war-11404284#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/3-killed-in-manipurs-ukhrul-naga-and-kuki-groups-accuse-each-other-11404289#publisher=newsstand",
-    "category": "india",
-    "title": "3 Killed In Manipur's Ukhrul, Naga And Kuki Groups Accuse Each Other",
-    "summary": "The violence in Ukhrul has sparked fresh Kuki-Naga tensions",
-    "image": "https://c.ndtvimg.com/2023-12/rq1f9v1o_manipur-generic_625x300_16_December_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 24 Apr 2026 18:37:43 +0530",
-    "link": "https://www.ndtv.com/india-news/3-killed-in-manipurs-ukhrul-naga-and-kuki-groups-accuse-each-other-11404289#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/noida-international-airport-appoints-nitu-sarma-as-interim-chief-11404241#publisher=newsstand",
-    "category": "india",
-    "title": "Noida International Airport Appoints Nitu Sarma As Interim Chief",
-    "summary": "Nitu Sarma has been serving as Chief Financial Officer of the airport since October 2021.",
-    "image": "https://c.ndtvimg.com/2026-04/eg8es9cc_nitu-sarma_625x300_24_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 24 Apr 2026 18:33:43 +0530",
-    "link": "https://www.ndtv.com/india-news/noida-international-airport-appoints-nitu-sarma-as-interim-chief-11404241#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/delhi-heatwave-chief-minister-rekha-gupta-seeks-school-compliance-report-by-may-2-11404228#publisher=newsstand",
-    "category": "india",
-    "title": "Delhi Heatwave: Chief Minister Rekha Gupta Seeks School Compliance Report By May 2",
-    "summary": "Chief Minister Rekha Gupta said the government is focussed on ensuring students' well-being.",
-    "image": "https://c.ndtvimg.com/2026-04/ceuj0ul4_delhi-school-_625x300_21_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 24 Apr 2026 18:26:27 +0530",
-    "link": "https://www.ndtv.com/education/delhi-heatwave-chief-minister-rekha-gupta-seeks-school-compliance-report-by-may-2-11404228#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/west-bengal-election-2026-feel-very-proud-chief-justice-on-92-voter-turnout-11403050#publisher=newsstand",
-    "category": "india",
-    "title": "\"Feel Very Proud\": Chief Justice On 92% Voter Turnout In Bengal",
-    "summary": "CJI Surya Kant said he feels proud as a citizen of India on seeing the historic voter turnout.",
-    "image": "https://c.ndtvimg.com/2026-03/iosuj0i_cji-surya-kant_625x300_25_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 24 Apr 2026 18:26:09 +0530",
-    "link": "https://www.ndtv.com/india-news/west-bengal-election-2026-feel-very-proud-chief-justice-on-92-voter-turnout-11403050#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-clears-4-ipos-including-yatayat-corporation-and-eaaa-india-alternatives/articleshow/130494931.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/justice-department-drops-criminal-probe-of-fed-chair-powell-likely-clearing-way-for-warsh/articleshow/130497496.cms",
     "category": "finance",
-    "title": "Sebi clears 4 IPOs including Yatayat Corporation and EAAA India Alternatives",
-    "summary": "Sebi has approved IPOs for four firms spanning logistics, alternatives, real estate and manufacturing. Companies aim to tap rising demand across sectors, though competitive pressures, cyclicality and evolving investor preferences may shape their grow",
-    "image": "https://img.etimg.com/photo/msid-130494931,imgsize-198784.cms",
+    "title": "Justice Department drops criminal probe of Fed chair Powell, likely clearing way for Warsh",
+    "summary": "The Justice Department has concluded its investigation into Federal Reserve chair Jerome Powell. This decision removes a significant obstacle to the confirmation of Kevin Warsh, President Trump's nominee. The probe focused on the Fed's building renov",
+    "image": "https://img.etimg.com/photo/msid-130497496,imgsize-112114.cms",
     "source": "ET",
-    "pubDate": "Fri, 24 Apr 2026 18:24:56 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-clears-4-ipos-including-yatayat-corporation-and-eaaa-india-alternatives/articleshow/130494931.cms"
+    "pubDate": "Fri, 24 Apr 2026 20:10:41 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/justice-department-drops-criminal-probe-of-fed-chair-powell-likely-clearing-way-for-warsh/articleshow/130497496.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-us-iran-ceasefire-islamabad-talks-starit-of-hormuz-blockade-donald-trump-mojtaba-khamenei-11396003#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/high-dose-vitamin-d-supplements-may-reduce-diabetes-risk-by-19-in-genetically-predisposed-adults-study-11404675#publisher=newsstand",
     "category": "india",
-    "title": "US-Iran War Live Updates: Pentagon Chief Hegseth Says Iran Has Chance To Make 'Good Deal'",
-    "summary": "US-Iran War News Live Update:",
-    "image": "https://c.ndtvimg.com/2026-04/gv41i8eo_mojtaba-khamenei_625x300_23_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "High-Dose Vitamin D Supplements May Reduce Diabetes Risk By 19% In Genetically Predisposed Adults: Study",
+    "summary": "Benefits of vitamin D for people with prediabetes",
+    "image": "https://c.ndtvimg.com/2026-04/bvksrhio_vitamin-d_625x300_24_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 24 Apr 2026 18:20:03 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-us-iran-ceasefire-islamabad-talks-starit-of-hormuz-blockade-donald-trump-mojtaba-khamenei-11396003#publisher=newsstand"
+    "pubDate": "Fri, 24 Apr 2026 20:03:10 +0530",
+    "link": "https://www.ndtv.com/health/high-dose-vitamin-d-supplements-may-reduce-diabetes-risk-by-19-in-genetically-predisposed-adults-study-11404675#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/buy-the-dip-but-avoid-it-back-pharma-power-says-rudramurthy-bv/articleshow/130494372.cms",
-    "category": "finance",
-    "title": "Buy the dip, but avoid IT, back pharma &amp; power, says Rudramurthy BV",
-    "summary": "Indian markets are experiencing a healthy correction, according to Vachana Investments' MD, CA Rudramurthy BV. He advises waiting for specific levels around Nifty 23,700-23,800 and Bank Nifty 55,000 for buying opportunities.  He highlights strength i",
-    "image": "https://img.etimg.com/photo/msid-130494372,imgsize-30260.cms",
-    "source": "ET",
-    "pubDate": "Fri, 24 Apr 2026 18:07:21 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/buy-the-dip-but-avoid-it-back-pharma-power-says-rudramurthy-bv/articleshow/130494372.cms"
+    "id": "https://www.ndtv.com/opinion/between-fear-and-opportunity-sri-lankas-india-dilemma-11404719#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion | Between Fear And Opportunity: Sri Lanka's India Dilemma",
+    "summary": "At a time when India is emerging as a principal driver of regional growth and connectivity, Sri Lanka faces a stark choice: align with this transformation, or remain constrained by the anxieties of the past.",
+    "image": "https://c.ndtvimg.com/2018-10/gvnp7d7g_sri-lanka-flag_625x300_27_October_18.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 24 Apr 2026 19:55:14 +0530",
+    "link": "https://www.ndtv.com/opinion/between-fear-and-opportunity-sri-lankas-india-dilemma-11404719#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-john-maynard-keynes-the-actual-results-of-an-investment-over-a-long-term-of-years-very-seldom-agree-with-the-initial-expectation-/articleshow/130485325.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q4-results-cons-pat-marginally-up-by-0-5-yoy-to-rs-3563-crore-revenue-surges-11/articleshow/130496088.cms",
     "category": "finance",
-    "title": "Quote of the day by John Maynard Keynes: \"The actual results of an investment over a long term of years very seldom agre",
-    "summary": "John Maynard Keynes' insight that investment results rarely match initial expectations underscores the inherent uncertainty in financial markets.  This unpredictability stems from complex environments and human emotions, highlighting the limitations ",
-    "image": "https://img.etimg.com/photo/msid-130485325,imgsize-4380.cms",
+    "title": "Reliance Retail Q4 Results: Cons PAT rises marginally YoY to Rs 3,563 crore; revenue up 11%",
+    "summary": "Reliance Retail Q4 Results: Reliance Retail Ventures reported a steady Q4FY26, with net profit inching up 0.5% YoY to Rs 3,563 crore and revenue rising 11% to Rs 87,344 crore. EBITDA grew 3.1% to Rs 6,921 crore, while margins softened. Store count, c",
+    "image": "https://img.etimg.com/photo/msid-130496088,imgsize-1892494.cms",
     "source": "ET",
-    "pubDate": "Fri, 24 Apr 2026 18:02:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-john-maynard-keynes-the-actual-results-of-an-investment-over-a-long-term-of-years-very-seldom-agree-with-the-initial-expectation-/articleshow/130485325.cms"
+    "pubDate": "Fri, 24 Apr 2026 19:52:34 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q4-results-cons-pat-marginally-up-by-0-5-yoy-to-rs-3563-crore-revenue-surges-11/articleshow/130496088.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/when-billionaire-nithin-kamath-wanted-to-earn-just-rs-5-crore-and-retire-in-goa/articleshow/130494007.cms",
-    "category": "finance",
-    "title": "When billionaire Nithin Kamath wanted to earn just Rs 5 crore and retire in Goa",
-    "summary": "Nithin Kamath warns wealth inequality, driven by asset inflation and concentrated ownership, risks social strain. Reflecting on his journey, he urges rethinking wealth\u2019s purpose, noting idle financial gains benefit few and advocating redirecting capi",
-    "image": "https://img.etimg.com/photo/msid-130494007,imgsize-28182.cms",
-    "source": "ET",
-    "pubDate": "Fri, 24 Apr 2026 17:53:57 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/when-billionaire-nithin-kamath-wanted-to-earn-just-rs-5-crore-and-retire-in-goa/articleshow/130494007.cms"
+    "id": "https://www.ndtv.com/health/what-is-cerebral-malaria-everything-you-need-to-know-11404392#publisher=newsstand",
+    "category": "india",
+    "title": "What Is Cerebral Malaria? Everything You Need To Know",
+    "summary": "The danger lies in how quickly the condition affects the brain",
+    "image": "https://c.ndtvimg.com/2025-04/q7li2fo_malaria_625x300_16_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 24 Apr 2026 19:50:39 +0530",
+    "link": "https://www.ndtv.com/health/what-is-cerebral-malaria-everything-you-need-to-know-11404392#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-talks-hormuz-brent-crude-oil-price-earnings-deepseek-meta-intel-amd-stock-price-news/liveblog/130493691.cms",
-    "category": "finance",
-    "title": "US Stock Market Today | Dow Jones | Nasdaq Live: US futures mixed as Iran war deadlock keeps investors edgy",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-130493691,imgsize-322559.cms",
-    "source": "ET",
-    "pubDate": "Fri, 24 Apr 2026 17:42:04 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-talks-hormuz-brent-crude-oil-price-earnings-deepseek-meta-intel-amd-stock-price-news/liveblog/130493691.cms"
+    "id": "https://www.ndtv.com/offbeat/watch-women-servers-on-hoverboards-at-indian-wedding-sparks-social-media-debate-11404686#publisher=newsstand",
+    "category": "india",
+    "title": "Watch: Women Servers On Hoverboards At Indian Wedding Sparks Social Media Debate",
+    "summary": "Women on hoverboards serve guests at Indian weddings, replacing traditional catering.",
+    "image": "https://c.ndtvimg.com/2026-04/g48bub6o_as_625x300_24_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 24 Apr 2026 19:47:32 +0530",
+    "link": "https://www.ndtv.com/offbeat/watch-women-servers-on-hoverboards-at-indian-wedding-sparks-social-media-debate-11404686#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-fpi-settlement-norms-allows-netting-of-funds-in-cash-market-to-cut-costs-improve-efficiency/articleshow/130493617.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-jio-q4-results-cons-pat-jumps-13-yoy-to-rs-7935-crore-revenue-rises-13-arpu-climbs-to-rs-214/articleshow/130496044.cms",
     "category": "finance",
-    "title": "Sebi eases FPI settlement norms, allows netting of funds in cash market to cut costs, improve efficiency",
-    "summary": "Sebi has allowed net settlement of funds for foreign portfolio investors in the cash market to reduce costs and improve efficiency. The move enables netting of outright transactions while retaining safeguards for others. It is expected to lower liqui",
-    "image": "https://img.etimg.com/photo/msid-130493617,imgsize-72000.cms",
+    "title": "Reliance Jio Q4 Results: Cons PAT jumps 13% YoY to Rs 7,935 crore, revenue rises 13%; ARPU climbs to Rs 214",
+    "summary": "Reliance Jio Q4 Results: Jio Platforms reported a 13% year-on-year increase in its March quarter consolidated net profit, reaching Rs 7,935 crore. Revenue also saw a 13% jump to Rs 38,259 crore, driven by organic ARPU growth and scaling of home conne",
+    "image": "https://img.etimg.com/photo/msid-130496044,imgsize-2161001.cms",
     "source": "ET",
-    "pubDate": "Fri, 24 Apr 2026 17:40:47 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-fpi-settlement-norms-allows-netting-of-funds-in-cash-market-to-cut-costs-improve-efficiency/articleshow/130493617.cms"
+    "pubDate": "Fri, 24 Apr 2026 19:45:11 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-jio-q4-results-cons-pat-jumps-13-yoy-to-rs-7935-crore-revenue-rises-13-arpu-climbs-to-rs-214/articleshow/130496044.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/polymarket-gambler-makes-35000-profit-by-using-hair-dryer-to-tamper-with-temperature-readings-at-paris-airport/articleshow/130492802.cms",
-    "category": "finance",
-    "title": "Polymarket gambler makes $35,000 profit by using hair dryer to tamper with temperature readings at Paris airport",
-    "summary": "A Polymarket user allegedly made $35,000 by exploiting unusual temperature spikes recorded at Paris airport, prompting a police investigation into possible sensor tampering. While speculation points to physical interference, authorities are probing t",
-    "image": "https://img.etimg.com/photo/msid-130492802,imgsize-8642.cms",
-    "source": "ET",
-    "pubDate": "Fri, 24 Apr 2026 17:09:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/polymarket-gambler-makes-35000-profit-by-using-hair-dryer-to-tamper-with-temperature-readings-at-paris-airport/articleshow/130492802.cms"
+    "id": "https://www.ndtv.com/india-news/special-team-to-probe-up-minors-rape-and-murder-hospital-negligence-11404637#publisher=newsstand",
+    "category": "india",
+    "title": "Special Team To Probe UP Minor's Rape And Murder, Hospital Negligence",
+    "summary": "The top court has directed the SIT to further probe the role of the two private hospitals.",
+    "image": "https://c.ndtvimg.com/2026-04/7742oh9c_supreme-court_625x300_20_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 24 Apr 2026 19:40:00 +0530",
+    "link": "https://www.ndtv.com/india-news/special-team-to-probe-up-minors-rape-and-murder-hospital-negligence-11404637#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-q4-results-lender-reports-profit-of-rs-533-cr-vs-loss-year-ago-declares-rs-1-5/share-final-dividend-check-record-date/articleshow/130492287.cms",
+    "id": "https://www.ndtv.com/science/scientists-identify-protein-behind-ageing-joints-in-arthritis-breakthrough-11404628#publisher=newsstand",
+    "category": "india",
+    "title": "Scientists Identify Protein Behind Ageing Joints In Arthritis Breakthrough",
+    "summary": "The next steps for the Stanford-led research could also include a clinical trial.",
+    "image": "https://c.ndtvimg.com/2023-02/jio1t41o_arthritis-joint-pain_625x300_04_February_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 24 Apr 2026 19:38:17 +0530",
+    "link": "https://www.ndtv.com/science/scientists-identify-protein-behind-ageing-joints-in-arthritis-breakthrough-11404628#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/in-swati-maliwals-why-i-quit-aap-post-corruption-loot-and-arvind-kejriwal-11404565#publisher=newsstand",
+    "category": "india",
+    "title": "Swati Maliwal Quits AAP, Recalls 'Assault' At Arvind Kejriwal's Home",
+    "summary": "Swati Maliwal said the AAP has deviated from its founding principles.",
+    "image": "https://c.ndtvimg.com/2024-05/bpp3nl8o_arvind-kejriwal-swati-maliwal_625x300_16_May_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 24 Apr 2026 19:38:11 +0530",
+    "link": "https://www.ndtv.com/india-news/in-swati-maliwals-why-i-quit-aap-post-corruption-loot-and-arvind-kejriwal-11404565#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/no-leaves-for-medical-college-students-on-may-2-3-ahead-of-neet-ug-2026-says-nmc-11404610#publisher=newsstand",
+    "category": "india",
+    "title": "No Leaves For Medical College Students On May 2, 3 Ahead Of NEET UG 2026: Says NMC",
+    "summary": "NEET UG 2026: The commission has also instructed medical colleges to remain vigilant.",
+    "image": "https://c.ndtvimg.com/2022-12/f97731ac_aiims-delhi-generic_625x300_01_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 24 Apr 2026 19:36:32 +0530",
+    "link": "https://www.ndtv.com/education/no-leaves-for-medical-college-students-on-may-2-3-ahead-of-neet-ug-2026-says-nmc-11404610#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-q4-results-profit-falls-13-yoy-to-rs-16971-crore-revenue-rises-13/articleshow/130495811.cms",
     "category": "finance",
-    "title": "IndusInd Bank Q4 Results: Lender reports profit of Rs 533 cr vs loss year ago; declares Rs 1.5/share final dividend",
-    "summary": "IndusInd Bank Q4 Results: IndusInd Bank has announced a significant turnaround, posting a standalone net profit of Rs 533 crore in the fourth quarter, a stark contrast to the Rs 2,236 crore loss a year ago. Despite a sequential dip in profit, the ban",
-    "image": "https://img.etimg.com/photo/msid-130492287,imgsize-1735814.cms",
+    "title": "Reliance Industries Q4 Results: Profit falls 13% YoY to Rs 16,971 crore; revenue rises 13%",
+    "summary": "Reliance Industries Q4 Results: Reliance Industries saw its net profit drop 13% year-on-year in the fourth quarter of fiscal 2026. Revenue, however, climbed 13%. The company's oil-to-chemicals segment faced cost pressures. Reliance Jio and Reliance R",
+    "image": "https://img.etimg.com/photo/msid-130495811,imgsize-1741117.cms",
     "source": "ET",
-    "pubDate": "Fri, 24 Apr 2026 16:50:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-q4-results-lender-reports-profit-of-rs-533-cr-vs-loss-year-ago-declares-rs-1-5/share-final-dividend-check-record-date/articleshow/130492287.cms"
+    "pubDate": "Fri, 24 Apr 2026 19:34:19 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-q4-results-profit-falls-13-yoy-to-rs-16971-crore-revenue-rises-13/articleshow/130495811.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-jumps-110-points-on-iran-us-peace-talk-hopes-nifty-seen-reclaiming-24k-on-monday/articleshow/130496112.cms",
+    "category": "finance",
+    "title": "GIFT Nifty jumps 110 points on Iran-US peace talk hopes; Nifty seen reclaiming 24K on Monday",
+    "summary": "GIFT Nifty surged 110 points on hopes of renewed Iran-US peace talks, boosting sentiment after weak markets. Positive global cues could help Nifty 50 reclaim 24,000 despite recent declines driven by IT-led selling pressure.",
+    "image": "https://img.etimg.com/photo/msid-130496112,imgsize-45154.cms",
+    "source": "ET",
+    "pubDate": "Fri, 24 Apr 2026 19:13:23 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-jumps-110-points-on-iran-us-peace-talk-hopes-nifty-seen-reclaiming-24k-on-monday/articleshow/130496112.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-open-higher-on-fresh-hopes-of-us-iran-talks/articleshow/130495972.cms",
+    "category": "finance",
+    "title": "US stocks today: S&amp;P 500 and Nasdaq rise on fresh hopes of US-Iran talks, Intel boost",
+    "summary": "Intel's significant profit surge is propelling technology stocks higher, nearing an all-time high for the S&amp;P 500. Meanwhile, oil prices remain volatile as markets await developments in the Iran conflict.  Procter &amp; Gamble also reported stron",
+    "image": "https://img.etimg.com/photo/msid-130495972,imgsize-142758.cms",
+    "source": "ET",
+    "pubDate": "Fri, 24 Apr 2026 19:06:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-open-higher-on-fresh-hopes-of-us-iran-talks/articleshow/130495972.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-post-first-weekly-decline-in-three-as-oil-resumes-upward-journey/articleshow/130495516.cms",
+    "category": "finance",
+    "title": "Indian bonds post first weekly decline in three as oil resumes upward journey",
+    "summary": "Indian government bonds were little \u200bchanged on Friday, but \u200bposted their first weekly decline since April 3, as \u200boil prices started climbing again, with market participants seeing no resolution to the U.S.-Iran conflict.",
+    "image": "https://img.etimg.com/photo/msid-130495516,imgsize-49592.cms",
+    "source": "ET",
+    "pubDate": "Fri, 24 Apr 2026 18:49:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-post-first-weekly-decline-in-three-as-oil-resumes-upward-journey/articleshow/130495516.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ge-vernova-among-7-mid-cap-stocks-that-hit-52-week-highs-amp-rallied-up-to-30-in-a-month/slideshow/130495440.cms",
+    "category": "finance",
+    "title": "GE Vernova among 7 mid-cap stocks that hit 52-week highs &amp; rallied up to 30% in a month",
+    "summary": "Despite a 999-point drop in the BSE Sensex, seven BSE 150 midcap stocks hit 52-week highs, signalling strong momentum in select sectors, with notable gains in power, finance, steel and pharmaceuticals over the past month.",
+    "image": "https://img.etimg.com/photo/msid-130495249,imgsize-23742.cms",
+    "source": "ET",
+    "pubDate": "Fri, 24 Apr 2026 18:36:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ge-vernova-among-7-mid-cap-stocks-that-hit-52-week-highs-amp-rallied-up-to-30-in-a-month/slideshow/130495440.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cpqxrzr29pxo#0",
+    "category": "global",
+    "title": "Man given life sentence for rape and religiously aggravated assault of Sikh woman",
+    "summary": "A judge tells John Ashby, 32, that he will serve at least 14 years in prison for the attack.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 24 Apr 2026 15:01:08 GMT",
+    "link": "https://www.bbc.com/news/articles/cpqxrzr29pxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cdxd1v0028vo#0",
+    "category": "global",
+    "title": "US justice department drops probe into Fed chairman Jerome Powell",
+    "summary": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 24 Apr 2026 15:00:58 GMT",
+    "link": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533453.html",
+    "category": "sports",
+    "title": "BCL round-up: Pritom, Amite, Akbar tons give North and East Zones winning start",
+    "summary": "Pritom, Amite and Akbar hit centuries this week, while Sofor and Robiul grabbed five-wicket hauls",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416100/416114.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 24 Apr 2026 14:57:27 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533453.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cm2k59l2l02o#0",
+    "category": "global",
+    "title": "The assisted dying bill has failed but the debate isn't over",
+    "summary": "In June 2025 MPs backed the legislation but now it has run out of time to become law.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 24 Apr 2026 14:19:46 GMT",
+    "link": "https://www.bbc.com/news/articles/cm2k59l2l02o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cde51y0zgjyo#0",
@@ -266,18 +266,38 @@
     "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 24 Apr 2026 12:20:55 GMT",
+    "pubDate": "Fri, 24 Apr 2026 14:17:38 GMT",
     "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cdxdwxxpjplo#0",
+    "id": "https://www.espncricinfo.com/ci/content/story/1533405.html",
+    "category": "sports",
+    "title": "Bethell in for Salt as RCB bowl; GT bring in Holder",
+    "summary": "Holder came in for Phillips, and Suthar for Ashok Sharma for GT",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/399100/399109.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 24 Apr 2026 14:05:17 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533405.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvg423lnlp5o#0",
     "category": "global",
-    "title": "Four people in court over Jewish ambulance arson",
-    "summary": "Three men and a teenage boy appear at the Old Bailey over a fire that destroyed charity ambulances.",
+    "title": "Chris Mason: A grim week for Starmer \u2013 but things could be about to get worse",
+    "summary": "The Mandelson vetting row has reignited questions over the PM's future just two weeks before crucial elections in Scotland, Wales and England.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 24 Apr 2026 12:04:55 GMT",
-    "link": "https://www.bbc.com/news/articles/cdxdwxxpjplo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Fri, 24 Apr 2026 13:53:02 GMT",
+    "link": "https://www.bbc.com/news/articles/cvg423lnlp5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533401.html",
+    "category": "sports",
+    "title": "'We're walking away stronger for it' - Walter on NZ's depth despite series loss",
+    "summary": "After claiming a 1-0 lead, NZ ended up losing the three-match series in challenging conditions in Bangladesh",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416100/416101.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 24 Apr 2026 13:24:46 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533401.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/ckgw72lrvn3o#0",
@@ -288,16 +308,6 @@
     "source": "BBC",
     "pubDate": "Fri, 24 Apr 2026 11:49:29 GMT",
     "link": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c75kp1y43lgo#0",
-    "category": "global",
-    "title": "Stock markets are too high and set to fall, says Bank of England deputy",
-    "summary": "It is unusual for a senior figure at the Bank to be so forthright on market movements.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 24 Apr 2026 09:03:21 GMT",
-    "link": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1533363.html",
@@ -328,16 +338,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 24 Apr 2026 06:42:04 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1533338.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cr510de17jlo#0",
-    "category": "global",
-    "title": "Steve Rosenberg: Kremlin's tightening grip on internet fuels Russian discontent",
-    "summary": "Officials say the restrictions are for public safety, but businesses and the public are feeling the impact.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 24 Apr 2026 05:00:29 GMT",
-    "link": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cn08j2g9ze9o#0",
