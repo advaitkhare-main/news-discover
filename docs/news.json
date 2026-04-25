@@ -30,34 +30,194 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/india-news/20-years-on-no-one-on-trial-for-malegaon-blasts-that-killed-31-11405574#publisher=newsstand",
-    "category": "india",
-    "title": "20 Years On, No One On Trial For Malegaon Blasts That Killed 31",
-    "summary": "On September 8, 2006, four improvised explosive devices (IEDs) detonated in the textile town of Malegaon.",
-    "image": "https://i.ndtvimg.com/i/2016-04/2006-malegaon-blast-afp_650x400_41461578824.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 25 Apr 2026 06:38:49 +0530",
-    "link": "https://www.ndtv.com/india-news/20-years-on-no-one-on-trial-for-malegaon-blasts-that-killed-31-11405574#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/raghav-chadha-to-join-bjp-says-two-thirds-of-aap-members-in-rajya-sabha-are-merging-with-the-ruling-party-11403285#publisher=newsstand",
-    "category": "india",
-    "title": "Raghav Chadha's BJP Shocker For Arvind Kejriwal. 6 Other MPs To Switch Too",
-    "summary": "Raghav Chadha to join BJP, says two-thirds of AAP members in Rajya Sabha are merging with the ruling party",
-    "image": "https://c.ndtvimg.com/2026-04/931r1ha4_kerjiwal-raghav-chadha-_650x400_03_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 25 Apr 2026 01:44:04 +0530",
-    "link": "https://www.ndtv.com/india-news/raghav-chadha-to-join-bjp-says-two-thirds-of-aap-members-in-rajya-sabha-are-merging-with-the-ruling-party-11403285#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-close-at-records-on-tech-lift-iran-peace-talk-hopes/articleshow/130503837.cms",
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-gains-but-heads-for-first-weekly-loss-in-five-weeks/articleshow/130508224.cms",
     "category": "finance",
-    "title": "US stocks today: S&amp;P 500, Nasdaq close at records on tech lift, Iran peace talk hopes",
-    "summary": "The S&amp;P 500 and Nasdaq reached record highs Friday, fueled by optimism for U.S.-Iran peace talks and a surge in Intel shares. Semiconductor stocks continued their rally, with Intel hitting a record. Attention now shifts to the upcoming Federal Re",
-    "image": "https://img.etimg.com/photo/msid-130503837,imgsize-100885.cms",
+    "title": "Gold gains but heads for first weekly loss in five weeks",
+    "summary": "Gold prices saw a slight uptick on Friday but are poised for their first weekly decline in five weeks. Lingering inflation worries and the volatile U.S.-Iran conflict are keeping markets on edge. While recent diplomatic efforts hint at de-escalation,",
+    "image": "https://img.etimg.com/photo/msid-130508224,imgsize-114622.cms",
     "source": "ET",
-    "pubDate": "Sat, 25 Apr 2026 01:31:54 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-close-at-records-on-tech-lift-iran-peace-talk-hopes/articleshow/130503837.cms"
+    "pubDate": "Sat, 25 Apr 2026 10:09:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-gains-but-heads-for-first-weekly-loss-in-five-weeks/articleshow/130508224.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-end-volatile-session-mixed-but-up-sharply-for-the-week-on-supply-worries/articleshow/130508180.cms",
+    "category": "finance",
+    "title": "Oil prices end volatile session mixed but up sharply for the week on supply worries",
+    "summary": "Oil prices experienced significant volatility, ultimately closing higher for the week despite early gains being relinquished. Traders are closely watching potential peace talks between the U.S. and Iran, which could ease supply concerns. However, ong",
+    "image": "https://img.etimg.com/photo/msid-130508180,imgsize-78500.cms",
+    "source": "ET",
+    "pubDate": "Sat, 25 Apr 2026 10:05:35 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-end-volatile-session-mixed-but-up-sharply-for-the-week-on-supply-worries/articleshow/130508180.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-equities-log-steep-weekly-losses-with-no-resolution-to-mideast-conflict/articleshow/130508122.cms",
+    "category": "finance",
+    "title": "Global Markets | European equities log steep weekly losses with no resolution to MidEast conflict",
+    "summary": "European stocks saw a significant weekly drop Friday. Investors are concerned about growth and inflation due to Middle East conflict disrupting energy supplies. The STOXX 600 index fell, marking a two-week low and ending a four-week gain streak. Most",
+    "image": "https://img.etimg.com/photo/msid-130508122,imgsize-15392.cms",
+    "source": "ET",
+    "pubDate": "Sat, 25 Apr 2026 09:59:34 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-equities-log-steep-weekly-losses-with-no-resolution-to-mideast-conflict/articleshow/130508122.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/sp-500-nasdaq-close-at-records-on-tech-lift-iran-peace-talk-hopes/articleshow/130508098.cms",
+    "category": "finance",
+    "title": "S&amp;P 500, Nasdaq close at records on tech lift, Iran peace talk hopes",
+    "summary": "Indian markets saw a positive trend as US indices, S&amp;P 500 and Nasdaq, hit record highs. Intel shares surged, driving semiconductor stocks higher. Hopes for peace talks between the US and Iran also fueled optimism. Investors are now keenly awaiti",
+    "image": "https://img.etimg.com/photo/msid-130508098,imgsize-157638.cms",
+    "source": "ET",
+    "pubDate": "Sat, 25 Apr 2026 09:56:46 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sp-500-nasdaq-close-at-records-on-tech-lift-iran-peace-talk-hopes/articleshow/130508098.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/world-malaria-day-doctor-explains-the-difference-between-normal-fever-and-malaria-fever-11406682#publisher=newsstand",
+    "category": "india",
+    "title": "World Malaria Day: Doctor Explains The Difference Between Normal Fever And Malaria Fever",
+    "summary": "If left untreated, malaria can lead to serious complications",
+    "image": "https://c.ndtvimg.com/2026-04/971ri7to_genetically-altered-mosquitoes-represent-a-bold-step-in-the-fight-against-malaria_625x300_23_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 25 Apr 2026 09:51:13 +0530",
+    "link": "https://www.ndtv.com/health/world-malaria-day-doctor-explains-the-difference-between-normal-fever-and-malaria-fever-11406682#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/jane-streets-40-billion-trading-haul-tops-rivals-sources-say/articleshow/130508024.cms",
+    "category": "finance",
+    "title": "Jane Street's $40 billion trading haul tops rivals, sources say",
+    "summary": "Jane Street, a leading market maker, achieved a record $39.6 billion in net trading revenue last year, surpassing rivals like Citadel Securities and Hudson River Trading. This surge was fueled by market volatility and a significant boost from its inv",
+    "image": "https://img.etimg.com/photo/msid-130508024,imgsize-83876.cms",
+    "source": "ET",
+    "pubDate": "Sat, 25 Apr 2026 09:49:46 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jane-streets-40-billion-trading-haul-tops-rivals-sources-say/articleshow/130508024.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/aap-mp-ashok-mittal-hosted-arvind-kejriwal-for-a-year-he-quit-party-the-day-he-moved-out-raghav-chadha-swati-maliwal-join-bjp-11406685#publisher=newsstand",
+    "category": "india",
+    "title": "AAP MP Hosted Arvind Kejriwal For A Year. He Quit Party The Day He Moved Out",
+    "summary": "Arvind Kerjriwal's stay at Ashok Mittal's house lasted for a little over a year.",
+    "image": "https://c.ndtvimg.com/2026-04/ioj95j9g_ashok-mittal-arvind-kejriwal-ani_625x300_25_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 25 Apr 2026 09:48:57 +0530",
+    "link": "https://www.ndtv.com/india-news/aap-mp-ashok-mittal-hosted-arvind-kejriwal-for-a-year-he-quit-party-the-day-he-moved-out-raghav-chadha-swati-maliwal-join-bjp-11406685#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-preparation-for-king-charles-visit-goes-down-under-with-australian-flag-error-11406204#publisher=newsstand",
+    "category": "india",
+    "title": "US Preparation For King Charles Visit Goes Down Under With Australian Flag Error",
+    "summary": "Charles is also the head of state for Australia, but the role is largely ceremonial.",
+    "image": "https://c.ndtvimg.com/2026-04/0e612tls_us-flags_625x300_25_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 25 Apr 2026 09:48:16 +0530",
+    "link": "https://www.ndtv.com/world-news/us-preparation-for-king-charles-visit-goes-down-under-with-australian-flag-error-11406204#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-soaring-us-stocks-face-pivotal-week-of-tech-led-earnings-fed-meeting/articleshow/130507988.cms",
+    "category": "finance",
+    "title": "Wall Street Week Ahead: Soaring US stocks face pivotal week of tech-led earnings, Fed meeting",
+    "summary": "Indian markets brace for a crucial week. Major tech giants like Microsoft and Alphabet report earnings. Investors watch for clues on artificial intelligence spending. The U.S. Federal Reserve meets, with potential changes at its helm. Economic growth",
+    "image": "https://img.etimg.com/photo/msid-130507988,imgsize-13832.cms",
+    "source": "ET",
+    "pubDate": "Sat, 25 Apr 2026 09:47:04 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-soaring-us-stocks-face-pivotal-week-of-tech-led-earnings-fed-meeting/articleshow/130507988.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-risk-based-calculation-for-brokers-variable-net-worth/articleshow/130507941.cms",
+    "category": "finance",
+    "title": "Sebi plans risk-based calculation for brokers\u2019 variable net worth",
+    "summary": "In a groundbreaking initiative, the Securities and Exchange Board of India is set to revamp the variable net worth calculation method for stockbrokers. This reform is designed to align capital adequacy with the actual risks of their operations and th",
+    "image": "https://img.etimg.com/photo/msid-130507941,imgsize-526220.cms",
+    "source": "ET",
+    "pubDate": "Sat, 25 Apr 2026 09:45:24 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-risk-based-calculation-for-brokers-variable-net-worth/articleshow/130507941.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/uttarakhand-board-ubse-10th-12th-results-2026-live-here-is-direct-link-to-check-on-ndtv-11406393#publisher=newsstand",
+    "category": "india",
+    "title": "Uttarakhand Board 10th, 12th Results 2026 Today At 10 AM; Here Is How To Check On NDTV",
+    "summary": "UK Board 10th 12th Result  2026 Live: Check your results at ndtv.com/education/results.",
+    "image": "https://c.ndtvimg.com/2026-04/7rf1kfug_uttarakhand-board-results-ani-file-photo_625x300_25_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 25 Apr 2026 09:45:02 +0530",
+    "link": "https://www.ndtv.com/education/uttarakhand-board-ubse-10th-12th-results-2026-live-here-is-direct-link-to-check-on-ndtv-11406393#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sumitomo-mitsui-infuses-rs-1075-cr-into-nbfc-arm/articleshow/130507894.cms",
+    "category": "finance",
+    "title": "Sumitomo Mitsui infuses Rs 1,075 cr into NBFC arm",
+    "summary": "Japanese conglomerate Sumitomo Mitsui Financial Group has injected \u20b91,075 crore into its Indian arm, SMFG India Credit. This follows a significant \u20b93,000 crore infusion in December 2024. SMFG India Credit's assets under management reached \u20b964,100 cro",
+    "image": "https://img.etimg.com/photo/msid-130507894,imgsize-109884.cms",
+    "source": "ET",
+    "pubDate": "Sat, 25 Apr 2026 09:43:10 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sumitomo-mitsui-infuses-rs-1075-cr-into-nbfc-arm/articleshow/130507894.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/melania-trump-is-growing-white-house-honey-program-with-new-beehive-11406138#publisher=newsstand",
+    "category": "india",
+    "title": "Melania Trump Is Growing White House Honey Program With New Beehive",
+    "summary": "The new hive was funded through the Trust for the National Mall.",
+    "image": "https://c.ndtvimg.com/2025-01/grpoliso_melania-trump-x_625x300_29_January_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 25 Apr 2026 09:39:52 +0530",
+    "link": "https://www.ndtv.com/world-news/melania-trump-is-growing-white-house-honey-program-with-new-beehive-11406138#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-us-to-hold-2nd-round-of-peace-talks-in-pakistan-as-delicate-ceasefire-holds-11406638#publisher=newsstand",
+    "category": "india",
+    "title": "Iran, US To Hold 2nd Round Of Peace Talks In Pakistan As Delicate Ceasefire Holds",
+    "summary": "The previous round of talks was held on April 11-12.",
+    "image": "https://c.ndtvimg.com/2026-04/u32div1s_iran-us-talks_625x300_12_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 25 Apr 2026 09:36:02 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-us-to-hold-2nd-round-of-peace-talks-in-pakistan-as-delicate-ceasefire-holds-11406638#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/altman-apologizes-after-openai-failed-to-alert-police-before-tumbler-ridge-killings-11406159#publisher=newsstand",
+    "category": "india",
+    "title": "Sam Altman Apologises For OpenAI's Failure To Alert Cops About Canada Shooting",
+    "summary": "Seven people died and 25 were injured in the attack.",
+    "image": "https://c.ndtvimg.com/2026-02/0stliruk_canada-shooting_625x300_12_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 25 Apr 2026 09:32:43 +0530",
+    "link": "https://www.ndtv.com/world-news/altman-apologizes-after-openai-failed-to-alert-police-before-tumbler-ridge-killings-11406159#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/bengaluru-couple-shares-emotional-journey-of-buying-their-first-home-calls-it-more-than-a-house-11406422#publisher=newsstand",
+    "category": "india",
+    "title": "Bengaluru Couple Shares Emotional Journey Of Buying Their First Home, Calls It \"More Than a House\"",
+    "summary": "Zenith described the home as more than just a property.",
+    "image": "https://c.ndtvimg.com/2026-04/k2os3ukk_viral-video_625x300_25_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 25 Apr 2026 09:20:28 +0530",
+    "link": "https://www.ndtv.com/offbeat/bengaluru-couple-shares-emotional-journey-of-buying-their-first-home-calls-it-more-than-a-house-11406422#publisher=newsstand"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533535.html",
+    "category": "sports",
+    "title": "Steyn in awe of Kohli's ability to find 'a road to get to the final runs'",
+    "summary": "\"When you see someone really so driven and so passionate about the game, it really rubs off to everybody in the side,\" Devdutt Padikkal says about Virat Kohli",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416100/416145.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 25 Apr 2026 04:23:36 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533535.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533497.html",
+    "category": "sports",
+    "title": "United book playoffs berth after routing Kingsmen for 80",
+    "summary": "Kingsmen will now compete for the fourth playoffs spot with Lahore Qalandars and Karachi Kings",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416100/416117.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 25 Apr 2026 03:05:55 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533497.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c62lp853214o#0",
+    "category": "global",
+    "title": "Falklands  veteran hopes King can persuade Trump to 'back down'",
+    "summary": "Simon Weston says reports the US is reviewing the UK's claim to the territory makes his sacrifice feel \"irrelevant\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 25 Apr 2026 02:28:20 GMT",
+    "link": "https://www.bbc.com/news/articles/c62lp853214o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/ce9mkxy0drro#0",
@@ -70,26 +230,6 @@
     "link": "https://www.bbc.com/news/articles/ce9mkxy0drro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/raghav-chadha-bjp-aap-rajya-sabha-ashok-mittal-sanjay-pathak-live-updates-raghav-chadha-to-join-bjp-11403352#publisher=newsstand",
-    "category": "india",
-    "title": "Highlights: Raghav Chadha Joins BJP In Presence Of Chief Nitin Nabin",
-    "summary": "Raghav Chadha To Join BJP Highlights: Chadha was with AAP since 2012.",
-    "image": "https://c.ndtvimg.com/2026-04/4t2b86ac_raghav-chadha_625x300_24_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 25 Apr 2026 01:15:33 +0530",
-    "link": "https://www.ndtv.com/india-news/raghav-chadha-bjp-aap-rajya-sabha-ashok-mittal-sanjay-pathak-live-updates-raghav-chadha-to-join-bjp-11403352#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/womans-naked-body-found-floating-in-ghaziabad-canal-11405368#publisher=newsstand",
-    "category": "india",
-    "title": "Woman's Naked Body Found Floating In Ghaziabad Canal",
-    "summary": "The matter is being investigated, and police are collecting data on missing persons reports.",
-    "image": "https://c.ndtvimg.com/2022-11/oot8t25k_police-generic_625x300_07_November_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 25 Apr 2026 01:14:08 +0530",
-    "link": "https://www.ndtv.com/india-news/womans-naked-body-found-floating-in-ghaziabad-canal-11405368#publisher=newsstand"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1533524.html",
     "category": "sports",
     "title": "Kohli returns to the top of the IPL 2026 Orange Cap table",
@@ -100,26 +240,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1533524.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/india-news/ysrcp-mlc-arrested-for-witness-tampering-in-2022-driver-murder-case-11405367#publisher=newsstand",
-    "category": "india",
-    "title": "YSRCP MLC Arrested For 'Witness Tampering' In 2022 Driver Murder Case",
-    "summary": "The arrest was made when the MLC arrived at the court premises for a hearing.",
-    "image": "https://c.ndtvimg.com/2022-11/oot8t25k_police-generic_625x300_07_November_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 25 Apr 2026 01:07:34 +0530",
-    "link": "https://www.ndtv.com/india-news/ysrcp-mlc-arrested-for-witness-tampering-in-2022-driver-murder-case-11405367#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/ex-army-chief-mm-naravane-not-an-inch-lost-to-china-during-ladakh-standoff-11405939#publisher=newsstand",
-    "category": "india",
-    "title": "'Not An Inch Lost To China During Ladakh Standoff': Ex-Army Chief MM Naravane",
-    "summary": "Political leadership doesn't interfere directly in military affairs, he said.",
-    "image": "https://c.ndtvimg.com/2020-01/cunfv1u4_manoj-mukund-naravane-mm-naravane-army-chief-pti_625x300_02_January_20.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 25 Apr 2026 01:04:45 +0530",
-    "link": "https://www.ndtv.com/india-news/ex-army-chief-mm-naravane-not-an-inch-lost-to-china-during-ladakh-standoff-11405939#publisher=newsstand"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1533502.html",
     "category": "sports",
     "title": "Kohli: 'It was my responsibility to hit boundaries at the right time'",
@@ -128,26 +248,6 @@
     "source": "Cricinfo",
     "pubDate": "Sat, 25 Apr 2026 01:02:31 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1533502.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/gurugram-man-invites-fiancee-takes-sex-enhancing-drugs-dies-of-overdose-11405886#publisher=newsstand",
-    "category": "india",
-    "title": "Gurugram Man Invites Fiancee, Takes 'Sex-Enhancing' Drugs, Dies Of Overdose",
-    "summary": "Police handed over the body to the family after a postmortem.",
-    "image": "https://c.ndtvimg.com/2024-06/tib0u67o_medicine-generic_625x300_25_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 25 Apr 2026 01:02:12 +0530",
-    "link": "https://www.ndtv.com/india-news/gurugram-man-invites-fiancee-takes-sex-enhancing-drugs-dies-of-overdose-11405886#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/row-after-students-forced-to-remove-sacred-thread-during-exam-in-bengaluru-11405344#publisher=newsstand",
-    "category": "india",
-    "title": "Row After Students Forced To Remove Sacred Thread During Exam In Bengaluru",
-    "summary": "The Common Entrance Test (CET) is held to select students for admission into professional courses.",
-    "image": "https://c.ndtvimg.com/2020-03/hjj5pbn8_exam-hall_625x300_01_March_20.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 25 Apr 2026 00:59:00 +0530",
-    "link": "https://www.ndtv.com/india-news/row-after-students-forced-to-remove-sacred-thread-during-exam-in-bengaluru-11405344#publisher=newsstand"
   },
   {
     "id": "https://www.bbc.com/news/articles/cj40r2gw24wo#0",
@@ -200,24 +300,24 @@
     "link": "https://www.bbc.com/news/articles/ce35xkgjqd5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/promoters-buying-9-nifty-500-stocks-that-saw-stake-hikes-in-march-quarter/articleshow/130500766.cms",
-    "category": "finance",
-    "title": "Promoters Buying: 9 Nifty 500 stocks that saw stake hikes in March quarter",
-    "summary": "Promoters are showing increased confidence in several Nifty 500 companies. Their shareholding has risen in the March 2026 quarter compared to the December 2025 quarter. This trend suggests optimism about future company performance. Investors may find",
-    "image": "https://img.etimg.com/photo/msid-130500766,imgsize-48658.cms",
-    "source": "ET",
-    "pubDate": "Fri, 24 Apr 2026 23:03:14 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/promoters-buying-9-nifty-500-stocks-that-saw-stake-hikes-in-march-quarter/articleshow/130500766.cms"
+    "id": "https://www.bbc.com/news/articles/czjwr93vrrzo#0",
+    "category": "global",
+    "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
+    "summary": "The flood warning system at Imja glacial lake has not been maintained since 2016, fearful locals tell BBC.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 24 Apr 2026 23:28:09 GMT",
+    "link": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nuclear-reactor-maker-x-energy-valued-at-11-9-billion-in-stellar-nasdaq-debut/articleshow/130500806.cms",
-    "category": "finance",
-    "title": "US stocks: Nuclear reactor maker X-Energy valued at $11.9 billion in stellar Nasdaq debut",
-    "summary": "X-Energy's Nasdaq debut saw shares surge 30.9%, valuing the Amazon-backed nuclear reactor developer at $11.9 billion. The company raised over $1 billion in its IPO, aiming to deploy its small modular reactors to power AI infrastructure and meet carbo",
-    "image": "https://img.etimg.com/photo/msid-130500806,imgsize-120462.cms",
-    "source": "ET",
-    "pubDate": "Fri, 24 Apr 2026 23:02:10 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nuclear-reactor-maker-x-energy-valued-at-11-9-billion-in-stellar-nasdaq-debut/articleshow/130500806.cms"
+    "id": "https://www.bbc.com/news/articles/c4grw1rnynxo#0",
+    "category": "global",
+    "title": "Meet the men calling out 'masculinity' trends",
+    "summary": "Influencers promoting looksmaxxing and narrow male beauty standards are being called out by a new wave of men on social media.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 24 Apr 2026 23:08:57 GMT",
+    "link": "https://www.bbc.com/news/articles/c4grw1rnynxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cwyd47911nwo#0",
@@ -230,26 +330,6 @@
     "link": "https://www.bbc.com/news/articles/cwyd47911nwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cde51y0zgjyo#0",
-    "category": "global",
-    "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-    "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 24 Apr 2026 22:55:05 GMT",
-    "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/avis-stock-roller-coaster-drags-us-big-index-dow-jones-transportation-average-along-for-the-ride/articleshow/130500606.cms",
-    "category": "finance",
-    "title": "Avis stock's roller coaster drags US' big index Dow Jones Transportation Average along for the ride",
-    "summary": "Avis Budget shares experienced a dramatic 70% plunge, following a massive surge, highlighting meme stock exuberance. This volatility significantly impacted the Dow Jones Transportation Average, a long-standing economic barometer, revealing limitation",
-    "image": "https://img.etimg.com/photo/msid-130500606,imgsize-53072.cms",
-    "source": "ET",
-    "pubDate": "Fri, 24 Apr 2026 22:51:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/avis-stock-roller-coaster-drags-us-big-index-dow-jones-transportation-average-along-for-the-ride/articleshow/130500606.cms"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cy8138z5zn7o#0",
     "category": "global",
     "title": "I'm A Celebrity 'legend' crowned in heated live final",
@@ -258,56 +338,6 @@
     "source": "BBC",
     "pubDate": "Fri, 24 Apr 2026 22:26:55 GMT",
     "link": "https://www.bbc.com/news/articles/cy8138z5zn7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/jiostar-logs-rs-3210-crore-profit-in-fy26-aided-by-growth-in-digital-sports/articleshow/130499682.cms",
-    "category": "finance",
-    "title": "JioStar logs Rs 3,210 crore profit in FY26 aided by growth in digital, sports",
-    "summary": "JioStar reported a significant net profit of Rs 3,210 crore for FY26, with operating revenue reaching Rs 31,048 crore. The entertainment arm also saw strong performance in the March 2026 quarter, with 810 million viewers on its TV channels and 500 mi",
-    "image": "https://img.etimg.com/photo/msid-130499682,imgsize-5059772.cms",
-    "source": "ET",
-    "pubDate": "Fri, 24 Apr 2026 22:10:20 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jiostar-logs-rs-3210-crore-profit-in-fy26-aided-by-growth-in-digital-sports/articleshow/130499682.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy8103xklreo#0",
-    "category": "global",
-    "title": "Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks",
-    "summary": "Iran says its Foreign Minister Abbas Araghchi is already in Pakistan but that there is no meeting planned between Iran and the US.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 24 Apr 2026 22:02:50 GMT",
-    "link": "https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-soon-heres-what-mukesh-ambani-said-on-indias-largest-listing-plans/articleshow/130498876.cms",
-    "category": "finance",
-    "title": "Reliance Jio IPO soon? Here's what Mukesh Ambani said on India's largest listing plans",
-    "summary": "Mukesh Ambani said Jio Platforms IPO plans are advancing, marking a key milestone. Strong growth, rising ARPU and subscriber gains support valuation, with the listing expected to unlock value and become one of India\u2019s largest offerings.",
-    "image": "https://img.etimg.com/photo/msid-130498876,imgsize-19088.cms",
-    "source": "ET",
-    "pubDate": "Fri, 24 Apr 2026 21:27:29 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-soon-heres-what-mukesh-ambani-said-on-indias-largest-listing-plans/articleshow/130498876.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-growth-steady-as-quick-commerce-drives-expansion/articleshow/130498760.cms",
-    "category": "finance",
-    "title": "Reliance Retail growth steady as quick commerce drives expansion",
-    "summary": "Reliance Retail Ventures Ltd posted modest profit growth as heavy investments in quick commerce impacted margins, despite strong revenue gains. Rapid expansion in hyperlocal delivery, FMCG and store network supported scale, positioning the company fo",
-    "image": "https://img.etimg.com/photo/msid-130498760,imgsize-52356.cms",
-    "source": "ET",
-    "pubDate": "Fri, 24 Apr 2026 21:21:02 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-growth-steady-as-quick-commerce-drives-expansion/articleshow/130498760.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-q4-results-profit-falls-13-yoy-as-energy-margins-weaken-jio-and-retail-shine/videoshow/130498766.cms",
-    "category": "finance",
-    "title": "Reliance Industries Q4 Results: Profit falls 13% YoY as energy margins weaken; Jio and retail shine",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-130498766,imgsize-103222.cms",
-    "source": "ET",
-    "pubDate": "Fri, 24 Apr 2026 21:20:24 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-q4-results-profit-falls-13-yoy-as-energy-margins-weaken-jio-and-retail-shine/videoshow/130498766.cms"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1533468.html",
@@ -348,36 +378,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 24 Apr 2026 18:52:57 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1533446.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533434.html",
-    "category": "sports",
-    "title": "Barnard, Woakes lead Warwickshire fightback as Tongue claims five",
-    "summary": "Notts pushed back after making early inroads as visiting skipper notches unbeaten hundred",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416100/416143.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 24 Apr 2026 18:36:46 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533434.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533497.html",
-    "category": "sports",
-    "title": "United book playoffs berth after routing Kingsmen for 80",
-    "summary": "Kingsmen will now compete for the fourth playoffs spot with Lahore Qalandars and Karachi Kings",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416100/416117.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 24 Apr 2026 18:21:56 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533497.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvg423lnlp5o#0",
-    "category": "global",
-    "title": "Chris Mason: A grim week for Starmer \u2013 but things could be about to get worse",
-    "summary": "The Mandelson vetting row has reignited questions over the PM's future just two weeks before crucial elections in Scotland, Wales and England.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 24 Apr 2026 17:16:12 GMT",
-    "link": "https://www.bbc.com/news/articles/cvg423lnlp5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
