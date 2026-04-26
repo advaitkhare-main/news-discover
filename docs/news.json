@@ -50,6 +50,16 @@
     "link": "https://www.ndtv.com/india-news/pm-modi-offers-prayers-at-kolkata-kali-temple-during-roadshow-11412803#publisher=newsstand"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c5yvy7v66ndo#0",
+    "category": "global",
+    "title": "Mali defence minister killed as country hit by wave of rebel attacks",
+    "summary": "A wave of coordinated attacks by jihadist militants and separatists has spread through the country.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 26 Apr 2026 20:56:26 GMT",
+    "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1533958.html",
     "category": "sports",
     "title": "Pant: 'We definitely need a break'",
@@ -140,6 +150,16 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1533904.html?ex_cid=OTC-RSS"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cp846668401o#0",
+    "category": "global",
+    "title": "Car explosion at police station treated as attempted murder",
+    "summary": "The police believe the attack may have been carried out by the dissident republican group known as the New IRA.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 26 Apr 2026 18:02:42 GMT",
+    "link": "https://www.bbc.com/news/articles/cp846668401o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1533900.html",
     "category": "sports",
     "title": "Root 96, Whiteman 101 as Yorkshire pile up runs as Headingley",
@@ -148,26 +168,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 26 Apr 2026 18:00:14 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1533900.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5yvy7v66ndo#0",
-    "category": "global",
-    "title": "Mali defence minister killed in rebel attacks, reports say",
-    "summary": "A wave of coordinated attacks by jihadist militants and separatists has spread through the country.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 26 Apr 2026 17:23:46 GMT",
-    "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cdxd1x2qw2go#1",
-    "category": "global",
-    "title": "What we know about the incident",
-    "summary": "Donald Trump and First Lady Melania Trump were rushed from a ballroom after gunfire was heard.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 26 Apr 2026 17:05:52 GMT",
-    "link": "https://www.bbc.com/news/articles/cdxd1x2qw2go?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-may-face-selling-pressure-as-fed-meeting-us-iran-talks-loom-analysts/articleshow/130530871.cms",
@@ -210,16 +210,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/survival-over-hype-the-hidden-trait-that-builds-long-term-wealth/articleshow/130530056.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c2484nln8zeo#1",
-    "category": "global",
-    "title": "Shooting raises questions about Trump security",
-    "summary": "The shooting at the White House correspondents' dinner is the third time in three years Trump has been at the centre of a major security incident.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 26 Apr 2026 15:20:18 GMT",
-    "link": "https://www.bbc.com/news/articles/c2484nln8zeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-aster-dm-au-sfb-on-monday-for-up-to-8-near-term-gains/slideshow/130529157.cms",
     "category": "finance",
     "title": "Market Trading Guide: Buy Aster DM, AU SFB on Monday for up to 8% near-term gains",
@@ -238,6 +228,16 @@
     "source": "BBC",
     "pubDate": "Sun, 26 Apr 2026 13:59:49 GMT",
     "link": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cm29m98md2do#0",
+    "category": "global",
+    "title": "Higher prices could last for eight months after Iran war, minister says",
+    "summary": "Officials are monitoring stock levels and planning for any potential disruptions to the supply chain.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 26 Apr 2026 13:58:54 GMT",
+    "link": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/7-of-top-10-most-valued-firms-lose-rs-2-lakh-crore-in-market-cap-tcs-top-laggard/articleshow/130528267.cms",
