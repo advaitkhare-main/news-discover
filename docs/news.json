@@ -50,6 +50,36 @@
     "link": "https://www.ndtv.com/india-news/pm-modi-offers-prayers-at-kolkata-kali-temple-during-roadshow-11412803#publisher=newsstand"
   },
   {
+    "id": "https://www.espncricinfo.com/ci/content/story/1533969.html",
+    "category": "sports",
+    "title": "Devonshire, Patel, McLeod and Sharp named for NZ to face England in ODIs",
+    "summary": "Quartet included in their first overseas ODI squad which will be Suzie Bates farewell to ODI cricket",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/406000/406018.png",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 26 Apr 2026 23:28:00 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1533969.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c2d8dg57rzdo#0",
+    "category": "global",
+    "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
+    "summary": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 26 Apr 2026 22:43:36 GMT",
+    "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4gxgv8j7zlo#0",
+    "category": "global",
+    "title": "Israeli strikes kill 14 in Lebanon amid ongoing ceasefire",
+    "summary": "The US announced three days ago that the ceasefire was extended by three weeks after talks.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 26 Apr 2026 22:02:45 GMT",
+    "link": "https://www.bbc.com/news/articles/c4gxgv8j7zlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c5yvy7v66ndo#0",
     "category": "global",
     "title": "Mali defence minister killed as country hit by wave of rebel attacks",
@@ -110,16 +140,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1533940.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c2d8dg57rzdo#0",
-    "category": "global",
-    "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
-    "summary": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 26 Apr 2026 18:37:26 GMT",
-    "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cz0e0rn179eo#0",
     "category": "global",
     "title": "King's US visit will go ahead as planned, Buckingham Palace says",
@@ -128,6 +148,16 @@
     "source": "BBC",
     "pubDate": "Sun, 26 Apr 2026 18:33:04 GMT",
     "link": "https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c14548m75vlo#0",
+    "category": "global",
+    "title": "Arson arrest after fire at packed-out LGBT+ club",
+    "summary": "An eyewitness says \"thousands\" of people were evacuated from the club.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 26 Apr 2026 18:17:30 GMT",
+    "link": "https://www.bbc.com/news/articles/c14548m75vlo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1533877.html",
@@ -148,26 +178,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 26 Apr 2026 18:10:00 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1533904.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cp846668401o#0",
-    "category": "global",
-    "title": "Car explosion at police station treated as attempted murder",
-    "summary": "The police believe the attack may have been carried out by the dissident republican group known as the New IRA.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 26 Apr 2026 18:02:42 GMT",
-    "link": "https://www.bbc.com/news/articles/cp846668401o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1533900.html",
-    "category": "sports",
-    "title": "Root 96, Whiteman 101 as Yorkshire pile up runs as Headingley",
-    "summary": "Two Sussex wickets late in the day keep things interesting after even first innings",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416200/416249.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 26 Apr 2026 18:00:14 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1533900.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-may-face-selling-pressure-as-fed-meeting-us-iran-talks-loom-analysts/articleshow/130530871.cms",
@@ -228,16 +238,6 @@
     "source": "BBC",
     "pubDate": "Sun, 26 Apr 2026 13:59:49 GMT",
     "link": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cm29m98md2do#0",
-    "category": "global",
-    "title": "Higher prices could last for eight months after Iran war, minister says",
-    "summary": "Officials are monitoring stock levels and planning for any potential disruptions to the supply chain.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 26 Apr 2026 13:58:54 GMT",
-    "link": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/7-of-top-10-most-valued-firms-lose-rs-2-lakh-crore-in-market-cap-tcs-top-laggard/articleshow/130528267.cms",
