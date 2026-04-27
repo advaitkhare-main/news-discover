@@ -70,174 +70,204 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1533958.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo#0",
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/office-mkt-shines-in-jan-mar-despite-global-headwinds-net-leasing-up-7pc-in-top-7cities-jll/articleshow/130551261.cms",
+    "category": "finance",
+    "title": "Office mkt shines in Jan-Mar despite global headwinds; net leasing up 7pc in top 7cities: JLL",
+    "summary": "India's office market remained buoyant during January-March period of this year despite global uncertainties, with both gross and net leasing of workspaces rising by 10 per cent and 7 per cent, respectively, across seven major cities, according to JL",
+    "image": "https://img.etimg.com/photo/msid-130551261,imgsize-52946.cms",
+    "source": "ET",
+    "pubDate": "Mon, 27 Apr 2026 16:02:15 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/office-mkt-shines-in-jan-mar-despite-global-headwinds-net-leasing-up-7pc-in-top-7cities-jll/articleshow/130551261.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/lt-realty-properties-expands-development-portfolio-with-ncr-land-acquisition/articleshow/130551243.cms",
+    "category": "finance",
+    "title": "L&amp;T Realty Properties expands development portfolio with NCR land acquisition",
+    "summary": "Infrastructure major Larsen &amp; Toubro on Monday said one of its subsidiaries, L&amp;T Realty Properties Ltd, has bought a 100 per cent stake in International Green Scapes Ltd (IGSL), unlocking 20 acres of prime land in Gurugram for real estate dev",
+    "image": "https://img.etimg.com/photo/msid-130551243,imgsize-71044.cms",
+    "source": "ET",
+    "pubDate": "Mon, 27 Apr 2026 16:00:14 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/lt-realty-properties-expands-development-portfolio-with-ncr-land-acquisition/articleshow/130551243.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-steady-as-investors-eye-us-iran-talks-central-banks/articleshow/130550479.cms",
+    "category": "finance",
+    "title": "Global Markets | European shares steady as investors eye US-Iran talks, central banks",
+    "summary": "As investors steadied themselves for pivotal central bank meetings, European markets experienced minimal fluctuations. Oil prices rose, reflecting the stagnation in U.S.-Iran diplomatic progress. A downturn in technology and consumer staples stocks p",
+    "image": "https://img.etimg.com/photo/msid-130550479,imgsize-214196.cms",
+    "source": "ET",
+    "pubDate": "Mon, 27 Apr 2026 15:27:16 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-steady-as-investors-eye-us-iran-talks-central-banks/articleshow/130550479.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/cia-agents-killed-in-mexico-crash-werent-authorised-to-operate-on-its-soil-11414115#publisher=newsstand",
+    "category": "india",
+    "title": "CIA Agents Killed In Mexico Crash Weren't Authorised To Operate On Its Soil",
+    "summary": "The officials were returning after destroying a drug lab in Chihuahua. (AI-generated image)",
+    "image": "https://c.ndtvimg.com/2026-04/odfk06jg_cia-generic_625x300_22_April_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Mon, 27 Apr 2026 15:26:15 +0530",
+    "link": "https://www.ndtv.com/world-news/cia-agents-killed-in-mexico-crash-werent-authorised-to-operate-on-its-soil-11414115#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/india-new-zealand-free-trade-agreement-once-in-a-generation-trade-pact-piyush-goyal-all-you-need-to-know-11414137#publisher=newsstand",
+    "category": "india",
+    "title": "India, New Zealand Ink 'Once-In-A-Generation' Pact: All You Need To Know",
+    "summary": "India-New Zealand FTA: Indian exporters will get 100 per centduty-free access to New Zealand.",
+    "image": "https://c.ndtvimg.com/2026-04/o16gk06o_india-new-zealand-trade-deal_650x400_27_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 27 Apr 2026 15:24:22 +0530",
+    "link": "https://www.ndtv.com/world-news/india-new-zealand-free-trade-agreement-once-in-a-generation-trade-pact-piyush-goyal-all-you-need-to-know-11414137#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/imli-paani-vs-nimbu-paani-which-is-better-for-your-gut-in-summer-11414352#publisher=newsstand",
+    "category": "india",
+    "title": "Imli Paani vs Nimbu Paani: Which Is Better For Your Gut In Summer?",
+    "summary": "Imli paani and nimbu paani are summer drinks that have health benefits as well as side-effects",
+    "image": "https://c.ndtvimg.com/2026-04/m5m7bhuc_imil-water-and-nimbu-paani_625x300_27_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 27 Apr 2026 15:22:56 +0530",
+    "link": "https://www.ndtv.com/health/imli-paani-vs-nimbu-paani-which-is-better-for-your-gut-in-summer-11414352#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/business-news/meta-disney-asml-microsoft-oracle-to-cut-over-20-000-tech-jobs-ai-pivot-is-increasing-profits-fuelling-layoffs-11414470#publisher=newsstand",
+    "category": "india",
+    "title": "Oracle To Cut Over 20,000 Jobs: Is AI Hitting Senior Employees First?",
+    "summary": "Companies are investing heavily in artificial intelligence, and automating workflows.",
+    "image": "https://c.ndtvimg.com/2026-04/782hvku4_oracle-dubai_625x300_04_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 27 Apr 2026 15:13:09 +0530",
+    "link": "https://www.ndtv.com/business-news/meta-disney-asml-microsoft-oracle-to-cut-over-20-000-tech-jobs-ai-pivot-is-increasing-profits-fuelling-layoffs-11414470#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/west-bengal-assembly-elections-2026-trinamool-congress-mp-from-arambagh-mitali-bag-alleges-attack-on-car-by-bjp-workers-election-commission-seeks-repo-11414750#publisher=newsstand",
+    "category": "india",
+    "title": "Trinamool MP Alleges Attack On Car By BJP Workers, Poll Body Seeks Report",
+    "summary": "Mitali Bag alleged that when her vehicle was passing by the election office of the BJP candidate",
+    "image": "https://c.ndtvimg.com/2026-04/hporhtng_trinamool-congress-mp-from-arambagh-mitali-bag_625x300_27_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 27 Apr 2026 15:12:26 +0530",
+    "link": "https://www.ndtv.com/india-news/west-bengal-assembly-elections-2026-trinamool-congress-mp-from-arambagh-mitali-bag-alleges-attack-on-car-by-bjp-workers-election-commission-seeks-repo-11414750#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/indian-forest-officer-slams-large-scale-deforestation-for-rising-temperature-in-bengaluru-11414921#publisher=newsstand",
+    "category": "india",
+    "title": "Indian Forest Officer Slams \"Large Scale\" Deforestation For Rising Temperature In Bengaluru",
+    "summary": "The city was once celebrated for its pleasant climate and tree-lined avenues, but now, it is setting new temperature records almost every year.",
+    "image": "https://c.ndtvimg.com/2026-04/v8eqcr7c_bengaluru-temperature_625x300_27_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 27 Apr 2026 15:08:48 +0530",
+    "link": "https://www.ndtv.com/offbeat/indian-forest-officer-slams-large-scale-deforestation-for-rising-temperature-in-bengaluru-11414921#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/gold-from-colombian-cartel-mine-reaches-us-mint-despite-legal-ban-report-11414008#publisher=newsstand",
+    "category": "india",
+    "title": "Gold From Colombian Cartel Mine Reaches US Mint Despite Legal Ban: Report",
+    "summary": "Every year, the United States Mint sells over $1 billion worth of gold coins.",
+    "image": "https://c.ndtvimg.com/2025-10/foi4mbmk_gold-coins_625x300_16_October_25.jpg",
+    "source": "NDTV",
+    "pubDate": "Mon, 27 Apr 2026 15:07:23 +0530",
+    "link": "https://www.ndtv.com/world-news/gold-from-colombian-cartel-mine-reaches-us-mint-despite-legal-ban-report-11414008#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-us-war-news-live-one-equals-four-irans-big-warning-to-gulf-nations-after-trumps-threats-11414253#publisher=newsstand",
+    "category": "india",
+    "title": "Iran's 'Quadruple' Warning To Gulf Nations After Trump's Threats",
+    "summary": "Ghalibaf also responded to Trump's threat, highlighting Iran's advantage in the standoff.",
+    "image": "https://c.ndtvimg.com/2026-04/se94nm3_iran_625x300_24_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 27 Apr 2026 15:05:27 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-us-war-news-live-one-equals-four-irans-big-warning-to-gulf-nations-after-trumps-threats-11414253#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-up-almost-3-as-us-iran-peace-talks-stall/articleshow/130549956.cms",
+    "category": "finance",
+    "title": "Oil up almost 3% as US-Iran peace talks stall",
+    "summary": "Oil prices jumped almost 3% on Monday as \u200bpeace talks between the \u200bU.S. and Iran stalled and shipments through the Strait of \u200bHormuz remained limited, keeping global oil supplies tight.",
+    "image": "https://img.etimg.com/photo/msid-130549956,imgsize-46418.cms",
+    "source": "ET",
+    "pubDate": "Mon, 27 Apr 2026 14:58:41 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-up-almost-3-as-us-iran-peace-talks-stall/articleshow/130549956.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/nifty-eyes-24800-after-healthy-correction-vinay-rajani-picks-jindal-steel-and-nmdc/articleshow/130549893.cms",
+    "category": "finance",
+    "title": "Nifty eyes 24,800 after healthy correction; Vinay Rajani picks Jindal Steel and NMDC",
+    "summary": "Indian equities are showing renewed strength, with Nifty poised for further gains towards 24,800 after a healthy one-third retracement. Analysts highlight broad-based buying and a firm market structure. The steel and metals sector is particularly att",
+    "image": "https://img.etimg.com/photo/msid-130549893,imgsize-28026.cms",
+    "source": "ET",
+    "pubDate": "Mon, 27 Apr 2026 14:56:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/nifty-eyes-24800-after-healthy-correction-vinay-rajani-picks-jindal-steel-and-nmdc/articleshow/130549893.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/aye-finance-q4-results-net-profit-jumps-over-2-fold-to-rs-86-crore/articleshow/130549862.cms",
+    "category": "finance",
+    "title": "Aye Finance Q4 Results: Net profit jumps over 2-fold to Rs 86 crore",
+    "summary": "NBFC Aye Finance on Monday reported a more than two-fold jump in net profit to Rs 86 crore for the fourth quarter ended March 31.",
+    "image": "https://img.etimg.com/photo/msid-130549862,imgsize-4724.cms",
+    "source": "ET",
+    "pubDate": "Mon, 27 Apr 2026 14:56:23 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/aye-finance-q4-results-net-profit-jumps-over-2-fold-to-rs-86-crore/articleshow/130549862.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-cards-q4-results-net-profit-rises-14-yoy-to-rs-609-crore-revenue-up-6/articleshow/130549669.cms",
+    "category": "finance",
+    "title": "SBI Cards Q4 Results: Net profit rises 14% YoY to Rs 609 crore, revenue up 6%",
+    "summary": "SBI Cards and Payment Services reported a 14% year-on-year increase in net profit to Rs 609 crore for the fourth quarter of FY26. Revenue from operations saw a 6% rise to Rs 4,934 crore during the same period. The company's shares experienced minor l",
+    "image": "https://img.etimg.com/photo/msid-130549669,imgsize-8330.cms",
+    "source": "ET",
+    "pubDate": "Mon, 27 Apr 2026 14:54:49 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-cards-q4-results-net-profit-rises-14-yoy-to-rs-609-crore-revenue-up-6/articleshow/130549669.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q4-results-profit-rises-20-yoy-to-rs-2983-crore-co-declares-rs-240/share-dividend/articleshow/130549517.cms",
+    "category": "finance",
+    "title": "UltraTech Cement Q4 Results: Profit rises 20% YoY to Rs 2,983 crore; co declares Rs 240/share dividend",
+    "summary": "UltraTech Cement Q4 Results: UltraTech Cement announced a significant 20% rise in its net profit for the fourth quarter. The company also recommended a special dividend of Rs 240 per share. This performance reflects a decade of strategic growth and a",
+    "image": "https://img.etimg.com/photo/msid-130549517,imgsize-2266012.cms",
+    "source": "ET",
+    "pubDate": "Mon, 27 Apr 2026 14:37:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q4-results-profit-rises-20-yoy-to-rs-2983-crore-co-declares-rs-240/share-dividend/articleshow/130549517.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c1d9wvd2e4ro#0",
     "category": "global",
-    "title": "Sawe smashes two-hour mark to 'move goalposts for marathon running'",
-    "summary": "Sabastian Sawe makes history at the London Marathon as the first person to run a sub-two-hour marathon in a competitive race.",
+    "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
+    "summary": "In a rare interview, Commander Robert Brovdi shared how his unit accounts for a third of all targets destroyed on the battlefield.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sun, 26 Apr 2026 12:39:49 GMT",
-    "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 27 Apr 2026 10:04:34 GMT",
+    "link": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/rising-input-costs-continue-to-pressure-reliances-o2c-business-yogesh-patil/articleshow/130547806.cms",
-    "category": "finance",
-    "title": "Rising input costs continue to pressure Reliance\u2019s O2C business: Yogesh Patil",
-    "summary": "Reliance Industries navigates tough market conditions. Refining margins face volatility due to rising costs. Global crack spreads show improvement, but structural issues persist. The company's consumer businesses present a mixed outlook. Retail reven",
-    "image": "https://img.etimg.com/photo/msid-130547806,imgsize-27458.cms",
-    "source": "ET",
-    "pubDate": "Mon, 27 Apr 2026 13:10:31 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/rising-input-costs-continue-to-pressure-reliances-o2c-business-yogesh-patil/articleshow/130547806.cms"
+    "id": "https://www.bbc.com/news/articles/c80m0mgvm05o#0",
+    "category": "global",
+    "title": "Car bomb hijacking victim 'incredibly brave', says police chief",
+    "summary": "Chief Constable Jon Boutcher says his officers suspect the bombing was carried out by the dissident republican group known as the New IRA.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 27 Apr 2026 09:52:39 GMT",
+    "link": "https://www.bbc.com/news/articles/c80m0mgvm05o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-closes-above-60000-for-first-time-on-earnings-optimism/articleshow/130547642.cms",
-    "category": "finance",
-    "title": "Global Markets | Japan's Nikkei closes above 60,000 for first time on earnings optimism",
-    "summary": "Japan's Nikkei index soared past the 60,000 mark for the first time, driven by strong corporate earnings and AI sector optimism, despite Middle East tensions. Keyence and Fanuc led the charge with significant gains. Investors are now keenly watching ",
-    "image": "https://img.etimg.com/photo/msid-130547642,imgsize-20550.cms",
-    "source": "ET",
-    "pubDate": "Mon, 27 Apr 2026 13:00:37 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-closes-above-60000-for-first-time-on-earnings-optimism/articleshow/130547642.cms"
+    "id": "https://www.bbc.com/news/articles/crl1lpzp4z5o#0",
+    "category": "global",
+    "title": "Michael Jackson biopic smashes box office record",
+    "summary": "The film received poor reviews but has stormed the box office, taking $217m (\u00a3160m) globally.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 27 Apr 2026 09:44:09 GMT",
+    "link": "https://www.bbc.com/news/articles/crl1lpzp4z5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-fall-for-fifth-straight-session-as-stalled-us-iran-talks-cap-risk-appetite/articleshow/130547607.cms",
-    "category": "finance",
-    "title": "Global Markets | Australian shares fall for fifth straight session as stalled US-Iran talks cap risk appetite",
-    "summary": "Australian shares extended their decline for a fifth consecutive session, closing modestly lower as stalled U.S.-Iran peace talks weighed on risk appetite. Financials led the losses, with investors anticipating softer earnings due to higher rates and",
-    "image": "https://img.etimg.com/photo/msid-130547607,imgsize-11476.cms",
-    "source": "ET",
-    "pubDate": "Mon, 27 Apr 2026 12:58:18 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-fall-for-fifth-straight-session-as-stalled-us-iran-talks-cap-risk-appetite/articleshow/130547607.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/36-years-on-former-fbi-agent-names-suspects-in-500-million-art-heist-11413768#publisher=newsstand",
-    "category": "india",
-    "title": "36 Years On, Former FBI Agent Names Suspects In $500 Million Art Heist",
-    "summary": "Sketches of the Boston art theft suspects.",
-    "image": "https://c.ndtvimg.com/2026-04/9b9a0huk_art-theft_625x300_27_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 27 Apr 2026 12:49:46 +0530",
-    "link": "https://www.ndtv.com/world-news/36-years-on-former-fbi-agent-names-suspects-in-500-million-art-heist-11413768#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/they-had-child-together-now-she-says-rape-supreme-court-on-live-in-relationship-11414232#publisher=newsstand",
-    "category": "india",
-    "title": "\"They Had Child Together, Now She Says Rape?\" Supreme Court On Live-In Relationship",
-    "summary": "The observation was made by Justice BV Nagarathna while hearing a petition filed by a woman accusing a man of rape, assault, and exploitation.",
-    "image": "https://c.ndtvimg.com/2022-02/a1ooga8_supreme-court-of-india_650x400_14_February_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 27 Apr 2026 12:49:18 +0530",
-    "link": "https://www.ndtv.com/india-news/they-had-child-together-now-she-says-rape-supreme-court-on-live-in-relationship-11414232#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/science/study-finds-food-dna-on-shroud-believed-to-have-wrapped-jesus-christ-11414021#publisher=newsstand",
-    "category": "india",
-    "title": "Study Finds Food DNA On Shroud Believed To Have Wrapped Jesus Christ",
-    "summary": "Representative Image",
-    "image": "https://c.ndtvimg.com/2026-04/ott03n2c_jesus_625x300_27_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 27 Apr 2026 12:48:56 +0530",
-    "link": "https://www.ndtv.com/science/study-finds-food-dna-on-shroud-believed-to-have-wrapped-jesus-christ-11414021#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-27-april-us-iran-peace-talks-donald-trump-hormuz-oil-prices-11413352#publisher=newsstand",
-    "category": "india",
-    "title": "Stock Market LIVE Updates, Sensex Today: Sensex Gains 500 Points Amid Mixed Global Cues, Oil Surges",
-    "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates: Markets Open In Green.",
-    "image": "https://c.ndtvimg.com/2026-04/ieasjib4_india-stock-market-bbg_625x300_16_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 27 Apr 2026 12:48:32 +0530",
-    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-27-april-us-iran-peace-talks-donald-trump-hormuz-oil-prices-11413352#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/ignou-campus-placement-drive-2026-announced-on-april-29-for-students-and-alumni-11413638#publisher=newsstand",
-    "category": "india",
-    "title": "IGNOU Campus Placement Drive 2026 Announced On April 29 For Students and Alumni",
-    "summary": "IGNOU Campus Placement Drive 2026 to be held on April 29 at New Delhi campus.",
-    "image": "https://c.ndtvimg.com/2026-04/eog0c4eo_ignou-campus-placement-drive-2026_625x300_27_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 27 Apr 2026 12:42:50 +0530",
-    "link": "https://www.ndtv.com/education/ignou-campus-placement-drive-2026-announced-on-april-29-for-students-and-alumni-11413638#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/west-bengal-assembly-election-news-saayoni-ghosh-ndtv-interview-mamata-banerjee-bjp-phase-1-record-voter-tunrout-phase-2-polling-date-11414323#publisher=newsstand",
-    "category": "india",
-    "title": "\"Election A Fight For Mamata Banerjee's Honour\": Trinamool MP To NDTV",
-    "summary": "Phase 1 also saw a record 93 per cent voter turnout, a figure mired in controversy after the Election Commission's Special Intensive Revision of electoral rolls dropped 90.8 lakh names.",
-    "image": "https://c.ndtvimg.com/2026-04/p5r3rl84_saayoni-ghosh-baba-interview_625x300_27_April_26.jpg?im=FeatureCrop,algorithm=cascade,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 27 Apr 2026 12:42:11 +0530",
-    "link": "https://www.ndtv.com/india-news/west-bengal-assembly-election-news-saayoni-ghosh-ndtv-interview-mamata-banerjee-bjp-phase-1-record-voter-tunrout-phase-2-polling-date-11414323#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-retail-investors-raise-stakes-in-10-smallcaps-stocks-rally-up-to-105-in-cy26/slideshow/130547575.cms",
-    "category": "finance",
-    "title": "FIIs, retail investors raise stakes in 10 smallcaps; stocks rally up to 105% in CY26",
-    "summary": "Analysis of BSE smallcaps shows rising FII and retail ownership in 164 stocks; despite broad declines, ten outperformed, delivering strong gains up to 105 percent in CY26.",
-    "image": "https://img.etimg.com/photo/msid-130547167,imgsize-82780.cms",
-    "source": "ET",
-    "pubDate": "Mon, 27 Apr 2026 12:40:39 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-retail-investors-raise-stakes-in-10-smallcaps-stocks-rally-up-to-105-in-cy26/slideshow/130547575.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/trump-event-shooting-woman-picks-wine-bottles-others-drink-and-click-selfies-amid-chaos-11413925#publisher=newsstand",
-    "category": "india",
-    "title": "Woman Picks Wine Bottles, Others Drink And Click Selfies Amid Trump Event Shooting",
-    "summary": "In one of the videos now going viral, a woman is seen picking up wine bottles.",
-    "image": "https://c.ndtvimg.com/2026-04/rros3el8_trump-shooting_625x300_27_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 27 Apr 2026 12:37:40 +0530",
-    "link": "https://www.ndtv.com/world-news/trump-event-shooting-woman-picks-wine-bottles-others-drink-and-click-selfies-amid-chaos-11413925#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/kerala-news/kerala-assembly-elections-2026-meet-sobha-surendran-bjp-leader-contesting-from-congress-bastion-palakkad-11388028#publisher=newsstand",
-    "category": "india",
-    "title": "Meet Sobha Surendran, BJP Leader Contesting From Congress Bastion Palakkad",
-    "summary": "Over the past 30 years, Sobha Surendran has held multiple important positions in BJP",
-    "image": "https://c.ndtvimg.com/2026-04/9g3q2lc_sobha-surendran_625x300_27_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 27 Apr 2026 12:34:55 +0530",
-    "link": "https://www.ndtv.com/kerala-news/kerala-assembly-elections-2026-meet-sobha-surendran-bjp-leader-contesting-from-congress-bastion-palakkad-11388028#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/paytm-payments-bank-is-finished-ashvin-parekh-on-what-it-means-for-your-money-your-paytm-app/articleshow/130546833.cms",
-    "category": "finance",
-    "title": "Paytm Payments Bank is finished. Ashvin Parekh on what it means for your money &amp; your Paytm app",
-    "summary": "The RBI has cancelled Paytm Payments Bank's license. This formal step concludes a process that began in 2022. The winding-down process is now underway. However, your Paytm app and its payment services are a separate entity and will continue to functi",
-    "image": "https://img.etimg.com/photo/msid-130546833,imgsize-21202.cms",
-    "source": "ET",
-    "pubDate": "Mon, 27 Apr 2026 12:30:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/paytm-payments-bank-is-finished-ashvin-parekh-on-what-it-means-for-your-money-your-paytm-app/articleshow/130546833.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/varun-beverages-q1-results-cons-profit-jumps-20-yoy-to-rs-879-crore-revenue-rises-18/articleshow/130546807.cms",
-    "category": "finance",
-    "title": "Varun Beverages Q1 Results: Cons profit jumps 20% YoY to Rs 879 crore; revenue rises 18%",
-    "summary": "Varun Beverages, a Pepsi bottler, announced a strong performance for the March quarter. The company's net profit saw a significant 20% year-on-year increase. Alongside these results, Varun Beverages declared an interim dividend for the fiscal year 20",
-    "image": "https://img.etimg.com/photo/msid-130546807,imgsize-48602.cms",
-    "source": "ET",
-    "pubDate": "Mon, 27 Apr 2026 12:29:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/varun-beverages-q1-results-cons-profit-jumps-20-yoy-to-rs-879-crore-revenue-rises-18/articleshow/130546807.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/rbl-bank-shares-drop-5-despite-3x-jump-in-q4-net-profit-whats-spooking-investors/articleshow/130546532.cms",
-    "category": "finance",
-    "title": "RBL Bank shares drop 5% despite 3x jump in Q4 net profit. What's spooking investors?",
-    "summary": "RBL Bank shares fell despite a strong Q4FY26, where net profit tripled to Rs 230 crore. The decline came as margins weakened, with NIM slipping to a five-quarter low, even as NII and operating profit posted moderate growth.",
-    "image": "https://img.etimg.com/photo/msid-130546532,imgsize-31982.cms",
-    "source": "ET",
-    "pubDate": "Mon, 27 Apr 2026 12:16:58 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbl-bank-shares-drop-5-despite-3x-jump-in-q4-net-profit-whats-spooking-investors/articleshow/130546532.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/markets-have-moved-on-from-geopolitics-broader-rally-underway-anurag-singh/articleshow/130546332.cms",
-    "category": "finance",
-    "title": "Markets have moved on from geopolitics, broader rally underway: Anurag Singh",
-    "summary": "Investor sentiment is stabilizing, shifting focus from dominant tech stocks to broader market participation. Anurag Singh of Ansid Capital highlights market resilience despite geopolitical tensions, noting a move beyond Iran concerns and a potential ",
-    "image": "https://img.etimg.com/photo/msid-130546332,imgsize-8542.cms",
-    "source": "ET",
-    "pubDate": "Mon, 27 Apr 2026 12:08:18 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/markets-have-moved-on-from-geopolitics-broader-rally-underway-anurag-singh/articleshow/130546332.cms"
+    "id": "https://www.bbc.com/news/articles/c4gjger58jzo#0",
+    "category": "global",
+    "title": "Trump says King will be 'very safe' during US visit after security talks",
+    "summary": "The state visit will go ahead despite concerns raised after a gunman targeted an event attended by the president.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 27 Apr 2026 09:19:11 GMT",
+    "link": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1533981.html",
@@ -248,16 +278,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 27 Apr 2026 07:59:09 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1533981.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn89894pv10o#0",
-    "category": "global",
-    "title": "Man arrested over attacks on Jewish community in London",
-    "summary": "A 37-year-old man is arrested on suspicion of preparing terrorist acts.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 27 Apr 2026 07:54:18 GMT",
-    "link": "https://www.bbc.com/news/articles/cn89894pv10o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c20q07w3gl9o#0",
@@ -300,16 +320,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1533959.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c1d9wvd2e4ro#0",
-    "category": "global",
-    "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
-    "summary": "In a rare interview, Commander Robert Brovdi shared how his unit accounts for a third of all targets destroyed on the battlefield.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 27 Apr 2026 05:03:39 GMT",
-    "link": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/ckg9q2g88nzo#0",
     "category": "global",
     "title": "'I don't want the children to see how worried we are': UK family finances hit by Iran war",
@@ -328,16 +338,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 27 Apr 2026 03:36:23 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1533971.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4gjger58jzo#0",
-    "category": "global",
-    "title": "King to revitalise US relationship, says UK ambassador as trip goes ahead",
-    "summary": "The UK's ambassador to the US welcomes the state visit, at a difficult time for UK and US relations.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 27 Apr 2026 02:53:25 GMT",
-    "link": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1533972.html",
