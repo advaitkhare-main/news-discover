@@ -10,6 +10,36 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-federal-reserve-holds-interest-rates-steady-signaling-caution-as-chair-jerome-powell-nears-exit/articleshow/130614619.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cd7pxnv4j7ro#0",
+    "category": "global",
+    "title": "King and Queen lay flowers at 9/11 Memorial in New York",
+    "summary": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 29 Apr 2026 23:33:22 GMT",
+    "link": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/clypz81pg9go#0",
+    "category": "global",
+    "title": "Police declare terrorist incident after two Jewish men stabbed in London",
+    "summary": "A 45-year-old man has been arrested on suspicion of attempted murder, the Met Police says.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 29 Apr 2026 23:09:38 GMT",
+    "link": "https://www.bbc.com/news/articles/clypz81pg9go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/crkpd4r2y7eo#0",
+    "category": "global",
+    "title": "Big US tech stocks swing as investors probe AI spend",
+    "summary": "Meta, Amazon, Alphabet, and Microsoft all reported their financial performance at the same time on Wednesday",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 29 Apr 2026 22:55:33 GMT",
+    "link": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/videos/c332v47mmd2o#0",
     "category": "global",
     "title": "Watch: Met Police body-worn footage of Golders Green arrest",
@@ -28,36 +58,6 @@
     "source": "ET",
     "pubDate": "Wed, 29 Apr 2026 21:49:51 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/mauritius-based-entity-sells-rs-289-crore-worth-shares-in-emcure-pharmaceuticals-via-block-deal-norges-bank-acquirer/articleshow/130612659.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/crkpd4r2y7eo#0",
-    "category": "global",
-    "title": "Big US tech stocks swing as investors probe AI spend",
-    "summary": "Meta, Amazon, Alphabet, and Microsoft all reported their financial performance at the same time on Wednesday",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 29 Apr 2026 21:41:41 GMT",
-    "link": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/clypz81pg9go#0",
-    "category": "global",
-    "title": "Police declare terrorist incident after two Jewish men stabbed in London",
-    "summary": "A 45-year-old man has been arrested on suspicion of attempted murder, the Met Police says.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 29 Apr 2026 21:35:29 GMT",
-    "link": "https://www.bbc.com/news/articles/clypz81pg9go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cd7pxnv4j7ro#0",
-    "category": "global",
-    "title": "King and Queen lay flowers at 9/11 Memorial in New York",
-    "summary": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 29 Apr 2026 21:31:49 GMT",
-    "link": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1534544.html",
@@ -200,6 +200,26 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://www.ndtv.com/world-news/un-says-iran-has-executed-21-arrested-over-4-000-since-war-started-11428471#publisher=newsstand",
+    "category": "india",
+    "title": "UN Says Iran Has Executed 21, Arrested Over 4,000 Since War Started",
+    "summary": "Ira has arrested more than 4,000 on national security-related charges, UN human rights said.",
+    "image": "https://c.ndtvimg.com/2026-04/hmm69lnc_un-logo_625x300_30_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 04:54:59 +0530",
+    "link": "https://www.ndtv.com/world-news/un-says-iran-has-executed-21-arrested-over-4-000-since-war-started-11428471#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/trump-says-us-reviewing-possible-reduction-of-its-troops-in-germany-11428438#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Says US Reviewing Possible Reduction Of Its Troops In Germany",
+    "summary": "President Donald Trump said Wednesday that the United States is considering reducing the number of its troops in Germany, amid a row with German Chancellor Friedrich Merz over the Iran war.",
+    "image": "https://c.ndtvimg.com/2026-04/cab46r38_us-germany-flag_625x300_30_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 04:13:26 +0530",
+    "link": "https://www.ndtv.com/world-news/trump-says-us-reviewing-possible-reduction-of-its-troops-in-germany-11428438#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/trump-says-us-has-a-shot-at-crewed-moon-landing-before-presidency-ends-11428346#publisher=newsstand",
     "category": "india",
     "title": "Trump Says US Has \"A Shot\" At Crewed Moon Landing Before Presidency Ends",
@@ -318,26 +338,6 @@
     "source": "ET",
     "pubDate": "Thu, 30 Apr 2026 00:36:48 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jerome-powell-underlines-importance-of-fed-independence-as-he-welcomes-successor-kevin-warsh/articleshow/130616537.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/canoe-carrying-35-passengers-overturns-in-uganda-river-11428058#publisher=newsstand",
-    "category": "india",
-    "title": "Canoe Carrying 35 Passengers Overturns In Uganda River",
-    "summary": "Accidents on Ugandan waterways are common",
-    "image": "https://i.ndtvimg.com/i/2016-10/capsized-boat-ferry_650x400_71476688000.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 00:36:11 +0530",
-    "link": "https://www.ndtv.com/world-news/canoe-carrying-35-passengers-overturns-in-uganda-river-11428058#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/bengal-sees-92-47-voter-turnout-highest-since-independence-11428062#publisher=newsstand",
-    "category": "india",
-    "title": "Bengal Sees 92.47% Voter Turnout, Highest Since Independence",
-    "summary": "West Bengal has a voter base of 6.81 crore.",
-    "image": "https://c.ndtvimg.com/2023-05/fpcf6j4s_evm-generic_625x300_10_May_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 00:35:06 +0530",
-    "link": "https://www.ndtv.com/india-news/bengal-sees-92-47-voter-turnout-highest-since-independence-11428062#publisher=newsstand"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
