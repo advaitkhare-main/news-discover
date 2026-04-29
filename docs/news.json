@@ -10,6 +10,16 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-federal-reserve-holds-interest-rates-steady-signaling-caution-as-chair-jerome-powell-nears-exit/articleshow/130614619.cms"
   },
   {
+    "id": "https://www.bbc.com/news/videos/c332v47mmd2o#0",
+    "category": "global",
+    "title": "Watch: Met Police body-worn footage of Golders Green arrest",
+    "summary": "Footage shows the moment a man was arrested after two Jewish men were stabbed in north London.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 29 Apr 2026 21:53:51 GMT",
+    "link": "https://www.bbc.com/news/videos/c332v47mmd2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/mauritius-based-entity-sells-rs-289-crore-worth-shares-in-emcure-pharmaceuticals-via-block-deal-norges-bank-acquirer/articleshow/130612659.cms",
     "category": "finance",
     "title": "Mauritius-based entity sells Rs 289 crore worth shares in Emcure Pharmaceuticals via block deal; Norges Bank acquirer",
@@ -20,14 +30,24 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/mauritius-based-entity-sells-rs-289-crore-worth-shares-in-emcure-pharmaceuticals-via-block-deal-norges-bank-acquirer/articleshow/130612659.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c70vzj1nrddo#0",
+    "id": "https://www.bbc.com/news/articles/crkpd4r2y7eo#0",
     "category": "global",
-    "title": "Ex-FBI director James Comey surrenders over charge of threatening Trump's life in Instagram post",
-    "summary": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
+    "title": "Big US tech stocks swing as investors probe AI spend",
+    "summary": "Meta, Amazon, Alphabet, and Microsoft all reported their financial performance at the same time on Wednesday",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Wed, 29 Apr 2026 20:24:48 GMT",
-    "link": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Wed, 29 Apr 2026 21:41:41 GMT",
+    "link": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/clypz81pg9go#0",
+    "category": "global",
+    "title": "Police declare terrorist incident after two Jewish men stabbed in London",
+    "summary": "A 45-year-old man has been arrested on suspicion of attempted murder, the Met Police says.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 29 Apr 2026 21:35:29 GMT",
+    "link": "https://www.bbc.com/news/articles/clypz81pg9go?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cd7pxnv4j7ro#0",
@@ -36,7 +56,7 @@
     "summary": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Wed, 29 Apr 2026 19:53:23 GMT",
+    "pubDate": "Wed, 29 Apr 2026 21:31:49 GMT",
     "link": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -78,16 +98,6 @@
     "source": "BBC",
     "pubDate": "Wed, 29 Apr 2026 18:45:22 GMT",
     "link": "https://www.bbc.com/news/articles/ckgp5j5gpplo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c759n2lnxz0o#0",
-    "category": "global",
-    "title": "Nine arrested after allegations of modern slavery and forced marriage in religious group",
-    "summary": "Up to 500 officers are involved in three raids at Crewe's Ahmadi Religion of Peace and Light group.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 29 Apr 2026 18:38:15 GMT",
-    "link": "https://www.bbc.com/news/articles/c759n2lnxz0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1534518.html",
@@ -150,16 +160,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1534362.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/videos/cddp47gj07yo#0",
-    "category": "global",
-    "title": "Watch: How the Golders Green attack unfolded",
-    "summary": "Two Jewish men were been stabbed in Golders Green, north London, as the Metropolitan Police formally declared it a terrorist incident.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 29 Apr 2026 16:50:10 GMT",
-    "link": "https://www.bbc.com/news/videos/cddp47gj07yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cvgzr2yy6vro#0",
     "category": "global",
     "title": "Stephen Fry sues tech conference for up to \u00a3100,000 after falling off stage",
@@ -198,6 +198,26 @@
     "source": "VentureBeat",
     "pubDate": "Tue, 13 Jan 2026 13:00:00 GMT",
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/trump-says-us-has-a-shot-at-crewed-moon-landing-before-presidency-ends-11428346#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Says US Has \"A Shot\" At Crewed Moon Landing Before Presidency Ends",
+    "summary": "Donald Trump welcomes the Artemis II astronauts in the Oval Office at the White House, Wednesday.",
+    "image": "https://c.ndtvimg.com/2026-04/1ujcuqls_donald-trump_625x300_30_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 03:10:42 +0530",
+    "link": "https://www.ndtv.com/world-news/trump-says-us-has-a-shot-at-crewed-moon-landing-before-presidency-ends-11428346#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/alleged-trump-assassin-cole-allen-took-selfie-moments-before-attack-prosecutors-11428308#publisher=newsstand",
+    "category": "india",
+    "title": "Alleged Trump Assassin Took Selfie Moments Before Attack: Prosecutors",
+    "summary": "The 31-year-old was tackled and detained in a chaotic scuffle with security guards.",
+    "image": "https://c.ndtvimg.com/2026-04/rid3uo9c_cole-allen_625x300_30_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 02:50:56 +0530",
+    "link": "https://www.ndtv.com/world-news/alleged-trump-assassin-cole-allen-took-selfie-moments-before-attack-prosecutors-11428308#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/google-parent-alphabets-cloud-unit-beats-quarterly-revenue-estimates-on-strong-ai-demand/articleshow/130617704.cms",
@@ -318,26 +338,6 @@
     "source": "NDTV",
     "pubDate": "Thu, 30 Apr 2026 00:35:06 +0530",
     "link": "https://www.ndtv.com/india-news/bengal-sees-92-47-voter-turnout-highest-since-independence-11428062#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/mgr-jayalalithaa-now-vijay-exit-poll-on-tamil-nadus-pick-for-chief-minister-11428033#publisher=newsstand",
-    "category": "india",
-    "title": "MGR, Jayalalithaa, Now Vijay? Poll On Tamil Nadu's Pick For Chief Minister",
-    "summary": "Vijay is the most-preferred Chief Minister, with 37 per cent people rooting for him.",
-    "image": "https://c.ndtvimg.com/2026-03/g6it4jis_vijay-tvk_625x300_29_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 00:34:27 +0530",
-    "link": "https://www.ndtv.com/india-news/mgr-jayalalithaa-now-vijay-exit-poll-on-tamil-nadus-pick-for-chief-minister-11428033#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/supreme-court-on-hate-speech-legal-framework-can-draw-attention-cant-compel-legislature-11428045#publisher=newsstand",
-    "category": "india",
-    "title": "'Can Draw Attention, Can't Compel Legislature': Supreme Court On Hate-Speech Legal Framework",
-    "summary": "The top court delivered its verdict on a batch of petitions, including those on hate speeches.",
-    "image": "https://c.ndtvimg.com/2022-02/a1ooga8_supreme-court-of-india_650x400_14_February_22.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 00:29:20 +0530",
-    "link": "https://www.ndtv.com/india-news/supreme-court-on-hate-speech-legal-framework-can-draw-attention-cant-compel-legislature-11428045#publisher=newsstand"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
