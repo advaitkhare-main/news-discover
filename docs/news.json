@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.bbc.com/news/articles/cg7p89mp2rjo#0",
-    "category": "global",
-    "title": "Interest rates expected to be held as uncertainty over Iran war continues",
-    "summary": "Future base rate changes are hard to predict as analysts judge the economic impact of the Iran war.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 29 Apr 2026 23:01:04 GMT",
-    "link": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/videos/c332v47mmd2o#0",
     "category": "global",
     "title": "Watch: Met Police body-worn footage of Golders Green arrest",
@@ -18,26 +8,6 @@
     "source": "BBC",
     "pubDate": "Wed, 29 Apr 2026 21:53:51 GMT",
     "link": "https://www.bbc.com/news/videos/c332v47mmd2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534544.html",
-    "category": "sports",
-    "title": "Travishek, Klaasen outmuscle MI as SRH chase 244 for fifth straight win",
-    "summary": "Rickelton's 123* took MI to their highest first-innings total in the IPL but it was chased down with relative ease",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416300/416365.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 29 Apr 2026 19:50:15 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534544.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534545.html",
-    "category": "sports",
-    "title": "Hardik: 'We have not been able to do what Mumbai Indians stands for'",
-    "summary": "\"I think 244, I think I'll back my bowlers to stop it, but [...] today we could not execute\"",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416300/416367.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 29 Apr 2026 19:49:43 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534545.html?ex_cid=OTC-RSS"
   },
   {
     "id": "4ri2LVmhlv34kOOk94nnsi",
@@ -60,164 +30,244 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/market-remains-stock-specific-as-earnings-divergence-widens-across-sectors-dharmesh-kant/articleshow/130627024.cms",
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-record-fall-explained-whats-weighing-the-currency-and-where-is-it-headed/articleshow/130630734.cms",
     "category": "finance",
-    "title": "Market remains stock-specific as earnings divergence widens across sectors: Dharmesh Kant",
-    "summary": "Market expert Dharmesh Kant highlighted strong numbers for Bajaj Finance, though macro headwinds may impact near-term performance. He expressed a cautious stance on the IT sector, citing sluggish growth and weak discretionary spending. For FMCG, whil",
-    "image": "https://img.etimg.com/photo/msid-130627024,imgsize-16886.cms",
+    "title": "Rupee record fall explained: What's weighing the currency and where is it headed?",
+    "summary": "Indian rupee hits low of 95.33 per dollar as surging crude oil prices and foreign outflows intensify economic pressures. Inflation risks, widening deficits and weak capital flows strain currency, with central bank interventions unable to halt depreci",
+    "image": "https://img.etimg.com/photo/msid-130630734,imgsize-2431786.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 13:05:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/market-remains-stock-specific-as-earnings-divergence-widens-across-sectors-dharmesh-kant/articleshow/130627024.cms"
+    "pubDate": "Thu, 30 Apr 2026 16:01:14 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-record-fall-explained-whats-weighing-the-currency-and-where-is-it-headed/articleshow/130630734.cms"
   },
   {
-    "id": "https://www.ndtv.com/business-news/fomo-to-fowt-why-is-gen-z-hitting-pause-on-stocks-sip-mutual-fund-stock-market-today-11429600#publisher=newsstand",
-    "category": "india",
-    "title": "From 'FOMO' To 'FOWT': Why Is Gen Z Hitting A Pause On Stocks?",
-    "summary": "Sensex, Nifty News: Many GenZ investors feel this may not be the right time to enter the market.",
-    "image": "https://c.ndtvimg.com/2025-02/i55aer9_genz_625x300_12_February_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 12:59:24 +0530",
-    "link": "https://www.ndtv.com/business-news/fomo-to-fowt-why-is-gen-z-hitting-pause-on-stocks-sip-mutual-fund-stock-market-today-11429600#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/canada-school-shooting-victims-families-sue-openai-over-shooters-chatgpt-use-11429692#publisher=newsstand",
-    "category": "india",
-    "title": "Canada Shooting Victims' Families Sue OpenAI Over Shooter's ChatGPT Use",
-    "summary": "Authorities said shooter killed her mother and 11-year-old stepbrother in their home on February 10",
-    "image": "https://c.ndtvimg.com/2026-04/pb3faoro_tumbler-ridge-afp_625x300_30_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 12:55:17 +0530",
-    "link": "https://www.ndtv.com/world-news/canada-school-shooting-victims-families-sue-openai-over-shooters-chatgpt-use-11429692#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-us-war-news-pakistan-opens-6-land-routes-to-iran-amid-hormuz-blockade-double-crossing-us-11429743#publisher=newsstand",
-    "category": "india",
-    "title": "Pakistan Opens 6 Land Routes To Iran Amid Hormuz Blockade: Double-Crossing US?",
-    "summary": "The latest remakes add to the growing criticism over Pakistan's role as a mediator.",
-    "image": "https://c.ndtvimg.com/2026-02/ni5cgrro_trump-pakistan_625x300_28_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 12:54:49 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-us-war-news-pakistan-opens-6-land-routes-to-iran-amid-hormuz-blockade-double-crossing-us-11429743#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/white-house-quiet-as-china-tightens-trade-rules-ahead-of-us-president-donald-trump-xi-jinping-meet-11429762#publisher=newsstand",
-    "category": "india",
-    "title": "White House Quiet As China Tightens Trade Rules Ahead Of Trump-Xi Meet",
-    "summary": "Analysts and some US officials worry about the precedent set by Beijing's measures",
-    "image": "https://c.ndtvimg.com/2026-04/8kuio4t_trump-jinping-afp_625x300_30_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 12:54:37 +0530",
-    "link": "https://www.ndtv.com/world-news/white-house-quiet-as-china-tightens-trade-rules-ahead-of-us-president-donald-trump-xi-jinping-meet-11429762#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/opinion/us-israel-iran-uae-opec-will-uaes-exit-trigger-more-walkouts-11429803#publisher=newsstand",
-    "category": "india",
-    "title": "Opinion: Opinion | Can Saudi Arabia, Now Alone At The Top, Manage To Keep Oil Stable?",
-    "summary": "With the UAE's exit, Saudi Arabia will remain the only swing producer with sufficient spare capacity to exert market influence and respond to supply shocks. This will constrain the grouping's leveraging power.",
-    "image": "https://c.ndtvimg.com/2019-06/tfq4l00o_mohammed-bin-salman-reuters_625x300_20_June_19.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 12:52:38 +0530",
-    "link": "https://www.ndtv.com/opinion/us-israel-iran-uae-opec-will-uaes-exit-trigger-more-walkouts-11429803#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-13-stocks-surge-up-to-190-in-a-year-do-you-own-any/slideshow/130626910.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-enterprises-q4-results-co-posts-loss-of-rs-221-crore-versus-profit-a-year-ago-but-revenue-rises-20-yoy/articleshow/130630284.cms",
     "category": "finance",
-    "title": "Multibaggers: 13 stocks surge up to 190% in a year, do you own any?",
-    "summary": "Despite a falling Sensex, several BSE 500 stocks delivered multibagger returns up to 190%. Many saw increased FII interest, highlighting strong sectoral opportunities and selective wealth creation amid broader market underperformance.",
-    "image": "https://img.etimg.com/photo/msid-130626727,imgsize-3570.cms",
+    "title": "Adani Ent Q4 Results: Co posts Rs 221 crore loss vs profit a year ago, but revenue rises 20% YoY",
+    "summary": "\u200bAdani Enterprises Q4 Results: The company's board has also approved a dividend of Rs 1.3 per share for the financial year 2025-26.",
+    "image": "https://img.etimg.com/photo/msid-130630284,imgsize-1931124.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 12:51:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-13-stocks-surge-up-to-190-in-a-year-do-you-own-any/slideshow/130626910.cms"
+    "pubDate": "Thu, 30 Apr 2026 15:51:06 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-enterprises-q4-results-co-posts-loss-of-rs-221-crore-versus-profit-a-year-ago-but-revenue-rises-20-yoy/articleshow/130630284.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/ghaziabad-apartment-fire-damage-coverage-safety-general-insurance-builder-government-relief-rwa-11429187#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/nifty-dip-is-a-buying-opportunity-not-a-warning-sign-says-dharmesh-shah/articleshow/130630117.cms",
+    "category": "finance",
+    "title": "Nifty dip is a buying opportunity, not a warning sign, says Dharmesh Shah",
+    "summary": "Despite a sharp sell-off triggered by rising crude oil prices, Nifty's correction is viewed as healthy and normal by ICICI Direct's Dharmesh Shah. He advises investors to seek entry points, expecting the Nifty to consolidate between 23,500 and 24,500",
+    "image": "https://img.etimg.com/photo/msid-130630117,imgsize-34016.cms",
+    "source": "ET",
+    "pubDate": "Thu, 30 Apr 2026 15:43:06 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/nifty-dip-is-a-buying-opportunity-not-a-warning-sign-says-dharmesh-shah/articleshow/130630117.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/india-deploys-aarogya-maitri-health-cube-in-jamaica-strengthening-caricom-partnership-11430411#publisher=newsstand",
     "category": "india",
-    "title": "Ghaziabad High-Rise Fire: Who Pays After The Smoke Clears",
-    "summary": "The fire in Ghaziabad is a warning: be financially prepared before tragedy hits.",
-    "image": "https://c.ndtvimg.com/2026-04/qls7sltg_ghaziabad-apartment-fire_625x300_30_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "India Deploys 'Aarogya Maitri' Health Cube In Jamaica For Humanitarian Emergency Response",
+    "summary": "The Jamaica deployment is being viewed as part of India's broader outreach to CARICOM countries, where healthcare, disaster resilience, and capacity building have emerged as key pillars of cooperation",
+    "image": "https://c.ndtvimg.com/2026-03/2109ljn4_medical-supplies_625x300_30_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 12:46:23 +0530",
-    "link": "https://www.ndtv.com/india-news/ghaziabad-apartment-fire-damage-coverage-safety-general-insurance-builder-government-relief-rwa-11429187#publisher=newsstand"
+    "pubDate": "Thu, 30 Apr 2026 15:23:53 +0530",
+    "link": "https://www.ndtv.com/health/india-deploys-aarogya-maitri-health-cube-in-jamaica-strengthening-caricom-partnership-11430411#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/ugc-net-june-2026-notification-out-registration-begins-from-april-29-check-direct-link-here-11429750#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/icse-isc-result-2026-live-updates-cisce-class-10-12-result-at-cisce-org-download-scorecard-marksheet-direct-link-digilocker-direct-link-11428724#publisher=newsstand",
     "category": "india",
-    "title": "UGC NET June 2026 Notification OUT: Registration Begins From April 29, Check Direct Link Here",
-    "summary": "UGC NET June 2026 Notification: Applications Start From April, 29",
-    "image": "https://c.ndtvimg.com/2026-04/u8ppqg78_ugc-net-notification-2026-out_625x300_30_April_26.jpeg",
+    "title": "ICSE, ISC Result 2026 (OUT) LIVE: 99.18% Students Pass Class 10, 99.13% Pass Class 12, Check Scores Here",
+    "summary": "CISCE ICSE, ISC Result 2026 LIVE: Class 10, 12 Scorecard Out Today At 11 AM",
+    "image": "https://c.ndtvimg.com/2026-04/tvksc7t4_sd_625x300_19_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 12:43:39 +0530",
-    "link": "https://www.ndtv.com/education/ugc-net-june-2026-notification-out-registration-begins-from-april-29-check-direct-link-here-11429750#publisher=newsstand"
+    "pubDate": "Thu, 30 Apr 2026 15:23:23 +0530",
+    "link": "https://www.ndtv.com/education/icse-isc-result-2026-live-updates-cisce-class-10-12-result-at-cisce-org-download-scorecard-marksheet-direct-link-digilocker-direct-link-11428724#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/health/1-in-4-indian-school-children-obese-unhealthy-diets-to-blame-study-11429673#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/do-mosquito-repellent-creams-harm-skin-doctors-clear-the-air-11430425#publisher=newsstand",
     "category": "india",
-    "title": "1 In 4 Indian School Children Obese, Unhealthy Diets To Blame: Study",
-    "summary": "Childhood obesity rising fast in India's urban schools",
-    "image": "https://c.ndtvimg.com/2026-04/f8sdtkds_childhood-obesity-rising-fast-in-indias-urban-schools_625x300_30_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Do Mosquito Repellent Creams Harm Skin? Doctors Clear The Air",
+    "summary": "Mosquito repellent creams are not harming your skin in any significant way when used correctly",
+    "image": "https://c.ndtvimg.com/2026-04/povsd6b_mosquito-repellent_625x300_30_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 12:40:26 +0530",
-    "link": "https://www.ndtv.com/health/1-in-4-indian-school-children-obese-unhealthy-diets-to-blame-study-11429673#publisher=newsstand"
+    "pubDate": "Thu, 30 Apr 2026 15:17:51 +0530",
+    "link": "https://www.ndtv.com/health/do-mosquito-repellent-creams-harm-skin-doctors-clear-the-air-11430425#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hul-shares-drop-over-4-despite-q4-topping-street-estimates-profit-jumps-21-yoy-to-rs-2464-crore/articleshow/130625778.cms",
-    "category": "finance",
-    "title": "HUL shares drop over 4% despite Q4 topping Street estimates; profit jumps 21% YoY to Rs 2,464 crore",
-    "summary": "Hindustan Unilever shares fell up to 4.4% despite a strong Q4, with net profit rising 21.4% YoY to Rs 2,992 crore. Revenue grew 7.6% to Rs 16,351 crore, while EBITDA rose 3.2% to Rs 3,877 crore, improving margins to 23.7%. Home Care led segmental gro",
-    "image": "https://img.etimg.com/photo/msid-130625778,imgsize-20762.cms",
-    "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 12:08:56 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hul-shares-drop-over-4-despite-q4-topping-street-estimates-profit-jumps-21-yoy-to-rs-2464-crore/articleshow/130625778.cms"
+    "id": "https://www.ndtv.com/education/delhi-college-bars-student-union-fests-after-university-clashes-11430480#publisher=newsstand",
+    "category": "india",
+    "title": "Delhi College Bars Student Union Fests After University Clashes",
+    "summary": "Shaheed Bhagat Singh College Bars Students' Union from Organising Fests After Delhi University Clashes",
+    "image": "https://c.ndtvimg.com/2026-04/958g8lo_shaheed-bhagat-singh-college_625x300_30_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 15:16:41 +0530",
+    "link": "https://www.ndtv.com/education/delhi-college-bars-student-union-fests-after-university-clashes-11430480#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-alphabet-shines-bright-on-blockbuster-earnings-day/slideshow/130625739.cms",
-    "category": "finance",
-    "title": "US Stock Market | Alphabet shines bright on blockbuster earnings day",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-130625438,imgsize-77460.cms",
-    "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 11:54:34 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-alphabet-shines-bright-on-blockbuster-earnings-day/slideshow/130625739.cms"
+    "id": "https://www.ndtv.com/world-news/iran-us-war-news-donald-trump-to-be-briefed-on-3-military-options-against-iran-what-they-are-11430414#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Has 3 \"Military Options\" Against Iran Amid Stalemate. What They Are",
+    "summary": "Tthe Chairman of the Joint Chiefs of Staf is also expected to attend CENTCOM's meeting with Trump",
+    "image": "https://c.ndtvimg.com/2026-04/qk73ssh4_trump-iran-pea_625x300_07_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 15:15:59 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-us-war-news-donald-trump-to-be-briefed-on-3-military-options-against-iran-what-they-are-11430414#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/vedantas-historic-year-strong-margins-and-deleveraging-path-management-on-post-demerger-strategy-listing-timeline-and-capital-allocation/articleshow/130625376.cms",
-    "category": "finance",
-    "title": "Vedanta\u2019s historic year, strong margins and deleveraging path: Management on post-demerger strategy, listing timeline an",
-    "summary": "Vedanta anticipates a historic FY26, driven by record profitability in its aluminium and zinc businesses with margins at 38% and 50% respectively. The company confirmed a demerger effective May 1, with all four newly listed entities trading by end-Ju",
-    "image": "https://img.etimg.com/photo/msid-130625376,imgsize-17422.cms",
-    "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 11:52:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/vedantas-historic-year-strong-margins-and-deleveraging-path-management-on-post-demerger-strategy-listing-timeline-and-capital-allocation/articleshow/130625376.cms"
+    "id": "https://www.ndtv.com/india-news/big-relief-for-karisma-kapoors-children-in-sunjay-kapur-property-row-11430346#publisher=newsstand",
+    "category": "india",
+    "title": "Big Relief For Karisma Kapoor's Children In Sunjay Kapur Property Row",
+    "summary": "The Kapur/Kapoor family (File)",
+    "image": "https://c.ndtvimg.com/2025-11/u63hi2ts_sunjay-_625x300_20_November_25.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 15:15:32 +0530",
+    "link": "https://www.ndtv.com/india-news/big-relief-for-karisma-kapoors-children-in-sunjay-kapur-property-row-11430346#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/force-motors-shares-slip-6-as-q4-profit-falls-36-yoy-to-rs-279-crore/articleshow/130625195.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/edelweiss-financial-shares-tank-10-after-q4-net-profit-drops-17-to-rs-87-60-crore-firm-announces-dividend/articleshow/130629522.cms",
     "category": "finance",
-    "title": "Force Motors shares slip 6% as Q4 profit falls 36% YoY to Rs 279 crore",
-    "summary": "Force Motors shares dropped 5.66% after reporting a 36% year-on-year decline in Q4FY26 net profit to Rs 278.5 crore, despite an 8.2% rise in revenue. Higher costs impacted profitability. However, full-year profit surged 51% to Rs 1,211.6 crore, and t",
-    "image": "https://img.etimg.com/photo/msid-130625195,imgsize-17640.cms",
+    "title": "Edelweiss Financial shares tank 10% after Q4 net profit drops 17% to Rs 87.60 crore; firm announces dividend",
+    "summary": "Edelweiss Financial shares fell sharply after reporting a 17% YoY drop in Q4 net profit and weaker sequential performance. Despite pressure on earnings and revenue, the company showed steady growth in asset management and insurance segments. It also ",
+    "image": "https://img.etimg.com/photo/msid-130629522,imgsize-4476.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 11:47:32 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/force-motors-shares-slip-6-as-q4-profit-falls-36-yoy-to-rs-279-crore/articleshow/130625195.cms"
+    "pubDate": "Thu, 30 Apr 2026 15:14:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/edelweiss-financial-shares-tank-10-after-q4-net-profit-drops-17-to-rs-87-60-crore-firm-announces-dividend/articleshow/130629522.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/live-blog/adani-enterprises-q4-results-fy26-live-updates-adani-ports-share-price-dividend-bonus-share-gautam-adani-news/liveblog/130625124.cms",
-    "category": "finance",
-    "title": "Adani Enterprises Q4 Results Live Updates: Adani Enterprises among key companies to post Q4 results today. Check revenue",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-130625124,imgsize-96964.cms",
-    "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 11:42:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/adani-enterprises-q4-results-fy26-live-updates-adani-ports-share-price-dividend-bonus-share-gautam-adani-news/liveblog/130625124.cms"
+    "id": "https://www.ndtv.com/world-news/iran-us-war-why-irans-oil-industry-is-being-squeezed-by-us-blockade-middle-east-conflict-rising-oil-prices-11430467#publisher=newsstand",
+    "category": "india",
+    "title": "Why Iran's Oil Industry Is Being Squeezed By US Blockade",
+    "summary": "The Greek-flagged crude oil tanker \"Asahi Princess\"",
+    "image": "https://c.ndtvimg.com/2026-04/8828sg5_the-greekflagged-crude-oil-tanker-asahi-princess-_625x300_30_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 15:12:53 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-us-war-why-irans-oil-industry-is-being-squeezed-by-us-blockade-middle-east-conflict-rising-oil-prices-11430467#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/capgeminis-first-quarter-revenue-up-7-yoy-in-line-with-estimates/articleshow/130624905.cms",
+    "id": "https://www.ndtv.com/world-news/ukraine-bets-on-battlefield-ai-as-the-race-for-weapons-autonomy-intensifies-11429354#publisher=newsstand",
+    "category": "india",
+    "title": "Ukraine Bets On Battlefield AI As The Race For Weapons Autonomy Intensifies",
+    "summary": "Ukraine's domestic arms sector includes more than 2,000 manufacturers and military technology firms.",
+    "image": "https://c.ndtvimg.com/2026-03/6ifqoq5k_ai-in-war_625x300_02_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 15:09:23 +0530",
+    "link": "https://www.ndtv.com/world-news/ukraine-bets-on-battlefield-ai-as-the-race-for-weapons-autonomy-intensifies-11429354#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/why-uae-stepped-away-from-opec-amid-iran-war-and-soaring-crude-oil-prices/articleshow/130629426.cms",
     "category": "finance",
-    "title": "Capgemini's first-quarter revenue up 7% YoY, in line with estimates",
-    "summary": "French IT firm Capgemini saw its revenue climb seven percent year-on-year in the first quarter. This performance met the company's expectations. Growth was boosted by strong results in North America, partly due to a recent acquisition. The company ha",
-    "image": "https://img.etimg.com/photo/msid-130624905,imgsize-70698.cms",
+    "title": "Why UAE stepped away from OPEC amid Iran war and soaring crude oil prices",
+    "summary": "United Arab Emirates has announced it will exit OPEC and OPEC+ effective May 1, delivering a fresh shock to an already strained global energy market. The move comes amid a Strait of Hormuz blockade and ongoing Iran conflict, heightening fears of seve",
+    "image": "https://img.etimg.com/photo/msid-130629426,imgsize-194154.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 11:33:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/capgeminis-first-quarter-revenue-up-7-yoy-in-line-with-estimates/articleshow/130624905.cms"
+    "pubDate": "Thu, 30 Apr 2026 15:08:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-uae-stepped-away-from-opec-amid-iran-war-and-soaring-crude-oil-prices/articleshow/130629426.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-falls-behind-as-alphabet-amazon-outpace-facebook-parent-in-ai-shift-during-earnings/articleshow/130629288.cms",
+    "category": "finance",
+    "title": "Meta falls behind as Alphabet, Amazon outpace Facebook-parent in AI shift during earnings",
+    "summary": "Tech giants, including Google-parent Alphabet, Amazon, Microsoft, and Meta, announced their quarterly earnings on Wednesday, with the Facebook and Instagram-parent appearing to fall behind in terms of AI boost.",
+    "image": "https://img.etimg.com/photo/msid-130629288,imgsize-56350.cms",
+    "source": "ET",
+    "pubDate": "Thu, 30 Apr 2026 15:01:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-falls-behind-as-alphabet-amazon-outpace-facebook-parent-in-ai-shift-during-earnings/articleshow/130629288.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-drops-on-oil-surge-mixed-earnings/articleshow/130628961.cms",
+    "category": "finance",
+    "title": "Global Markets | Japan's Nikkei drops on oil surge, mixed earnings",
+    "summary": "Japan's Nikkei share average fell on \u200bThursday as a surge \u200bin oil prices, driven by reports of possible U.S. military \u200baction to break the Iran stalemate, and mixed corporate earnings dampened investor appetite.",
+    "image": "https://img.etimg.com/photo/msid-130628961,imgsize-134456.cms",
+    "source": "ET",
+    "pubDate": "Thu, 30 Apr 2026 14:44:09 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-drops-on-oil-surge-mixed-earnings/articleshow/130628961.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australia-shares-hit-four-week-low-woolworths-dives-as-rising-costs-earnings/articleshow/130628863.cms",
+    "category": "finance",
+    "title": "Global Markets | Australia shares hit four-week low; Woolworths dives as rising costs  earnings",
+    "summary": "Australian shares ended at \u200ba four-week low on Thursday, extending losses to an eighth straight session as surging oil prices stoked inflation and growth worries, while top grocer Woolworths sank over 7% after warning rising costs \u200cwould hit \u2060earning",
+    "image": "https://img.etimg.com/photo/msid-130628863,imgsize-418624.cms",
+    "source": "ET",
+    "pubDate": "Thu, 30 Apr 2026 14:36:22 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australia-shares-hit-four-week-low-woolworths-dives-as-rising-costs-earnings/articleshow/130628863.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx21m88rd14o#0",
+    "category": "global",
+    "title": "Oil price jumps after report Trump to be given new Iran options",
+    "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 30 Apr 2026 10:50:19 GMT",
+    "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cy4145vexypo#0",
+    "category": "global",
+    "title": "Neo-Nazi guilty of terror charge after MI5 sting",
+    "summary": "Jurors at the Old Bailey hear Alfie Coleman, 21, believed in fighting a race war.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 30 Apr 2026 10:47:42 GMT",
+    "link": "https://www.bbc.com/news/articles/cy4145vexypo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534557.html",
+    "category": "sports",
+    "title": "Queensland join NSW in rejecting BBL privatisation, CA considers alternatives",
+    "summary": "CA chief executive Todd Greenberg says CA will look at alternative models and explained \"it's difficult\" with no consensus among the six states",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/374500/374571.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 30 Apr 2026 10:25:03 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534557.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c5y9wlnwl85o#0",
+    "category": "global",
+    "title": "Statue with Banksy's signature appears in London",
+    "summary": "A sculpture of a man marching off a plinth in St James's appears to bear the artist's name.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 30 Apr 2026 10:17:09 GMT",
+    "link": "https://www.bbc.com/news/articles/c5y9wlnwl85o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534597.html",
+    "category": "sports",
+    "title": "Sangakkara and Mahanama part of Transformation Committee to run SLC",
+    "summary": "The majority of the committee's members hail from corporate, legal, and political spheres, with former Member of Parliament Eran Wickramaratne appointed as chair",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/386800/386859.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 30 Apr 2026 09:51:41 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534597.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534595.html",
+    "category": "sports",
+    "title": "Paterson, Baartman named in SA A squad for tour of England",
+    "summary": "The squad will play two four-day matches in England from May 22 and will be led by batter Marques Ackermann",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/401800/401889.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 30 Apr 2026 09:38:13 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534595.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4g4lk9m77vo#0",
+    "category": "global",
+    "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
+    "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 30 Apr 2026 09:07:47 GMT",
+    "link": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534583.html",
+    "category": "sports",
+    "title": "Parag penalised after being caught vaping during PBKS vs RR match",
+    "summary": "The BCCI said it was \"exploring other options to initiate proceedings for stringent action against the erring team, its officials and player/s to ensure that the reputation of IPL remains intact\"",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416300/416330.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 30 Apr 2026 08:48:53 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534583.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1534564.html",
@@ -228,16 +278,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 30 Apr 2026 08:11:24 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1534564.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx21m88rd14o#0",
-    "category": "global",
-    "title": "Oil price jumps after report Trump to be briefed on new Iran options",
-    "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 30 Apr 2026 08:10:37 GMT",
-    "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1534578.html",
@@ -280,16 +320,6 @@
     "link": "https://www.bbc.com/news/articles/cdxplq92rx1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534560.html",
-    "category": "sports",
-    "title": "Malinga grabs Purple Cap; Abhishek, Klaasen lead Orange Cap table",
-    "summary": "Eshan Malinga is at the top of the IPL 2026 Purple Cap table now - here are the latest updates",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416300/416355.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 30 Apr 2026 03:54:37 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534560.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cqxpr404053o#0",
     "category": "global",
     "title": "Have the royals got their mojo back from US visit?",
@@ -300,44 +330,14 @@
     "link": "https://www.bbc.com/news/articles/cqxpr404053o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534557.html",
-    "category": "sports",
-    "title": "Queensland join NSW in rejecting BBL privatisation, CA considers alternatives",
-    "summary": "CA chief executive Todd Greenberg says CA will look at alternative models and explained \"it's difficult\" with no consensus among the six states",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/374500/374571.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 30 Apr 2026 03:12:34 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534557.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/c5y9wdprpyyo#0",
-    "category": "global",
-    "title": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
-    "summary": "Before the fragile ceasefire in the region, this was one of the most heavily targeted US and UK military bases in the Middle East.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 30 Apr 2026 01:46:52 GMT",
-    "link": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/clyplwvgxjvo#0",
     "category": "global",
-    "title": "Women can wait years for an endometriosis diagnosis. New tech could change that",
+    "title": "Endometriosis could be diagnosed earlier with new scan technique",
     "summary": "A new scan technique could spot areas of endometriosis missed by conventional scans, scientists say.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Thu, 30 Apr 2026 00:08:59 GMT",
     "link": "https://www.bbc.com/news/articles/clyplwvgxjvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c1k239p409po#0",
-    "category": "global",
-    "title": "The city caught in the middle of the big energy shift debate",
-    "summary": "Is the UK fumbling the shift away from oil and gas jobs?",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 30 Apr 2026 00:08:10 GMT",
-    "link": "https://www.bbc.com/news/articles/c1k239p409po?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
