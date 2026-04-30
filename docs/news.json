@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.bbc.com/news/articles/cd7pxnv4j7ro#0",
-    "category": "global",
-    "title": "King and Queen lay flowers at 9/11 Memorial in New York",
-    "summary": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 29 Apr 2026 23:33:22 GMT",
-    "link": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cg7p89mp2rjo#0",
     "category": "global",
     "title": "Interest rates expected to be held as uncertainty over Iran war continues",
@@ -70,26 +60,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1534518.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534372.html",
-    "category": "sports",
-    "title": "Prendergast trumps Pavely in Blaze of glory",
-    "summary": "Fast-paced finish leaves Warwickshire floored at Trent Bridge",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/406000/406007.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 29 Apr 2026 17:39:10 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534372.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534368.html",
-    "category": "sports",
-    "title": "Turner, Jonassen centuries highlight thrilling tie",
-    "summary": "Four run outs, including Rachel Slater trying to sramble a single off the last ball leaves Yorkshire short chasing 291",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416300/416360.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 29 Apr 2026 17:13:57 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534368.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -110,114 +80,54 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-to-have-special-trading-session-for-demerger-today-what-to-expect/articleshow/130612102.cms",
-    "category": "finance",
-    "title": "Vedanta to have special trading session for demerger today. What to expect",
-    "summary": "Vedanta shares will trade ex-demerger today. A special session will adjust prices. Four new entities will list soon. This restructuring aims to unlock value. Investors should focus on future listings. Vedanta's Q4 results showed strong profit growth.",
-    "image": "https://img.etimg.com/photo/msid-130612102,imgsize-36884.cms",
-    "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 08:00:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-to-have-special-trading-session-for-demerger-today-what-to-expect/articleshow/130612102.cms"
+    "id": "https://www.ndtv.com/education/icse-isc-result-2026-official-website-down-check-alternative-ways-to-access-scorecards-11429365#publisher=newsstand",
+    "category": "india",
+    "title": "ICSE, ISC Result 2026: Official Website Down? Check Alternative Ways to Access Scorecards",
+    "summary": "ICSE, ISC Result 2026 can be checked through multiple platforms.",
+    "image": "https://c.ndtvimg.com/2026-04/rd9klmd_icse-isc-result-2026_625x300_30_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 11:12:24 +0530",
+    "link": "https://www.ndtv.com/education/icse-isc-result-2026-official-website-down-check-alternative-ways-to-access-scorecards-11429365#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/icse-isc-result-declared-cisce-class-10-12-scorecard-download-link-here-11429364#publisher=newsstand",
+    "category": "india",
+    "title": "ICSE, ISC Result Declared: CISCE Class 10, 12 Scorecard Download Link Here",
+    "summary": "ICSE, ISC Result Out: Check  Scorecard Download Link Here",
+    "image": "https://c.ndtvimg.com/2026-04/h4heu9t4_asd_625x300_30_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 11:11:17 +0530",
+    "link": "https://www.ndtv.com/education/icse-isc-result-declared-cisce-class-10-12-scorecard-download-link-here-11429364#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/manabadi-ap-ssc-result-2026-out-five-ways-to-download-marks-memo-directly-11429335#publisher=newsstand",
+    "category": "india",
+    "title": "Manabadi AP SSC Result 2026 OUT: Five Ways To Download Marks Memo Directly",
+    "summary": "AP SSC Result Out For over 6 lakh students today at 11 am. Check direct download  link.",
+    "image": "https://c.ndtvimg.com/2026-04/aleqg6ms_as_625x300_30_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 11:09:21 +0530",
+    "link": "https://www.ndtv.com/education/manabadi-ap-ssc-result-2026-out-five-ways-to-download-marks-memo-directly-11429335#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/donald-trump-assassination-cole-tomas-allen-tried-to-kill-us-president-donald-trump-second-shooter-conspiracy-secret-service-agent-hit-in-chest-11429367#publisher=newsstand",
+    "category": "india",
+    "title": "Video Suggests Would-Be Trump Killer May Not Have Fired Bullet That Hit Agent",
+    "summary": "Cole Tomas Allen (L) and President Donald Trump (File).",
+    "image": "https://c.ndtvimg.com/2026-04/j5bu0pto_trump-white-house-shooting_625x300_26_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 11:09:12 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trump-assassination-cole-tomas-allen-tried-to-kill-us-president-donald-trump-second-shooter-conspiracy-secret-service-agent-hit-in-chest-11429367#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/education/icse-isc-result-2026-live-updates-cisce-class-10-12-result-at-cisce-org-download-scorecard-marksheet-direct-link-digilocker-direct-link-11428724#publisher=newsstand",
     "category": "india",
-    "title": "ICSE, ISC Result 2026 LIVE: CISCE Class 10, 12 Scorecard Out Today At 11 AM",
+    "title": "ICSE, ISC Result 2026 (OUT) LIVE: CISCE Class 10, 12 Scorecard Out, Download Link Here",
     "summary": "CISCE ICSE, ISC Result 2026 LIVE: Class 10, 12 Scorecard Out Today At 11 AM",
     "image": "https://c.ndtvimg.com/2026-04/tvksc7t4_sd_625x300_19_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 07:50:35 +0530",
+    "pubDate": "Thu, 30 Apr 2026 11:04:58 +0530",
     "link": "https://www.ndtv.com/education/icse-isc-result-2026-live-updates-cisce-class-10-12-result-at-cisce-org-download-scorecard-marksheet-direct-link-digilocker-direct-link-11428724#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-us-war-donald-trump-rejects-peace-plan-iran-says-ready-with-weapon-us-deeply-afraid-of-11428688#publisher=newsstand",
-    "category": "india",
-    "title": "'Can Get Heart Attack': Iran Touts New Weapon After US Rejects Peace Plan",
-    "summary": "Trump has said that he's rejecting Iran's proposal to reopen the Strait of Hormuz",
-    "image": "https://c.ndtvimg.com/2026-04/4kgma5e4_iran-us_625x300_27_April_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 07:50:33 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-us-war-donald-trump-rejects-peace-plan-iran-says-ready-with-weapon-us-deeply-afraid-of-11428688#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/4-chhattisgarh-cops-detained-in-guwahati-for-taking-bribery-from-accused-11428728#publisher=newsstand",
-    "category": "india",
-    "title": "4 Chhattisgarh Cops Detained In Guwahati For Taking Bribery From Accused",
-    "summary": "The police from Raipur had detained three persons from Guwahati",
-    "image": "https://c.ndtvimg.com/2026-04/p1v2udng_assam-police-generic_625x300_30_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 07:49:26 +0530",
-    "link": "https://www.ndtv.com/india-news/4-chhattisgarh-cops-detained-in-guwahati-for-taking-bribery-from-accused-11428728#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-30-april-donald-trump-oil-price-us-iran-war-exit-polls-11428657#publisher=newsstand",
-    "category": "india",
-    "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Deep Red As Brent Crude Surges To $120",
-    "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates: Markets to open in red.",
-    "image": "https://c.ndtvimg.com/2026-03/pvr197nk_india-stock-market_625x300_15_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 07:43:26 +0530",
-    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-30-april-donald-trump-oil-price-us-iran-war-exit-polls-11428657#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/ap-ssc-result-2026-live-updates-bseap-class-10-result-marks-memo-download-link-pass-percentage-toppers-list-here-11428680#publisher=newsstand",
-    "category": "india",
-    "title": "Andhra Pradesh SSC Result 2026 LIVE: BSEAP Class 10 Result Today At 11 AM, Check Latest Updates Here",
-    "summary": "AP SSC Result 2026 LIVE: Class 10 Result Out Today At 11 AM",
-    "image": "https://c.ndtvimg.com/2026-04/bt60e9qc_ap-ssc-results-2026_625x300_30_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 07:41:14 +0530",
-    "link": "https://www.ndtv.com/education/ap-ssc-result-2026-live-updates-bseap-class-10-result-marks-memo-download-link-pass-percentage-toppers-list-here-11428680#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-april-30-crude-oil-soars-to-120-hit-highest-level-since-2022-what-are-experts-saying/articleshow/130621152.cms",
-    "category": "finance",
-    "title": "Oil Price Today (April 30): Crude oil soars to $120, hits highest level since 2022. What are experts saying?",
-    "summary": "Oil prices surged to their highest levels since mid-2022 amid growing concerns over a prolonged U.S. blockade on Iranian exports and stalled nuclear negotiations. This disruption, potentially extending until a broader deal is reached, is tightening s",
-    "image": "https://img.etimg.com/photo/msid-130621152,imgsize-43944.cms",
-    "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 07:38:27 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-april-30-crude-oil-soars-to-120-hit-highest-level-since-2022-what-are-experts-saying/articleshow/130621152.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hul-bajaj-finance-share-price-30-april-2026/liveblog/130621117.cms",
-    "category": "finance",
-    "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade lower",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-130621117,imgsize-1048787.cms",
-    "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 07:33:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hul-bajaj-finance-share-price-30-april-2026/liveblog/130621117.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/air-india-to-start-hub-and-spoke-international-trials-from-varanasi-in-june-11428615#publisher=newsstand",
-    "category": "india",
-    "title": "Air India To Start Hub-And-Spoke International Trials From Varanasi In June",
-    "summary": "The move is part of efforts to make India one of the world's fastest domestic civil aviation markets",
-    "image": "https://media.assettype.com/bloombergquint%2F2024-05%2Ff93022fb-230b-446a-8c67-8aabe0411ca3%2FAir_India_SourcE_ndtv_p.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 07:31:53 +0530",
-    "link": "https://www.ndtv.com/india-news/air-india-to-start-hub-and-spoke-international-trials-from-varanasi-in-june-11428615#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/air-india-pilot-dies-of-heart-attack-in-bali-indonesia-during-scheduled-rest-11428676#publisher=newsstand",
-    "category": "india",
-    "title": "Air India Pilot Dies Of Heart Attack In Bali During Scheduled Rest",
-    "summary": "Air India spokesperson said the first officer was on scheduled crew rest in Bali",
-    "image": "https://c.ndtvimg.com/2025-12/717muvf8_air-india-a320_625x300_08_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 07:30:53 +0530",
-    "link": "https://www.ndtv.com/india-news/air-india-pilot-dies-of-heart-attack-in-bali-indonesia-during-scheduled-rest-11428676#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-firm-after-fed-raises-inflation-alarm-yen-slips-past-160/articleshow/130621040.cms",
-    "category": "finance",
-    "title": "Dollar holds firm after Fed raises inflation alarm, yen slips past 160",
-    "summary": "The dollar strengthened as hawkish remarks from Federal Reserve policymakers pushed yields higher, leading traders to price out rate cuts this year. Meanwhile, the Japanese yen's sharp decline against the dollar intensified focus on potential interve",
-    "image": "https://img.etimg.com/photo/msid-130621040,imgsize-1627029.cms",
-    "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 07:25:24 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-firm-after-fed-raises-inflation-alarm-yen-slips-past-160/articleshow/130621040.cms"
   },
   {
     "id": "https://www.ndtv.com/education/andhra-pradesh-ssc-result-2026-releasing-today-at-11-am-check-official-websites-here-11428614#publisher=newsstand",
@@ -226,58 +136,178 @@
     "summary": "AP SSC Result 2026 will be declared today at 11 AM.",
     "image": "https://c.ndtvimg.com/2026-04/p8s72n7s_ap-ssc-result-2026_625x300_30_April_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 07:23:54 +0530",
+    "pubDate": "Thu, 30 Apr 2026 11:01:02 +0530",
     "link": "https://www.ndtv.com/education/andhra-pradesh-ssc-result-2026-releasing-today-at-11-am-check-official-websites-here-11428614#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rebounds-from-one-month-low-on-softer-dollar/articleshow/130620882.cms",
-    "category": "finance",
-    "title": "Gold rebounds from one-month low on softer dollar",
-    "summary": "Gold prices rebounded on Thursday, buoyed by a weaker U.S. dollar. However, elevated oil prices continue to fuel inflation concerns and expectations of prolonged higher interest rates. Global gold demand saw a 2% year-on-year increase in Q1 2026, dri",
-    "image": "https://img.etimg.com/photo/msid-130620882,imgsize-54982.cms",
-    "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 07:04:32 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rebounds-from-one-month-low-on-softer-dollar/articleshow/130620882.cms"
+    "id": "https://www.ndtv.com/delhi-news/dwarka-golf-course-drowning-3-children-aged-8-to-10-drown-in-pond-at-golf-course-in-delhi-11429301#publisher=newsstand",
+    "category": "india",
+    "title": "3 Children, Aged 8 To 10, Drown In Pond At Golf Course In Delhi",
+    "summary": "Police said further investigation is underway to ascertain the circumstances",
+    "image": "https://c.ndtvimg.com/2026-04/jbp1og1o_dwarka-gold-course_625x300_30_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 10:53:29 +0530",
+    "link": "https://www.ndtv.com/delhi-news/dwarka-golf-course-drowning-3-children-aged-8-to-10-drown-in-pond-at-golf-course-in-delhi-11429301#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-extend-gains-as-us-iran-war-deadlock-keeps-supply-off-market/articleshow/130620730.cms",
-    "category": "finance",
-    "title": "Oil prices extend gains as US-Iran war deadlock keeps supply off market",
-    "summary": "Oil prices extended gains as concerns mount over prolonged supply disruptions from the Middle East due to the U.S.-Iran conflict. Talks to end the war have deadlocked, with the Strait of Hormuz remaining largely blocked. The UAE's withdrawal from OPE",
-    "image": "https://img.etimg.com/photo/msid-130620730,imgsize-39284.cms",
-    "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 06:39:41 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-extend-gains-as-us-iran-war-deadlock-keeps-supply-off-market/articleshow/130620730.cms"
+    "id": "https://www.ndtv.com/education/ap-ssc-result-2026-live-updates-bseap-class-10-result-marks-memo-download-link-pass-percentage-toppers-list-here-11428680#publisher=newsstand",
+    "category": "india",
+    "title": "Manabadi AP SSC Result 2026 LIVE: Class 10 Marks Memo Out Shortly, Download Link Here",
+    "summary": "AP SSC Result 2026 LIVE: Class 10 Result Out Today At 11 AM",
+    "image": "https://c.ndtvimg.com/2026-04/bt60e9qc_ap-ssc-results-2026_625x300_30_April_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 10:48:52 +0530",
+    "link": "https://www.ndtv.com/education/ap-ssc-result-2026-live-updates-bseap-class-10-result-marks-memo-download-link-pass-percentage-toppers-list-here-11428680#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130620724.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/hul-q4-results-cons-pat-jumps-21-yoy-to-rs-2992-crore-revenue-rises-8/articleshow/130623799.cms",
     "category": "finance",
-    "title": "GIFT Nifty trades lower, hints at a weak start for Dalal Street",
-    "summary": "Indian markets opened firm on Wednesday, buoyed by global cues and easing geopolitical tensions. However, gains were capped by surging crude oil prices and a weak rupee. Investor sentiment remains cautious ahead of state election exit poll results, w",
-    "image": "https://img.etimg.com/photo/msid-130620724,imgsize-31848.cms",
+    "title": "HUL Q4 Results: Cons PAT jumps 21% YoY to Rs 2,992 crore, revenue rises 8%",
+    "summary": "HUL Q4 Results: Along with its Q4 earnings, the board has proposed a final dividend of Rs 22 per share. This is in addition to the interim dividend of Rs 19 per share declared in October 2025, taking the total dividend payout for the year to Rs 9,633",
+    "image": "https://img.etimg.com/photo/msid-130623799,imgsize-23852.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 06:38:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130620724.cms"
+    "pubDate": "Thu, 30 Apr 2026 10:44:21 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hul-q4-results-cons-pat-jumps-21-yoy-to-rs-2992-crore-revenue-rises-8/articleshow/130623799.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hul-bajaj-finance-adani-power-adani-enterprises-vedanta-tata-motors-pv/articleshow/130620700.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/after-aprils-8-gains-nifty-bulls-look-to-ride-mays-positive-seasonality-on-dii-support/articleshow/130623912.cms",
     "category": "finance",
-    "title": "Stocks in news: HUL, Bajaj Finance, Adani Power, Adani Enterprises, Vedanta, Tata Motors PV",
-    "summary": "Indian markets anticipate the US Fed's decision and election exit polls today. Key companies including HUL, Bajaj Finance, and Adani Power will be watched closely. Adani Green plans significant battery storage expansion. Jaguar Land Rover faces a ref",
-    "image": "https://img.etimg.com/photo/msid-130620700,imgsize-605584.cms",
+    "title": "After April's 8% gains, Nifty bulls look to ride May's positive seasonality on DII support",
+    "summary": "Indian stock markets are poised for a positive May, following an 8% gain in April, with historical data showing a bullish trend for the month. Domestic institutional investors (DIIs) have consistently provided support, often counterbalancing volatile",
+    "image": "https://img.etimg.com/photo/msid-130623912,imgsize-2463006.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 06:34:19 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hul-bajaj-finance-adani-power-adani-enterprises-vedanta-tata-motors-pv/articleshow/130620700.cms"
+    "pubDate": "Thu, 30 Apr 2026 10:43:46 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/after-aprils-8-gains-nifty-bulls-look-to-ride-mays-positive-seasonality-on-dii-support/articleshow/130623912.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/two-wheelers-defence-bajaj-finance-narendra-solankis-top-calls-as-q4-results-roll-in/articleshow/130623758.cms",
+    "category": "finance",
+    "title": "Two-wheelers, defence, Bajaj Finance: Narendra Solanki's top calls as Q4 results roll in",
+    "summary": "Narendra Solanki of Anand Rathi Shares &amp; Stock Brokers guides investors on current market trends. He highlights durable companies in autos, banks, defence, and NBFCs. Solanki suggests focusing on two-wheelers and commercial vehicles in autos. He ",
+    "image": "https://img.etimg.com/photo/msid-130623758,imgsize-6684.cms",
+    "source": "ET",
+    "pubDate": "Thu, 30 Apr 2026 10:37:57 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/two-wheelers-defence-bajaj-finance-narendra-solankis-top-calls-as-q4-results-roll-in/articleshow/130623758.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/vedantas-65-share-price-crash-an-illusion-the-stock-is-down-just-5-heres-why/articleshow/130623628.cms",
+    "category": "finance",
+    "title": "Vedanta's 65% share price crash an illusion, the stock is down just 5%. Here's why",
+    "summary": "Vedanta shares adjusted significantly post-demerger, appearing to crash but actually declining 5% as four entities (Aluminium, Power, Oil &amp; Gas, Steel) were separated. This restructuring aims to unlock shareholder value by allowing independent bu",
+    "image": "https://img.etimg.com/photo/msid-130623628,imgsize-17422.cms",
+    "source": "ET",
+    "pubDate": "Thu, 30 Apr 2026 10:36:22 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedantas-65-share-price-crash-an-illusion-the-stock-is-down-just-5-heres-why/articleshow/130623628.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-76k-falls-for-second-day-after-us-fed-slips-below-21-day-average/articleshow/130623331.cms",
+    "category": "finance",
+    "title": "Bitcoin trades near $76K, falls for second day after US Fed, slips below 21-day average",
+    "summary": "Bitcoin and Ethereum experienced declines following the US Federal Reserve's decision to hold interest rates steady.  Despite market expectations, both cryptocurrencies faced pressure, with Bitcoin dipping below a key support level.  The broader cryp",
+    "image": "https://img.etimg.com/photo/msid-130623331,imgsize-61520.cms",
+    "source": "ET",
+    "pubDate": "Thu, 30 Apr 2026 10:25:16 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-76k-falls-for-second-day-after-us-fed-slips-below-21-day-average/articleshow/130623331.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-30-april-2026-silver-rises-rs-2700-gold-near-rs-1-50-lakh-as-us-fed-holds-rate-iran-war-uncertainty-caps-gains-what-should-you-do/articleshow/130623181.cms",
+    "category": "finance",
+    "title": "Silver rises Rs 2,700, gold near Rs 1.50 lakh as US Fed holds rate; Iran war uncertainty caps gains. What should you do?",
+    "summary": "Gold and silver prices edged higher on Thursday, recovering from oversold levels but facing headwinds from persistent inflation concerns and elevated oil prices. The Federal Reserve's recent decision to hold interest rates, coupled with a divided vot",
+    "image": "https://img.etimg.com/photo/msid-130623181,imgsize-66322.cms",
+    "source": "ET",
+    "pubDate": "Thu, 30 Apr 2026 10:06:58 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-30-april-2026-silver-rises-rs-2700-gold-near-rs-1-50-lakh-as-us-fed-holds-rate-iran-war-uncertainty-caps-gains-what-should-you-do/articleshow/130623181.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-alert-are-bse-nse-open-or-closed-on-may-1/articleshow/130623178.cms",
+    "category": "finance",
+    "title": "Stock market holiday alert: Are BSE, NSE open or closed on May 1?",
+    "summary": "NSE holidays 2026: Indian stock markets will observe a shortened trading week, with both NSE and BSE closed on Friday, May 1, for Maharashtra Day. A total of 16 holidays are scheduled for 2026, with 8 more closures to follow after this week. MCX will",
+    "image": "https://img.etimg.com/photo/msid-130623178,imgsize-101102.cms",
+    "source": "ET",
+    "pubDate": "Thu, 30 Apr 2026 10:05:32 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-alert-are-bse-nse-open-or-closed-on-may-1/articleshow/130623178.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/volatile-market-you-would-have-made-up-to-400-return-in-these-12-penny-stocks-in-just-6-months/articleshow/130623214.cms",
+    "category": "finance",
+    "title": "Volatile market? You would have made up to 400% return in these 12 penny stocks in just 6 months",
+    "summary": "Despite a struggling broader market, several penny stocks delivered exceptional returns, with some surging over 400% in just six months. These low-priced stocks significantly outperformed benchmark indices, driven by speculative interest and a shift ",
+    "image": "https://img.etimg.com/photo/msid-130623214,imgsize-35424.cms",
+    "source": "ET",
+    "pubDate": "Thu, 30 Apr 2026 10:05:23 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/volatile-market-you-would-have-made-up-to-400-return-in-these-12-penny-stocks-in-just-6-months/articleshow/130623214.cms"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534572.html",
+    "category": "sports",
+    "title": "Pollard: MI haven't been able to 'string a complete game of cricket together'",
+    "summary": "\"I think there's this tendency for him to want to take the new ball and just rolling that out,\" Mitchell McClenaghan says about Hardik Pandya the bowler",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416300/416376.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 30 Apr 2026 05:35:07 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534572.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cdxplq92rx1o#0",
+    "category": "global",
+    "title": "'We will kill you and burn your house': Council staff under attack from High Street gangs",
+    "summary": "Dozens of Trading Standards officers describe intimidation from criminals running mini-marts and vape shops.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 30 Apr 2026 05:00:04 GMT",
+    "link": "https://www.bbc.com/news/articles/cdxplq92rx1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx21m88rd14o#0",
+    "category": "global",
+    "title": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
+    "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 30 Apr 2026 04:06:01 GMT",
+    "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1534560.html",
     "category": "sports",
-    "title": "Abhishek and Klaasen back leading IPL 2026 Orange Cap table",
+    "title": "Malinga grabs Purple Cap; Abhishek, Klaasen lead Orange Cap table",
     "summary": "Eshan Malinga is at the top of the IPL 2026 Purple Cap table now - here are the latest updates",
     "image": "http://p.imgci.com/db/PICTURES/CMS/416300/416355.jpg",
     "source": "Cricinfo",
-    "pubDate": "Thu, 30 Apr 2026 01:53:50 GMT",
+    "pubDate": "Thu, 30 Apr 2026 03:54:37 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1534560.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cqxpr404053o#0",
+    "category": "global",
+    "title": "Have the royals got their mojo back from US visit?",
+    "summary": "Many commentators, even critics of the monarchy, seem delighted at the spectacle.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 30 Apr 2026 03:48:53 GMT",
+    "link": "https://www.bbc.com/news/articles/cqxpr404053o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534557.html",
+    "category": "sports",
+    "title": "Queensland join NSW in rejecting BBL privatisation, CA considers alternatives",
+    "summary": "CA chief executive Todd Greenberg says CA will look at alternative models and explained \"it's difficult\" with no consensus among the six states",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/374500/374571.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 30 Apr 2026 03:12:34 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534557.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534564.html",
+    "category": "sports",
+    "title": "IPL is 'big business' and fair contests are not good for it, says Muralidaran",
+    "summary": "\"If we give fair wickets, the spectators will say it's become boring because the T20 followers want entertainment, so they want to see the fours and sixes,\" Muthiah Muralidaran says",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416300/416373.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 30 Apr 2026 03:05:52 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534564.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/videos/c5y9wdprpyyo#0",
@@ -288,36 +318,6 @@
     "source": "BBC",
     "pubDate": "Thu, 30 Apr 2026 01:46:52 GMT",
     "link": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534557.html",
-    "category": "sports",
-    "title": "Queensland joins NSW in rejecting CA's BBL privatisation plan",
-    "summary": "It leaves CA with only four states, who control five BBL clubs, in favour of moving to the next phase of privatisation",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/374500/374571.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 30 Apr 2026 01:30:57 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534557.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cdjpw0n889yo#0",
-    "category": "global",
-    "title": "Inquiry into Bondi shooting says gun reform should be prioritised",
-    "summary": "An interim report also says policing arrangements for Jewish holidays should be extended to other 'high-risk' events.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 30 Apr 2026 01:26:28 GMT",
-    "link": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/clypz81pg9go#0",
-    "category": "global",
-    "title": "Police declare terrorist incident after two Jewish men stabbed in London",
-    "summary": "A 45-year-old man has been arrested on suspicion of attempted murder, the Met Police says.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 30 Apr 2026 00:29:54 GMT",
-    "link": "https://www.bbc.com/news/articles/clypz81pg9go?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/clyplwvgxjvo#0",
