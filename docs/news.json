@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.bbc.com/news/videos/c332v47mmd2o#0",
-    "category": "global",
-    "title": "Watch: Met Police body-worn footage of Golders Green arrest",
-    "summary": "Footage shows the moment a man was arrested after two Jewish men were stabbed in north London.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 29 Apr 2026 21:53:51 GMT",
-    "link": "https://www.bbc.com/news/videos/c332v47mmd2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -30,184 +20,274 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-eli-lilly-raises-annual-forecasts-as-glp-1-drugs-fuel-growth/articleshow/130632588.cms",
-    "category": "finance",
-    "title": "US Stocks: Eli Lilly raises annual forecasts as GLP-1 drugs fuel growth",
-    "summary": "Eli \u200bLilly raised its annual profit and \u200brevenue forecasts and posted better-than-expected first quarter on Thursday, on steady demand \u200bfor its weight-loss and diabetes drugs Zepbound and Mounjaro, in its first results since launching oral GLP-1 pill",
-    "image": "https://img.etimg.com/photo/msid-130632588,imgsize-122736.cms",
-    "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 17:17:17 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-eli-lilly-raises-annual-forecasts-as-glp-1-drugs-fuel-growth/articleshow/130632588.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/prediction-markets-say-theyre-different-from-sportsbooks-gambling-addicts-say-its-all-the-same/articleshow/130632489.cms",
-    "category": "finance",
-    "title": "Prediction markets say they're different from sportsbooks. Gambling addicts say it's all the same",
-    "summary": "The soccer coach had blocked himself from sportsbooks by the time he found prediction markets.",
-    "image": "https://img.etimg.com/photo/msid-130632489,imgsize-74090.cms",
-    "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 17:15:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/prediction-markets-say-theyre-different-from-sportsbooks-gambling-addicts-say-its-all-the-same/articleshow/130632489.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-england-holds-rates-and-spells-out-inflation-risks-from-iran-war/articleshow/130632337.cms",
-    "category": "finance",
-    "title": "Bank of England holds rates and spells out inflation risks from Iran war",
-    "summary": "The Bank of England kept interest rates on hold on Thursday and set out scenarios for \u200bthe economic impact of the Iran war, one of which \u200bcould require a \"forceful\" increase in borrowing costs.",
-    "image": "https://img.etimg.com/photo/msid-130632337,imgsize-134770.cms",
-    "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 17:11:07 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-england-holds-rates-and-spells-out-inflation-risks-from-iran-war/articleshow/130632337.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/watch-out-promoters-cut-stakes-in-13-midcap-stocks-in-march-2026-quarter/slideshow/130632039.cms",
-    "category": "finance",
-    "title": "Watch Out: Promoters cut stakes in 13 midcap stocks in March 2026 quarter",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-130631970,imgsize-35834.cms",
-    "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 16:53:39 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/watch-out-promoters-cut-stakes-in-13-midcap-stocks-in-march-2026-quarter/slideshow/130632039.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/new-chapter-in-hormuz-amid-us-shameful-failure-mojtabas-dig-at-trump-11430792#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/4-dead-as-cruise-boat-with-31-on-board-sinks-in-madhya-pradeshs-jabalpur-11431977#publisher=newsstand",
     "category": "india",
-    "title": "\"New Chapter In Hormuz Amid US' Shameful Failure\": Mojtaba's Dig At Trump",
-    "summary": "\"New Chapter In Hormuz Amid US' Shameful Failure\": Mojtaba's Dig At Trump",
-    "image": "https://c.ndtvimg.com/2026-04/tou6a0n_mojtaba-khamenei_625x300_22_April_26.jpg",
+    "title": "4 Dead, Many Missing As Cruise Boat With 31 On Board Sinks In Madhya Pradesh",
+    "summary": "Further details are awaited.",
+    "image": "https://c.ndtvimg.com/2026-04/or2nkn8g_ship-capsizes-_625x300_30_April_26.jpg",
     "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 16:38:11 +0530",
-    "link": "https://www.ndtv.com/world-news/new-chapter-in-hormuz-amid-us-shameful-failure-mojtabas-dig-at-trump-11430792#publisher=newsstand"
+    "pubDate": "Thu, 30 Apr 2026 20:32:23 +0530",
+    "link": "https://www.ndtv.com/india-news/4-dead-as-cruise-boat-with-31-on-board-sinks-in-madhya-pradeshs-jabalpur-11431977#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-hul-waaree-energies-among-6-big-movers-on-thursday/slideshow/130631623.cms",
+    "id": "https://www.ndtv.com/world-news/from-taco-to-nacho-hormuz-crisis-earns-donald-trump-new-unfortunate-nickname-11432248#publisher=newsstand",
+    "category": "india",
+    "title": "From TACO To NACHO: Hormuz Crisis Earns Trump New, Unfortunate, Nickname",
+    "summary": "The nickname was coined by Bloomberg columnist Javier Blas",
+    "image": "https://c.ndtvimg.com/2026-04/nke2d4j4_donald-trump_625x300_19_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 20:28:06 +0530",
+    "link": "https://www.ndtv.com/world-news/from-taco-to-nacho-hormuz-crisis-earns-donald-trump-new-unfortunate-nickname-11432248#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/17-killed-as-jeep-plunges-into-700-metre-deep-gorge-in-nepal-11431748#publisher=newsstand",
+    "category": "india",
+    "title": "17 Killed As Jeep Plunges Into 700 Metre Deep Gorge In Nepal",
+    "summary": "Rescue operations are hampered by heavy rain in the area, police said.",
+    "image": "https://c.ndtvimg.com/2025-05/cg62aus8_road-accident-generic_625x300_05_May_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 20:26:22 +0530",
+    "link": "https://www.ndtv.com/world-news/17-killed-as-jeep-plunges-into-700-metre-deep-gorge-in-nepal-11431748#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/health/eating-too-many-dry-fruits-can-have-side-effects-too-what-is-the-ideal-intake-11432197#publisher=newsstand",
+    "category": "india",
+    "title": "Eating Too Many Dry Fruits Can Have Side Effects Too; What Is The Ideal Intake",
+    "summary": "Dry fruits pack a lot of calories in small portions",
+    "image": "https://c.ndtvimg.com/2026-03/1lus2ims_dry-fruits_625x300_17_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 20:15:57 +0530",
+    "link": "https://www.ndtv.com/health/eating-too-many-dry-fruits-can-have-side-effects-too-what-is-the-ideal-intake-11432197#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/tbse-madhyamik-result-2026-when-will-tripura-board-10th-and-12th-results-be-announced-11432176#publisher=newsstand",
+    "category": "india",
+    "title": "TBSE Madhyamik Result 2026: When Will Tripura Board 10th And 12th Results Be Announced?",
+    "summary": "How To Check Tripura Madhyamik Exam Results Online",
+    "image": "https://c.ndtvimg.com/2025-04/uapuuqs_tripura-board-of-secondary-education_625x300_30_April_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 20:10:30 +0530",
+    "link": "https://www.ndtv.com/education/tbse-madhyamik-result-2026-when-will-tripura-board-10th-and-12th-results-be-announced-11432176#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/meet-huayan-a-chinese-buddhist-monk-who-loves-playing-counter-strike-11432172#publisher=newsstand",
+    "category": "india",
+    "title": "Meet Huayan, A Buddhist Monk Who Loves Playing Counter-Strike",
+    "summary": "Venerable Huayan balances Buddhist practice with gaming hobby.",
+    "image": "https://c.ndtvimg.com/2026-04/e3ffad04_as_625x300_30_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Apr 2026 20:10:18 +0530",
+    "link": "https://www.ndtv.com/offbeat/meet-huayan-a-chinese-buddhist-monk-who-loves-playing-counter-strike-11432172#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/kevin-warsh-wanted-a-family-fight-at-the-fed-oil-has-provided-the-spark-/articleshow/130637374.cms",
     "category": "finance",
-    "title": "Gainers &amp; Losers: HUL, Waaree Energies among 6 big movers on Thursday",
-    "summary": "Indian markets ended sharply lower, dragged by FMCG, banking and auto stocks. Select stocks saw steep moves as earnings triggered declines in some even as Syngene and Newgen gained.",
-    "image": "https://img.etimg.com/photo/msid-130631623,imgsize-54288.cms",
+    "title": "Kevin Warsh wanted a family fight at the Fed. Oil has provided the spark",
+    "summary": "New Fed Chair Kevin Warsh inherits a divided Federal Reserve.  Four voters dissented on the latest policy, the largest split since 1992.  Rising oil prices and inflation create a complex economic landscape.  Warsh aims for more open debate at the Fed",
+    "image": "https://img.etimg.com/photo/msid-130637374,imgsize-97308.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 16:36:54 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-hul-waaree-energies-among-6-big-movers-on-thursday/slideshow/130631623.cms"
+    "pubDate": "Thu, 30 Apr 2026 20:09:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/kevin-warsh-wanted-a-family-fight-at-the-fed-oil-has-provided-the-spark-/articleshow/130637374.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/exit-poll-2026-live-axis-myindia-todays-chanakya-exit-poll-predictions-todays-chanakya-numbers-for-bengal-tamil-nadu-assam-11430410#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/tamil-nadu-exit-poll-live-updates-mk-stalin-dmk-vijay-aiadmk-tvk-2nd-term-for-dmk-in-tamil-nadu-tvk-to-do-better-than-aiadmk-todays-chanakya-exit-poll-11431384#publisher=newsstand",
     "category": "india",
-    "title": "Exit Poll Live Updates: Today's Chanakya Numbers For Bengal, Tamil Nadu, Assam",
-    "summary": "West Bengal\u00a0Exit Poll\u00a0Projections 2026\u00a0Today's Chanakya vs Axis Predictions Today LIVE",
-    "image": "https://c.ndtvimg.com/2026-04/2a6ju18g_mamata-banerjee-pm-modi-mk-stalin-vijay-_625x300_30_April_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "2nd Term For DMK In Tamil Nadu, TVK To Do Better Than AIADMK: Today's Chanakya Exit Poll",
+    "summary": "The pollster had predicted the TVK could win 63 seats, with the same error margin.",
+    "image": "https://c.ndtvimg.com/2026-01/9dd4kes_vijay-dmk_625x300_13_January_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 16:34:52 +0530",
-    "link": "https://www.ndtv.com/india-news/exit-poll-2026-live-axis-myindia-todays-chanakya-exit-poll-predictions-todays-chanakya-numbers-for-bengal-tamil-nadu-assam-11430410#publisher=newsstand"
+    "pubDate": "Thu, 30 Apr 2026 20:02:01 +0530",
+    "link": "https://www.ndtv.com/india-news/tamil-nadu-exit-poll-live-updates-mk-stalin-dmk-vijay-aiadmk-tvk-2nd-term-for-dmk-in-tamil-nadu-tvk-to-do-better-than-aiadmk-todays-chanakya-exit-poll-11431384#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/rain-hail-bring-relief-from-heat-to-delhi-ncr-11430636#publisher=newsstand",
-    "category": "india",
-    "title": "Rain, Hail Bring Relief From Heat To Delhi-NCR",
-    "summary": "Delhi recorded a minimum temperature of 25.4 degrees Celsius on Thursday.",
-    "image": "https://c.ndtvimg.com/2021-08/f9oo0u9g_delhi-rain-ndtv_625x300_01_August_21.jpg",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 16:31:47 +0530",
-    "link": "https://www.ndtv.com/india-news/rain-hail-bring-relief-from-heat-to-delhi-ncr-11430636#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/mysore-sandal-soap-clocks-rs-2-016-crore-turnover-after-tamannaah-bhatia-row-11430864#publisher=newsstand",
-    "category": "india",
-    "title": "Mysore Sandal Soap Clocks Rs 2,016-Crore Turnover After Tamannaah Bhatia Row",
-    "summary": "The organisation also contributed Rs 150 crore in dividends to the state exchequer this year.",
-    "image": "https://c.ndtvimg.com/2026-02/vute0fmo_it-used-100-percent-pure-sandalwood-oil_625x300_10_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 16:31:38 +0530",
-    "link": "https://www.ndtv.com/india-news/mysore-sandal-soap-clocks-rs-2-016-crore-turnover-after-tamannaah-bhatia-row-11430864#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/jpmorgan-executive-lorna-hajdini-sexually-abused-brown-boy-indian-threatened-his-career-11430816#publisher=newsstand",
-    "category": "india",
-    "title": "JPMorgan Executive Lorna Hajdini Sexually Abused 'Brown Boy Indian', Threatened His Career",
-    "summary": "JPMorgan executive accused of abusing junior colleague with threats and drug use.",
-    "image": "https://c.ndtvimg.com/2026-04/kbntb3m_as_625x300_30_April_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 16:30:51 +0530",
-    "link": "https://www.ndtv.com/world-news/jpmorgan-executive-lorna-hajdini-sexually-abused-brown-boy-indian-threatened-his-career-11430816#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/big-relief-for-karisma-kapoors-children-in-sunjay-kapur-property-row-11430346#publisher=newsstand",
-    "category": "india",
-    "title": "In Sunjay Kapur 30,000-Crore Estate Row, Relief For Karisma Kapoor's Children",
-    "summary": "The Kapur/Kapoor family (File)",
-    "image": "https://c.ndtvimg.com/2025-11/u63hi2ts_sunjay-_625x300_20_November_25.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 16:24:50 +0530",
-    "link": "https://www.ndtv.com/india-news/big-relief-for-karisma-kapoors-children-in-sunjay-kapur-property-row-11430346#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/pm-narendra-modi-to-unveil-projects-worth-rs-8-000-crore-in-telangana-on-may-10-11430805#publisher=newsstand",
-    "category": "india",
-    "title": "PM Modi To Unveil Projects Worth Rs 8,000 Crore In Telangana On May 10",
-    "summary": "The visit comes at a crucial time for the party in Telangana, with civic elections on the horizon.",
-    "image": "https://c.ndtvimg.com/2026-04/obgk8114_pm-modi_625x300_26_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 16:22:20 +0530",
-    "link": "https://www.ndtv.com/india-news/pm-narendra-modi-to-unveil-projects-worth-rs-8-000-crore-in-telangana-on-may-10-11430805#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-slide-to-record-low-puts-indian-central-bank-back-on-the-defensive/articleshow/130631089.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-among-4-stocks-that-hit-52-week-highs-rallied-up-to-40-in-a-month/articleshow/130636366.cms",
     "category": "finance",
-    "title": "Rupee's slide to record low puts Indian central bank back on the defensive",
-    "summary": "The Indian rupee fell to a record low on Thursday, as \u200binvestors fretted over the economic risks \u200bconfronting India from a resurgence in crude oil prices to 2022 highs, \u200bthreatening the inflation-economic growth balance for the net energy importer an",
-    "image": "https://img.etimg.com/photo/msid-130631089,imgsize-65172.cms",
+    "title": "Adani Ports among 4 stocks that hit 52-week highs &amp; rallied up to 40% in a month",
+    "summary": "The Indian stock market saw a dip on Thursday with the Sensex falling. However, this did not stop four stocks from the BSE 200 index from reaching their highest levels in a year. These companies, including Lloyds Metals &amp; Energy and Hitachi Energ",
+    "image": "https://img.etimg.com/photo/msid-130636366,imgsize-65854.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 16:16:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-slide-to-record-low-puts-indian-central-bank-back-on-the-defensive/articleshow/130631089.cms"
+    "pubDate": "Thu, 30 Apr 2026 20:00:09 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-among-4-stocks-that-hit-52-week-highs-rallied-up-to-40-in-a-month/articleshow/130636366.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/brookfields-altius-is-said-to-plan-630-million-india-ipo/articleshow/130631033.cms",
-    "category": "finance",
-    "title": "Brookfield\u2019s Altius is said to plan $630 million India IPO",
-    "summary": "Brookfield Asset Management is gearing up for a significant Initial Public Offering for Altius Telecom Infrastructure Trust. The company plans to file draft papers soon, aiming to raise up to $630 million. Altius, India's largest telecom tower operat",
-    "image": "https://img.etimg.com/photo/msid-130631033,imgsize-58932.cms",
-    "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 16:13:32 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/brookfields-altius-is-said-to-plan-630-million-india-ipo/articleshow/130631033.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/education/ready-to-study-abroad-follow-this-step-by-step-application-roadmap-11430761#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/india-too-modest-about-contributions-uk-science-museum-chief-ian-blatchford-to-ndtv-11431885#publisher=newsstand",
     "category": "india",
-    "title": "Ready To Study Abroad? Follow This Step-By-Step Application Roadmap",
-    "summary": "Step By Step Guide To Studying Abroad After Class 12",
-    "image": "https://c.ndtvimg.com/2026-04/8mjqoeh_study-abroad-_625x300_30_April_26.jpeg",
+    "title": "India Too Modest About Contributions: Science Museum Group Chief Ian Blatchford To NDTV",
+    "summary": "Blatchford described PM Modi's announcement of net-zero commitment at COP26 as a defining moment.",
+    "image": "https://c.ndtvimg.com/2026-04/t5uf819s_ian-science-museum_625x300_30_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 30 Apr 2026 16:11:49 +0530",
-    "link": "https://www.ndtv.com/education/ready-to-study-abroad-follow-this-step-by-step-application-roadmap-11430761#publisher=newsstand"
+    "pubDate": "Thu, 30 Apr 2026 19:47:51 +0530",
+    "link": "https://www.ndtv.com/india-news/india-too-modest-about-contributions-uk-science-museum-chief-ian-blatchford-to-ndtv-11431885#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/why-market-fell-today-sensex-slumps-583-pts-nifty-below-24000-7-key-triggers/articleshow/130630192.cms",
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/hindustan-labs-rk-steel-get-sebi-nod-to-launch-ipos/articleshow/130636165.cms",
     "category": "finance",
-    "title": "Why market fell today? Sensex slumps 583 pts, Nifty below 24,000; 7 key triggers",
-    "summary": "Indian stock markets experienced a significant downturn on Thursday, with Sensex and Nifty both falling over 0.7%. This decline was driven by soaring oil prices, a record low for the rupee, and other factors that negatively impacted investor sentimen",
-    "image": "https://img.etimg.com/photo/msid-130630192,imgsize-111036.cms",
+    "title": "Hindustan Labs, RK Steel get Sebi nod to launch IPOs",
+    "summary": "Hindustan Laboratories has received Sebi's observations, a crucial step towards its IPO, which includes a fresh issue and an offer for sale. The company plans to use the proceeds for working capital and general corporate needs.  RK Steel Manufacturin",
+    "image": "https://img.etimg.com/photo/msid-130636165,imgsize-43320.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Apr 2026 16:03:37 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-market-fell-today-sensex-slumps-583-pts-nifty-below-24000-7-key-triggers/articleshow/130630192.cms"
+    "pubDate": "Thu, 30 Apr 2026 19:39:03 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/hindustan-labs-rk-steel-get-sebi-nod-to-launch-ipos/articleshow/130636165.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c4g59z32e26o#0",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/equitas-small-finance-bank-q4-profit-soars-5-fold-on-expansion-asset-quality/articleshow/130635935.cms",
+    "category": "finance",
+    "title": "Equitas Small Finance Bank Q4 profit soars 5-fold on expansion, asset quality",
+    "summary": "Equitas Small Finance Bank's net profit surged five times to Rs 213 crore in the fourth quarter. This growth was fueled by expanded business and better asset quality. Provisions also decreased significantly. The bank saw its net interest margin impro",
+    "image": "https://img.etimg.com/photo/msid-130635935,imgsize-83772.cms",
+    "source": "ET",
+    "pubDate": "Thu, 30 Apr 2026 19:22:26 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/equitas-small-finance-bank-q4-profit-soars-5-fold-on-expansion-asset-quality/articleshow/130635935.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/aster-dm-healthcare-q4-revenue-jumps-18-yoy-to-rs-1182-crore/articleshow/130635726.cms",
+    "category": "finance",
+    "title": "Aster DM Healthcare Q4 revenue jumps 18% YoY to Rs 1,182 crore",
+    "summary": "Aster DM Healthcare reported an 18% year-on-year revenue increase in Q4 to Rs 1,182 crore, with operating EBITDA up 31%. The company is on track to complete its merger with Quality Care India Ltd in Q1 FY27, creating a combined entity with over 10,60",
+    "image": "https://img.etimg.com/photo/msid-130635726,imgsize-39578.cms",
+    "source": "ET",
+    "pubDate": "Thu, 30 Apr 2026 19:12:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/aster-dm-healthcare-q4-revenue-jumps-18-yoy-to-rs-1182-crore/articleshow/130635726.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-open-higher-as-earnings-optimism-overshadows-middle-east-woes/articleshow/130635507.cms",
+    "category": "finance",
+    "title": "US stocks today-S&amp;P 500, Nasdaq on course for best month since 2020 despite Middle East risks",
+    "summary": "The S&amp;P 500 and Nasdaq are set for significant April gains, driven by resilient corporate earnings that are overshadowing oil market supply shocks and geopolitical turmoil. Investors are betting on continued earnings strength, but face risks if r",
+    "image": "https://img.etimg.com/photo/msid-130635507,imgsize-80406.cms",
+    "source": "ET",
+    "pubDate": "Thu, 30 Apr 2026 19:03:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-open-higher-as-earnings-optimism-overshadows-middle-east-woes/articleshow/130635507.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/value-360-communications-ipo-rs-41-7-crore-issue-opens-may-4-check-price-band-gmp-other-details/articleshow/130635043.cms",
+    "category": "finance",
+    "title": "Value 360 Communications IPO: Rs 41.7 crore issue opens May 4. Check price band, GMP, other details",
+    "summary": "Value 360 Communications Limited's IPO opens May 4th, aiming to raise Rs 41.69 crore by May 6th. The public relations firm plans to list on NSE Emerge, using funds for expansion, technology, influencer marketing investment, and potential acquisitions",
+    "image": "https://img.etimg.com/photo/msid-130635043,imgsize-43320.cms",
+    "source": "ET",
+    "pubDate": "Thu, 30 Apr 2026 18:44:45 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/value-360-communications-ipo-rs-41-7-crore-issue-opens-may-4-check-price-band-gmp-other-details/articleshow/130635043.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/aif-pms/sebi-introduces-fast-track-route-for-aif-launches-to-boost-capital-deployment/articleshow/130634785.cms",
+    "category": "finance",
+    "title": "Sebi introduces fast-track route for AIF launches to boost capital deployment",
+    "summary": "Sebi has introduced a fast-track mechanism for Alternative Investment Funds (AIFs), allowing non-LVF schemes to launch in just 30 days after application. This streamlines fund launches and accelerates capital deployment. Earlier, Sebi also simplified",
+    "image": "https://img.etimg.com/photo/msid-130634785,imgsize-57810.cms",
+    "source": "ET",
+    "pubDate": "Thu, 30 Apr 2026 18:31:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/aif-pms/sebi-introduces-fast-track-route-for-aif-launches-to-boost-capital-deployment/articleshow/130634785.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cg7p89mp2rjo#0",
     "category": "global",
-    "title": "'Olivia's Law' gets final approval, forcing criminals to be present for sentencing hearings",
-    "summary": "The legislation will force criminals to come up from their court cell and attend sentencing hearings.",
+    "title": "Interest rates held at 3.75% as Bank of England hints at future rises over Iran war",
+    "summary": "The Bank of England voted to hold interest rates at 3.75% as it monitors the knock-on effects of the Middle East conflict.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 30 Apr 2026 12:11:36 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g59z32e26o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 30 Apr 2026 15:02:26 GMT",
+    "link": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cm2pyxpwmdro#0",
+    "category": "global",
+    "title": "Trainee driver crashes bus into River Seine in Paris",
+    "summary": "The driver hit a parked car and veered off the road into the river - about 12 miles south of Paris - early on Thursday.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 30 Apr 2026 14:54:47 GMT",
+    "link": "https://www.bbc.com/news/articles/cm2pyxpwmdro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534607.html",
+    "category": "sports",
+    "title": "Starc boost for DC ahead of crucial clash with RR",
+    "summary": "DC are on a three-match losing streak, while RR beat Punjab Kings in their previous match",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/398800/398817.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 30 Apr 2026 14:41:57 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534607.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx21m88rd14o#0",
+    "category": "global",
+    "title": "Oil price jumps after report Trump to be given new Iran options",
+    "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 30 Apr 2026 14:29:13 GMT",
+    "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c5y9wlnwl85o#0",
+    "category": "global",
+    "title": "Banksy confirms he's behind statue in central London",
+    "summary": "The sculpture in central London of a man walking off a plinth while holding a flag has been drawing crowds.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 30 Apr 2026 14:26:07 GMT",
+    "link": "https://www.bbc.com/news/articles/c5y9wlnwl85o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534626.html",
+    "category": "sports",
+    "title": "GT opt to bowl at home, both teams unchanged",
+    "summary": "Phil Salt was not available so Jacob Bethell will continue to open with Kohli",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416100/416134.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 30 Apr 2026 14:10:54 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534626.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1534605.html",
     "category": "sports",
-    "title": "MCC backs umpire's decision to give Raghuvanshi out 'obstructing the field'",
-    "summary": "Raghuvanshi became just the fourth player in the IPL to be given out 'obstructing the field' in a KKR-LSG clash",
+    "title": "MCC backs third umpire's decision to give Raghuvanshi out 'obstructing the field'",
+    "summary": "A clarification issued by the MCC said it was the \"wilful crossing of the pitch that caused his downfall\"",
     "image": "http://p.imgci.com/db/PICTURES/CMS/416200/416257.jpg",
     "source": "Cricinfo",
-    "pubDate": "Thu, 30 Apr 2026 12:06:45 GMT",
+    "pubDate": "Thu, 30 Apr 2026 13:39:48 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1534605.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/sport/golf/articles/cp3p9we4v0yo#0",
+    "category": "global",
+    "title": "Saudi Arabia to stop funding LIV Golf next season",
+    "summary": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf at the end of the season, plunging the future of the series into doubt.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 30 Apr 2026 13:38:45 GMT",
+    "link": "https://www.bbc.com/sport/golf/articles/cp3p9we4v0yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534611.html",
+    "category": "sports",
+    "title": "Samarawickrama, Dilhari help Sri Lanka clinch series",
+    "summary": "Bangladesh did not find meaningful contributions with the bat, which left them well short in the chase",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/397600/397615.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 30 Apr 2026 13:20:12 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534611.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/c62xgrlpw2no#0",
+    "category": "global",
+    "title": "Watch: Protesters jeer as Starmer visits first responders in Golders Green",
+    "summary": "A group shouted \"Keir Starmer, Jew harmer\" as his car entered a building where the prime minister met with emergency services.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 30 Apr 2026 12:49:50 GMT",
+    "link": "https://www.bbc.com/news/videos/c62xgrlpw2no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cy4145vexypo#0",
+    "category": "global",
+    "title": "Neo-Nazi guilty of terror charge after MI5 sting",
+    "summary": "Jurors at the Old Bailey hear Alfie Coleman, 21, believed in fighting a race war.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 30 Apr 2026 12:19:48 GMT",
+    "link": "https://www.bbc.com/news/articles/cy4145vexypo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1534583.html",
@@ -220,26 +300,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1534583.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cy4145vexypo#0",
-    "category": "global",
-    "title": "Neo-Nazi guilty of terror charge after MI5 sting",
-    "summary": "Jurors at the Old Bailey hear Alfie Coleman, 21, believed in fighting a race war.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 30 Apr 2026 11:55:37 GMT",
-    "link": "https://www.bbc.com/news/articles/cy4145vexypo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx21m88rd14o#0",
-    "category": "global",
-    "title": "Oil price jumps after report Trump to be given new Iran options",
-    "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 30 Apr 2026 10:50:19 GMT",
-    "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1534557.html",
     "category": "sports",
     "title": "Queensland join NSW in rejecting BBL privatisation, CA considers alternatives",
@@ -248,16 +308,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 30 Apr 2026 10:25:03 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1534557.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5y9wlnwl85o#0",
-    "category": "global",
-    "title": "Statue with Banksy's signature appears in London",
-    "summary": "A sculpture of a man marching off a plinth in St James's appears to bear the artist's name.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 30 Apr 2026 10:17:09 GMT",
-    "link": "https://www.bbc.com/news/articles/c5y9wlnwl85o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1534597.html",
@@ -280,64 +330,14 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1534595.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c4g4lk9m77vo#0",
+    "id": "https://www.bbc.com/news/articles/c5y7yvgy0w6o#0",
     "category": "global",
-    "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-    "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
+    "title": "Row over job losses after Meta smart glasses sex revelations",
+    "summary": "Meta and its subcontractor disagree over why over 1000 Kenya-based workers were made redundant.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 30 Apr 2026 09:07:47 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534564.html",
-    "category": "sports",
-    "title": "IPL is 'big business' and fair contests are not good for it, says Muralidaran",
-    "summary": "\"If we give fair wickets, the spectators will say it's become boring because the T20 followers want entertainment, so they want to see the fours and sixes,\" Muthiah Muralidaran says",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416300/416373.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 30 Apr 2026 08:11:24 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534564.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534578.html",
-    "category": "sports",
-    "title": "Klaasen continues to be 'Mr Consistent', while 'stronger base' lifts Head's game",
-    "summary": "Travis Head, with a 30-ball 76, and Heinrich Klaasen, with an unbeaten 30-ball 65, played big roles as Sunrisers Hyderabad chased down Mumbai Indians' 243 with eight balls in hand",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416300/416380.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 30 Apr 2026 07:43:43 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534578.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534574.html",
-    "category": "sports",
-    "title": "Century in a losing cause, but Rickelton's 'presence was important for MI'",
-    "summary": "Ryan Rickelton became the fifth batter in IPL 2026 to finish on the losing side despite scoring a century, against Sunrisers Hyderabad at Wankhede Stadium on Wednesday",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416300/416350.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 30 Apr 2026 06:35:04 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534574.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cdxplq92rx1o#0",
-    "category": "global",
-    "title": "'We will kill you and burn your house': Council staff under attack from High Street gangs",
-    "summary": "Dozens of Trading Standards officers describe intimidation from criminals running mini-marts and vape shops.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 30 Apr 2026 05:00:04 GMT",
-    "link": "https://www.bbc.com/news/articles/cdxplq92rx1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cqxpr404053o#0",
-    "category": "global",
-    "title": "Have the royals got their mojo back from US visit?",
-    "summary": "Many commentators, even critics of the monarchy, seem delighted at the spectacle.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 30 Apr 2026 03:48:53 GMT",
-    "link": "https://www.bbc.com/news/articles/cqxpr404053o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 30 Apr 2026 08:59:35 GMT",
+    "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
