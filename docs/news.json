@@ -30,6 +30,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/india-news/up-groom-shot-dead-on-way-to-wedding-cops-11437658#publisher=newsstand",
+    "category": "india",
+    "title": "UP Groom Shot Dead On Way To Wedding: Cops",
+    "summary": "The attackers fled the spot after the incident. (Representational)",
+    "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 02 May 2026 02:06:02 +0530",
+    "link": "https://www.ndtv.com/india-news/up-groom-shot-dead-on-way-to-wedding-cops-11437658#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-end-higher-notch-weekly-gains-after-earnings-heavy-week/articleshow/130695675.cms",
     "category": "finance",
     "title": "US stocks today: S&amp;P 500, Nasdaq end higher, notch weekly gains after earnings-heavy week",
@@ -108,16 +118,6 @@
     "source": "NDTV",
     "pubDate": "Sat, 02 May 2026 00:03:16 +0530",
     "link": "https://www.ndtv.com/world-news/why-would-i-tell-you-that-donald-trump-evades-reporters-question-on-iran-strikes-11437446#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/west-bengal-elections-repolling-at-15-booths-in-2-west-bengal-constituencies-tomorrow-11436092#publisher=newsstand",
-    "category": "india",
-    "title": "Repolling At 15 Booths In 2 West Bengal Constituencies Today",
-    "summary": "Voting in all 15 polling stations will start at 7 am and end at 6 pm.",
-    "image": "https://c.ndtvimg.com/2026-04/7sd2u26o_bengal-voting-_625x300_23_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 02 May 2026 00:02:15 +0530",
-    "link": "https://www.ndtv.com/india-news/west-bengal-elections-repolling-at-15-booths-in-2-west-bengal-constituencies-tomorrow-11436092#publisher=newsstand"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
@@ -200,6 +200,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-should-reject-tata-sons-application-to-deregister-as-a-cic-ingovern-research/articleshow/130682149.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c4g4xkw87p5o#0",
+    "category": "global",
+    "title": "Peter Kay show evacuated and man held as police investigate 'suspicious bag'",
+    "summary": "A 19-year-old man is in custody and the Birmingham site is being searched.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 01 May 2026 21:46:11 GMT",
+    "link": "https://www.bbc.com/news/articles/c4g4xkw87p5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/sell-in-may-and-go-away-not-so-fast-as-earnings-geopolitics-may-offset-seasonal-concerns/articleshow/130681996.cms",
     "category": "finance",
     "title": "Sell in May and go away? Not so fast, as earnings, geopolitics may offset seasonal concerns",
@@ -208,6 +218,36 @@
     "source": "ET",
     "pubDate": "Fri, 01 May 2026 21:39:01 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sell-in-may-and-go-away-not-so-fast-as-earnings-geopolitics-may-offset-seasonal-concerns/articleshow/130681996.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvgz08k04jeo#0",
+    "category": "global",
+    "title": "Boats, dancing and cake-cutting: Bermuda welcomes King Charles",
+    "summary": "Schoolchildren turn out to meet the monarch, with exotic birds and Bob Marley music all part of the welcome.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 01 May 2026 21:24:55 GMT",
+    "link": "https://www.bbc.com/news/articles/cvgz08k04jeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4g4xexy4w7o#0",
+    "category": "global",
+    "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+    "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 01 May 2026 21:05:43 GMT",
+    "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534762.html",
+    "category": "sports",
+    "title": "Gregory six-for, Thomas maiden hundred as Somerset take charge",
+    "summary": "Yorkshire lose 7 for 38 - including Joe Root and Jonny Bairstow - to find themselves up against it",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416400/416422.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 01 May 2026 20:58:45 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534762.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-today-roblox-shares-tumble-as-forecast-cut-signals-safety-measures-weighing-on-user-growth/articleshow/130680966.cms",
@@ -228,36 +268,6 @@
     "source": "ET",
     "pubDate": "Fri, 01 May 2026 20:27:28 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-today-reddit-rallies-as-aidriven-ad-growth-fuels-strong-revenue-outlook/articleshow/130680862.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvgz08k04jeo#0",
-    "category": "global",
-    "title": "King Charles visits Bermuda in first British overseas territory trip",
-    "summary": "Schoolchildren turn out to meet the monarch, with exotic birds and Bob Marley music all part of the welcome.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 01 May 2026 20:15:25 GMT",
-    "link": "https://www.bbc.com/news/articles/cvgz08k04jeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4g4xexy4w7o#0",
-    "category": "global",
-    "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-    "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 01 May 2026 20:07:30 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4g8zpylzz9o#0",
-    "category": "global",
-    "title": "Trump says he will hike tariffs on EU cars to 25%",
-    "summary": "The current level of tariffs charged on goods entering the US from the EU is 15%, under a deal negotiated last July.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 01 May 2026 19:42:56 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1534767.html",
@@ -308,16 +318,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 01 May 2026 18:27:34 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1534766.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534762.html",
-    "category": "sports",
-    "title": "Gregory six-for, Thomas maiden hundred as Somerset take charge",
-    "summary": "Yorkshire lose 7 for 38 - including Joe Root and Jonny Bairstow - to find themselves up against it",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416400/416422.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 01 May 2026 18:27:33 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534762.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1534770.html",
