@@ -30,6 +30,36 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/5-killed-after-small-plane-crashes-in-us-texas-11437827#publisher=newsstand",
+    "category": "india",
+    "title": "5 Killed After Small Plane Crashes In US' Texas",
+    "summary": "A small plane carrying pickleball players crashed among trees in Texas Hill Country, killing all five people aboard, authorities said Friday.",
+    "image": "https://i.ndtvimg.com/i/2018-03/police-generic-international-afp_650x400_41520126059.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 02 May 2026 04:49:51 +0530",
+    "link": "https://www.ndtv.com/world-news/5-killed-after-small-plane-crashes-in-us-texas-11437827#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-withdrawing-5-000-troops-from-germany-11437775#publisher=newsstand",
+    "category": "india",
+    "title": "US Withdrawing 5,000 Troops From Germany",
+    "summary": "The Pentagon said the withdrawal was expected to be completed over the next six to twelve months.",
+    "image": "https://c.ndtvimg.com/2026-05/m1vs177k_us-troops-in-germany_625x300_02_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 02 May 2026 03:44:44 +0530",
+    "link": "https://www.ndtv.com/world-news/us-withdrawing-5-000-troops-from-germany-11437775#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/donald-trump-tells-us-congress-hostilities-in-iran-have-terminated-11437760#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Tells US Congress Hostilities In Iran \"Have Terminated\"",
+    "summary": "President Donald Trump told top US lawmakers on Friday that hostilities in Iran had ended, after coming under pressure from Congress to seek authorization for the conflict as it headed into its third month.",
+    "image": "https://c.ndtvimg.com/2026-05/8fsq3k5_donald-trump_625x300_01_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sat, 02 May 2026 03:30:41 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trump-tells-us-congress-hostilities-in-iran-have-terminated-11437760#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/up-groom-shot-dead-on-way-to-wedding-cops-11437658#publisher=newsstand",
     "category": "india",
     "title": "UP Groom Shot Dead On Way To Wedding: Cops",
@@ -90,36 +120,6 @@
     "link": "https://www.ndtv.com/world-news/crude-refining-distribution-how-retail-price-of-gas-is-calculated-11437482#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/pope-leo-names-former-undocumented-migrant-as-us-bishop-11437468#publisher=newsstand",
-    "category": "india",
-    "title": "Pope Leo Names Former Undocumented Migrant As US Bishop",
-    "summary": "The Pope's decision comes weeks after a high-profile verbal confrontation with US President Donald Trump.",
-    "image": "https://c.ndtvimg.com/2025-11/88ke5opg_pope-leo_625x300_18_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 02 May 2026 00:11:31 +0530",
-    "link": "https://www.ndtv.com/world-news/pope-leo-names-former-undocumented-migrant-as-us-bishop-11437468#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/enforcement-directorate-awards-2-officers-who-were-part-of-i-pac-raids-11437424#publisher=newsstand",
-    "category": "india",
-    "title": "Enforcement Directorate Awards 2 Officers Who Were Part Of I-PAC Raids",
-    "summary": "The raid was carried out at the I-PAC office in Salt Lake in January.",
-    "image": "https://c.ndtvimg.com/2026-01/3b2lls88_ipac-office_625x300_08_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 02 May 2026 00:03:20 +0530",
-    "link": "https://www.ndtv.com/india-news/enforcement-directorate-awards-2-officers-who-were-part-of-i-pac-raids-11437424#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/why-would-i-tell-you-that-donald-trump-evades-reporters-question-on-iran-strikes-11437446#publisher=newsstand",
-    "category": "india",
-    "title": "\"Why Would I Tell You That?\" Trump Evades Reporter's Question On Iran Strikes",
-    "summary": "Iran has maintained its stranglehold on the Strait of Hormuz, cutting off vast amounts of oil",
-    "image": "https://c.ndtvimg.com/2026-05/8fsq3k5_donald-trump_625x300_01_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 02 May 2026 00:03:16 +0530",
-    "link": "https://www.ndtv.com/world-news/why-would-i-tell-you-that-donald-trump-evades-reporters-question-on-iran-strikes-11437446#publisher=newsstand"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -160,6 +160,16 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c4g4xkw87p5o#0",
+    "category": "global",
+    "title": "Peter Kay show evacuated and man held after police investigate 'suspicious bag'",
+    "summary": "A 19-year-old man is in custody and the Birmingham site has been searched.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 01 May 2026 23:41:38 GMT",
+    "link": "https://www.bbc.com/news/articles/c4g4xkw87p5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-q4-results-cons-pat-falls-69-yoy-to-rs-32-crore-revenue-down-45/articleshow/130684278.cms",
     "category": "finance",
     "title": "Zen Technologies Q4 results: Cons PAT falls 69% YoY to Rs 32 crore; revenue down 45%",
@@ -198,16 +208,6 @@
     "source": "ET",
     "pubDate": "Fri, 01 May 2026 22:07:53 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-today-spirit-airlines-prepares-to-cease-operations-after-bailout-plan-falls-apart-report/articleshow/130682489.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4g4xkw87p5o#0",
-    "category": "global",
-    "title": "Peter Kay show evacuated and man held after police investigate 'suspicious bag'",
-    "summary": "A 19-year-old man is in custody and the Birmingham site has been searched.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 01 May 2026 22:06:37 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g4xkw87p5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-should-reject-tata-sons-application-to-deregister-as-a-cic-ingovern-research/articleshow/130682149.cms",
