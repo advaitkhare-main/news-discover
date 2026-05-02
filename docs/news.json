@@ -30,6 +30,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/what-will-berkshire-do-with-380-billion-greg-abel-speaks-after-taking-over-warren-buffetts-biggest-cash-puzzle/articleshow/130720280.cms",
+    "category": "finance",
+    "title": "What will Berkshire do with $380 billion? Greg Abel speaks after taking over Warren Buffett's biggest cash puzzle",
+    "summary": "Berkshire Hathaway holds a huge Rs 31.8 lakh crore in cash. This is Greg Abel's first major test as CEO. Abel stated Berkshire's operating philosophy will not change. The company's cash reserves grew despite stronger first-quarter earnings. Berkshire",
+    "image": "https://img.etimg.com/photo/msid-130720280,imgsize-57226.cms",
+    "source": "ET",
+    "pubDate": "Sat, 02 May 2026 22:08:52 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/what-will-berkshire-do-with-380-billion-greg-abel-speaks-after-taking-over-warren-buffetts-biggest-cash-puzzle/articleshow/130720280.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/what-warren-buffett-said-at-berkshire-hathaways-first-annual-meeting-after-stepping-aside/articleshow/130719955.cms",
     "category": "finance",
     "title": "What Warren Buffett said at Berkshire Hathaway's first annual meeting after stepping aside",
@@ -130,6 +140,16 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/berkshire-hathaway-profit-rises-despite-consumer-stress-cash-sets-record/articleshow/130718623.cms"
   },
   {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534852.html",
+    "category": "sports",
+    "title": "Yastika, Nandani, Radha picked for Women's T20 World Cup",
+    "summary": "Amanjot Kaur is not available after she also missed the recent South Africa series with an injury",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/384500/384591.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 02 May 2026 17:28:00 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534852.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/dmart-q4-results-avenue-supermarts-cons-pat-jumps-19-to-rs-656-crore-revenue-too-rises-19/articleshow/130715883.cms",
     "category": "finance",
     "title": "DMart Q4 Results: Avenue Supermarts cons PAT jumps 19% to Rs 656 crore, revenue too rises 19%",
@@ -140,24 +160,84 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dmart-q4-results-avenue-supermarts-cons-pat-jumps-19-to-rs-656-crore-revenue-too-rises-19/articleshow/130715883.cms"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534904.html",
+    "id": "https://www.espncricinfo.com/ci/content/story/1534897.html",
     "category": "sports",
-    "title": "Charley Phillips stars with 5 for 49 as Blaze torch Durham",
-    "summary": "The 22-year old seamer took her maiden List A five-wicket haul after Kirstie Gordon's vital 60",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416400/416482.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 02 May 2026 16:19:00 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534904.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534876.html",
-    "category": "sports",
-    "title": "Jacobs' blazing 62* counters Shoriful three-for as NZ level series",
-    "summary": "Josh Clarkson's 3 for 9 restricted Bangladesh in rain-reduced match before Jacobs led the chase",
+    "title": "Kelly: Giving younger guys chances builds 'great depth'",
+    "summary": "New Zealand toured Bangladesh with several first-teamers away in the IPL or PSL",
     "image": "http://p.imgci.com/db/PICTURES/CMS/416400/416466.jpg",
     "source": "Cricinfo",
-    "pubDate": "Sat, 02 May 2026 16:16:54 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534876.html?ex_cid=OTC-RSS"
+    "pubDate": "Sat, 02 May 2026 17:22:59 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534897.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534884.html",
+    "category": "sports",
+    "title": "Ricardo Vasconcelos century puts Northants in front",
+    "summary": "He was well supported by Saif Zaib's 75",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/359800/359867.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 02 May 2026 17:22:33 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534884.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534883.html",
+    "category": "sports",
+    "title": "Reece battles for Derbyshire before Crawley fails again",
+    "summary": "Dudgeon claims four as Kent built on slender first-innings lead at Canterbury",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/398800/398851.png",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 02 May 2026 17:21:17 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534883.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534885.html",
+    "category": "sports",
+    "title": "Ryan Higgins posts elusive ton but Emilio Gay is in pursuit",
+    "summary": "Ben Raine also keeps Middlesex in check with five-wicket haul",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/378900/378960.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 02 May 2026 17:17:02 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534885.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534903.html",
+    "category": "sports",
+    "title": "Charis Pavely's second century in four days overpowers Somerset",
+    "summary": "The left-hander's 127, following 128* against The Blaze, set Warwickshire on course for victory",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/401300/401364.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 02 May 2026 17:12:53 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534903.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534880.html",
+    "category": "sports",
+    "title": "Saikia: BCCI to take action against IPL teams violating norms",
+    "summary": "The BCCI secretary said teams have to \"maintain some decorum so that the image of the IPL is never adversely affected\"",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/394600/394695.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 02 May 2026 16:50:43 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534880.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534905.html",
+    "category": "sports",
+    "title": "Lauren Winfield-Hill, Sterre Kalis fifties not enough as Essex win nailbiter",
+    "summary": "Cordelia Griffith half-century takes visitors to competitive total, Eva Gray's three wickets help seal victory",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/403900/403926.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 02 May 2026 16:45:52 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534905.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cd9pn541jjlo#0",
+    "category": "global",
+    "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
+    "summary": "German Defence Minister Boris Pistorius said the US decision to withdraw 5,000 troops was to be expected.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 02 May 2026 16:35:18 GMT",
+    "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cj3pmgpgneno#0",
@@ -168,26 +248,6 @@
     "source": "BBC",
     "pubDate": "Sat, 02 May 2026 16:11:05 GMT",
     "link": "https://www.bbc.com/news/articles/cj3pmgpgneno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534901.html",
-    "category": "sports",
-    "title": "Kate Cross sets up Lancashire victory",
-    "summary": "Seamer's three wickets help bowl Hampshire out for 153 before Emma Lamb, Eve Jones break back of run chase",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416400/416481.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 02 May 2026 16:10:52 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534901.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534886.html",
-    "category": "sports",
-    "title": "White blackens Somerset's mood before rain curtails play",
-    "summary": "Yorkshire stage spirited fightback to reduce hosts' advantage at Taunton",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415239.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 02 May 2026 16:10:51 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534886.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/cdsl-q4-results-cons-pat-declines-20-to-rs-80-crore-rs-12-75/share-dividend-declared/articleshow/130714239.cms",
@@ -210,16 +270,6 @@
     "link": "https://www.bbc.com/news/articles/cj9pn2v7m2wo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534853.html",
-    "category": "sports",
-    "title": "KKR's misfiring batters come up against explosive SRH",
-    "summary": "Both teams had similar starts to the season; while SRH have staged a resurgence, KKR have fallen behind",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415800/415874.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 02 May 2026 15:37:50 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534853.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/fii-outflows-not-driven-by-lack-of-ai-and-high-taxes-says-shankar-sharma-heres-why/articleshow/130714054.cms",
     "category": "finance",
     "title": "FII outflows not driven by lack of AI and high taxes, says Shankar Sharma. Here\u2019s why",
@@ -240,26 +290,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q4-results-pat-jumps-13-to-rs-4065-crore-nii-rises-8/articleshow/130713880.cms"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534869.html",
-    "category": "sports",
-    "title": "Nandani, Charani called up for England Test; Renuka, Bhatia back",
-    "summary": "Anushka and Deol to lead India A in T20s and One-dayers, respectively, against England A",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/335100/335192.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 02 May 2026 15:10:32 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534869.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534859.html",
-    "category": "sports",
-    "title": "GT and PBKS face off in a clash of opposing T20 philosophies",
-    "summary": "PBKS bat deep but have bowling concerns while GT are top-heavy with a well-rounded bowling line-up",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416300/416393.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 02 May 2026 15:06:11 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534859.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-stays-range-bound-as-volatility-rises-breakout-awaited/articleshow/130713529.cms",
     "category": "finance",
     "title": "Nifty stays range bound as volatility rises; breakout awaited",
@@ -268,26 +298,6 @@
     "source": "ET",
     "pubDate": "Sat, 02 May 2026 14:57:04 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-stays-range-bound-as-volatility-rises-breakout-awaited/articleshow/130713529.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-spending-boom-soars-but-no-returns-for-big-tech-giants-warns-jefferies-chris-wood/articleshow/130713359.cms",
-    "category": "finance",
-    "title": "AI spending boom soars but no returns for big tech giants, warns Jefferies\u2019 Chris Wood",
-    "summary": "Rising AI investments by global tech giants are straining cash flows, with capex nearing record levels relative to operating cash flow. Despite aggressive spending, monetisation remains uncertain, prompting concerns over profitability. Analysts warn ",
-    "image": "https://img.etimg.com/photo/msid-130713359,imgsize-48804.cms",
-    "source": "ET",
-    "pubDate": "Sat, 02 May 2026 14:42:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-spending-boom-soars-but-no-returns-for-big-tech-giants-warns-jefferies-chris-wood/articleshow/130713359.cms"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534893.html",
-    "category": "sports",
-    "title": "MI opt to bat; CSK hand a debut to Ghosh",
-    "summary": "Neither MS Dhoni or Rohit Sharma were fit to play",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414876.png",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 02 May 2026 14:22:08 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534893.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c0q2z7v3ly5o#0",
@@ -308,16 +318,6 @@
     "source": "BBC",
     "pubDate": "Sat, 02 May 2026 10:53:57 GMT",
     "link": "https://www.bbc.com/news/articles/c5yx5w43jzko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0729d374mxo#0",
-    "category": "global",
-    "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-    "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 02 May 2026 08:14:09 GMT",
-    "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cx21k6rzpdpo#1",
