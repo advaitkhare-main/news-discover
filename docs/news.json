@@ -30,6 +30,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/health/beyond-glp-1-five-in-one-compound-more-effective-than-semaglutide-for-diabetes-and-weight-loss-11440894#publisher=newsstand",
+    "category": "india",
+    "title": "Beyond GLP-1: New 5-In-1 Compound More Effective Than Semaglutide For Diabetes And Weight Loss",
+    "summary": "This innovative compound is known as a 'quintuple agonist' because it combines the power of GLP-1 and glucose-dependent insulinotropic polypeptide (GIP) receptor agonists with lanifibranor.",
+    "image": "https://c.ndtvimg.com/2026-03/b6lo30u8_glp1-drugs_625x300_30_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 03 May 2026 00:26:13 +0530",
+    "link": "https://www.ndtv.com/health/beyond-glp-1-five-in-one-compound-more-effective-than-semaglutide-for-diabetes-and-weight-loss-11440894#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/analysis-tamil-nadu-heads-for-dravidian-shakeout-after-assembly-poll-verdict-11440931#publisher=newsstand",
     "category": "india",
     "title": "Analysis: Tamil Nadu Heads For Dravidian Shakeout After Assembly Poll Verdict",
@@ -58,16 +68,6 @@
     "source": "NDTV",
     "pubDate": "Sun, 03 May 2026 00:01:47 +0530",
     "link": "https://www.ndtv.com/india-news/operation-sindoor-reflected-indias-resolve-to-eliminate-terrorism-rajnath-singh-11440902#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/beyond-glp-1-five-in-one-compound-more-effective-than-semaglutide-for-diabetes-and-weight-loss-11440894#publisher=newsstand",
-    "category": "india",
-    "title": "Beyond GLP-1: New 5-In-1 Compound More Effective Than Semaglutide For Diabetes And Weight Loss",
-    "summary": "This innovative compound is known as a 'quintuple agonist' because it combines the power of GLP-1 and glucose-dependent insulinotropic polypeptide (GIP) receptor agonists with lanifibranor.",
-    "image": "https://c.ndtvimg.com/2026-03/b6lo30u8_glp1-drugs_625x300_30_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 02 May 2026 23:59:23 +0530",
-    "link": "https://www.ndtv.com/health/beyond-glp-1-five-in-one-compound-more-effective-than-semaglutide-for-diabetes-and-weight-loss-11440894#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/india-news/3-of-family-killed-as-speeding-tractor-rams-motorcycle-in-muzaffarnagar-11440857#publisher=newsstand",
@@ -130,24 +130,34 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/what-warren-buffett-said-at-berkshire-hathaways-first-annual-meeting-after-stepping-aside/articleshow/130719955.cms"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1534939.html",
-    "category": "sports",
-    "title": "Gaikwad, Kartik and bowlers help CSK complete double against MI",
-    "summary": "They sealed an eight-wicket victory, a result which leaves Mumbai Indians on the brink of elimination",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416400/416490.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 02 May 2026 20:31:09 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1534939.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn4pvnpejw9o#0",
+    "id": "https://www.bbc.com/news/articles/c1d2pvle9lqo#0",
     "category": "global",
-    "title": "King launches Space Agency project on final day in Bermuda",
-    "summary": "The King concludes his visit to the British overseas territory after landing from the US on Thursday.",
+    "title": "Man charged after bomb hoax at Peter Kay show",
+    "summary": "Omar Majed, of Washwood Heath, Birmingham will appear in court on Monday, police said.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sat, 02 May 2026 20:07:41 GMT",
-    "link": "https://www.bbc.com/news/articles/cn4pvnpejw9o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Sat, 02 May 2026 21:28:32 GMT",
+    "link": "https://www.bbc.com/news/articles/c1d2pvle9lqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cj3pmgpgneno#0",
+    "category": "global",
+    "title": "Four injured in Brixton drive-by shooting",
+    "summary": "One man is in a life-threatening condition after the attack in the early hours of Saturday.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 02 May 2026 20:50:59 GMT",
+    "link": "https://www.bbc.com/news/articles/cj3pmgpgneno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1534939.html",
+    "category": "sports",
+    "title": "Gaikwad, Kartik, bowlers push MI to the brink of elimination",
+    "summary": "CSK thumped MI for the second time this season to move up to sixth on the points table",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416400/416490.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 02 May 2026 20:41:58 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534939.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/berkshire-hathaway-profit-rises-despite-consumer-stress-cash-sets-record/articleshow/130718623.cms",
@@ -230,6 +240,16 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1534891.html?ex_cid=OTC-RSS"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c362pd8epw9o#0",
+    "category": "global",
+    "title": "Concern for jailed Iranian Nobel laureate as family say health deteriorating",
+    "summary": "On Friday her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 02 May 2026 17:55:06 GMT",
+    "link": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1534888.html",
     "category": "sports",
     "title": "Sibley builds his case as Surrey respond in ominous fashion",
@@ -258,16 +278,6 @@
     "source": "BBC",
     "pubDate": "Sat, 02 May 2026 16:35:18 GMT",
     "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cj3pmgpgneno#0",
-    "category": "global",
-    "title": "Four injured in Brixton drive-by shooting",
-    "summary": "One man is in a life-threatening condition after the attack in the early hours of Saturday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 02 May 2026 16:11:05 GMT",
-    "link": "https://www.bbc.com/news/articles/cj3pmgpgneno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/cdsl-q4-results-cons-pat-declines-20-to-rs-80-crore-rs-12-75/share-dividend-declared/articleshow/130714239.cms",
@@ -338,16 +348,6 @@
     "source": "BBC",
     "pubDate": "Sat, 02 May 2026 07:59:50 GMT",
     "link": "https://www.bbc.com/news/articles/cx21k6rzpdpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c3w2qp5gzn0o#0",
-    "category": "global",
-    "title": "'I bought a baseball cap to hide my kippah': Jews observe first Shabbat after Golders Green attack",
-    "summary": "British Jews tell the BBC they are agonising over whether to stick to their usual routine this Sabbath.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 02 May 2026 05:00:19 GMT",
-    "link": "https://www.bbc.com/news/articles/c3w2qp5gzn0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
