@@ -30,24 +30,34 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1535123.html",
-    "category": "sports",
-    "title": "All-round Aaron Hardie stars as Peshawar Zalmi sweep to PSL title",
-    "summary": "Australian takes four wickets and follows up with unbeaten half-century to help see off Kingsmen",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416500/416550.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 03 May 2026 19:44:51 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1535123.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy0294829ndo#0",
+    "id": "https://www.bbc.com/news/articles/cn0px2x53k2o#0",
     "category": "global",
-    "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
-    "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
+    "title": "Iran says US has responded to its latest peace proposal",
+    "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sun, 03 May 2026 19:39:31 GMT",
-    "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Sun, 03 May 2026 20:25:25 GMT",
+    "link": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn0p89zgeyno#0",
+    "category": "global",
+    "title": "Serious injuries as man falls 'number of floors'",
+    "summary": "Police seal off a bar in Colmore Row as the venue closes and apologises to customers.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 03 May 2026 20:00:40 GMT",
+    "link": "https://www.bbc.com/news/articles/cn0p89zgeyno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1535123.html",
+    "category": "sports",
+    "title": "Hardie owns big stage to help Zalmi lift second PSL title",
+    "summary": "Australia allrounder took four wickets and followed up with unbeaten half-century to help see off Kingsmen",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416500/416550.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 03 May 2026 19:58:00 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1535123.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1535067.html",
@@ -58,16 +68,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 03 May 2026 19:24:16 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1535067.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn0px2x53k2o#0",
-    "category": "global",
-    "title": "Iran says US has responded to its latest peace proposal",
-    "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 03 May 2026 19:24:02 GMT",
-    "link": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c202w3lzdvjo#0",
@@ -180,6 +180,16 @@
     "link": "https://www.bbc.com/news/articles/cz92gk18xn4o?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cj4p92049nlo#0",
+    "category": "global",
+    "title": "Mild and mostly dry bank holiday but heavy showers possible for some",
+    "summary": "Temperatures across the UK are expected to take a dip, with the potential for some heavy showers and thunder in some areas.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 03 May 2026 15:41:18 GMT",
+    "link": "https://www.bbc.com/news/articles/cj4p92049nlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/anand-james-top-picks-why-time-techno-and-shyam-metalics-are-buys-this-week/articleshow/130729551.cms",
     "category": "finance",
     "title": "Anand James\u2019 top picks: Why Time Techno and Shyam Metalics are buys this week",
@@ -188,16 +198,6 @@
     "source": "ET",
     "pubDate": "Sun, 03 May 2026 14:59:12 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/anand-james-top-picks-why-time-techno-and-shyam-metalics-are-buys-this-week/articleshow/130729551.cms"
-  },
-  {
-    "id": "https://www.bbc.com/sport/football/articles/c0r2nvpvylxo#0",
-    "category": "global",
-    "title": "Sir Alex Ferguson taken to hospital as precaution before Man Utd v Liverpool",
-    "summary": "Sir Alex Ferguson is taken to hospital after falling unwell at Old Trafford shortly before Manchester United's Premier League match with Liverpool on Sunday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 03 May 2026 14:56:40 GMT",
-    "link": "https://www.bbc.com/sport/football/articles/c0r2nvpvylxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/the-global-markets-are-an-ai-storyor-are-they/articleshow/130729891.cms",
