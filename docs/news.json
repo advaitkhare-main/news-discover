@@ -70,16 +70,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1535072.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/sport/snooker/articles/c202e1xw746o#0",
-    "category": "global",
-    "title": "Wu in control of Crucible final against Murphy",
-    "summary": "Wu Yize opens up a 10-7 lead over Shaun Murphy in the World Championship final to put himself on course to become the second-youngest player ever to be crowned a Crucible champion.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 03 May 2026 21:11:30 GMT",
-    "link": "https://www.bbc.com/sport/snooker/articles/c202e1xw746o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c1529vgdvlgo#0",
     "category": "global",
     "title": "'I was trying to save a life,' man who intervened in Golders Green attack tells BBC",
@@ -260,6 +250,16 @@
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/the-hormuz-blockade-why-a-fragile-ceasefire-may-not-lower-global-oil-prices/articleshow/130728422.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c78q6w1vzz7o#0",
+    "category": "global",
+    "title": "Polanski says police 'should not be above scrutiny' over Golders Green response",
+    "summary": "The Green Party leader says he apologised for reposting a tweet criticising the officers' response because it was \"not the appropriate forum\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 03 May 2026 11:24:20 GMT",
+    "link": "https://www.bbc.com/news/articles/c78q6w1vzz7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cewpx5yvwyxo#0",
     "category": "global",
     "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
@@ -298,6 +298,16 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 05 Jan 2026 07:45:00 GMT",
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-us-to-guide-ships-safely-out-of-strait-of-hormuz-11444194#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Says US Will \"Guide Ships\" Safely Out Of Strait Of Hormuz",
+    "summary": "Trump also said Sunday that \"very positive discussions\" were under way with Iran.",
+    "image": "https://c.ndtvimg.com/2026-05/bmho9occ_donald-trump_625x300_04_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 04 May 2026 03:06:58 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-us-to-guide-ships-safely-out-of-strait-of-hormuz-11444194#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/3-die-on-atlantic-cruise-ship-from-suspected-hantavirus-who-11444086#publisher=newsstand",
@@ -368,16 +378,6 @@
     "source": "NDTV",
     "pubDate": "Mon, 04 May 2026 00:04:17 +0530",
     "link": "https://www.ndtv.com/india-news/election-results-today-assembly-polls-bengal-assam-kerala-tamil-nadu-puducherry-11443771#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/kerala-news/kerala-assembly-election-results-2026-kerala-counts-today-with-no-exit-poll-comfort-for-ruling-ldf-11443861#publisher=newsstand",
-    "category": "india",
-    "title": "Kerala Assembly Election Results 2026: Kerala Counts Today With No Exit Poll Comfort For Ruling LDF",
-    "summary": "Pinarayi Vijayan has campaigned hard on bringing development in Kerala",
-    "image": "https://c.ndtvimg.com/2019-04/ikvfrlbo_voting-generic-women-voters-lok-sabha-election-kerala-pti_625x300_24_April_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 04 May 2026 00:03:56 +0530",
-    "link": "https://www.ndtv.com/kerala-news/kerala-assembly-election-results-2026-kerala-counts-today-with-no-exit-poll-comfort-for-ruling-ldf-11443861#publisher=newsstand"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
