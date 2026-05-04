@@ -40,26 +40,6 @@
     "link": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cx214vld41ko#0",
-    "category": "global",
-    "title": "Thousands could benefit from cancer jab that cuts treatment time to minutes",
-    "summary": "Thousands of patients will be offered a new injectable form of an immunotherapy drug that takes minutes.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 03 May 2026 23:10:56 GMT",
-    "link": "https://www.bbc.com/news/articles/cx214vld41ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c86d9v28qxxo#0",
-    "category": "global",
-    "title": "The threat to summer holidays looming from jet fuel shortages",
-    "summary": "What impact might shortages have on our summer holidays - and what could be done about it?",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 03 May 2026 23:03:41 GMT",
-    "link": "https://www.bbc.com/news/articles/c86d9v28qxxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -90,9 +70,129 @@
     "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
   },
   {
+    "id": "https://www.ndtv.com/world-news/3-indians-injured-in-drone-attack-by-iran-in-uaes-fujairah-11448868#publisher=newsstand",
+    "category": "india",
+    "title": "3 Indians Injured In Drone Attack By Iran In UAE's Fujairah",
+    "summary": "3 Indians Injured In Drone Attack By Iran In UAE's Fujairah",
+    "image": "https://c.ndtvimg.com/2026-05/7pk112t_uae-fujairah_625x300_04_May_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Mon, 04 May 2026 22:29:07 +0530",
+    "link": "https://www.ndtv.com/world-news/3-indians-injured-in-drone-attack-by-iran-in-uaes-fujairah-11448868#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/west-bengal-election-results-2026-live-updates-vote-counting-tmc-vs-bjp-vs-left-congress-trinamool-11443657#publisher=newsstand",
+    "category": "india",
+    "title": "West Bengal Election Results 2026 LIVE Updates: BJP Wins Over 190 Seats In Bengal, Mamata Banerjee Loses Her Stronghold",
+    "summary": "West Bengal Election Results 2026 LIVE Updates, Vote Counting Result LIVE",
+    "image": "https://c.ndtvimg.com/2026-05/n7on36ic_mamata-suvendu-_625x300_04_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 04 May 2026 22:24:57 +0530",
+    "link": "https://www.ndtv.com/india-news/west-bengal-election-results-2026-live-updates-vote-counting-tmc-vs-bjp-vs-left-congress-trinamool-11443657#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/rajasthan-man-posing-as-love-guru-arrested-for-extortion-blackmailing-11448874#publisher=newsstand",
+    "category": "india",
+    "title": "Rajasthan Man Posing As \"Love Guru\" Arrested For Extortion, Blackmailing",
+    "summary": "Further investigation is underway, say officials. (Representational)",
+    "image": "https://c.ndtvimg.com/2026-05/d7ahlsek_fake-love-guru_625x300_04_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 04 May 2026 22:20:09 +0530",
+    "link": "https://www.ndtv.com/india-news/rajasthan-man-posing-as-love-guru-arrested-for-extortion-blackmailing-11448874#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/mamata-banerjee-loses-bhabanipur-stronghold-to-suvendu-adhikari-11448550#publisher=newsstand",
+    "category": "india",
+    "title": "Mamata Banerjee Loses Bhabanipur Stronghold To Suvendu Adhikari",
+    "summary": "\"Bhabanipur Election Result 2026: This is the second time Banerjee has been defeated by Adhikari.",
+    "image": "https://c.ndtvimg.com/2026-05/osejiods_mamata-suvendu-special_625x300_04_May_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Mon, 04 May 2026 22:19:55 +0530",
+    "link": "https://www.ndtv.com/india-news/mamata-banerjee-loses-bhabanipur-stronghold-to-suvendu-adhikari-11448550#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/tamil-nadu-election-results-vijay-must-articulate-karti-chidambaram-on-tvk-tie-up-packed-with-a-dig-11448826#publisher=newsstand",
+    "category": "india",
+    "title": "\"Vijay Must Articulate\": Karti Chidambaram On TVK Tie-Up, Packed With A Dig",
+    "summary": "The people wanted change, like the \"movement in Sri Lanka, Bangladesh or Nepal,\" Karti Chidambaram said.",
+    "image": "https://c.ndtvimg.com/2025-07/bekeugb8_karti-chidambaram_625x300_24_July_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 04 May 2026 22:14:15 +0530",
+    "link": "https://www.ndtv.com/india-news/tamil-nadu-election-results-vijay-must-articulate-karti-chidambaram-on-tvk-tie-up-packed-with-a-dig-11448826#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-tata-motors-and-siemens-energy-witness-block-deal-action-on-monday/articleshow/130806797.cms",
+    "category": "finance",
+    "title": "Adani Ports, Tata Motors and Siemens Energy witness block deal action on Monday",
+    "summary": "Institutional investors injected over Rs 7,400 crore into Adani Ports and Special Economic Zone (APSEZ) on Monday through significant block deals. Capital Group entities were major buyers, acquiring stakes from Worldwide Emerging Market Holding Limit",
+    "image": "https://img.etimg.com/photo/msid-130806797,imgsize-35836.cms",
+    "source": "ET",
+    "pubDate": "Mon, 04 May 2026 22:07:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-tata-motors-and-siemens-energy-witness-block-deal-action-on-monday/articleshow/130806797.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/uae-says-iran-has-resumed-attacks-amid-strait-of-hormuz-tensions-11448733#publisher=newsstand",
+    "category": "india",
+    "title": "UAE Says Iran Has Resumed Attacks Amid Strait Of Hormuz Tensions",
+    "summary": "Authorities in Fujairah said an Iranian drone sparked a fire at a key oil facility",
+    "image": "https://c.ndtvimg.com/2025-08/8n3e34ug_shahed_625x300_09_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 04 May 2026 21:57:08 +0530",
+    "link": "https://www.ndtv.com/world-news/uae-says-iran-has-resumed-attacks-amid-strait-of-hormuz-tensions-11448733#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/west-bengal-assembly-election-results-2026-bjp-credits-booth-strategy-and-cultural-outreach-for-bengal-win-11448670#publisher=newsstand",
+    "category": "india",
+    "title": "BJP Credits Booth Strategy And Cultural Outreach For Historic Bengal Win",
+    "summary": "BJP supporters celebrate the party's historic West Bengal assembly elections win",
+    "image": "https://c.ndtvimg.com/2026-05/2lkdfhh8_bengal-bjp-win_625x300_04_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 04 May 2026 21:46:17 +0530",
+    "link": "https://www.ndtv.com/india-news/west-bengal-assembly-election-results-2026-bjp-credits-booth-strategy-and-cultural-outreach-for-bengal-win-11448670#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/election-results-2026-live-updates-west-bengal-tamil-nadu-kerala-assam-puducherry-vote-counting-bjp-tmc-mamata-banerjee-tvk-vijay-dmk-udf-ldf-congress-11443744#publisher=newsstand",
+    "category": "india",
+    "title": "Election Results Live Updates: \"Bengal Has Seen Poriborton\": PM Promises Action Against Infiltrators",
+    "summary": "Election Results 2026 LIVE Updates: Vote counting has begun.",
+    "image": "https://c.ndtvimg.com/2026-05/6mcmn06_vijay-tvk-tamil-nadu-bjp-in-west-bengal-mamata-banergee_625x300_04_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 04 May 2026 21:30:09 +0530",
+    "link": "https://www.ndtv.com/india-news/election-results-2026-live-updates-west-bengal-tamil-nadu-kerala-assam-puducherry-vote-counting-bjp-tmc-mamata-banerjee-tvk-vijay-dmk-udf-ldf-congress-11443744#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/130805242.cms",
+    "category": "finance",
+    "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+    "summary": "Indian markets ended higher driven by positive election trends, with gains in financials, pharma, and metals. Nifty held above key support levels despite range-bound movement. Analysts see bullish momentum intact, though global cues remain weak and n",
+    "image": "https://img.etimg.com/photo/msid-130805242,imgsize-110642.cms",
+    "source": "ET",
+    "pubDate": "Mon, 04 May 2026 20:59:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/130805242.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-5-stock-ideas-for-gains-up-to-11-on-tuesday/slideshow/130805083.cms",
+    "category": "finance",
+    "title": "Market Trading Guide: 5 stock ideas for gains up to 11% on Tuesday",
+    "summary": "Nifty ended higher amid positive election sentiment but faced resistance near 24,200. Analysts see support at 24,000, maintaining a bullish bias above key levels. Experts recommend selective trades, suggesting buying stocks like Adani Ports and Lauru",
+    "image": "https://img.etimg.com/photo/msid-130804788,imgsize-48469.cms",
+    "source": "ET",
+    "pubDate": "Mon, 04 May 2026 20:33:35 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-5-stock-ideas-for-gains-up-to-11-on-tuesday/slideshow/130805083.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-capital-q4-results-net-profit-rises-31-at-rs-1129-crore/articleshow/130803290.cms",
+    "category": "finance",
+    "title": "Aditya Birla Capital Q4 Results: Net profit rises 31% at Rs 1,129 crore",
+    "summary": "Aditya Birla Capital on Monday reported a 31 per cent growth in consolidated profit at Rs 1,129 crore for the fourth quarter ended March 31 on higher interest income.",
+    "image": "https://img.etimg.com/photo/msid-130803290,imgsize-22472.cms",
+    "source": "ET",
+    "pubDate": "Mon, 04 May 2026 19:38:18 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-capital-q4-results-net-profit-rises-31-at-rs-1129-crore/articleshow/130803290.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-market-slips-at-open-as-iran-war-tensions-unsettle-investors/articleshow/130802423.cms",
     "category": "finance",
-    "title": "US stocks today: US market slips at open as Iran war tensions unsettle investors",
+    "title": "US stocks today: S&amp;P 500, Dow tick lower as US-Iran tensions unsettle investors",
     "summary": "Wall Street indexes experienced a slight decline at the market open on Monday. Investor anxiety surrounding the Middle East conflict overshadowed the positive sentiment from last week's earnings reports. The Dow, S&amp;P 500, and Nasdaq Composite all",
     "image": "https://img.etimg.com/photo/msid-130802423,imgsize-242258.cms",
     "source": "ET",
@@ -110,66 +210,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-chemicals-q4-results-cons-loss-widens-yoy-to-rs-2132-crore-on-exceptional-items-revenue-drops-2/articleshow/130802414.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/assam-election-results-2026-live-updates-vote-counting-results-himanta-biswa-sarma-bjp-congress-11442174#publisher=newsstand",
-    "category": "india",
-    "title": "Assam Election Results 2026 LIVE Updates: BJP Touches 100-Seat Mark, Gaurav Gogoi Loses From Jorhat",
-    "summary": "Assam Election Results 2026 LIVE Updates, Vote Counting Result LIVE",
-    "image": "https://c.ndtvimg.com/2026-05/q80t9tfo_assam-election-result_625x300_03_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 04 May 2026 19:03:00 +0530",
-    "link": "https://www.ndtv.com/india-news/assam-election-results-2026-live-updates-vote-counting-results-himanta-biswa-sarma-bjp-congress-11442174#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/puducherry-election-results-2026-live-updates-vote-counting-results-bjp-congress-dmk-aiadmk-puducherry-results-today-as-counting-begins-for-30-seats-11442310#publisher=newsstand",
-    "category": "india",
-    "title": "Puducherry Election Results 2026 LIVE Updates: NDA Set To Return In Puducherry, Chief Minister Rangasamy Leads From That",
-    "summary": "Puducherry Election Results 2026 LIVE Updates",
-    "image": "https://c.ndtvimg.com/2026-05/orjnahck_puducherry_625x300_04_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 04 May 2026 19:02:47 +0530",
-    "link": "https://www.ndtv.com/india-news/puducherry-election-results-2026-live-updates-vote-counting-results-bjp-congress-dmk-aiadmk-puducherry-results-today-as-counting-begins-for-30-seats-11442310#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/west-bengal-assembly-election-results-2026-amit-shah-and-the-5-architects-of-bjps-historic-bengal-win-11447713#publisher=newsstand",
-    "category": "india",
-    "title": "Amit Shah And The 5 Architects Of BJP's Historic Bengal Win",
-    "summary": "Amit Shah and five other central leaders instrumental in Bengal's BJP win",
-    "image": "https://c.ndtvimg.com/2026-05/o445el68_bjp-bengal_625x300_04_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 04 May 2026 19:00:02 +0530",
-    "link": "https://www.ndtv.com/india-news/west-bengal-assembly-election-results-2026-amit-shah-and-the-5-architects-of-bjps-historic-bengal-win-11447713#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/shooting-at-lake-near-oklahoma-city-sends-at-least-12-people-to-hospitals-11446142#publisher=newsstand",
-    "category": "india",
-    "title": "Shooting At Lake Near Oklahoma City Sends At Least 12 People To Hospitals",
-    "summary": "No arrests made yet as police interviewed victims and witnesses across metro.",
-    "image": "https://c.ndtvimg.com/2026-05/snhu94tg_party-shooting_625x300_04_May_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 04 May 2026 18:59:23 +0530",
-    "link": "https://www.ndtv.com/world-news/shooting-at-lake-near-oklahoma-city-sends-at-least-12-people-to-hospitals-11446142#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/assam-assembly-election-result-bjps-pradyut-bordoloi-who-quit-congress-wins-from-dispur-in-assam-11447696#publisher=newsstand",
-    "category": "india",
-    "title": "BJP's Pradyut Bordoloi, Who Quit Congress, Wins From Dispur In Assam",
-    "summary": "Bordoloi had joined the BJP in mid-March this year.",
-    "image": "https://c.ndtvimg.com/2026-03/rqa24jik_pradyut-bordoloi_625x300_18_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 04 May 2026 18:58:10 +0530",
-    "link": "https://www.ndtv.com/india-news/assam-assembly-election-result-bjps-pradyut-bordoloi-who-quit-congress-wins-from-dispur-in-assam-11447696#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/raw-mango-vs-raw-papaya-which-is-better-for-your-gut-11447182#publisher=newsstand",
-    "category": "india",
-    "title": "Raw Mango vs Raw Papaya: Which Is Better For Your Gut?",
-    "summary": "Raw mango and raw papaya can offer benefits for your gut when consumed in moderation",
-    "image": "https://c.ndtvimg.com/2026-05/eln5pcq4_raw-mango-and-raw-papaya_625x300_04_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 04 May 2026 18:57:56 +0530",
-    "link": "https://www.ndtv.com/health/raw-mango-vs-raw-papaya-which-is-better-for-your-gut-11447182#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/csb-bank-q4-profit-rises-6-on-lower-provisions-growth-steady/articleshow/130801882.cms",
     "category": "finance",
     "title": "CSB Bank Q4 profit rises 6% on lower provisions, growth steady",
@@ -178,26 +218,6 @@
     "source": "ET",
     "pubDate": "Mon, 04 May 2026 18:52:55 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/csb-bank-q4-profit-rises-6-on-lower-provisions-growth-steady/articleshow/130801882.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/kerala-result-marks-new-momentum-for-congress-shashi-tharoor-to-ndtv-11447674#publisher=newsstand",
-    "category": "india",
-    "title": "\"Kerala Result Marks New Momentum For Congress\": Shashi Tharoor To NDTV",
-    "summary": "Shashi Tharoor speaks to NDTV on UDF's big win in Kerala",
-    "image": "https://c.ndtvimg.com/2026-05/5mcjb8n_tharoor-kanwal-_625x300_04_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 04 May 2026 18:52:35 +0530",
-    "link": "https://www.ndtv.com/india-news/kerala-result-marks-new-momentum-for-congress-shashi-tharoor-to-ndtv-11447674#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/kerela-election-result-13-kerala-ministers-lose-pinarayi-vijayan-retains-seat-with-reduced-margin-11447289#publisher=newsstand",
-    "category": "india",
-    "title": "13 Kerala Ministers Lose, Pinarayi Vijayan Retains Seat With Reduced Margin",
-    "summary": "The Chief Minister himself retained his seat, but not without an evident erosion in support.",
-    "image": "https://c.ndtvimg.com/2026-05/s2vdo1bg_pinarayi-vijayan_625x300_04_May_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 04 May 2026 18:50:53 +0530",
-    "link": "https://www.ndtv.com/india-news/kerela-election-result-13-kerala-ministers-lose-pinarayi-vijayan-retains-seat-with-reduced-margin-11447289#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-technologies-q4-results-cons-pat-rises-8-yoy-to-rs-204-crore-revenue-rises-22/articleshow/130801353.cms",
@@ -210,44 +230,54 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-technologies-q4-results-cons-pat-rises-8-yoy-to-rs-204-crore-revenue-rises-22/articleshow/130801353.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/sanjay-h-parekh-bets-big-on-reliance-private-banks-and-domestic-plays-amid-global-uncertainty/articleshow/130798887.cms",
-    "category": "finance",
-    "title": "Sanjay H Parekh bets big on Reliance, private banks, and domestic plays amid global uncertainty",
-    "summary": "Sohum Asset Managers is shifting its focus to largecap stocks for safety. The fund is overweighting domestic businesses and underweighting global ones. This strategy has benefited performance. Reliance Industries is a key bet, with significant upside",
-    "image": "https://img.etimg.com/photo/msid-130798887,imgsize-17608.cms",
-    "source": "ET",
-    "pubDate": "Mon, 04 May 2026 18:20:58 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/sanjay-h-parekh-bets-big-on-reliance-private-banks-and-domestic-plays-amid-global-uncertainty/articleshow/130798887.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1535199.html",
+    "category": "sports",
+    "title": "Max Holden digs in as Middlesex scrabble to safety",
+    "summary": "Durham go top of Division Two despite not being able to drive home 137-run lead",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/398700/398752.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 04 May 2026 17:31:55 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1535199.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/thalapathy-government-why-vijays-historic-rise-in-indias-industrial-powerhouse-state-matters-for-stock-market/articleshow/130798865.cms",
-    "category": "finance",
-    "title": "Thalapathy government? Why Vijay's historic rise in India's industrial powerhouse state matters for stock market",
-    "summary": "Vijay\u2019s TVK is set to reshape Tamil Nadu\u2019s political landscape, prompting investors to assess what a \u201cThalapathy government\u201d could mean for industry and markets. With the state being a key auto, electronics and export hub, policy clarity on incentive",
-    "image": "https://img.etimg.com/photo/msid-130798865,imgsize-2176409.cms",
-    "source": "ET",
-    "pubDate": "Mon, 04 May 2026 18:13:46 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/thalapathy-government-why-vijays-historic-rise-in-indias-industrial-powerhouse-state-matters-for-stock-market/articleshow/130798865.cms"
+    "id": "https://www.bbc.com/news/articles/c9v3kvjxr4mo#0",
+    "category": "global",
+    "title": "Two arrested over arson attack at Golders Green memorial",
+    "summary": "A memorial wall was damaged by fire on 27 April in north London, with counter-terror police involved in the investigation.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 04 May 2026 17:21:47 GMT",
+    "link": "https://www.bbc.com/news/articles/c9v3kvjxr4mo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/quote-of-the-day-by-walter-schloss-one-of-the-things-you-learn-in-this-business-is-humility-because-you-see-your-mistakes-the-next-day-/articleshow/130757125.cms",
-    "category": "finance",
-    "title": "Quote of the day by Walter Schloss: \"One of the things you learn in this business is humility because you see your mista",
-    "summary": "Walter Schloss highlights that investing demands humility, as markets quickly expose mistakes through immediate feedback. Rather than avoiding errors, successful investors learn from them\u2014using humility to adapt, cut losses, and refine strategies.",
-    "image": "https://img.etimg.com/photo/msid-130757125,imgsize-2239463.cms",
-    "source": "ET",
-    "pubDate": "Mon, 04 May 2026 18:00:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/quote-of-the-day-by-walter-schloss-one-of-the-things-you-learn-in-this-business-is-humility-because-you-see-your-mistakes-the-next-day-/articleshow/130757125.cms"
+    "id": "https://www.bbc.com/news/articles/ce9p09e5vnro#0",
+    "category": "global",
+    "title": "Britney Spears pleads guilty to reckless driving after arrest",
+    "summary": "The 44-year-old will avoid jail time after her arrest in California earlier this year.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 04 May 2026 17:11:56 GMT",
+    "link": "https://www.bbc.com/news/articles/ce9p09e5vnro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-and-4-other-stocks-hit-a-52-week-high-rally-up-to-40-in-a-month/slideshow/130797550.cms",
-    "category": "finance",
-    "title": "Bajaj Auto and 4 other stocks hit a 52-week high, rally up to 40% in a month",
-    "summary": "Five BSE 100 stocks, including Adani Power, Adani Ports, Nestle India, Cummins India and Bajaj Auto, hit fresh 52-week highs after rallying up to 40% over the past month.",
-    "image": "https://img.etimg.com/photo/msid-130797339,imgsize-48240.cms",
-    "source": "ET",
-    "pubDate": "Mon, 04 May 2026 17:57:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-and-4-other-stocks-hit-a-52-week-high-rally-up-to-40-in-a-month/slideshow/130797550.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1535197.html",
+    "category": "sports",
+    "title": "Fourth time lucky as Surrey get off the mark in Division One",
+    "summary": "Title hopefuls bag first win of the season after breaking Sussex's dogged resistance",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416400/416441.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 04 May 2026 16:29:03 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1535197.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ckgpzgxgz58o#0",
+    "category": "global",
+    "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+    "summary": "Mayor Burkhard Jung said a suspect was detained and the motive was unclear.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 04 May 2026 16:24:50 GMT",
+    "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cy0294829ndo#0",
@@ -256,18 +286,18 @@
     "summary": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 04 May 2026 13:29:22 GMT",
+    "pubDate": "Mon, 04 May 2026 16:07:57 GMT",
     "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c362e9p385yo#0",
-    "category": "global",
-    "title": "Reform pledges to open migrant detention centres in Green-voting areas",
-    "summary": "The Green Party has accused Reform of \"making abhorrent announcements in attempts to distract voters\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 04 May 2026 13:03:45 GMT",
-    "link": "https://www.bbc.com/news/articles/c362e9p385yo?at_medium=RSS&at_campaign=rss"
+    "id": "https://www.espncricinfo.com/ci/content/story/1535198.html",
+    "category": "sports",
+    "title": "Root and Bess share eight as Yorkshire complete come-from-behind win",
+    "summary": "Somerset crumble in fourth-innings chase of 260 to relinquish top spot in Division One",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416500/416594.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 04 May 2026 16:04:31 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1535198.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1535193.html",
@@ -276,8 +306,48 @@
     "summary": "Leicestershire lose by ten wickets as Slater caps stellar display with unbeaten fifty",
     "image": "http://p.imgci.com/db/PICTURES/CMS/341000/341018.jpg",
     "source": "Cricinfo",
-    "pubDate": "Mon, 04 May 2026 12:52:08 GMT",
+    "pubDate": "Mon, 04 May 2026 15:45:51 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1535193.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1535223.html",
+    "category": "sports",
+    "title": "Gordon, Elwiss stun Surrey as The Blaze surge clear",
+    "summary": "Surrey lose third in a row after batting malfunctions again",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/380100/380172.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 04 May 2026 15:20:29 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1535223.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1535196.html",
+    "category": "sports",
+    "title": "Matt Milnes six-for inspires Kent to first win in over a year",
+    "summary": "Derbyshire blown away in fourth innings to relieve some of the pressure building at Canterbury",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416500/416588.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 04 May 2026 14:30:25 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1535196.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1535207.html",
+    "category": "sports",
+    "title": "Ngidi '100% fit' as DC and CSK look to get back into playoffs race",
+    "summary": "A win for either of them would put them just two points away from second place",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416400/416472.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 04 May 2026 14:15:51 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1535207.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1535211.html",
+    "category": "sports",
+    "title": "Hardik out with back spasms, but Rohit returns for MI against LSG",
+    "summary": "Lucknow Super Giants made several changes too, and gave Josh Inglis a debut",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416300/416339.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 04 May 2026 14:12:43 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1535211.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cp3pzgdgx53o#0",
@@ -290,16 +360,6 @@
     "link": "https://www.bbc.com/news/articles/cp3pzgdgx53o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1535174.html",
-    "category": "sports",
-    "title": "Varun slows it down to keep his, and KKR's, comeback on track",
-    "summary": "Varun Chakravarthy \"is now using the crease very well and also the angles well and also his pace,\" says Ambati Rayudu",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416500/416583.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 04 May 2026 10:54:57 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1535174.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/clyp246d9k1o#0",
     "category": "global",
     "title": "Princess Eugenie expecting third child this summer",
@@ -310,46 +370,6 @@
     "link": "https://www.bbc.com/news/articles/clyp246d9k1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1535172.html",
-    "category": "sports",
-    "title": "Salt returns home for scans after being sidelined with injured finger",
-    "summary": "RCB are expecting Phil Salt to rejoin them for some part of IPL 2026, with Jacob Bethell likely to get an extended run in the meantime",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415500/415577.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 04 May 2026 09:53:48 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1535172.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1535177.html",
-    "category": "sports",
-    "title": "Rayudu: SRH 'thought they can get away with no planning' against KKR",
-    "summary": "\"Sometimes you just need that type of performance to reset and go again in terms of that momentum,\" Katey Martin says after SRH's loss to KKR",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416500/416584.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 04 May 2026 06:51:32 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1535177.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1535158.html",
-    "category": "sports",
-    "title": "'I wouldn't say I was waiting, I was preparing' - Shedge grabs his chance",
-    "summary": "\"As an Indian player coming into the IPL, if six-hitting is your strength, then half the battle is already won,\" Ambati Rayudu says",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416500/416523.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 04 May 2026 06:41:06 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1535158.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1535144.html",
-    "category": "sports",
-    "title": "'Life is like a rollercoaster' and Babar can still get on a ride",
-    "summary": "\"I have a firm belief that you get what is destined for you,\" Babar Azam says after playing a big role in Peshawar Zalmi's PSL 2026 triumph",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416500/416565.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 04 May 2026 06:33:40 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1535144.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cy816xdp226o#0",
     "category": "global",
     "title": "What an empty car park tells us about the UK's debt problem",
@@ -358,26 +378,6 @@
     "source": "BBC",
     "pubDate": "Mon, 04 May 2026 05:00:06 GMT",
     "link": "https://www.bbc.com/news/articles/cy816xdp226o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1535165.html",
-    "category": "sports",
-    "title": "Sydney Sixers appoint James Hopes as new BBL coach",
-    "summary": "James Hopes called Sydney Sixers \"a club with a proud history and a strong identity built on consistency, competitiveness and connection with its fans\"",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/398300/398311.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 04 May 2026 04:37:04 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1535165.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1535142.html",
-    "category": "sports",
-    "title": "Rabada rises to No. 3 on Purple Cap table; Abhishek takes back Orange Cap",
-    "summary": "It was a bad day for many of the top run-getters in IPL 2026, with the two games on Sunday producing low-scoring contests",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416500/416519.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 04 May 2026 01:55:58 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1535142.html?ex_cid=OTC-RSS"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
