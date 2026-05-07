@@ -60,6 +60,16 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-paine-schwartz-backed-suja-lifes-shares-fall-14-in-nasdaq-debut/articleshow/130912254.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c4g0d1wp6g8o#0",
+    "category": "global",
+    "title": "Man charged with allegedly threatening Andrew Mountbatten-Windsor",
+    "summary": "Alex Jenkinson, 39, of Stowmarket, Suffolk, has been remanded in custody ahead of a court appearance.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 07 May 2026 22:39:19 GMT",
+    "link": "https://www.bbc.com/news/articles/c4g0d1wp6g8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-space-analytics-firm-hawkeye-360-valued-at-3-15-billion-after-nyse-debut/articleshow/130910976.cms",
     "category": "finance",
     "title": "US stocks today: Space analytics firm HawkEye 360 valued at $3.15 billion after NYSE debut",
@@ -102,7 +112,7 @@
   {
     "id": "https://www.bbc.com/news/articles/cdrpxvz61vko#0",
     "category": "global",
-    "title": "Labour expected to lose Senedd after century of winning Welsh elections",
+    "title": "Labour expected to lose Senedd after century of winning elections in Wales",
     "summary": "Labour sources have told the BBC the party's century-long winning run is expected to come to an end.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -168,16 +178,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 07 May 2026 17:01:09 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1535771.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c072z2gm5lxo#0",
-    "category": "global",
-    "title": "Police say man arrested over 'intimidating behaviour' near Andrew's home",
-    "summary": "A man is being held on suspicion of a public order offence and possessing an offensive weapon.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 07 May 2026 16:57:36 GMT",
-    "link": "https://www.bbc.com/news/articles/c072z2gm5lxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1535743.html",
@@ -288,6 +288,26 @@
     "source": "VentureBeat",
     "pubDate": "Fri, 16 Jan 2026 14:01:00 GMT",
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-us-military-strikes-irans-qeshm-port-bandar-abbas-report-11464863#publisher=newsstand",
+    "category": "india",
+    "title": "US Military Strikes Iran's Qeshm Port, Bandar Abbas: Report",
+    "summary": "The US military on Thursday carried out strikes on Iran's Qeshm port and Bandar Abbas, a Fox News reporter said in a post on X, citing a senior US  official.",
+    "image": "https://c.ndtvimg.com/2026-05/5nksi5bo_us-strikes-bandar-abbas_625x300_08_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 08 May 2026 03:24:54 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-us-military-strikes-irans-qeshm-port-bandar-abbas-report-11464863#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-trade-court-rules-against-trumps-10-global-tariffs-11464829#publisher=newsstand",
+    "category": "india",
+    "title": "US Trade Court Rules Against Trump's 10% Global Tariffs",
+    "summary": "The US trade court on Thursday ruled against President Donald Trump's latest 10% global tariffs.",
+    "image": "https://c.ndtvimg.com/2025-02/ohavfik8_trump-tariffs-reuters_625x300_20_February_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 08 May 2026 03:05:16 +0530",
+    "link": "https://www.ndtv.com/world-news/us-trade-court-rules-against-trumps-10-global-tariffs-11464829#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-market-ends-lower-as-semiconductor-stocks-reverse-earlier-gains/articleshow/130922309.cms",
