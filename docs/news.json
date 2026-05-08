@@ -30,26 +30,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1535785.html",
-    "category": "sports",
-    "title": "Dhumal: IPL's anti-corruption unit has flagged 'anomalies' in a report to BCCI",
-    "summary": "BCCI secretary also said that in some cases, team owners and officials have been mingling with players in areas where it is not allowed",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/401600/401609.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 07 May 2026 19:36:38 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1535785.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1535766.html",
-    "category": "sports",
-    "title": "Why being Pakistan head coach could be the perfect role for Sarfaraz",
-    "summary": "The former Pakistan captain waltzes into his new role with relatively little experience in coaching, but a strong bond with Test captain Shan Masood and an acute understanding of the game",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/295200/295252.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 07 May 2026 17:33:39 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1535766.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cp3pww9g0p5o#2",
     "category": "global",
     "title": "David Attenborough says he is 'overwhelmed' by 100th birthday messages",
@@ -110,14 +90,24 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
-    "id": "https://www.ndtv.com/health/union-minister-launches-integrated-training-framework-to-strengthen-indias-frontline-healthcare-workforce-11466160#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ai-market-crash-coming-soon-billionaire-investor-paul-tudor-jones-says-the-bulls-have-another-two-years/articleshow/130954986.cms",
+    "category": "finance",
+    "title": "AI market crash coming soon? Billionaire investor Paul Tudor Jones says the bulls have another two years",
+    "summary": "Global markets, led by tech stocks, have reached record highs fueled by AI enthusiasm. Investor Paul Tudor Jones likens AI's current stage to Microsoft's early dominance and the internet's commercialization, predicting another year or two of growth. ",
+    "image": "https://img.etimg.com/photo/msid-130954986,imgsize-62026.cms",
+    "source": "ET",
+    "pubDate": "Fri, 08 May 2026 14:19:55 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-market-crash-coming-soon-billionaire-investor-paul-tudor-jones-says-the-bulls-have-another-two-years/articleshow/130954986.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/this-is-not-covid-nor-influenza-it-spreads-very-differently-who-on-hantavirus-outbreak-11465085#publisher=newsstand",
     "category": "india",
-    "title": "Union Minister Launches Integrated Training Framework To Strengthen India's Frontline Healthcare Workforce",
-    "summary": "India has significantly expanded investments in health systems strengthening in recent years",
-    "image": "https://c.ndtvimg.com/2026-02/u0kaf79g_jp-nadda_625x300_17_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "\"This Is Not Covid, Nor Influenza. It Spreads Very Differently\": WHO On Hantavirus Outbreak",
+    "summary": "Hantavirus can be more deadly on a case-by-case basis",
+    "image": "https://c.ndtvimg.com/2026-05/sirs73vk_who_625x300_08_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 08 May 2026 12:47:10 +0530",
-    "link": "https://www.ndtv.com/health/union-minister-launches-integrated-training-framework-to-strengthen-indias-frontline-healthcare-workforce-11466160#publisher=newsstand"
+    "pubDate": "Fri, 08 May 2026 14:14:10 +0530",
+    "link": "https://www.ndtv.com/health/this-is-not-covid-nor-influenza-it-spreads-very-differently-who-on-hantavirus-outbreak-11465085#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/india-news/aiadmk-must-leave-bjp-dmk-sources-say-cant-tie-up-with-communal-party-tamil-nadu-politics-vijay-tvk-governor-11465707#publisher=newsstand",
@@ -126,38 +116,38 @@
     "summary": "DMK leaders MK Stalin (L) and Edappadi Palaniswami (R, File photos).",
     "image": "https://c.ndtvimg.com/2026-05/m9b3uv2k_mk-stalin-eps-split-_650x400_08_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 08 May 2026 12:45:29 +0530",
+    "pubDate": "Fri, 08 May 2026 14:12:51 +0530",
     "link": "https://www.ndtv.com/india-news/aiadmk-must-leave-bjp-dmk-sources-say-cant-tie-up-with-communal-party-tamil-nadu-politics-vijay-tvk-governor-11465707#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/telangana-news/warangal-shiva-temple-demolition-triggers-protests-legal-action-initiated-11466116#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/hantavirus-treatment-differs-from-covid-flu-doctors-explain-protocols-11466383#publisher=newsstand",
     "category": "india",
-    "title": "800-Year-Old Shiva Temple Demolished For School In Telangana, Case Filed",
-    "summary": "The administration denied deliberate demolition.",
-    "image": "https://c.ndtvimg.com/2026-05/jvhp2c68_kakatiya-temple-demolished_625x300_08_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Hantavirus Treatment Protocols: Doctors Explain Why It's Not Like Covid Or The Flu",
+    "summary": "Hantavirus treatment protocols differ based on their severity",
+    "image": "https://c.ndtvimg.com/2026-05/q4i8elug_hantavirus-treatment_625x300_08_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 08 May 2026 12:45:03 +0530",
-    "link": "https://www.ndtv.com/telangana-news/warangal-shiva-temple-demolition-triggers-protests-legal-action-initiated-11466116#publisher=newsstand"
+    "pubDate": "Fri, 08 May 2026 14:12:24 +0530",
+    "link": "https://www.ndtv.com/health/hantavirus-treatment-differs-from-covid-flu-doctors-explain-protocols-11466383#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/telangana-news/bjps-next-target-is-telangana-senior-state-leader-days-before-pms-visit-11466083#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/kerala-plus-one-improvement-result-2026-out-today-check-direct-link-expected-date-and-time-here-11466531#publisher=newsstand",
     "category": "india",
-    "title": "BJP's \"Next Target\" Is Telangana: Senior State Leader Days Before PM's Visit",
-    "summary": "Prime Minister Modi is scheduled to visit Telangana on May 10",
-    "image": "https://c.ndtvimg.com/2025-02/7u95a3o8_bjp-generic_625x300_03_February_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Kerala Plus One Improvement Result 2026 Out Today: Check Direct Link, Expected Date And Time Here",
+    "summary": "DHSE, Kerala is expected to release the Kerala Plus One Improvement Result 2026 today, May 8.",
+    "image": "https://c.ndtvimg.com/2026-05/rcfb810g_kerala_625x300_08_May_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 08 May 2026 12:44:07 +0530",
-    "link": "https://www.ndtv.com/telangana-news/bjps-next-target-is-telangana-senior-state-leader-days-before-pms-visit-11466083#publisher=newsstand"
+    "pubDate": "Fri, 08 May 2026 14:11:01 +0530",
+    "link": "https://www.ndtv.com/education/kerala-plus-one-improvement-result-2026-out-today-check-direct-link-expected-date-and-time-here-11466531#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/operation-sindoor-anniversary-india-pakistan-indigenous-defence-technology-drone-startups-war-11459893#publisher=newsstand",
+    "id": "https://www.ndtv.com/tamil-nadu-news/p-chidambaram-says-vijays-tvk-must-be-called-to-form-government-political-rule-11465456#publisher=newsstand",
     "category": "india",
-    "title": "One Year Of Operation Sindoor: How India's Defence Tech Is Rewriting War",
-    "summary": "India's defence start-ups are working alongside the Army, integrating innovation with battlefield use.",
-    "image": "https://c.ndtvimg.com/2026-03/qb2ltueg_drone-vs-missile-2_625x300_17_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "\"Political Rule\": P Chidambaram Says TVK 'Must Be Called To Form Government'",
+    "summary": "P Chidambaram urges Tamil Nadu governor to invite single largest party TVK to form government.",
+    "image": "https://c.ndtvimg.com/2026-02/vtp7de0s_p-chidambaram_625x300_26_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 08 May 2026 12:41:37 +0530",
-    "link": "https://www.ndtv.com/india-news/operation-sindoor-anniversary-india-pakistan-indigenous-defence-technology-drone-startups-war-11459893#publisher=newsstand"
+    "pubDate": "Fri, 08 May 2026 14:09:37 +0530",
+    "link": "https://www.ndtv.com/tamil-nadu-news/p-chidambaram-says-vijays-tvk-must-be-called-to-form-government-political-rule-11465456#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/india-news/bengal-election-results-suvendu-adhikari-frontrunner-for-bengal-chief-minister-may-get-2-deputies-11465941#publisher=newsstand",
@@ -166,108 +156,108 @@
     "summary": "West Bengal has had no deputy chief minister in the last two decades",
     "image": "https://c.ndtvimg.com/2026-05/ds55idc8_suvendu-adhikari-amit-shah-ians_650x400_06_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 08 May 2026 12:40:12 +0530",
+    "pubDate": "Fri, 08 May 2026 14:06:47 +0530",
     "link": "https://www.ndtv.com/india-news/bengal-election-results-suvendu-adhikari-frontrunner-for-bengal-chief-minister-may-get-2-deputies-11465941#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/maharashtra-ssc-result-2026-out-92-09-pass-rate-konkan-emerges-as-top-division-11466146#publisher=newsstand",
+    "id": "https://www.ndtv.com/business-news/stock-market-today-foreign-investment-reserve-bank-of-india-weak-rupee-mutual-fund-sip-11466466#publisher=newsstand",
     "category": "india",
-    "title": "Maharashtra SSC Result 2026 Out: 92.09% Pass Rate, Konkan Emerges as Top Division",
-    "summary": "MSBSHSE, Pune, has declared the Maharashtra SSC Result 2026, the overall pass percentage is 92.09%",
-    "image": "https://c.ndtvimg.com/2026-05/io7dobuk_maharashtra-ssc_625x300_08_May_26.jpeg",
+    "title": "Are Poor Returns Pushing Indian Investors To Bet Big On Overseas Markets?",
+    "summary": "Domestic mutual fund SIPs alone are bringing in about $3 billion every month.",
+    "image": "https://c.ndtvimg.com/2026-04/43tffc9g_stocks_625x300_23_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 08 May 2026 12:39:44 +0530",
-    "link": "https://www.ndtv.com/education/maharashtra-ssc-result-2026-out-92-09-pass-rate-konkan-emerges-as-top-division-11466146#publisher=newsstand"
+    "pubDate": "Fri, 08 May 2026 14:06:10 +0530",
+    "link": "https://www.ndtv.com/business-news/stock-market-today-foreign-investment-reserve-bank-of-india-weak-rupee-mutual-fund-sip-11466466#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/health/vague-symptoms-late-diagnosis-why-ovarian-cancer-is-the-silent-killer-11466135#publisher=newsstand",
+    "id": "https://www.ndtv.com/offbeat/gen-z-doesnt-work-hard-entrepreneur-says-that-idea-is-completely-wrong-11466510#publisher=newsstand",
     "category": "india",
-    "title": "Vague Symptoms, Late Diagnosis: Why Ovarian Cancer Is The \"Silent Killer\"",
-    "summary": "Symptoms of ovarian cancer are often dismissed",
-    "image": "https://c.ndtvimg.com/2026-03/1b7h2akk_pcos_625x300_25_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "\"Gen Z Doesn't Work Hard?\" Entrepreneur Says That Idea Is Completely Wrong",
+    "summary": "The debate around Gen Z in the workplace has intensified in recent years.",
+    "image": "https://c.ndtvimg.com/2026-05/6dano23c_the-debate-around-gen-z-in-the-workplace-has-intensified-in-recent-years_625x300_08_May_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 08 May 2026 12:38:28 +0530",
-    "link": "https://www.ndtv.com/health/vague-symptoms-late-diagnosis-why-ovarian-cancer-is-the-silent-killer-11466135#publisher=newsstand"
+    "pubDate": "Fri, 08 May 2026 14:05:53 +0530",
+    "link": "https://www.ndtv.com/offbeat/gen-z-doesnt-work-hard-entrepreneur-says-that-idea-is-completely-wrong-11466510#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sony-forecasts-11-rise-in-annual-profit-but-lower-sale/articleshow/130952146.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q4-results-standalone-profit-rises-6-yoy-to-rs-19684-crore-beats-estimates/articleshow/130954536.cms",
     "category": "finance",
-    "title": "Sony forecasts 11% rise in annual profit but lower sale",
-    "summary": "Sony anticipates a sales dip in its gaming division. This is due to fewer PlayStation 5 hardware sales as the console ages and increased memory chip costs. However, the company projects a profit increase driven by strong first-party game releases. So",
-    "image": "https://img.etimg.com/photo/msid-130952146,imgsize-52490.cms",
+    "title": "SBI Q4 Results: Standalone profit rises 6% YoY to Rs 19,684 crore, beats estimates",
+    "summary": "SBI Q4 Results: The profit beat the analysts' estimates of Rs 18,898 crore.",
+    "image": "https://img.etimg.com/photo/msid-130954536,imgsize-1705535.cms",
     "source": "ET",
-    "pubDate": "Fri, 08 May 2026 12:18:01 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sony-forecasts-11-rise-in-annual-profit-but-lower-sale/articleshow/130952146.cms"
+    "pubDate": "Fri, 08 May 2026 14:04:24 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q4-results-standalone-profit-rises-6-yoy-to-rs-19684-crore-beats-estimates/articleshow/130954536.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/kissht-parent-onemi-technology-solutions-share-price-soars-22-on-stock-market-debut-should-you-buy-sell-or-hold/articleshow/130950441.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/titan-q4-results-cons-profit-jumps-35-yoy-to-rs-1179-crore-rs-15/share-dividend-announced/articleshow/130954412.cms",
     "category": "finance",
-    "title": "Kissht parent OnEMI Tech shares soar 11% after strong D-Street debut. Should you buy, sell, or hold?",
-    "summary": "OnEMI Technology Solutions shares saw a strong debut, jumping 11% on their listing day. The company operates digital lending platforms Kissht and Ring. Analysts suggest caution due to potential volatility but highlight the company's customer base and",
-    "image": "https://img.etimg.com/photo/msid-130950441,imgsize-2129964.cms",
+    "title": "Titan Q4 Results: Cons profit jumps 35% YoY to Rs 1,179 crore; Rs 15/share dividend announced",
+    "summary": "Titan Q4 Results: Along with the earnings, Titan's Board also recommended a dividend of Rs 15 per equity share, which shall be paid within seven days from the conclusion of the 42nd Annual General Meeting, subject to the approval of the shareholders ",
+    "image": "https://img.etimg.com/photo/msid-130954412,imgsize-2506802.cms",
     "source": "ET",
-    "pubDate": "Fri, 08 May 2026 11:49:45 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/kissht-parent-onemi-technology-solutions-share-price-soars-22-on-stock-market-debut-should-you-buy-sell-or-hold/articleshow/130950441.cms"
+    "pubDate": "Fri, 08 May 2026 14:03:02 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/titan-q4-results-cons-profit-jumps-35-yoy-to-rs-1179-crore-rs-15/share-dividend-announced/articleshow/130954412.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/coinbase-q1-2026-crypto-slowdown-weighs-on-earnings/slideshow/130951413.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/10-midcap-stocks-crash-up-to-50-from-their-peaks-are-you-holding-any/slideshow/130954813.cms",
     "category": "finance",
-    "title": "\u200bCoinbase Q1 2026: Crypto slowdown weighs on earnings",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-130950986,imgsize-143100.cms",
+    "title": "10 midcap stocks crash up to 50% from their peaks. Are you holding any?",
+    "summary": "Midcap stocks are showing sharp divergence despite headline indices staying resilient. Several names have corrected 35 to 50 percent from their 52-week highs, signalling underlying weakness. The list highlights key laggards across sectors, even as th",
+    "image": "https://img.etimg.com/photo/msid-130954563,imgsize-96642.cms",
     "source": "ET",
-    "pubDate": "Fri, 08 May 2026 11:39:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/coinbase-q1-2026-crypto-slowdown-weighs-on-earnings/slideshow/130951413.cms"
+    "pubDate": "Fri, 08 May 2026 14:02:27 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-midcap-stocks-crash-up-to-50-from-their-peaks-are-you-holding-any/slideshow/130954813.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/live-blog/sbi-q4-results-fy26-live-updates-state-bank-of-india-q4-earnings-profit-loss-dividend-bonus-announcement/liveblog/130950682.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/india-still-overvalued-versus-asian-peers-earnings-downgrades-the-elephant-in-the-room-manishi-raychaudhuri/articleshow/130954388.cms",
     "category": "finance",
-    "title": "SBI Q4 FY26 Results Live Updates: State Bank of India among key companies to announce Q4 results today. Check profit, NI",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-130950682,imgsize-57488.cms",
+    "title": "India still overvalued versus Asian peers, earnings downgrades the 'elephant in the room': Manishi Raychaudhuri",
+    "summary": "India's valuation gap with Asian peers persists due to declining earnings estimates across all sectors, a stark contrast to Korea and Taiwan where surging EPS forecasts have made rallies cheaper. Veteran investor Manishi Raychaudhuri highlights this ",
+    "image": "https://img.etimg.com/photo/msid-130954388,imgsize-17436.cms",
     "source": "ET",
-    "pubDate": "Fri, 08 May 2026 11:30:20 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/sbi-q4-results-fy26-live-updates-state-bank-of-india-q4-earnings-profit-loss-dividend-bonus-announcement/liveblog/130950682.cms"
+    "pubDate": "Fri, 08 May 2026 13:56:56 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/india-still-overvalued-versus-asian-peers-earnings-downgrades-the-elephant-in-the-room-manishi-raychaudhuri/articleshow/130954388.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-hdfc-bank-other-bank-stocks-drop-up-to-2-nifty-bank-falls-440-points-what-lies-ahead/articleshow/130950641.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-pulls-back-from-record-high-as-softbank-group-falls/articleshow/130954151.cms",
     "category": "finance",
-    "title": "Axis Bank, HDFC Bank, other bank stocks drop up to 2%, Nifty Bank falls 440 points. What lies ahead?",
-    "summary": "Banking stocks dragged the Nifty Bank index lower by nearly 440 points amid weakness in heavyweight lenders like HDFC Bank and Axis Bank. Broader market pressure from rising oil prices and FII outflows weighed on sentiment, while analysts flagged key",
-    "image": "https://img.etimg.com/photo/msid-130950641,imgsize-35254.cms",
+    "title": "Global Markets | Japan's Nikkei pulls back from record high as SoftBank Group falls",
+    "summary": "Technology investor SoftBank Group fell 4.56% \u2060to drag the Nikkei lower the most after the \u200bU.S.-listed shares of Arm Holdings tumbled overnight on smartphone market weakness \u200band AI chip supply concerns.",
+    "image": "https://img.etimg.com/photo/msid-130954151,imgsize-263388.cms",
     "source": "ET",
-    "pubDate": "Fri, 08 May 2026 11:28:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-hdfc-bank-other-bank-stocks-drop-up-to-2-nifty-bank-falls-440-points-what-lies-ahead/articleshow/130950641.cms"
+    "pubDate": "Fri, 08 May 2026 13:45:22 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-pulls-back-from-record-high-as-softbank-group-falls/articleshow/130954151.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/shakti-pumps-shares-tumble-7-as-q4-profit-drops-65-yoy/articleshow/130950539.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/vikram-solar-shares-slide-5-as-q4-margins-take-a-hit-profit-jumps-21-yoy/articleshow/130954073.cms",
     "category": "finance",
-    "title": "Shakti Pumps shares tumble 7% as Q4 profit drops 65% YoY",
-    "summary": "Shakti Pumps saw revenue climb significantly. However, costs rose sharply, impacting profits. Earnings per share dropped considerably. Despite this, the board proposed a dividend. The company's stock has fallen over the past year. Institutional inves",
-    "image": "https://img.etimg.com/photo/msid-130950539,imgsize-550810.cms",
+    "title": "Vikram Solar shares slide 5% as Q4 margins take a hit; profit jumps 21% YoY",
+    "summary": "Vikram Solar shares fell sharply on Friday as Q4 margins contracted sharply, even though profit rose 21% year-on-year. Revenue grew 22% and EBITDA improved modestly, but a 300-bps margin decline weighed on sentiment. Despite strong FY26 growth, near-",
+    "image": "https://img.etimg.com/photo/msid-130954073,imgsize-116166.cms",
     "source": "ET",
-    "pubDate": "Fri, 08 May 2026 11:25:19 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/shakti-pumps-shares-tumble-7-as-q4-profit-drops-65-yoy/articleshow/130950539.cms"
+    "pubDate": "Fri, 08 May 2026 13:41:50 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/vikram-solar-shares-slide-5-as-q4-margins-take-a-hit-profit-jumps-21-yoy/articleshow/130954073.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-blames-hdfc-bank-controversy-for-impacting-banking-sector-valuations/articleshow/130950307.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/sandip-sabharwal-remains-bullish-on-fmcg-retail-and-defence-themes/articleshow/130952994.cms",
     "category": "finance",
-    "title": "Jefferies blames HDFC Bank controversy for impacting banking sector valuations",
-    "summary": "Jefferies said the leadership uncertainty at HDFC Bank has become a major overhang for the banking sector, dragging benchmark valuations despite strong fundamentals. The brokerage believes clarity on the bank\u2019s management succession, along with easin",
-    "image": "https://img.etimg.com/photo/msid-130950307,imgsize-38692.cms",
+    "title": "Sandip Sabharwal remains bullish on FMCG, retail and defence themes",
+    "summary": "Indian equity markets are poised for a potential rally driven by strong corporate earnings and resilient consumer demand, according to market expert Sandip Sabharwal. He believes a resolution to West Asia tensions could lead to a sharp correction in ",
+    "image": "https://img.etimg.com/photo/msid-130952994,imgsize-15384.cms",
     "source": "ET",
-    "pubDate": "Fri, 08 May 2026 11:23:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-blames-hdfc-bank-controversy-for-impacting-banking-sector-valuations/articleshow/130950307.cms"
+    "pubDate": "Fri, 08 May 2026 12:55:22 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/sandip-sabharwal-remains-bullish-on-fmcg-retail-and-defence-themes/articleshow/130952994.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-drop-2-after-skyrocketing-92-in-one-month-time-to-buy-or-better-to-wait/articleshow/130950437.cms",
-    "category": "finance",
-    "title": "HFCL shares drop 2% after skyrocketing 92% in one month. Time to buy or better to wait?",
-    "summary": "HFCL shares saw a 2% dip after a significant 92% surge in a month which prompted profit booking. Despite this, the stock has rallied nearly 147% year-to-date. Analysts at Geojit maintain a 'Buy' rating with a target of Rs 150, citing a strong order b",
-    "image": "https://img.etimg.com/photo/msid-130950437,imgsize-43898.cms",
-    "source": "ET",
-    "pubDate": "Fri, 08 May 2026 11:22:08 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-drop-2-after-skyrocketing-92-in-one-month-time-to-buy-or-better-to-wait/articleshow/130950437.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1535848.html",
+    "category": "sports",
+    "title": "Shanto ton, Mominul fifty frustrate Pakistan in second session of Mirpur Test",
+    "summary": "Shanto made 101 before falling just moments before the tea break",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416700/416707.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 08 May 2026 09:04:46 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1535848.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c0ljrp76ywxo#1",
@@ -276,8 +266,48 @@
     "summary": "See which parties are winning - and losing \u2013 across the UK and who\u2019s won in your area, using our interactive tool.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 08 May 2026 07:13:31 GMT",
+    "pubDate": "Fri, 08 May 2026 08:58:20 GMT",
     "link": "https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c62nq678nyzo#1",
+    "category": "global",
+    "title": "When will we know the full results?",
+    "summary": "Millions have voted in parliamentary elections in Scotland and Wales, and local elections in England.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 08 May 2026 08:48:36 GMT",
+    "link": "https://www.bbc.com/news/articles/c62nq678nyzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvgz8d556zpo#1",
+    "category": "global",
+    "title": "Chris Mason: What the results tell us so far",
+    "summary": "So far, we have a chunk of the results around the parts of England that have had contests and no results yet from Scotland or Wales.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 08 May 2026 08:42:40 GMT",
+    "link": "https://www.bbc.com/news/articles/cvgz8d556zpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ce8p4yn448vo#1",
+    "category": "global",
+    "title": "John Curtice: First results shows how fragmented UK politics has become",
+    "summary": "Reform are the winners so far, with more results still to be declared.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 08 May 2026 08:13:16 GMT",
+    "link": "https://www.bbc.com/news/articles/ce8p4yn448vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1535839.html",
+    "category": "sports",
+    "title": "'It is frustrating' - Miller waits for his turn as DC risk slipping out of playoff race",
+    "summary": "\"This is not my first IPL, so I kind of understand the make-up,\" David Miller says of being left out of the DC playing XI",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416600/416695.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 08 May 2026 07:50:19 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1535839.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1535837.html",
@@ -330,16 +360,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1535834.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cvgz8d556zpo#1",
-    "category": "global",
-    "title": "Chris Mason: What the results tell us so far",
-    "summary": "So far, we have a chunk of the results around the parts of England that have had contests and no results yet from Scotland or Wales.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 08 May 2026 06:16:02 GMT",
-    "link": "https://www.bbc.com/news/articles/cvgz8d556zpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c5yr41vq2ero#3",
     "category": "global",
     "title": "Third British national has suspected hantavirus infection, government says",
@@ -358,26 +378,6 @@
     "source": "BBC",
     "pubDate": "Fri, 08 May 2026 05:57:08 GMT",
     "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvgz155y9exo#1",
-    "category": "global",
-    "title": "Election results at a glance \u2013 and what's still to come",
-    "summary": "Reform UK has made gains at the expense of Labour and the Conservatives in early council election results overnight.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 08 May 2026 05:50:27 GMT",
-    "link": "https://www.bbc.com/news/articles/cvgz155y9exo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c62nq678nyzo#1",
-    "category": "global",
-    "title": "When will we know the results?",
-    "summary": "Millions have voted in parliamentary elections in Scotland and Wales, and local elections in England.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 08 May 2026 05:00:47 GMT",
-    "link": "https://www.bbc.com/news/articles/c62nq678nyzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1535811.html",
