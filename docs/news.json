@@ -220,6 +220,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-weighs-stake-transfer-to-boost-india-unit-capital-report/articleshow/130964672.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cdrpxvz61vko#1",
+    "category": "global",
+    "title": "Plaid Cymru ready to run Wales, leader says, after party wins Senedd vote",
+    "summary": "Plaid Cymru becomes the biggest party in the Welsh Parliament, ending Labour's century long election winning streak in Wales.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 08 May 2026 21:24:20 GMT",
+    "link": "https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/mcx-q4-results-cons-pat-soars-291-yoy-to-rs-530-crore-revenue-triples-rs-8-per-share-dividend-announced/articleshow/130963666.cms",
     "category": "finance",
     "title": "MCX Q4 Results: Cons PAT soars 291% YoY to Rs 530 crore, revenue triples; Rs 8 per share dividend announced",
@@ -318,16 +328,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 08 May 2026 18:03:09 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1535872.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5yr41vq2ero#3",
-    "category": "global",
-    "title": "Britons on virus-hit cruise ship will be tested before charter flight back to UK",
-    "summary": "Five cases of hantavirus have been confirmed in total, including one of the three passengers on the MV Hondius who died.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 08 May 2026 17:57:28 GMT",
-    "link": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1535889.html",
