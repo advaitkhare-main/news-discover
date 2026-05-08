@@ -210,6 +210,26 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jane-street-rakes-in-record-first-quarter-trading-haul-of-16-1-billion-sources-say/articleshow/130965863.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c0r255xlr59o#1",
+    "category": "global",
+    "title": "Reform election gains show shift in British politics, says Farage",
+    "summary": "Labour and the Conservatives suffer losses at the expense of Reform across England.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 08 May 2026 22:34:46 GMT",
+    "link": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cz62dwe30wdo#0",
+    "category": "global",
+    "title": "Starmer under pressure as Labour suffers heavy election losses including historic Wales defeat",
+    "summary": "Reform makes huge gains in England, as Labour loses power in Wales and the SNP  becomes the largest party in Scotland.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 08 May 2026 22:17:34 GMT",
+    "link": "https://www.bbc.com/news/articles/cz62dwe30wdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-weighs-stake-transfer-to-boost-india-unit-capital-report/articleshow/130964672.cms",
     "category": "finance",
     "title": "Vodafone weighs stake transfer to boost India unit capital: Report",
@@ -218,6 +238,16 @@
     "source": "ET",
     "pubDate": "Fri, 08 May 2026 22:15:25 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-weighs-stake-transfer-to-boost-india-unit-capital-report/articleshow/130964672.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cq5pwz743j9o#2",
+    "category": "global",
+    "title": "William hails Sir David Attenborough's 'remarkable milestone' at 100th birthday concert",
+    "summary": "The naturalist's seven-decade career was marked with a night of memories, live music and special guests at the Royal Albert Hall.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 08 May 2026 21:54:27 GMT",
+    "link": "https://www.bbc.com/news/articles/cq5pwz743j9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cdrpxvz61vko#1",
@@ -248,16 +278,6 @@
     "source": "BBC",
     "pubDate": "Fri, 08 May 2026 20:54:06 GMT",
     "link": "https://www.bbc.com/news/articles/c5yxr7zng6po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/ce3pqvdl1zlo#2",
-    "category": "global",
-    "title": "King Charles sends Attenborough a birthday message with help from 'friends'",
-    "summary": "In a video message from Buckingham Palace, wildlife helps the King deliver a birthday card for Sir David Attenborough.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 08 May 2026 20:07:21 GMT",
-    "link": "https://www.bbc.com/news/videos/ce3pqvdl1zlo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1535887.html",
@@ -368,25 +388,5 @@
     "source": "BBC",
     "pubDate": "Fri, 08 May 2026 16:56:45 GMT",
     "link": "https://www.bbc.com/news/articles/c5y84453d9qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0r255xlr59o#1",
-    "category": "global",
-    "title": "Reform election gains show shift in British politics, says Farage",
-    "summary": "Labour and the Conservatives suffer losses at the expense of Reform across England.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 08 May 2026 14:46:14 GMT",
-    "link": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cevevg98125o#2",
-    "category": "global",
-    "title": "Ten of Attenborough's best documentaries and where to watch them",
-    "summary": "From hanging out with primates to early climate warnings, here's a selection of his trailblazing programmes.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 08 May 2026 14:38:10 GMT",
-    "link": "https://www.bbc.com/news/articles/cevevg98125o?at_medium=RSS&at_campaign=rss"
   }
 ]
