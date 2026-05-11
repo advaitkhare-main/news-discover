@@ -20,6 +20,26 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://www.ndtv.com/india-news/madhya-pradesh-youth-arrested-for-killing-man-over-online-gaming-dispute-11481329#publisher=newsstand",
+    "category": "india",
+    "title": "Madhya Pradesh Youth Arrested For Killing Man Over Online Gaming Dispute",
+    "summary": "According to the police, Sameer Patel (32) was found dead in the Betma police station area on May 7.",
+    "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 12 May 2026 01:59:29 +0530",
+    "link": "https://www.ndtv.com/india-news/madhya-pradesh-youth-arrested-for-killing-man-over-online-gaming-dispute-11481329#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/pm-modi-other-dignitaries-arrive-in-guwahati-for-nda-governments-oath-taking-11481319#publisher=newsstand",
+    "category": "india",
+    "title": "PM Modi, Other Dignitaries Arrive In Guwahati For NDA Government's Oath Taking",
+    "summary": "PM Modi arrived in Guwahati on Monday night to attend oath taking ceremony of NDA government.",
+    "image": "https://c.ndtvimg.com/2024-05/3ng1iro_pm-modi-pti_625x300_01_May_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 12 May 2026 01:51:53 +0530",
+    "link": "https://www.ndtv.com/india-news/pm-modi-other-dignitaries-arrive-in-guwahati-for-nda-governments-oath-taking-11481319#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-inches-to-higher-close-ai-fervor-edges-out-iran-impasse/articleshow/131023447.cms",
     "category": "finance",
     "title": "US stocks today: S&amp;P 500 inches to higher close, AI fervor edges out Iran impasse",
@@ -128,26 +148,6 @@
     "source": "NDTV",
     "pubDate": "Mon, 11 May 2026 23:51:50 +0530",
     "link": "https://www.ndtv.com/world-news/us-iran-war-global-energy-shock-from-iran-war-may-extend-till-2027-saudi-aramco-chief-11481098#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/donald-trump-china-visit-trump-says-will-discuss-us-arms-sales-to-taiwan-with-xi-during-china-trip-11480996#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Says Will Discuss US Arms Sales To Taiwan With Xi During China Trip",
-    "summary": "Trump, after referencing Russia's invasion of Ukraine, said of Taiwan, \"I don't think it'll happen.\"",
-    "image": "https://c.ndtvimg.com/2025-08/3l6fqkfc_trump-xi-afp_625x300_16_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 23:28:17 +0530",
-    "link": "https://www.ndtv.com/world-news/donald-trump-china-visit-trump-says-will-discuss-us-arms-sales-to-taiwan-with-xi-during-china-trip-11480996#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/what-next-for-tamil-nadu-chief-minister-vijay-trust-vote-date-yet-to-be-fixed-11480805#publisher=newsstand",
-    "category": "india",
-    "title": "What Next For Tamil Nadu Chief Minister Vijay? Trust Vote Date Yet To Be Fixed",
-    "summary": "The breakthrough for Vijay came after CPI and CPM decided to extend outside support.",
-    "image": "https://c.ndtvimg.com/2026-05/i7ebpm08_vijay-c-joseph-_625x300_10_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 23:21:40 +0530",
-    "link": "https://www.ndtv.com/india-news/what-next-for-tamil-nadu-chief-minister-vijay-trust-vote-date-yet-to-be-fixed-11480805#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131019167.cms",
@@ -280,16 +280,6 @@
     "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c3r2pr95yq0o#0",
-    "category": "global",
-    "title": "Analysis: Has Starmer done enough to save his premiership?",
-    "summary": "Was the prime minister's speech enough to avert a challenge to his leadership less than two years after he won a landslide general election victory?",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 11 May 2026 17:49:51 GMT",
-    "link": "https://www.bbc.com/news/articles/c3r2pr95yq0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1536304.html",
     "category": "sports",
     "title": "Chappell, Bashir combine as Derbyshire claim overdue first win",
@@ -328,6 +318,16 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 11 May 2026 17:10:52 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1536322.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c3325n0054no#0",
+    "category": "global",
+    "title": "Man accused of Starmer arson attacks did not intend to endanger life, court hears",
+    "summary": "A Ukrainian man accused of the attack says he was forced to start the fire after being recruited online.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 11 May 2026 17:09:49 GMT",
+    "link": "https://www.bbc.com/news/articles/c3325n0054no?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cx21j20l9wlo#0",
