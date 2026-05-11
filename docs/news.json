@@ -30,26 +30,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cgkpgm6vk48o#0",
-    "category": "global",
-    "title": "Why Eurovision's fallout over Israel may change the competition forever",
-    "summary": "With Eurovision facing its biggest boycott in 70 years, questions are growing over the competition's future.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 10 May 2026 23:33:57 GMT",
-    "link": "https://www.bbc.com/news/articles/cgkpgm6vk48o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx21ej471g2o#0",
-    "category": "global",
-    "title": "Tourist hotspot at 'end of the world' denies causing hantavirus outbreak",
-    "summary": "The BBC reports from the city of Ushuaia, where experts have been sent to investigate the origins of the outbreak.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 10 May 2026 20:05:53 GMT",
-    "link": "https://www.bbc.com/news/articles/cx21ej471g2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -70,174 +50,204 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
-    "id": "https://www.ndtv.com/india-news/kanyakumari-to-kashmir-indo-australian-man-om-satija-runs-to-end-leprosy-stigma-11479566#publisher=newsstand",
-    "category": "india",
-    "title": "Kanyakumari To Kashmir: Indo-Australian Man Runs To End Leprosy Stigma",
-    "summary": "For Om Satija, the mission is simple: replace stigma with compassion for leprosy patients.",
-    "image": "https://c.ndtvimg.com/2026-05/t9n5o8es_om-satija_625x300_11_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 18:45:32 +0530",
-    "link": "https://www.ndtv.com/india-news/kanyakumari-to-kashmir-indo-australian-man-om-satija-runs-to-end-leprosy-stigma-11479566#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/can-black-licorice-help-treat-inflammatory-bowel-disease-researchers-say-yes-11479445#publisher=newsstand",
-    "category": "india",
-    "title": "Can Black Licorice Help Treat Inflammatory Bowel Disease? Researchers Say Yes",
-    "summary": "Scientists recently discovered that glycyrrhizin, a substance taken from black licorice root, may reduce inflammation and protect the intestines from damage caused due to IBD.",
-    "image": "https://c.ndtvimg.com/2026-05/1ufck15c_black-licorice_625x300_11_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 18:37:30 +0530",
-    "link": "https://www.ndtv.com/health/can-black-licorice-help-treat-inflammatory-bowel-disease-researchers-say-yes-11479445#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/wearables-with-location-and-surveys-may-capture-exposures-health-effects-study-11479316#publisher=newsstand",
-    "category": "india",
-    "title": "Wearables Could Track Health Risks Using Location Data And Surveys: Study",
-    "summary": "Wearable devices, along with location data from smartphones and real-time surveys, could help capture environmental exposures and their immediate physical and emotional effects, a new pilot study has shown.",
-    "image": "https://c.ndtvimg.com/2025-06/do3pa6t8_fitbit_625x300_18_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 18:23:03 +0530",
-    "link": "https://www.ndtv.com/health/wearables-with-location-and-surveys-may-capture-exposures-health-effects-study-11479316#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/jnv-lest-2026-result-declared-for-class-11-admissions-at-navodaya-gov-in-11479409#publisher=newsstand",
-    "category": "india",
-    "title": "Navodaya LEST 2026 Result Out: Class 11 Scorecards Available Online",
-    "summary": "How To Check And Download JNV LEST 2026 Scorecard Online",
-    "image": "https://c.ndtvimg.com/2026-05/qb517v84_jnv-11-result_625x300_11_May_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 18:17:36 +0530",
-    "link": "https://www.ndtv.com/education/jnv-lest-2026-result-declared-for-class-11-admissions-at-navodaya-gov-in-11479409#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-radar-gold-choppy-ahead-of-us-inflation-data-sell-on-rise-for-these-targets/articleshow/131014430.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/early-lenskart-investor-alpha-wave-trims-stake-by-2-5-in-open-market/articleshow/131018489.cms",
     "category": "finance",
-    "title": "Commodity Radar: Gold choppy ahead of US inflation data. Sell on rise for these targets?",
-    "summary": "Gold prices are expected to remain volatile with a mild downside bias this week as traders monitor US inflation data, Donald Trump\u2019s China visit and US-Iran talks. Technical indicators suggest cautious sentiment, while analysts recommend a sell-on-ri",
-    "image": "https://img.etimg.com/photo/msid-131014430,imgsize-89744.cms",
+    "title": "Early Lenskart investor Alpha Wave trims stake by 2.5% in open market",
+    "summary": "Alpha Wave Ventures reduced its stake in Lenskart through a major open market transaction, selling 2.46% holding in the eyewear retailer. Despite the stake sale, analysts remain optimistic on Lenskart\u2019s long-term growth, citing strong revenue potenti",
+    "image": "https://img.etimg.com/photo/msid-131018489,imgsize-60946.cms",
     "source": "ET",
-    "pubDate": "Mon, 11 May 2026 18:16:02 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-radar-gold-choppy-ahead-of-us-inflation-data-sell-on-rise-for-these-targets/articleshow/131014430.cms"
+    "pubDate": "Mon, 11 May 2026 21:34:02 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/early-lenskart-investor-alpha-wave-trims-stake-by-2-5-in-open-market/articleshow/131018489.cms"
   },
   {
-    "id": "https://www.ndtv.com/opinion/why-india-should-be-watching-chinas-new-shipborne-drone-closely-11479352#publisher=newsstand",
-    "category": "india",
-    "title": "Opinion: Opinion | 'Hellish Difficulty': Why India Should Be Keeping An Eye On China's New 'Shipborne' Drone",
-    "summary": "The GJ-21, which has a reported combat attack radius of up to 1,500 kilometres, when combined with a land-attack long-range precision-strike system, can have the ability to strike deep within a territory's mainland.",
-    "image": "https://c.ndtvimg.com/2026-05/f6e7pboo_gj21_625x300_11_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 18:09:26 +0530",
-    "link": "https://www.ndtv.com/opinion/why-india-should-be-watching-chinas-new-shipborne-drone-closely-11479352#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/kerala-chief-minister-rahul-gandhi-kerala-chief-minister-or-nothing-vd-satheesans-big-demand-to-congress-11479048#publisher=newsstand",
-    "category": "india",
-    "title": "Kerala Chief Minister Or Nothing: Sources On VD Satheesan's Big Demand",
-    "summary": "Top Congress leaders envision Satheesan being a key minister in a government led by KC Venugopal.",
-    "image": "https://c.ndtvimg.com/2026-05/lq7cept_vd-satheesan-rahul-gandhi-_650x400_11_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 18:08:36 +0530",
-    "link": "https://www.ndtv.com/india-news/kerala-chief-minister-rahul-gandhi-kerala-chief-minister-or-nothing-vd-satheesans-big-demand-to-congress-11479048#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/hantavirus-in-immunocompromised-patients-are-risks-higher-11479279#publisher=newsstand",
-    "category": "india",
-    "title": "Hantavirus In Immunocompromised Patients: Are Risks Higher?",
-    "summary": "Hantavirus remains under-recognised because it is rare and begins with nonspecific symptoms",
-    "image": "https://c.ndtvimg.com/2026-05/3un1joj4_hantavirus_625x300_10_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 18:01:32 +0530",
-    "link": "https://www.ndtv.com/health/hantavirus-in-immunocompromised-patients-are-risks-higher-11479279#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/why-doctors-warn-against-consuming-unripe-watermelon-11479002#publisher=newsstand",
-    "category": "india",
-    "title": "Why Doctors Warn Against Consuming Unripe Watermelon",
-    "summary": "Consuming unripe watermelon can cause digestive issues such as bloating, acidity and gastric distress",
-    "image": "https://c.ndtvimg.com/2026-05/ge90q1bs_unripe-watermelon_625x300_11_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 18:01:00 +0530",
-    "link": "https://www.ndtv.com/health/why-doctors-warn-against-consuming-unripe-watermelon-11479002#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-john-neff-inflection-points-occur-in-the-market-and-around-them-performance-can-suffer-but-you-have-to-stick-to-your-guns-/articleshow/131008523.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/satin-creditcare-profit-jumps-on-lower-bad-loan-provisions/articleshow/131018362.cms",
     "category": "finance",
-    "title": "Quote of the day by John Neff: \"Inflection points occur in the market, and around them performance can suffer, but you h",
-    "summary": "John Neff\u2019s timeless reminder urges investors to stay disciplined during market inflection points\u2014those uneasy phases when trends shift, portfolios wobble, and emotions run high. While uncertainty can trigger panic, long-term wealth is built by holdi",
-    "image": "https://img.etimg.com/photo/msid-131008523,imgsize-5300.cms",
+    "title": "Satin Creditcare profit jumps on lower bad loan provisions",
+    "summary": "Satin Creditcare Network reported a sharp rise in fourth-quarter profit driven by business growth, lower bad loan provisions and improved asset quality. The microfinance lender also recorded strong annual earnings growth, while assets under managemen",
+    "image": "https://img.etimg.com/photo/msid-131018362,imgsize-5164.cms",
     "source": "ET",
-    "pubDate": "Mon, 11 May 2026 18:00:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-john-neff-inflection-points-occur-in-the-market-and-around-them-performance-can-suffer-but-you-have-to-stick-to-your-guns-/articleshow/131008523.cms"
+    "pubDate": "Mon, 11 May 2026 21:27:09 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/satin-creditcare-profit-jumps-on-lower-bad-loan-provisions/articleshow/131018362.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-sbi-indigo-and-titan-among-8-big-movers-on-monday-/slideshow/131013807.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/satin-creditcare-profit-jumps-on-lower-bad-loan-provisions/articleshow/131018405.cms",
     "category": "finance",
-    "title": "Gainers &amp; Losers: SBI, Indigo and Titan among 8 big movers on Monday \u200b",
-    "summary": "While Nifty plunged 360.30 points or 1.49% to close at 23,815.85, the BSE Sensex settled at 76,015.28, down 1312.91 points or 1.70%.",
-    "image": "https://img.etimg.com/photo/msid-131013807,imgsize-1986834.cms",
+    "title": "Satin Creditcare profit jumps on lower bad loan provisions",
+    "summary": "Satin Creditcare Network reported a sharp rise in fourth-quarter profit driven by business growth, lower bad loan provisions and improved asset quality. The microfinance lender also recorded strong annual earnings growth, while assets under managemen",
+    "image": "https://img.etimg.com/photo/msid-131018405,imgsize-82868.cms",
     "source": "ET",
-    "pubDate": "Mon, 11 May 2026 17:48:02 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-sbi-indigo-and-titan-among-8-big-movers-on-monday-/slideshow/131013807.cms"
+    "pubDate": "Mon, 11 May 2026 21:23:12 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/satin-creditcare-profit-jumps-on-lower-bad-loan-provisions/articleshow/131018405.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/oil-led-inflation-fears-sap-demand-for-indian-bonds/articleshow/131013698.cms",
+    "id": "https://www.ndtv.com/health/getting-a-skin-rash-after-eating-raw-mangoes-heres-why-and-what-to-do-about-it-11478943#publisher=newsstand",
+    "category": "india",
+    "title": "Getting A Skin Rash After Eating Raw Mangoes? Here's Why And What To Do About It",
+    "summary": "Raw mango peel and sap can trigger uncomfortable skin reactions",
+    "image": "https://c.ndtvimg.com/2026-05/a3juclkg_raw-mango_625x300_11_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 11 May 2026 21:20:05 +0530",
+    "link": "https://www.ndtv.com/health/getting-a-skin-rash-after-eating-raw-mangoes-heres-why-and-what-to-do-about-it-11478943#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/q1-fuel-losses-may-eliminate-entire-fiscal-year-earnings/articleshow/131018282.cms",
     "category": "finance",
-    "title": "Oil-led inflation fears sap demand for Indian bonds",
-    "summary": "Separately, Prime Minister Narendra Modi on Sunday \u2060urged Indians to \u200cconserve fuel, resume work-from-home, limit non-essential overseas travel, cut \u200bcooking oil \u200bconsumption and reduce fertiliser use as surging global energy \u2060prices pressure India's",
-    "image": "https://img.etimg.com/photo/msid-131013698,imgsize-194186.cms",
+    "title": "Q1 fuel losses may eliminate entire fiscal-year earnings",
+    "summary": "Despite a 50 per cent surge in input crude oil prices, petrol and diesel continue to be priced at a two-year-old rate of Rs 94.77 a litre and Rs 87.67 per litre respectively. Domestic cooking gas LPG prices were raised in March by Rs 60 per cylinder,",
+    "image": "https://img.etimg.com/photo/msid-131018282,imgsize-102724.cms",
     "source": "ET",
-    "pubDate": "Mon, 11 May 2026 17:45:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/oil-led-inflation-fears-sap-demand-for-indian-bonds/articleshow/131013698.cms"
+    "pubDate": "Mon, 11 May 2026 21:20:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-fuel-losses-may-eliminate-entire-fiscal-year-earnings/articleshow/131018282.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-war-peace-talks-brent-crude-oil-earnings-intel-apple-tech-stock-price-news/liveblog/131013629.cms",
+    "id": "https://www.ndtv.com/world-news/elon-musk-tim-cook-to-be-part-of-team-trump-for-key-china-tour-report-11480378#publisher=newsstand",
+    "category": "india",
+    "title": "Elon Musk, Tim Cook To Be Part Of Team Trump For Key China Tour: Report",
+    "summary": "Donald Trump will make a state to China visit from May 13 to 15.",
+    "image": "https://c.ndtvimg.com/2024-12/mmgmmn2g_donald-trump-elon-musk_625x300_23_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 11 May 2026 21:18:03 +0530",
+    "link": "https://www.ndtv.com/world-news/elon-musk-tim-cook-to-be-part-of-team-trump-for-key-china-tour-report-11480378#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/q1-fuel-losses-may-eliminate-entire-fiscal-year-earnings/articleshow/131018267.cms",
     "category": "finance",
-    "title": "US Stock Market Today | Dow Jones | Nasdaq Live: US stocks take a breather after record rally; oil surges as Iran tensio",
+    "title": "Q1 fuel losses may eliminate entire fiscal-year earnings of Indian OMCs",
+    "summary": "Since the war broke out in the Middle East 10 weeks ago, state-owned oil marketing companies (OMCs) have ensured uninterrupted supplies of petrol, diesel and cooking gas LPG at rates that are way below cost, unlike many global energy systems that imp",
+    "image": "https://img.etimg.com/photo/msid-131018267,imgsize-25830.cms",
+    "source": "ET",
+    "pubDate": "Mon, 11 May 2026 21:16:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-fuel-losses-may-eliminate-entire-fiscal-year-earnings/articleshow/131018267.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/groww-stake-sale-sequoia-capita-ribbit-and-yc-holdings-to-sell-equity-worth-rs-4750-crore-floor-price-at-rs-177/share/articleshow/131018175.cms",
+    "category": "finance",
+    "title": "Groww stake sale: Peak XV, Sequoia, others to sell equity worth Rs 4,750 crore; floor price at Rs 177/share",
+    "summary": "Existing investors in Groww, including Sequoia Capital and Ribbit Capital, plan to sell shares worth Rs 4,750 crore through block deals at a discount. The proposed transaction triggered a sharp decline in the stock price amid concerns over large inst",
+    "image": "https://img.etimg.com/photo/msid-131018175,imgsize-28086.cms",
+    "source": "ET",
+    "pubDate": "Mon, 11 May 2026 21:14:08 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/groww-stake-sale-sequoia-capita-ribbit-and-yc-holdings-to-sell-equity-worth-rs-4750-crore-floor-price-at-rs-177/share/articleshow/131018175.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/5-best-exercises-that-can-help-reduce-lower-leg-pain-11480047#publisher=newsstand",
+    "category": "india",
+    "title": "5 Best Exercises That Can Help Reduce Lower Leg Pain",
+    "summary": "Regular exercise not only helps reduce lower leg pain but also strengthens the muscles that support the legs and ankles.",
+    "image": "https://c.ndtvimg.com/2026-05/9aicjcig_calf-stretch_625x300_11_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 11 May 2026 21:11:10 +0530",
+    "link": "https://www.ndtv.com/health/5-best-exercises-that-can-help-reduce-lower-leg-pain-11480047#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-tata-consumer-and-welspun-corp-on-tuesday-for-gains-up-to-14/articleshow/131018000.cms",
+    "category": "finance",
+    "title": "Market Trading Guide: Buy Tata Consumer and Welspun Corp on Tuesday for gains up to 14%",
+    "summary": "Nifty extended losses for a third straight session amid heavy selling in banking, auto and energy stocks. Analysts warned of a bearish trend after technical breakdowns below key moving averages, while recommending Tata Consumer and Welspun Corp as bu",
+    "image": "https://img.etimg.com/photo/msid-131018000,imgsize-46266.cms",
+    "source": "ET",
+    "pubDate": "Mon, 11 May 2026 21:09:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-tata-consumer-and-welspun-corp-on-tuesday-for-gains-up-to-14/articleshow/131018000.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/tai-chi-walking-vs-normal-walking-which-one-is-more-beneficial-to-your-joints-11480242#publisher=newsstand",
+    "category": "india",
+    "title": "Tai Chi Walking vs Normal Walking: Which One Is More Beneficial To Your Joints?",
+    "summary": "Tai Chi walking encourages better blood flow",
+    "image": "https://c.ndtvimg.com/2026-05/l93429hg_tai-chi_625x300_11_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 11 May 2026 20:58:08 +0530",
+    "link": "https://www.ndtv.com/health/tai-chi-walking-vs-normal-walking-which-one-is-more-beneficial-to-your-joints-11480242#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/jp-morgan-sees-brent-staying-in-low-100s-even-if-hormuz-reopens-in-june/articleshow/131017828.cms",
+    "category": "finance",
+    "title": "JP Morgan sees Brent staying in low $100s even if Hormuz reopens in June",
+    "summary": "JP Morgan's revised framework assumes that \u200cthe pace \u2060of \u2060oil inventory depletion will ultimately force the Strait to reopen \"one way or another,\" \u200bwith the bank's base case anchored on a June 1 reopening following a \u200bcredible announcement confirmed ",
+    "image": "https://img.etimg.com/photo/msid-131017828,imgsize-1576112.cms",
+    "source": "ET",
+    "pubDate": "Mon, 11 May 2026 20:58:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jp-morgan-sees-brent-staying-in-low-100s-even-if-hormuz-reopens-in-june/articleshow/131017828.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/israel-palestine-war-extremisms-carry-consequences-eu-sanctions-israeli-settlers-in-west-bank-11480276#publisher=newsstand",
+    "category": "india",
+    "title": "\"Extremisms Carry Consequences\": EU Sanctions Israeli Settlers In West Bank",
+    "summary": "The occupied West Bank has been gripped by almost daily violence involving Israeli troops and settlers.",
+    "image": "https://c.ndtvimg.com/2023-10/cu2n2r4o_israel-gaza-violence_625x300_10_October_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 11 May 2026 20:57:00 +0530",
+    "link": "https://www.ndtv.com/world-news/israel-palestine-war-extremisms-carry-consequences-eu-sanctions-israeli-settlers-in-west-bank-11480276#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/adani-group-building-physical-foundation-for-indias-clean-future-gautam-adani-11480199#publisher=newsstand",
+    "category": "india",
+    "title": "Adani Group Building Physical Foundation For India's Clean Future: Gautam Adani",
+    "summary": "The second foundation is data centres.",
+    "image": "https://c.ndtvimg.com/2026-05/vnkem1m8_gautam-adani_625x300_11_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 11 May 2026 20:44:49 +0530",
+    "link": "https://www.ndtv.com/india-news/adani-group-building-physical-foundation-for-indias-clean-future-gautam-adani-11480199#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/bengaluru-couple-swims-from-sri-lanka-to-india-in-11-hours-via-ram-setu-route-creates-history-11480173#publisher=newsstand",
+    "category": "india",
+    "title": "Bengaluru Couple Swims From Sri Lanka to India in 11 Hours via Ram Setu Route, Creates History",
+    "summary": "The grueling journey took 10 hours and 45 minutes.",
+    "image": "https://c.ndtvimg.com/2026-05/i0td72dk_danish-abdi-and-vrushali-prasade-_625x300_11_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 11 May 2026 20:39:40 +0530",
+    "link": "https://www.ndtv.com/offbeat/bengaluru-couple-swims-from-sri-lanka-to-india-in-11-hours-via-ram-setu-route-creates-history-11480173#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/when-vajpayee-broke-silence-inside-the-day-india-went-nuclear-11480133#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: When Vajpayee Broke Silence: Inside The Day India Went Nuclear",
     "summary": "",
-    "image": "https://img.etimg.com/photo/msid-131013629,imgsize-2275403.cms",
-    "source": "ET",
-    "pubDate": "Mon, 11 May 2026 17:40:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-war-peace-talks-brent-crude-oil-earnings-intel-apple-tech-stock-price-news/liveblog/131013629.cms"
+    "image": "https://c.ndtvimg.com/ij2vtne4_atal-bihari-vajpayee-afp-_625x300_16_August_18.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 11 May 2026 20:31:29 +0530",
+    "link": "https://www.ndtv.com/opinion/when-vajpayee-broke-silence-inside-the-day-india-went-nuclear-11480133#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-sheds-over-11-billion-in-market-value-in-2-sessions-on-margin-squeeze-disappointing-earnings/articleshow/131013510.cms",
-    "category": "finance",
-    "title": "SBI sheds over $11 billion in market value in 2 sessions on margin squeeze, disappointing earnings",
-    "summary": "NSE \u200bdata showed the heaviest fresh call writing on SBI's 1,000 strike on Monday, \u200bsignalling that investors expect any near-term rebound in the stock's price to likely be capped at that level.",
-    "image": "https://img.etimg.com/photo/msid-131013510,imgsize-35300.cms",
-    "source": "ET",
-    "pubDate": "Mon, 11 May 2026 17:35:45 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-sheds-over-11-billion-in-market-value-in-2-sessions-on-margin-squeeze-disappointing-earnings/articleshow/131013510.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1536297.html",
+    "category": "sports",
+    "title": "Duckett double-century guides Notts to high-scoring draw",
+    "summary": "England opener converts form into substance with fourth-day knock",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416400/416447.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 11 May 2026 16:24:01 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536297.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/mamaearth-parent-honasa-consumer-may-become-first-new-age-company-to-announce-dividend/articleshow/131013397.cms",
-    "category": "finance",
-    "title": "Mamaearth parent Honasa Consumer may become first new-age company to announce dividend",
-    "summary": "Honasa Consumer\u2019s board will consider a final dividend on May 21 alongside Q4 FY26 results, potentially making Mamaearth\u2019s parent the first listed new-age company to reward shareholders with a dividend amid improving stock performance and steady busi",
-    "image": "https://img.etimg.com/photo/msid-131013397,imgsize-3322.cms",
-    "source": "ET",
-    "pubDate": "Mon, 11 May 2026 17:32:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/mamaearth-parent-honasa-consumer-may-become-first-new-age-company-to-announce-dividend/articleshow/131013397.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1536294.html",
+    "category": "sports",
+    "title": "Sussex beat Leicestershire and the rain for third win of the season",
+    "summary": "Ollie Robinson's wickets were followed by clean hitting from Dan Ibrahim and Tom Clark to chase 131",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415466.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 11 May 2026 16:16:22 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536294.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/who-is-muthukrishnan-dhandapani-and-how-did-he-become-rahul-gandhis-investment-advisor/articleshow/131011773.cms",
-    "category": "finance",
-    "title": "Who is Muthukrishnan Dhandapani and how did he become Rahul Gandhi's investment advisor?",
-    "summary": "Muthukrishnan Dhandapani, a Chennai-based mutual fund distributor and ex-BJP supporter, went viral on X after revealing that he has been advising Rahul Gandhi on his mutual fund investments since 2013. Despite his political leanings, Dhandapani says ",
-    "image": "https://img.etimg.com/photo/msid-131011773,imgsize-1632679.cms",
-    "source": "ET",
-    "pubDate": "Mon, 11 May 2026 16:31:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/who-is-muthukrishnan-dhandapani-and-how-did-he-become-rahul-gandhis-investment-advisor/articleshow/131011773.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1536322.html",
+    "category": "sports",
+    "title": "Hadley heroics steer Glamorgan to famous win over Somerset",
+    "summary": "Nightwatcher Ryan Hadley faces 231 balls for unbeaten fifty, as partnership with Sean Dickson confounds Somerset",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416800/416893.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 11 May 2026 16:14:28 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536322.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/ce9pvxkpz9vo#0",
+    "id": "https://www.bbc.com/news/videos/czx2wd20evyo#0",
     "category": "global",
-    "title": "Man in court after car hits five in town centre",
-    "summary": "Duane Anthony is charged with five counts of attempted murder after the incident  on Saturday.",
+    "title": "'Total lack of respect': Macron interrupts speaker to ask for silence",
+    "summary": "The French president stood up during a conference in Kenya to tell the audience to quieten down, saying it was \u201cimpossible\u201d for speakers to be heard.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 11 May 2026 13:31:01 GMT",
-    "link": "https://www.bbc.com/news/articles/ce9pvxkpz9vo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 11 May 2026 16:10:18 GMT",
+    "link": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c3r2pr95yq0o#0",
@@ -246,58 +256,98 @@
     "summary": "Was the prime minister's speech enough to avert a challenge to his leadership less than two years after he won a landslide general election victory?",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 11 May 2026 13:09:32 GMT",
+    "pubDate": "Mon, 11 May 2026 16:09:46 GMT",
     "link": "https://www.bbc.com/news/articles/c3r2pr95yq0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536293.html",
+    "id": "https://www.espncricinfo.com/ci/content/story/1536226.html",
     "category": "sports",
-    "title": "Hannon-Dalby seals thumping win as Warwickshire complete turnaround",
-    "summary": "Yorkshire last only 53.1 overs in fourth innings after being set mammoth target",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416800/416880.jpg",
+    "title": "'A lot of ifs and buts' but Jayawardene accepts MI 'haven't been good enough'",
+    "summary": "Head coach makes no excuses about his team's failings after being knocked out of the playoffs race",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416800/416848.jpg",
     "source": "Cricinfo",
-    "pubDate": "Mon, 11 May 2026 12:20:37 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536293.html?ex_cid=OTC-RSS"
+    "pubDate": "Mon, 11 May 2026 15:47:55 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536226.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn4pl91npjdo#0",
+    "category": "global",
+    "title": "Ovo energy customers urged not to panic as takeover planned",
+    "summary": "All existing tariffs will be honoured in full under a planned deal that could create one of Britain's largest energy suppliers.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 11 May 2026 15:39:32 GMT",
+    "link": "https://www.bbc.com/news/articles/cn4pl91npjdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/czd2vpdr9g6o#0",
+    "category": "global",
+    "title": "Wordle to become TV quiz show with Savannah Guthrie as host",
+    "summary": "The online word game from the New York Times will hit the small screen in the UK and US from next year.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 11 May 2026 15:12:33 GMT",
+    "link": "https://www.bbc.com/news/articles/czd2vpdr9g6o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c4g83vddnz0o#0",
     "category": "global",
-    "title": "British passengers from hantavirus-hit cruise ship isolating in hospital",
+    "title": "British passengers from cruise ship isolating in hospital",
     "summary": "The passengers landed in the UK on Sunday and none have reported symptoms, but they will will be monitored in hospital for 72 hours.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 11 May 2026 12:12:38 GMT",
+    "pubDate": "Mon, 11 May 2026 14:59:48 GMT",
     "link": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536244.html",
+    "id": "https://www.espncricinfo.com/ci/content/story/1536319.html",
     "category": "sports",
-    "title": "Draw on the cards, but Mominul and Shanto extend Bangladesh's lead",
-    "summary": "Just like the first innings of the Test, the pair dug in to take the sting out of Pakistan's bowling attack",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416800/416872.jpg",
+    "title": "Ashraful backs Bangladesh to beat the clock and Pakistan in rainy Mirpur",
+    "summary": "We can't say who has the upper hand in this Test,\" Pakistan allrounder Agha said",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416700/416710.jpg",
     "source": "Cricinfo",
-    "pubDate": "Mon, 11 May 2026 11:46:08 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536244.html?ex_cid=OTC-RSS"
+    "pubDate": "Mon, 11 May 2026 14:55:02 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536319.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536292.html",
-    "category": "sports",
-    "title": "Kirstie Gordon returns to Scotland squad for T20 World Cup",
-    "summary": "Former England left-arm spinner has requalified for home nation ahead of next month's tournament",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416800/416881.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 11 May 2026 11:45:25 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536292.html?ex_cid=OTC-RSS"
+    "id": "https://www.bbc.com/news/articles/c4g48ewgz8mo#0",
+    "category": "global",
+    "title": "Washington correspondents'  dinner shooting suspect pleads not guilty",
+    "summary": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 11 May 2026 14:52:12 GMT",
+    "link": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536285.html",
+    "id": "https://www.espncricinfo.com/ci/content/story/1536312.html",
     "category": "sports",
-    "title": "CSA postpones SA squad announcement for Women's T20 World Cup",
-    "summary": "A source close to the situation told ESPNcricinfo the delay has been caused by a \"minor internal matter,\" and not a selection controversy",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415800/415892.jpg",
+    "title": "Stonehouse called up to ODI squad as Wong is sent for hamstring scan",
+    "summary": "Warwickshire fast bowler answers call as injury setbacks hit existing seam stocks",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/382900/382970.jpg",
     "source": "Cricinfo",
-    "pubDate": "Mon, 11 May 2026 10:22:08 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536285.html?ex_cid=OTC-RSS"
+    "pubDate": "Mon, 11 May 2026 14:29:22 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536312.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1536310.html",
+    "category": "sports",
+    "title": "DC opt to bowl; Dwarshuis to make PBKS debut",
+    "summary": "DC made five changes - they brought in Sahil Parakh, Abishek Porel, David Miller, Madhav Tiwari and Auqib Nabi",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416700/416751.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 11 May 2026 14:13:22 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536310.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1536307.html",
+    "category": "sports",
+    "title": "Can SRH's power-hitters flip the script against red-hot GT?",
+    "summary": "SRH arrive with momentum in their batting unit but must overcome a poor record against GT in Ahmedabad, as both teams eye No. 1 spot",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416700/416782.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 11 May 2026 14:12:49 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536307.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cgmpj0p9k08o#0",
@@ -310,46 +360,6 @@
     "link": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536280.html",
-    "category": "sports",
-    "title": "ECB weighs up options for maiden England tour of Nepal",
-    "summary": "Potential for T20I tour to be included in 2027-31 FTP, following T20 World Cup thriller",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413112.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 11 May 2026 09:27:42 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536280.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536219.html",
-    "category": "sports",
-    "title": "Peake called into Australia's ODI squad, big three absent, Maxwell left out of T20s",
-    "summary": "Peake, Scott, Joel Davies earn maiden call-ups for different parts of the three-leg white-ball tour of Pakistan and Bangladesh with all format quicks rested while Maxwell has missed the T20 squad",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/412500/412557.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 11 May 2026 09:01:11 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536219.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536242.html",
-    "category": "sports",
-    "title": "'Cricketing IQ' the key as Bhuvneshwar continues to make an impact",
-    "summary": "\"He's becoming sort of an artist now. He's just becoming so, so good at what he's doing,\" raves Ambati Rayudu after Bhuvneshwar Kumar's all-round show sinks Mumbai Indians",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416800/416844.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 11 May 2026 06:56:34 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536242.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536227.html",
-    "category": "sports",
-    "title": "NZ20 launch pushed back to December 2027 'to succeed over the long term'",
-    "summary": "\"This revised timeline gives us the best opportunity to build a world-class competition that New Zealanders can be proud of and that fans deserve\"",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414872.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 11 May 2026 06:53:31 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536227.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c8e86ykkx5jo#0",
     "category": "global",
     "title": "Martin Lewis delivers emotional speech, and nine other Bafta TV moments",
@@ -358,16 +368,6 @@
     "source": "BBC",
     "pubDate": "Mon, 11 May 2026 02:10:32 GMT",
     "link": "https://www.bbc.com/news/articles/c8e86ykkx5jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/clypgz9e5pmo#0",
-    "category": "global",
-    "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-    "summary": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 11 May 2026 01:55:13 GMT",
-    "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1OII24oTfVYyF45IOoAjy8",
