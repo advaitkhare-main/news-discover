@@ -40,26 +40,6 @@
     "link": "https://www.bbc.com/news/articles/cgkpgm6vk48o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c4g83vddnz0o#0",
-    "category": "global",
-    "title": "British passengers from hantavirus-hit cruise ship isolating in hospital",
-    "summary": "The passengers landed in the UK on Sunday and none have reported symptoms, but they will will be monitored in hospital for 72 hours.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 10 May 2026 22:21:55 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c1m2ee3jxvro#0",
-    "category": "global",
-    "title": "Iranian activist tells BBC how fear of war restarting intensifies trauma of repression",
-    "summary": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 10 May 2026 21:01:17 GMT",
-    "link": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/sport/football/articles/c0m2rkwm87po#0",
     "category": "global",
     "title": "Biggest VAR call ever? Four chaotic minutes that may define the season",
@@ -100,164 +80,254 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
-    "id": "https://www.ndtv.com/health/how-aerosolised-rodent-droppings-spread-hantavirus-infection-indoors-11477480#publisher=newsstand",
-    "category": "india",
-    "title": "How Aerosolised Rodent Droppings Spread Hantavirus Infection Indoors",
-    "summary": "People often assume infection occurs only through direct contact with rats or mice. However, in many cases, infection happens when contaminated particles become airborne and are inhaled unknowingly.",
-    "image": "https://c.ndtvimg.com/2026-05/v0ch9teg_hantavirus_625x300_08_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 11:57:43 +0530",
-    "link": "https://www.ndtv.com/health/how-aerosolised-rodent-droppings-spread-hantavirus-infection-indoors-11477480#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/indian-origin-philanthropist-anil-kochhar-pays-off-student-loans-for-176-graduates-in-us-pursue-your-goals-11477556#publisher=newsstand",
-    "category": "india",
-    "title": "Indian-Origin Philanthropist Pays Off Student Loans For 176 Graduates In US: \"Pursue Your Goals\"",
-    "summary": "He tied the gesture to his father's story.",
-    "image": "https://c.ndtvimg.com/2026-05/h8gk5n84_anil-kochhar_625x300_11_May_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 11:56:18 +0530",
-    "link": "https://www.ndtv.com/world-news/indian-origin-philanthropist-anil-kochhar-pays-off-student-loans-for-176-graduates-in-us-pursue-your-goals-11477556#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-ceasefire-violation-donald-trump-abbas-araghchi-tehran-peace-proposal-strait-of-hormuz-11465293#publisher=newsstand",
-    "category": "india",
-    "title": "US-Iran War News LIVE Updates: Trump Warns Iran Against Moving Uranium, Says US Keeping An Eye",
-    "summary": "US-Iran War Live Updates",
-    "image": "https://c.ndtvimg.com/2026-05/roa9msh8_hormuz_625x300_11_May_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 11:52:46 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-ceasefire-violation-donald-trump-abbas-araghchi-tehran-peace-proposal-strait-of-hormuz-11465293#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/cbse-12th-result-2026-live-updates-direct-link-at-cbse-gov-in-official-website-marksheet-download-check-pass-percentage-toppers-list-scorecard-details-11477528#publisher=newsstand",
-    "category": "india",
-    "title": "CBSE 12th Result 2026 LIVE Updates: Scorecard Releasing Today? DigiLocker Hints 'Coming Soon'",
-    "summary": "CBSE 12th result login details should be the same as mentioned on the CBSE admit card 2026.",
-    "image": "https://c.ndtvimg.com/2026-05/eri0ejog_cbse-class-12_625x300_11_May_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 11:51:42 +0530",
-    "link": "https://www.ndtv.com/education/cbse-12th-result-2026-live-updates-direct-link-at-cbse-gov-in-official-website-marksheet-download-check-pass-percentage-toppers-list-scorecard-details-11477528#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/cbse-class-12-result-2026-date-result-expected-today-or-tomorrow-what-we-know-so-far-11477541#publisher=newsstand",
-    "category": "india",
-    "title": "CBSE Class 12 Result 2026 Date: Result Expected Today or Tomorrow, What We Know So Far",
-    "summary": "CBSE Class 12 Result 2026: The marksheets expected to be released today or tomorrow.",
-    "image": "https://c.ndtvimg.com/2026-05/9c952nec_cbse-class-12-result-2026_625x300_11_May_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 11:50:12 +0530",
-    "link": "https://www.ndtv.com/education/cbse-class-12-result-2026-date-result-expected-today-or-tomorrow-what-we-know-so-far-11477541#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/how-bengal-secretariat-moving-to-writers-buildings-will-help-local-traders-11477385#publisher=newsstand",
-    "category": "india",
-    "title": "How Bengal Secretariat Moving To Writers' Buildings Will Help Local Traders",
-    "summary": "West Bengal secretariat was shifted to 'Nabanna' 13 years ago.",
-    "image": "https://c.ndtvimg.com/2020-06/jr62h4eg_nabanna_625x300_04_June_20.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 11:44:11 +0530",
-    "link": "https://www.ndtv.com/india-news/how-bengal-secretariat-moving-to-writers-buildings-will-help-local-traders-11477385#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/american-man-sets-world-record-with-massive-collection-of-3-482-bearbrick-toy-11477229#publisher=newsstand",
-    "category": "india",
-    "title": "US Man Sets World Record With Massive Collection Of 3,482 Bearbrick Toy",
-    "summary": "Bearbricks were first introduced in 2001 by Tatsuhiko Akashi.",
-    "image": "https://c.ndtvimg.com/2026-05/rhvpo78_world-record_625x300_11_May_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 11:44:07 +0530",
-    "link": "https://www.ndtv.com/world-news/american-man-sets-world-record-with-massive-collection-of-3-482-bearbrick-toy-11477229#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/one-evacuated-passenger-tests-positive-for-hantavirus-and-another-develops-symptoms-on-flight-home-11477087#publisher=newsstand",
-    "category": "india",
-    "title": "Hantavirus Case Confirmed As Evacuated Passenger Tests Positive, Another Falls Ill",
-    "summary": "Passengers evacuated from the hantavirus-hit cruise ship began flying home aboard military and government planes Sunday after the vessel anchored in the Canary Islands.",
-    "image": "https://c.ndtvimg.com/2026-05/agviq8oo_hantavirus_625x300_11_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 11 May 2026 11:41:55 +0530",
-    "link": "https://www.ndtv.com/health/one-evacuated-passenger-tests-positive-for-hantavirus-and-another-develops-symptoms-on-flight-home-11477087#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bank-of-baroda-shares-gain-over-2-after-q4-results-should-you-buy-sell-or-hold/articleshow/131005589.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/mcx-posts-record-1332-crore-profit-as-gold-volatility-surging-retail-participation-drive-platform-to-new-highs/articleshow/131010673.cms",
     "category": "finance",
-    "title": "Bank of Baroda shares gain over 2% after Q4 results. Should you buy, sell or hold?",
-    "summary": "Bank of Baroda shares rose after the state-run lender reported an 11.2% year-on-year rise in Q4 consolidated net profit to Rs 5,616 crore, driven by a 9% growth in net interest income. However, the bank\u2019s non-interest income declined 16% during the q",
-    "image": "https://img.etimg.com/photo/msid-131005589,imgsize-22866.cms",
+    "title": "MCX posts record \u20b91,332 crore profit as gold volatility &amp; surging retail participation drive platform to new highs",
+    "summary": "Multi Commodity Exchange of India (MCX) achieved record revenue and profit in FY26. Daily trading volume surged significantly. Global market volatility provided a strong tailwind. Retail investor participation grew substantially. MCX is also establis",
+    "image": "https://img.etimg.com/photo/msid-131010673,imgsize-140633.cms",
     "source": "ET",
-    "pubDate": "Mon, 11 May 2026 11:37:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bank-of-baroda-shares-gain-over-2-after-q4-results-should-you-buy-sell-or-hold/articleshow/131005589.cms"
+    "pubDate": "Mon, 11 May 2026 15:33:03 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/mcx-posts-record-1332-crore-profit-as-gold-volatility-surging-retail-participation-drive-platform-to-new-highs/articleshow/131010673.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/rbi-likely-selling-dollars-to-limit-rupees-fall-traders-say/articleshow/131005437.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/canara-bank-q4-results-pat-drops-10-yoy-to-rs-4506-crore-nii-up-4/articleshow/131010043.cms",
     "category": "finance",
-    "title": "RBI likely selling dollars to limit rupee's fall, traders say",
-    "summary": "India's central bank likely intervened in the foreign exchange market on Monday to curb the rupee's decline, which hit a low of 94.9650 per dollar. Renewed oil price surges and Middle East conflict worries have heightened economic outlook concerns, i",
-    "image": "https://img.etimg.com/photo/msid-131005437,imgsize-86574.cms",
+    "title": "Canara Bank Q4 Results: PAT drops 10% YoY to Rs 4,506 crore; NII up 4%",
+    "summary": "Canara Bank reported a 10% YoY decline in Q4FY26 consolidated net profit to Rs 4,506 crore, while net interest income rose 4% to Rs 9,808 crore. Profit also fell 13% sequentially from the previous quarter. Following the earnings announcement, shares ",
+    "image": "https://img.etimg.com/photo/msid-131010043,imgsize-15460.cms",
     "source": "ET",
-    "pubDate": "Mon, 11 May 2026 11:26:38 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/rbi-likely-selling-dollars-to-limit-rupees-fall-traders-say/articleshow/131005437.cms"
+    "pubDate": "Mon, 11 May 2026 15:11:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/canara-bank-q4-results-pat-drops-10-yoy-to-rs-4506-crore-nii-up-4/articleshow/131010043.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/alphabets-ai-surge-why-investors-are-re-rating-google-as-the-ultimate-ai-stack-play/slideshow/131005535.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/why-rahul-gandhis-investment-advisor-refused-to-become-indias-largest-mutual-fund-distributor/articleshow/131009835.cms",
     "category": "finance",
-    "title": "Alphabet\u2019s AI Surge: Why investors are re-rating Google as the ultimate AI stack play",
-    "summary": "Alphabet is now a major AI company. Growth in Google Cloud, Gemini AI, and custom chips boosts investor confidence. Markets see Alphabet as a key player in the AI revolution. The company's stock has surged as investors value its AI ecosystem. Google ",
-    "image": "https://img.etimg.com/photo/msid-131005363,imgsize-42342.cms",
+    "title": "Why Rahul Gandhi's investment advisor refused to become India's largest mutual fund distributor",
+    "summary": "Chennai-based mutual fund distributor Muthukrishnan Dhandapani, who manages Rahul Gandhi\u2019s investments, says he stopped taking new clients a decade ago\u2014a choice that may have cost him a tenfold rise in income. He insists on keeping work strictly prof",
+    "image": "https://img.etimg.com/photo/msid-131009835,imgsize-11454.cms",
     "source": "ET",
-    "pubDate": "Mon, 11 May 2026 11:23:06 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/alphabets-ai-surge-why-investors-are-re-rating-google-as-the-ultimate-ai-stack-play/slideshow/131005535.cms"
+    "pubDate": "Mon, 11 May 2026 15:04:28 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-rahul-gandhis-investment-advisor-refused-to-become-indias-largest-mutual-fund-distributor/articleshow/131009835.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-jump-4-despite-overall-market-weakness-heres-why/articleshow/131005232.cms",
-    "category": "finance",
-    "title": "MCX shares jump 4% despite overall market weakness. Here's why",
-    "summary": "Multi-Commodity Exchange of India shares surged after the company reported a sharp rise in Q4FY26 earnings. Net profit jumped 291% year-on-year, while revenue more than tripled amid higher participation and strong growth across commodity segments. Th",
-    "image": "https://img.etimg.com/photo/msid-131005232,imgsize-33094.cms",
-    "source": "ET",
-    "pubDate": "Mon, 11 May 2026 11:21:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-jump-4-despite-overall-market-weakness-heres-why/articleshow/131005232.cms"
+    "id": "https://www.ndtv.com/world-news/middle-east-conflicts-pose-a-danger-to-whales-off-south-africa-study-11477264#publisher=newsstand",
+    "category": "india",
+    "title": "Middle East Conflicts Pose A Danger To Whales Off South Africa: Study",
+    "summary": "Collisions, which are largely underreported, are a \"major cause of mortality for whales.\"",
+    "image": "https://c.ndtvimg.com/2026-02/66q4otnc_the-blue-whale-symbol-is-often-associated-with-the-blue-whale-challenge_625x300_04_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 11 May 2026 14:49:22 +0530",
+    "link": "https://www.ndtv.com/world-news/middle-east-conflicts-pose-a-danger-to-whales-off-south-africa-study-11477264#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-delays-fed-cut-outlook-to-december-2026-as-iran-war-drives-us-inflation/articleshow/131005172.cms",
-    "category": "finance",
-    "title": "Goldman Sachs delays Fed cut outlook to December 2026 as Iran war drives US inflation",
-    "summary": "Goldman Sachs now anticipates U.S. Federal Reserve rate cuts in December 2026 and March 2027, delaying its previous September and December 2024 outlook. Elevated energy prices, driven by the Middle East conflict, are expected to maintain inflation ab",
-    "image": "https://img.etimg.com/photo/msid-131005172,imgsize-77182.cms",
-    "source": "ET",
-    "pubDate": "Mon, 11 May 2026 11:16:39 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-delays-fed-cut-outlook-to-december-2026-as-iran-war-drives-us-inflation/articleshow/131005172.cms"
+    "id": "https://www.ndtv.com/world-news/can-chatgpt-be-charged-in-a-murder-floridas-attorney-wants-to-find-out-11477485#publisher=newsstand",
+    "category": "india",
+    "title": "Can ChatGPT Be Charged In A Murder? Florida's Attorney Wants To Find Out",
+    "summary": "OpenAI, for its part, insists ChatGPT bears no responsibility for the attack.",
+    "image": "https://c.ndtvimg.com/2026-04/ue94nfb4_open-ai-_625x300_28_April_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 11 May 2026 14:48:57 +0530",
+    "link": "https://www.ndtv.com/world-news/can-chatgpt-be-charged-in-a-murder-floridas-attorney-wants-to-find-out-11477485#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-fuelled-rally-keeping-global-markets-resilient-despite-oil-shock-says-ed-yardeni/articleshow/131005069.cms",
-    "category": "finance",
-    "title": "AI-fuelled rally keeping global markets resilient despite oil shock, says Ed Yardeni",
-    "summary": "Global equity markets are defying geopolitical risks and high oil prices, with investors betting on economic resilience fueled by AI-driven earnings growth. South Korea and Taiwan are leading a surge in tech and semiconductor stocks, while the US mar",
-    "image": "https://img.etimg.com/photo/msid-131005069,imgsize-25724.cms",
-    "source": "ET",
-    "pubDate": "Mon, 11 May 2026 11:11:34 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-fuelled-rally-keeping-global-markets-resilient-despite-oil-shock-says-ed-yardeni/articleshow/131005069.cms"
+    "id": "https://www.ndtv.com/world-news/hantavirus-outbreak-hantavirus-renews-memories-of-2018-outbreak-family-table-was-left-empty-11477844#publisher=newsstand",
+    "category": "india",
+    "title": "\"Family Table Was Left Empty\": Hantavirus Renews Memories Of 2018 Outbreak",
+    "summary": "Mailen Valle lost her father and two sisters during the 2018-2019 hantavirus outbreak.",
+    "image": "https://c.ndtvimg.com/2026-05/e5aul1u4_mailen-valle-hantavirus_625x300_11_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 11 May 2026 14:47:25 +0530",
+    "link": "https://www.ndtv.com/world-news/hantavirus-outbreak-hantavirus-renews-memories-of-2018-outbreak-family-table-was-left-empty-11477844#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-this-week-diplomacy-oil-shock-growth-fears/slideshow/131005175.cms",
-    "category": "finance",
-    "title": "Global Markets this week: Diplomacy, Oil Shock &amp; Growth Fears",
-    "summary": "Global markets face a volatile week driven by Trump\u2019s China visit, Middle East tensions, rising oil prices, inflation concerns, central bank uncertainty, and slowing growth fears across the United States, Europe, Britain, and Japan.",
-    "image": "https://img.etimg.com/photo/msid-131004899,imgsize-28088.cms",
-    "source": "ET",
-    "pubDate": "Mon, 11 May 2026 11:00:54 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-this-week-diplomacy-oil-shock-growth-fears/slideshow/131005175.cms"
+    "id": "https://www.ndtv.com/opinion/whats-behind-araghchis-visit-to-china-right-before-trump-xi-meeting-11478353#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion | What's Behind Araghchi's Visit To China Right Before Trump-Xi Meeting?",
+    "summary": "Beijing remains indispensable to Tehran as an economic backer and diplomatic shield, but it is not prepared to become its war ally.",
+    "image": "https://c.ndtvimg.com/2024-10/vjh1uoe8_-iranian-foreign-minister-abbas-araghchi_625x300_22_October_24.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 11 May 2026 14:47:02 +0530",
+    "link": "https://www.ndtv.com/opinion/whats-behind-araghchis-visit-to-china-right-before-trump-xi-meeting-11478353#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-spicejet-other-travel-stocks-plunge-up-to-7-two-big-reasons-why/articleshow/131004682.cms",
+    "id": "https://www.ndtv.com/education/when-will-upsc-prelims-admit-card-2026-be-out-heres-the-latest-update-11478354#publisher=newsstand",
+    "category": "india",
+    "title": "When Will UPSC Prelims Admit card 2026 Be Out? Here's The Latest Update",
+    "summary": "UPSC Civil Services Prelims 2026 Admit Card Release Expected Soon",
+    "image": "https://c.ndtvimg.com/2024-04/nc66b43o_upsc-result-2023_625x300_17_April_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 11 May 2026 14:46:01 +0530",
+    "link": "https://www.ndtv.com/education/when-will-upsc-prelims-admit-card-2026-be-out-heres-the-latest-update-11478354#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/subrata-gupta-once-rejected-by-mamata-banerjee-now-suvendu-adhikaris-aide-11478335#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Blog | Subrata Gupta: Once Rejected By Mamata Banerjee, Now Suvendu Adhikari's Aide",
+    "summary": "Subrata Gupta earned a reputation for honesty, transparency, and professionalism.",
+    "image": "https://c.ndtvimg.com/2026-05/466mjpso_subrata-gupta_625x300_09_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 11 May 2026 14:44:31 +0530",
+    "link": "https://www.ndtv.com/opinion/subrata-gupta-once-rejected-by-mamata-banerjee-now-suvendu-adhikaris-aide-11478335#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/online-instruments-india-files-ipo-papers-eyes-raising-rs-750-crore-from-fresh-issue/articleshow/131009507.cms",
     "category": "finance",
-    "title": "IndiGo, Spicejet &amp; other travel stocks plunge up to 7%. Two big reasons why",
-    "summary": "Travel stocks, including IndiGo, SpiceJet, ixigo, Toman Cook and Yatra Online, fell sharply after Prime Minister Narendra Modi urged citizens to avoid non-essential foreign travel for a year. Rising crude oil prices added further pressure, pushing av",
-    "image": "https://img.etimg.com/photo/msid-131004682,imgsize-44558.cms",
+    "title": "Online Instruments (India) files IPO papers, eyes raising Rs 750 crore from fresh issue",
+    "summary": "Online Instruments (India) has filed draft papers with Sebi for an IPO comprising a fresh issue of up to Rs 750 crore and an OFS of 57.1 lakh shares by promoters. The Bengaluru-based company plans to use the proceeds for debt repayment, working capit",
+    "image": "https://img.etimg.com/photo/msid-131009507,imgsize-6652.cms",
     "source": "ET",
-    "pubDate": "Mon, 11 May 2026 10:59:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-spicejet-other-travel-stocks-plunge-up-to-7-two-big-reasons-why/articleshow/131004682.cms"
+    "pubDate": "Mon, 11 May 2026 14:42:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/online-instruments-india-files-ipo-papers-eyes-raising-rs-750-crore-from-fresh-issue/articleshow/131009507.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/mothers-day-gift-ideas-five-financial-plans-to-give-her-lifelong-security-11467160#publisher=newsstand",
+    "category": "india",
+    "title": "Mother's Day Gift Ideas: Five Financial Plans To Give Her Lifelong Security",
+    "summary": "Mother's Day 2026: Buying property in the mother's name offers multiple advantages at once.",
+    "image": "https://c.ndtvimg.com/2026-05/p8fv3j3_thoughtful-mothers-day-beauty-gifts-to-celebrate-her-everyday-glow-and-care_625x300_07_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 11 May 2026 14:38:40 +0530",
+    "link": "https://www.ndtv.com/india-news/mothers-day-gift-ideas-five-financial-plans-to-give-her-lifelong-security-11467160#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/pm-modi-paves-way-to-keep-power-well-beyond-2030-bloomberg-analysis-11478267#publisher=newsstand",
+    "category": "india",
+    "title": "PM Modi Paves Way To Keep Power Well Beyond 2030: Bloomberg Analysis",
+    "summary": "PM Modi has successfully reframed the BJP's campaign around religious identity",
+    "image": "https://c.ndtvimg.com/2026-05/8jl7uiqo_pm-modi-bloomberg_625x300_11_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 11 May 2026 14:29:38 +0530",
+    "link": "https://www.ndtv.com/india-news/pm-modi-paves-way-to-keep-power-well-beyond-2030-bloomberg-analysis-11478267#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/madhavi-arora-flags-prolonged-energy-shock-warns-of-structural-shift-in-global-oil-markets/articleshow/131009087.cms",
+    "category": "finance",
+    "title": "Madhavi Arora flags prolonged energy shock, warns of structural shift in global oil markets",
+    "summary": "Global energy markets are experiencing prolonged stress. High crude oil prices and geopolitical risks are impacting India's economy. Policymakers are focusing on external balance and currency management. Fuel prices may see a gradual increase. The go",
+    "image": "https://img.etimg.com/photo/msid-131009087,imgsize-4906.cms",
+    "source": "ET",
+    "pubDate": "Mon, 11 May 2026 14:19:58 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/madhavi-arora-flags-prolonged-energy-shock-warns-of-structural-shift-in-global-oil-markets/articleshow/131009087.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2026-indias-top-investment-minds-decode-the-next-decade-of-wealth-creation/articleshow/131008768.cms",
+    "category": "finance",
+    "title": "ET Alpha Wealth Summit 2026: India\u2019s top investment minds decode the next decade of wealth creation",
+    "summary": "The ET Alpha Wealth Summit 2026, hosted by The Economic Times on 4th June in Mumbai, is an exclusive, closed-door event where India\u2019s top investment leaders will decode the next decade of wealth creation. Focused on portfolio repositioning, India-glo",
+    "image": "https://img.etimg.com/photo/msid-131008768,imgsize-3642374.cms",
+    "source": "ET",
+    "pubDate": "Mon, 11 May 2026 14:08:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2026-indias-top-investment-minds-decode-the-next-decade-of-wealth-creation/articleshow/131008768.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/largecaps-seen-as-safe-harbour-amid-market-volatility-sanjay-mookim/articleshow/131008663.cms",
+    "category": "finance",
+    "title": "Largecaps seen as safe harbour amid market volatility:  Sanjay Mookim",
+    "summary": "Prime Minister Modi's calls for energy conservation highlight India's external vulnerability and fiscal strain due to elevated oil prices. JPMorgan's Sanjay Mookim notes this disruption's prolonged nature, impacting corporate earnings and potentially",
+    "image": "https://img.etimg.com/photo/msid-131008663,imgsize-11920.cms",
+    "source": "ET",
+    "pubDate": "Mon, 11 May 2026 14:05:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/largecaps-seen-as-safe-harbour-amid-market-volatility-sanjay-mookim/articleshow/131008663.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/pvr-inox-q4-results-multiplex-chain-returns-to-profit-with-rs-187-crore-pat-vs-year-ago-loss-revenue-surges-26-yoy/articleshow/131008581.cms",
+    "category": "finance",
+    "title": "PVR INOX Q4 Results: Dhurandhar 2 success helps firm swing to Rs 187 crore net profit; revenue jumps 26% YoY",
+    "summary": "PVR Inox Q4 Results: The company's revenue from operations surged 26% year-on-year to Rs 1,547 crore in the March-ended quarter versus Rs 1,230 crore reported in the corresponding quarter of the last financial year.",
+    "image": "https://img.etimg.com/photo/msid-131008581,imgsize-1927485.cms",
+    "source": "ET",
+    "pubDate": "Mon, 11 May 2026 14:03:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pvr-inox-q4-results-multiplex-chain-returns-to-profit-with-rs-187-crore-pat-vs-year-ago-loss-revenue-surges-26-yoy/articleshow/131008581.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ce9pvxkpz9vo#0",
+    "category": "global",
+    "title": "Man charged after car hits five people in town centre",
+    "summary": "Duane Anthony is charged with five counts of attempted murder after the incident  on Saturday.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 11 May 2026 10:31:15 GMT",
+    "link": "https://www.bbc.com/news/articles/ce9pvxkpz9vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1536285.html",
+    "category": "sports",
+    "title": "CSA postpones SA squad announcement for Women's T20 World Cup",
+    "summary": "A source close to the situation told ESPNcricinfo the delay has been caused by a \"minor internal matter,\" and not a selection controversy",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415800/415892.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 11 May 2026 10:22:08 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536285.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8xwg0gdrpzo#0",
+    "category": "global",
+    "title": "British Steel set to be nationalised, Starmer says",
+    "summary": "The steelworks has been under government control for almost a year, but leglistation to nationalise it will be put forward this week.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 11 May 2026 10:13:05 GMT",
+    "link": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4g83vddnz0o#0",
+    "category": "global",
+    "title": "British passengers from hantavirus-hit cruise ship isolating in hospital",
+    "summary": "The passengers landed in the UK on Sunday and none have reported symptoms, but they will will be monitored in hospital for 72 hours.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 11 May 2026 09:58:02 GMT",
+    "link": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1536280.html",
+    "category": "sports",
+    "title": "ECB weighs up options for maiden England tour of Nepal",
+    "summary": "Potential for T20I tour to be included in 2027-31 FTP, following T20 World Cup thriller",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413112.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 11 May 2026 09:27:42 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536280.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1536219.html",
+    "category": "sports",
+    "title": "Peake called into Australia's ODI squad, big three absent, Maxwell left out of T20s",
+    "summary": "Peake, Scott, Joel Davies earn maiden call-ups for different parts of the three-leg white-ball tour of Pakistan and Bangladesh with all format quicks rested while Maxwell has missed the T20 squad",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/412500/412557.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 11 May 2026 09:01:11 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536219.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1536242.html",
+    "category": "sports",
+    "title": "'Cricketing IQ' the key as Bhuvneshwar continues to make an impact",
+    "summary": "\"He's becoming sort of an artist now. He's just becoming so, so good at what he's doing,\" raves Ambati Rayudu after Bhuvneshwar Kumar's all-round show sinks Mumbai Indians",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416800/416844.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 11 May 2026 06:56:34 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536242.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1536227.html",
+    "category": "sports",
+    "title": "NZ20 launch pushed back to December 2027 'to succeed over the long term'",
+    "summary": "\"This revised timeline gives us the best opportunity to build a world-class competition that New Zealanders can be proud of and that fans deserve\"",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414872.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 11 May 2026 06:53:31 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536227.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1536243.html",
+    "category": "sports",
+    "title": "'Not the end of the road' for Maxwell, Stoinis, Smith in T20Is for Australia",
+    "summary": "Australia selector George Bailey says the senior trio have \"not been dropped\" but the panel was keen to look at others",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/409000/409003.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 11 May 2026 06:53:25 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536243.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1536244.html",
@@ -270,26 +340,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1536244.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536242.html",
-    "category": "sports",
-    "title": "'Cricketing IQ' the key as Bhuvneshwar continues to make an impact",
-    "summary": "\"He's becoming sort of an artist now. He's just becoming so, so good at what he's doing,\" raves Ambati Rayudu after Bhuvneshwar Kumar's all-round show sinks Mumbai Indians",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416800/416844.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 11 May 2026 06:25:59 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536242.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536158.html",
-    "category": "sports",
-    "title": "Overton, Urvil power CSK to fifth spot with third straight win",
-    "summary": "CSK chased down their first 200-plus target since 2018 and one of their future stars announced himself with a 13-ball fifty",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416800/416816.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 11 May 2026 04:54:10 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536158.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1536226.html",
     "category": "sports",
     "title": "'A lot of ifs and buts' but Jayawardene accepts MI 'haven't been good enough'",
@@ -300,34 +350,14 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1536226.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536229.html",
-    "category": "sports",
-    "title": "Bailey downplays CA contract issues but admits there's 'tension in the marketplace'",
-    "summary": "Australia's chair of selectors says it's normal for players and agents to not sign contracts at this time of year but admits franchise cricket is creating tension and providing options",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/410000/410009.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 11 May 2026 04:24:02 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536229.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536227.html",
-    "category": "sports",
-    "title": "NZ20 launch pushed back to December 2027 'to succeed over the long term'",
-    "summary": "\"This revised timeline gives us the best opportunity to build a world-class competition that New Zealanders can be proud of and that fans deserve\"",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414872.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 11 May 2026 04:04:24 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536227.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536223.html",
-    "category": "sports",
-    "title": "'It's mainly the lines' and Overton hasn't fluffed them in the middle overs",
-    "summary": "Last season, CSK bowled Jamie Overton in the powerplay, a role his brother Craig is more familiar with, and he couldn't get it right; it's been very different in IPL 2026",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416800/416816.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 11 May 2026 02:29:04 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536223.html?ex_cid=OTC-RSS"
+    "id": "https://www.bbc.com/news/articles/c8e86ykkx5jo#0",
+    "category": "global",
+    "title": "Martin Lewis delivers emotional speech, and nine other Bafta TV moments",
+    "summary": "There were tears, surprises and fabulous outfits - as one of the biggest nights for UK television took place.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 11 May 2026 02:10:32 GMT",
+    "link": "https://www.bbc.com/news/articles/c8e86ykkx5jo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/clypgz9e5pmo#0",
@@ -338,36 +368,6 @@
     "source": "BBC",
     "pubDate": "Mon, 11 May 2026 01:55:13 GMT",
     "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536219.html",
-    "category": "sports",
-    "title": "Peake called into Australia's ODI squad, big three absent, Maxwell left out of T20s",
-    "summary": "Peake, Scott, Joel Davies earn maiden call-ups for different parts of the three-leg white-ball tour of Pakistan and Bangladesh with all format quicks rested while Maxwell has missed the T20 squad",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/412500/412557.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 11 May 2026 01:44:02 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536219.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5y76dll19po#0",
-    "category": "global",
-    "title": "Adolescence makes history at Bafta TV Awards",
-    "summary": "The hit Netflix drama wins a record four Bafta TV Awards, including one for 16-year-old Owen Cooper.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 11 May 2026 00:49:47 GMT",
-    "link": "https://www.bbc.com/news/articles/c5y76dll19po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cevp4kr79e4o#0",
-    "category": "global",
-    "title": "Chris Mason: Another crunch moment beckons for Starmer",
-    "summary": "The prime minister will seek to reset his premiership in a speech on Monday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 11 May 2026 00:30:56 GMT",
-    "link": "https://www.bbc.com/news/articles/cevp4kr79e4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1OII24oTfVYyF45IOoAjy8",
