@@ -20,34 +20,74 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/mtar-technologies-q4-results-profit-soars-over-200-to-rs-44-crore-revenue-up-67/articleshow/131041256.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131043722.cms",
     "category": "finance",
-    "title": "MTAR Technologies Q4 Results: Profit soars over 200% to Rs 44 crore; revenue up 67%",
-    "summary": "MTAR Technologies reported a sharp rise in March-quarter earnings as strong revenue growth and improved operating efficiency boosted profitability. The precision engineering company benefited from higher product sales and expanding opportunities acro",
-    "image": "https://img.etimg.com/photo/msid-131041256,imgsize-4622.cms",
+    "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+    "summary": "Indian equity markets extended losses for a fourth straight session as broad-based selling in IT, banking, auto, and consumer stocks dragged benchmarks lower. Weak global cues, rising inflation data, and technical breakdowns deepened bearish sentimen",
+    "image": "https://img.etimg.com/photo/msid-131043722,imgsize-100776.cms",
     "source": "ET",
-    "pubDate": "Tue, 12 May 2026 19:17:43 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/mtar-technologies-q4-results-profit-soars-over-200-to-rs-44-crore-revenue-up-67/articleshow/131041256.cms"
+    "pubDate": "Tue, 12 May 2026 21:16:17 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131043722.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-open-lower-after-april-inflation-data-mideast-in-focus/articleshow/131041146.cms",
-    "category": "finance",
-    "title": "US stocks today: S&amp;P 500, Nasdaq open lower after April inflation data; Mideast in focus",
-    "summary": "The \u200bS&amp;P \u200b500 and the \u200bNasdaq opened lower on Tuesday, as investors \u200cweighed \u2060a \u2060hotter-than-expected inflation report \u200band fading hopes for a \u200bswift resolution to the Middle East \u200bconflict.",
-    "image": "https://img.etimg.com/photo/msid-131041146,imgsize-124386.cms",
-    "source": "ET",
-    "pubDate": "Tue, 12 May 2026 19:10:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-open-lower-after-april-inflation-data-mideast-in-focus/articleshow/131041146.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/indian-influencer-in-dubai-wants-to-quit-content-creation-looks-for-a-corporate-job-not-stimulating-11484640#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/bing-bing-gone-donald-trump-shares-ai-images-of-laser-attack-on-iranian-aircraft-11485458#publisher=newsstand",
     "category": "india",
-    "title": "Indian Influencer In Dubai Wants To Quit Content Creation, Looks For A Corporate Job: \"Not Stimulating\"",
-    "summary": "Stanly stressed that her decision has nothing to do with money.",
-    "image": "https://c.ndtvimg.com/2026-05/veu8i8k_twinkle-stanly-_625x300_12_May_26.jpeg",
+    "title": "\"Bing, Bing, Gone\": Trump Shares AI Images Of Laser Attack On Iranian Aircraft",
+    "summary": "Trump on Monday warned that the ceasefire may not survive much longer",
+    "image": "https://c.ndtvimg.com/2026-05/djf2014o_trump_625x300_12_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Tue, 12 May 2026 18:58:12 +0530",
-    "link": "https://www.ndtv.com/offbeat/indian-influencer-in-dubai-wants-to-quit-content-creation-looks-for-a-corporate-job-not-stimulating-11484640#publisher=newsstand"
+    "pubDate": "Tue, 12 May 2026 21:01:53 +0530",
+    "link": "https://www.ndtv.com/world-news/bing-bing-gone-donald-trump-shares-ai-images-of-laser-attack-on-iranian-aircraft-11485458#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/youth-unemployment-rises-in-early-2026-young-women-affected-most-11485405#publisher=newsstand",
+    "category": "india",
+    "title": "Youth Unemployment Rises In Early 2026, Young Women Affected Most",
+    "summary": "The burden of unemployment continued to fall more heavily on young women than men. (Representational)",
+    "image": "https://c.ndtvimg.com/2026-04/mim499b4_as_625x300_02_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 12 May 2026 20:51:19 +0530",
+    "link": "https://www.ndtv.com/india-news/youth-unemployment-rises-in-early-2026-young-women-affected-most-11485405#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/neet-paper-leak-95-100-accuracy-in-guess-paper-questions-compared-to-neet-paper-11484997#publisher=newsstand",
+    "category": "india",
+    "title": "95-100% Similarity In 'Guess Paper' Questions Compared To NEET Paper: Sources",
+    "summary": "In chemistry, 35 out of 45 questions were found to be the same.",
+    "image": "https://c.ndtvimg.com/2026-05/akk3bbcs_neet_625x300_12_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 12 May 2026 20:42:59 +0530",
+    "link": "https://www.ndtv.com/education/neet-paper-leak-95-100-accuracy-in-guess-paper-questions-compared-to-neet-paper-11484997#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/deal-firmly-with-pakistan-but-keep-talks-window-open-says-rss-general-secretary-dattatreya-hosabale-11485365#publisher=newsstand",
+    "category": "india",
+    "title": "'Deal Firmly With Pak, But Keep Talks Window Open': Top RSS Leader",
+    "summary": "RSS General Secretary Dattatreya Hosabale in an interview with PTI in Delhi",
+    "image": "https://c.ndtvimg.com/2026-05/dqg5u4ak_dattatreya-hosabale_625x300_12_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Tue, 12 May 2026 20:42:06 +0530",
+    "link": "https://www.ndtv.com/india-news/deal-firmly-with-pakistan-but-keep-talks-window-open-says-rss-general-secretary-dattatreya-hosabale-11485365#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/gujarat-governor-abandons-air-travel-z-convoy-to-champion-fuel-saving-11485336#publisher=newsstand",
+    "category": "india",
+    "title": "Gujarat Governor Orders Leaner Convoys, No Chopper Amid Fuel-Saving Push",
+    "summary": "The Governor's initiative sets a high bar for public officials",
+    "image": "https://c.ndtvimg.com/2026-05/1sm2d6hs_gujarat-governor_625x300_12_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 12 May 2026 20:41:01 +0530",
+    "link": "https://www.ndtv.com/india-news/gujarat-governor-abandons-air-travel-z-convoy-to-champion-fuel-saving-11485336#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/middle-east-crisis-in-focus-as-brics-foreign-ministers-meet-in-india-11484981#publisher=newsstand",
+    "category": "india",
+    "title": "Middle East Crisis In Focus As BRICS Foreign Ministers Meet In India",
+    "summary": "The BRICS foreign ministers will also call on Prime Minister Narendra Modi.",
+    "image": "https://c.ndtvimg.com/2026-04/h2copr2s_iran-war_625x300_01_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 12 May 2026 20:37:11 +0530",
+    "link": "https://www.ndtv.com/india-news/middle-east-crisis-in-focus-as-brics-foreign-ministers-meet-in-india-11484981#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/opinion/why-india-israel-and-uae-are-building-a-security-trilateral-of-their-own-11484746#publisher=newsstand",
@@ -56,128 +96,138 @@
     "summary": "The India-Israel-UAE alignment is taking shape against a backdrop of accelerating disruption in the global economic and security order - disruptions that are simultaneously stress-testing existing frameworks and opening space for new regional archite",
     "image": "https://edata.ndtv.com/feeds/liveblog/6523700/638614844963506348.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Tue, 12 May 2026 18:56:41 +0530",
+    "pubDate": "Tue, 12 May 2026 20:36:45 +0530",
     "link": "https://www.ndtv.com/opinion/why-india-israel-and-uae-are-building-a-security-trilateral-of-their-own-11484746#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/us-markets/why-global-semiconductor-stocks-lost-nearly-300-billion-11484578#publisher=newsstand",
-    "category": "india",
-    "title": "What Caused Samsung, Nvidia, And AMD Shares To Drop Sharply",
-    "summary": "Micron fell 2.3 percent, SanDisk slipped 3.3 percent, Nvidia declined 0.75 percent, and AMD lost 2 percent.",
-    "image": "https://c.ndtvimg.com/2026-02/ql61hr4_semiconductor-chip_650x400_01_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 12 May 2026 18:53:44 +0530",
-    "link": "https://www.ndtv.com/us-markets/why-global-semiconductor-stocks-lost-nearly-300-billion-11484578#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/vijay-appoints-astrologer-radhan-pandit-his-osd-raising-eyebrows-in-congress-camp-11484070#publisher=newsstand",
-    "category": "india",
-    "title": "Vijay Appoints Astrologer His Political Adviser, \"Unacceptable,\" Say Allies",
-    "summary": "Astrologer Radhan Pandit had predicted that Vijay would have a landslide victory.",
-    "image": "https://c.ndtvimg.com/2026-05/ci13fd1o_tvk-vijay_650x400_08_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 12 May 2026 18:47:43 +0530",
-    "link": "https://www.ndtv.com/india-news/vijay-appoints-astrologer-radhan-pandit-his-osd-raising-eyebrows-in-congress-camp-11484070#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/adani-ports-partners-with-oceaneering-to-expand-offshore-operations-in-europe-11484633#publisher=newsstand",
-    "category": "india",
-    "title": "Adani Ports Partners With Oceaneering To Expand Offshore Operations In Europe",
-    "summary": "The agreement is aimed at strengthening APSEZ's strategy to build one of the world's largest integrated marine platforms spanning logistics, offshore support, underwater engineering and deepwater infrastructure services.",
-    "image": "https://c.ndtvimg.com/2025-04/773fk8l4_adani-generic-reuters_625x300_29_April_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 12 May 2026 18:44:38 +0530",
-    "link": "https://www.ndtv.com/india-news/adani-ports-partners-with-oceaneering-to-expand-offshore-operations-in-europe-11484633#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/vijay-meets-aiadmk-rebels-as-eps-rival-shanmugam-says-ready-to-back-tvk-11483988#publisher=newsstand",
-    "category": "india",
-    "title": "Vijay Meets AIADMK 'Rebels' As EPS Rival Shanmugam Says \"Ready To Back TVK\"",
-    "summary": "AIADMK asserted that alliance decisions could not be taken by a handful of MLAs and maintained that party cadre remained firmly behind Edappaddi K Palaniswami.",
-    "image": "https://c.ndtvimg.com/2026-05/oonm6g48_vijay_625x300_12_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 12 May 2026 18:31:36 +0530",
-    "link": "https://www.ndtv.com/india-news/vijay-meets-aiadmk-rebels-as-eps-rival-shanmugam-says-ready-to-back-tvk-11483988#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/who-is-astrologer-radhan-pandit-vetrivel-appointed-as-officer-on-special-duty-in-vijay-039-s-tvk-11484286#publisher=newsstand",
-    "category": "india",
-    "title": "Who Is Rickey Pandit, Astrologer Who Predicted TVK Win, Now Vijay's Adviser",
-    "summary": "Pandit Vettrivel is believed to have predicted a \"tsunami victory\" for Vijay ahead of polls.",
-    "image": "https://c.ndtvimg.com/2026-05/id8q1nog_astrologer-_625x300_12_May_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Tue, 12 May 2026 18:18:59 +0530",
-    "link": "https://www.ndtv.com/india-news/who-is-astrologer-radhan-pandit-vetrivel-appointed-as-officer-on-special-duty-in-vijay-039-s-tvk-11484286#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/inflammation-can-harm-your-body-in-7-ways-heres-how-to-fight-it-naturally-11484484#publisher=newsstand",
-    "category": "india",
-    "title": "Inflammation Can Harm Your Body In 7 Ways: Here's How To Fight It Naturally",
-    "summary": "Inflammation in the digestive tract can disturb gut balance and contribute to digestive discomfort",
-    "image": "https://c.ndtvimg.com/2026-03/f083icik_joint-pain-inflammation_625x300_19_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 12 May 2026 18:11:33 +0530",
-    "link": "https://www.ndtv.com/health/inflammation-can-harm-your-body-in-7-ways-heres-how-to-fight-it-naturally-11484484#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/dixon-technologies-q4-results-cons-pat-falls-36-yoy-as-topline-grows-2-rs-10/share-dividend-announced/articleshow/131039573.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/berger-paints-q4-profit-jumps-27-to-rs-335-crore-on-strong-demand-and-margins/articleshow/131043052.cms",
     "category": "finance",
-    "title": "Dixon Technologies Q4 Results: Cons PAT falls 36% YoY as topline grows 2%; Rs 10/share dividend announced",
-    "summary": "Dixon Technologies reported a 36% YoY drop in Q4 consolidated PAT to Rs 256 crore despite a 2% rise in revenue to Rs 10,511 crore. EBITDA improved 9%, while the board recommended a Rs 10 per share dividend. The stock fell over 6% after the earnings a",
-    "image": "https://img.etimg.com/photo/msid-131039573,imgsize-7052.cms",
+    "title": "Berger Paints Q4 profit jumps 27% to Rs 335 crore on strong demand and margins",
+    "summary": "Berger Paints reported a strong 27% rise in quarterly profit driven by higher volumes, improved product mix, and robust gross margins. Revenue and EBITDA also grew, though the company flagged risks from crude volatility, currency depreciation, and ge",
+    "image": "https://img.etimg.com/photo/msid-131043052,imgsize-13466.cms",
     "source": "ET",
-    "pubDate": "Tue, 12 May 2026 18:00:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dixon-technologies-q4-results-cons-pat-falls-36-yoy-as-topline-grows-2-rs-10/share-dividend-announced/articleshow/131039573.cms"
+    "pubDate": "Tue, 12 May 2026 20:35:17 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/berger-paints-q4-profit-jumps-27-to-rs-335-crore-on-strong-demand-and-margins/articleshow/131043052.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-john-rogers-the-ability-to-outperform-in-financial-markets-requires-creativity-vision-and-the-ability-to-see-what-others-cannot-/articleshow/131029543.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/kalpataru-fy26-pre-sales-up-17-to-rs-5280-cr-q4-net-profit-at-rs-194-cr/articleshow/131042934.cms",
     "category": "finance",
-    "title": "Quote of the Day | John Rogers: \"The ability to outperform in financial markets requires creativity, vision and the abil",
-    "summary": "Veteran investor John Rogers emphasised that outperforming in financial markets demands creativity, vision, and the ability to perceive what others miss. Success hinges on independent thinking, connecting trends, and challenging narratives, rather th",
-    "image": "https://img.etimg.com/photo/msid-131029543,imgsize-6756.cms",
+    "title": "Kalpataru FY26 pre-sales up 17% to Rs 5,280 cr; Q4 net profit at Rs 194 cr",
+    "summary": "Kalpataru delivered its strongest operational performance with record pre-sales, collections, and profit growth driven by strong demand across Mumbai projects. Improved sale realisations, robust project completions, and debt reduction strengthened th",
+    "image": "https://img.etimg.com/photo/msid-131042934,imgsize-238364.cms",
     "source": "ET",
-    "pubDate": "Tue, 12 May 2026 18:00:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-john-rogers-the-ability-to-outperform-in-financial-markets-requires-creativity-vision-and-the-ability-to-see-what-others-cannot-/articleshow/131029543.cms"
+    "pubDate": "Tue, 12 May 2026 20:30:14 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kalpataru-fy26-pre-sales-up-17-to-rs-5280-cr-q4-net-profit-at-rs-194-cr/articleshow/131042934.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-board-to-weigh-fundraise-through-equity-after-agr-relief/articleshow/131039450.cms",
+    "id": "https://www.ndtv.com/india-news/gujarat-prepares-for-census-2027-with-digital-self-enumeration-initiative-11485305#publisher=newsstand",
+    "category": "india",
+    "title": "Gujarat Prepares For Census 2027 With Digital Self-Enumeration Initiative",
+    "summary": "The House Listing Operations (HLO) will transition to field-based data collection.",
+    "image": "https://c.ndtvimg.com/2026-04/segr9ed8_india-census-2027_625x300_15_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 12 May 2026 20:28:51 +0530",
+    "link": "https://www.ndtv.com/india-news/gujarat-prepares-for-census-2027-with-digital-self-enumeration-initiative-11485305#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/dixon-tech-q4-profit-falls-36-despite-revenue-growth-and-expansion-plans/articleshow/131042862.cms",
     "category": "finance",
-    "title": "Vodafone Idea board to weigh fundraise through equity after AGR relief",
-    "summary": "Vodafone Idea board will consider raising funds via equity shares and warrants as sentiment improves after AGR relief and regulatory clarity. The stock has rallied sharply in recent months on reduced dues, leadership changes and stake-related develop",
-    "image": "https://img.etimg.com/photo/msid-131039450,imgsize-4090.cms",
+    "title": "Dixon Tech Q4 profit falls 36% despite revenue growth and expansion plans",
+    "summary": "Dixon Technologies reported a sharp decline in quarterly profit due to weak consumer demand, rising component costs, and the end of PLI benefits. Despite margin pressure, the company expects strong FY27 growth driven by smartphone manufacturing, tele",
+    "image": "https://img.etimg.com/photo/msid-131042862,imgsize-7338.cms",
     "source": "ET",
-    "pubDate": "Tue, 12 May 2026 17:55:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-board-to-weigh-fundraise-through-equity-after-agr-relief/articleshow/131039450.cms"
+    "pubDate": "Tue, 12 May 2026 20:23:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dixon-tech-q4-profit-falls-36-despite-revenue-growth-and-expansion-plans/articleshow/131042862.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-yield-hits-5-week-high-on-rising-oil-and-war-jitters/articleshow/131039309.cms",
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/nexus-select-trust-q4-net-operating-income-up-11-at-rs-440-crore/articleshow/131042786.cms",
     "category": "finance",
-    "title": "India 10-year bond yield hits 5-week high on rising oil and war jitters",
-    "summary": "Hopes for a deal dimmed after Donald Trump said \u200ca ceasefire with \u2060Iran was \"on \u2060life support\". Concerns about oil supply deepened after a senior officer in Iran's Islamic \u200bRevolutionary Guard Corps Navy said Tehran had expanded its definition of the",
-    "image": "https://img.etimg.com/photo/msid-131039309,imgsize-80752.cms",
+    "title": "Nexus Select Trust Q4 net operating income up 11% at Rs 440 crore",
+    "summary": "Nexus Select Trust reported strong quarterly growth driven by rising tenant sales, stable occupancy, and higher retail income across key consumption categories. The retail REIT expanded its portfolio through acquisitions and development deals while m",
+    "image": "https://img.etimg.com/photo/msid-131042786,imgsize-170292.cms",
     "source": "ET",
-    "pubDate": "Tue, 12 May 2026 17:51:15 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-yield-hits-5-week-high-on-rising-oil-and-war-jitters/articleshow/131039309.cms"
+    "pubDate": "Tue, 12 May 2026 20:19:20 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/nexus-select-trust-q4-net-operating-income-up-11-at-rs-440-crore/articleshow/131042786.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-china-iran-war-peace-deal-brent-crude-oil-impact-earnings-tech-chip-stock-price-news/liveblog/131039177.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-balrampur-chini-onesource-among-5-stocks-for-gains-up-to-11-on-wednesday/slideshow/131042710.cms",
     "category": "finance",
-    "title": "US Stock Market Today | Dow Jones | Nasdaq Live: S&amp;P 500, Nasdaq open lower after April inflation data; Mideast in f",
+    "title": "Market Trading Guide: Balrampur Chini, OneSource among 5 stocks for gains up to 11% on Wednesday",
     "summary": "",
-    "image": "https://img.etimg.com/photo/msid-131039177,imgsize-2286124.cms",
+    "image": "https://img.etimg.com/photo/msid-131042342,imgsize-7526.cms",
     "source": "ET",
-    "pubDate": "Tue, 12 May 2026 17:44:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-china-iran-war-peace-deal-brent-crude-oil-impact-earnings-tech-chip-stock-price-news/liveblog/131039177.cms"
+    "pubDate": "Tue, 12 May 2026 20:03:17 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-balrampur-chini-onesource-among-5-stocks-for-gains-up-to-11-on-wednesday/slideshow/131042710.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-power-q4-results-profit-slips-4-yoy-to-rs-996-cr-revenue-falls-13-co-declares-rs-2-5/-share-dividend/articleshow/131037995.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/india-proposes-cash-settlement-relaxed-position-limits-to-boost-agri-derivatives-liquidity/articleshow/131041969.cms",
     "category": "finance",
-    "title": "Tata Power Q4 Results: Profit slips 4% YoY to Rs 996 cr, revenue falls 13%",
-    "summary": "Tata Power Q4 Results: Tata Power reported a consolidated net profit of Rs 996 crore for Q4 FY26, a 4% year-on-year decline, while revenue fell 13%. The company achieved its highest-ever annual PAT of Rs 5,118 crore for FY26, driven by strong perform",
-    "image": "https://img.etimg.com/photo/msid-131037995,imgsize-1641124.cms",
+    "title": "Sebi proposes doubling position limits in agri commodity derivatives, plans cap on penalties",
+    "summary": "SEBI \u200bsaid the proposal does not mark a \u2060policy shift away from physical settlement, with cash \u200bsettlement intended only as an interim measure.The \u200bthresholds would be based on average daily traded volume and/or open interest, or a two-year cap from ",
+    "image": "https://img.etimg.com/photo/msid-131041969,imgsize-120662.cms",
     "source": "ET",
-    "pubDate": "Tue, 12 May 2026 17:07:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-power-q4-results-profit-slips-4-yoy-to-rs-996-cr-revenue-falls-13-co-declares-rs-2-5/-share-dividend/articleshow/131037995.cms"
+    "pubDate": "Tue, 12 May 2026 19:48:39 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-proposes-cash-settlement-relaxed-position-limits-to-boost-agri-derivatives-liquidity/articleshow/131041969.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/investors-say-they-want-trump-and-xi-to-stay-out-of-ais-way/articleshow/131041842.cms",
+    "category": "finance",
+    "title": "Investors say they want Trump and Xi to stay out of AI's way",
+    "summary": "The tables have turned. There's little China is eager to discuss with Trump,\" said Yang Tingwu, vice general manager of Tongheng Investment, adding that Trump's unresolved war with \u200bIran has weakened his hand",
+    "image": "https://img.etimg.com/photo/msid-131041842,imgsize-121574.cms",
+    "source": "ET",
+    "pubDate": "Tue, 12 May 2026 19:43:23 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/investors-say-they-want-trump-and-xi-to-stay-out-of-ais-way/articleshow/131041842.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4g4k87qqnjo#2",
+    "category": "global",
+    "title": "Armed man shot dead by police after overnight stand-off",
+    "summary": "The man, in his 40s, \"presented a weapon\" after barricading himself inside a property, police say.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 12 May 2026 17:05:00 GMT",
+    "link": "https://www.bbc.com/news/articles/c4g4k87qqnjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cglpz89265jo#1",
+    "category": "global",
+    "title": "Read all the ministers' resignation letters in full",
+    "summary": "Ministers including Safeguarding Minister Jess Phillips have resigned over Sir Keir Starmer's leadership.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 12 May 2026 16:59:57 GMT",
+    "link": "https://www.bbc.com/news/articles/cglpz89265jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cqjpqynj1nlo#2",
+    "category": "global",
+    "title": "No sign of larger hantavirus outbreak, says UN health agency",
+    "summary": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 12 May 2026 16:45:42 GMT",
+    "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1536449.html",
+    "category": "sports",
+    "title": "Shanto on Bangladesh's declaration: 'Important to take brave decisions'",
+    "summary": "The Bangladesh captain also rued not capitalising on his century in the first innings into a bigger score",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416900/416913.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 12 May 2026 16:35:58 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536449.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cgepqxj30pqo#1",
+    "category": "global",
+    "title": "Which Labour MPs have come out against Starmer?",
+    "summary": "A growing number of Labour MPs are coming out against the prime minister.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 12 May 2026 16:25:58 GMT",
+    "link": "https://www.bbc.com/news/articles/cgepqxj30pqo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1536415.html",
@@ -186,8 +236,48 @@
     "summary": "RCB will expect more from their batters as they face KKR, who are coming into the game with two big wins",
     "image": "http://p.imgci.com/db/PICTURES/CMS/415800/415853.jpg",
     "source": "Cricinfo",
-    "pubDate": "Tue, 12 May 2026 14:08:29 GMT",
+    "pubDate": "Tue, 12 May 2026 16:16:37 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1536415.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c3e2n7xn14xo#1",
+    "category": "global",
+    "title": "The potential challengers to Keir Starmer",
+    "summary": "Andy Burnham, Angela Rayner and Wes Streeting are all potential candidates for the top job.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 12 May 2026 15:47:35 GMT",
+    "link": "https://www.bbc.com/news/articles/c3e2n7xn14xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1536439.html",
+    "category": "sports",
+    "title": "'Astonishing' skill development - Watson sees a young Samson in Raghuvanshi",
+    "summary": "Raghuvanshi's numbers in the IPL are a bit sobering but Watson believes he will continue to develop into a well-rounded batter",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415433.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 12 May 2026 15:38:34 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536439.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/cn8p175l7v2o#1",
+    "category": "global",
+    "title": "Watch: Reporters shout questions at ministers leaving No 10",
+    "summary": "Several ministers were met with a barrage of questions about the PM's future after leaving a cabinet meeting.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 12 May 2026 14:21:31 GMT",
+    "link": "https://www.bbc.com/news/videos/cn8p175l7v2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/crkp67pdy81o#1",
+    "category": "global",
+    "title": "'Crisis in Great Britain!' How global media is reporting Starmer's fight for survival",
+    "summary": "Sir Keir Starmer's fight for survival after a dismal set of elections last week is receiving coverage across the globe.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 12 May 2026 14:20:07 GMT",
+    "link": "https://www.bbc.com/news/articles/crkp67pdy81o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1536427.html",
@@ -196,18 +286,8 @@
     "summary": "The winner of the contest between GT and SRH will go to the top of the points table",
     "image": "http://p.imgci.com/db/PICTURES/CMS/416100/416125.jpg",
     "source": "Cricinfo",
-    "pubDate": "Tue, 12 May 2026 13:59:22 GMT",
+    "pubDate": "Tue, 12 May 2026 14:18:51 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1536427.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/clypl327620o#1",
-    "category": "global",
-    "title": "Henry Zeffman: Keir Starmer fights back for now",
-    "summary": "The prime minister told the Cabinet a leadership contest had not been triggered, and that he wouldn't be resigning.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 12 May 2026 13:50:45 GMT",
-    "link": "https://www.bbc.com/news/articles/clypl327620o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1536421.html",
@@ -218,46 +298,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 12 May 2026 13:06:10 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1536421.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c8jv1mzzkjgo#1",
-    "category": "global",
-    "title": "At a glance: Starmer grapples with leadership crisis",
-    "summary": "The prime minister is fighting to stay on in No 10 as heavy election losses trigger a Labour revolt.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 12 May 2026 13:05:23 GMT",
-    "link": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cqjpqy19npxo#1",
-    "category": "global",
-    "title": "UK borrowing costs hit highest for 18 years as uncertainty over PM continues",
-    "summary": "The possibility of a change of leadership in the UK has unsettled some investors and sent bond yields higher.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 12 May 2026 12:44:54 GMT",
-    "link": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cglpz89265jo#1",
-    "category": "global",
-    "title": "Jess Phillips's resignation letter in full",
-    "summary": "The prominent Labour MP has resigned as safeguarding minister over Sir Keir Starmer's leadership.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 12 May 2026 12:22:38 GMT",
-    "link": "https://www.bbc.com/news/articles/cglpz89265jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/clyp8xjwgd5o#2",
-    "category": "global",
-    "title": "Bonnie Tyler 'stable' in Portuguese hospital following emergency surgery",
-    "summary": "The Welsh star had undergone emergency intestinal surgery in Portugal last week.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 12 May 2026 12:17:26 GMT",
-    "link": "https://www.bbc.com/news/articles/clyp8xjwgd5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1536379.html",
@@ -290,26 +330,6 @@
     "link": "https://www.bbc.com/news/articles/cp3pl5093wpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cqjpqynj1nlo#2",
-    "category": "global",
-    "title": "No sign of larger hantavirus outbreak, says UN health agency",
-    "summary": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 12 May 2026 09:35:32 GMT",
-    "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy02wdzrg6jo#2",
-    "category": "global",
-    "title": "Green Party admits Polanski may have failed to pay council tax",
-    "summary": "The Green Party admits that its leader has, until recently, been living on a houseboat in London and may have failed to pay council tax.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 12 May 2026 09:18:19 GMT",
-    "link": "https://www.bbc.com/news/articles/cy02wdzrg6jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1536384.html",
     "category": "sports",
     "title": "Shabnim Ismail reverses retirement and makes South Africa T20 World Cup squad",
@@ -318,26 +338,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 12 May 2026 08:26:58 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1536384.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536380.html",
-    "category": "sports",
-    "title": "Greenberg: 'We should have done a better job' explaining BBL privatisation",
-    "summary": "Greenberg said CA chair Mike Baird and NSW chair John Knox met on Monday but CA is pushing ahead with testing the market with three states as debate continues with others",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416900/416909.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 12 May 2026 06:52:31 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536380.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536371.html",
-    "category": "sports",
-    "title": "Abhinav puts forward Chahal gamble that Punjab Kings might have missed",
-    "summary": "Spinner did not bowl a single over in the loss to DC",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416600/416649.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 12 May 2026 06:00:03 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536371.html?ex_cid=OTC-RSS"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
