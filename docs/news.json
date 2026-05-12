@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://www.ndtv.com/world-news/donald-trump-posts-graphic-of-venezuela-as-51st-us-state-11486808#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Posts Graphic Of Venezuela As 51st US State",
+    "summary": "Earlier on Monday, Trump told that he was considering making the South American country a new state.",
+    "image": "https://c.ndtvimg.com/2026-05/i0gqi14o_veneuzlea-us-state_625x300_13_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 13 May 2026 05:13:16 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trump-posts-graphic-of-venezuela-as-51st-us-state-11486808#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/at-tech-trial-sam-altman-says-elon-musk-wanted-90-stake-in-openai-11486712#publisher=newsstand",
     "category": "india",
     "title": "At Tech Trial, Sam Altman Says Elon Musk Wanted 90% Stake In OpenAI",
@@ -80,16 +90,6 @@
     "link": "https://www.ndtv.com/health/high-blood-sugar-levels-heres-what-you-should-do-to-maintain-your-heart-health-11486478#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/what-khan-sir-said-on-neet-paper-leak-11486462#publisher=newsstand",
-    "category": "india",
-    "title": "\"Our Appeal To Prime Minister Is...\": What Khan Sir Said On NEET Paper Leak",
-    "summary": "Khan Sir said the NTA has failed in its administrative responsibility for high-stakes exams.",
-    "image": "https://c.ndtvimg.com/2026-05/jl0evpi_khan-sir_625x300_12_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 13 May 2026 00:50:20 +0530",
-    "link": "https://www.ndtv.com/india-news/what-khan-sir-said-on-neet-paper-leak-11486462#publisher=newsstand"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -110,6 +110,16 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://www.espncricinfo.com/ci/content/story/1536480.html",
+    "category": "sports",
+    "title": "Molineux fit, Hamilton, Harris named for T20 World Cup, Brown omitted",
+    "summary": "Molineux fit to lead the team with 19-year-old Hamilton included in the 15 at the expense of Brown after playing just one T20I, with Harris also returning to the squad",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414255.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 12 May 2026 23:51:09 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536480.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/senate-confirms-kevin-warsh-to-us-federal-reserve-board-fed-chair-vote-likely-on-wednesday/articleshow/131045095.cms",
     "category": "finance",
     "title": "Senate confirms Kevin Warsh to US Federal Reserve Board; Fed chair vote likely on Wednesday",
@@ -118,6 +128,16 @@
     "source": "ET",
     "pubDate": "Tue, 12 May 2026 22:23:24 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/senate-confirms-kevin-warsh-to-us-federal-reserve-board-fed-chair-vote-likely-on-wednesday/articleshow/131045095.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cm2py6l78dxo#2",
+    "category": "global",
+    "title": "A decade on, Trump will return to a stronger and more assertive China",
+    "summary": "Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 12 May 2026 22:07:51 GMT",
+    "link": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/videos/cjwpnx80646o#1",
@@ -138,16 +158,6 @@
     "source": "BBC",
     "pubDate": "Tue, 12 May 2026 22:00:51 GMT",
     "link": "https://www.bbc.com/news/articles/cx21jkmxd42o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cz72ljrl8qvo#2",
-    "category": "global",
-    "title": "Plaid Cymru's Rhun ap Iorwerth to unveil ministers for new Welsh government",
-    "summary": "Ap Iorwerth said it was \"the greatest privilege\" after he became first minister of Wales on Tuesday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 12 May 2026 22:00:15 GMT",
-    "link": "https://www.bbc.com/news/articles/cz72ljrl8qvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c4gvd81681qo#1",
@@ -328,16 +338,6 @@
     "source": "BBC",
     "pubDate": "Tue, 12 May 2026 15:47:35 GMT",
     "link": "https://www.bbc.com/news/articles/c3e2n7xn14xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536439.html",
-    "category": "sports",
-    "title": "'Astonishing' skill development - Watson sees a young Samson in Raghuvanshi",
-    "summary": "Raghuvanshi's numbers in the IPL are a bit sobering but Watson believes he will continue to develop into a well-rounded batter",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415433.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 12 May 2026 15:38:34 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536439.html?ex_cid=OTC-RSS"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
