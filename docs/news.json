@@ -30,6 +30,36 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/us-plans-to-unveil-criminal-charges-against-cubas-raul-castro-next-week-11502668#publisher=newsstand",
+    "category": "india",
+    "title": "US Plans To Unveil Criminal Charges Against Cuba's Raul Castro Next Week",
+    "summary": "Raul Castro was defense minister during the 1996 plane shootdown incident.",
+    "image": "https://c.ndtvimg.com/2026-05/200socq4_raul-castro_625x300_16_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 16 May 2026 02:12:34 +0530",
+    "link": "https://www.ndtv.com/world-news/us-plans-to-unveil-criminal-charges-against-cubas-raul-castro-next-week-11502668#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/pm-modi-arrives-in-netherlands-to-deepen-bilateral-ties-11502606#publisher=newsstand",
+    "category": "india",
+    "title": "PM Modi Arrives In Netherlands To Deepen Bilateral Ties",
+    "summary": "PM Modi arrived in the Netherlands on Friday on the second leg of his five-nation diplomatic tour.",
+    "image": "https://c.ndtvimg.com/2026-05/hu8a3ou4_pm-modi-in-netherlands-_625x300_16_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 16 May 2026 01:50:03 +0530",
+    "link": "https://www.ndtv.com/india-news/pm-modi-arrives-in-netherlands-to-deepen-bilateral-ties-11502606#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-on-mounting-inflation-worries/articleshow/131127334.cms",
+    "category": "finance",
+    "title": "US stocks today: Dow Jones crashes 500 points on mounting inflation worries",
+    "summary": "U.S. stocks pulled back from record highs as rising crude oil prices and surging Treasury yields triggered fresh inflation concerns. The selloff hit AI-driven tech stocks hardest, while markets reassessed rate hike risks under incoming Fed leadership",
+    "image": "https://img.etimg.com/photo/msid-131127334,imgsize-142758.cms",
+    "source": "ET",
+    "pubDate": "Sat, 16 May 2026 01:34:18 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-on-mounting-inflation-worries/articleshow/131127334.cms"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/lebanon-israel-ceasefire-extended-by-45-days-us-11502521#publisher=newsstand",
     "category": "india",
     "title": "Lebanon, Israel Ceasefire Extended By 45 Days: US",
@@ -100,16 +130,6 @@
     "link": "https://www.ndtv.com/world-news/israel-carries-out-strikes-in-gaza-targets-hamas-chief-11502432#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/whats-next-after-bhojshala-order-hindu-sides-lawyer-speaks-to-ndtv-11501370#publisher=newsstand",
-    "category": "india",
-    "title": "Court Declares Bhojshala Site A Temple. Hindu Side's Lawyer Shares What's Next",
-    "summary": "Vishnu Shankar Jain described the ASI order as \"erroneous\".",
-    "image": "https://c.ndtvimg.com/2026-05/4833scg8_vishnu-shankar-jain_625x300_15_May_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sat, 16 May 2026 00:06:31 +0530",
-    "link": "https://www.ndtv.com/india-news/whats-next-after-bhojshala-order-hindu-sides-lawyer-speaks-to-ndtv-11501370#publisher=newsstand"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -150,14 +170,24 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
-    "id": "https://www.ndtv.com/world-news/trump-xi-meet-donald-trump-china-visit-us-china-trumps-beijing-visit-ends-with-bin-order-for-chinese-issued-items-11502363#publisher=newsstand",
-    "category": "india",
-    "title": "Trump's Beijing Visit Ends With 'Bin Order' For Chinese-Issued Items",
-    "summary": "This is not the first time friction of this kind has surfaced during a US presidential visit to China.",
-    "image": "https://c.ndtvimg.com/2026-05/7m5n4q0k_trump-xi-meet-_625x300_15_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 15 May 2026 23:52:34 +0530",
-    "link": "https://www.ndtv.com/world-news/trump-xi-meet-donald-trump-china-visit-us-china-trumps-beijing-visit-ends-with-bin-order-for-chinese-issued-items-11502363#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1536888.html",
+    "category": "sports",
+    "title": "Dawkins, Northeast thrive as Stokes suffers through the sickness",
+    "summary": "England skipper deepens Crawley gloom but endures tough day at Beckenham",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417000/417012.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 15 May 2026 21:55:51 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536888.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ckgp2e0rrj4o#0",
+    "category": "global",
+    "title": "Burnham cleared to run for selection in pivotal by-election",
+    "summary": "If the Greater Manchester mayor goes on to the win the by-election, he would be able to launch a leadership challenge against the PM.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 15 May 2026 21:39:27 GMT",
+    "link": "https://www.bbc.com/news/articles/ckgp2e0rrj4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-posts-13-fold-rise-in-profit-for-march-quarter-to-double-capacity-in-6-years/articleshow/131122142.cms",
@@ -170,6 +200,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-posts-13-fold-rise-in-profit-for-march-quarter-to-double-capacity-in-6-years/articleshow/131122142.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/ce8p61v7l68o#0",
+    "category": "global",
+    "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+    "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 15 May 2026 21:28:25 GMT",
+    "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/sail-q4-results-cons-pat-surges-47-yoy-to-rs-1835-crore-revenue-rises-5/articleshow/131122112.cms",
     "category": "finance",
     "title": "SAIL Q4 Results: Cons PAT surges 47% YoY to Rs 1,835 crore, revenue rises 5%",
@@ -178,6 +218,36 @@
     "source": "ET",
     "pubDate": "Fri, 15 May 2026 21:27:08 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sail-q4-results-cons-pat-surges-47-yoy-to-rs-1835-crore-revenue-rises-5/articleshow/131122112.cms"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1536889.html",
+    "category": "sports",
+    "title": "Sanderson stars again but Price proves value to Gloucestershire",
+    "summary": "Unbeaten fifty anchors hosts before three wickets before close redresses balance on Northants' day",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417000/417039.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 15 May 2026 21:01:48 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536889.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cqlpzzl0d67o#0",
+    "category": "global",
+    "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
+    "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 15 May 2026 20:26:51 GMT",
+    "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvgzjj474ywo#0",
+    "category": "global",
+    "title": "How Rayner, Streeting and Burnham weakened PM in 12 hours of political drama",
+    "summary": "Three interventions by three senior Labour politicians made for an unforgettable day in British politics.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 15 May 2026 20:21:08 GMT",
+    "link": "https://www.bbc.com/news/articles/cvgzjj474ywo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1536922.html",
@@ -222,7 +292,7 @@
   {
     "id": "https://www.bbc.com/news/articles/cvgzjndj4jqo#0",
     "category": "global",
-    "title": "Electric motorbike teen detained for killing gran on zebra crossing",
+    "title": "Electric motorbike teen detained for killing a grandmother on zebra crossing",
     "summary": "Billy Stokoe is detained for causing the death by dangerous driving of Gloria Stephenson.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -240,26 +310,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/treasuries-yields-surge-to-one-year-high-as-oil-prices-and-inflation-data-rattle-markets/articleshow/131119893.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cqlpzzl0d67o#0",
-    "category": "global",
-    "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
-    "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 15 May 2026 19:30:39 GMT",
-    "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536888.html",
-    "category": "sports",
-    "title": "Dawkins, Northeast thrive as Stokes suffers through the sickness",
-    "summary": "England skipper deepens Crawley gloom but endures tough day at Beckenham",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417000/417012.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 15 May 2026 19:26:57 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536888.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-gets-govt-nod-for-ipo-coal-india-to-dilute-up-to-25-stake/articleshow/131119808.cms",
     "category": "finance",
     "title": "Mahanadi Coalfields gets govt nod for IPO; Coal India to dilute up to 25% stake",
@@ -268,16 +318,6 @@
     "source": "ET",
     "pubDate": "Fri, 15 May 2026 19:26:52 +0530",
     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-gets-govt-nod-for-ipo-coal-india-to-dilute-up-to-25-stake/articleshow/131119808.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/options/3-years-of-derivatives-relaunch-how-sensex-turned-rs-2-crore-premium-into-rs-33000-crore-options-business/articleshow/131119717.cms",
-    "category": "finance",
-    "title": "3 years of derivatives relaunch: How Sensex turned Rs 2 crore premium into Rs 33,000 crore options business",
-    "summary": "BSE has rapidly expanded its derivatives business through Sensex weekly options, sharply increasing turnover, market share and profitability. Lower transaction costs, rising retail participation and algorithmic trading boosted volumes, while derivati",
-    "image": "https://img.etimg.com/photo/msid-131119717,imgsize-39708.cms",
-    "source": "ET",
-    "pubDate": "Fri, 15 May 2026 19:21:02 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/options/3-years-of-derivatives-relaunch-how-sensex-turned-rs-2-crore-premium-into-rs-33000-crore-options-business/articleshow/131119717.cms"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1536868.html",
@@ -338,46 +378,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 15 May 2026 18:57:31 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1536890.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1536889.html",
-    "category": "sports",
-    "title": "Sanderson stars again but Price proves value to Gloucestershire",
-    "summary": "Unbeaten fifty anchors hosts before three wickets before close redresses balance on Northants' day",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/379400/379483.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 15 May 2026 18:45:46 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1536889.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ckgp2e0rrj4o#0",
-    "category": "global",
-    "title": "Burnham cleared to run for selection in pivotal by-election",
-    "summary": "If the Greater Manchester mayor goes on to the win the by-election, he would be able to launch a leadership challenge against the PM.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 15 May 2026 18:06:45 GMT",
-    "link": "https://www.bbc.com/news/articles/ckgp2e0rrj4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce8p61v7l68o#0",
-    "category": "global",
-    "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-    "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 15 May 2026 17:50:59 GMT",
-    "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cyv26e7yd89o#0",
-    "category": "global",
-    "title": "What does Makerfield think of by-election and can Burnham win?",
-    "summary": "Andy Burnham says he will look to stand in the constituency, after Labour MP Josh Simons announces his resignation.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 15 May 2026 17:00:34 GMT",
-    "link": "https://www.bbc.com/news/articles/cyv26e7yd89o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/ce8p4ywypx8o#0",
