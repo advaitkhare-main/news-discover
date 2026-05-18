@@ -40,46 +40,6 @@
     "link": "https://www.ndtv.com/offbeat/i-never-want-to-leave-indian-woman-in-us-shares-why-florida-feels-like-home-after-years-of-living-there-11508939#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/trump-likely-to-hold-key-meeting-over-military-action-on-iran-report-11509277#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Likely To Hold Key Meeting Over Military Action On Iran: Report",
-    "summary": "Donald Trump may discuss military options against Iran.",
-    "image": "https://c.ndtvimg.com/2026-04/73cdgth8_donald-trump-photo-appti_625x300_06_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 17 May 2026 23:42:24 +0530",
-    "link": "https://www.ndtv.com/world-news/trump-likely-to-hold-key-meeting-over-military-action-on-iran-report-11509277#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/india-netherlands-sign-pact-to-fast-track-freshwater-reservoir-in-gujarat-11509244#publisher=newsstand",
-    "category": "india",
-    "title": "India, Netherlands Sign Pact To Fast Track Freshwater Reservoir In Gujarat",
-    "summary": "PM Modi noted that the technology used in the 32-kilometre barrier dam holds vital lessons for Gujarat.",
-    "image": "https://c.ndtvimg.com/2026-05/n3u7rhk8_kalpasar-project_625x300_17_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 17 May 2026 23:28:22 +0530",
-    "link": "https://www.ndtv.com/india-news/india-netherlands-sign-pact-to-fast-track-freshwater-reservoir-in-gujarat-11509244#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/up-cabinet-portfolios-allocated-week-after-expansion-who-got-what-11509238#publisher=newsstand",
-    "category": "india",
-    "title": "UP Cabinet Portfolios Allocated Week After Expansion: Who Got What",
-    "summary": "Two state ministers were promoted to independent charge.",
-    "image": "https://i.ndtvimg.com/i/2018-03/yogi-adityanath_650x400_41520862877.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 17 May 2026 23:26:31 +0530",
-    "link": "https://www.ndtv.com/india-news/up-cabinet-portfolios-allocated-week-after-expansion-who-got-what-11509238#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/were-living-in-horror-family-of-noida-woman-twisha-sharma-found-dead-in-bhopal-to-ndtv-11509228#publisher=newsstand",
-    "category": "india",
-    "title": "'We're Living In Horror': Family Of Noida Woman Found Dead In Bhopal To NDTV",
-    "summary": "Twisha Sharma's father Navnidhi Sharma and brother Ashish Sharma",
-    "image": "https://c.ndtvimg.com/2026-05/fq7oh06g_twisha-sharma-family_625x300_17_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 17 May 2026 23:24:48 +0530",
-    "link": "https://www.ndtv.com/india-news/were-living-in-horror-family-of-noida-woman-twisha-sharma-found-dead-in-bhopal-to-ndtv-11509228#publisher=newsstand"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cj6pyk7e3w4o#0",
     "category": "global",
     "title": "Am I part of the luckiest generation in history?",
@@ -88,16 +48,6 @@
     "source": "BBC",
     "pubDate": "Sun, 17 May 2026 23:11:37 GMT",
     "link": "https://www.bbc.com/news/articles/cj6pyk7e3w4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/india-sweden-agree-to-elevate-bilateral-ties-to-strategic-partnership-as-pm-hold-talks-with-swedish-counterpart-11509188#publisher=newsstand",
-    "category": "india",
-    "title": "India, Sweden Upgrade Bilateral Ties To 'Strategic Partnership'",
-    "summary": "PM Modi had earlier visited Sweden in 2018",
-    "image": "https://c.ndtvimg.com/2026-05/udehmjv8_pm-modi_625x300_17_May_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Sun, 17 May 2026 23:09:09 +0530",
-    "link": "https://www.ndtv.com/world-news/india-sweden-agree-to-elevate-bilateral-ties-to-strategic-partnership-as-pm-hold-talks-with-swedish-counterpart-11509188#publisher=newsstand"
   },
   {
     "id": "https://www.bbc.com/news/articles/c936xeeye41o#0",
@@ -118,6 +68,16 @@
     "source": "BBC",
     "pubDate": "Sun, 17 May 2026 23:02:56 GMT",
     "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/cp8py1n500lo#0",
+    "category": "global",
+    "title": "'All I thought about was running for my life': Footballer recalls train stabbing attack",
+    "summary": "Footballer Jonathan Gjoshe was among the 11 passengers seriously injured in a knife attack on a train as it travelled through Cambridgeshire last November.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 17 May 2026 23:02:13 GMT",
+    "link": "https://www.bbc.com/sport/football/articles/cp8py1n500lo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/sport/golf/articles/c86d4lv37vwo#0",
@@ -148,16 +108,6 @@
     "source": "BBC",
     "pubDate": "Sun, 17 May 2026 19:23:20 GMT",
     "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537239.html",
-    "category": "sports",
-    "title": "Axar, Ashutosh, Starc keep Delhi Capitals' playoffs hopes alive",
-    "summary": "RR looked set for a 220 total at one point but Starc's three wickets in the 15th over derailed them",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417100/417164.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 17 May 2026 19:12:24 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537239.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1537173.html",
@@ -210,116 +160,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1537176.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c9q311nj5r3o#0",
-    "category": "global",
-    "title": "How worrying is the Ebola outbreak in DR Congo?",
-    "summary": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 17 May 2026 18:06:31 GMT",
-    "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/fintech-firm-paramotor-digital-files-confidential-ipo-papers-with-sebi/articleshow/131154249.cms",
-    "category": "finance",
-    "title": "Fintech firm Paramotor Digital files confidential IPO papers with SEBI",
-    "summary": "Paramotor Digital Technology has confidentially filed draft IPO papers with SEBI via the pre-filing route. Founded in 2016, the fintech and enterprise tech firm operates SpendPro, RewardOn, yayyy.shop and DevStack. The move signals growing IPO moment",
-    "image": "https://img.etimg.com/photo/msid-131154249,imgsize-55652.cms",
-    "source": "ET",
-    "pubDate": "Sun, 17 May 2026 17:58:14 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/fintech-firm-paramotor-digital-files-confidential-ipo-papers-with-sebi/articleshow/131154249.cms"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537172.html",
-    "category": "sports",
-    "title": "Sonny Baker marks Test call with five-for but Hampshire still in trouble",
-    "summary": "Home side lose four second-innings wickets to lead by just 67, despite fightback with ball",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417100/417157.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 17 May 2026 17:45:46 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537172.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/131154027.cms",
-    "category": "finance",
-    "title": "Ahead of Market: 10 things that will decide D-Street action on Monday",
-    "summary": "Nifty broke below its 23,800\u201324,500 consolidation range, signalling near-term weakness, with resistance now seen at 23,800\u201324,000 and key support at 23,150, according to analysts. Market breadth stayed negative as Sensex fell sharply, dragged by RIL,",
-    "image": "https://img.etimg.com/photo/msid-131154027,imgsize-221700.cms",
-    "source": "ET",
-    "pubDate": "Sun, 17 May 2026 17:43:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/131154027.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-2-stock-ideas-for-monday-with-up-to-8-near-term-gains/articleshow/131153149.cms",
-    "category": "finance",
-    "title": "Market Trading Guide: 2 stock ideas for Monday with up to 8% near-term gains",
-    "summary": "Nifty ended lower on Friday, breaking a two-session winning streak as banking, metal and realty stocks dragged the index below the 23,800 zone. Analysts see a bearish setup with resistance at key EMAs and support near 23,500. Amid volatility, two tec",
-    "image": "https://img.etimg.com/photo/msid-131153149,imgsize-87236.cms",
-    "source": "ET",
-    "pubDate": "Sun, 17 May 2026 16:54:04 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-2-stock-ideas-for-monday-with-up-to-8-near-term-gains/articleshow/131153149.cms"
-  },
-  {
-    "id": "https://www.bbc.com/sport/rugby-union/articles/ce8p60nj9e9o#0",
-    "category": "global",
-    "title": "Scotland rugby great Scott Hastings dies at 61",
-    "summary": "One of Scotland's best and most loved rugby union players, Scott Hastings, has died at 61.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 17 May 2026 16:22:02 GMT",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/ce8p60nj9e9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/analysts-see-up-to-50-upside-in-these-8-nifty500-stocks-do-you-own-any/slideshow/131152266.cms",
-    "category": "finance",
-    "title": "Analysts see up to 50% upside in these 8 Nifty500 stocks. Do you own any?",
-    "summary": "In this analysis, we highlight eight standout stocks that have delivered sequential quarterly revenue growth, are covered by more than five analysts, and offer estimated upside potential of 40% to 50% over the next year.\u200b",
-    "image": "https://img.etimg.com/photo/msid-131152158,imgsize-7232.cms",
-    "source": "ET",
-    "pubDate": "Sun, 17 May 2026 15:49:07 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/analysts-see-up-to-50-upside-in-these-8-nifty500-stocks-do-you-own-any/slideshow/131152266.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/9-million-meal-warren-buffett-and-stephen-curry-charity-dinner-fetches-record-breaking-bid/articleshow/131152033.cms",
-    "category": "finance",
-    "title": "$9 million meal? Warren Buffett and Stephen Curry charity dinner fetches record-breaking bid",
-    "summary": "A charity auction offering a private dinner with Warren Buffett and Stephen Curry has fetched a record $9 million bid. With Buffett matching contributions, the total donation nears $27 million. Proceeds will support Glide Foundation and Eat. Learn. P",
-    "image": "https://img.etimg.com/photo/msid-131152033,imgsize-62556.cms",
-    "source": "ET",
-    "pubDate": "Sun, 17 May 2026 15:42:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/9-million-meal-warren-buffett-and-stephen-curry-charity-dinner-fetches-record-breaking-bid/articleshow/131152033.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/what-does-an-import-restriction-mean-for-silver-investments/articleshow/131151188.cms",
-    "category": "finance",
-    "title": "What does an import restriction mean for silver investments?",
-    "summary": "India\u2019s move to restrict silver imports and raise duties is expected to push up domestic prices by increasing premiums over global benchmarks. While global prices may remain stable, Indian investors could pay more for physical silver. Analysts say th",
-    "image": "https://img.etimg.com/photo/msid-131151188,imgsize-77622.cms",
-    "source": "ET",
-    "pubDate": "Sun, 17 May 2026 14:20:08 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/what-does-an-import-restriction-mean-for-silver-investments/articleshow/131151188.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pfc-board-clears-next-step-for-rec-merger-seeks-govt-approval/articleshow/131151051.cms",
-    "category": "finance",
-    "title": "PFC board clears next step for REC merger, seeks govt approval",
-    "summary": "Power Finance Corporation has taken a key step toward merging with REC Limited after its board approved seeking the President of India\u2019s nod for the transaction. PFC has authorised CMD Parminder Chopra to seek formal approval. The merger will be base",
-    "image": "https://img.etimg.com/photo/msid-131151051,imgsize-101171.cms",
-    "source": "ET",
-    "pubDate": "Sun, 17 May 2026 14:05:25 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pfc-board-clears-next-step-for-rec-merger-seeks-govt-approval/articleshow/131151051.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/niftys-23600-line-in-the-sand-why-missing-this-level-could-pull-the-index-to-22800/articleshow/131150742.cms",
-    "category": "finance",
-    "title": "Nifty's 23,600 line in the sand: Why missing this level could pull the index to 22,800",
-    "summary": "Nifty\u2019s recent profit booking has made 23,600 a crucial support level, with a breach potentially dragging the index to 22,800, says Geojit\u2019s Anand James. While technical indicators show mixed signals, weakness persists in IT stocks. Select opportunit",
-    "image": "https://img.etimg.com/photo/msid-131150742,imgsize-37394.cms",
-    "source": "ET",
-    "pubDate": "Sun, 17 May 2026 13:30:54 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/niftys-23600-line-in-the-sand-why-missing-this-level-could-pull-the-index-to-22800/articleshow/131150742.cms"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/clypg60k25ro#0",
     "category": "global",
     "title": "Personal decision for Starmer on whether to fight leadership contest, minister says",
@@ -338,6 +178,166 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 19 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/physicswallah-ipo-lock-in-expiry-rs-2949-worth-of-shares-to-free-up-for-trade-today-do-you-own/articleshow/131164927.cms",
+    "category": "finance",
+    "title": "Physicswallah IPO lock-in expiry: Rs 2,949 worth of shares to free up for trade today. Do you own?",
+    "summary": "Physicswallah shares are in focus as nearly 26 crore shares, valued at Rs 2,949 crore, become eligible for trade post-lock-in expiry. This event follows a significant price decline from its listing, though the stock has seen some recovery. The edtech",
+    "image": "https://img.etimg.com/photo/msid-131164927,imgsize-71596.cms",
+    "source": "ET",
+    "pubDate": "Mon, 18 May 2026 08:09:10 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/physicswallah-ipo-lock-in-expiry-rs-2949-worth-of-shares-to-free-up-for-trade-today-do-you-own/articleshow/131164927.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/nse-egr-trading-starts-today-should-gold-investors-buy-metal-in-its-newest-form/articleshow/131164860.cms",
+    "category": "finance",
+    "title": "NSE EGR trading starts today. Should gold investors buy metal in its newest form?",
+    "summary": "The National Stock Exchange has launched Electronic Gold Receipts (EGRs), allowing investors to own gold electronically, backed by physical gold in SEBI-regulated vaults. This move aims to enhance transparency, security, and accessibility in India's ",
+    "image": "https://img.etimg.com/photo/msid-131164860,imgsize-1334348.cms",
+    "source": "ET",
+    "pubDate": "Mon, 18 May 2026 08:02:22 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-egr-trading-starts-today-should-gold-investors-buy-metal-in-its-newest-form/articleshow/131164860.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/nfp-sampoorna-foods-ipo-check-gmp-subscription-price-band-and-other-details/articleshow/131164804.cms",
+    "category": "finance",
+    "title": "NFP Sampoorna Foods IPO: Check GMP, subscription, price band and other details",
+    "summary": "NFP Sampoorna Foods IPO opens for subscription on Monday. Grey market signals indicate a flat outlook with no premium expected. The company aims to raise Rs 24.53 crore through a fresh issue of shares. The IPO will be open from May 18 to May 20.",
+    "image": "https://img.etimg.com/photo/msid-131164804,imgsize-39326.cms",
+    "source": "ET",
+    "pubDate": "Mon, 18 May 2026 07:58:21 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nfp-sampoorna-foods-ipo-check-gmp-subscription-price-band-and-other-details/articleshow/131164804.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-may-18-crude-oil-above-110-again-as-iran-war-tensions-deepen-where-is-liquid-gold-headed/articleshow/131164617.cms",
+    "category": "finance",
+    "title": "Oil Price Today (May 18): Crude oil above $110 again as Iran war tensions deepen. Where is liquid gold headed?",
+    "summary": "Oil prices climbed on Monday. Hopes for peace with Iran dimmed after an attack on a UAE nuclear plant. President Trump is reviewing military actions. Drone attacks on the UAE and Saudi Arabia increased fears of wider conflict. The Strait of Hormuz re",
+    "image": "https://img.etimg.com/photo/msid-131164617,imgsize-60612.cms",
+    "source": "ET",
+    "pubDate": "Mon, 18 May 2026 07:42:09 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-may-18-crude-oil-above-110-again-as-iran-war-tensions-deepen-where-is-liquid-gold-headed/articleshow/131164617.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-11-stocks-cross-below-their-200-dmas/slideshow/131164742.cms",
+    "category": "finance",
+    "title": "Negative Breakout: These 11 stocks cross below their 200 DMAs",
+    "summary": "The 200 DMA is used as a key indicator by traders for determining the overall trend in a particular stock.",
+    "image": "https://img.etimg.com/photo/msid-131164485,imgsize-312404.cms",
+    "source": "ET",
+    "pubDate": "Mon, 18 May 2026 07:24:35 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-11-stocks-cross-below-their-200-dmas/slideshow/131164742.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-seen-testing-record-lows-bonds-to-extend-fall-on-iran-war-jitters/articleshow/131164401.cms",
+    "category": "finance",
+    "title": "Rupee seen testing record lows; bonds to extend fall on Iran war jitters",
+    "summary": "The Indian rupee is poised to hit record lows as investors grapple with growth-inflation risks stemming from the Iran war. Rising Brent crude prices are fueling global inflation concerns, prompting expectations of monetary tightening. India's policym",
+    "image": "https://img.etimg.com/photo/msid-131164401,imgsize-42563.cms",
+    "source": "ET",
+    "pubDate": "Mon, 18 May 2026 07:16:19 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-seen-testing-record-lows-bonds-to-extend-fall-on-iran-war-jitters/articleshow/131164401.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-to-1-1/2-month-low-as-middle-east-tensions-lift-oil-cloud-rate-outlook/articleshow/131164376.cms",
+    "category": "finance",
+    "title": "Gold slips to 1-1/2-month low as Middle East tensions lift oil, cloud rate outlook",
+    "summary": "Gold prices dropped to a one-month low on Monday. Middle East tensions boosted oil prices, fueling inflation concerns. This reinforced expectations for sustained higher interest rates. Investors are awaiting US Federal Reserve meeting minutes for pol",
+    "image": "https://img.etimg.com/photo/msid-131164376,imgsize-114622.cms",
+    "source": "ET",
+    "pubDate": "Mon, 18 May 2026 07:12:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-to-1-1/2-month-low-as-middle-east-tensions-lift-oil-cloud-rate-outlook/articleshow/131164376.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-voda-idea-indian-oil-share-price-18-may-2026/liveblog/131164367.cms",
+    "category": "finance",
+    "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade lower",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-131164367,imgsize-1048787.cms",
+    "source": "ET",
+    "pubDate": "Mon, 18 May 2026 07:11:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-voda-idea-indian-oil-share-price-18-may-2026/liveblog/131164367.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/20-ministers-in-vd-satheesan-cabinet-in-kerala-14-will-be-new-faces-11508705#publisher=newsstand",
+    "category": "india",
+    "title": "20 Ministers In VD Satheesan Cabinet In Kerala, 14 Will Be New Faces",
+    "summary": "The Congress-led UDF won a massive 102 seats in the 140-seat assembly.",
+    "image": "https://c.ndtvimg.com/2026-05/nu739gpc_vd-satheesan_625x300_17_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 18 May 2026 06:51:17 +0530",
+    "link": "https://www.ndtv.com/india-news/20-ministers-in-vd-satheesan-cabinet-in-kerala-14-will-be-new-faces-11508705#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/two-us-navy-ea18-g-growlers-collide-during-air-show-in-idaho-11509715#publisher=newsstand",
+    "category": "india",
+    "title": "Video: Moment 2 Jets Collided Mid-Air At US Air Show",
+    "summary": "The aircraft were performing an aerial demonstration when the collision occurred",
+    "image": "https://c.ndtvimg.com/2026-05/4kfvug2k_us-jets-colliding_625x300_18_May_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 18 May 2026 06:37:48 +0530",
+    "link": "https://www.ndtv.com/world-news/two-us-navy-ea18-g-growlers-collide-during-air-show-in-idaho-11509715#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/throwing-non-veg-food-waste-in-ganga-can-hurt-religious-sentiments-allahabad-high-court-11509112#publisher=newsstand",
+    "category": "india",
+    "title": "Throwing Non-Veg Food Waste In Ganga Can Hurt Religious Sentiments: Court",
+    "summary": "Allahabad High Court observed that throwing non-veg food waste into Ganga could hurt religious sentiments",
+    "image": "https://c.ndtvimg.com/2026-05/vs023k2o_allahabad-high-court-_625x300_05_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 18 May 2026 06:33:34 +0530",
+    "link": "https://www.ndtv.com/india-news/throwing-non-veg-food-waste-in-ganga-can-hurt-religious-sentiments-allahabad-high-court-11509112#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/business-news/us-waiver-russian-oil-purchase-india-import-fuel-price-hike-petrol-diesel-hormuz-crisis-iran-war-11509716#publisher=newsstand",
+    "category": "india",
+    "title": "US Waiver On Russian Oil Ends: Will India Raise Fuel Prices Again?",
+    "summary": "Petrol, Diesel Price Today: India's imports of Russian oil rose to 2.3 million barrels per day in May.",
+    "image": "https://c.ndtvimg.com/2026-05/gai3tvno_russian-oil-ship_625x300_05_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 18 May 2026 06:33:26 +0530",
+    "link": "https://www.ndtv.com/business-news/us-waiver-russian-oil-purchase-india-import-fuel-price-hike-petrol-diesel-hormuz-crisis-iran-war-11509716#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/vd-satheesan-with-20-member-cabinet-to-take-oath-in-kerala-today-11509390#publisher=newsstand",
+    "category": "india",
+    "title": "VD Satheesan, With 20-Member Cabinet, To Take Oath In Kerala Today",
+    "summary": "VD Satheesan will take oath today with 20 members of his cabinet.",
+    "image": "https://c.ndtvimg.com/2026-05/5uonh5og_vd-satheesan_625x300_18_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 18 May 2026 06:24:37 +0530",
+    "link": "https://www.ndtv.com/india-news/vd-satheesan-with-20-member-cabinet-to-take-oath-in-kerala-today-11509390#publisher=newsstand"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1537257.html",
+    "category": "sports",
+    "title": "Bhuvneshwar stretches Purple Cap lead; Kohli, Rahul move up on Orange Cap table",
+    "summary": "It was a day with two matches at IPL 2026, and that meant some of the star performers of the season made big moves up the Orange and Purple Cap tables",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417100/417122.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 18 May 2026 02:48:19 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1537257.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1537239.html",
+    "category": "sports",
+    "title": "Axar, Ashutosh, Starc keep Delhi Capitals' playoffs hopes alive",
+    "summary": "RR looked set for a 220 total at one point but Starc's three wickets in the 15th over derailed them",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417100/417164.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 18 May 2026 02:12:16 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1537239.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/ce8pzkg7klgo#0",
+    "category": "global",
+    "title": "Moment two fighter jets collide mid-air at US air show",
+    "summary": "Four crew members safely ejected from US Navy jets and are in a stable condition after the collision.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 18 May 2026 00:49:25 GMT",
+    "link": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.ndtv.com/india-news/shimla-agreement-table-stays-as-reminder-of-mistakes-himachal-pradesh-governor-kavinder-gupta-11509368#publisher=newsstand",
