@@ -30,16 +30,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cj6pyk7e3w4o#0",
-    "category": "global",
-    "title": "Are baby boomers like me the luckiest generation in history?",
-    "summary": "As young graduates criticise the terms of their student debt, Evan Davis asks whether baby boomers really were the luckiest generation",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 17 May 2026 23:11:37 GMT",
-    "link": "https://www.bbc.com/news/articles/cj6pyk7e3w4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -48,6 +38,126 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 19 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/ioc-q4-results-cons-pat-surges-78-yoy-to-rs-14458-crore-revenue-rises-7/articleshow/131182133.cms",
+    "category": "finance",
+    "title": "IOC Q4 results: Cons PAT surges 78% YoY to Rs 14,458 crore, revenue rises 7%",
+    "summary": "Indian Oil Corporation announced a significant 78% jump in net profit for the March quarter. Revenue also saw a healthy increase. The company's board recommended a final dividend for shareholders. Despite global uncertainties, IOC's profitability rem",
+    "image": "https://img.etimg.com/photo/msid-131182133,imgsize-29062.cms",
+    "source": "ET",
+    "pubDate": "Mon, 18 May 2026 22:29:53 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ioc-q4-results-cons-pat-surges-78-yoy-to-rs-14458-crore-revenue-rises-7/articleshow/131182133.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-to-be-sworn-in-as-fed-chair-at-white-house-on-friday-fox-business-reports/articleshow/131182140.cms",
+    "category": "finance",
+    "title": "Warsh to be sworn in as Fed chair at White House on Friday, Fox Business reports",
+    "summary": "Kevin Warsh is set to take over as U.S. Federal Reserve chair following Senate approval, with his swearing-in scheduled at the White House. His leadership comes at a critical time as the Fed navigates persistent inflation and pressure over interest r",
+    "image": "https://img.etimg.com/photo/msid-131182140,imgsize-83192.cms",
+    "source": "ET",
+    "pubDate": "Mon, 18 May 2026 22:29:46 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-to-be-sworn-in-as-fed-chair-at-white-house-on-friday-fox-business-reports/articleshow/131182140.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/us-drops-all-charges-against-gautam-adani-case-closed-permanently-11513895#publisher=newsstand",
+    "category": "india",
+    "title": "US Drops All Charges Against Gautam Adani, Case Closed Permanently",
+    "summary": "The Adani Group has consistently rejected the allegations as meritless.",
+    "image": "https://c.ndtvimg.com/2025-12/h77m1vfo_gautam-adani-_625x300_09_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 18 May 2026 22:25:54 +0530",
+    "link": "https://www.ndtv.com/india-news/us-drops-all-charges-against-gautam-adani-case-closed-permanently-11513895#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/ahmedabad-jewellery-heist-ends-in-betrayal-woman-staff-arrested-11513877#publisher=newsstand",
+    "category": "india",
+    "title": "Ahmedabad Jewellery Heist Ends In Betrayal, Woman Staff Arrested",
+    "summary": "Police scanned around 300 CCTV footages to catch the accused.",
+    "image": "https://c.ndtvimg.com/2026-05/bugrg15_jewellery_625x300_18_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 18 May 2026 22:22:42 +0530",
+    "link": "https://www.ndtv.com/india-news/ahmedabad-jewellery-heist-ends-in-betrayal-woman-staff-arrested-11513877#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/2-month-old-girl-among-7-dead-in-truck-autorickshaw-collision-in-bihar-11513863#publisher=newsstand",
+    "category": "india",
+    "title": "2-Month-Old Girl Among 7 Dead In Truck-Autorickshaw Collision In Bihar",
+    "summary": "The accident occurred on National Highway-31 in the Mansi area of the district",
+    "image": "https://i.ndtvimg.com/i/2015-03/ambulance-generic_650x400_51425838004.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 18 May 2026 22:18:57 +0530",
+    "link": "https://www.ndtv.com/india-news/2-month-old-girl-among-7-dead-in-truck-autorickshaw-collision-in-bihar-11513863#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/pune-man-pours-acid-on-wifes-private-parts-after-affair-suspicion-cops-11513845#publisher=newsstand",
+    "category": "india",
+    "title": "Pune Man Pours Acid On Wife's Private Parts After Affair Suspicion: Cops",
+    "summary": "Further probe is underway, say officials (Representational)",
+    "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 18 May 2026 22:16:11 +0530",
+    "link": "https://www.ndtv.com/india-news/pune-man-pours-acid-on-wifes-private-parts-after-affair-suspicion-cops-11513845#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/tamil-nadu-chief-minister-vijay-mullivaikal-remembrance-day-mullivaikkal-in-our-hearts-vijay-pays-tribute-to-ltte-chief-prabhakaran-11513791#publisher=newsstand",
+    "category": "india",
+    "title": "Vijay Pays Tribute To Ex-LTTE Chief Prabhakaran On Death Anniversary",
+    "summary": "The Sri Lankan Tamils' issue was not a major poll plank in the recent assembly elections.",
+    "image": "https://c.ndtvimg.com/2026-05/3hgaftq8_vijay-prabhakaran_625x300_18_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 18 May 2026 22:10:51 +0530",
+    "link": "https://www.ndtv.com/india-news/tamil-nadu-chief-minister-vijay-mullivaikal-remembrance-day-mullivaikkal-in-our-hearts-vijay-pays-tribute-to-ltte-chief-prabhakaran-11513791#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/kerala-flood-survivor-hugs-rahul-gandhi-blesses-vd-satheesan-at-oath-event-11513812#publisher=newsstand",
+    "category": "india",
+    "title": "Kerala Flood Survivor Hugs Rahul Gandhi, Blesses VD Satheesan At Oath Event",
+    "summary": "Ammal has long considered Satheesan her own son.",
+    "image": "https://c.ndtvimg.com/2026-05/l8js3uho_kerala_625x300_18_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 18 May 2026 22:08:09 +0530",
+    "link": "https://www.ndtv.com/india-news/kerala-flood-survivor-hugs-rahul-gandhi-blesses-vd-satheesan-at-oath-event-11513812#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/twisha-sharma-death-latest-news-twisha-sharmas-video-moments-before-death-then-failed-cpr-attempts-11513098#publisher=newsstand",
+    "category": "india",
+    "title": "Video Shows 3 Men Bringing Twisha Sharma's Body Down Staircase",
+    "summary": "The couple met through a dating app in 2024 and married in December 2025.",
+    "image": "https://c.ndtvimg.com/2026-05/63k8o9ak_twisha-sharma-_625x300_18_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 18 May 2026 21:55:26 +0530",
+    "link": "https://www.ndtv.com/india-news/twisha-sharma-death-latest-news-twisha-sharmas-video-moments-before-death-then-failed-cpr-attempts-11513098#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-tehran-prepares-professional-mechanism-for-strait-of-hormuz-traffic-strikes-lebanon-despite-ceasefire-trump-11506528#publisher=newsstand",
+    "category": "india",
+    "title": "US Iran War News Live Updates: \"Clock Is ticking\": Trump Warns 'Nothing Will Be Left' Of Iran Without Deal",
+    "summary": "US Iran War News LIVE Updates: Israel launched a massive series of airstrikes on southern Lebanon, despite an extension of the truce between the two countries.",
+    "image": "https://c.ndtvimg.com/2026-05/g2bd5vqg_hormuz_625x300_17_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 18 May 2026 21:54:23 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-tehran-prepares-professional-mechanism-for-strait-of-hormuz-traffic-strikes-lebanon-despite-ceasefire-trump-11506528#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131180950.cms",
+    "category": "finance",
+    "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+    "summary": "Indian indices were subdued with Nifty up 0.03% and Sensex down 0.10%. High volatility (VIX at 19.63) and bearish momentum indicators suggest near-term weakness. Analysts expect Nifty to trade between 23,300\u201323,800, with resistance near 23,650 and ke",
+    "image": "https://img.etimg.com/photo/msid-131180950,imgsize-116884.cms",
+    "source": "ET",
+    "pubDate": "Mon, 18 May 2026 21:36:32 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131180950.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-easing-call-recording-rules-for-research-analysts-dealing-with-institutional-investors/articleshow/131180701.cms",
+    "category": "finance",
+    "title": "Sebi proposes easing call recording rules for research analysts dealing with institutional investors",
+    "summary": "SEBI proposes relaxing mandatory call recording requirements for research analysts when dealing with institutional investors to reduce compliance burdens. The proposal recognizes institutional clients as sophisticated entities.",
+    "image": "https://img.etimg.com/photo/msid-131180701,imgsize-85928.cms",
+    "source": "ET",
+    "pubDate": "Mon, 18 May 2026 21:14:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-easing-call-recording-rules-for-research-analysts-dealing-with-institutional-investors/articleshow/131180701.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-pb-fintech-ge-shipping-on-tuesday-for-gains-up-to-12/articleshow/131180117.cms",
@@ -60,46 +170,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-pb-fintech-ge-shipping-on-tuesday-for-gains-up-to-12/articleshow/131180117.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/enough-petrol-diesel-stocks-centre-after-us-waiver-on-russian-oil-expires-11513375#publisher=newsstand",
-    "category": "india",
-    "title": "Enough Petrol, Diesel Stocks: Centre After US Waiver On Russian Oil Expires",
-    "summary": "Sujata Sharma, the Joint Secretary of the petroleum ministry said, \"There is sufficient stock of petrol, diesel in the country. No dryout is reported at any LPG dealership\".",
-    "image": "https://c.ndtvimg.com/2026-04/5jaf7be8_oil-tanker-reuters_625x300_10_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 18 May 2026 20:33:43 +0530",
-    "link": "https://www.ndtv.com/india-news/enough-petrol-diesel-stocks-centre-after-us-waiver-on-russian-oil-expires-11513375#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/man-daughter-die-after-getting-locked-in-burning-car-in-gujarat-11513360#publisher=newsstand",
-    "category": "india",
-    "title": "Man, Daughter Die After Getting Locked In Burning Car In Gujarat",
-    "summary": "Police are investigating the suspected mechanical failure.",
-    "image": "https://c.ndtvimg.com/2026-05/6rq0kd3k_gujarat-accident_625x300_18_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 18 May 2026 20:31:09 +0530",
-    "link": "https://www.ndtv.com/india-news/man-daughter-die-after-getting-locked-in-burning-car-in-gujarat-11513360#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/boy-13-killed-buried-by-drunk-school-friends-after-fight-in-tamil-nadu-11513086#publisher=newsstand",
-    "category": "india",
-    "title": "Coimbatore Horror: Boy, 13, Killed And Buried Allegedly By School Friends",
-    "summary": "The victim's parents later filed a missing persons complaint.",
-    "image": "https://c.ndtvimg.com/2026-05/unlj0qmc_tamil-nadu-minor-killed_625x300_18_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 18 May 2026 20:28:39 +0530",
-    "link": "https://www.ndtv.com/india-news/boy-13-killed-buried-by-drunk-school-friends-after-fight-in-tamil-nadu-11513086#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/weather-office-warns-of-severe-heatwave-across-northwest-central-india-11513291#publisher=newsstand",
-    "category": "india",
-    "title": "Weather Office Warns Of Heatwave Across Northwest, Central India This Week",
-    "summary": "Isolated pockets are expected to witness heatwave conditions between Monday and May 24.",
-    "image": "https://c.ndtvimg.com/2026-05/7eqbcpto_heatwave_625x300_17_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 18 May 2026 20:25:52 +0530",
-    "link": "https://www.ndtv.com/india-news/weather-office-warns-of-severe-heatwave-across-northwest-central-india-11513291#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/igl-q4-results-cons-pat-falls-25-yoy-to-rs-341-crore-revenue-up-6/articleshow/131179961.cms",
     "category": "finance",
     "title": "IGL Q4 Results: Cons PAT falls 25% YoY to Rs 341 crore, revenue up 6%",
@@ -108,46 +178,6 @@
     "source": "ET",
     "pubDate": "Mon, 18 May 2026 20:25:16 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/igl-q4-results-cons-pat-falls-25-yoy-to-rs-341-crore-revenue-up-6/articleshow/131179961.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/oil-prices-dip-after-report-of-us-suspending-iranian-crude-sanctions-11513308#publisher=newsstand",
-    "category": "india",
-    "title": "Oil Prices Dip After Report Of US Suspending Iranian Crude Sanctions",
-    "summary": "Brent crude, West Texas Intermediate prices fell on Monday.",
-    "image": "https://c.ndtvimg.com/2026-04/f563cav8_strait-of-hormuz-oil_625x300_02_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 18 May 2026 20:21:59 +0530",
-    "link": "https://www.ndtv.com/world-news/oil-prices-dip-after-report-of-us-suspending-iranian-crude-sanctions-11513308#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/is-purple-rice-a-superfood-health-benefits-explained-11513274#publisher=newsstand",
-    "category": "india",
-    "title": "Is Purple Rice A 'Superfood'? Health Benefits Explained",
-    "summary": "Purple rice is generally safe for most people, but moderation remains important",
-    "image": "https://c.ndtvimg.com/2026-05/cbuotvpc_black-ricee_625x300_02_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 18 May 2026 20:17:27 +0530",
-    "link": "https://www.ndtv.com/health/is-purple-rice-a-superfood-health-benefits-explained-11513274#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/no-ebola-case-in-india-airports-put-on-alert-after-who-warning-11513225#publisher=newsstand",
-    "category": "india",
-    "title": "No Ebola Case In India, Airports Put On Alert After WHO Warning",
-    "summary": "The Centre has reviewed standard operating procedures for screening, surveillance, quarantine and case management, while laboratory preparedness is also being ramped up. The National Institute of Virology (NIV), Pune has been designated for Ebola tes",
-    "image": "https://c.ndtvimg.com/2026-05/bjs0v108_ebola_625x300_18_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 18 May 2026 20:08:39 +0530",
-    "link": "https://www.ndtv.com/health/no-ebola-case-in-india-airports-put-on-alert-after-who-warning-11513225#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/breast-cancer-to-lung-cancer-the-7-most-common-cancers-among-women-in-the-world-11513142#publisher=newsstand",
-    "category": "india",
-    "title": "Breast Cancer To Lung Cancer: The 7 Most Common Cancers Among Women In The World",
-    "summary": "Some cancers affect women more often because of biological factors, age, lifestyle habits, environmental exposure, and family history. Early detection, regular screening, healthy eating, exercise, and avoiding tobacco can reduce the risk of many canc",
-    "image": "https://c.ndtvimg.com/2026-05/6a3ehu0s_indian-woman-and-doctor_625x300_18_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 18 May 2026 20:02:07 +0530",
-    "link": "https://www.ndtv.com/health/breast-cancer-to-lung-cancer-the-7-most-common-cancers-among-women-in-the-world-11513142#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/nextera-energy-strikes-66-8-billion-deal-for-dominion-in-bets-on-ai-power-demand/articleshow/131179481.cms",
@@ -170,104 +200,34 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/unitedhealth-falls-after-berkshire-sells-stake-in-health-insurer/articleshow/131179448.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/block-deal-jsw-energy-sells-rs-3150-crore-jsw-steel-stake-to-gqg-sbi-mutual-fund/articleshow/131178988.cms",
-    "category": "finance",
-    "title": "Block deal: JSW Energy sells Rs 3,150 crore JSW Steel stake to GQG, SBI Mutual Fund",
-    "summary": "JSW Energy has divested a portion of its JSW Steel stake for Rs 3,150 crore to fund its aggressive power generation expansion. The company aims to reach 30 GW capacity by 2030, bolstered by both renewable and thermal power projects. This strategic mo",
-    "image": "https://img.etimg.com/photo/msid-131178988,imgsize-64140.cms",
-    "source": "ET",
-    "pubDate": "Mon, 18 May 2026 19:35:20 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/block-deal-jsw-energy-sells-rs-3150-crore-jsw-steel-stake-to-gqg-sbi-mutual-fund/articleshow/131178988.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-jumps-nearly-1-after-reports-of-us-relief-on-iran-oil-sanctions/articleshow/131178975.cms",
-    "category": "finance",
-    "title": "GIFT Nifty jumps nearly 1% after reports of US relief on Iran oil sanctions",
-    "summary": "GIFT Nifty rallied nearly 1% after reports indicated possible temporary US sanctions relief on Iranian oil exports. Hopes of additional crude supply eased inflation and energy shock concerns, lifting investor sentiment despite ongoing geopolitical te",
-    "image": "https://img.etimg.com/photo/msid-131178975,imgsize-110060.cms",
-    "source": "ET",
-    "pubDate": "Mon, 18 May 2026 19:32:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-jumps-nearly-1-after-reports-of-us-relief-on-iran-oil-sanctions/articleshow/131178975.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-trade-mixed-as-treasury-yields-ease-oil-prices-retreat/articleshow/131178386.cms",
-    "category": "finance",
-    "title": "US stocks today: US stocks trade mixed as Treasury yields ease, oil prices retreat",
-    "summary": "U.S. stocks were mixed in choppy trade as Treasury yields eased from recent highs and oil prices declined on easing supply concerns. Investors remained cautious amid inflation worries and rate hike bets, while AI-driven optimism and key earnings kept",
-    "image": "https://img.etimg.com/photo/msid-131178386,imgsize-270448.cms",
-    "source": "ET",
-    "pubDate": "Mon, 18 May 2026 19:09:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-trade-mixed-as-treasury-yields-ease-oil-prices-retreat/articleshow/131178386.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/7-large-cap-stocks-post-highest-quarterly-profits-in-10-quarters/slideshow/131177897.cms",
-    "category": "finance",
-    "title": "7 large-cap stocks post highest quarterly profits in 10 quarters",
-    "summary": "Several NSE large-cap companies reported record March 2026 quarterly profits, surpassing previous ten-quarter highs by over 25%. Strong operational performance, improved fundamentals, and favorable market conditions boosted earnings for firms includi",
-    "image": "https://img.etimg.com/photo/msid-131177615,imgsize-51692.cms",
-    "source": "ET",
-    "pubDate": "Mon, 18 May 2026 18:37:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/7-large-cap-stocks-post-highest-quarterly-profits-in-10-quarters/slideshow/131177897.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cd9pzd14vj5o#0",
+    "id": "https://www.bbc.com/news/articles/cewpyv79pw1o#0",
     "category": "global",
-    "title": "Shakira wins \u00a350m tax refund from Spanish government",
-    "summary": "The Colombian singer says the court ruling means the \"narrative\" that she was guilty now \"crumbles\".",
+    "title": "Jury tosses Elon Musk's lawsuit against OpenAI and its boss Sam Altman",
+    "summary": "Jurors spent nearly a month hearing and viewing evidence in the high-profile trial, where Musk had accused Altman of \"stealing a charity\".",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 18 May 2026 15:08:40 GMT",
-    "link": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 18 May 2026 17:56:48 GMT",
+    "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c9v3jnl4xmyo#0",
+    "id": "https://www.bbc.com/news/articles/cx21en4807wo#0",
     "category": "global",
-    "title": "Police hunt second man after reports teenagers raped",
-    "summary": "A search for a suspect is underway as police patrols in Great Yarmouth are increased.",
+    "title": "Burnham pledges not to 're-run' Brexit arguments",
+    "summary": "The potential leadership challenger says he is not proposing the UK considers rejoining the EU.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 18 May 2026 15:04:05 GMT",
-    "link": "https://www.bbc.com/news/articles/c9v3jnl4xmyo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 18 May 2026 17:03:24 GMT",
+    "link": "https://www.bbc.com/news/articles/cx21en4807wo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537309.html",
-    "category": "sports",
-    "title": "Derbyshire wrap up long-awaited Lord's win",
-    "summary": "Nick Potts helps clean up Middlesex tail before visitors knock off small chase",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416200/416246.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 18 May 2026 14:51:54 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537309.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537303.html",
-    "category": "sports",
-    "title": "CSK opt to bat in last Chennai game of IPL 2026",
-    "summary": "If SRH win, they and Gujarat Titans will be through to the playoffs",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417100/417187.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 18 May 2026 14:41:13 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537303.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cze2wrk08kko#0",
+    "id": "https://www.bbc.com/news/articles/cp8pz1k4r2lo#0",
     "category": "global",
-    "title": "Tube strikes called off by RMT union",
-    "summary": "The Rail, Maritime and Transport (RMT) union calls off a series of 24-hour strikes starting on Tuesday.",
+    "title": "Married at First Sight UK brides tell BBC they were raped by on-screen husbands",
+    "summary": "Channel 4 was aware of one of the rape claims before broadcast, but the woman involved still featured in the show.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 18 May 2026 14:25:14 GMT",
-    "link": "https://www.bbc.com/news/articles/cze2wrk08kko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537299.html",
-    "category": "sports",
-    "title": "Louis Kimber plays matchwinning hand as Northants seal thrilling chase",
-    "summary": "Substitute batter thumps 66 off 69 to secure low-scoring arm wrestle at Bristol",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417100/417188.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 18 May 2026 14:08:54 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537299.html?ex_cid=OTC-RSS"
+    "pubDate": "Mon, 18 May 2026 16:53:12 GMT",
+    "link": "https://www.bbc.com/news/articles/cp8pz1k4r2lo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c332mngz25vo#0",
@@ -276,18 +236,28 @@
     "summary": "The bodies of all five Italian divers who died in the Maldives last week have now been found, officials tell the BBC.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 18 May 2026 14:05:29 GMT",
+    "pubDate": "Mon, 18 May 2026 16:51:09 GMT",
     "link": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537269.html",
-    "category": "sports",
-    "title": "Mushfiqur ton, Litton and Joy fifties set Pakistan 437",
-    "summary": "Shahzad picked up four wickets but Mushfiqur ensured Bangladesh remained well in front",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417100/417176.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 18 May 2026 13:44:44 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537269.html?ex_cid=OTC-RSS"
+    "id": "https://www.bbc.com/news/articles/c9v3jnl4xmyo#0",
+    "category": "global",
+    "title": "Police hunt man after reports teens raped on beach",
+    "summary": "A search for a suspect is under way as police patrols are increased.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 18 May 2026 16:41:08 GMT",
+    "link": "https://www.bbc.com/news/articles/c9v3jnl4xmyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cj0p1ry367lo#0",
+    "category": "global",
+    "title": "Tribute to 'fearless' soldier who died after fall from horse at royal show",
+    "summary": "Ciara Sullivan's father posted a tribute to his daughter on Facebook on Sunday.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 18 May 2026 16:14:42 GMT",
+    "link": "https://www.bbc.com/news/articles/cj0p1ry367lo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/ce8pg8ryjkzo#0",
@@ -308,56 +278,6 @@
     "source": "BBC",
     "pubDate": "Mon, 18 May 2026 13:04:20 GMT",
     "link": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537296.html",
-    "category": "sports",
-    "title": "Jack White picks up from Harry Brook to condemn Surrey to innings defeat",
-    "summary": "Yorkshire claim 23 points for their second win in six games with visitors taking only two points",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417100/417186.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 18 May 2026 12:45:04 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537296.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537279.html",
-    "category": "sports",
-    "title": "Lanka Premier League returns after two years, opener set for July 17",
-    "summary": "Sri Lanka's T20 franchise competition returns for the first time since its 2024 edition, with the player draft scheduled for June 1",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/385100/385176.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 18 May 2026 10:58:27 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537279.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537262.html",
-    "category": "sports",
-    "title": "DC's home discomforts: 'We look at this venue as an away venue'",
-    "summary": "\"We've many a times not been able to figure out what the surface is like,\" Hemang Badani says about the pitches at Delhi's Arun Jaitley Stadium",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417100/417169.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 18 May 2026 08:45:51 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537262.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537260.html",
-    "category": "sports",
-    "title": "Badani on Starc: 'His work ethic, his preparation, his training are above par'",
-    "summary": "\"Air speed is equally important [as reverse swing],\" Sanjay Bangar says of Mitchell Starc's three-wicket over against Rajasthan Royals",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417100/417145.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 18 May 2026 08:43:14 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537260.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c626znvne0xo#0",
-    "category": "global",
-    "title": "UK companies linked to payments for small boat crossings, BBC finds",
-    "summary": "Smugglers are directing migrants to pay using a network of British businesses, secret filming reveals.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 18 May 2026 05:00:33 GMT",
-    "link": "https://www.bbc.com/news/articles/c626znvne0xo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "7EaNv4Ip2AUlW9RClUv2cB",
