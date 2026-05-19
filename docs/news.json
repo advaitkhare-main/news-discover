@@ -10,104 +10,214 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
-    "id": "https://www.ndtv.com/india-news/medical-student-stabbed-to-death-in-punjabs-patiala-cops-11514657#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ioc-shares-jump-3-after-q4-net-profit-rises-78-yoy-heres-what-motilal-oswal-says/articleshow/131190555.cms",
+    "category": "finance",
+    "title": "IOC shares jump 3% after Q4 net profit rises 78% YoY. Here's what Motilal Oswal says",
+    "summary": "IOC shares saw an uptick on Tuesday after the company reported a 78% YoY jump in Q4 FY26 net profit to Rs 14,458 crore. Revenue grew 7% to Rs 2.37 lakh crore. Motilal Oswal maintained a \u2018Neutral\u2019 stance, noting strong EBITDA beat, improved margins, d",
+    "image": "https://img.etimg.com/photo/msid-131190555,imgsize-47718.cms",
+    "source": "ET",
+    "pubDate": "Tue, 19 May 2026 10:04:54 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ioc-shares-jump-3-after-q4-net-profit-rises-78-yoy-heres-what-motilal-oswal-says/articleshow/131190555.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/retail-sip-boom-boosts-amc-outlook-nippon-icici-pru-lead-pack-siddhartha-khemka/articleshow/131190551.cms",
+    "category": "finance",
+    "title": "Retail SIP boom boosts AMC outlook; Nippon, ICICI Pru lead pack: Siddhartha Khemka",
+    "summary": "India's asset management sector is transforming with systematic investing driving growth and stability, reducing reliance on volatile discretionary capital. SIP inflows have surged, now forming a significant portion of mutual fund assets, indicating ",
+    "image": "https://img.etimg.com/photo/msid-131190551,imgsize-61806.cms",
+    "source": "ET",
+    "pubDate": "Tue, 19 May 2026 10:00:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/retail-sip-boom-boosts-amc-outlook-nippon-icici-pru-lead-pack-siddhartha-khemka/articleshow/131190551.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/the-great-2026-stall-ipo-fundraising-falls-to-two-year-low-with-fears-that-second-half-could-be-sluggish/articleshow/131190491.cms",
+    "category": "finance",
+    "title": "The great 2026 stall: IPO fundraising falls to two-year low with fears that second half could be sluggish",
+    "summary": "Indian IPO fundraising has fallen to a two-year low in early 2026. Market volatility and global tensions are making companies delay their listing plans. Investors are now prioritizing profitability and realistic pricing. While a healthy pipeline exis",
+    "image": "https://img.etimg.com/photo/msid-131190491,imgsize-2672391.cms",
+    "source": "ET",
+    "pubDate": "Tue, 19 May 2026 09:56:57 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/the-great-2026-stall-ipo-fundraising-falls-to-two-year-low-with-fears-that-second-half-could-be-sluggish/articleshow/131190491.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-faces-renewed-volatility-amid-sharp-rise-in-bond-yields/articleshow/131190451.cms",
+    "category": "finance",
+    "title": "US Stock Market: Wall Street faces renewed volatility amid sharp rise in bond yields",
+    "summary": "Rising U.S. bond yields pose a significant risk to stock markets. Higher borrowing costs and inflation concerns are making equities vulnerable. Small companies, consumer sectors, and technology stocks face particular pressure. Investors are reassessi",
+    "image": "https://img.etimg.com/photo/msid-131190451,imgsize-385882.cms",
+    "source": "ET",
+    "pubDate": "Tue, 19 May 2026 09:51:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-faces-renewed-volatility-amid-sharp-rise-in-bond-yields/articleshow/131190451.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-snap-2-day-fall-silver-at-rs-2-75-lakh/kg-what-should-you-do-amid-iran-war-uncertainty/articleshow/131190339.cms",
+    "category": "finance",
+    "title": "Gold prices snap 2-day fall, silver at Rs 2.75 lakh/kg. What should you do amid Iran war uncertainty?",
+    "summary": "Gold prices rose while silver declined on MCX Tuesday as a weaker dollar and cooling crude oil prices influenced sentiment. Gold gained after U.S. President Donald Trump delayed a planned strike on Iran, easing concerns over oil supply disruptions an",
+    "image": "https://img.etimg.com/photo/msid-131190339,imgsize-942436.cms",
+    "source": "ET",
+    "pubDate": "Tue, 19 May 2026 09:45:06 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-snap-2-day-fall-silver-at-rs-2-75-lakh/kg-what-should-you-do-amid-iran-war-uncertainty/articleshow/131190339.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/stay-disciplined-think-five-years-out-deepak-shenoy-on-how-to-navigate-volatile-markets/articleshow/131190287.cms",
+    "category": "finance",
+    "title": "Stay disciplined, think five years out: Deepak Shenoy on how to navigate volatile markets",
+    "summary": "Global economic turbulence is high. However, India's company earnings are performing well. Deepak Shenoy advises investors to focus on fundamentals and maintain patience. Disciplined investing is key for retail investors. The market presents entry po",
+    "image": "https://img.etimg.com/photo/msid-131190287,imgsize-50582.cms",
+    "source": "ET",
+    "pubDate": "Tue, 19 May 2026 09:43:52 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/stay-disciplined-think-five-years-out-deepak-shenoy-on-how-to-navigate-volatile-markets/articleshow/131190287.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/telangana-news/1-man-32-cases-rs-42-lakh-jewellery-telangana-cops-solve-theft-case-11515218#publisher=newsstand",
     "category": "india",
-    "title": "Medical Student Stabbed To Death In Punjab: Cops",
-    "summary": "The victim was pursuing his studies at the Government Medical College, Patiala, police said.",
-    "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "1 Man, 32 Cases, Rs 42 Lakh Jewellery: Telangana Cops Solve Theft Case",
+    "summary": "Police recovered 145 grams of gold ornaments and 5.7 kilograms of silver items from the accused.",
+    "image": "https://c.ndtvimg.com/2026-05/utuimn2s_kamareddy-jewellery-heist_625x300_19_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Tue, 19 May 2026 03:51:49 +0530",
-    "link": "https://www.ndtv.com/india-news/medical-student-stabbed-to-death-in-punjabs-patiala-cops-11514657#publisher=newsstand"
+    "pubDate": "Tue, 19 May 2026 09:42:49 +0530",
+    "link": "https://www.ndtv.com/telangana-news/1-man-32-cases-rs-42-lakh-jewellery-telangana-cops-solve-theft-case-11515218#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-economy-shows-resilience-but-iran-conflict-clouds-outlook/articleshow/131190318.cms",
+    "category": "finance",
+    "title": "Global Market: Japan economy shows resilience but Iran conflict clouds outlook",
+    "summary": "Japan's economy showed strong growth in the first quarter, driven by exports and domestic demand. However, rising energy costs due to the Iran conflict pose a significant threat. This situation complicates the Bank of Japan's policy decisions. Higher",
+    "image": "https://img.etimg.com/photo/msid-131190318,imgsize-344570.cms",
+    "source": "ET",
+    "pubDate": "Tue, 19 May 2026 09:42:25 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-economy-shows-resilience-but-iran-conflict-clouds-outlook/articleshow/131190318.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-foreign-holdings-of-us-treasuries-fall-in-march-as-japan-china-cut-exposure/articleshow/131190197.cms",
+    "category": "finance",
+    "title": "US Stock Market: Foreign holdings of US Treasuries fall in March as Japan, China cut exposure",
+    "summary": "Foreign holdings of U.S. Treasuries dipped in March to $9.348 trillion, down from a record high, as major investors like Japan and China reduced their exposure. Despite this monthly decline, overall foreign investment in U.S. financial assets remaine",
+    "image": "https://img.etimg.com/photo/msid-131190197,imgsize-45776.cms",
+    "source": "ET",
+    "pubDate": "Tue, 19 May 2026 09:34:26 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-foreign-holdings-of-us-treasuries-fall-in-march-as-japan-china-cut-exposure/articleshow/131190197.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/tourist-alleges-discrimination-in-himachal-claims-cafes-favouring-israelis-felt-like-3rd-class-citizen-11515180#publisher=newsstand",
+    "category": "india",
+    "title": "Tourist Alleges Discrimination In Himachal, Claims Cafes Favouring Israelis: 'Felt Like 3rd-Class Citizen'",
+    "summary": "Indian tourist shares experience of discrimination in Dharamkot restaurants and cafes.",
+    "image": "https://c.ndtvimg.com/2026-05/f3i02r58_as_625x300_19_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 19 May 2026 09:30:10 +0530",
+    "link": "https://www.ndtv.com/offbeat/tourist-alleges-discrimination-in-himachal-claims-cafes-favouring-israelis-felt-like-3rd-class-citizen-11515180#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/business-news/india-fuel-price-hike-petro-diesel-oil-companies-loss-iocl-bpcl-hpcl-iran-war-crude-11515082#publisher=newsstand",
+    "category": "india",
+    "title": "Despite Rs 3.9 Fuel Hike, Oil Companies Still Losing Rs 900 Crore Daily",
+    "summary": "Over the past 10 weeks, OMCs lost over Rs 1 lakh crore while ensuring supply of petrol, diesel and LPG.",
+    "image": "https://c.ndtvimg.com/2026-05/ulmjq6hs_petrol-pump_625x300_16_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 19 May 2026 09:23:36 +0530",
+    "link": "https://www.ndtv.com/business-news/india-fuel-price-hike-petro-diesel-oil-companies-loss-iocl-bpcl-hpcl-iran-war-crude-11515082#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-19-may-us-iran-war-fuel-price-hike-india-11514893#publisher=newsstand",
+    "category": "india",
+    "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 300 Points At Open, India Raises Fuel Prices Again",
+    "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
+    "image": "https://c.ndtvimg.com/2026-05/5vbp44bc_share-market-opening-today_625x300_17_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 19 May 2026 09:18:14 +0530",
+    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-19-may-us-iran-war-fuel-price-hike-india-11514893#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/pm-modis-gothenburg-gambit-india-courts-european-ceos-in-sweden-11515129#publisher=newsstand",
+    "category": "india",
+    "title": "PM Modi's Gothenburg Gambit: India Courts European CEOs In Sweden",
+    "summary": "PM Modi's last visit to Sweden was in April 2018",
+    "image": "https://c.ndtvimg.com/2026-05/p894jjn_pm-sweden-visit_625x300_19_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 19 May 2026 09:14:45 +0530",
+    "link": "https://www.ndtv.com/world-news/pm-modis-gothenburg-gambit-india-courts-european-ceos-in-sweden-11515129#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/twisha-sharma-death-case-updates-gap-emerges-in-probe-as-belt-used-for-hanging-left-behind-11514916#publisher=newsstand",
+    "category": "india",
+    "title": "In Twisha Sharma's Post-Mortem, Crucial Evidence Was Missing",
+    "summary": "Twisha Sharma was found hanging at her marital home in Bhopal's Katara Hills area on May 12.",
+    "image": "https://c.ndtvimg.com/2026-05/cjink2gk_twisha-sharma_625x300_18_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 19 May 2026 09:05:51 +0530",
+    "link": "https://www.ndtv.com/india-news/twisha-sharma-death-case-updates-gap-emerges-in-probe-as-belt-used-for-hanging-left-behind-11514916#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/3-killed-in-shooting-at-us-san-diego-mosque-2-suspects-dead-cops-11514615#publisher=newsstand",
     "category": "india",
-    "title": "3 Killed In Shooting At US' San Diego Mosque, 2 Suspects Dead: Cops",
-    "summary": "The center is the largest mosque in San Diego County and includes the Al Rashid School that offers courses in Arabic language, Islamic studies and the Quran for students ages 5 and up.",
+    "title": "3 Killed In Shooting At San Diego's Largest Mosque, 2 Teen Suspects Dead",
+    "summary": "San Diego Police Chief Scott Wahl said the case is being investigated as a hate crime.",
     "image": "https://c.ndtvimg.com/2026-05/sg5u3tpc_-san-diego-shooting_625x300_19_May_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Tue, 19 May 2026 03:17:03 +0530",
+    "pubDate": "Tue, 19 May 2026 09:02:09 +0530",
     "link": "https://www.ndtv.com/world-news/3-killed-in-shooting-at-us-san-diego-mosque-2-suspects-dead-cops-11514615#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/cuba-warns-of-bloodbath-if-us-attacks-11514525#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/us-iran-war-strait-of-hormuz-structural-leverage-warfare-future-of-war-11512337#publisher=newsstand",
     "category": "india",
-    "title": "Cuba Warns Of \"Bloodbath\" If US Attacks",
-    "summary": "Diaz-Canel repeated that Cuba \"poses no threat\" to the United States.",
-    "image": "https://c.ndtvimg.com/2026-05/lgkaolk8_cuba-president_625x300_19_May_26.jpeg",
+    "title": "The Missile Is Dead. Long Live The Map: How Iran Invented 'Future Of War'",
+    "summary": "Iran's weaponisation of the Strait of Hormuz - squeezing energy flows and simultaneously threatening subsea cables - has re-introduced the world to structural leverage warfare and marked it as the future of conflict.",
+    "image": "https://c.ndtvimg.com/2026-05/obrtkbsg_missile-is-dead-long-live-the-map-story_625x300_18_May_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Tue, 19 May 2026 02:05:45 +0530",
-    "link": "https://www.ndtv.com/world-news/cuba-warns-of-bloodbath-if-us-attacks-11514525#publisher=newsstand"
+    "pubDate": "Tue, 19 May 2026 08:57:48 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-strait-of-hormuz-structural-leverage-warfare-future-of-war-11512337#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/meta-plans-may-20-layoffs-to-cut-10-of-its-global-workforce-11514485#publisher=newsstand",
-    "category": "india",
-    "title": "Meta Plans May 20 Layoffs, To Cut 10% Of Its Global Workforce",
-    "summary": "Meta detailed its layoff plans for this week in a memo shared with employees on Monday.",
-    "image": "https://c.ndtvimg.com/2026-05/7qgmqcjc_meta-layoff_625x300_19_May_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Tue, 19 May 2026 01:53:45 +0530",
-    "link": "https://www.ndtv.com/world-news/meta-plans-may-20-layoffs-to-cut-10-of-its-global-workforce-11514485#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1537268.html",
+    "category": "sports",
+    "title": "Former Australia and Queensland wicketkeeper John Maclean dies aged 80",
+    "summary": "John Maclean played four Tests and two ODIs for Australia in 1978-79",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417200/417211.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 19 May 2026 03:45:41 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1537268.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-nasdaq-falls-as-technology-stocks-slide-treasury-yields-climb/articleshow/131185648.cms",
-    "category": "finance",
-    "title": "US stocks today: Nasdaq falls as technology stocks slide, Treasury yields climb",
-    "summary": "US stocks closed mixed as Nasdaq slipped due to profit booking and rising Treasury yields, while Dow edged higher. Oil prices surged on supply disruption fears but later eased after geopolitical comments. Energy stocks outperformed, Nvidia earnings a",
-    "image": "https://img.etimg.com/photo/msid-131185648,imgsize-2516580.cms",
-    "source": "ET",
-    "pubDate": "Tue, 19 May 2026 01:42:47 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-nasdaq-falls-as-technology-stocks-slide-treasury-yields-climb/articleshow/131185648.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1537393.html",
+    "category": "sports",
+    "title": "Klaasen back at No. 1 in IPL 2026 Orange Cap race; Abhishek and Kishan rise too",
+    "summary": "Anshul Kamboj, meanwhile, has become the third bowler this season to touch, or cross, 20 wickets",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417200/417208.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 19 May 2026 03:23:35 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1537393.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/world-news/key-moments-in-elon-musk-vs-openai-trial-11514454#publisher=newsstand",
-    "category": "india",
-    "title": "Key Moments In Elon Musk Vs OpenAI Trial",
-    "summary": "During trial, Sam Altman recalled Musk once demanding a 90% stake in OpenAI.",
-    "image": "https://c.ndtvimg.com/2026-05/ccsive3g_elon-musk_625x300_19_May_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Tue, 19 May 2026 01:33:23 +0530",
-    "link": "https://www.ndtv.com/world-news/key-moments-in-elon-musk-vs-openai-trial-11514454#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1537391.html",
+    "category": "sports",
+    "title": "Aaron Hardie named new Western Australia Sheffield Shield captain",
+    "summary": "Hardie takes over from long-time captain Sam Whiteman as WA continues to transition under new state coach Beau Casson",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/368100/368172.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 19 May 2026 02:52:24 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1537391.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-donald-trump-holds-off-on-planned-iran-strike-after-gulf-allies-request-11514416#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Holds Off On Planned Iran Strike After Gulf Allies' Request",
-    "summary": "President Donald Trump said he is holding off on a military strike on Iran planned for Tuesday.",
-    "image": "https://c.ndtvimg.com/2026-05/plhl1o5s_donald-trump_625x300_16_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 19 May 2026 01:09:18 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-holds-off-on-planned-iran-strike-after-gulf-allies-request-11514416#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/c5y7q66gq56o#0",
+    "category": "global",
+    "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
+    "summary": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 19 May 2026 01:35:30 GMT",
+    "link": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/white-house-reviews-ban-on-trading-through-best-price-on-stocks/articleshow/131185207.cms",
-    "category": "finance",
-    "title": "White House reviews ban on trading through best price on stocks",
-    "summary": "The White House is reviewing a long-standing stock trading rule aimed at ensuring investors get the best prices.  A proposal to modify or scrap the \"trade-through\" rule, which prevents trades from ignoring top bids or offers, has been posted for revi",
-    "image": "https://img.etimg.com/photo/msid-131185207,imgsize-18354.cms",
-    "source": "ET",
-    "pubDate": "Tue, 19 May 2026 00:57:45 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/white-house-reviews-ban-on-trading-through-best-price-on-stocks/articleshow/131185207.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/manipur-tense-as-blockades-by-kuki-naga-groups-paralyse-national-highway-11514389#publisher=newsstand",
-    "category": "india",
-    "title": "Manipur Tense As Blockades By Kuki, Naga Groups Paralyse National Highway",
-    "summary": "The parallel blockades have further intensified the crisis in the conflict-hit state.",
-    "image": "https://c.ndtvimg.com/2026-05/50cdjrtk_bomb-blast-manipur_625x300_03_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 19 May 2026 00:55:41 +0530",
-    "link": "https://www.ndtv.com/india-news/manipur-tense-as-blockades-by-kuki-naga-groups-paralyse-national-highway-11514389#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-tehran-prepares-professional-mechanism-for-strait-of-hormuz-traffic-strikes-lebanon-despite-ceasefire-trump-11506528#publisher=newsstand",
-    "category": "india",
-    "title": "US Iran War News Live Updates: Trump Holds Off Iran Attack Planned For Tuesday After Gulf Intervention",
-    "summary": "US Iran War News LIVE Updates: Israel launched a massive series of airstrikes on southern Lebanon, despite an extension of the truce between the two countries.",
-    "image": "https://c.ndtvimg.com/2026-04/2c0ld6gs_trump-iran_625x300_19_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 19 May 2026 00:52:58 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-tehran-prepares-professional-mechanism-for-strait-of-hormuz-traffic-strikes-lebanon-despite-ceasefire-trump-11506528#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1537385.html",
+    "category": "sports",
+    "title": "'It's going to take a little bit of time' - Fleming on transition from Dhoni to Gaikwad",
+    "summary": "\"It's the management's call, not mine,\" CSK coach Stephen Fleming says of his own future with the team as their chance of entering the IPL 2026 playoffs hangs by a thread",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416200/416203.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 19 May 2026 00:56:13 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1537385.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1537384.html",
@@ -160,16 +270,6 @@
     "link": "https://www.bbc.com/news/articles/cp8pz1k4r2lo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/keeping-close-watch-on-supply-shock-impact-on-inflation-rbi-guv-sanjay-malhotra/articleshow/131187985.cms",
-    "category": "finance",
-    "title": "Keeping close watch on supply shock, impact on inflation: RBI Guv Sanjay Malhotra",
-    "summary": "The Reserve Bank of India is watching global uncertainties closely. Governor Sanjay Malhotra stated the RBI is monitoring supply shocks. The central bank will act if price increases become widespread. India's monetary policy remains neutral, allowing",
-    "image": "https://img.etimg.com/photo/msid-131187985,imgsize-41362.cms",
-    "source": "ET",
-    "pubDate": "Mon, 18 May 2026 23:12:19 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/keeping-close-watch-on-supply-shock-impact-on-inflation-rbi-guv-sanjay-malhotra/articleshow/131187985.cms"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cdxper4k5w1o#0",
     "category": "global",
     "title": "Ex-British soldier imprisoned by Russia says he feels abandoned in occupied Ukraine",
@@ -188,26 +288,6 @@
     "source": "BBC",
     "pubDate": "Mon, 18 May 2026 22:30:58 GMT",
     "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/ioc-q4-results-cons-pat-surges-78-yoy-to-rs-14458-crore-revenue-rises-7/articleshow/131182133.cms",
-    "category": "finance",
-    "title": "IOC Q4 results: Cons PAT surges 78% YoY to Rs 14,458 crore, revenue rises 7%",
-    "summary": "Indian Oil Corporation announced a significant 78% jump in net profit for the March quarter. Revenue also saw a healthy increase. The company's board recommended a final dividend for shareholders. Despite global uncertainties, IOC's profitability rem",
-    "image": "https://img.etimg.com/photo/msid-131182133,imgsize-29062.cms",
-    "source": "ET",
-    "pubDate": "Mon, 18 May 2026 22:29:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ioc-q4-results-cons-pat-surges-78-yoy-to-rs-14458-crore-revenue-rises-7/articleshow/131182133.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-to-be-sworn-in-as-fed-chair-at-white-house-on-friday-fox-business-reports/articleshow/131182140.cms",
-    "category": "finance",
-    "title": "Warsh to be sworn in as Fed chair at White House on Friday, Fox Business reports",
-    "summary": "Kevin Warsh is set to take over as U.S. Federal Reserve chair following Senate approval, with his swearing-in scheduled at the White House. His leadership comes at a critical time as the Fed navigates persistent inflation and pressure over interest r",
-    "image": "https://img.etimg.com/photo/msid-131182140,imgsize-83192.cms",
-    "source": "ET",
-    "pubDate": "Mon, 18 May 2026 22:29:46 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-to-be-sworn-in-as-fed-chair-at-white-house-on-friday-fox-business-reports/articleshow/131182140.cms"
   },
   {
     "id": "https://www.bbc.com/sport/football/articles/c0k28522472o#0",
@@ -230,24 +310,14 @@
     "link": "https://www.bbc.com/news/articles/c0e2dl455d5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131180950.cms",
-    "category": "finance",
-    "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
-    "summary": "Indian indices were subdued with Nifty up 0.03% and Sensex down 0.10%. High volatility (VIX at 19.63) and bearish momentum indicators suggest near-term weakness. Analysts expect Nifty to trade between 23,300\u201323,800, with resistance near 23,650 and ke",
-    "image": "https://img.etimg.com/photo/msid-131180950,imgsize-116884.cms",
-    "source": "ET",
-    "pubDate": "Mon, 18 May 2026 21:36:32 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131180950.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-easing-call-recording-rules-for-research-analysts-dealing-with-institutional-investors/articleshow/131180701.cms",
-    "category": "finance",
-    "title": "Sebi proposes easing call recording rules for research analysts dealing with institutional investors",
-    "summary": "SEBI proposes relaxing mandatory call recording requirements for research analysts when dealing with institutional investors to reduce compliance burdens. The proposal recognizes institutional clients as sophisticated entities.",
-    "image": "https://img.etimg.com/photo/msid-131180701,imgsize-85928.cms",
-    "source": "ET",
-    "pubDate": "Mon, 18 May 2026 21:14:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-easing-call-recording-rules-for-research-analysts-dealing-with-institutional-investors/articleshow/131180701.cms"
+    "id": "https://www.bbc.com/news/articles/c0q25dwj807o#0",
+    "category": "global",
+    "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
+    "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 18 May 2026 21:09:07 GMT",
+    "link": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/ce3pzwx449no#0",
@@ -258,16 +328,6 @@
     "source": "BBC",
     "pubDate": "Mon, 18 May 2026 21:06:38 GMT",
     "link": "https://www.bbc.com/news/articles/ce3pzwx449no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-pb-fintech-ge-shipping-on-tuesday-for-gains-up-to-12/articleshow/131180117.cms",
-    "category": "finance",
-    "title": "Market Trading Guide: Buy PB Fintech, GE Shipping on Tuesday for gains up to 12%",
-    "summary": "Nifty recovered but volatility persists, with resistance at 23,650. Analysts recommend buying PB Fintech (Policybazaar) at Rs 1,749 for an 8% upside and GE Shipping at Rs 1,700 for a 12% upside, citing strong technical breakouts and momentum.",
-    "image": "https://img.etimg.com/photo/msid-131180117,imgsize-10160.cms",
-    "source": "ET",
-    "pubDate": "Mon, 18 May 2026 20:36:57 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-pb-fintech-ge-shipping-on-tuesday-for-gains-up-to-12/articleshow/131180117.cms"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1537374.html",
@@ -290,16 +350,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1537379.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c759vw07p9eo#0",
-    "category": "global",
-    "title": "King all smiles as he meets David Beckham at Chelsea Flower Show",
-    "summary": "Sir David Beckham co-designed a garden with the King and Alan Titchmarsh for this year's show, which also welcomes back garden gnomes.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 18 May 2026 19:04:23 GMT",
-    "link": "https://www.bbc.com/news/articles/c759vw07p9eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1537321.html",
     "category": "sports",
     "title": "RR need urgent revival against resurgent LSG",
@@ -308,56 +358,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 18 May 2026 18:35:09 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1537321.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537371.html",
-    "category": "sports",
-    "title": "Brett D'Oliveira-Matthew Waite stand delivers draw at Lancashire",
-    "summary": "Worcestershire duo defy attack led by James Anderson",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416700/416735.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 18 May 2026 18:30:36 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537371.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537324.html",
-    "category": "sports",
-    "title": "Raine, Parkinson rescue Durham on dicey final day",
-    "summary": "Kent had sniff of follow-on until sturdy tenth-wicket stand",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/358000/358063.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 18 May 2026 17:52:55 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537324.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537299.html",
-    "category": "sports",
-    "title": "Louis Kimber plays matchwinning hand as Northants sneak home",
-    "summary": "Substitute batter thumps 66 off 69 to secure low-scoring arm wrestle at Bristol",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417100/417188.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 18 May 2026 17:46:22 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537299.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537367.html",
-    "category": "sports",
-    "title": "Sussex escape as rain thwarts Somerset push for victory",
-    "summary": "Visitors limp to soggy draw seven down after being made to follow on at Taunton",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417200/417203.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 18 May 2026 17:42:23 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537367.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c9v3jnl4xmyo#0",
-    "category": "global",
-    "title": "Police hunt man after reports teens raped on beach",
-    "summary": "A search for a suspect is under way as police patrols are increased.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 18 May 2026 16:41:08 GMT",
-    "link": "https://www.bbc.com/news/articles/c9v3jnl4xmyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "7EaNv4Ip2AUlW9RClUv2cB",
