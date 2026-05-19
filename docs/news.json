@@ -110,6 +110,16 @@
     "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-tehran-prepares-professional-mechanism-for-strait-of-hormuz-traffic-strikes-lebanon-despite-ceasefire-trump-11506528#publisher=newsstand"
   },
   {
+    "id": "https://www.espncricinfo.com/ci/content/story/1537384.html",
+    "category": "sports",
+    "title": "BBL on track to host season opener in Chennai in December",
+    "summary": "CA has received positive feedback from both the Tamil Nadu Cricket Association (TNCA) and the BCCI to go ahead after a meeting at Chepauk on Monday",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/369300/369346.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 19 May 2026 00:02:13 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1537384.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "1dxpkoyNmn8ceRMHCKLlT8",
     "category": "scitech",
     "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -138,6 +148,36 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 19 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cp8pz1k4r2lo#0",
+    "category": "global",
+    "title": "Married at First Sight UK brides tell BBC they were raped by on-screen husbands",
+    "summary": "Channel 4 was aware of one of the rape claims before broadcast, but the woman involved still featured in the show.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 18 May 2026 23:35:54 GMT",
+    "link": "https://www.bbc.com/news/articles/cp8pz1k4r2lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/keeping-close-watch-on-supply-shock-impact-on-inflation-rbi-guv-sanjay-malhotra/articleshow/131187985.cms",
+    "category": "finance",
+    "title": "Keeping close watch on supply shock, impact on inflation: RBI Guv Sanjay Malhotra",
+    "summary": "The Reserve Bank of India is watching global uncertainties closely. Governor Sanjay Malhotra stated the RBI is monitoring supply shocks. The central bank will act if price increases become widespread. India's monetary policy remains neutral, allowing",
+    "image": "https://img.etimg.com/photo/msid-131187985,imgsize-41362.cms",
+    "source": "ET",
+    "pubDate": "Mon, 18 May 2026 23:12:19 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/keeping-close-watch-on-supply-shock-impact-on-inflation-rbi-guv-sanjay-malhotra/articleshow/131187985.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cdxper4k5w1o#0",
+    "category": "global",
+    "title": "Ex-British soldier imprisoned by Russia says he feels abandoned in occupied Ukraine",
+    "summary": "In letters sent to the BBC from prison, Hayden Davies says he has had no contact with British authorities.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 18 May 2026 23:09:42 GMT",
+    "link": "https://www.bbc.com/news/articles/cdxper4k5w1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c7079e55zjro#0",
@@ -180,16 +220,6 @@
     "link": "https://www.bbc.com/sport/football/articles/c0k28522472o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cewpyv79pw1o#0",
-    "category": "global",
-    "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
-    "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 18 May 2026 22:08:37 GMT",
-    "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c0e2dl455d5o#0",
     "category": "global",
     "title": "Faisal Islam: Burnham seeks to calm markets by committing to fiscal rules",
@@ -198,16 +228,6 @@
     "source": "BBC",
     "pubDate": "Mon, 18 May 2026 22:07:25 GMT",
     "link": "https://www.bbc.com/news/articles/c0e2dl455d5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cp8pz1k4r2lo#0",
-    "category": "global",
-    "title": "Married at First Sight UK brides tell BBC they were raped by on-screen husbands",
-    "summary": "Channel 4 was aware of one of the rape claims before broadcast, but the woman involved still featured in the show.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 18 May 2026 22:00:11 GMT",
-    "link": "https://www.bbc.com/news/articles/cp8pz1k4r2lo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131180950.cms",
@@ -258,16 +278,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 18 May 2026 20:35:44 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1537374.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/igl-q4-results-cons-pat-falls-25-yoy-to-rs-341-crore-revenue-up-6/articleshow/131179961.cms",
-    "category": "finance",
-    "title": "IGL Q4 Results: Cons PAT falls 25% YoY to Rs 341 crore, revenue up 6%",
-    "summary": "Indraprastha Gas Limited (IGL) reported a Q4FY26 net profit fall of 25% YoY to Rs 341 crore, driven by an 8% growth in expenses. Despite the profit dip, revenue increased 6% to Rs 4,585 crore. The company board also recommended a final dividend of 75",
-    "image": "https://img.etimg.com/photo/msid-131179961,imgsize-14476.cms",
-    "source": "ET",
-    "pubDate": "Mon, 18 May 2026 20:25:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/igl-q4-results-cons-pat-falls-25-yoy-to-rs-341-crore-revenue-up-6/articleshow/131179961.cms"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1537379.html",
@@ -338,16 +348,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 18 May 2026 17:42:23 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1537367.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537359.html",
-    "category": "sports",
-    "title": "Jake Lehmann notches first Hampshire ton to secure rain-affected draw",
-    "summary": "Nottinghamshire kept at bay by unbeaten knock from experienced Australian batter",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417200/417201.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 18 May 2026 17:24:35 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537359.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c9v3jnl4xmyo#0",
