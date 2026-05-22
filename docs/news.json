@@ -40,16 +40,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c4g0ryrewdxo#0",
-    "category": "global",
-    "title": "Riskiest skin cancer cases hit UK record high",
-    "summary": "The number of melanoma skin cancer cases has risen above 20,000 a year for the first time in the UK.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 21 May 2026 23:15:18 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g0ryrewdxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -70,194 +60,234 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
-    "id": "https://www.ndtv.com/health/cooler-vs-ac-which-one-is-better-for-health-during-indian-heatwaves-11532857#publisher=newsstand",
-    "category": "india",
-    "title": "Cooler vs AC: Which One Is Better For Health During Indian Heatwaves?",
-    "summary": "People who experience irritation due to prolonged AC exposure often find coolers more comfortable",
-    "image": "https://c.ndtvimg.com/2026-05/p3pst75_people-who-experience-irritation-or-allergies-due-to-prolonged-ac-exposure-often-find-coolers-more-comfortable_625x300_22_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 22 May 2026 16:48:19 +0530",
-    "link": "https://www.ndtv.com/health/cooler-vs-ac-which-one-is-better-for-health-during-indian-heatwaves-11532857#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/cbse-extends-deadline-to-apply-for-class-12-answer-copies-till-may-24-amid-portal-glitches-11532904#publisher=newsstand",
-    "category": "india",
-    "title": "CBSE Again Extends Deadline To Apply For Scanned Copies Amid Portal Glitches, Check Details",
-    "summary": "CBSE Answer Sheet Photocopy Class 12, 2026: The extension comes amid complaints from students.",
-    "image": "https://c.ndtvimg.com/2026-05/tn8n16es_cbse-answer-keys_625x300_22_May_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 22 May 2026 16:46:19 +0530",
-    "link": "https://www.ndtv.com/education/cbse-extends-deadline-to-apply-for-class-12-answer-copies-till-may-24-amid-portal-glitches-11532904#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-fixes-june-5-as-record-date-for-rs-15000-crore-share-buyback-at-rs-250-apiece/articleshow/131262597.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bse-100-rejig-paytm-ashok-leyland-and-cg-power-enter-index-adani-group-owned-ambuja-2-more-exit/articleshow/131264763.cms",
     "category": "finance",
-    "title": "Wipro fixes June 5 as record date for Rs 15,000 crore share buyback at Rs 250 apiece",
-    "summary": "Wipro Limited has set June 5, 2026, as the record date for its Rs 15,000 crore share buyback. The IT major's board and shareholders previously approved the repurchase of up to 60 crore shares at Rs 250 each. This tender offer will allow eligible shar",
-    "image": "https://img.etimg.com/photo/msid-131262597,imgsize-19522.cms",
+    "title": "BSE 100 rejig: Paytm, Ashok Leyland and CG Power enter index; Adani Group-owned Ambuja, 2 more exit",
+    "summary": "Paytm, Ashok Leyland, and CG Power were added to the BSE 100, replacing Ambuja Cements, Tube Investments, and Colgate-Palmolive, effective today. TVS Motor entered the BSE Sensex 50, dislodging Adani Enterprises.",
+    "image": "https://img.etimg.com/photo/msid-131264763,imgsize-26380.cms",
     "source": "ET",
-    "pubDate": "Fri, 22 May 2026 16:46:12 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-fixes-june-5-as-record-date-for-rs-15000-crore-share-buyback-at-rs-250-apiece/articleshow/131262597.cms"
+    "pubDate": "Fri, 22 May 2026 19:27:03 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-100-rejig-paytm-ashok-leyland-and-cg-power-enter-index-adani-group-owned-ambuja-2-more-exit/articleshow/131264763.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/jee-advanced-2026-top-10-architecture-colleges-in-india-as-per-nirf-rankings-11533046#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/cockroach-janata-party-india-started-it-pakistan-caught-it-viral-cockroach-movement-crosses-border-11533669#publisher=newsstand",
     "category": "india",
-    "title": "JEE Admission 2026: Top 10 Architecture Colleges In India As Per NIRF Rankings",
-    "summary": "JEE Admission 2026: Architecture Aptitude Test (AAT) 2026 will be held on June 4.",
-    "image": "https://c.ndtvimg.com/2026-05/hu41bndc_neet-ug-2026_625x300_17_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Cockroach Janta Party Crosses Border, Pakistan Now 'Infested'",
+    "summary": "There are many versions of the Cockroach Janta Party in Pakistan",
+    "image": "https://c.ndtvimg.com/2026-05/evktgh8c_cockroach-pakistan_625x300_22_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 22 May 2026 16:45:30 +0530",
-    "link": "https://www.ndtv.com/education/jee-advanced-2026-top-10-architecture-colleges-in-india-as-per-nirf-rankings-11533046#publisher=newsstand"
+    "pubDate": "Fri, 22 May 2026 19:26:38 +0530",
+    "link": "https://www.ndtv.com/world-news/cockroach-janata-party-india-started-it-pakistan-caught-it-viral-cockroach-movement-crosses-border-11533669#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/twisha-sharma-death-samarth-singh-giribala-singh-bhopal-suicide-twisha-sharmas-husband-samarth-singh-arrested-after-10-days-on-the-run-11533774#publisher=newsstand",
+    "category": "india",
+    "title": "Twisha Sharma's Husband, Samarth Singh, Arrested After 10 Days On The Run",
+    "summary": "Samarth entered the Jabalpur court wearing a mask, cap, sunglasses and a cloth around his shoulder",
+    "image": "https://c.ndtvimg.com/2026-05/go1a4dko_samarth_625x300_22_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 22 May 2026 19:24:16 +0530",
+    "link": "https://www.ndtv.com/india-news/twisha-sharma-death-samarth-singh-giribala-singh-bhopal-suicide-twisha-sharmas-husband-samarth-singh-arrested-after-10-days-on-the-run-11533774#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/colgate-palmolive-india-q4-profit-down-marginally-to-rs-353-cr-fy26-revenue-dips-to-rs-6124-cr/articleshow/131264664.cms",
+    "category": "finance",
+    "title": "Colgate-Palmolive India Q4 profit down marginally to Rs 353 cr; FY26 revenue dips to Rs 6,124 cr",
+    "summary": "However, its sales were up 9 per cent to Rs 1,582.77 crore in the March quarter of FY26. It was at Rs 1,452.02 crore in the corresponding period a year ago.",
+    "image": "https://img.etimg.com/photo/msid-131264664,imgsize-215932.cms",
+    "source": "ET",
+    "pubDate": "Fri, 22 May 2026 19:15:34 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/colgate-palmolive-india-q4-profit-down-marginally-to-rs-353-cr-fy26-revenue-dips-to-rs-6124-cr/articleshow/131264664.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/science/nasa-develops-new-ai-tool-to-identify-harmful-algal-blooms-from-space-11533415#publisher=newsstand",
+    "category": "india",
+    "title": "NASA Develops New AI Tool To Identify Harmful Algal Blooms From Space",
+    "summary": "The findings were published in AGU Earth and Space Science.",
+    "image": "https://c.ndtvimg.com/2026-05/6iv0sfmg_nasa_625x300_22_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 22 May 2026 19:12:12 +0530",
+    "link": "https://www.ndtv.com/science/nasa-develops-new-ai-tool-to-identify-harmful-algal-blooms-from-space-11533415#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/degrees-suvs-gold-why-indias-wealthy-families-are-still-demanding-dowries-11533847#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion | Degrees, SUVs, Gold: Why India's Most 'Qualified' Men Often Demand The Steepest Dowries",
+    "summary": "Education, ironically, is more of an enabler of the practice than a hindrance, per a 2023 study quoted by the BBC",
+    "image": "https://c.ndtvimg.com/2026-05/n3bflnus_twisha-sharma_625x300_18_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 22 May 2026 19:12:08 +0530",
+    "link": "https://www.ndtv.com/opinion/degrees-suvs-gold-why-indias-wealthy-families-are-still-demanding-dowries-11533847#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/india-news/twisha-sharma-husband-surrender-updates-dowry-case-madhya-pradesh-high-court-bhopal-orders-samarth-singh-giribala-singh-11532960#publisher=newsstand",
     "category": "india",
-    "title": "Twisha Sharma Death Updates: Samarth Singh Withdraws Anticipatory Bail Plea, Likely To Surrender",
-    "summary": "Twisha Sharma Death Updates",
-    "image": "https://c.ndtvimg.com/2026-05/h6t1oo9g_twisha-case_625x300_22_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Live Updates: \"Son Of Retired Judge Being Protected\": Twisha Sharma's Lawyer",
+    "summary": "Twisha Sharma Death Case Updates",
+    "image": "https://c.ndtvimg.com/2026-05/j49qv0ac_samarth-singh_625x300_22_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 22 May 2026 16:44:01 +0530",
+    "pubDate": "Fri, 22 May 2026 19:08:13 +0530",
     "link": "https://www.ndtv.com/india-news/twisha-sharma-husband-surrender-updates-dowry-case-madhya-pradesh-high-court-bhopal-orders-samarth-singh-giribala-singh-11532960#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/opinion/indias-oil-reserves-how-long-can-they-last-as-iran-war-continues-11532919#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-rises-at-open-dow-hits-record-high/articleshow/131264519.cms",
+    "category": "finance",
+    "title": "US stocks today: Dow hits record at open as investors watch US-Iran talks",
+    "summary": "Wall Street opened higher with the Dow hitting an intraday record as investors tracked developments in US-Iran peace talks. Gains across the S&amp;P 500 and Nasdaq reflected resilient risk appetite, supported by easing yields and optimism around geop",
+    "image": "https://img.etimg.com/photo/msid-131264519,imgsize-100870.cms",
+    "source": "ET",
+    "pubDate": "Fri, 22 May 2026 19:07:09 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-rises-at-open-dow-hits-record-high/articleshow/131264519.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/how-to-handle-heatwave-related-health-emergencies-a-doctor-explains-11533738#publisher=newsstand",
     "category": "india",
-    "title": "Opinion: Opinion | India's Oil Reserves: How Long Can They Last As Iran War Continues?",
-    "summary": "From a future energy security perspective, India will have to significantly enhance its SPR capacities from 17 days to a minimum of 45 days on land, with the possibility of another 10-15 days of SPR on sea on tankers.",
-    "image": "https://c.ndtvimg.com/2022-09/7il8mkq_india-oil-importreuters_625x300_15_September_22.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "How To Handle Heatwave-Related Health Emergencies? A Doctor Explains",
+    "summary": "One major concern is that early symptoms are often overlooked",
+    "image": "https://c.ndtvimg.com/2026-04/3m79n89c_heatwave_625x300_26_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 22 May 2026 16:43:12 +0530",
-    "link": "https://www.ndtv.com/opinion/indias-oil-reserves-how-long-can-they-last-as-iran-war-continues-11532919#publisher=newsstand"
+    "pubDate": "Fri, 22 May 2026 18:58:16 +0530",
+    "link": "https://www.ndtv.com/health/how-to-handle-heatwave-related-health-emergencies-a-doctor-explains-11533738#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/bjp-prepares-to-fish-in-congress-dmk-troubled-waters-11531901#publisher=newsstand",
+    "id": "https://www.ndtv.com/opinion/three-shields-against-the-global-storm-how-pm-modi-secured-indias-energy-economy-and-defence-11532355#publisher=newsstand",
     "category": "india",
-    "title": "Congress-DMK Divorce Raises BJP's Hopes Of New Delhi Affair",
-    "summary": "DMK has been unsparing in its attacks on Congress since the split",
-    "image": "https://c.ndtvimg.com/2026-05/bdhu0tmc_rahul-gandhi-mk-stalin-_650x400_22_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Opinion: Opinion | Three Shields Against The Global Storm: How PM Modi Strengthened India's Energy, Economy And Defence",
+    "summary": "When PM Modi recently urged citizens to go easy on petrol and to think twice before buying gold, the Prime Minister was not preaching austerity, he was getting the nation a little time while he went out to secure its fuel supplies.",
+    "image": "https://c.ndtvimg.com/2025-09/rsjd6p3_pm-modi_625x300_02_September_25.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Fri, 22 May 2026 16:39:56 +0530",
-    "link": "https://www.ndtv.com/india-news/bjp-prepares-to-fish-in-congress-dmk-troubled-waters-11531901#publisher=newsstand"
+    "pubDate": "Fri, 22 May 2026 18:58:05 +0530",
+    "link": "https://www.ndtv.com/opinion/three-shields-against-the-global-storm-how-pm-modi-secured-indias-energy-economy-and-defence-11532355#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/dark-nightmare-commuters-after-50-minute-rush-hour-glitch-on-mumbai-metros-aqua-line-11533008#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/govt-to-sell-additional-4-stake-in-central-bank-of-india-after-ofs-subscribed-2-36-times-retail-bidding-opens-on-monday/articleshow/131264281.cms",
+    "category": "finance",
+    "title": "Govt to sell additional 4% stake in Central Bank of India after OFS subscribed 2.36 times; retail bidding opens on Monda",
+    "summary": "The Indian government is selling more shares of Central Bank of India. Investor demand was strong, leading to an increase in the stake sale from 4% to 8%. This move aims to boost the bank's stock liquidity and meet public shareholding rules. The offe",
+    "image": "https://img.etimg.com/photo/msid-131264281,imgsize-181904.cms",
+    "source": "ET",
+    "pubDate": "Fri, 22 May 2026 18:50:07 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/govt-to-sell-additional-4-stake-in-central-bank-of-india-after-ofs-subscribed-2-36-times-retail-bidding-opens-on-monday/articleshow/131264281.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/10-largecap-stocks-withsteady-rise-insales-over-4-quarters/slideshow/131264327.cms",
+    "category": "finance",
+    "title": "10 largecap stocks withsteady rise insales over 4 quarters",
+    "summary": "The report identifies 10 large-cap stocks (excluding banking/finance) in the NSE segment that demonstrated continuous net sales growth for four consecutive quarters up to the March '26 quarter. This steady upward trend signals strong business momentu",
+    "image": "https://img.etimg.com/photo/msid-131264225,imgsize-8612.cms",
+    "source": "ET",
+    "pubDate": "Fri, 22 May 2026 18:43:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-largecap-stocks-withsteady-rise-insales-over-4-quarters/slideshow/131264327.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/indian-navy-recruitment-2026-ssc-it-officer-entry-open-for-men-and-women-apply-till-june-1-11533691#publisher=newsstand",
     "category": "india",
-    "title": "'Dark Nightmare': Commuters After 50-Minute Rush-Hour Glitch On Mumbai Metro",
-    "summary": "The Mumbai Metro Rail Corporation Limited said services experienced delays due to a technical issue.",
-    "image": "https://c.ndtvimg.com/2026-05/qbb1qp7k_1_625x300_22_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Indian Navy Opens SSC IT Officer Entry For Men And Women; Apply Till June 1",
+    "summary": "Indian Navy SSC IT Executive Entry: Candidates must have at least 60% marks in English in Class 10 or 12.",
+    "image": "https://c.ndtvimg.com/2026-05/v65p95sk_indian-navy-opens-ssc-it-officer-entry-_625x300_22_May_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 22 May 2026 16:39:18 +0530",
-    "link": "https://www.ndtv.com/india-news/dark-nightmare-commuters-after-50-minute-rush-hour-glitch-on-mumbai-metros-aqua-line-11533008#publisher=newsstand"
+    "pubDate": "Fri, 22 May 2026 18:43:37 +0530",
+    "link": "https://www.ndtv.com/education/indian-navy-recruitment-2026-ssc-it-officer-entry-open-for-men-and-women-apply-till-june-1-11533691#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/apollo-hospitals-among-5-stocks-hitting-52-week-highs-rally-up-to-15-in-a-month/slideshow/131262611.cms",
+    "id": "https://economictimes.indiatimes.com/markets/bonds/india-bond-gains-capped-by-smaller-than-expected-rbi-dividend/articleshow/131263805.cms",
     "category": "finance",
-    "title": "Apollo Hospitals among 5 stocks hitting 52-week highs; rally up to 15% in a month",
-    "summary": "Indian stock markets saw a rally on Friday with the Sensex closing higher. Five companies from the BSE 100 index reached their 52-week highs. Grasim Industries, Varun Beverages, Samvardhana Motherson International, Hindalco Industries, and Apollo Hos",
-    "image": "https://img.etimg.com/photo/msid-131262474,imgsize-8552.cms",
+    "title": "India bond gains capped by smaller than expected RBI dividend",
+    "summary": "The benchmark 6.48% 2035 bond yield settled at 7.0917%, bouncing off the day's low of 7.0636%, but still 2.2 basis points below \u200cThursday's close. The \u2060yield \u2060rose 3 bps on the week after sharp swings inrecent sessions. Bond prices move inversely to ",
+    "image": "https://img.etimg.com/photo/msid-131263805,imgsize-115518.cms",
     "source": "ET",
-    "pubDate": "Fri, 22 May 2026 16:36:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/apollo-hospitals-among-5-stocks-hitting-52-week-highs-rally-up-to-15-in-a-month/slideshow/131262611.cms"
+    "pubDate": "Fri, 22 May 2026 18:14:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/india-bond-gains-capped-by-smaller-than-expected-rbi-dividend/articleshow/131263805.cms"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/china-university-teacher-slams-student-over-request-for-benches-in-smoking-area-11532804#publisher=newsstand",
-    "category": "india",
-    "title": "China University Teacher Slams Student Over Request For Benches In Smoking Area",
-    "summary": "Representative Image",
-    "image": "https://c.ndtvimg.com/2026-05/7e637a64_university_625x300_22_May_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 22 May 2026 16:34:41 +0530",
-    "link": "https://www.ndtv.com/offbeat/china-university-teacher-slams-student-over-request-for-benches-in-smoking-area-11532804#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-helping-hand-muscles-breathing-room-for-rupee-cools-forward-premiums/articleshow/131261963.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-3m-india-announces-rs-506/-share-dividend-for-shareholders-check-record-date/articleshow/131263744.cms",
     "category": "finance",
-    "title": "RBI helping hand muscles breathing room for rupee, cools forward premiums",
-    "summary": "The Indian rupee strengthened to close above 96 per dollar for the first time in a week, following aggressive interventions by the Reserve Bank of India. The central bank sold billions of dollars and engaged in buy/sell swaps, pushing the rupee up de",
-    "image": "https://img.etimg.com/photo/msid-131261963,imgsize-82394.cms",
+    "title": "Dividend alert! 3M India announces Rs 506/share dividend for shareholders. Check record date",
+    "summary": "3M India announced a total dividend of Rs 506 per share, including a final dividend of Rs 160 and a special dividend of Rs 346, with July 17 set as the record date. The payout is subject to AGM approval, alongside strong Q4 FY26 earnings growth.",
+    "image": "https://img.etimg.com/photo/msid-131263744,imgsize-61360.cms",
     "source": "ET",
-    "pubDate": "Fri, 22 May 2026 16:02:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-helping-hand-muscles-breathing-room-for-rupee-cools-forward-premiums/articleshow/131261963.cms"
+    "pubDate": "Fri, 22 May 2026 18:06:49 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-3m-india-announces-rs-506/-share-dividend-for-shareholders-check-record-date/articleshow/131263744.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-fed-mulls-longer-dollar-liquidity-support-for-global-central-banks/articleshow/131261536.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-philip-carret-if-a-company-has-a-sound-balance-sheet-with-minimal-long-term-debt-good-growth-prospects-and-responsible-management-then-the-stock-should-be-interesting/articleshow/131256789.cms",
     "category": "finance",
-    "title": "US Stock Market:  Fed mulls longer dollar liquidity support for global central banks",
-    "summary": "The US Federal Reserve is considering extending dollar swap lines with major global central banks to strengthen financial stability amid rising geopolitical risks, according to Reuters. Officials say longer-term liquidity arrangements could provide g",
-    "image": "https://img.etimg.com/photo/msid-131261536,imgsize-176349.cms",
+    "title": "Quote of the day by Philip Carret: \"If a company has a sound balance sheet with minimal long-term debt, good growth pros",
+    "summary": "Legendary investor Philip Carret emphasized that a company's sound balance sheet, minimal long-term debt, good growth prospects, and responsible management are key to interesting stock investments. This philosophy prioritizes buying quality businesse",
+    "image": "https://img.etimg.com/photo/msid-131256789,imgsize-2157084.cms",
     "source": "ET",
-    "pubDate": "Fri, 22 May 2026 15:38:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-fed-mulls-longer-dollar-liquidity-support-for-global-central-banks/articleshow/131261536.cms"
+    "pubDate": "Fri, 22 May 2026 18:00:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-philip-carret-if-a-company-has-a-sound-balance-sheet-with-minimal-long-term-debt-good-growth-prospects-and-responsible-management-then-the-stock-should-be-interesting/articleshow/131256789.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/info-edge-q4-results-naukri-operators-cons-pat-grows-22-yoy-to-rs-566-crore-revenue-rises-16/articleshow/131261384.cms",
-    "category": "finance",
-    "title": "Info Edge Q4 Results: Naukri operator's cons PAT grows 22% YoY to Rs 566 crore, revenue rises 16%",
-    "summary": "Info Edge reported a 22% year-on-year rise in Q4FY26 consolidated net profit to Rs 566 crore, driven by steady business growth. The operator of Naukri.com and Jeevansathi also posted a 16% increase in revenue to Rs 869 crore for the March quarter.",
-    "image": "https://img.etimg.com/photo/msid-131261384,imgsize-9382.cms",
-    "source": "ET",
-    "pubDate": "Fri, 22 May 2026 15:27:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/info-edge-q4-results-naukri-operators-cons-pat-grows-22-yoy-to-rs-566-crore-revenue-rises-16/articleshow/131261384.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q4-results-cons-profit-rises-26-yoy-to-rs-2714-crore-board-approves-rs-5/share-dividend/articleshow/131260848.cms",
-    "category": "finance",
-    "title": "Sun Pharma Q4 Results: Cons profit rises 26% YoY to Rs 2,714 crore; board approves Rs 5/share dividend",
-    "summary": "Sun Pharma Q4 Results: Profit after tax (PAT) fell 19% sequentially during the quarter under review from Rs 3,369 crore in Q3FY26, while revenue declined 6% from Rs 15,520 crore reported in the October-December quarter of FY26.",
-    "image": "https://img.etimg.com/photo/msid-131260848,imgsize-119514.cms",
-    "source": "ET",
-    "pubDate": "Fri, 22 May 2026 15:03:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q4-results-cons-profit-rises-26-yoy-to-rs-2714-crore-board-approves-rs-5/share-dividend/articleshow/131260848.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-for-healthcare-sector/articleshow/131260196.cms",
-    "category": "finance",
-    "title": "Bernstein initiates coverage on 6 pharma stocks, cites 3 major tailwinds for healthcare sector",
-    "summary": "Bernstein has initiated coverage on six Indian pharma stocks, with Zydus Lifesciences as its top choice. The brokerage sees strong future growth for the Indian healthcare sector. Key drivers include AI-led innovation, incremental advancements in nich",
-    "image": "https://img.etimg.com/photo/msid-131260196,imgsize-14992.cms",
-    "source": "ET",
-    "pubDate": "Fri, 22 May 2026 14:11:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-for-healthcare-sector/articleshow/131260196.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/bank-nifty-near-key-resistance-zone-breakout-above-54300-crucial-ajit-mishra/articleshow/131260125.cms",
-    "category": "finance",
-    "title": "Bank Nifty near key resistance zone; breakout above 54,300 crucial: Ajit Mishra",
-    "summary": "Indian equity markets are consolidating within a narrow range, with Nifty struggling to break 24,000 and Bank Nifty showing relative strength. Sector rotation is active, offering stock-specific opportunities in pharma, healthcare, energy, auto, and c",
-    "image": "https://img.etimg.com/photo/msid-131260125,imgsize-3520.cms",
-    "source": "ET",
-    "pubDate": "Fri, 22 May 2026 14:10:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/bank-nifty-near-key-resistance-zone-breakout-above-54300-crucial-ajit-mishra/articleshow/131260125.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c1d26nv6xw5o#0",
+    "id": "https://www.bbc.com/news/articles/cedpz9669deo#0",
     "category": "global",
-    "title": "Jury discharged in Ian Watkins prison murder trial",
-    "summary": "Rico Gedel and Samuel Dodsworth had been on trial at Leeds Crown Court accused of his murder.",
+    "title": "Rubio tries to reassure Nato allies over US troop deployments",
+    "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 22 May 2026 11:40:48 GMT",
-    "link": "https://www.bbc.com/news/articles/c1d26nv6xw5o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Fri, 22 May 2026 14:18:14 GMT",
+    "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537797.html",
+    "id": "https://www.espncricinfo.com/ci/content/story/1537813.html",
     "category": "sports",
-    "title": "Babar back for ODIs vs Australia; uncapped Rohail, Minhas and Daniyal called up",
-    "summary": "Shadab Khan and Naseem Shah also returned for three-match series, while Mohammad Rizwan was omitted",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/409100/409142.jpg",
+    "title": "Ponting: 'We only have ourselves to blame for where we are'",
+    "summary": "PBKS' head coach is wary of a dangerous LSG side who have nothing to lose",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/401400/401446.jpg",
     "source": "Cricinfo",
-    "pubDate": "Fri, 22 May 2026 11:22:25 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537797.html?ex_cid=OTC-RSS"
+    "pubDate": "Fri, 22 May 2026 14:16:36 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1537813.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c0l2x5351n4o#0",
+    "id": "https://www.espncricinfo.com/ci/content/story/1537818.html",
+    "category": "sports",
+    "title": "SRH bat, Bethell out as Patidar returns for RCB",
+    "summary": "Depending on their total, SRH will need to win by 83-89 runs to replace RCB in the top two",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416300/416394.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 22 May 2026 14:07:20 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1537818.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cy82gkr7xzlo#0",
     "category": "global",
-    "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
-    "summary": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
+    "title": "UK scientists developing Ebola vaccine that could be ready for trials in months",
+    "summary": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 22 May 2026 10:56:32 GMT",
-    "link": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Fri, 22 May 2026 13:50:19 GMT",
+    "link": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvgz8vp28nlo#0",
+    "category": "global",
+    "title": "TV presenter Judith Chalmers dies aged 90",
+    "summary": "She was best known for hosting ITV's long-running travel show Wish You Were Here...?",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 22 May 2026 13:49:35 GMT",
+    "link": "https://www.bbc.com/news/articles/cvgz8vp28nlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1537812.html",
+    "category": "sports",
+    "title": "Vijay Shankar retires from Indian domestic cricket and the IPL",
+    "summary": "The move will enable the 35-year-old allrounder to play in overseas franchise leagues",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/285900/285964.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 22 May 2026 13:49:08 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1537812.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cwy2x7wxjego#0",
+    "category": "global",
+    "title": "Teen boys rape sentences to be reviewed by government",
+    "summary": "The three teenagers avoided custodial sentences for their roles in the rape of two girls.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 22 May 2026 13:38:07 GMT",
+    "link": "https://www.bbc.com/news/articles/cwy2x7wxjego?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/sport/football/articles/cx21y7023qxo#0",
@@ -266,8 +296,28 @@
     "summary": "Manchester City confirm that Pep Guardiola will leave at the end of the season after a decade of unparalleled success.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 22 May 2026 10:53:58 GMT",
+    "pubDate": "Fri, 22 May 2026 11:56:20 GMT",
     "link": "https://www.bbc.com/sport/football/articles/cx21y7023qxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1537797.html",
+    "category": "sports",
+    "title": "Babar back for ODIs vs Australia; uncapped Rohail, Minhas and Daniyal called up",
+    "summary": "Shadab Khan and Naseem Shah also returned for three-match series, while Mohammad Rizwan was omitted",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/409100/409142.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 22 May 2026 11:43:17 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1537797.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/c78ke277pmdo#0",
+    "category": "global",
+    "title": "Foden, Palmer, Alexander-Arnold to miss World Cup",
+    "summary": "Phil Foden, Cole Palmer and Trent Alexander-Arnold have not been included in Thomas Tuchel's 26-man England squad for this summer's World Cup.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 22 May 2026 11:33:47 GMT",
+    "link": "https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1537794.html",
@@ -290,16 +340,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1537791.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c5yrkxge72eo#0",
-    "category": "global",
-    "title": "Reality TV risks sinking 'into the gutter', warns ex-Channel 4 and Ofcom boss Michael Grade",
-    "summary": "Michael Grade's warning comes in the wake of allegations made by participants on Married at First Sight.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 22 May 2026 09:52:13 GMT",
-    "link": "https://www.bbc.com/news/articles/c5yrkxge72eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1537786.html",
     "category": "sports",
     "title": "Abhinav Mukund: 'CSK had a very average season throughout'",
@@ -320,16 +360,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1537782.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/ckgpzwkn5jko#0",
-    "category": "global",
-    "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
-    "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 22 May 2026 08:13:13 GMT",
-    "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c707l2jx0z4o#0",
     "category": "global",
     "title": "Andrew investigation could look into sexual misconduct allegations",
@@ -340,16 +370,6 @@
     "link": "https://www.bbc.com/news/articles/c707l2jx0z4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537788.html",
-    "category": "sports",
-    "title": "Cricket Australia dismisses staffer after conflict of interest investigation",
-    "summary": "CA released a statement saying \"an allegation of an undeclared conflict of interest during a procurement process has been substantiated' following whistleblower complaints\"",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/311200/311264.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 22 May 2026 07:39:12 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537788.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c0j2q988x17o#0",
     "category": "global",
     "title": "Parents of Southport survivors say anonymity has erased their girls from the story",
@@ -358,26 +378,6 @@
     "source": "BBC",
     "pubDate": "Fri, 22 May 2026 05:00:03 GMT",
     "link": "https://www.bbc.com/news/articles/c0j2q988x17o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537768.html",
-    "category": "sports",
-    "title": "Gaikwad 'really proud' of CSK's performance in 'transition phase'",
-    "summary": "MS Dhoni \"will make the decision [on his future] in the best interest of the team and not for himself as an individual,\" says Eric Simons",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415347.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 22 May 2026 04:39:57 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537768.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1537763.html",
-    "category": "sports",
-    "title": "Gujarat Titans knock CSK out and seal top-two finish",
-    "summary": "The top order and their bowlers all came to the party as GT closed out their league stage in style",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417300/417318.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 22 May 2026 02:47:38 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1537763.html?ex_cid=OTC-RSS"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
