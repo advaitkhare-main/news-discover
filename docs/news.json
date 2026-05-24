@@ -40,16 +40,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/india-news/delhi-gymkhana-club-writes-to-centre-any-appropriately-located-alternate-plot-11542120#publisher=newsstand",
-    "category": "india",
-    "title": "'Any Appropriately Located Alternate Plot?': Delhi Gymkhana Club Writes To Centre",
-    "summary": "The club was founded on July 3, 1913, as the Imperial Delhi Gymkhana Club.",
-    "image": "https://c.ndtvimg.com/2020-10/vmdck9k_delhi-gymkhana-club-web_625x300_20_October_20.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 24 May 2026 23:58:10 +0530",
-    "link": "https://www.ndtv.com/india-news/delhi-gymkhana-club-writes-to-centre-any-appropriately-located-alternate-plot-11542120#publisher=newsstand"
-  },
-  {
     "id": "https://www.ndtv.com/world-news/china-launches-3-crew-space-flight-as-part-of-moon-ambitions-11542107#publisher=newsstand",
     "category": "india",
     "title": "China Launches 3-Crew Space Flight As Part Of Moon Ambitions",
@@ -110,24 +100,44 @@
     "link": "https://www.ndtv.com/health/dry-skin-and-brittle-nails-doctor-shares-how-hormonal-changes-impact-your-skin-and-nails-11541911#publisher=newsstand"
   },
   {
+    "id": "https://www.bbc.com/news/articles/clyp0040x7po#0",
+    "category": "global",
+    "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+    "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 24 May 2026 20:26:26 GMT",
+    "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1538193.html",
+    "category": "sports",
+    "title": "Kuldeep and Rahul help DC sign off with big win",
+    "summary": "RR's victory earlier in the day against MI meant both PBKS and KKR were knocked out from the playoffs race",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417400/417440.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 24 May 2026 19:54:26 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1538193.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c87qwrqre83o#0",
+    "category": "global",
+    "title": "Turkish riot police storm opposition offices after leaders ousted",
+    "summary": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 24 May 2026 19:49:39 GMT",
+    "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1538194.html",
     "category": "sports",
     "title": "Kuldeep: 'Was expecting more, but I couldn't deliver this season'",
     "summary": "The spinner finished with just ten wickets in the tournament but ended his season on a high with 3 for 29 against KKR",
     "image": "http://p.imgci.com/db/PICTURES/CMS/417400/417438.jpg",
     "source": "Cricinfo",
-    "pubDate": "Sun, 24 May 2026 18:58:16 GMT",
+    "pubDate": "Sun, 24 May 2026 19:10:37 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1538194.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1538193.html",
-    "category": "sports",
-    "title": "Kuldeep and Rahul help DC sign off with big win",
-    "summary": "RR's victory earlier in the day against Mumbai meant both PBKS and KKR were knocked out from the playoff race",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417400/417440.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 24 May 2026 18:34:43 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1538193.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1538185.html",
@@ -138,16 +148,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 24 May 2026 18:21:01 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1538185.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/clyp0040x7po#0",
-    "category": "global",
-    "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
-    "summary": "The US president said both sides \"must take their time\" to reach a deal, after saying on Saturday that an agreement had been \"largely negotiated\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 24 May 2026 18:16:16 GMT",
-    "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1538175.html",
@@ -168,6 +168,16 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 24 May 2026 18:06:43 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1538177.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cy421wgr2mpo#0",
+    "category": "global",
+    "title": "Ebola outbreak poses massive challenges, warns senior charity official",
+    "summary": "Kate White says she is \"extremely concerned about the inability to get resources\" to the Democratic Republic of Congo.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 24 May 2026 17:46:14 GMT",
+    "link": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/why-indias-next-real-estate-cycle-could-be-driven-by-retail-investors-and-reits-sandipan-roy-explains/articleshow/131292334.cms",
@@ -220,19 +230,9 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/131291838.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c87qwrqre83o#0",
-    "category": "global",
-    "title": "Turkish riot police storm opposition offices after leaders ousted",
-    "summary": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 24 May 2026 16:30:50 GMT",
-    "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/weather/articles/c86dy6468epo#0",
     "category": "global",
-    "title": "Heatwave conditions met in eight parts of England as record-breaking temperatures forecast",
+    "title": "Heatwave conditions met in parts of England as record-breaking temperatures forecast",
     "summary": "The soaring temperatures could lead to new national May temperature records being set on bank holiday Monday.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -340,14 +340,14 @@
     "link": "https://www.bbc.com/news/videos/ce9pmyz7jrxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cedpz1zqp8po#0",
-    "category": "global",
-    "title": "It's like the Olympics, except steroids are allowed",
-    "summary": "The first ever Enhanced Games are taking place this weekend in Las Vegas, with big names, big money and much controversy.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 24 May 2026 04:46:07 GMT",
-    "link": "https://www.bbc.com/news/articles/cedpz1zqp8po?at_medium=RSS&at_campaign=rss"
+    "id": "https://www.ndtv.com/india-news/delhi-gymkhana-club-writes-to-centre-any-appropriately-located-alternate-plot-11542120#publisher=newsstand",
+    "category": "india",
+    "title": "'Any Appropriately Located Alternate Plot?': Delhi Gymkhana Club Writes To Centre",
+    "summary": "The club was founded on July 3, 1913, as the Imperial Delhi Gymkhana Club.",
+    "image": "https://c.ndtvimg.com/2020-10/vmdck9k_delhi-gymkhana-club-web_625x300_20_October_20.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 25 May 2026 00:37:33 +0530",
+    "link": "https://www.ndtv.com/india-news/delhi-gymkhana-club-writes-to-centre-any-appropriately-located-alternate-plot-11542120#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/agreement-with-iran-must-eliminate-nuclear-danger-netanyahu-to-trump-11542198#publisher=newsstand",
