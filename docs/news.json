@@ -40,24 +40,54 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/jaipur-news/on-cctv-jaipur-man-hits-wife-anu-in-front-of-son-days-before-her-suicide-11541323#publisher=newsstand",
+    "id": "https://www.ndtv.com/tamil-nadu-news/mekedatu-dam-row-turns-1st-political-test-for-vijays-government-in-tamil-nadu-11541582#publisher=newsstand",
     "category": "india",
-    "title": "Video: Jaipur Man Smashes TV, Thrashes Wife. She Dies By Suicide Days Later",
-    "summary": "CCTV footage of the man assaulting his wife in their Jaipur home",
-    "image": "https://c.ndtvimg.com/2026-05/q63iohms_jaipur-case_625x300_24_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Mekedatu Dam Row Turns 1st Political Test For Vijay's Government In Tamil Nadu",
+    "summary": "Mekedatu dam dispute raises controversy between Karnataka and Tamil Nadu again",
+    "image": "https://c.ndtvimg.com/0tvaiueg_mekedatu-waterfalls-650_625x300_16_July_18.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Sun, 24 May 2026 20:04:29 +0530",
-    "link": "https://www.ndtv.com/jaipur-news/on-cctv-jaipur-man-hits-wife-anu-in-front-of-son-days-before-her-suicide-11541323#publisher=newsstand"
+    "pubDate": "Sun, 24 May 2026 20:44:42 +0530",
+    "link": "https://www.ndtv.com/tamil-nadu-news/mekedatu-dam-row-turns-1st-political-test-for-vijays-government-in-tamil-nadu-11541582#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/health/gestational-diabetes-linked-to-future-type-2-diabetes-regardless-of-pre-pregnancy-weight-study-11541424#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/russia-ukraine-war-what-is-russia-oreshnik-missile-used-in-today-kyiv-strikes-explained-11541462#publisher=newsstand",
     "category": "india",
-    "title": "Gestational Diabetes Linked To Future Type 2 Diabetes Regardless Of Pre-Pregnancy Weight: Study",
-    "summary": "Scientists found that women who suffer from gestational diabetes have a higher risk of type 2 diabetes",
-    "image": "https://c.ndtvimg.com/2026-05/i785eoa4_gestational-diabetes_625x300_23_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "What Is Russia's 'Indestructible' Oreshnik Missile Used In Kyiv Strikes",
+    "summary": "Russia on Sunday fired the Oreshnik missile on Kyiv.",
+    "image": "https://c.ndtvimg.com/2026-05/kf8nfd1s_oreshnik_625x300_24_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Sun, 24 May 2026 20:01:23 +0530",
-    "link": "https://www.ndtv.com/health/gestational-diabetes-linked-to-future-type-2-diabetes-regardless-of-pre-pregnancy-weight-study-11541424#publisher=newsstand"
+    "pubDate": "Sun, 24 May 2026 20:35:04 +0530",
+    "link": "https://www.ndtv.com/world-news/russia-ukraine-war-what-is-russia-oreshnik-missile-used-in-today-kyiv-strikes-explained-11541462#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/science/nasas-james-webb-space-telescope-reveals-massive-star-clusters-form-faster-inside-galaxies-11541326#publisher=newsstand",
+    "category": "india",
+    "title": "NASA's James Webb Space Telescope Reveals Massive Star Clusters Form Faster Inside Galaxies",
+    "summary": "According to the findings, massive star clusters dispersed their gas clouds in around five million years.",
+    "image": "https://c.ndtvimg.com/2026-05/ifs4qifg_nasa_625x300_24_May_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Sun, 24 May 2026 20:33:19 +0530",
+    "link": "https://www.ndtv.com/science/nasas-james-webb-space-telescope-reveals-massive-star-clusters-form-faster-inside-galaxies-11541326#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/feature/meta-employee-goes-viral-after-volunteering-to-be-laid-off-amid-ai-push-i-asked-to-be-included-11541320#publisher=newsstand",
+    "category": "india",
+    "title": "Meta Employee Goes Viral After Volunteering To Be Laid Off Amid AI Push: \"I Asked To Be Included\"",
+    "summary": "Her comments sparked broader online discussion around automation, workplace restructuring.",
+    "image": "https://c.ndtvimg.com/2026-05/cnf2s3hg_julie-bone_625x300_24_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sun, 24 May 2026 20:31:56 +0530",
+    "link": "https://www.ndtv.com/feature/meta-employee-goes-viral-after-volunteering-to-be-laid-off-amid-ai-push-i-asked-to-be-included-11541320#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-iran-war-live-updates-peace-deal-strait-of-hormuz-trump-israel-oil-prices-11539479#publisher=newsstand",
+    "category": "india",
+    "title": "US Iran War Live Updates: US Not Rushing To Secure Peace Deal With Iran, Says Trump",
+    "summary": "US Iran War Live Updates",
+    "image": "https://c.ndtvimg.com/2026-05/nkss315s_hormuz_625x300_24_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sun, 24 May 2026 20:31:18 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-live-updates-peace-deal-strait-of-hormuz-trump-israel-oil-prices-11539479#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/india-news/after-faltas-re-election-upset-another-bjp-vs-trinamool-bengal-flashpoint-11541434#publisher=newsstand",
@@ -66,58 +96,28 @@
     "summary": "The Trinamool candidate had dropped out of the race in Falta days before the election.",
     "image": "https://c.ndtvimg.com/2026-05/0b3h4d68_abhishek-banerjee-suvendu-adhikari_625x300_24_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Sun, 24 May 2026 19:56:53 +0530",
+    "pubDate": "Sun, 24 May 2026 20:19:10 +0530",
     "link": "https://www.ndtv.com/india-news/after-faltas-re-election-upset-another-bjp-vs-trinamool-bengal-flashpoint-11541434#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/upsc-cse-prelims-2026-csat-analysis-reasoning-challenging-quantitative-questions-lengthy-11541367#publisher=newsstand",
+    "id": "https://www.ndtv.com/health/anxiety-muscle-cramps-migraines-nutritionist-says-it-might-be-magnesium-deficiency-11541452#publisher=newsstand",
     "category": "india",
-    "title": "UPSC CSE Prelims 2026 Paper 2 Analysis: Reasoning Challenging, Quantitative Questions Lengthy",
-    "summary": "Reading Comprehension turned out to be the most scoring",
-    "image": "https://c.ndtvimg.com/2026-05/11cs60tg_up_625x300_22_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Anxiety, Muscle Cramps, Migraines? Nutritionist Says It Might Be Magnesium Deficiency",
+    "summary": "Frequent migraines may be linked to magnesium deficiency",
+    "image": "https://c.ndtvimg.com/2026-04/1la4ukek_headache-dizziness_625x300_21_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Sun, 24 May 2026 19:38:53 +0530",
-    "link": "https://www.ndtv.com/education/upsc-cse-prelims-2026-csat-analysis-reasoning-challenging-quantitative-questions-lengthy-11541367#publisher=newsstand"
+    "pubDate": "Sun, 24 May 2026 20:12:43 +0530",
+    "link": "https://www.ndtv.com/health/anxiety-muscle-cramps-migraines-nutritionist-says-it-might-be-magnesium-deficiency-11541452#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/some-bumps-likely-marco-rubio-as-s-jaishankar-flags-visa-concerns-11541307#publisher=newsstand",
+    "id": "https://www.ndtv.com/jaipur-news/on-cctv-jaipur-man-hits-wife-anu-in-front-of-son-days-before-her-suicide-11541323#publisher=newsstand",
     "category": "india",
-    "title": "\"Some Bumps\" Likely: Marco Rubio As S Jaishankar Flags Visa Concerns",
-    "summary": "Marco Rubio said the current process to reform the existing system is not targeted at India at all.",
-    "image": "https://c.ndtvimg.com/2026-05/j0f04ns_rubio-jaishankar-pti_625x300_24_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Video: Jaipur Man Smashes TV, Thrashes Wife. She Dies By Suicide Days Later",
+    "summary": "CCTV footage of the man assaulting his wife in their Jaipur home",
+    "image": "https://c.ndtvimg.com/2026-05/q63iohms_jaipur-case_625x300_24_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Sun, 24 May 2026 19:22:37 +0530",
-    "link": "https://www.ndtv.com/world-news/some-bumps-likely-marco-rubio-as-s-jaishankar-flags-visa-concerns-11541307#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/woman-carries-mother-in-law-90-on-back-walks-for-miles-over-rs-500-pension-11541263#publisher=newsstand",
-    "category": "india",
-    "title": "Woman Carries Mother-In-Law, 90, On Back, Walks For Miles Over Rs 500 Pension",
-    "summary": "The woman who carried her mother-in-law was identified as Sukhmaniya.",
-    "image": "https://c.ndtvimg.com/2026-05/ofo4jef8_chattisgarh_625x300_24_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 24 May 2026 19:17:27 +0530",
-    "link": "https://www.ndtv.com/india-news/woman-carries-mother-in-law-90-on-back-walks-for-miles-over-rs-500-pension-11541263#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/india-dispatches-first-tranche-of-medical-supplies-protective-kits-to-africa-amid-ebola-outbreak-11540277#publisher=newsstand",
-    "category": "india",
-    "title": "India Dispatches First Tranche Of Medical Supplies, Protective Kits To Africa Amid Ebola Outbreak",
-    "summary": "New Delhi, May 24 (IANS) Amid the Ebola outbreak in Africa, India on Thursday dispatched the first tranche of urgent medical supplies and protective kits to Africa Centres for Disease Control and Prevention (CDC).",
-    "image": "https://tvdata.s2.apps.ndtv.com/data/images/tag_reuters.com.2026_newsml_KBN3RT1C9.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 24 May 2026 19:17:04 +0530",
-    "link": "https://www.ndtv.com/health/india-dispatches-first-tranche-of-medical-supplies-protective-kits-to-africa-amid-ebola-outbreak-11540277#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/from-marking-system-to-technical-glitches-how-indias-biggest-examination-board-cbse-failed-to-satisfy-students-and-parents-11541197#publisher=newsstand",
-    "category": "india",
-    "title": "Questions Over Marking, Portal Failures Add To Students' Frustration With CBSE",
-    "summary": "the scanned photocopy was still unavailable for download.",
-    "image": "https://c.ndtvimg.com/2026-05/3ec118h4_cbse-class-12-answer-copies_625x300_22_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Sun, 24 May 2026 18:49:31 +0530",
-    "link": "https://www.ndtv.com/education/from-marking-system-to-technical-glitches-how-indias-biggest-examination-board-cbse-failed-to-satisfy-students-and-parents-11541197#publisher=newsstand"
+    "pubDate": "Sun, 24 May 2026 20:04:29 +0530",
+    "link": "https://www.ndtv.com/jaipur-news/on-cctv-jaipur-man-hits-wife-anu-in-front-of-son-days-before-her-suicide-11541323#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/why-indias-next-real-estate-cycle-could-be-driven-by-retail-investors-and-reits-sandipan-roy-explains/articleshow/131292334.cms",
@@ -138,6 +138,16 @@
     "source": "ET",
     "pubDate": "Sun, 24 May 2026 16:39:13 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/131291838.cms"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1538158.html",
+    "category": "sports",
+    "title": "All-round Archer helps RR secure last playoffs spot",
+    "summary": "Archer smashed 32 off 15 and took 3 for 17 to script a 30-run win that knocked out KKR and Punjab Kings",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417400/417412.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 24 May 2026 15:41:03 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1538158.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/knowledge-realty-trust-to-invest-rs-700-cr-to-build-1-4-mn-sq-ft-office-space-in-bengaluru/articleshow/131291207.cms",
@@ -170,14 +180,24 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/warren-buffett-sits-on-400-bn-cash-as-michael-burry-warns-of-ai-bubble-is-a-massive-market-crash-coming/articleshow/131291160.cms"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1538158.html",
+    "id": "https://www.espncricinfo.com/ci/content/story/1538165.html",
     "category": "sports",
-    "title": "All-round Archer helps RR secure last playoffs spot",
-    "summary": "Archer smashed 32 off 15 and took 3 for 17 to script a 30-run win that knocked out KKR and Punjab Kings",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417400/417412.jpg",
+    "title": "'I was not supposed to play today' - Riyan Parag not completely fit but will play Eliminator",
+    "summary": "The Rajasthan Royals captain said his team should have qualified much earlier for the IPL 2026 playoffs",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417400/417423.jpg",
     "source": "Cricinfo",
-    "pubDate": "Sun, 24 May 2026 14:47:55 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1538158.html?ex_cid=OTC-RSS"
+    "pubDate": "Sun, 24 May 2026 15:28:41 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1538165.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c87qwrqre83o#2",
+    "category": "global",
+    "title": "Turkish police storm opposition offices after leaders ousted",
+    "summary": "Officers stormed the building days after the party vowed to defy a court ruling removing its leaders.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 24 May 2026 15:20:35 GMT",
+    "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1538142.html",
@@ -186,7 +206,7 @@
     "summary": "Rajasthan Royals' victory against Mumbai Indians knocked out both Punjab Kings and Kolkata Knight Riders",
     "image": "http://p.imgci.com/db/PICTURES/CMS/417400/417413.jpg",
     "source": "Cricinfo",
-    "pubDate": "Sun, 24 May 2026 14:38:08 GMT",
+    "pubDate": "Sun, 24 May 2026 15:11:08 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1538142.html?ex_cid=OTC-RSS"
   },
   {
@@ -288,26 +308,6 @@
     "source": "BBC",
     "pubDate": "Sun, 24 May 2026 13:02:02 GMT",
     "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cm2pkd58xldo#2",
-    "category": "global",
-    "title": "Blast targeting train kills at least 20 in Pakistan",
-    "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 24 May 2026 12:26:09 GMT",
-    "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1538133.html",
-    "category": "sports",
-    "title": "KKR sign Luvnith Sisodia as replacement for injured Pathirana",
-    "summary": "The wicketkeeper-batter was part of KKR's squad in 2025",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/397900/397970.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 24 May 2026 11:54:14 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1538133.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cedpz1zqp8po#0",
