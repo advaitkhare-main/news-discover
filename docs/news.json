@@ -40,164 +40,234 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/education/ndtv-learnnxt-conclave-live-indias-top-education-voices-policymakers-academia-leaders-discussion-on-jobs-entrepreneurship-learning-viksit-bharat-futur-11543107#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/cbse-shares-correct-physics-answer-sheet-with-student-promises-result-update-amid-error-row-11546117#publisher=newsstand",
     "category": "india",
-    "title": "Ndtv Learnnxt Conclave 2026 LIVE: NEP 2020 Aims To End Colonial-Era Rote Learning, Says NCERT Director",
-    "summary": "NDTV's LearnNXT Conclave 2026: Leading education voices discussing India's learning future.",
-    "image": "https://c.ndtvimg.com/2026-05/89cjdsfo_asd_625x300_25_May_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "CBSE Shares Correct Physics Answer Sheet With Student, Promises Result Update Amid Error Row",
+    "summary": "On May 23, he received the answer sheet via email and alleged that the handwriting did not belong to him.",
+    "image": "https://c.ndtvimg.com/2026-05/vlgtfvo8_asd_625x300_25_May_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 25 May 2026 17:41:52 +0530",
-    "link": "https://www.ndtv.com/education/ndtv-learnnxt-conclave-live-indias-top-education-voices-policymakers-academia-leaders-discussion-on-jobs-entrepreneurship-learning-viksit-bharat-futur-11543107#publisher=newsstand"
+    "pubDate": "Mon, 25 May 2026 21:00:45 +0530",
+    "link": "https://www.ndtv.com/education/cbse-shares-correct-physics-answer-sheet-with-student-promises-result-update-amid-error-row-11546117#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/california-toxic-tank-garden-grove-toxic-tank-23-sq-km-blast-radius-and-fears-of-a-catastrophic-explosion-11545003#publisher=newsstand",
-    "category": "india",
-    "title": "50,000 Evacuated As Toxic Chemical Tank Sparks \"Catastrophic Explosion\" Fear",
-    "summary": "A storage tank at the GKN Aerospace facility contains about 7,000 gallons of a chemical",
-    "image": "https://c.ndtvimg.com/2026-05/eodsrreo_california-toxic-tank-afp-_625x300_25_May_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 25 May 2026 17:39:01 +0530",
-    "link": "https://www.ndtv.com/world-news/california-toxic-tank-garden-grove-toxic-tank-23-sq-km-blast-radius-and-fears-of-a-catastrophic-explosion-11545003#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/lic-hikes-stake-in-central-bank-of-india-to-6-06/articleshow/131309269.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-ram-ratna-wires-and-tata-motors-pv-on-monday-for-gains-up-to-12/articleshow/131312634.cms",
     "category": "finance",
-    "title": "LIC hikes stake in Central Bank of India to 6.06%",
+    "title": "Market Trading Guide: Buy Ram Ratna Wires and  Tata Motors PV on Monday for gains up to 12%",
+    "summary": "Nifty extended gains for a third straight session, supported by buying in financials, energy and auto stocks. Analysts highlighted improving technical momentum and recommended Ram Ratna Wires and Tata Motors Passenger Vehicles after bullish breakout ",
+    "image": "https://img.etimg.com/photo/msid-131312634,imgsize-87236.cms",
+    "source": "ET",
+    "pubDate": "Mon, 25 May 2026 20:56:29 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-ram-ratna-wires-and-tata-motors-pv-on-monday-for-gains-up-to-12/articleshow/131312634.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/fuel-prices-are-up-but-it-still-wont-cover-oil-firms-losses-heres-why-11546103#publisher=newsstand",
+    "category": "india",
+    "title": "Fuel Prices Are Up, But It Still Won't Cover Oil Firms' Losses. Here's Why",
+    "summary": "Currency movements could also quickly erode the gains from fuel price hikes.",
+    "image": "https://c.ndtvimg.com/2022-05/p5jgof9_petrol-pump-generic-pti-650_625x300_22_May_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 25 May 2026 20:55:41 +0530",
+    "link": "https://www.ndtv.com/india-news/fuel-prices-are-up-but-it-still-wont-cover-oil-firms-losses-heres-why-11546103#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/bhagwant-mann-ndtv-nava-punjab-summit-alliance-with-congress-will-insult-punjab-mandate-bhagwant-mann-to-ndtv-11546089#publisher=newsstand",
+    "category": "india",
+    "title": "\"Alliance With Congress Will Insult Punjab Mandate\": Bhagwant Mann To NDTV",
+    "summary": "The Punjab Assembly elections are expected early next year.",
+    "image": "https://c.ndtvimg.com/2026-05/q9dbbcfg_bhagwant-mann-_625x300_25_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 25 May 2026 20:53:11 +0530",
+    "link": "https://www.ndtv.com/india-news/bhagwant-mann-ndtv-nava-punjab-summit-alliance-with-congress-will-insult-punjab-mandate-bhagwant-mann-to-ndtv-11546089#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/feature/from-zomato-delivery-rider-to-fms-delhi-haryana-mans-success-story-wins-internet-11545947#publisher=newsstand",
+    "category": "india",
+    "title": "From Zomato Delivery Rider To FMS Delhi: Haryana Man's Success Story Inspires Internet",
+    "summary": "He also encouraged people not to lose hope midway through difficult journeys.",
+    "image": "https://c.ndtvimg.com/2026-05/8bj7ud5k_girish-sharma_625x300_25_May_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 25 May 2026 20:49:46 +0530",
+    "link": "https://www.ndtv.com/feature/from-zomato-delivery-rider-to-fms-delhi-haryana-mans-success-story-wins-internet-11545947#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/woman-shares-mothers-emotional-voice-note-moves-internet-to-tears-11545919#publisher=newsstand",
+    "category": "india",
+    "title": "Woman Shares Mother's Emotional Voice Note, Moves Internet To Tears",
+    "summary": "Shalini said she had missed the message because her phone was on silent.",
+    "image": "https://c.ndtvimg.com/2026-05/gkcf6nto_viral-video_625x300_25_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 25 May 2026 20:41:40 +0530",
+    "link": "https://www.ndtv.com/offbeat/woman-shares-mothers-emotional-voice-note-moves-internet-to-tears-11545919#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/our-fight-is-for-survival-delhi-gymkhana-club-staff-after-eviction-order-11545686#publisher=newsstand",
+    "category": "india",
+    "title": "\"Our Fight Is For Survival\": Delhi Gymkhana Club Staff After Eviction Order",
+    "summary": "Founded during the British era, the club began functioning at the site in 1913.",
+    "image": "https://c.ndtvimg.com/2026-05/m0u46cm_delhi-gymkhana-club_625x300_24_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Mon, 25 May 2026 20:30:08 +0530",
+    "link": "https://www.ndtv.com/india-news/our-fight-is-for-survival-delhi-gymkhana-club-staff-after-eviction-order-11545686#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/rvnl-q4-results-pat-plunges-43-yoy-to-rs-212-crore-revenue-up-5/articleshow/131312236.cms",
+    "category": "finance",
+    "title": "RVNL Q4 Results: PAT plunges 43% YoY to Rs 212 crore; revenue up 5%",
+    "summary": "Rail Vikas Nigam Limited reported a decline in quarterly and annual profits despite higher revenue growth in Q4FY26. The railway PSU announced a final dividend, while rising expenses, weaker cash flow and lower consolidated earnings weighed on overal",
+    "image": "https://img.etimg.com/photo/msid-131312236,imgsize-26482.cms",
+    "source": "ET",
+    "pubDate": "Mon, 25 May 2026 20:28:49 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/rvnl-q4-results-pat-plunges-43-yoy-to-rs-212-crore-revenue-up-5/articleshow/131312236.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/au-real-estate-to-invest-rs-1200-cr-to-build-5-6-acre-housing-project-in-ghaziabad/articleshow/131312159.cms",
+    "category": "finance",
+    "title": "AU Real Estate to invest Rs 1,200 cr to build 5.6-acre housing project in Ghaziabad",
     "summary": "",
-    "image": "https://img.etimg.com/photo/msid-131309269,imgsize-40340.cms",
+    "image": "https://img.etimg.com/photo/msid-131312159,imgsize-925329.cms",
     "source": "ET",
-    "pubDate": "Mon, 25 May 2026 17:38:23 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/lic-hikes-stake-in-central-bank-of-india-to-6-06/articleshow/131309269.cms"
+    "pubDate": "Mon, 25 May 2026 20:24:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/au-real-estate-to-invest-rs-1200-cr-to-build-5-6-acre-housing-project-in-ghaziabad/articleshow/131312159.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/police-rescue-man-walking-into-freeway-traffic-with-help-of-drone-in-us-11544805#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/in-fy26-five-listed-reits-distribute-over-rs-8900-cr-to-unitholders/articleshow/131312142.cms",
+    "category": "finance",
+    "title": "In FY26, five listed REITs distribute over Rs 8,900 cr to unitholders",
+    "summary": "In 2025-26 fiscal year, there were only five listed REITs -- Brookfield India Real Estate Trust, Embassy Office Parks REIT, Sattva Group backed Knowledge Realty Trust, K Raheja Group-sponsored Mindspace Business Parks REIT, and Nexus Select Trust.",
+    "image": "https://img.etimg.com/photo/msid-131312142,imgsize-29210.cms",
+    "source": "ET",
+    "pubDate": "Mon, 25 May 2026 20:22:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/in-fy26-five-listed-reits-distribute-over-rs-8900-cr-to-unitholders/articleshow/131312142.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/bhagwant-mann-ndtv-pava-punjab-summit-if-i-drank-day-and-night-for-14-years-would-i-be-alive-bhagwant-mann-to-ndtv-11545549#publisher=newsstand",
     "category": "india",
-    "title": "Police Rescue Man Walking Into Freeway Traffic With Help Of Drone In US",
-    "summary": "Police said the drone pilot was able to quickly locate the man walking on the freeway.",
-    "image": "https://c.ndtvimg.com/2026-05/4p161hfk_viral-video_625x300_25_May_26.jpeg",
+    "title": "\"Do I Have An Iron Liver?\" Bhagwant Mann On Drinking \"Day And Night\" Charge",
+    "summary": "The remarks came during an interview at the NDTV Nava Punjab Summit in Chandigarh.",
+    "image": "https://c.ndtvimg.com/2026-05/6gu8u7ao_bhagwant-mann-_625x300_25_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 25 May 2026 17:37:16 +0530",
-    "link": "https://www.ndtv.com/world-news/police-rescue-man-walking-into-freeway-traffic-with-help-of-drone-in-us-11544805#publisher=newsstand"
+    "pubDate": "Mon, 25 May 2026 20:22:02 +0530",
+    "link": "https://www.ndtv.com/india-news/bhagwant-mann-ndtv-pava-punjab-summit-if-i-drank-day-and-night-for-14-years-would-i-be-alive-bhagwant-mann-to-ndtv-11545549#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/300-tourists-stranded-mid-air-after-technical-issue-halts-gulmarg-gondola-11544870#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/puravankara-acquires-15-acre-land-in-bengaluru-for-housing-project-eyes-rs-2300-cr-revenue/articleshow/131312103.cms",
+    "category": "finance",
+    "title": "Puravankara acquires 15 acre land in Bengaluru for housing project, eyes Rs 2,300 cr revenue",
+    "summary": "The total saleable area for the entire project will be about 1.8 million sq ft, while the potential gross development value (GDV) is around Rs 2,300 crore.",
+    "image": "https://img.etimg.com/photo/msid-131312103,imgsize-11874.cms",
+    "source": "ET",
+    "pubDate": "Mon, 25 May 2026 20:20:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/puravankara-acquires-15-acre-land-in-bengaluru-for-housing-project-eyes-rs-2300-cr-revenue/articleshow/131312103.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/housing-sales-in-top-75-cities-rise-16-pc-to-rs-9-33-lakh-cr-in-fy26-liases-foras/articleshow/131312008.cms",
+    "category": "finance",
+    "title": "Housing sales in top 75 cities rise 16 pc to Rs 9.33 lakh cr in FY26: Liases Foras",
+    "summary": "As per its data, the housing sales fell 1 per cent to 7,09,793 units during the 2025-26 fiscal from 7,19,029 units in the preceding year.",
+    "image": "https://img.etimg.com/photo/msid-131312008,imgsize-375658.cms",
+    "source": "ET",
+    "pubDate": "Mon, 25 May 2026 20:16:52 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/housing-sales-in-top-75-cities-rise-16-pc-to-rs-9-33-lakh-cr-in-fy26-liases-foras/articleshow/131312008.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/in-numbers-how-middle-east-war-led-to-hike-in-cooking-commuting-costs-11545889#publisher=newsstand",
     "category": "india",
-    "title": "Mid-Air Scare For 300 Tourists As Technical Issue Halts Gulmarg Gondola",
-    "summary": "Multiple videos from the site showed stranded passengers waiting inside suspended cabins.",
-    "image": "https://c.ndtvimg.com/2026-05/39tn3pg_gulmarg-gondola_625x300_25_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "In Numbers: How Middle East War Led To Hike In Cooking, Commuting Costs",
+    "summary": "Sunflower oil, soya oil, palm oil prices have increased since",
+    "image": "https://c.ndtvimg.com/2026-05/d5h7s52c_edible-oil-price-rise_625x300_22_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Mon, 25 May 2026 17:36:02 +0530",
-    "link": "https://www.ndtv.com/india-news/300-tourists-stranded-mid-air-after-technical-issue-halts-gulmarg-gondola-11544870#publisher=newsstand"
+    "pubDate": "Mon, 25 May 2026 20:13:45 +0530",
+    "link": "https://www.ndtv.com/india-news/in-numbers-how-middle-east-war-led-to-hike-in-cooking-commuting-costs-11545889#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/twisha-sharma-supreme-court-hearing-live-updates-supreme-court-takes-up-twisha-sharma-death-case-husband-samarth-singh-giribala-singh-dowry-bhopal-11542714#publisher=newsstand",
-    "category": "india",
-    "title": "Twisha Sharma Supreme Court Hearing LIVE Updates: Court Restrains Potential Witnesses, Accused From Giving Statements To",
-    "summary": "Twisha Sharma Supreme Court Hearing LIVE Updates",
-    "image": "https://c.ndtvimg.com/2026-05/us2knu7s_twisha-sharma-case-samarth-singh-arrives-at-district-judges-courtroom-to-surrender_625x300_22_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 25 May 2026 17:29:59 +0530",
-    "link": "https://www.ndtv.com/india-news/twisha-sharma-supreme-court-hearing-live-updates-supreme-court-takes-up-twisha-sharma-death-case-husband-samarth-singh-giribala-singh-dowry-bhopal-11542714#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-dynamic-options-strike-framework-to-tackle-volatility-improve-trading-continuity/articleshow/131309008.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/awfis-q4-profit-doubles-to-rs-23-cr-on-higher-revenue/articleshow/131311912.cms",
     "category": "finance",
-    "title": "Sebi proposes dynamic options strike framework to tackle volatility, improve trading continuity",
-    "summary": "Securities and Exchange Board of India has proposed a new framework for managing options strike prices during volatile trading sessions. The plan aims to improve strike availability, enable intraday additions without system disruptions, and give exch",
-    "image": "https://img.etimg.com/photo/msid-131309008,imgsize-55652.cms",
+    "title": "Awfis Q4 profit doubles to Rs 23 cr on higher revenue",
+    "summary": "Total income rose to Rs 429.16 crore during the fourth quarter of 2025-26 from Rs 359.45 crore in the corresponding period of the preceding financial year, according to a regulatory filing.",
+    "image": "https://img.etimg.com/photo/msid-131311912,imgsize-41268.cms",
     "source": "ET",
-    "pubDate": "Mon, 25 May 2026 17:25:55 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-dynamic-options-strike-framework-to-tackle-volatility-improve-trading-continuity/articleshow/131309008.cms"
+    "pubDate": "Mon, 25 May 2026 20:09:24 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/awfis-q4-profit-doubles-to-rs-23-cr-on-higher-revenue/articleshow/131311912.cms"
   },
   {
-    "id": "https://www.ndtv.com/health/popular-weight-loss-drug-wegovy-linked-to-rare-blinding-eye-condition-finds-study-11544957#publisher=newsstand",
-    "category": "india",
-    "title": "Popular Weight Loss Drug Wegovy Linked To Rare Blinding Eye Condition, Finds Study",
-    "summary": "The study does not say that Wegovy directly causes blindness. Instead, researchers found a strong link between the drug and a condition called ischemic optic neuropathy.",
-    "image": "https://c.ndtvimg.com/2025-06/unvvp29_wegovy_625x300_24_June_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 25 May 2026 17:22:39 +0530",
-    "link": "https://www.ndtv.com/health/popular-weight-loss-drug-wegovy-linked-to-rare-blinding-eye-condition-finds-study-11544957#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/you-cannot-become-global-while-leaving-local-says-ncert-director-on-native-languages-r1-r2-r3-selection-11545005#publisher=newsstand",
-    "category": "india",
-    "title": "\"You Cannot Become Global While Leaving Local,\" Says NCERT Director On Native Languages, R1, R2, R3 Selection",
-    "summary": "Prof. Saklani said that the language formula dates back to ancient times.",
-    "image": "https://c.ndtvimg.com/2026-05/e1r96ibk_ncert-_625x300_25_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 25 May 2026 17:21:08 +0530",
-    "link": "https://www.ndtv.com/education/you-cannot-become-global-while-leaving-local-says-ncert-director-on-native-languages-r1-r2-r3-selection-11545005#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/indigo-pilot-shares-rare-aerial-video-of-illuminated-india-pakistan-border-glowing-line-of-lights-11544983#publisher=newsstand",
-    "category": "india",
-    "title": "IndiGo Pilot Shares Rare Aerial Video Of Illuminated India-Pakistan Border: \"Glowing Line Of Lights\"",
-    "summary": "Users were struck by the sheer scale of the lighting infrastructure visible from the sky.",
-    "image": "https://c.ndtvimg.com/2026-05/uobvlo7g_indiapakistan-border_625x300_25_May_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 25 May 2026 17:21:06 +0530",
-    "link": "https://www.ndtv.com/offbeat/indigo-pilot-shares-rare-aerial-video-of-illuminated-india-pakistan-border-glowing-line-of-lights-11544983#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/zepto-planning-to-file-papers-for-1-billion-ipo-in-june-report/articleshow/131308883.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-fashion-q4-net-loss-widens-to-rs-163-8-cr/articleshow/131311809.cms",
     "category": "finance",
-    "title": "Zepto planning to file papers for $1 billion IPO in June: Report",
-    "summary": "Zepto is preparing for a potential $1 billion IPO, with a public filing expected in June and launch targeted for July. The quick-commerce firm plans to use proceeds for expansion as India\u2019s IPO market seeks renewed momentum amid slowing deal activity",
-    "image": "https://img.etimg.com/photo/msid-131308883,imgsize-48434.cms",
+    "title": "Aditya Birla Fashion Q4 net loss widens to Rs 163.8 cr",
+    "summary": "The company had posted a net profit of Rs 23.55 crore a year ago, according to a regulatory filing by Aditya Birla Fashion and Retail Ltd (ABFRL).",
+    "image": "https://img.etimg.com/photo/msid-131311809,imgsize-24644.cms",
     "source": "ET",
-    "pubDate": "Mon, 25 May 2026 17:20:34 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/zepto-planning-to-file-papers-for-1-billion-ipo-in-june-report/articleshow/131308883.cms"
+    "pubDate": "Mon, 25 May 2026 20:02:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-fashion-q4-net-loss-widens-to-rs-163-8-cr/articleshow/131311809.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-masterclass-on-new-era-of-wealth-creation-allocation-and-preservation/articleshow/131308469.cms",
-    "category": "finance",
-    "title": "ET Alpha Wealth Summit: Masterclass on new era of wealth creation, allocation and preservation",
-    "summary": "The ET Alpha Summit in Mumbai will convene leading investors to navigate a changing market landscape. Experts will offer high-conviction insights on investment strategies, wealth preservation, and succession planning. Attendees will gain actionable i",
-    "image": "https://img.etimg.com/photo/msid-131308469,imgsize-3642374.cms",
-    "source": "ET",
-    "pubDate": "Mon, 25 May 2026 16:58:47 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-masterclass-on-new-era-of-wealth-creation-allocation-and-preservation/articleshow/131308469.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1538279.html",
+    "category": "sports",
+    "title": "Sri Lanka name Kusal Mendis as ODI and T20I captain for WI tour",
+    "summary": "Wanindu Hasaranga is set to return to action in ODIs and T20Is since tearing his hamstring early in the T20 World Cup in February",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/409300/409357.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 25 May 2026 14:59:40 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1538279.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/valuation-watch-11-largecap-stocks-with-sky-high-pe-ratios/slideshow/131307491.cms",
-    "category": "finance",
-    "title": "\u200bValuation Watch: 11 Largecap stocks with sky-high PE ratios",
-    "summary": "\u200bNSE largecap stocks with TTM P/E ratios above 70 reflect strong investor growth expectations, but elevated valuations may also indicate overpricing risks, requiring careful assessment of company fundamentals and market conditions.",
-    "image": "https://img.etimg.com/photo/msid-131307291,imgsize-72322.cms",
-    "source": "ET",
-    "pubDate": "Mon, 25 May 2026 16:05:20 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/valuation-watch-11-largecap-stocks-with-sky-high-pe-ratios/slideshow/131307491.cms"
+    "id": "https://www.bbc.com/news/videos/czr22le318jo#0",
+    "category": "global",
+    "title": "Watch: Best moments from 2026 Cooper's Hill cheese rolling races",
+    "summary": "Thousands of people gathered in the baking heat to watch competitors from all over the world chase a 7lb (3kg) wheel of Double Gloucester cheese down the 1:2 gradient slope.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 25 May 2026 14:14:37 GMT",
+    "link": "https://www.bbc.com/news/videos/czr22le318jo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/oil-slump-central-bank-support-manifest-in-rupees-three-day-winning-streak/articleshow/131307115.cms",
-    "category": "finance",
-    "title": "Oil slump, central bank support manifest in rupee\u2019s three-day winning streak",
-    "summary": "The Indian rupee saw its longest winning streak in a month, closing stronger against the dollar. This rise was driven by the Reserve Bank of India's market interventions and a significant drop in crude oil prices. Hopes for a U.S.-Iran peace deal boo",
-    "image": "https://img.etimg.com/photo/msid-131307115,imgsize-33016.cms",
-    "source": "ET",
-    "pubDate": "Mon, 25 May 2026 15:58:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/oil-slump-central-bank-support-manifest-in-rupees-three-day-winning-streak/articleshow/131307115.cms"
+    "id": "https://www.bbc.com/news/articles/c0l22pz6nw6o#0",
+    "category": "global",
+    "title": "Police fire shots in air to disperse angry crowds at DR Congo Ebola treatment centre",
+    "summary": "Unrest between crowds trying to reclaim the bodies of suspected Ebola cases and authorities have continued.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 25 May 2026 13:32:10 GMT",
+    "link": "https://www.bbc.com/news/articles/c0l22pz6nw6o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-climb-to-over-two-month-highs-on-iran-us-peace-optimism/articleshow/131306618.cms",
-    "category": "finance",
-    "title": "Global Markets | European shares climb to over two-month highs on Iran-US peace optimism",
-    "summary": "The pan-European STOXX 600 was up 0.61% at 628.93 points, as \u200bof 0712 GMT, trading just shy of a record high touched in late February, \u200bjust before the Middle East war erupted.",
-    "image": "https://img.etimg.com/photo/msid-131306618,imgsize-86456.cms",
-    "source": "ET",
-    "pubDate": "Mon, 25 May 2026 15:32:47 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-climb-to-over-two-month-highs-on-iran-us-peace-optimism/articleshow/131306618.cms"
+    "id": "https://www.espncricinfo.com/ci/content/story/1538270.html",
+    "category": "sports",
+    "title": "Suzie Bates returns to open as New Zealand bat first in decider",
+    "summary": "Georgia Plimmer dropped after successive ducks; Leah Tahuhu and Lauren Bell rested",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417000/417093.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 25 May 2026 13:27:21 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1538270.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/suzlon-energy-q4-results-profit-falls-6-yoy-to-rs-1114-crore-despite-45-revenue-surge/articleshow/131306364.cms",
-    "category": "finance",
-    "title": "Suzlon Energy Q4 Results: Profit falls 6% YoY to Rs 1,114 crore despite 45% revenue surge",
-    "summary": "Suzlon Energy Q4 Results: Revenue from operations, however, increased 45% YoY to Rs 5,468 crore.",
-    "image": "https://img.etimg.com/photo/msid-131306364,imgsize-1851640.cms",
-    "source": "ET",
-    "pubDate": "Mon, 25 May 2026 15:20:41 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/suzlon-energy-q4-results-profit-falls-6-yoy-to-rs-1114-crore-despite-45-revenue-surge/articleshow/131306364.cms"
+    "id": "https://www.bbc.com/news/articles/c809m7g29r7o#0",
+    "category": "global",
+    "title": "Oil prices slide on hopes of US-Iran peace deal",
+    "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 25 May 2026 13:05:56 GMT",
+    "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1538263.html",
+    "category": "sports",
+    "title": "The Blaze take it deep to stun Lancashire",
+    "summary": "Meg Lanning's 81 looked to win out before Tammy Beaumont and Sarah Bryce came up trumps",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416900/416956.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 25 May 2026 12:58:35 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1538263.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1538258.html",
+    "category": "sports",
+    "title": "Solid RCB, surging GT clash for direct final ticket",
+    "summary": "They have an even 4-4 head-to-head record, but GT will be playing their first ever game in Dharamsala",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416300/416392.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 25 May 2026 12:39:28 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1538258.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1538257.html",
@@ -228,16 +298,6 @@
     "source": "BBC",
     "pubDate": "Mon, 25 May 2026 11:08:57 GMT",
     "link": "https://www.bbc.com/news/articles/c74dd82w943o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c809m7g29r7o#0",
-    "category": "global",
-    "title": "Oil prices slide on hopes of US-Iran peace deal",
-    "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 25 May 2026 10:39:18 GMT",
-    "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c332ljdkd81o#0",
@@ -280,26 +340,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1538220.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c4g7d6ngjldo#0",
-    "category": "global",
-    "title": "Education secretary to ask competition watchdog to review hidden childcare costs",
-    "summary": "Bridget Phillipson will ask the competition watchdog to examine costs that families are still facing in government-funded childcare.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 25 May 2026 08:13:07 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g7d6ngjldo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c893543gn20o#0",
-    "category": "global",
-    "title": "Anger grows after China's deadliest coal mining disaster in years",
-    "summary": "On China's tightly-controlled internet, people are calling for justice and questioning how this happened.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 25 May 2026 08:00:35 GMT",
-    "link": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/sport/articles/cx211xyd298o#0",
     "category": "global",
     "title": "Greek swimmer only athlete to beat world record at controversial Enhanced Games",
@@ -308,46 +348,6 @@
     "source": "BBC",
     "pubDate": "Mon, 25 May 2026 07:49:56 GMT",
     "link": "https://www.bbc.com/sport/articles/cx211xyd298o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1538232.html",
-    "category": "sports",
-    "title": "'We are getting older' - McDonald addresses 'misconception' about big three missing ODIs",
-    "summary": "Australia's coach says there needs to be some trust in CA's management of Cummins, Hazlewood, and Starc with a monster 2027 schedule ahead",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/371700/371717.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 25 May 2026 07:36:58 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1538232.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1538201.html",
-    "category": "sports",
-    "title": "Rahane: 'When the team is struggling, it is important to show your character'",
-    "summary": "\"For these two guys, this is just the beginning\" - Ajinkya Rahane, the KKR captain, praises Kartik Tyagi and Anukul Roy for their performances in IPL 2026",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417400/417434.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 25 May 2026 05:29:03 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1538201.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1538233.html",
-    "category": "sports",
-    "title": "'We didn't seize those moments' - Badani on DC's what-could-have-been season",
-    "summary": "\"You need to take care of everyone, but it's most important to be in a good frame of mind yourself,\" Axar Patel says of leading an under-performing side",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416700/416737.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 25 May 2026 05:13:26 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1538233.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1538230.html",
-    "category": "sports",
-    "title": "'Revenge, spite' driving Schutt in World Cup swansong",
-    "summary": "The Australia pace bowler says the upcoming tournament in England will be her last global event",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414010.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 25 May 2026 04:31:42 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1538230.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cx21g0828reo#0",
