@@ -10,6 +10,16 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
+    "id": "https://www.ndtv.com/world-news/quarantined-spaniard-tests-positive-for-hantavirus-11546986#publisher=newsstand",
+    "category": "india",
+    "title": "Quarantined Spaniard Tests Positive For Hantavirus",
+    "summary": "It is the second confirmed case of the hantavirus in Spain.",
+    "image": "https://c.ndtvimg.com/2026-05/facnn16c_spaniard-hantavirus_625x300_26_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Tue, 26 May 2026 03:12:21 +0530",
+    "link": "https://www.ndtv.com/world-news/quarantined-spaniard-tests-positive-for-hantavirus-11546986#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/christian-preacher-arrested-for-conversion-activities-in-up-village-cops-11546944#publisher=newsstand",
     "category": "india",
     "title": "Christian Preacher Arrested For Conversion Activities In UP Village: Cops",
@@ -80,16 +90,6 @@
     "link": "https://www.ndtv.com/india-news/big-change-in-karnataka-inside-track-on-siddaramaiah-vs-dk-shivakumar-tussle-11544140#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/a-death-threat-in-court-then-2-murders-within-2-hours-in-bihar-11546780#publisher=newsstand",
-    "category": "india",
-    "title": "A Death Threat In Court, Then 2 Murders Within 2 Hours In Bihar",
-    "summary": "Both victims were brutally murdered after being repeatedly stabbed.",
-    "image": "https://c.ndtvimg.com/2026-05/kpdsnav8_nawada-double-murder_625x300_25_May_26.jpg",
-    "source": "NDTV",
-    "pubDate": "Tue, 26 May 2026 00:11:31 +0530",
-    "link": "https://www.ndtv.com/india-news/a-death-threat-in-court-then-2-murders-within-2-hours-in-bihar-11546780#publisher=newsstand"
-  },
-  {
     "id": "5M2gv6mk7MEHXAvBa4H7z0",
     "category": "scitech",
     "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
@@ -130,6 +130,26 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/premier-energies-bulk-deal-promoters-sell-stake-worth-rs-2289-crore-quant-nomura-among-top-buyers/articleshow/131313640.cms"
   },
   {
+    "id": "https://www.espncricinfo.com/ci/content/story/1538315.html",
+    "category": "sports",
+    "title": "Jennings, Hurst, McDermott fifties overpower Outlaws",
+    "summary": "Tom Hartley takes four as Lancashire's second highest total against Notts brings easy win",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/382400/382486.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 25 May 2026 22:06:02 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1538315.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cglpp2yk336o#0",
+    "category": "global",
+    "title": "Deal with US not imminent, Iran says",
+    "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 25 May 2026 22:05:29 GMT",
+    "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131313543.cms",
     "category": "finance",
     "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
@@ -138,6 +158,16 @@
     "source": "ET",
     "pubDate": "Mon, 25 May 2026 22:01:53 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131313543.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8xwwpkrgj1o#0",
+    "category": "global",
+    "title": "Hottest May day on record in UK as temperatures pass 34C",
+    "summary": "It comes after the UK recorded its warmest May night on Sunday when temperatures reached 19.4C.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 25 May 2026 21:02:53 GMT",
+    "link": "https://www.bbc.com/news/articles/c8xwwpkrgj1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-ram-ratna-wires-and-tata-motors-pv-on-monday-for-gains-up-to-12/articleshow/131312634.cms",
@@ -188,16 +218,6 @@
     "source": "ET",
     "pubDate": "Mon, 25 May 2026 20:20:38 +0530",
     "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/puravankara-acquires-15-acre-land-in-bengaluru-for-housing-project-eyes-rs-2300-cr-revenue/articleshow/131312103.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c8xwwpkrgj1o#0",
-    "category": "global",
-    "title": "Hottest May day on record in UK as temperatures pass 34C",
-    "summary": "It comes after the UK recorded its warmest May night on Sunday when temperatures reached 19.4C.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 25 May 2026 20:17:53 GMT",
-    "link": "https://www.bbc.com/news/articles/c8xwwpkrgj1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/housing-sales-in-top-75-cities-rise-16-pc-to-rs-9-33-lakh-cr-in-fy26-liases-foras/articleshow/131312008.cms",
@@ -320,16 +340,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1538257.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cglpp2yk336o#0",
-    "category": "global",
-    "title": "Deal with US not imminent, Iran says",
-    "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 25 May 2026 11:17:49 GMT",
-    "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c74dd82w943o#0",
     "category": "global",
     "title": "The questions raised by the Murrell embezzlement controversy",
@@ -348,16 +358,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 25 May 2026 09:00:11 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1538245.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1538228.html",
-    "category": "sports",
-    "title": "Rayudu: Rahul 'has been fantastic for any team that he has played for'",
-    "summary": "\"He is not good, he is a very good player,\" Mark Boucher says after KL Rahul finished IPL 2026 with 593 runs at a strike rate of 174.41",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417400/417426.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 25 May 2026 08:44:15 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1538228.html?ex_cid=OTC-RSS"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
