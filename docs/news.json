@@ -10,164 +10,224 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
-    "id": "https://www.ndtv.com/india-news/im-jealous-of-vijay-tvks-victory-in-tamil-nadu-assembly-polls-pawan-kalyan-quips-he-roamed-streets-for-15-years-11547702#publisher=newsstand",
-    "category": "india",
-    "title": "\"I'm Jealous Of Vijay\": Pawan Kalyan Quips He Roamed Streets For 15 Years",
-    "summary": "Pawan Kalyan said observing Tamil Nadu politics these days makes him feel like others have it easier",
-    "image": "https://c.ndtvimg.com/2026-05/0vhgd92o_pawan-kalyan-vijay_625x300_26_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 26 May 2026 10:13:36 +0530",
-    "link": "https://www.ndtv.com/india-news/im-jealous-of-vijay-tvks-victory-in-tamil-nadu-assembly-polls-pawan-kalyan-quips-he-roamed-streets-for-15-years-11547702#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/health/cycling-could-be-accessible-tool-for-improving-brain-health-review-finds-11544818#publisher=newsstand",
-    "category": "india",
-    "title": "Cycling And Brain Health: A Review Finds It May Sharpen The Mind",
-    "summary": "Cycling may improve brain function and improve social connections",
-    "image": "https://c.ndtvimg.com/2025-05/kapetl28_cycling_625x300_30_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 26 May 2026 10:13:19 +0530",
-    "link": "https://www.ndtv.com/health/cycling-could-be-accessible-tool-for-improving-brain-health-review-finds-11544818#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/artificial-intelligence/commonwealth-short-story-prize-faces-ai-authorship-debate-over-winning-entry-11543902#publisher=newsstand",
-    "category": "india",
-    "title": "The Curious Case Of An Award-Winning Story That Is Likely AI-Written",
-    "summary": "The irony that AI is used to detect AI-writing is not lost on anyone",
-    "image": "https://c.ndtvimg.com/2026-05/h3qnm5k_half-man-half-ai_625x300_25_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Tue, 26 May 2026 10:09:20 +0530",
-    "link": "https://www.ndtv.com/artificial-intelligence/commonwealth-short-story-prize-faces-ai-authorship-debate-over-winning-entry-11543902#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-bond-yields-drop-after-trump-signals-progress-in-iran-talks/articleshow/131321712.cms",
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/nasdaq-gets-sec-nod-to-list-bitcoin-index-options-heres-why-it-matters/articleshow/131324927.cms",
     "category": "finance",
-    "title": "US Stock Market: Bond yields drop after Trump signals progress in Iran talks",
-    "summary": "Treasury yields declined as optimism around a US-Iran agreement boosted demand for government bonds. Softer oil prices eased inflation concerns, reducing pressure on the Federal Reserve to maintain aggressive monetary policy. However, market caution ",
-    "image": "https://img.etimg.com/photo/msid-131321712,imgsize-4952.cms",
+    "title": "Nasdaq gets SEC nod to list Bitcoin index options. Here\u2019s why it matters",
+    "summary": "The SEC has greenlit Nasdaq's Bitcoin index options, a significant move integrating Wall Street with digital assets. These cash-settled, European-style contracts offer US equity traders a new avenue for Bitcoin exposure, distinct from spot ETF option",
+    "image": "https://img.etimg.com/photo/msid-131324927,imgsize-151166.cms",
     "source": "ET",
-    "pubDate": "Tue, 26 May 2026 10:09:19 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-bond-yields-drop-after-trump-signals-progress-in-iran-talks/articleshow/131321712.cms"
+    "pubDate": "Tue, 26 May 2026 13:41:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/nasdaq-gets-sec-nod-to-list-bitcoin-index-options-heres-why-it-matters/articleshow/131324927.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/kerala-hse-12th-result-2026-how-to-check-scores-via-saphalam-and-prd-live-app-11547674#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/it-still-a-question-mark-6-sectors-where-envision-capitals-nilesh-shah-is-actually-putting-money/articleshow/131324819.cms",
+    "category": "finance",
+    "title": "IT still a question mark; 6 sectors where Envision Capital's Nilesh Shah is actually putting money",
+    "summary": "Nilesh Shah, MD and CEO of Envision Capital, is buying through market volatility but steering clear of IT, questioning the validity of current business models amidst AI's disruptive potential. He highlights six sectors poised for growth, including di",
+    "image": "https://img.etimg.com/photo/msid-131324819,imgsize-23638.cms",
+    "source": "ET",
+    "pubDate": "Tue, 26 May 2026 13:36:18 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/it-still-a-question-mark-6-sectors-where-envision-capitals-nilesh-shah-is-actually-putting-money/articleshow/131324819.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/u-turn-mfs-pull-back-from-12-smallcap-stocks-after-two-quarters-of-buying/slideshow/131324846.cms",
+    "category": "finance",
+    "title": "\u200bU-Turn! MFs pull back from 12 smallcap stocks after two quarters of buying",
+    "summary": "\u200bMFs are typically considered informed investors, with allocation decisions driven by deep research and long-term fundamentals. While sustained buying often signals confidence, a reversal after consecutive quarters of accumulation is worth tracking c",
+    "image": "https://img.etimg.com/photo/msid-131324563,imgsize-42414.cms",
+    "source": "ET",
+    "pubDate": "Tue, 26 May 2026 13:16:54 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/u-turn-mfs-pull-back-from-12-smallcap-stocks-after-two-quarters-of-buying/slideshow/131324846.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/health/france-reports-seven-heatwave-linked-deaths-11548387#publisher=newsstand",
     "category": "india",
-    "title": "Kerala HSE 12th Result 2026: How To Check Scores Via Saphalam And PRD Live App",
-    "summary": "Students Can Check Kerala HSE Class 12 Results Online And Via Apps",
-    "image": "https://c.ndtvimg.com/2026-05/kn9a451o_saphalam-kite-app-and-prd-live-app_625x300_26_May_26.jpeg",
+    "title": "Heatwave Deaths In France: 7 Lives Lost Amid Extreme Heat",
+    "summary": "Heatwave in France has resulted in 7 deaths",
+    "image": "https://c.ndtvimg.com/2026-05/g9fv6gjg_heatwave_625x300_26_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Tue, 26 May 2026 10:07:56 +0530",
-    "link": "https://www.ndtv.com/education/kerala-hse-12th-result-2026-how-to-check-scores-via-saphalam-and-prd-live-app-11547674#publisher=newsstand"
+    "pubDate": "Tue, 26 May 2026 12:51:47 +0530",
+    "link": "https://www.ndtv.com/health/france-reports-seven-heatwave-linked-deaths-11548387#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/health/new-positive-for-hantavirus-confirmed-among-quarantined-spaniards-11547378#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/ssc-gd-constable-exam-2026-cancelled-amid-overbooking-chaos-check-rescheduling-updates-11548462#publisher=newsstand",
     "category": "india",
-    "title": "Hantavirus Case Confirmed Among Quarantined Spaniards",
-    "summary": "Hantavirus case confirmed among the 14 Spaniards passengers of MV Hondius",
-    "image": "https://c.ndtvimg.com/2026-05/3un1joj4_hantavirus_625x300_10_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "SSC GD Constable Exam 2026 Cancelled Amid Overbooking Chaos; Check Rescheduling Updates",
+    "summary": "Chaos At Kanpur SSC GD Exam Centre Leads To Cancellation",
+    "image": "https://c.ndtvimg.com/2026-05/0nrtn0tk_ssc-gd-exam_625x300_25_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Tue, 26 May 2026 10:07:35 +0530",
-    "link": "https://www.ndtv.com/health/new-positive-for-hantavirus-confirmed-among-quarantined-spaniards-11547378#publisher=newsstand"
+    "pubDate": "Tue, 26 May 2026 12:51:39 +0530",
+    "link": "https://www.ndtv.com/education/ssc-gd-constable-exam-2026-cancelled-amid-overbooking-chaos-check-rescheduling-updates-11548462#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/feature/how-gamers-are-beating-the-ram-price-surge-11547688#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/woman-eating-at-restaurant-with-husband-killed-by-flying-umbrella-11548461#publisher=newsstand",
     "category": "india",
-    "title": "How Gamers Are Beating The RAM Price Surge",
-    "summary": "RAM budget is broken. Here's how smart gamers are adapting",
-    "image": "https://c.ndtvimg.com/2026-05/bcvk21dk_gamers_625x300_26_May_26.jpeg",
+    "title": "Woman Eating At Restaurant With Husband Killed By Flying Umbrella",
+    "summary": "A gust of wind loosened an umbrella that fatally struck a woman (Representative Pic).",
+    "image": "https://c.ndtvimg.com/2026-05/o2dnr77c_as_625x300_26_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Tue, 26 May 2026 10:06:48 +0530",
-    "link": "https://www.ndtv.com/feature/how-gamers-are-beating-the-ram-price-surge-11547688#publisher=newsstand"
+    "pubDate": "Tue, 26 May 2026 12:51:31 +0530",
+    "link": "https://www.ndtv.com/world-news/woman-eating-at-restaurant-with-husband-killed-by-flying-umbrella-11548461#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/us-zoo-closure-leaves-mermaid-jobless-theres-nowhere-else-11547664#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/kcet-2026-result-date-past-year-trends-scorecard-download-details-11548459#publisher=newsstand",
     "category": "india",
-    "title": "US Zoo Closure Leaves 'Mermaid' Jobless: 'There's Nowhere Else'",
-    "summary": "Closure of Blue Zoo Aquarium in Des Moines forces mermaid performer out of role.",
-    "image": "https://c.ndtvimg.com/2026-05/ie18sb3_as_625x300_26_May_26.jpeg",
+    "title": "KCET 2026 Result Date: Past Year Trends, Scorecard Download Details",
+    "summary": "KCET 2026: KEA will start the counselling process after result announcement. (Representative Image)",
+    "image": "https://c.ndtvimg.com/2026-05/2tlcaeq4_kcet_625x300_26_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Tue, 26 May 2026 09:59:55 +0530",
-    "link": "https://www.ndtv.com/offbeat/us-zoo-closure-leaves-mermaid-jobless-theres-nowhere-else-11547664#publisher=newsstand"
+    "pubDate": "Tue, 26 May 2026 12:51:26 +0530",
+    "link": "https://www.ndtv.com/education/kcet-2026-result-date-past-year-trends-scorecard-download-details-11548459#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-ai-and-chip-stocks-rally-after-huawei-signals-major-tech-leap/articleshow/131321546.cms",
-    "category": "finance",
-    "title": "Global Market: Chinese AI and chip stocks rally after Huawei signals major tech leap",
-    "summary": "Chinese semiconductor stocks surged in Hong Kong following Huawei's announcement of a potential 1.4nm chip breakthrough using \"LogicFolding\" technology by 2031. This development aims to narrow the gap with global leaders and bolster China's AI ambiti",
-    "image": "https://img.etimg.com/photo/msid-131321546,imgsize-51906.cms",
-    "source": "ET",
-    "pubDate": "Tue, 26 May 2026 09:55:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-ai-and-chip-stocks-rally-after-huawei-signals-major-tech-leap/articleshow/131321546.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-raises-target-price-of-auto-ancillary-stock-thats-venturing-into-aerospace/articleshow/131321596.cms",
-    "category": "finance",
-    "title": "Jefferies raises target price of auto ancillary stock that's venturing into aerospace",
-    "summary": "Jefferies has increased its target price for Belrise Industries to Rs 250, maintaining a positive outlook. The auto component maker is experiencing strong earnings growth and securing new orders. Belrise is also expanding its global presence in aeros",
-    "image": "https://img.etimg.com/photo/msid-131321596,imgsize-311888.cms",
-    "source": "ET",
-    "pubDate": "Tue, 26 May 2026 09:54:12 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-raises-target-price-of-auto-ancillary-stock-thats-venturing-into-aerospace/articleshow/131321596.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/students-protest-at-gauhati-university-over-fee-hike-admission-charges-11547630#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/adani-green-energy-commissions-worlds-largest-battery-storage-system-11548396#publisher=newsstand",
     "category": "india",
-    "title": "Students Protest At Gauhati University Over Fee Hike, Admission Charges",
-    "summary": "Protesters at Gauhati University demand intervention on fee concessions and block highway.",
-    "image": "https://c.ndtvimg.com/2026-05/nhvekmjs_-gauhati-university-protest_625x300_26_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Adani Green Energy Commissions World's Largest Battery Storage System",
+    "summary": "The deployment includes the 1.37 GWh capacity commissioned in March 2026",
+    "image": "https://c.ndtvimg.com/2026-05/smqh5gn8_adani-green_625x300_26_May_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Tue, 26 May 2026 09:51:59 +0530",
-    "link": "https://www.ndtv.com/india-news/students-protest-at-gauhati-university-over-fee-hike-admission-charges-11547630#publisher=newsstand"
+    "pubDate": "Tue, 26 May 2026 12:48:29 +0530",
+    "link": "https://www.ndtv.com/india-news/adani-green-energy-commissions-worlds-largest-battery-storage-system-11548396#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pine-labs-shares-rise-over-4-after-q4-results-why-morgan-stanley-forecasts-67-upside/articleshow/131321567.cms",
-    "category": "finance",
-    "title": "Pine Labs shares rise over 4% after Q4 results. Why Morgan Stanley forecasts 67% upside",
-    "summary": "Pine Labs shares surged after the company reported a significant turnaround, posting a Rs 59 crore net profit in Q4FY26 against a loss last year. Full-year profits also swung to Rs 113 crore. Despite a recent share price dip, Morgan Stanley maintains",
-    "image": "https://img.etimg.com/photo/msid-131321567,imgsize-24818.cms",
-    "source": "ET",
-    "pubDate": "Tue, 26 May 2026 09:51:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pine-labs-shares-rise-over-4-after-q4-results-why-morgan-stanley-forecasts-67-upside/articleshow/131321567.cms"
+    "id": "https://www.ndtv.com/education/dhse-kerala-12th-result-2026-live-plus-two-results-check-direct-link-toppers-list-download-scorecard-check-pass-percentage-11547187#publisher=newsstand",
+    "category": "india",
+    "title": "Kerala Plus Two Result 2026 Live Updates: DHSE Class 12 Result To Be Out At 3PM",
+    "summary": "Kerala Plus Two Results 2026 LIVE: Over 4.5 Lakh Students Await Kerala 12th Result",
+    "image": "https://c.ndtvimg.com/2026-05/ritdmevo_asd_625x300_20_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 26 May 2026 12:48:11 +0530",
+    "link": "https://www.ndtv.com/education/dhse-kerala-12th-result-2026-live-plus-two-results-check-direct-link-toppers-list-download-scorecard-check-pass-percentage-11547187#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-spacex-openai-ipo-excitement-revives-debate-over-lofty-valuations/articleshow/131321487.cms",
-    "category": "finance",
-    "title": "US Stock Market: SpaceX, OpenAI IPO excitement revives debate over lofty valuations",
-    "summary": "A Reuters analysis of the 50 largest IPOs over the past five years found that most underperformed the S&amp;P 500 despite strong debut enthusiasm. As investors await SpaceX\u2019s expected blockbuster listing, analysts caution that high-profile IPOs often",
-    "image": "https://img.etimg.com/photo/msid-131321487,imgsize-176349.cms",
-    "source": "ET",
-    "pubDate": "Tue, 26 May 2026 09:46:20 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-spacex-openai-ipo-excitement-revives-debate-over-lofty-valuations/articleshow/131321487.cms"
+    "id": "https://www.ndtv.com/health/does-l-carnitine-help-in-your-weight-loss-journey-heres-what-expert-say-11548317#publisher=newsstand",
+    "category": "india",
+    "title": "Does L-Carnitine Help In Your Weight Loss Journey? Here's What Expert Say",
+    "summary": "L-Carnitine supplementation may slightly improve fat loss when combined with physical activity",
+    "image": "https://c.ndtvimg.com/2026-05/ivjvhcrc_lcarnitine-supplementation-may-slightly-improve-fat-loss-when-combined-with-physical-activity_625x300_26_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 26 May 2026 12:47:48 +0530",
+    "link": "https://www.ndtv.com/health/does-l-carnitine-help-in-your-weight-loss-journey-heres-what-expert-say-11548317#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-kevin-warshs-fed-debut-signals-major-shift-in-us-monetary-policy-landscape/articleshow/131321424.cms",
-    "category": "finance",
-    "title": "US Stock Market: Kevin Warsh\u2019s Fed debut signals major shift in US monetary policy landscape",
-    "summary": "President Donald Trump now directly influences US economic policy with Kevin Warsh leading the Federal Reserve. This change comes as inflation rises and consumer confidence falls. Housing affordability is a major concern with mortgage rates climbing.",
-    "image": "https://img.etimg.com/photo/msid-131321424,imgsize-44220.cms",
-    "source": "ET",
-    "pubDate": "Tue, 26 May 2026 09:41:14 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-kevin-warshs-fed-debut-signals-major-shift-in-us-monetary-policy-landscape/articleshow/131321424.cms"
+    "id": "https://www.ndtv.com/world-news/eye-on-china-quad-expands-cooperation-on-minerals-and-maritime-security-11548308#publisher=newsstand",
+    "category": "india",
+    "title": "Eye On China, Quad Expands Cooperation On Minerals And Maritime Security",
+    "summary": "The new measures were announced following a meeting of the grouping's foreign ministers in New Delhi.",
+    "image": "https://c.ndtvimg.com/2026-05/94m2qqn4_quad-afp_625x300_26_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 26 May 2026 12:47:13 +0530",
+    "link": "https://www.ndtv.com/world-news/eye-on-china-quad-expands-cooperation-on-minerals-and-maritime-security-11548308#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-rise-after-q4-results-what-are-motilal-oswal-nuvama-saying/articleshow/131321360.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/global-markets-japans-nikkei-retreats-from-record-high-on-profit-booking-strength-in-oil-prices/articleshow/131323994.cms",
     "category": "finance",
-    "title": "Suzlon Energy shares rise after Q4 results. What are Motilal Oswal, Nuvama saying?",
-    "summary": "Suzlon Energy shares rose on the BSE on Monday despite the company reporting a 6% year-on-year decline in Q4 consolidated net profit to Rs 1,114 crore. Revenue from operations surged 45% YoY to Rs 5,468 crore, while profit jumped 150% sequentially fr",
-    "image": "https://img.etimg.com/photo/msid-131321360,imgsize-6070.cms",
+    "title": "Global Markets: Japan's Nikkei retreats from record high on profit-booking, strength in oil prices",
+    "summary": "Japan's Nikkei share average retreated from a record high, falling 0.25% as investors booked profits after a significant rally. Rising oil prices and the absence of an imminent U.S.-Iran peace deal also weighed on sentiment, despite SoftBank Group's ",
+    "image": "https://img.etimg.com/photo/msid-131323994,imgsize-265814.cms",
     "source": "ET",
-    "pubDate": "Tue, 26 May 2026 09:35:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-rise-after-q4-results-what-are-motilal-oswal-nuvama-saying/articleshow/131321360.cms"
+    "pubDate": "Tue, 26 May 2026 12:37:07 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/global-markets-japans-nikkei-retreats-from-record-high-on-profit-booking-strength-in-oil-prices/articleshow/131323994.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-slips-250-pts-nifty-at-24000-as-us-strike-on-iran-dent-sentiment-mid-smallcaps-outperform/articleshow/131321291.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/global-markets-australia-shares-end-lower-as-inflation-iran-peace-deal-concerns-weigh/articleshow/131323900.cms",
     "category": "finance",
-    "title": "Sensex slips 250 pts, Nifty at 24,000 as US strike on Iran dent sentiment; mid, smallcaps outperform",
-    "summary": "Benchmark indices Nifty and Sensex traded marginally lower on Tuesday, impacted by US attacks in southern Iran, reigniting fears of a prolonged conflict. Despite ongoing negotiations, markets remain cautiously optimistic, with Brent crude prices stab",
-    "image": "https://img.etimg.com/photo/msid-131321291,imgsize-11896.cms",
+    "title": "Global Markets: Australia shares end lower as inflation, Iran peace deal concerns weigh",
+    "summary": "Australian shares declined on Tuesday, breaking a three-day rally, as concerns over persistent inflation and diminished hopes for a U.S.-Iran peace deal weighed on investor sentiment. The banking sector led the losses, with financials dropping 0.7% a",
+    "image": "https://img.etimg.com/photo/msid-131323900,imgsize-196566.cms",
     "source": "ET",
-    "pubDate": "Tue, 26 May 2026 09:31:38 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-slips-250-pts-nifty-at-24000-as-us-strike-on-iran-dent-sentiment-mid-smallcaps-outperform/articleshow/131321291.cms"
+    "pubDate": "Tue, 26 May 2026 12:30:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/global-markets-australia-shares-end-lower-as-inflation-iran-peace-deal-concerns-weigh/articleshow/131323900.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-76700-ethereum-near-2090-as-traders-remain-defensive-rebound-from-recent-lows/articleshow/131323615.cms",
+    "category": "finance",
+    "title": "Bitcoin trades near $76,700, Ethereum near $2,090 as traders remain defensive, rebound from recent lows",
+    "summary": "Bitcoin and Ethereum traded near $76,700 and $2,090 respectively as traders remained defensive amid a cautious consolidation phase. Major altcoins saw corrections, with some experiencing minor gains. The global crypto market capitalization edged down",
+    "image": "https://img.etimg.com/photo/msid-131323615,imgsize-287342.cms",
+    "source": "ET",
+    "pubDate": "Tue, 26 May 2026 12:23:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-76700-ethereum-near-2090-as-traders-remain-defensive-rebound-from-recent-lows/articleshow/131323615.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/astra-microwave-q4-results-cons-pat-jumps-44-to-rs-106-crore-co-announces-rs-2-4/share-dividend/articleshow/131323738.cms",
+    "category": "finance",
+    "title": "Astra Microwave Q4 Results: Profit jumps 44% YoY to Rs 106 crore; Rs 2.4/share dividend declared",
+    "summary": "Astra Microwave Products announced strong financial results for the March quarter. Net profit surged 44% to Rs 106 crore. Revenue also saw a significant jump. The company recommended a dividend of Rs 2.40 per share for FY26. This positive performance",
+    "image": "https://img.etimg.com/photo/msid-131323738,imgsize-23798.cms",
+    "source": "ET",
+    "pubDate": "Tue, 26 May 2026 12:23:02 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/astra-microwave-q4-results-cons-pat-jumps-44-to-rs-106-crore-co-announces-rs-2-4/share-dividend/articleshow/131323738.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/geopolitical-stability-will-decide-markets-next-move-sandip-sabharwal/articleshow/131323479.cms",
+    "category": "finance",
+    "title": "Geopolitical stability will decide market\u2019s next move: Sandip Sabharwal",
+    "summary": "Indian equity markets are holding above 24,000, buoyed by improving sentiment and steady earnings, though geopolitical tensions remain a concern. Market expert Sandip Sabharwal suggests the current rally is a rebound from overly negative investor pos",
+    "image": "https://img.etimg.com/photo/msid-131323479,imgsize-15384.cms",
+    "source": "ET",
+    "pubDate": "Tue, 26 May 2026 12:11:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/geopolitical-stability-will-decide-markets-next-move-sandip-sabharwal/articleshow/131323479.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx2117685lwo#0",
+    "category": "global",
+    "title": "Gis\u00e8le Pelicot 'deeply shocked' by decision not to jail boys in rape case",
+    "summary": "The French rape survivor praises the bravery of a young girl for coming forward following the incidents in Fordingbridge.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 26 May 2026 07:27:37 GMT",
+    "link": "https://www.bbc.com/news/articles/cx2117685lwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/clyppgdl3xwo#0",
+    "category": "global",
+    "title": "Watch: Dozens of light drones crash into harbour in Sydney",
+    "summary": "Almost 90 drones fell from the sky over Sydney's Darling Harbour during a popular winter light show.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 26 May 2026 07:11:50 GMT",
+    "link": "https://www.bbc.com/news/videos/clyppgdl3xwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c2024r6lzyro#0",
+    "category": "global",
+    "title": "Next boss warns of 'dramatic' fall in entry-level jobs",
+    "summary": "Lord Wolfson tells the BBC Next now typically receives double the number of applicants for one role than it did two years ago.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 26 May 2026 06:57:09 GMT",
+    "link": "https://www.bbc.com/news/articles/c2024r6lzyro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c5y7r9gqp6jo#0",
+    "category": "global",
+    "title": "Social media as bad for young people as smoking, top doctors say",
+    "summary": "The Academy of Medical Royal Colleges says doctors should routinely check on screen time and social media use when seeing younger patients.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 26 May 2026 06:54:50 GMT",
+    "link": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvgzzn4y1n8o#0",
+    "category": "global",
+    "title": "US launches new strikes on Iran, targeting missile sites and boats",
+    "summary": "US Central Command says the strikes were taken in \"self-defense\". It comes as senior Iranian negotiators are in Qatar for talks to end the war.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 26 May 2026 05:45:58 GMT",
+    "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cg5pp2pee7go#0",
+    "category": "global",
+    "title": "'I'm the man with the money,' Murrell told Shetland jeweller",
+    "summary": "Former SNP chief executive Peter Murrell bought a necklace for his wife, Nicola Sturgeon, during the visit to Shetland during a by-election campaign.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 26 May 2026 05:06:20 GMT",
+    "link": "https://www.bbc.com/news/articles/cg5pp2pee7go?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1538220.html",
@@ -180,26 +240,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1538220.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cvgzzn4y1n8o#0",
-    "category": "global",
-    "title": "US launches new strikes on Iran, targeting missile sites and boats",
-    "summary": "US Central Command says the strikes were taken in \"self-defense\". It comes as senior Iranian negotiators arrive in Qatar for talks to end the war.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 26 May 2026 04:31:31 GMT",
-    "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c1l22r59mn5o#0",
-    "category": "global",
-    "title": "England could break May heat record again with 35C possible in some areas",
-    "summary": "It comes after the UK recorded its hottest May day on record as part of London reached 34.8C on Monday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 26 May 2026 04:14:23 GMT",
-    "link": "https://www.bbc.com/news/articles/c1l22r59mn5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1532187.html",
     "category": "sports",
     "title": "All the Australian state squads for the 2026-27 season",
@@ -208,16 +248,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 26 May 2026 01:14:48 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1532187.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5y7r9gqp6jo#0",
-    "category": "global",
-    "title": "Social media as bad for young people as smoking, top doctors say",
-    "summary": "The Academy of Medical Royal Colleges says doctors should routinely check on screen time and social media use when seeing younger patients.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 26 May 2026 01:13:57 GMT",
-    "link": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1538317.html",
@@ -260,16 +290,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c2024r6lzyro#0",
-    "category": "global",
-    "title": "Next boss warns of 'dramatic' fall in entry-level jobs",
-    "summary": "Lord Wolfson tells the BBC Next now typically receives double the number of applicants for one role than it did two years ago.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 25 May 2026 23:51:24 GMT",
-    "link": "https://www.bbc.com/news/articles/c2024r6lzyro?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cjep159x1njo#0",
     "category": "global",
     "title": "Britain's protected birds of prey still being shot, trapped and poisoned, charity says",
@@ -298,16 +318,6 @@
     "source": "BBC",
     "pubDate": "Mon, 25 May 2026 19:37:37 GMT",
     "link": "https://www.bbc.com/news/articles/c4g009zq4neo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c2022lwyex1o#0",
-    "category": "global",
-    "title": "Woman dies after being shot outside Sheffield bar",
-    "summary": "Three people are in custody after the 30-year-old was found with serious injuries early on Monday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 25 May 2026 18:56:01 GMT",
-    "link": "https://www.bbc.com/news/articles/c2022lwyex1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1538279.html",
@@ -348,16 +358,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 25 May 2026 12:58:35 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1538263.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c74dd82w943o#0",
-    "category": "global",
-    "title": "The questions raised by the Murrell embezzlement controversy",
-    "summary": "Thecase has been hanging over the SNP like a toxic cloud since the police investigation began five years ago.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 25 May 2026 11:08:57 GMT",
-    "link": "https://www.bbc.com/news/articles/c74dd82w943o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
