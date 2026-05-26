@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://www.ndtv.com/india-news/case-filed-against-mamata-banerjee-over-2025-ganda-dharma-remark-11552119#publisher=newsstand",
+    "category": "india",
+    "title": "Case Filed Against Mamata Banerjee Over 2025 \"Ganda Dharma\" Remark",
+    "summary": "The FIR was lodged against former West Bengal CM Mamata Banerjee on Tuesday.",
+    "image": "https://c.ndtvimg.com/2026-05/gpb6k264_mamata-banerjee-ani_625x300_16_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Wed, 27 May 2026 03:39:09 +0530",
+    "link": "https://www.ndtv.com/india-news/case-filed-against-mamata-banerjee-over-2025-ganda-dharma-remark-11552119#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/canada-to-impose-21-day-isolation-for-travellers-from-ebola-hit-region-11552077#publisher=newsstand",
+    "category": "india",
+    "title": "Canada To Impose 21-Day Isolation For Travellers From Ebola-Hit Region",
+    "summary": "The World Health Organization said that more than 220 deaths have been reported so far.",
+    "image": "https://c.ndtvimg.com/2026-05/f2deg77c_ebola_625x300_27_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 27 May 2026 03:03:35 +0530",
+    "link": "https://www.ndtv.com/world-news/canada-to-impose-21-day-isolation-for-travellers-from-ebola-hit-region-11552077#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/health/covid-to-ebola-what-makes-doctors-and-medical-staff-frontline-workers-11552012#publisher=newsstand",
     "category": "india",
     "title": "Covid To Ebola, What Makes Doctors And Medical Staff Frontline Workers?",
@@ -70,26 +90,6 @@
     "link": "https://www.ndtv.com/india-news/delhi-cracks-down-on-illegal-sacrifice-ahead-of-bakrid-11551501#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/karnataka-siddaramaiah-to-resign-this-week-congress-bosses-back-dk-shivakumar-sources-11550671#publisher=newsstand",
-    "category": "india",
-    "title": "Siddaramaiah To Resign, Congress Bosses Back DK Shivakumar: Sources",
-    "summary": "Shivakumar had been one of the contenders for the top post.",
-    "image": "https://c.ndtvimg.com/2023-05/g8q7qce8_siddaramaiah-dk-shivakumar_650x400_14_May_23.jpg",
-    "source": "NDTV",
-    "pubDate": "Wed, 27 May 2026 00:18:59 +0530",
-    "link": "https://www.ndtv.com/india-news/karnataka-siddaramaiah-to-resign-this-week-congress-bosses-back-dk-shivakumar-sources-11550671#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/donald-trump-reports-perfect-annual-medical-checkup-ahead-of-80th-birthday-11551822#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Reports 'Perfect' Annual Medical Checkup Ahead Of 80th Birthday",
-    "summary": "Trump has long been accused of a lack of transparency about his health",
-    "image": "https://edata.ndtv.com/feeds/liveblog/7514908/638730839432088929.JPG?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Wed, 27 May 2026 00:17:54 +0530",
-    "link": "https://www.ndtv.com/world-news/donald-trump-reports-perfect-annual-medical-checkup-ahead-of-80th-birthday-11551822#publisher=newsstand"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -98,6 +98,26 @@
     "source": "VentureBeat",
     "pubDate": "Wed, 07 Jan 2026 20:00:00 GMT",
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx211r9nm3lo#0",
+    "category": "global",
+    "title": "Labour has 'no coherent plan' for country, says Blair",
+    "summary": "The ex-Labour PM says Sir Keir Starmer's government is in the \"wrong position\" ahead of the next election.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 26 May 2026 22:26:59 GMT",
+    "link": "https://www.bbc.com/news/articles/cx211r9nm3lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1538463.html",
+    "category": "sports",
+    "title": "Stubbs fires on debut as Hampshire Hawks down Essex Eagles",
+    "summary": "South African whacks unbeaten 69 off 42 before Scott Currie's four-for seals points for home side",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417400/417491.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 26 May 2026 22:21:16 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1538463.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ongc-q4-results-cons-pat-jumps-46-yoy-to-rs-10820-crore-revenue-up-4/articleshow/131333234.cms",
@@ -168,16 +188,6 @@
     "source": "ET",
     "pubDate": "Tue, 26 May 2026 21:17:33 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/contract-manufacturer-aequs-posts-33-growth-in-revenue-in-fy26-losses-widen-for-the-year/articleshow/131332624.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx211r9nm3lo#0",
-    "category": "global",
-    "title": "Labour has 'no coherent plan' for country, says Blair",
-    "summary": "The ex-Labour PM says Sir Keir Starmer's government is in the \"wrong position\" ahead of the next election.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 26 May 2026 21:00:44 GMT",
-    "link": "https://www.bbc.com/news/articles/cx211r9nm3lo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-consumer-confidence-ebbs-in-may-as-inflation-worries-mount/articleshow/131332256.cms",
@@ -308,16 +318,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 26 May 2026 14:52:02 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1538386.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1538372.html",
-    "category": "sports",
-    "title": "GT bowl and bring Khejroliya in; Duffy back but still no Salt for RCB",
-    "summary": "Both the night games in Dharamsala this year have been won by the chasing side",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417300/417345.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 26 May 2026 14:11:29 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1538372.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c5y779yeq0eo#0",
