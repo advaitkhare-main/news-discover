@@ -40,6 +40,16 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-pushes-to-more-records-as-profits-keep-piling-up-for-us-companies/articleshow/131375475.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c87qng40wz9o#0",
+    "category": "global",
+    "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
+    "summary": "But there has been conflicting information from Tehran, with one news agency reporting that no deal has been finalised or confirmed.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 28 May 2026 22:13:30 GMT",
+    "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.espncricinfo.com/ci/content/story/1538676.html",
     "category": "sports",
     "title": "Rodrigues, Yastika, Nandani star as India secure first blood",
@@ -88,16 +98,6 @@
     "source": "ET",
     "pubDate": "Thu, 28 May 2026 20:31:24 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-europes-e6-states-seek-common-position-on-capital-market-supervision/articleshow/131372959.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c87qng40wz9o#0",
-    "category": "global",
-    "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
-    "summary": "But there has been conflicting information from Tehran, with one news agency reporting that no deal has been finalised or confirmed.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 28 May 2026 20:28:12 GMT",
-    "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/apex-service-sells-minority-stake-to-apollo-at-10-billion-valuation-source-says/articleshow/131372103.cms",
@@ -270,6 +270,26 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
+    "id": "https://www.ndtv.com/world-news/iran-war-us-iran-made-a-lot-of-progress-towards-deal-says-jd-vance-11561820#publisher=newsstand",
+    "category": "india",
+    "title": "US, Iran Made \"A Lot Of Progress\" Towards Deal: JD Vance",
+    "summary": "The United States and Iran have made good progress towards a ceasefire extension deal but President Donald Trump is not yet ready to approve it, US Vice President JD Vance said Thursday.",
+    "image": "https://c.ndtvimg.com/2026-05/kvgbmefo_jd-vance_625x300_26_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 29 May 2026 03:56:51 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-us-iran-made-a-lot-of-progress-towards-deal-says-jd-vance-11561820#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-us-aircraft-destroyed-in-irans-bushehr-province-report-11561763#publisher=newsstand",
+    "category": "india",
+    "title": "US Aircraft Destroyed In Iran's Bushehr Province: Report",
+    "summary": "Iran's state TV said on early on Friday that a US aircraft was destroyed in Iran's Jam governorate in Bushehr.",
+    "image": "https://c.ndtvimg.com/2026-05/8nr1et08_iran-war_625x300_29_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 29 May 2026 02:57:46 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-us-aircraft-destroyed-in-irans-bushehr-province-report-11561763#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/us-markets/casino-giant-caesars-to-be-acquired-by-trump-ally-tilman-fertitta-for-17-6-billion-in-all-cash-transaction-11561466#publisher=newsstand",
     "category": "india",
     "title": "Casino Giant Caesars To Be Bought By Trump Ally And Houston Rockets Owner For $17.6 Billion",
@@ -358,26 +378,6 @@
     "source": "NDTV",
     "pubDate": "Fri, 29 May 2026 00:31:15 +0530",
     "link": "https://www.ndtv.com/world-news/us-iran-agree-on-deal-framework-awaiting-trump-approval-report-11561088#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/donald-trump-mixes-up-iran-and-venezuela-two-days-after-perfect-health-report-11561514#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Mixes Up Iran And Venezuela Two Days After 'Perfect' Health Report",
-    "summary": "Tuesday's appointment marked Trump's third visit to Walter Reed in the past 13 months",
-    "image": "https://c.ndtvimg.com/2025-03/jh0f2qmo_us-president-donald-trump_625x300_27_March_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 29 May 2026 00:17:19 +0530",
-    "link": "https://www.ndtv.com/world-news/donald-trump-mixes-up-iran-and-venezuela-two-days-after-perfect-health-report-11561514#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-investigates-woman-who-accused-trump-of-sexual-assault-report-11561513#publisher=newsstand",
-    "category": "india",
-    "title": "US Investigates Woman Who Accused Trump Of Sexual Assault: Report",
-    "summary": "The Justice Department is scrutinising a statement Carroll made in the course of the civil litigation.",
-    "image": "https://c.ndtvimg.com/2026-05/gddj55bk_trump_625x300_29_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 29 May 2026 00:17:15 +0530",
-    "link": "https://www.ndtv.com/world-news/us-investigates-woman-who-accused-trump-of-sexual-assault-report-11561513#publisher=newsstand"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
