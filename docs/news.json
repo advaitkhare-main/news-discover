@@ -1,35 +1,5 @@
 [
   {
-    "id": "https://www.bbc.com/news/articles/cwy20d5440go#0",
-    "category": "global",
-    "title": "Girl raped by teenage boys tells BBC: 'I'm scared I'm going to see them'",
-    "summary": "The teenager tells BBC Newsnight she is suffering from flashbacks and living in fear following the attack.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 27 May 2026 22:13:29 GMT",
-    "link": "https://www.bbc.com/news/articles/cwy20d5440go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1538548.html",
-    "category": "sports",
-    "title": "Andersson hits fifty, takes six wickets in Derbyshire romp",
-    "summary": "Leicestershire blown away after opting to chase as Donald, Andersson and Jewell hit their straps",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417500/417522.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 27 May 2026 21:45:18 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1538548.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1538531.html",
-    "category": "sports",
-    "title": "Harmanpreet: India looking for 'clarity' on best XI ahead of T20 World Cup",
-    "summary": "Hole left by absent allrounders could mean opportunities for Radha Yadav and Bharti Fulmani",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/407200/407281.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 27 May 2026 21:19:56 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1538531.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -60,164 +30,214 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/ashok-leyland-q4-results-net-profit-rises-14-to-rs-1291-crore-firm-announces-rs-2-5-interim-dividend/articleshow/131369826.cms",
-    "category": "finance",
-    "title": "Ashok Leyland Q4 Results: Net profit rises 14% to Rs 1,291 crore, firm announces Rs 2.5 interim dividend",
-    "summary": "Ashok Leyland reported a strong rise in fourth-quarter profit and revenue for FY26, driven by record commercial vehicle, export and light commercial vehicle volumes. The company also announced an interim dividend and highlighted growth across defence",
-    "image": "https://img.etimg.com/photo/msid-131369826,imgsize-32324.cms",
-    "source": "ET",
-    "pubDate": "Thu, 28 May 2026 17:20:25 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ashok-leyland-q4-results-net-profit-rises-14-to-rs-1291-crore-firm-announces-rs-2-5-interim-dividend/articleshow/131369826.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/4-things-you-can-learn-from-legendary-investor-warren-buffetts-lifestyle/articleshow/131369572.cms",
-    "category": "finance",
-    "title": "4 things you can learn from legendary investor Warren Buffett\u2019s lifestyle",
-    "summary": "Warren Buffett\u2019s simple lifestyle reflects his enduring financial philosophy focused on value, patience and discipline. From avoiding luxury spending to prioritising quality investments and protecting time, the Berkshire Hathaway veteran continues to",
-    "image": "https://img.etimg.com/photo/msid-131369572,imgsize-57788.cms",
-    "source": "ET",
-    "pubDate": "Thu, 28 May 2026 17:11:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/4-things-you-can-learn-from-legendary-investor-warren-buffetts-lifestyle/articleshow/131369572.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/karnataka-news/siddaramaiahs-answer-to-ndtv-on-whos-the-next-karnataka-chief-minister-11559498#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/us-iran-agree-on-deal-framework-awaiting-trump-approval-report-11561088#publisher=newsstand",
     "category": "india",
-    "title": "Siddaramaiah's Answer To NDTV On Who's The Next Karnataka Chief Minister",
-    "summary": "Karnataka Congress leaders DK Shivakumar and Siddaramaiah (ANI)",
-    "image": "https://c.ndtvimg.com/2026-05/ugbbhkf_siddaramaiah_625x300_28_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "US, Iran Agree On Deal Framework, Awaiting Trump Approval: Report",
+    "summary": "US, Iran Agree On Deal Framework, Awaiting Trump Approval: Report",
+    "image": "https://c.ndtvimg.com/2026-05/el4gfrdc_trump-mojtaba_625x300_11_May_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 28 May 2026 16:53:40 +0530",
-    "link": "https://www.ndtv.com/karnataka-news/siddaramaiahs-answer-to-ndtv-on-whos-the-next-karnataka-chief-minister-11559498#publisher=newsstand"
+    "pubDate": "Thu, 28 May 2026 22:10:47 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-agree-on-deal-framework-awaiting-trump-approval-report-11561088#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/aap-local-leader-shot-at-in-amritsar-admitted-to-hospital-11559605#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/ex-judge-giribala-singh-twisha-sharmas-mother-in-law-arrested-by-cbi-11559760#publisher=newsstand",
     "category": "india",
-    "title": "AAP Local Leader Shot At In Amritsar, Admitted To Hospital",
-    "summary": "Initial probe suggests that the motive behind the crime could be personal enmity.",
-    "image": "https://c.ndtvimg.com/2026-05/hpi5ec48_attack_625x300_28_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "title": "Ex-Judge Giribala Singh, Twisha Sharma's Mother-In-Law, Arrested By CBI",
+    "summary": "Ex-Judge Giribala Singh, Twisha Sharma's Mother-In-Law, Arrested By CBI",
+    "image": "https://c.ndtvimg.com/2026-05/ldoc4egg_twisha-sharma-case-a-fourth-person-was-in-her-mind-claims-motherinlaw-giribala-singh_625x300_19_May_26.jpg",
     "source": "NDTV",
-    "pubDate": "Thu, 28 May 2026 16:53:14 +0530",
-    "link": "https://www.ndtv.com/india-news/aap-local-leader-shot-at-in-amritsar-admitted-to-hospital-11559605#publisher=newsstand"
+    "pubDate": "Thu, 28 May 2026 22:08:00 +0530",
+    "link": "https://www.ndtv.com/india-news/ex-judge-giribala-singh-twisha-sharmas-mother-in-law-arrested-by-cbi-11559760#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/indians-abroad/australian-teacher-sunil-sharma-goes-missing-in-punjab-during-india-trip-police-probe-possible-kidnapping-11559447#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/inside-the-shadow-economy-riding-ipl-online-betting-networks-11560908#publisher=newsstand",
     "category": "india",
-    "title": "Australian Man Goes Missing In Punjab During India Trip, Police Probe Possible Kidnapping",
-    "summary": "Amritsar Rural Police registered a kidnapping and abduction case and launched an investigation.",
-    "image": "https://c.ndtvimg.com/2026-05/g3088s4c_sunil-sharma-_625x300_28_May_26.jpeg",
+    "title": "The Exact Method Illegal Online Betting Networks Use To Cash In On IPL",
+    "summary": "Betting platforms aggressively target users during IPL season",
+    "image": "https://c.ndtvimg.com/2026-05/ehqfp4v4_cricket-betting_625x300_28_May_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 28 May 2026 16:46:33 +0530",
-    "link": "https://www.ndtv.com/indians-abroad/australian-teacher-sunil-sharma-goes-missing-in-punjab-during-india-trip-police-probe-possible-kidnapping-11559447#publisher=newsstand"
+    "pubDate": "Thu, 28 May 2026 22:04:56 +0530",
+    "link": "https://www.ndtv.com/india-news/inside-the-shadow-economy-riding-ipl-online-betting-networks-11560908#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/high-command-wanted-me-to-go-to-rajya-sabha-i-said-no-siddaramaiah-11559407#publisher=newsstand",
+    "id": "https://www.ndtv.com/us-markets/new-york-lawmakers-pass-zohran-mamdani-s-pied-a-terre-tax-on-luxury-second-homes-11561028#publisher=newsstand",
     "category": "india",
-    "title": "\"High Command Wanted Me To Go To Rajya Sabha, I Said No\": Siddaramaiah",
-    "summary": "",
-    "image": "https://c.ndtvimg.com/2026-05/25vjltuc_siddaramaiah-dk-shivakumar-_650x400_28_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "title": "New York Passes Zohran Mamdani\u2019s \u2018Pied-A-Terre\u2019 Tax On Luxury Second Homes: Here Who Pays And How Much",
+    "summary": "The new tax on luxury second homes in NYC will take effect on July 1.",
+    "image": "https://c.ndtvimg.com/2025-06/70ureugk_zohran-mamdani-afp_625x300_30_June_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 28 May 2026 16:44:14 +0530",
-    "link": "https://www.ndtv.com/india-news/high-command-wanted-me-to-go-to-rajya-sabha-i-said-no-siddaramaiah-11559407#publisher=newsstand"
+    "pubDate": "Thu, 28 May 2026 21:59:52 +0530",
+    "link": "https://www.ndtv.com/us-markets/new-york-lawmakers-pass-zohran-mamdani-s-pied-a-terre-tax-on-luxury-second-homes-11561028#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/artificial-intelligence/google-deepmind-ceo-predicts-artificial-general-intelligence-in-three-to-four-years-amid-industry-debate-11559496#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/tvk-laps-up-more-aiadmk-dissidents-ministers-90-cadre-in-a-month-warning-11560947#publisher=newsstand",
     "category": "india",
-    "title": "AI Surpassing Humans Debate Heats Up As Google AI Boss Tightens Timeline",
-    "summary": "AI will eventually be better than all humans at everything, says OpenAI's Sam Altman",
-    "image": "https://c.ndtvimg.com/2026-05/9a4t942k_superhuman-ai_625x300_28_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "TVK Laps Up More AIADMK Dissidents, Minister's '90% Cadre In A Month' Warning",
+    "summary": "A TVK leader linked the exits to the period following former chief minister J Jayalalithaa's death.",
+    "image": "https://c.ndtvimg.com/2026-05/7r9soc5s_aiadmk_625x300_27_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 28 May 2026 16:39:58 +0530",
-    "link": "https://www.ndtv.com/artificial-intelligence/google-deepmind-ceo-predicts-artificial-general-intelligence-in-three-to-four-years-amid-industry-debate-11559496#publisher=newsstand"
+    "pubDate": "Thu, 28 May 2026 21:54:04 +0530",
+    "link": "https://www.ndtv.com/india-news/tvk-laps-up-more-aiadmk-dissidents-ministers-90-cadre-in-a-month-warning-11560947#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/siddaramaiah-announces-he-will-resign-at-breakfast-meeting-with-dk-shivakumar-11558047#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/retired-ias-officer-dies-in-delhi-house-fire-ac-blast-suspected-cops-11561020#publisher=newsstand",
     "category": "india",
-    "title": "\"High Command Asked\": Siddaramaiah Gets Emotional After Resigning",
-    "summary": "DK Shivakumar hugs Siddaramaiah, pays respect at breakfast meet.",
-    "image": "https://c.ndtvimg.com/2026-05/3vtuke8o_dk-shivakumar-hugs-touches-siddaramaiahs-feet_625x300_28_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Retired IAS Officer Dies In Delhi House Fire, AC Blast Suspected: Cops",
+    "summary": "Further investigation is in progress.",
+    "image": "https://c.ndtvimg.com/2024-06/olj5u4a8_police-generic-image_625x300_18_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 28 May 2026 16:35:06 +0530",
-    "link": "https://www.ndtv.com/india-news/siddaramaiah-announces-he-will-resign-at-breakfast-meeting-with-dk-shivakumar-11558047#publisher=newsstand"
+    "pubDate": "Thu, 28 May 2026 21:46:09 +0530",
+    "link": "https://www.ndtv.com/india-news/retired-ias-officer-dies-in-delhi-house-fire-ac-blast-suspected-cops-11561020#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/never-ever-north-korea-rejects-denuclearisation-push-by-quad-nations-11559495#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/inside-cbis-tunnel-view-mapping-of-twisha-sharmas-final-hours-11560348#publisher=newsstand",
     "category": "india",
-    "title": "\"Never Ever\": North Korea Rejects Denuclearisation Push By Quad Nations",
-    "summary": "North Korea's foreign ministry also accused the Quad of interfering in Pyongyang's sovereign affairs",
-    "image": "https://c.ndtvimg.com/2019-12/fclm347_north-korea-flag-reuters_625x300_21_December_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Inside CBI's \"Tunnel View\" Mapping Of Twisha Sharma's Final Hours",
+    "summary": "CBI team at Twisha Sharma's marital home in Bhopal",
+    "image": "https://c.ndtvimg.com/2026-05/fflofpno_twisha_650x400_28_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 28 May 2026 16:34:42 +0530",
-    "link": "https://www.ndtv.com/world-news/never-ever-north-korea-rejects-denuclearisation-push-by-quad-nations-11559495#publisher=newsstand"
+    "pubDate": "Thu, 28 May 2026 21:44:28 +0530",
+    "link": "https://www.ndtv.com/india-news/inside-cbis-tunnel-view-mapping-of-twisha-sharmas-final-hours-11560348#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/vellore-institute-of-technology-phase-3-counselling-2026-begins-know-how-to-fill-choices-11559489#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/trinamool-mp-accuses-colleague-of-misogyny-he-hits-back-with-probe-threat-11561008#publisher=newsstand",
     "category": "india",
-    "title": "Vellore Institute Of Technology Phase 3 Counselling 2026 Begins, Know How To Fill Choices",
-    "summary": "The Phase 3 counselling process will continue till 5 pm",
-    "image": "https://c.ndtvimg.com/2026-05/3669j0fo_viteee-2026-counselling-dates-out_625x300_09_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "title": "Trinamool MP Accuses Colleague Of Misogyny, He Hits Back With Probe Threat",
+    "summary": "\"Why now?\" Kalyan Banerjee asked about Kakoli Ghosh Dastidar's claims.",
+    "image": "https://c.ndtvimg.com/2026-05/qefvag_kalyan-banerjee-kakoli-ghosh-dastidar_625x300_28_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
     "source": "NDTV",
-    "pubDate": "Thu, 28 May 2026 16:33:59 +0530",
-    "link": "https://www.ndtv.com/education/vellore-institute-of-technology-phase-3-counselling-2026-begins-know-how-to-fill-choices-11559489#publisher=newsstand"
+    "pubDate": "Thu, 28 May 2026 21:41:50 +0530",
+    "link": "https://www.ndtv.com/india-news/trinamool-mp-accuses-colleague-of-misogyny-he-hits-back-with-probe-threat-11561008#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-jio-ipo-soon-mukesh-ambani-to-provide-update-on-4-bn-public-issue-at-upcoming-agm-says-report/articleshow/131368320.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/131373485.cms",
     "category": "finance",
-    "title": "Reliance Jio IPO soon? Mukesh Ambani to provide update on $4 bn public issue at upcoming AGM, says report",
-    "summary": "Mukesh Ambani is expected to share an update on Jio Platforms\u2019 anticipated IPO at Reliance Industries\u2019 June 19 AGM. Reports suggest Reliance is shifting towards a fresh issue structure to protect retail investors and strengthen Jio\u2019s long-term growth",
-    "image": "https://img.etimg.com/photo/msid-131368320,imgsize-1344973.cms",
+    "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
+    "summary": "Domestic equity benchmarks ended marginally lower for a second consecutive session as weakness in financial, IT and energy shares offset gains in auto stocks. Analysts expect Nifty to remain range-bound with immediate support near 23,800 and resistan",
+    "image": "https://img.etimg.com/photo/msid-131373485,imgsize-54790.cms",
     "source": "ET",
-    "pubDate": "Thu, 28 May 2026 16:10:31 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-jio-ipo-soon-mukesh-ambani-to-provide-update-on-4-bn-public-issue-at-upcoming-agm-says-report/articleshow/131368320.cms"
+    "pubDate": "Thu, 28 May 2026 21:16:50 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/131373485.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/mukesh-ambani-led-reliance-industries-contribution-to-national-exchequer-rises-to-rs-2-16-lakh-crore/articleshow/131368264.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/nebius-shares-jump-as-former-openai-employees-fund-buys-stake/articleshow/131373316.cms",
     "category": "finance",
-    "title": "Mukesh Ambani-led Reliance Industries' contribution to national exchequer rises to Rs 2.16 lakh crore",
-    "summary": "Reliance Industries\u2019 contribution to the national exchequer rose nearly 3% to Rs 2.16 lakh crore in FY26. The company said government payments formed the largest share of value created, while revenue, EBITDA and annual profit recorded strong year-on-",
-    "image": "https://img.etimg.com/photo/msid-131368264,imgsize-15236.cms",
+    "title": "Nebius shares jump as former OpenAI employee's fund buys stake",
+    "summary": "Situational \u200bAwareness managed $13.67 billion as \u2060of March 31, representing 148% growth \u200bfrom the end of 2025. \u200bIt is run by Aschenbrenner, who was previously part of the \"Superalignment\" team at OpenAI.",
+    "image": "https://img.etimg.com/photo/msid-131373316,imgsize-444840.cms",
     "source": "ET",
-    "pubDate": "Thu, 28 May 2026 16:07:01 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/mukesh-ambani-led-reliance-industries-contribution-to-national-exchequer-rises-to-rs-2-16-lakh-crore/articleshow/131368264.cms"
+    "pubDate": "Thu, 28 May 2026 21:02:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nebius-shares-jump-as-former-openai-employees-fund-buys-stake/articleshow/131373316.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-navigating-the-great-wealth-shift-in-an-uncertain-market-cycle/articleshow/131367793.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-europes-e6-states-seek-common-position-on-capital-market-supervision/articleshow/131372959.cms",
     "category": "finance",
-    "title": "ET Alpha Wealth Summit: Navigating the great wealth shift in an uncertain market cycle",
-    "summary": "The ET Alpha Summit in Mumbai brings together leading market voices to explore how investors should navigate expensive markets amid geopolitical uncertainty, inflation and volatility. The sessions focus on Saurabh Mukherjea\u2019s take on the disappearanc",
-    "image": "https://img.etimg.com/photo/msid-131367793,imgsize-3642374.cms",
+    "title": "Global Stocks: Europe's E6 states seek common position on capital market supervision",
+    "summary": "The ministers of Germany, France, Italy, Poland, Spain and the Netherlands are meeting in Berlin on \u200bThursday to discuss how to advance the capital \u2060markets union.",
+    "image": "https://img.etimg.com/photo/msid-131372959,imgsize-40988.cms",
     "source": "ET",
-    "pubDate": "Thu, 28 May 2026 15:46:40 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-navigating-the-great-wealth-shift-in-an-uncertain-market-cycle/articleshow/131367793.cms"
+    "pubDate": "Thu, 28 May 2026 20:31:24 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-europes-e6-states-seek-common-position-on-capital-market-supervision/articleshow/131372959.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/mukesh-ambani-draws-zero-salary-again-indias-richest-man-forgoes-paycheck-for-6th-straight-year/articleshow/131367620.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/apex-service-sells-minority-stake-to-apollo-at-10-billion-valuation-source-says/articleshow/131372103.cms",
     "category": "finance",
-    "title": "Mukesh Ambani draws zero salary again: India's richest man forgoes paycheck for 6th straight year",
-    "summary": "Reliance Industries Chairman Mukesh Ambani did not take any salary in FY26, continuing a six-year trend. Reliance reported strong annual revenue growth despite profit decline in Q4, while Ambani\u2019s children and senior executives received commissions a",
-    "image": "https://img.etimg.com/photo/msid-131367620,imgsize-26872.cms",
+    "title": "Apex Service sells minority stake to Apollo at $10 billion valuation, source says",
+    "summary": "In a \u200cstatement on Thursday, Apex said it will use \u200bthe funds to \u200bcontinue to expand its national footprint, deepen its multi-trade service \u2060offerings and advance its technology and talent infrastructure.",
+    "image": "https://img.etimg.com/photo/msid-131372103,imgsize-95078.cms",
     "source": "ET",
-    "pubDate": "Thu, 28 May 2026 15:30:12 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/mukesh-ambani-draws-zero-salary-again-indias-richest-man-forgoes-paycheck-for-6th-straight-year/articleshow/131367620.cms"
+    "pubDate": "Thu, 28 May 2026 19:46:10 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/apex-service-sells-minority-stake-to-apollo-at-10-billion-valuation-source-says/articleshow/131372103.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-investors-brace-for-70-lock-in-expiries-worth-35-billion-in-three-months-do-you-own-any/articleshow/131367185.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-williams-productivity-shifts-hard-to-spot-in-real-time/articleshow/131372047.cms",
     "category": "finance",
-    "title": "IPO investors brace for 70 lock-in expiries worth $35 billion in three months. Do you own any?",
-    "summary": "According to Nuvama Alternative &amp; Quantitative Research, the Indian stock market is set to witness a significant wave of lock-in expiries between May 26 and August 31, as shares of 70 recently listed companies worth nearly $35 billion become elig",
-    "image": "https://img.etimg.com/photo/msid-131367185,imgsize-50108.cms",
+    "title": "Fed's Williams: Productivity shifts hard to spot in real time",
+    "summary": "Williams did not comment on the near-term monetary \u200bpolicy and economic \u200boutlook in \u2060his prepared remarks.",
+    "image": "https://img.etimg.com/photo/msid-131372047,imgsize-84742.cms",
     "source": "ET",
-    "pubDate": "Thu, 28 May 2026 15:20:38 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-investors-brace-for-70-lock-in-expiries-worth-35-billion-in-three-months-do-you-own-any/articleshow/131367185.cms"
+    "pubDate": "Thu, 28 May 2026 19:35:06 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-williams-productivity-shifts-hard-to-spot-in-real-time/articleshow/131372047.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/gp-petroleums-q4-profit-rises-8/articleshow/131366674.cms",
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ashiana-housing-q4-profit-flat-at-rs-21-cr-revenue-rises-to-rs-335-cr/articleshow/131371930.cms",
     "category": "finance",
-    "title": "GP Petroleums Q4 profit rises 8%",
-    "summary": "GP Petroleums reported an 8% year-on-year profit increase in the fourth quarter, driven by improved operating margins despite a revenue decline due to volatile market conditions. For the full fiscal year 2025-26, the company saw a 5% revenue growth a",
-    "image": "https://img.etimg.com/photo/msid-131366674,imgsize-159028.cms",
+    "title": "Ashiana Housing Q4 profit flat at Rs 21 cr, revenue rises to Rs 335 cr",
+    "summary": "During FY26, the company's net profit surged to Rs 117.89 crore from Rs 18.24 crore in the preceding year. Total income increased to Rs 1,187.47 crore against Rs 557.45 crore in FY25.",
+    "image": "https://img.etimg.com/photo/msid-131371930,imgsize-34510.cms",
     "source": "ET",
-    "pubDate": "Thu, 28 May 2026 14:29:31 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/gp-petroleums-q4-profit-rises-8/articleshow/131366674.cms"
+    "pubDate": "Thu, 28 May 2026 19:30:48 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ashiana-housing-q4-profit-flat-at-rs-21-cr-revenue-rises-to-rs-335-cr/articleshow/131371930.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/northwind-estates-buys-5acre-land-in-yamuna-expressway-region-for-rs-189-cr-via-auction/articleshow/131371905.cms",
+    "category": "finance",
+    "title": "NorthWind Estates buys 5acre land in Yamuna Expressway region for Rs 189 cr via auction",
+    "summary": "The company in a statement said that it has emerged as the highest bidder in a recent auction conducted by the Yamuna Expressway Industrial Development Authority (YEIDA).",
+    "image": "https://img.etimg.com/photo/msid-131371905,imgsize-29210.cms",
+    "source": "ET",
+    "pubDate": "Thu, 28 May 2026 19:28:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/northwind-estates-buys-5acre-land-in-yamuna-expressway-region-for-rs-189-cr-via-auction/articleshow/131371905.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/lic-looks-to-improve-return-from-real-estates-to-explore-option-of-separate-subsidiary/articleshow/131371885.cms",
+    "category": "finance",
+    "title": "LIC looks to improve return from real estates, to explore option of separate subsidiary",
+    "summary": "In the recent past, he said LIC has initiated a comprehensive review of its real estate portfolio to assess the returns and yields it generates, and to identify opportunities for further optimisation and improvement.",
+    "image": "https://img.etimg.com/photo/msid-131371885,imgsize-43960.cms",
+    "source": "ET",
+    "pubDate": "Thu, 28 May 2026 19:25:47 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/lic-looks-to-improve-return-from-real-estates-to-explore-option-of-separate-subsidiary/articleshow/131371885.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0r2ydlvk41o#0",
+    "category": "global",
+    "title": "Learning from Ukraine, Hezbollah is now using fibre-optic drones to hit Israel",
+    "summary": "Fibre-optic drones are now Hezbollah's primary weapon against Israel's soldiers and civilians.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 28 May 2026 16:39:30 GMT",
+    "link": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1538664.html",
+    "category": "sports",
+    "title": "Munisar replaces Brathwaite as West Indies name T20 World Cup squad",
+    "summary": "The same squad will face Ireland and Pakistan in a tri-nation T20I series, which got underway on May 28",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/401300/401391.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 28 May 2026 16:31:33 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1538664.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1538663.html",
+    "category": "sports",
+    "title": "Fraser and Carter fifties, Gordon three-for help Scotland ease past Netherlands",
+    "summary": "Scotland restricted Netherlands to 141, before chasing the target down with nine wickets to spare",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/388700/388738.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 28 May 2026 16:15:30 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1538663.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1538651.html",
+    "category": "sports",
+    "title": "RR ride on teen steam against steady GT with final in sight",
+    "summary": "GT are coming off a big defeat in Qualifier 1 but will fancy their chances against RR in hopes of making it to a home final",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417300/417314.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 28 May 2026 16:03:10 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1538651.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/czx2qll4rlyo#0",
+    "category": "global",
+    "title": "'I've applied for more than 400 roles' - how young people are facing the job shortage",
+    "summary": "The BBC has been hearing from young people who are struggling to find work about how they are tackling the challenge.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 28 May 2026 15:56:03 GMT",
+    "link": "https://www.bbc.com/news/articles/czx2qll4rlyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c98r2qy5809o#0",
@@ -226,28 +246,58 @@
     "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 28 May 2026 11:52:10 GMT",
+    "pubDate": "Thu, 28 May 2026 15:53:05 GMT",
     "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cj3pgrpmlklo#0",
+    "id": "https://www.bbc.com/news/articles/cvgzjg778jyo#0",
     "category": "global",
-    "title": "Israel strikes Beirut and southern Lebanon after large-scale evacuation orders",
-    "summary": "The Israeli military has ordered Lebanese residents to leave some 17% of the country's territory.",
+    "title": "Starmer defends policy decisions as he hits back at Blair",
+    "summary": "Former Labour PM Sir Tony Blair has accused the government of having \"no coherent plan\" for the country.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 28 May 2026 11:31:59 GMT",
-    "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 28 May 2026 15:35:17 GMT",
+    "link": "https://www.bbc.com/news/articles/cvgzjg778jyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cy026x9jpd0o#0",
+    "category": "global",
+    "title": "Opportunities shrinking for too many young people, says major report on 'lost generation'",
+    "summary": "A report warns the number of 16 to 24-year-olds out of work, education or training set to rise to 1.25 million by 2031.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 28 May 2026 15:09:57 GMT",
+    "link": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cn0p7j3lwepo#0",
     "category": "global",
-    "title": "Teenager is 10th person to die in water during heatwave",
-    "summary": "A body of a male teenager is recovered from water in Kent following a major search in Swanscombe.",
+    "title": "Two more boys die in latest heatwave water deaths",
+    "summary": "The body of a boy is recovered from a pond in Kent, while another teen dies in the River Thames in Oxford.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 28 May 2026 11:14:44 GMT",
+    "pubDate": "Thu, 28 May 2026 15:02:05 GMT",
     "link": "https://www.bbc.com/news/articles/cn0p7j3lwepo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cze29764067o#0",
+    "category": "global",
+    "title": "Are US and Iran close to peace or sliding back to war?",
+    "summary": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 28 May 2026 14:42:27 GMT",
+    "link": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1538531.html",
+    "category": "sports",
+    "title": "Harmanpreet: India looking for 'clarity' on best XI ahead of T20 World Cup",
+    "summary": "Hole left by absent allrounders could mean opportunities for Radha Yadav and Bharti Fulmali",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/407200/407281.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 28 May 2026 12:40:10 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1538531.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cn0pvxe5jgzo#0",
@@ -258,36 +308,6 @@
     "source": "BBC",
     "pubDate": "Thu, 28 May 2026 11:00:15 GMT",
     "link": "https://www.bbc.com/news/articles/cn0pvxe5jgzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn7p1dg6j41o#0",
-    "category": "global",
-    "title": "An unhealthy focus on sex - Married at First Sight UK insiders on show's 'toxic' culture",
-    "summary": "Fresh revelations come after two women told the BBC they had been raped on the Channel 4 reality show.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 28 May 2026 10:56:55 GMT",
-    "link": "https://www.bbc.com/news/articles/cn7p1dg6j41o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/clyp77jd407o#0",
-    "category": "global",
-    "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say",
-    "summary": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 28 May 2026 10:15:03 GMT",
-    "link": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1538552.html",
-    "category": "sports",
-    "title": "Sooryavanshi's 97 off 29 knocks SRH out",
-    "summary": "Jofra Archer's three early wickets seal Rajasthan Royals' progress into Qualifier 2 to face Gujarat Titans",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417500/417504.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 28 May 2026 07:35:03 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1538552.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1538593.html",
@@ -328,26 +348,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 28 May 2026 06:51:57 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1538572.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cr5pp1m6z06o#0",
-    "category": "global",
-    "title": "The \u00a35 coffee that tells a story of global economic turmoil",
-    "summary": "Coffees at some city centre outlets now cost \u00a35. It's a story of tariffs, the climate, Gen Z cultural tastes, and savvy coffee farmers playing the market, writes Faisal Islam",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 28 May 2026 06:44:47 GMT",
-    "link": "https://www.bbc.com/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1538490.html",
-    "category": "sports",
-    "title": "Ravindra and Blundell tons lead New Zealand revival",
-    "summary": "Ireland had the visitors at 86 for 4 in Dublin but struggled to push their advantage forward",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417500/417509.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 28 May 2026 01:55:51 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1538490.html?ex_cid=OTC-RSS"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
