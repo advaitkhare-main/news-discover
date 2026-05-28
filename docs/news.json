@@ -30,26 +30,6 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://www.ndtv.com/india-news/terrorists-still-holed-up-in-j-ks-rajouri-troops-fire-at-suspected-hideouts-11561420#publisher=newsstand",
-    "category": "india",
-    "title": "Terrorists Still Holed Up In J&K's Rajouri, Troops Fire At Suspected Hideouts",
-    "summary": "The forces have also tightened the cordon around the locations.",
-    "image": "https://c.ndtvimg.com/2026-05/llt33tjo_j-and-k_625x300_28_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 28 May 2026 23:47:21 +0530",
-    "link": "https://www.ndtv.com/india-news/terrorists-still-holed-up-in-j-ks-rajouri-troops-fire-at-suspected-hideouts-11561420#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/mob-attacks-woman-over-witchcraft-rumour-husband-dies-while-saving-her-11561443#publisher=newsstand",
-    "category": "india",
-    "title": "Mob Attacks Woman Over Witchcraft Rumour, Husband Dies While Saving Her",
-    "summary": ". The suspects booked by the police include eight men and four women.",
-    "image": "https://c.ndtvimg.com/2026-05/uk016gp4_gujarat-mob_625x300_28_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Thu, 28 May 2026 23:46:40 +0530",
-    "link": "https://www.ndtv.com/india-news/mob-attacks-woman-over-witchcraft-rumour-husband-dies-while-saving-her-11561443#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-pushes-to-more-records-as-profits-keep-piling-up-for-us-companies/articleshow/131375475.cms",
     "category": "finance",
     "title": "Wall Street pushes to more records as profits keep piling up for US companies",
@@ -60,6 +40,16 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-pushes-to-more-records-as-profits-keep-piling-up-for-us-companies/articleshow/131375475.cms"
   },
   {
+    "id": "https://www.espncricinfo.com/ci/content/story/1538676.html",
+    "category": "sports",
+    "title": "Rodrigues, Yastika, Nandani star as India secure first blood",
+    "summary": "Jones stands alone as error-strewn England crumble in run-chase",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417500/417548.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 28 May 2026 21:31:18 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1538676.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/131373485.cms",
     "category": "finance",
     "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
@@ -68,6 +58,16 @@
     "source": "ET",
     "pubDate": "Thu, 28 May 2026 21:16:50 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/131373485.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cgrp7y05l9do#0",
+    "category": "global",
+    "title": "Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna",
+    "summary": "A 21-year-old Austrian man is found guilty of planning the attack and other terrorism-related offences.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 28 May 2026 21:07:46 GMT",
+    "link": "https://www.bbc.com/news/articles/cgrp7y05l9do?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/nebius-shares-jump-as-former-openai-employees-fund-buys-stake/articleshow/131373316.cms",
@@ -90,6 +90,16 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-europes-e6-states-seek-common-position-on-capital-market-supervision/articleshow/131372959.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c87qng40wz9o#0",
+    "category": "global",
+    "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
+    "summary": "But there has been conflicting information from Tehran, with one news agency reporting that no deal has been finalised or confirmed.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 28 May 2026 20:28:12 GMT",
+    "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/apex-service-sells-minority-stake-to-apollo-at-10-billion-valuation-source-says/articleshow/131372103.cms",
     "category": "finance",
     "title": "Apex Service sells minority stake to Apollo at $10 billion valuation, source says",
@@ -98,36 +108,6 @@
     "source": "ET",
     "pubDate": "Thu, 28 May 2026 19:46:10 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/apex-service-sells-minority-stake-to-apollo-at-10-billion-valuation-source-says/articleshow/131372103.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-williams-productivity-shifts-hard-to-spot-in-real-time/articleshow/131372047.cms",
-    "category": "finance",
-    "title": "Fed's Williams: Productivity shifts hard to spot in real time",
-    "summary": "Williams did not comment on the near-term monetary \u200bpolicy and economic \u200boutlook in \u2060his prepared remarks.",
-    "image": "https://img.etimg.com/photo/msid-131372047,imgsize-84742.cms",
-    "source": "ET",
-    "pubDate": "Thu, 28 May 2026 19:35:06 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-williams-productivity-shifts-hard-to-spot-in-real-time/articleshow/131372047.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ashiana-housing-q4-profit-flat-at-rs-21-cr-revenue-rises-to-rs-335-cr/articleshow/131371930.cms",
-    "category": "finance",
-    "title": "Ashiana Housing Q4 profit flat at Rs 21 cr, revenue rises to Rs 335 cr",
-    "summary": "During FY26, the company's net profit surged to Rs 117.89 crore from Rs 18.24 crore in the preceding year. Total income increased to Rs 1,187.47 crore against Rs 557.45 crore in FY25.",
-    "image": "https://img.etimg.com/photo/msid-131371930,imgsize-34510.cms",
-    "source": "ET",
-    "pubDate": "Thu, 28 May 2026 19:30:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ashiana-housing-q4-profit-flat-at-rs-21-cr-revenue-rises-to-rs-335-cr/articleshow/131371930.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c87qng40wz9o#0",
-    "category": "global",
-    "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
-    "summary": "The framework, which has yet to be approved by President Trump, would extend the ceasefire and launch nuclear talks.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 28 May 2026 18:57:04 GMT",
-    "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cvgzjg778jyo#0",
@@ -150,19 +130,9 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1538681.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1538676.html",
-    "category": "sports",
-    "title": "England bowl and hand debut to Corteen-Coleman; Harmanpreet rested",
-    "summary": "Mandhana was leading India while England brought Bell back into the XI",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417300/417361.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 28 May 2026 18:11:51 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1538676.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cpdp3d8792no#0",
     "category": "global",
-    "title": "Sturgeon says she was deceived and betrayed by estranged husband over SNP embezzlement",
+    "title": "Sturgeon says estranged husband betrayed and deceived her about embezzling SNP money",
     "summary": "The former first minister said she was \"coming to terms with being married to someone she did not know\" after Peter Murrell's guilty plea.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -188,16 +158,6 @@
     "source": "BBC",
     "pubDate": "Thu, 28 May 2026 17:04:30 GMT",
     "link": "https://www.bbc.com/news/articles/cn0p7j3lwepo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cze29764067o#0",
-    "category": "global",
-    "title": "Are US and Iran close to peace or sliding back to war?",
-    "summary": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 28 May 2026 16:56:19 GMT",
-    "link": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1538664.html",
@@ -310,6 +270,76 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
+    "id": "https://www.ndtv.com/us-markets/casino-giant-caesars-to-be-acquired-by-trump-ally-tilman-fertitta-for-17-6-billion-in-all-cash-transaction-11561466#publisher=newsstand",
+    "category": "india",
+    "title": "Casino Giant Caesars To Be Bought By Trump Ally And Houston Rockets Owner For $17.6 Billion",
+    "summary": "Caesars Entertainment's properties include Caesars Palace.",
+    "image": "https://c.ndtvimg.com/2026-05/kjt2o4ag_caesars-palace_625x300_28_May_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 29 May 2026 02:39:47 +0530",
+    "link": "https://www.ndtv.com/us-markets/casino-giant-caesars-to-be-acquired-by-trump-ally-tilman-fertitta-for-17-6-billion-in-all-cash-transaction-11561466#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/us-markets/california-texas-top-list-of-overpriced-housing-markets-11561454#publisher=newsstand",
+    "category": "india",
+    "title": "Planning To Buy A Home In US? These Housing Markets May Be Heavily Overpriced",
+    "summary": "The largest gap in pricing was found in Santa Maria, California.",
+    "image": "https://c.ndtvimg.com/2026-05/a2keeijg_as_625x300_05_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 29 May 2026 02:31:58 +0530",
+    "link": "https://www.ndtv.com/us-markets/california-texas-top-list-of-overpriced-housing-markets-11561454#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/case-filed-against-rajasthan-minister-gautam-dak-for-abusing-cops-11561727#publisher=newsstand",
+    "category": "india",
+    "title": "Case Filed Against Rajasthan Minister Gautam Dak For Abusing Cops",
+    "summary": "The FIR alleged that the minister also attempted to assault them by raising his hand.",
+    "image": "https://c.ndtvimg.com/2026-05/cgdjvjtk_gautam-dak_625x300_29_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 29 May 2026 02:25:21 +0530",
+    "link": "https://www.ndtv.com/india-news/case-filed-against-rajasthan-minister-gautam-dak-for-abusing-cops-11561727#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/austrian-man-jailed-15-years-for-plotting-attack-on-taylor-swift-concert-11561639#publisher=newsstand",
+    "category": "india",
+    "title": "Austrian Man Jailed 15 Years For Plotting Attack On Taylor Swift Concert",
+    "summary": "The accused admitted planning an Islamist attack on a Taylor Swift concert in Vienna in 2024.",
+    "image": "https://c.ndtvimg.com/2026-05/ipfhcpn4_taylor-swift-concert_625x300_29_May_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 29 May 2026 02:08:02 +0530",
+    "link": "https://www.ndtv.com/world-news/austrian-man-jailed-15-years-for-plotting-attack-on-taylor-swift-concert-11561639#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-and-nasdaq-hit-record-closing-highs-as-us-and-iran-agree-to-extend-ceasefire/articleshow/131377655.cms",
+    "category": "finance",
+    "title": "US stocks today: S&amp;P 500 and Nasdaq hit record closing highs as US and Iran agree to extend ceasefire",
+    "summary": "The S&amp;P 500 and Nasdaq hit record closing highs as hopes of a US Iran ceasefire extension boosted sentiment. Investors also digested US inflation rising to a three-year high and weaker GDP revision. AI and tech stocks led gains, with Microsoft, S",
+    "image": "https://img.etimg.com/photo/msid-131377655,imgsize-100870.cms",
+    "source": "ET",
+    "pubDate": "Fri, 29 May 2026 01:35:10 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-and-nasdaq-hit-record-closing-highs-as-us-and-iran-agree-to-extend-ceasefire/articleshow/131377655.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-us-threatens-to-sanction-ally-oman-over-hormuz-tolls-11561599#publisher=newsstand",
+    "category": "india",
+    "title": "\"Won't Tolerate\": US Threatens To Sanction Ally Oman Over Hormuz Tolls",
+    "summary": "Scott Bessent said US would \"not tolerate any effort to impose a tolling system in the Strait of Hormuz.",
+    "image": "https://c.ndtvimg.com/2026-04/8ukb16tc_scott-bessent_625x300_28_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Fri, 29 May 2026 01:14:40 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-us-threatens-to-sanction-ally-oman-over-hormuz-tolls-11561599#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-rebounds-after-iran-and-us-reach-outline-ceasefire-deal/articleshow/131377529.cms",
+    "category": "finance",
+    "title": "Gold rebounds after Iran and US reach outline ceasefire deal",
+    "summary": "Thursday saw a resurgence in gold prices, which jumped more than one percent as they bounced back from a two-month low. This recovery was fueled by the hopeful prospects of an extended ceasefire agreement between the United States and Iran. As the U.",
+    "image": "https://img.etimg.com/photo/msid-131377529,imgsize-59028.cms",
+    "source": "ET",
+    "pubDate": "Fri, 29 May 2026 01:08:08 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-rebounds-after-iran-and-us-reach-outline-ceasefire-deal/articleshow/131377529.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/trumps-face-could-appear-on-us-250-bill/articleshow/131377333.cms",
     "category": "finance",
     "title": "Trump's face could appear on US $250 bill",
@@ -348,36 +378,6 @@
     "source": "NDTV",
     "pubDate": "Fri, 29 May 2026 00:17:15 +0530",
     "link": "https://www.ndtv.com/world-news/us-investigates-woman-who-accused-trump-of-sexual-assault-report-11561513#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/weather-today-live-updates-may-28-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-heatwave-updates-delhi-may-get-relief-as-imd-predicts-rain-storms-11557402#publisher=newsstand",
-    "category": "india",
-    "title": "Weather Today Highlights: Strong Dust Storm, Rains Likely In Delhi Shortly, Says Weatherman",
-    "summary": "Weather Updates Today, Heatwave, IMD Alert LIVE Updates: Light to very light rain is expected during the afternoon and evening, accompanied by strong winds and squalls reaching speeds of 50-60 kmph.",
-    "image": "https://c.ndtvimg.com/2026-05/9egpt1p_delhi-weather_625x300_28_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 29 May 2026 00:13:40 +0530",
-    "link": "https://www.ndtv.com/india-news/weather-today-live-updates-may-28-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-heatwave-updates-delhi-may-get-relief-as-imd-predicts-rain-storms-11557402#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/bjps-social-engineering-in-punjab-jat-sikh-face-hindu-connect-dalit-outreach-11561471#publisher=newsstand",
-    "category": "india",
-    "title": "BJP's Social Engineering In Punjab: Jat Sikh Face, Hindu Connect, Dalit Outreach",
-    "summary": "Sardar Kewal Singh Dhillon, the BJP president in Punjab.",
-    "image": "https://c.ndtvimg.com/2026-05/06h7aku4_new-_625x300_29_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 29 May 2026 00:08:46 +0530",
-    "link": "https://www.ndtv.com/india-news/bjps-social-engineering-in-punjab-jat-sikh-face-hindu-connect-dalit-outreach-11561471#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/terrorist-attack-man-stabs-wounds-3-at-swiss-train-station-11561501#publisher=newsstand",
-    "category": "india",
-    "title": "\"Terrorist Attack\": Man Stabs, Wounds 3 At Swiss Train Station",
-    "summary": "The man, identified as Nesip Dedeler, had been wielding a knife and had injured three men.",
-    "image": "https://c.ndtvimg.com/2026-05/i980ff6o_switzerland-stabbing_625x300_28_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Fri, 29 May 2026 00:05:02 +0530",
-    "link": "https://www.ndtv.com/world-news/terrorist-attack-man-stabs-wounds-3-at-swiss-train-station-11561501#publisher=newsstand"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
