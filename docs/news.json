@@ -30,6 +30,26 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://www.ndtv.com/delhi-news/17-year-old-boy-stabbed-to-death-in-delhi-probe-on-cops-11578067#publisher=newsstand",
+    "category": "india",
+    "title": "17-Year-Old Boy Stabbed To Death In Delhi, Probe On: Cops",
+    "summary": "police said that a stabbing incident was reported at New Usmanpur police station. (Representational)",
+    "image": "https://c.ndtvimg.com/2024-02/80ef0ba_delhi-police-generic_625x300_04_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 02 Jun 2026 04:14:24 +0530",
+    "link": "https://www.ndtv.com/delhi-news/17-year-old-boy-stabbed-to-death-in-delhi-probe-on-cops-11578067#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/donald-trumps-eternity-hope-for-israel-and-iran-backed-hezbollah-hezbollah-11578060#publisher=newsstand",
+    "category": "india",
+    "title": "Trump's \"Eternity\" Hope For Israel And Iran-Backed Hezbollah",
+    "summary": "Trump said on his Truth Social network that Hezbollah had \"agreed to stop shooting at Israel.",
+    "image": "https://c.ndtvimg.com/2025-12/5p1emn5c_donald-trump-afp_625x300_04_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "source": "NDTV",
+    "pubDate": "Tue, 02 Jun 2026 04:04:13 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trumps-eternity-hope-for-israel-and-iran-backed-hezbollah-hezbollah-11578060#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/uapa-accused-madhesh-shankar-gets-bail-after-nearly-5-years-in-custody-11577993#publisher=newsstand",
     "category": "india",
     "title": "UAPA Accused Gets Bail After Nearly 5 Years In Custody",
@@ -130,26 +150,6 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-live-updates-iran-to-revise-deal-draft-after-us-changes-us-iran-peace-proposal-iran-nuclear-programme-israel-lebanon-latest-news-11573481#publisher=newsstand",
-    "category": "india",
-    "title": "US-Iran War Live Updates: Iran Says Suspending US Talks, Trump Claims The Opposite",
-    "summary": "US-Iran war live updates: The remark by Mohammad Bagher Ghalibaf came as reports suggested US President Donald Trump has sent back a revised, tougher peace proposal",
-    "image": "https://c.ndtvimg.com/2026-03/7uiru26s_trump-iran-plan_625x300_07_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 01 Jun 2026 23:40:11 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-live-updates-iran-to-revise-deal-draft-after-us-changes-us-iran-peace-proposal-iran-nuclear-programme-israel-lebanon-latest-news-11573481#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/ipl-betting-racket-busted-in-guwahati-during-final-8-arrested-11577676#publisher=newsstand",
-    "category": "india",
-    "title": "IPL Betting Racket Busted In Guwahati During Final, 8 Arrested",
-    "summary": "Eight people were arrested, including the mastermind.",
-    "image": "https://c.ndtvimg.com/2020-01/7qbdof68_assam-police-generic-pti-_625x300_26_January_20.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-    "source": "NDTV",
-    "pubDate": "Mon, 01 Jun 2026 23:36:24 +0530",
-    "link": "https://www.ndtv.com/india-news/ipl-betting-racket-busted-in-guwahati-during-final-8-arrested-11577676#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-reserves-up-to-5-of-ipo-stock-for-staff-and-friends/articleshow/131447453.cms",
     "category": "finance",
     "title": "SpaceX reserves up to 5% of IPO stock for staff and friends",
@@ -158,6 +158,16 @@
     "source": "ET",
     "pubDate": "Mon, 01 Jun 2026 22:59:16 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-reserves-up-to-5-of-ipo-stock-for-staff-and-friends/articleshow/131447453.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c1d2w411rgro#0",
+    "category": "global",
+    "title": "Weapons\u2011obsessed killer jailed as body cam footage shows victim being handcuffed",
+    "summary": "University student Henry Nowak was killed as he walked back from a night out in Southampton.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 01 Jun 2026 22:54:03 GMT",
+    "link": "https://www.bbc.com/news/articles/c1d2w411rgro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-giant-anthropic-confidentially-files-for-us-ipo/articleshow/131446257.cms",
@@ -170,6 +180,16 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-giant-anthropic-confidentially-files-for-us-ipo/articleshow/131446257.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cedp3lee059o#0",
+    "category": "global",
+    "title": "Jeremy Bowen: Trump needs this war to end but Iran is not backing down",
+    "summary": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 01 Jun 2026 21:50:52 GMT",
+    "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c202rxp1z15o#0",
     "category": "global",
     "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
@@ -178,16 +198,6 @@
     "source": "BBC",
     "pubDate": "Mon, 01 Jun 2026 21:27:01 GMT",
     "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c1d2w411rgro#0",
-    "category": "global",
-    "title": "Weapons-obsessed killer jailed for student's murder",
-    "summary": "University student Henry Nowak was killed as he walked back from a night out in Southampton.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 01 Jun 2026 21:18:08 GMT",
-    "link": "https://www.bbc.com/news/articles/c1d2w411rgro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/131445875.cms",
@@ -320,26 +330,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1539197.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cr7pk4my954o#0",
-    "category": "global",
-    "title": "Big salaries, a motorhome and SNP accounts: The Nicola Sturgeon interview",
-    "summary": "We give some of the background to key quotes from the interview with the BBC's Laura Kuenssberg.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 01 Jun 2026 15:29:32 GMT",
-    "link": "https://www.bbc.com/news/articles/cr7pk4my954o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cedp3lee059o#0",
-    "category": "global",
-    "title": "Jeremy Bowen: Trump needs this war to end but Iran is not backing down",
-    "summary": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 01 Jun 2026 15:25:54 GMT",
-    "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1539177.html",
     "category": "sports",
     "title": "Women's Champions Trophy 2027 moved from June to February",
@@ -358,6 +348,16 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 01 Jun 2026 13:34:09 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1539175.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0723zgdp0eo#0",
+    "category": "global",
+    "title": "Rosamund Pike calls out audience member for texting during show",
+    "summary": "'You know who you are,' declared the actress, at the end of her West End performance in Inter Alia.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 01 Jun 2026 13:13:19 GMT",
+    "link": "https://www.bbc.com/news/articles/c0723zgdp0eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1539160.html",
