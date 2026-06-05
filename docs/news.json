@@ -40,14 +40,64 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/crrpggegwe0o#0",
-    "category": "global",
-    "title": "World-first vaccine designed by AI could protect against whole families of viruses",
-    "summary": "Cambridge scientists say they have, for the first time, tested a vaccine designed by AI.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 04 Jun 2026 23:29:06 GMT",
-    "link": "https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&at_campaign=rss"
+    "id": "https://www.ndtv.com/world-news/us-iran-war-live-high-risk-iran-mission-for-uranium-donald-trump-considered-then-walked-away-from-11597923#publisher=newsstand",
+    "category": "india",
+    "title": "High-Risk Iran Mission For Uranium Trump Considered, Then Walked Away From",
+    "summary": "Trump suggested the United States still has the capability to carry out such an operation",
+    "image": "https://c.ndtvimg.com/2026-03/ehuqon2c_trump-afp_625x300_24_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 06 Jun 2026 00:16:52 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-live-high-risk-iran-mission-for-uranium-donald-trump-considered-then-walked-away-from-11597923#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/weather-live-updates-imd-weather-forecast-delhi-ncr-kerala-monsoon-southwest-monsoon-heavy-to-very-heavy-rainfall-likely-over-kerala-karnataka-11593532#publisher=newsstand",
+    "category": "india",
+    "title": "Weather  Highlights: Heavy To Very Heavy Rainfall Likely Over Kerala, Karnataka",
+    "summary": "Conditions are favourable for further advancement of southwest monsoon.",
+    "image": "https://c.ndtvimg.com/2026-06/ki7roo2c_monsoon-2026_625x300_03_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 06 Jun 2026 00:14:00 +0530",
+    "link": "https://www.ndtv.com/india-news/weather-live-updates-imd-weather-forecast-delhi-ncr-kerala-monsoon-southwest-monsoon-heavy-to-very-heavy-rainfall-likely-over-kerala-karnataka-11593532#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/former-tamil-nadu-bjp-chief-annamalai-resignation-live-updates-k-annamalai-resigns-from-bjp-says-will-contest-elections-pm-modi-tamil-nadu-politics-11594596#publisher=newsstand",
+    "category": "india",
+    "title": "Annamalai Resignation Highlights: \"A New Path, A New Political Movement\": K Annamalai After BJP Exit",
+    "summary": "Annamalai Resignation Live Updates: Annamalai travelled to Delhi to meet with party leadership amid speculation about his potential resignation and plans to establish a new political party.",
+    "image": "https://c.ndtvimg.com/2026-06/uqf6cqr4_annamalai_625x300_05_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 06 Jun 2026 00:13:47 +0530",
+    "link": "https://www.ndtv.com/india-news/former-tamil-nadu-bjp-chief-annamalai-resignation-live-updates-k-annamalai-resigns-from-bjp-says-will-contest-elections-pm-modi-tamil-nadu-politics-11594596#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/will-trinamool-congress-mlas-fall-in-line-meeting-at-mamata-banerjees-house-today-11596062#publisher=newsstand",
+    "category": "india",
+    "title": "Only 8 MLAs, 6 MPs At Mamata Banerjee's Home For Key Meet. Party Clarifies",
+    "summary": "The rebellion started days after the Trinamool badly lost the elections to the BJP.",
+    "image": "https://c.ndtvimg.com/2026-03/6nplkae4_mamata-abhishek_625x300_28_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 06 Jun 2026 00:11:53 +0530",
+    "link": "https://www.ndtv.com/india-news/will-trinamool-congress-mlas-fall-in-line-meeting-at-mamata-banerjees-house-today-11596062#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/in-who-is-real-trinamool-fight-pushback-planned-against-ritabrata-banerjee-11597672#publisher=newsstand",
+    "category": "india",
+    "title": "In Who-Is-Real-Trinamool Fight, Pushback Planned Against Ritabrata Banerjee",
+    "summary": "Ritabrata Banerjee has urged Mamata Banerjee to become the chief adviser of the rebels.",
+    "image": "https://c.ndtvimg.com/2026-06/1l0erfoc_ritabrata-banerjee_625x300_03_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 06 Jun 2026 00:09:32 +0530",
+    "link": "https://www.ndtv.com/india-news/in-who-is-real-trinamool-fight-pushback-planned-against-ritabrata-banerjee-11597672#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/inside-trumps-blitzy-washington-revamp-ballroom-gardens-and-more-11597880#publisher=newsstand",
+    "category": "india",
+    "title": "Inside Trump's Blitzy Washington Revamp: Ballroom, Gardens And More",
+    "summary": "President Donald Trump is pursuing an ambitious revamp of Washington.",
+    "image": "https://c.ndtvimg.com/2026-04/35422ock_ballroom-_625x300_03_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 06 Jun 2026 00:00:19 +0530",
+    "link": "https://www.ndtv.com/world-news/inside-trumps-blitzy-washington-revamp-ballroom-gardens-and-more-11597880#publisher=newsstand"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
@@ -80,6 +130,26 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://www.ndtv.com/education/cbse-extends-class-12-verification-re-evaluation-application-deadline-till-june-7-11597845#publisher=newsstand",
+    "category": "india",
+    "title": "CBSE Extends Class 12 Verification, Re-Evaluation Application Deadline Till June 7",
+    "summary": "The move comes after several students flagged issues in accessing answer books.",
+    "image": "https://c.ndtvimg.com/2026-06/nt7p1v2_cbse_625x300_05_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 05 Jun 2026 23:53:52 +0530",
+    "link": "https://www.ndtv.com/education/cbse-extends-class-12-verification-re-evaluation-application-deadline-till-june-7-11597845#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/us-markets/a-71-year-old-woman-panic-sold-her-retirement-account-twice-if-left-alone-her-savings-would-have-been-11597841#publisher=newsstand",
+    "category": "india",
+    "title": "Panic Selling Can Make Your Finances Worse. This 71-Year-Old Woman\u2019s Case Shows How",
+    "summary": "The woman's account had roughly $190,000 before the pandemic.",
+    "image": "https://c.ndtvimg.com/2026-04/tnj5la54_investment_625x300_22_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 05 Jun 2026 23:52:15 +0530",
+    "link": "https://www.ndtv.com/us-markets/a-71-year-old-woman-panic-sold-her-retirement-account-twice-if-left-alone-her-savings-would-have-been-11597841#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/bitcoins-star-fades-as-investors-flock-to-lustre-of-ai-and-megacap-ipos/articleshow/131536454.cms",
     "category": "finance",
     "title": "Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs",
@@ -110,36 +180,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/franklin-resources-wamco-to-pay-100-million-sec-fine-over-former-star-managers-trades/articleshow/131536352.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/nda-and-tipra-motha-signal-unity-during-amit-shahs-tripura-visit-11597335#publisher=newsstand",
-    "category": "india",
-    "title": "NDA And TIPRA Motha Signal Unity During Amit Shah's Tripura Visit",
-    "summary": "Tripura BJP leadership and its ally TIPRA Motha have shown they are united",
-    "image": "https://c.ndtvimg.com/2026-06/4dhgn6vs_tripura_625x300_05_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 05 Jun 2026 21:41:15 +0530",
-    "link": "https://www.ndtv.com/india-news/nda-and-tipra-motha-signal-unity-during-amit-shahs-tripura-visit-11597335#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-claims-fired-missiles-on-2-us-warships-centcom-says-did-not-11597317#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Claims Fired Missiles On 2 US Warships, CENTCOM Says \"Did Not\"",
-    "summary": "The US military's Central Command was quick to deny that the incident had taken place.",
-    "image": "https://c.ndtvimg.com/2026-06/e0cb2lg_us-navy_625x300_05_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 05 Jun 2026 21:37:02 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-claims-fired-missiles-on-2-us-warships-centcom-says-did-not-11597317#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/37-years-after-tiananmen-square-protests-in-china-hidden-photos-emerge-from-archive-11596762#publisher=newsstand",
-    "category": "india",
-    "title": "Unseen Photos Surface 37 Years After China's Tiananmen Square Protests",
-    "summary": "The photographs were taken by a Chinese state media photographer.",
-    "image": "https://c.ndtvimg.com/2026-06/a7k8g5t4_china-protest_625x300_05_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 05 Jun 2026 21:23:32 +0530",
-    "link": "https://www.ndtv.com/world-news/37-years-after-tiananmen-square-protests-in-china-hidden-photos-emerge-from-archive-11596762#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-ipo-is-said-to-draw-more-orders-than-shares-available/articleshow/131535854.cms",
     "category": "finance",
     "title": "Spacex IPO is said to draw more orders than shares available",
@@ -148,56 +188,6 @@
     "source": "ET",
     "pubDate": "Fri, 05 Jun 2026 21:17:14 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-ipo-is-said-to-draw-more-orders-than-shares-available/articleshow/131535854.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/video-russia-amusement-park-names-ride-after-nuke-ready-missile-oreshnik-11597222#publisher=newsstand",
-    "category": "india",
-    "title": "Video: Russia Amusement Park Names Ride After Nuke-Ready Missile 'Oreshnik'",
-    "summary": "The \"Oreshnik\" ride, named after a nuclear-capable hypersonic missile, at an amusement park in Russia.",
-    "image": "https://c.ndtvimg.com/2026-06/a4ahpr8g_oreshnik-ride_625x300_05_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 05 Jun 2026 21:15:22 +0530",
-    "link": "https://www.ndtv.com/world-news/video-russia-amusement-park-names-ride-after-nuke-ready-missile-oreshnik-11597222#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/extremely-intelligent-bear-attacks-4-escapes-factory-through-locked-window-in-japan-11596659#publisher=newsstand",
-    "category": "india",
-    "title": "'Extremely Intelligent' Bear Attacks 4, Escapes Factory Through Locked Window In Japan",
-    "summary": "Fukushima City officials said the bear had been hit with a tranquilliser dart.",
-    "image": "https://c.ndtvimg.com/2026-06/3co4j36o_viral-bear-video-japan_625x300_05_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 05 Jun 2026 21:15:07 +0530",
-    "link": "https://www.ndtv.com/world-news/extremely-intelligent-bear-attacks-4-escapes-factory-through-locked-window-in-japan-11596659#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/months-on-run-smuggler-arrested-during-ritual-to-fix-fate-in-ujjain-11597189#publisher=newsstand",
-    "category": "india",
-    "title": "Months On Run, Smuggler Arrested During Ritual To 'Fix Fate' In Ujjain",
-    "summary": "The Ujjain arrest was part of Rajasthan ANTF's Operation Madmaneera",
-    "image": "https://c.ndtvimg.com/2026-06/mok22hv4_drug-don_625x300_05_June_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 05 Jun 2026 21:09:45 +0530",
-    "link": "https://www.ndtv.com/india-news/months-on-run-smuggler-arrested-during-ritual-to-fix-fate-in-ujjain-11597189#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/watch-us-forces-board-oil-tanker-carrying-iranian-crude-in-indian-ocean-11597161#publisher=newsstand",
-    "category": "india",
-    "title": "Watch: US Forces Board Oil Tanker Carrying Iranian Crude In Indian Ocean",
-    "summary": "US forces boarded an oil tanker in the Indian Ocean overnight.",
-    "image": "https://c.ndtvimg.com/2026-06/m4jg8u3g_oil-tanker_625x300_05_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 05 Jun 2026 21:01:49 +0530",
-    "link": "https://www.ndtv.com/world-news/watch-us-forces-board-oil-tanker-carrying-iranian-crude-in-indian-ocean-11597161#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/astronauts-on-international-space-station-in-evacuation-mode-as-russians-fix-air-leak-11597143#publisher=newsstand",
-    "category": "india",
-    "title": "Astronauts On International Space Station In Evacuation Mode As Russians Fix Air Leak",
-    "summary": "Four astronauts of NASA's Crew-12 mission on the station.",
-    "image": "https://c.ndtvimg.com/2026-06/6gnekj6_russia_625x300_05_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 05 Jun 2026 20:57:36 +0530",
-    "link": "https://www.ndtv.com/world-news/astronauts-on-international-space-station-in-evacuation-mode-as-russians-fix-air-leak-11597143#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/gqg-trims-adani-exposure-in-rs-5750-crore-block-deal-sell-shares-in-two-group-stocks/articleshow/131535087.cms",
@@ -220,6 +210,36 @@
     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/oyo-parent-prism-hotels-receives-sebi-nod-for-ipo/articleshow/131534869.cms"
   },
   {
+    "id": "https://www.espncricinfo.com/ci/content/story/1539784.html",
+    "category": "sports",
+    "title": "India make red-ball switch for Afghanistan challenge in New Chandigarh's maiden Test",
+    "summary": "India will have to decide between Harsh Dubey and Manav Suthar for the third spinner's spot",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417700/417789.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 05 Jun 2026 19:43:44 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1539784.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/crlplwn1jkro#0",
+    "category": "global",
+    "title": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
+    "summary": "The US vice president wrote the \"only response is righteous anger\" when referring to Henry Nowak's death on X.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 05 Jun 2026 19:39:10 GMT",
+    "link": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cd0p0rz4n0mo#0",
+    "category": "global",
+    "title": "Buffy and Ted Lasso star Anthony Head dies at 72",
+    "summary": "The British actor, who also appeared in Merlin and Little Britain, died of complications from pneumonia.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 05 Jun 2026 19:11:57 GMT",
+    "link": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-slip-at-open-after-solid-jobs-data-fuels-hawkish-fed-fears-chip-stocks-fall/articleshow/131533254.cms",
     "category": "finance",
     "title": "US stocks today: S&amp;P 500, Nasdaq slides as chip stocks fall, jobs data fuels hawkish Fed fears",
@@ -230,6 +250,46 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-slip-at-open-after-solid-jobs-data-fuels-hawkish-fed-fears-chip-stocks-fall/articleshow/131533254.cms"
   },
   {
+    "id": "https://www.espncricinfo.com/ci/content/story/1539785.html",
+    "category": "sports",
+    "title": "England make inroads after New Zealand set 254 to win",
+    "summary": "Nathan Smith six-for keeps NZ in contention as 17 wickets go down on day two at Lord's",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417900/417907.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 05 Jun 2026 19:04:52 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1539785.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1539814.html",
+    "category": "sports",
+    "title": "All-round effort from Durham secures victory at Yorkshire",
+    "summary": "England legspinner Sarah Glenn makes Yorkshire debut after recovering from broken finger",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417900/417902.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 05 Jun 2026 18:28:15 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1539814.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0m2mj4gl1jo#0",
+    "category": "global",
+    "title": "Lady Pamela Hicks, former lady-in-waiting to Elizabeth II, dies aged 97",
+    "summary": "In a post on Instagram, her daughter India described her mother as \"truly the last of her kind\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 05 Jun 2026 18:27:20 GMT",
+    "link": "https://www.bbc.com/news/articles/c0m2mj4gl1jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cpqpqx5qe40o#0",
+    "category": "global",
+    "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+    "summary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 05 Jun 2026 18:16:15 GMT",
+    "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-walter-schloss-if-the-markets-going-wild-and-you-want-to-be-in-it-you-either-have-to-lower-your-standards-to-stay-in-the-game-or-you-buy-stuff-which-may-not-participate-because-its-not-part-of-the-game-at-that-time/articleshow/131522076.cms",
     "category": "finance",
     "title": "Quote of the day by Walter Schloss: \"If the market\u2019s going wild and you want to be in it, you either have to lower your ",
@@ -238,6 +298,26 @@
     "source": "ET",
     "pubDate": "Fri, 05 Jun 2026 18:00:00 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-walter-schloss-if-the-markets-going-wild-and-you-want-to-be-in-it-you-either-have-to-lower-your-standards-to-stay-in-the-game-or-you-buy-stuff-which-may-not-participate-because-its-not-part-of-the-game-at-that-time/articleshow/131522076.cms"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1539823.html",
+    "category": "sports",
+    "title": "ILT20 teams concerned over new rules mandating Afghanistan, Ireland player recruitment",
+    "summary": "From the 2026 season, the league has stipulated that all squads will need to include at least four Afghanistan players and one from Ireland",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/411400/411417.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 05 Jun 2026 17:40:22 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1539823.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c3626ry101lo#0",
+    "category": "global",
+    "title": "Ex-Channel 4 News host Jon Snow reveals he has Alzheimer's",
+    "summary": "Snow, the lead presenter of C4 News for 32 years, will be seen navigating his diagnosis in a new film.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 05 Jun 2026 17:10:50 GMT",
+    "link": "https://www.bbc.com/news/articles/c3626ry101lo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c99l93md0gko#0",
@@ -270,16 +350,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1539812.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cd0p0rz4n0mo#0",
-    "category": "global",
-    "title": "Buffy and Ted Lasso star Anthony Head dies at 72",
-    "summary": "The British actor, who also appeared in Merlin and Little Britain, died of complications from pneumonia.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 05 Jun 2026 16:21:18 GMT",
-    "link": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c5y7yryg01mo#0",
     "category": "global",
     "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
@@ -290,16 +360,6 @@
     "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cn9p91295q8o#0",
-    "category": "global",
-    "title": "Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'",
-    "summary": "Dawa Sherpa was spotted alive by a cleaning crew as he slid slowly down the world's tallest mountain and spoke to the BBC from hospital.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 05 Jun 2026 15:59:58 GMT",
-    "link": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c3d2d55kvy1o#0",
     "category": "global",
     "title": "Teen rapists spared jail partly because of intellectual limitations, judge's full remarks show",
@@ -308,16 +368,6 @@
     "source": "BBC",
     "pubDate": "Fri, 05 Jun 2026 15:58:43 GMT",
     "link": "https://www.bbc.com/news/articles/c3d2d55kvy1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1539785.html",
-    "category": "sports",
-    "title": "Smith, O'Rourke wreck middle-order after Gay's debut fifty",
-    "summary": "England slipped from 126 for 2 to 127 for 6 but still lead New Zealand by 193",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417800/417892.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 05 Jun 2026 15:37:46 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1539785.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1539805.html",
@@ -338,55 +388,5 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 05 Jun 2026 14:21:17 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1539795.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1539794.html",
-    "category": "sports",
-    "title": "Gimhani ruled out of T20 World Cup, Vimukthi called up as replacement",
-    "summary": "Right-arm seamer Vimukthi is yet to feature in T20Is although she has played three ODIs",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/385100/385181.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 05 Jun 2026 13:16:06 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1539794.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4g9gz9d2qzo#0",
-    "category": "global",
-    "title": "A-level maths exam marking to be watched closely by regulator after students say paper was 'unfair'",
-    "summary": "More than 20,000 people sign a petition calling for a review of a paper they say was significantly more challenging than any past exam.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 05 Jun 2026 12:13:11 GMT",
-    "link": "https://www.bbc.com/news/articles/c4g9gz9d2qzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1539784.html",
-    "category": "sports",
-    "title": "India make red-ball switch for Afghanistan challenge in New Chandigarh's maiden Test",
-    "summary": "India will likely have to decide between Harsh Dubey and Manav Suthar for the third spinner's spot",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417700/417789.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 05 Jun 2026 11:52:14 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1539784.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1539771.html",
-    "category": "sports",
-    "title": "'Positive move' - Gambhir throws his weight behind red-ball-pink-ball switch",
-    "summary": "\"We've got to give Sai a fair run\" - Gautam Gambhir makes it clear that B Sai Sudharsan, and not Devdutt Padikkal, is India's Test No. 3 for the moment",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/404100/404156.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 05 Jun 2026 11:50:42 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1539771.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce8p8dzvjy9o#0",
-    "category": "global",
-    "title": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
-    "summary": "A public spending watchdog examines the property arrangements of royals including Andrew Mountbatten-Windsor.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 05 Jun 2026 11:00:58 GMT",
-    "link": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&at_campaign=rss"
   }
 ]
