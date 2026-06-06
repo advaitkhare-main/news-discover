@@ -40,6 +40,26 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/singapore-blocks-social-media-posts-inciting-racial-discord-against-indians-11601485#publisher=newsstand",
+    "category": "india",
+    "title": "Singapore Blocks Social Media Posts Inciting Racial Discord Against Indians",
+    "summary": "Singapore has long positioned its multicultural model as foundational to its stability and identity",
+    "image": "https://c.ndtvimg.com/2026-04/i3mrof9_social-media_625x300_19_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sun, 07 Jun 2026 00:04:06 +0530",
+    "link": "https://www.ndtv.com/world-news/singapore-blocks-social-media-posts-inciting-racial-discord-against-indians-11601485#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/iit-madras-team-takes-indias-solar-car-dream-to-south-africa-11601461#publisher=newsstand",
+    "category": "india",
+    "title": "IIT Madras Team Takes India's Solar Car Dream To South Africa",
+    "summary": "For Team Agnirath, the race is about much more than winning a trophy.",
+    "image": "https://c.ndtvimg.com/2023-04/2m9e88g4_iit-madras_625x300_03_April_23.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 06 Jun 2026 23:58:06 +0530",
+    "link": "https://www.ndtv.com/india-news/iit-madras-team-takes-indias-solar-car-dream-to-south-africa-11601461#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/chhattisgarh-man-travelling-with-wife-child-alleges-police-beat-him-at-checkpoint-11601381#publisher=newsstand",
     "category": "india",
     "title": "Chhattisgarh Man Travelling With Wife, Child Alleges Police Beat Him At Checkpoint",
@@ -100,24 +120,34 @@
     "link": "https://www.ndtv.com/india-news/from-rs-6-000-salary-to-rs-2-crore-in-assets-odisha-engineer-under-scanner-11601160#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/up-teenager-dies-after-setting-herself-on-fire-lover-in-critical-condition-11601125#publisher=newsstand",
-    "category": "india",
-    "title": "UP Teenager Dies After Setting Herself On Fire, Lover In Critical Condition",
-    "summary": "Preliminary investigation suggests the case may be linked to a love affair.",
-    "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sat, 06 Jun 2026 22:02:55 +0530",
-    "link": "https://www.ndtv.com/india-news/up-teenager-dies-after-setting-herself-on-fire-lover-in-critical-condition-11601125#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/cg7498kz808o#0",
+    "category": "global",
+    "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+    "summary": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 06 Jun 2026 20:50:40 GMT",
+    "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/k-annamalai-tamil-nadu-politics-we-the-leaders-24-hours-after-annamalai-leaves-bjp-nearly-14-lakh-join-his-new-movement-11599979#publisher=newsstand",
-    "category": "india",
-    "title": "24 Hours After K Annamalai Leaves BJP, Nearly 14 Lakh Join His New Movement",
-    "summary": "Annamalai confirmed that his movement will contest the next Lok Sabha elections in Tamil Nadu.",
-    "image": "https://c.ndtvimg.com/2025-04/s26fn6hs_k-annamalai_625x300_11_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sat, 06 Jun 2026 21:59:05 +0530",
-    "link": "https://www.ndtv.com/india-news/k-annamalai-tamil-nadu-politics-we-the-leaders-24-hours-after-annamalai-leaves-bjp-nearly-14-lakh-join-his-new-movement-11599979#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/c802e7jk458o#0",
+    "category": "global",
+    "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+    "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 06 Jun 2026 20:32:08 GMT",
+    "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1539945.html",
+    "category": "sports",
+    "title": "WI bowl first in drizzly Kingston; Malinga, Jangoo named in XIs",
+    "summary": "SL need a win to gain their first ODI series victory in WI since 2003",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/409400/409496.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 06 Jun 2026 20:12:31 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1539945.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1539936.html",
@@ -160,16 +190,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-will-nifty-hold-23000-as-markets-test-key-support/articleshow/131550486.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cg7498kz808o#0",
-    "category": "global",
-    "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-    "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 06 Jun 2026 17:14:03 GMT",
-    "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1539927.html",
     "category": "sports",
     "title": "Robinson double-strike moves England closer between showers",
@@ -188,16 +208,6 @@
     "source": "ET",
     "pubDate": "Sat, 06 Jun 2026 16:32:59 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-and-other-mega-ipos-may-wait-years-to-join-the-sp-500/articleshow/131550241.cms"
-  },
-  {
-    "id": "https://www.bbc.com/sport/tennis/articles/c1dy7grv4y3o#0",
-    "category": "global",
-    "title": "Teenager Andreeva beats Chwalinska at French Open for first Grand Slam title",
-    "summary": "Teenager Mirra Andreeva fulfils her huge potential with a first Grand Slam title as Polish qualifier Maja Chwalinska is denied a fairytale French Open victory.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 06 Jun 2026 15:44:24 GMT",
-    "link": "https://www.bbc.com/sport/tennis/articles/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/stock-pickers-market-ahead-as-rbi-flags-risks-largecaps-banks-and-capex-plays-offer-value-george-thomas/articleshow/131549054.cms",
@@ -330,16 +340,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1539904.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1539905.html",
-    "category": "sports",
-    "title": "Agarkar: Shreyas replacing Suryakumar 'best way forward'",
-    "summary": "Ajit Agarkar said it was a \"tough call\" to drop a captain who had just led India to a T20 World Cup title",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413900/413963.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 06 Jun 2026 11:31:03 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1539905.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c39297vxmw2o#0",
     "category": "global",
     "title": "The Nowak murder has lit a match under British politics. This is how we got here",
@@ -348,16 +348,6 @@
     "source": "BBC",
     "pubDate": "Sat, 06 Jun 2026 11:08:22 GMT",
     "link": "https://www.bbc.com/news/articles/c39297vxmw2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce8p8mzj4e8o#0",
-    "category": "global",
-    "title": "Singer Duffy to perform first live concert in 15 years after sex assault ordeal",
-    "summary": "The Welsh singer has announced her first concert after a sexual assault led her to step away from public life.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 06 Jun 2026 07:54:22 GMT",
-    "link": "https://www.bbc.com/news/articles/ce8p8mzj4e8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
@@ -388,5 +378,15 @@
     "source": "VentureBeat",
     "pubDate": "Fri, 16 Jan 2026 14:01:00 GMT",
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cy02r2863k4o#1",
+    "category": "global",
+    "title": "Your middle-aged friend starts dating your daughter: Drama explores what happens next",
+    "summary": "The new drama centres on Alice discovering best friend Steve is dating her 26-year-old daughter.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 05 Jun 2026 23:08:53 GMT",
+    "link": "https://www.bbc.com/news/articles/cy02r2863k4o?at_medium=RSS&at_campaign=rss"
   }
 ]
