@@ -120,14 +120,14 @@
     "link": "https://www.ndtv.com/india-news/from-rs-6-000-salary-to-rs-2-crore-in-assets-odisha-engineer-under-scanner-11601160#publisher=newsstand"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cg7498kz808o#0",
-    "category": "global",
-    "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-    "summary": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 06 Jun 2026 20:50:40 GMT",
-    "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss"
+    "id": "https://www.espncricinfo.com/ci/content/story/1539944.html",
+    "category": "sports",
+    "title": "Broad, Sanderson and Sales help keep Northants winning run going",
+    "summary": "Callum Parkinson takes 3 for 19 but Durham struggle in low-scoring arm wrestle at Chester-le-Street",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417900/417960.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 06 Jun 2026 21:25:40 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1539944.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c802e7jk458o#0",
@@ -136,8 +136,18 @@
     "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sat, 06 Jun 2026 20:32:08 GMT",
+    "pubDate": "Sat, 06 Jun 2026 21:14:00 GMT",
     "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cg7498kz808o#0",
+    "category": "global",
+    "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+    "summary": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 06 Jun 2026 20:50:40 GMT",
+    "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1539945.html",
@@ -168,6 +178,16 @@
     "source": "BBC",
     "pubDate": "Sat, 06 Jun 2026 18:16:42 GMT",
     "link": "https://www.bbc.com/news/articles/c78q215vyd7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/cn8q7v27pw0o#1",
+    "category": "global",
+    "title": "Watch: A veil, gowns and umbrellas at a rainy royal wedding",
+    "summary": "Princess Anne's son Peter Phillips married NHS nurse Harriet Sperling in a private ceremony.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 06 Jun 2026 18:08:26 GMT",
+    "link": "https://www.bbc.com/news/videos/cn8q7v27pw0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1539867.html",
@@ -330,16 +350,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1539852.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1539904.html",
-    "category": "sports",
-    "title": "Agarkar: Sooryavanshi 'picked himself' in T20I squad, we've got 'high hopes of him'",
-    "summary": "The manner in which he attacked some of the best bowlers convinced selectors he was ready for the next stage",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417500/417519.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 06 Jun 2026 12:07:17 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1539904.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/c39297vxmw2o#0",
     "category": "global",
     "title": "The Nowak murder has lit a match under British politics. This is how we got here",
@@ -378,15 +388,5 @@
     "source": "VentureBeat",
     "pubDate": "Fri, 16 Jan 2026 14:01:00 GMT",
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy02r2863k4o#1",
-    "category": "global",
-    "title": "Your middle-aged friend starts dating your daughter: Drama explores what happens next",
-    "summary": "The new drama centres on Alice discovering best friend Steve is dating her 26-year-old daughter.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 05 Jun 2026 23:08:53 GMT",
-    "link": "https://www.bbc.com/news/articles/cy02r2863k4o?at_medium=RSS&at_campaign=rss"
   }
 ]
