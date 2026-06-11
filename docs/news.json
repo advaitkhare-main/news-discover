@@ -1,13 +1,33 @@
 [
   {
-    "id": "https://www.bbc.com/news/articles/c4gyp9v0e93o#0",
+    "id": "https://www.bbc.com/news/articles/c2eyke83yz9o#0",
     "category": "global",
-    "title": "Iran says it struck ships in Strait of Hormuz after US launches new strikes",
-    "summary": "US Central Command said its latest airstrikes were responding to \"unwarranted and continued aggression\" from Iran.",
+    "title": "Smacking children could lead to lower GCSE grades, study suggests",
+    "summary": "A University College London (UCL) study suggests that smacking children \"does no good whatsoever\".",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Wed, 10 Jun 2026 23:23:20 GMT",
-    "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Wed, 10 Jun 2026 23:33:07 GMT",
+    "link": "https://www.bbc.com/news/articles/c2eyke83yz9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn75y330kpjo#0",
+    "category": "global",
+    "title": "Which World Cup stars have roots near you?",
+    "summary": "Which World Cup stars have roots near you? Find out with our interactive lookup tool",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 10 Jun 2026 23:13:43 GMT",
+    "link": "https://www.bbc.com/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cwyk9exxp2qo#0",
+    "category": "global",
+    "title": "The furious dispute over what caused Air India flight 171 to crash",
+    "summary": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 10 Jun 2026 23:10:11 GMT",
+    "link": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/c07y92gplmyo#0",
@@ -30,46 +50,6 @@
     "link": "https://www.bbc.com/news/articles/c1dypzw1d29o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/adia-to-sell-rs-1944-crore-lenskart-stake-days-after-softbank-exit/articleshow/131640885.cms",
-    "category": "finance",
-    "title": "ADIA to sell Rs 1,944 crore Lenskart stake days after SoftBank exit",
-    "summary": "Abu Dhabi Investment Authority (ADIA) is set to divest up to 2.3% of its stake in eyewear retailer Lenskart for approximately Rs 1,944 crore. This follows a significant stake sale by SoftBank, with the deal structured as a block deal at a slight disc",
-    "image": "https://img.etimg.com/photo/msid-131640885,imgsize-15110.cms",
-    "source": "ET",
-    "pubDate": "Wed, 10 Jun 2026 22:44:58 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/adia-to-sell-rs-1944-crore-lenskart-stake-days-after-softbank-exit/articleshow/131640885.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/norm-breaking-spacex-ipo-a-source-of-elation-angst-on-wall-street/articleshow/131640038.cms",
-    "category": "finance",
-    "title": "Norm-breaking SpaceX IPO a source of elation, angst on Wall Street",
-    "summary": "SpaceX is poised for a historic IPO, aiming to raise $75 billion with a $1.8 trillion valuation. Despite immense investor excitement and Musk's visionary appeal, skeptics question the rocket maker's profitability, citing significant AI investments an",
-    "image": "https://img.etimg.com/photo/msid-131640038,imgsize-37456.cms",
-    "source": "ET",
-    "pubDate": "Wed, 10 Jun 2026 22:08:23 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/norm-breaking-spacex-ipo-a-source-of-elation-angst-on-wall-street/articleshow/131640038.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/openai-expects-to-go-public-within-the-next-year-the-information-reports/articleshow/131639919.cms",
-    "category": "finance",
-    "title": "OpenAI expects to go public 'within the next year,' the Information reports",
-    "summary": "OpenAI CEO Sam Altman indicated an IPO within the next year, with the company having recently filed confidentially. While a timeline remains undetermined, Altman noted that rapid advancements in AI's self-improvement capabilities could influence the ",
-    "image": "https://img.etimg.com/photo/msid-131639919,imgsize-95548.cms",
-    "source": "ET",
-    "pubDate": "Wed, 10 Jun 2026 21:56:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/openai-expects-to-go-public-within-the-next-year-the-information-reports/articleshow/131639919.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slides-3-as-middle-east-escalation-fuels-inflation-rate-hike-concerns/articleshow/131639890.cms",
-    "category": "finance",
-    "title": "Gold slides 3% as Middle East escalation fuels inflation, rate-hike concerns",
-    "summary": "Gold prices dropped over 3% as escalating U.S.-Iran tensions fueled inflation and interest rate hike fears. Investors awaited key U.S. data, including the Producer Price Index, to gauge the Federal Reserve's monetary policy. Despite recent consolidat",
-    "image": "https://img.etimg.com/photo/msid-131639890,imgsize-114622.cms",
-    "source": "ET",
-    "pubDate": "Wed, 10 Jun 2026 21:53:55 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slides-3-as-middle-east-escalation-fuels-inflation-rate-hike-concerns/articleshow/131639890.cms"
-  },
-  {
     "id": "https://www.bbc.com/news/videos/ce95gmdlp98o#0",
     "category": "global",
     "title": "Fireworks illuminate Barcelona's Sagrada Fam\u00edlia during Pope visit",
@@ -78,46 +58,6 @@
     "source": "BBC",
     "pubDate": "Wed, 10 Jun 2026 21:52:09 GMT",
     "link": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-slump-after-fresh-sell-off-in-tech-stocks-nasdaq-down-over-1/articleshow/131639312.cms",
-    "category": "finance",
-    "title": "US stocks slump after fresh sell-off in tech stocks; Nasdaq down over 1%",
-    "summary": "Wall Street's major indices declined as weakness in technology stocks and escalating US-Iran tensions overshadowed inflation data that met expectations. Investors reassessed AI-related valuations, while geopolitical risks and concerns over prolonged ",
-    "image": "https://img.etimg.com/photo/msid-131639312,imgsize-122930.cms",
-    "source": "ET",
-    "pubDate": "Wed, 10 Jun 2026 21:25:06 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-slump-after-fresh-sell-off-in-tech-stocks-nasdaq-down-over-1/articleshow/131639312.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-crash-may-revive-wedding-demand-as-buying-season-nears/articleshow/131639042.cms",
-    "category": "finance",
-    "title": "Gold price crash may revive wedding demand as buying season nears",
-    "summary": "Gold and silver prices witnessed a sharp correction from recent highs, raising hopes of stronger jewellery demand. Industry experts expect wedding and festive purchases to improve after Adhik Maas ends, with lower prices encouraging buyers across urb",
-    "image": "https://img.etimg.com/photo/msid-131639042,imgsize-43512.cms",
-    "source": "ET",
-    "pubDate": "Wed, 10 Jun 2026 21:10:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-crash-may-revive-wedding-demand-as-buying-season-nears/articleshow/131639042.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/131638918.cms",
-    "category": "finance",
-    "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-    "summary": "Indian equities lost momentum after a positive start, with Nifty closing lower and broader markets declining sharply. Investor caution ahead of US inflation data, profit booking and geopolitical concerns weighed on sentiment, while FMCG and private b",
-    "image": "https://img.etimg.com/photo/msid-131638918,imgsize-56136.cms",
-    "source": "ET",
-    "pubDate": "Wed, 10 Jun 2026 21:03:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/131638918.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cddl0nz4v5vo#0",
-    "category": "global",
-    "title": "Changing visa rules for care workers is wrong, says Rayner",
-    "summary": "The former deputy prime minister says changing visa rules for migrants already living in the UK would be \"un-British\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 10 Jun 2026 20:47:55 GMT",
-    "link": "https://www.bbc.com/news/articles/cddl0nz4v5vo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1540410.html",
@@ -138,16 +78,6 @@
     "source": "BBC",
     "pubDate": "Wed, 10 Jun 2026 19:19:54 GMT",
     "link": "https://www.bbc.com/news/articles/c802l191rd3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1540417.html",
-    "category": "sports",
-    "title": "England trump Richa's heroics; Henry injured as WI lose to Australia",
-    "summary": "Sciver-Brunt, Jones scored fifties for England; Voll scored 77* in Australia's chase of 132",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418100/418106.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 10 Jun 2026 18:17:50 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1540417.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1540429.html",
@@ -190,16 +120,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1540348.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cp9pd4d3m5ko#0",
-    "category": "global",
-    "title": "Vets advise ban on over the counter flea treatment for pets",
-    "summary": "Pet owners have historically been advised they should treat cats and dogs as a preventative measure every month.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 10 Jun 2026 17:06:00 GMT",
-    "link": "https://www.bbc.com/news/articles/cp9pd4d3m5ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1540424.html",
     "category": "sports",
     "title": "Root rides again in moment of crisis as England pay the price for optics",
@@ -208,26 +128,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 10 Jun 2026 16:55:06 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1540424.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/sport/cricket/articles/ce371kq48v7o#0",
-    "category": "global",
-    "title": "Stokes out of England squad, Root named captain",
-    "summary": "Ben Stokes will miss England\u2019s second Test against New Zealand at The Oval following an incident in a London nightclub, with Joe Root stepping up as interim captain.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 10 Jun 2026 16:44:14 GMT",
-    "link": "https://www.bbc.com/sport/cricket/articles/ce371kq48v7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1540404.html",
-    "category": "sports",
-    "title": "Bransgrove severs final ties with Hampshire as GMR complete acquisition",
-    "summary": "Kiran Kumar Grandhi takes over as group chair as Delhi Capitals co-owners take full ownership",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/346600/346623.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 10 Jun 2026 11:18:22 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1540404.html?ex_cid=OTC-RSS"
   },
   {
     "id": "4ri2LVmhlv34kOOk94nnsi",
@@ -270,94 +170,194 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-war-iran-announces-closure-of-hormuz-after-us-attacks-11620083#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Announces Closure Of Hormuz After US Attacks",
-    "summary": "Iran's top joint military command announced the closure of the Strait of Hormuz on Thursday, including oil tankers and commercial ships, saying any vessel that will attempt passage will be shot at.",
-    "image": "https://c.ndtvimg.com/2026-05/p3g8bja4_strait-of-hormuz_625x300_27_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 11 Jun 2026 04:50:28 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-war-iran-announces-closure-of-hormuz-after-us-attacks-11620083#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-says-will-bomb-key-facilities-in-iran-hours-after-trump-warning-11619951#publisher=newsstand",
-    "category": "india",
-    "title": "US Strikes \"Multiple Targets\" In Iran After Trump's Warning",
-    "summary": "Trump urged Iran to sign a deal to end the war.",
-    "image": "https://c.ndtvimg.com/2026-05/el4gfrdc_trump-mojtaba_625x300_11_May_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 11 Jun 2026 04:26:47 +0530",
-    "link": "https://www.ndtv.com/world-news/us-says-will-bomb-key-facilities-in-iran-hours-after-trump-warning-11619951#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/donald-trump-says-he-loves-inflation-amid-rising-prices-due-to-iran-war-11620059#publisher=newsstand",
-    "category": "india",
-    "title": "Amid Rising Prices, Trump Says He 'Loves Inflation'",
-    "summary": "\"The numbers were great... I love the inflation,\" Trump told reporters on Wednesday.",
-    "image": "https://c.ndtvimg.com/2026-06/n0721lks_donald-trump_625x300_11_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 11 Jun 2026 04:23:01 +0530",
-    "link": "https://www.ndtv.com/world-news/donald-trump-says-he-loves-inflation-amid-rising-prices-due-to-iran-war-11620059#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/canada-seeks-to-ban-social-media-for-under-16s-11620045#publisher=newsstand",
-    "category": "india",
-    "title": "\"Failing Our Children\": Canada Seeks To Ban Social Media For Under-16s",
-    "summary": "A Canadian government official said authorities will try to learn lessons from Australia.",
-    "image": "https://c.ndtvimg.com/2025-12/u57qitss_social-media_625x300_20_December_25.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 11 Jun 2026 04:06:40 +0530",
-    "link": "https://www.ndtv.com/world-news/canada-seeks-to-ban-social-media-for-under-16s-11620045#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-israel-iran-war-news-live-updates-centcom-strikes-bandar-abbas-sirik-jask-qeshm-island-tehran-attack-jordan-kuwait-bahrain-ceasefire-trump-hormuz-11615195#publisher=newsstand",
-    "category": "india",
-    "title": "US Iran War News LIVE: US Carries Out \"Self-Defence Strikes\" Against Iran In Latest Escalation Of Tensions",
-    "summary": "US Israel Iran War LIVE Updates",
-    "image": "https://c.ndtvimg.com/2026-03/bd66ftmg_trump-strait-of-hormuz_625x300_04_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 11 Jun 2026 03:35:07 +0530",
-    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-news-live-updates-centcom-strikes-bandar-abbas-sirik-jask-qeshm-island-tehran-attack-jordan-kuwait-bahrain-ceasefire-trump-hormuz-11615195#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/delhi-news/delhi-demolition-drive-60-properties-inspected-23-demolished-and-6-sealed-11619856#publisher=newsstand",
-    "category": "india",
-    "title": "Delhi Demolition Drive: 60 Properties Inspected, 23 Demolished And 6 Sealed",
-    "summary": "According to the officials, 577 properties were inspected between June 5 and June 10 in Delhi.",
-    "image": "https://c.ndtvimg.com/2025-06/m10vg1bo_delhi-demolition-drive-ashok-vihar_625x300_16_June_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 11 Jun 2026 01:43:32 +0530",
-    "link": "https://www.ndtv.com/delhi-news/delhi-demolition-drive-60-properties-inspected-23-demolished-and-6-sealed-11619856#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-markets-indexes-fall-1-dragged-by-tech-and-iran-war-worries/articleshow/131644160.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/vahh-chemicals-ipo-listing-today-heres-what-gmp-suggests-ahead-of-debut/articleshow/131648048.cms",
     "category": "finance",
-    "title": "US stocks: US market indexes fall over 1%, dragged by tech and Iran war worries",
-    "summary": "Major US stock markets experienced a significant drop on Wednesday. Chipmaker stocks continued their decline, while new tensions between the US and Iran added to investor worries. The S&amp;P 500, Nasdaq Composite, and Dow Jones Industrial Average al",
-    "image": "https://img.etimg.com/photo/msid-131644160,imgsize-123210.cms",
+    "title": "Vahh Chemicals IPO listing today. Here's what GMP suggests ahead of debut",
+    "summary": "Vahh Chemicals Listing: The \u20b913.45-crore IPO was a completely fresh issue of 22.42 lakh shares and attracted strong investor interest, with the offer subscribed 11.08 times overall, led by robust participation from retail investors.",
+    "image": "https://img.etimg.com/photo/msid-131648048,imgsize-3042.cms",
     "source": "ET",
-    "pubDate": "Thu, 11 Jun 2026 01:31:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-markets-indexes-fall-1-dragged-by-tech-and-iran-war-worries/articleshow/131644160.cms"
+    "pubDate": "Thu, 11 Jun 2026 08:41:11 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/vahh-chemicals-ipo-listing-today-heres-what-gmp-suggests-ahead-of-debut/articleshow/131648048.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/chambal-fertilisers-among-3-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/131647986.cms",
+    "category": "finance",
+    "title": "\u200bChambal Fertilisers among 3 stocks flashing bullish signals, hinting at a possible uptrend",
+    "summary": "On June 10, three stocks in the Nifty500 appeared on the White Marubozu bullish scanner based on StockEdge technical scan data. The pattern signals strong buying momentum, where buyers dominated the entire session from open to close, indicating susta",
+    "image": "https://img.etimg.com/photo/msid-131647934,imgsize-267158.cms",
+    "source": "ET",
+    "pubDate": "Thu, 11 Jun 2026 08:33:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/chambal-fertilisers-among-3-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/131647986.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/afcons-infrastructure-among-four-stocks-showing-bullish-rsi-upswing/slideshow/131647896.cms",
+    "category": "finance",
+    "title": "Afcons Infrastructure among four stocks showing bullish RSI upswing",
+    "summary": "On June 10, four Nifty500 stocks were highlighted in the RSI Trending Up scan based on StockEdge.com data. The signal is generated when RSI crosses above 50 from lower levels, indicating strengthening momentum. Rising RSI values suggest improving pri",
+    "image": "https://img.etimg.com/photo/msid-131647844,imgsize-300469.cms",
+    "source": "ET",
+    "pubDate": "Thu, 11 Jun 2026 08:27:03 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/afcons-infrastructure-among-four-stocks-showing-bullish-rsi-upswing/slideshow/131647896.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-rise-above-their-200-dmas/slideshow/131647646.cms",
+    "category": "finance",
+    "title": "Positive Breakout: These 8 stocks rise above their 200 DMAs",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-131647553,imgsize-304011.cms",
+    "source": "ET",
+    "pubDate": "Thu, 11 Jun 2026 08:16:35 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-rise-above-their-200-dmas/slideshow/131647646.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/uhm-vacation-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/131647436.cms",
+    "category": "finance",
+    "title": "UHM Vacation shares to list today. Check GMP ahead of debut",
+    "summary": "UHM Vacation Listing: The company raised \u20b936.02 crore through its IPO, comprising a fresh issue of \u20b929.04 crore and an offer-for-sale worth \u20b96.97 crore. The public issue was open for subscription from June 4 to June 8.",
+    "image": "https://img.etimg.com/photo/msid-131647436,imgsize-5281.cms",
+    "source": "ET",
+    "pubDate": "Thu, 11 Jun 2026 08:13:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/uhm-vacation-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/131647436.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-stock-price-live-updates-11-jun-2026/liveblog/131647433.cms",
+    "category": "finance",
+    "title": "Bharti Airtel Share Price Live Updates: Bharti Airtel sees robust trading activity",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-131647433,imgsize-7795.cms",
+    "source": "ET",
+    "pubDate": "Thu, 11 Jun 2026 08:09:23 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-stock-price-live-updates-11-jun-2026/liveblog/131647433.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-livestock-price-today-live-updates-11-jun-2026/liveblog/131647428.cms",
+    "category": "finance",
+    "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Trading Volume Insights",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-131647428,imgsize-32224.cms",
+    "source": "ET",
+    "pubDate": "Thu, 11 Jun 2026 08:09:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-livestock-price-today-live-updates-11-jun-2026/liveblog/131647428.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-live-11-jun-2026/liveblog/131647421.cms",
+    "category": "finance",
+    "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's trading volume statistics",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-131647421,imgsize-17100.cms",
+    "source": "ET",
+    "pubDate": "Thu, 11 Jun 2026 08:08:27 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-live-11-jun-2026/liveblog/131647421.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/trumps-bomb-the-s-out-warning-irans-turn-region-into-hell-threat-us-iran-war-hormuz-mojtaba-khamenei-11620345#publisher=newsstand",
+    "category": "india",
+    "title": "Trump's \"Bomb The S*** Out\" Warning, Iran's \"Turn Region Into Hell\" Threat",
+    "summary": "US forces had hit Iran with 49 Tomahawk missiles in its latest bombing raid, Trump said.",
+    "image": "https://c.ndtvimg.com/2026-03/n8868ss8_trump-mojtaba_625x300_10_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 11 Jun 2026 07:54:40 +0530",
+    "link": "https://www.ndtv.com/world-news/trumps-bomb-the-s-out-warning-irans-turn-region-into-hell-threat-us-iran-war-hormuz-mojtaba-khamenei-11620345#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/aibe-21-provisional-answer-key-released-response-sheets-out-raise-objections-till-june-17-11620339#publisher=newsstand",
+    "category": "india",
+    "title": "AIBE 21 Provisional Answer Key Released, Response Sheets Out; Raise Objections Till June 17",
+    "summary": "Bar Council Of India Releases Provisional Answer Key For AIBE 21",
+    "image": "https://c.ndtvimg.com/2026-06/tu15mq4_aibe-21-provisional-answer-key-_625x300_11_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 11 Jun 2026 07:53:07 +0530",
+    "link": "https://www.ndtv.com/education/aibe-21-provisional-answer-key-released-response-sheets-out-raise-objections-till-june-17-11620339#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/feature/us-judges-kicks-off-lawyers-from-both-sides-for-using-ai-cancels-trial-comedy-of-errors-11620333#publisher=newsstand",
+    "category": "india",
+    "title": "US Judge Kicks Off Lawyers From Both Sides For Using AI, Cancels Trial: 'Comedy Of Errors'",
+    "summary": "The lawyers on both sides of a federal court case in Mississippi were caught using AI.",
+    "image": "https://c.ndtvimg.com/2026-06/5ug8e62g_as_625x300_11_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 11 Jun 2026 07:52:15 +0530",
+    "link": "https://www.ndtv.com/feature/us-judges-kicks-off-lawyers-from-both-sides-for-using-ai-cancels-trial-comedy-of-errors-11620333#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/how-much-does-it-cost-to-live-alone-in-manali-remote-worker-breaks-it-down-11620311#publisher=newsstand",
+    "category": "india",
+    "title": "How Much Does It Cost To Live Alone In Manali? Remote Worker Breaks It Down",
+    "summary": "Ajay also attends a local gym.",
+    "image": "https://c.ndtvimg.com/2026-06/2bohuql4_how-much-does-it-cost-to-live-alone-in-manali-_625x300_11_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 11 Jun 2026 07:43:51 +0530",
+    "link": "https://www.ndtv.com/offbeat/how-much-does-it-cost-to-live-alone-in-manali-remote-worker-breaks-it-down-11620311#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-attacks-minab-iran-tehran-targets-american-bases-in-gulf-claims-hormuz-closed-trump-tomahawk-missile-11620202#publisher=newsstand",
+    "category": "india",
+    "title": "Fresh Middle East Flare-Up As US Renews Attacks, Iran Strikes American Bases",
+    "summary": "CENTCOM has flagged that the Iranian claim of the Strait of Hormuz being closed was false",
+    "image": "https://c.ndtvimg.com/2026-03/1ejs5atg_israeliran-conflict_160x120_01_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 11 Jun 2026 07:34:56 +0530",
+    "link": "https://www.ndtv.com/world-news/us-attacks-minab-iran-tehran-targets-american-bases-in-gulf-claims-hormuz-closed-trump-tomahawk-missile-11620202#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/india-news/first-made-in-india-c-295-carries-out-maiden-test-flight-11619813#publisher=newsstand",
     "category": "india",
     "title": "First Made-In-India C-295 Carries Out Maiden Test Flight",
-    "summary": "India",
+    "summary": "The IAF congratulated the entire team behind the successful maiden flight of the first India-made C-295",
     "image": "https://c.ndtvimg.com/2024-10/7m6hsmfo_c295-military-aircraft-_625x300_28_October_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 11 Jun 2026 01:18:17 +0530",
+    "pubDate": "Thu, 11 Jun 2026 07:18:41 +0530",
     "link": "https://www.ndtv.com/india-news/first-made-in-india-c-295-carries-out-maiden-test-flight-11619813#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/4-bangladeshi-robbers-jump-in-gurugram-underpass-to-run-from-cops-arrested-11619726#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-heatwave-warnings-high-speed-winds-hit-delhi-temperatures-continue-to-soar-11615043#publisher=newsstand",
     "category": "india",
-    "title": "4 Bangladeshi Robbers Jump In Gurugram Underpass To Run From Cops, Arrested",
-    "summary": "All four were admitted to a hospital and will be formally arrested after being discharged.",
-    "image": "https://c.ndtvimg.com/2019-12/pasi7rqs_gurgaon-police-generic_625x300_19_December_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Weather Today Live Updates: High Speed Winds Hit Delhi, But Temperatures Continue To Soar",
+    "summary": "Weather Updates Today: Palam recorded the highest gusty wind speed of 111 kilometres per hour during the evening hours, while the Pusa area reported maximum winds of 48 kilometres per hour.",
+    "image": "https://c.ndtvimg.com/2026-06/tldr5bjo_delhi-weather_625x300_10_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 11 Jun 2026 00:17:12 +0530",
-    "link": "https://www.ndtv.com/india-news/4-bangladeshi-robbers-jump-in-gurugram-underpass-to-run-from-cops-arrested-11619726#publisher=newsstand"
+    "pubDate": "Thu, 11 Jun 2026 07:15:12 +0530",
+    "link": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-heatwave-warnings-high-speed-winds-hit-delhi-temperatures-continue-to-soar-11615043#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/company-implements-work-from-home-policy-with-gps-location-tracking-employee-confused-11620239#publisher=newsstand",
+    "category": "india",
+    "title": "Company Implements Work From Home Policy With GPS Location Tracking, Employee Confused",
+    "summary": "WFH policy limits employees to Delhi-NCR with GPS-based attendance tracking.",
+    "image": "https://c.ndtvimg.com/2026-04/v01gj20c_as_625x300_15_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 11 Jun 2026 07:00:16 +0530",
+    "link": "https://www.ndtv.com/offbeat/company-implements-work-from-home-policy-with-gps-location-tracking-employee-confused-11620239#publisher=newsstand"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1540417.html",
+    "category": "sports",
+    "title": "England trump Richa's heroics; Henry injured as WI lose to Australia",
+    "summary": "Sciver-Brunt, Jones scored fifties for England; Voll scored 77* in Australia's chase of 132",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418100/418106.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 11 Jun 2026 03:16:38 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1540417.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1540440.html",
+    "category": "sports",
+    "title": "Australia change NZ and Bangladesh schedules due to women's Champions Trophy",
+    "summary": "New Zealand to tour twice in October and March due to February Champions Trophy while Bangladesh T20Is have been scrapped",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/398100/398191.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 11 Jun 2026 02:53:05 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1540440.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4gyp9v0e93o#0",
+    "category": "global",
+    "title": "Tehran targets US Gulf bases after American forces launch new strikes on Iran",
+    "summary": "US Central Command says its latest round of strikes were in response to \"unwarranted and continued aggression\" from Iran.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 11 Jun 2026 01:46:18 GMT",
+    "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
