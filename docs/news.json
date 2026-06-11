@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.bbc.com/news/articles/cn75y330kpjo#1",
-    "category": "global",
-    "title": "Find your local World Cup hero with our postcode lookup",
-    "summary": "Which World Cup stars have roots near you? Find out with our interactive lookup tool",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 10 Jun 2026 23:13:43 GMT",
-    "link": "https://www.bbc.com/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -50,6 +40,56 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cwy034q89j4o#0",
+    "category": "global",
+    "title": "Elon Musk's SpaceX raises $75bn ahead of record stock market debut",
+    "summary": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 11 Jun 2026 23:30:52 GMT",
+    "link": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/czrx7pvx57eo#0",
+    "category": "global",
+    "title": "'I spent uni savings on getting my teeth fixed' - how NHS dentist shortage is costing a fortune",
+    "summary": "People tell BBC Your Voice the rising cost of private dentistry is putting them in a difficult position.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 11 Jun 2026 23:03:30 GMT",
+    "link": "https://www.bbc.com/news/articles/czrx7pvx57eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c982352my98o#0",
+    "category": "global",
+    "title": "Meningitis B vaccine to be offered to a million young people",
+    "summary": "The decision for the one-off vaccine programme follows the unprecedented outbreak in Kent this year.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 11 Jun 2026 23:02:20 GMT",
+    "link": "https://www.bbc.com/news/articles/c982352my98o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cp3x1qzkj81o#0",
+    "category": "global",
+    "title": "Girl, 14, charged with attempted murder after Manchester school knife attack",
+    "summary": "Two pupils and a teacher were injured in the attack, which counter-terror police are investigating.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 11 Jun 2026 22:50:15 GMT",
+    "link": "https://www.bbc.com/news/articles/cp3x1qzkj81o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c78y6w78828o#0",
+    "category": "global",
+    "title": "Trump says deal to end Iran war is close after calling off strikes",
+    "summary": "Iran's foreign ministry spokesperson tells state TV that reports of an agreement were \"speculative\" and \"nothing has been finalised\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 11 Jun 2026 22:22:36 GMT",
+    "link": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-seeks-to-buy-at-least-5-billion-in-spacex-ipo-shares-report/articleshow/131664387.cms",
     "category": "finance",
     "title": "BlackRock seeks to buy at least $5 billion in SpaceX IPO shares: Report",
@@ -60,24 +100,14 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-seeks-to-buy-at-least-5-billion-in-spacex-ipo-shares-report/articleshow/131664387.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c4gyl9v02y5o#0",
+    "id": "https://www.bbc.com/news/articles/c4gyp8n7g3go#0",
     "category": "global",
-    "title": "Northern Ireland protests pass off without incident after two nights of unrest",
-    "summary": "After two nights of unrest, pockets of protests held across Northern Ireland have passed off peacefully.",
+    "title": "Armed forces minister quits after Healey exit as defence funding row deepens",
+    "summary": "Al Carns says the military isn't \"sufficiently funded\", as Dan Jarvis becomes the new defence secretary.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 11 Jun 2026 21:25:54 GMT",
-    "link": "https://www.bbc.com/news/articles/c4gyl9v02y5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwy034q89j4o#0",
-    "category": "global",
-    "title": "Elon Musk's SpaceX valued at nearly $1.8tn ahead of record share sale",
-    "summary": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 11 Jun 2026 21:10:14 GMT",
-    "link": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 11 Jun 2026 21:50:20 GMT",
+    "link": "https://www.bbc.com/news/articles/c4gyp8n7g3go?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/131663351.cms",
@@ -120,16 +150,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-demerger-four-spin-off-companies-list-on-exchanges-on-june-15/articleshow/131662912.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c2ly928xz8go#1",
-    "category": "global",
-    "title": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
-    "summary": "A star-studded opening ceremony featured artists from the World Cup's official soundtrack.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 11 Jun 2026 20:26:06 GMT",
-    "link": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-morgan-stanley-and-others-buy-stake-in-rs-1960-crore-lenskart-block-deal/articleshow/131662423.cms",
     "category": "finance",
     "title": "Goldman Sachs, Morgan Stanley and others buy stake in Rs 1,960 crore Lenskart block deal",
@@ -140,14 +160,14 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-morgan-stanley-and-others-buy-stake-in-rs-1960-crore-lenskart-block-deal/articleshow/131662423.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c932y3q09qro#0",
+    "id": "https://www.bbc.com/news/articles/c862wpn8e4xo#0",
     "category": "global",
-    "title": "Dozens of children put at risk after gender care failures at GP clinic, inquiry finds",
-    "summary": "A safety inquiry into the WellBN clinic in Brighton found 78 children were potentially harmed after being given gender medication without proper checks.",
+    "title": "London Stadium and West Ham women's team not aware of David Sullivan contact ban",
+    "summary": "The owner of West Ham United's home has raised concerns it was not told about safeguarding restrictions.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 11 Jun 2026 18:35:31 GMT",
-    "link": "https://www.bbc.com/news/articles/c932y3q09qro?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 11 Jun 2026 20:03:59 GMT",
+    "link": "https://www.bbc.com/news/articles/c862wpn8e4xo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1540534.html",
@@ -228,26 +248,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 11 Jun 2026 14:04:10 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1540505.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko#1",
-    "category": "global",
-    "title": "The rise and rise of 'Meatball' McGinn",
-    "summary": "John McGinn was a boy from Clydebank with a \"big, round head\" and bigger dreams. Scotland's World Cup opener marks a new high in a storybook career.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 11 Jun 2026 13:48:36 GMT",
-    "link": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cq61l6d870vo#1",
-    "category": "global",
-    "title": "'Mum was killing me': England's Declan Rice on sunburn for his World Cup photoshoot",
-    "summary": "The Arsenal midfielder admits he was a touch pink in pre-tournament photos as players try to adjust to scorching conditions.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 11 Jun 2026 09:44:10 GMT",
-    "link": "https://www.bbc.com/news/articles/cq61l6d870vo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
