@@ -40,36 +40,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/czrx7pvx57eo#0",
-    "category": "global",
-    "title": "'I spent uni savings on getting my teeth fixed' - the real cost of NHS dentist shortage",
-    "summary": "People tell BBC Your Voice the rising cost of private dentistry is putting them in a difficult position.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 11 Jun 2026 23:03:30 GMT",
-    "link": "https://www.bbc.com/news/articles/czrx7pvx57eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1540534.html",
-    "category": "sports",
-    "title": "Mehidy taken to hospital after being hit on the head by bouncer",
-    "summary": "Mehidy had a concussion, the team physio said, and will remain in hospital for 24 hours",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418100/418140.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 11 Jun 2026 18:22:39 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1540534.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1540497.html",
-    "category": "sports",
-    "title": "Rob Key: England Test team is not a 'national embarrassment'",
-    "summary": "Managing director won't rule out sacking Stokes following incident in Chelsea nightclub",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418100/418128.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 11 Jun 2026 17:25:15 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1540497.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -100,204 +70,204 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-ipo-listing-stock-price-live-updates-spcx-elon-musk-valuation-trillionaire-starlink-ai-retail-dow-jones-nasdaq-sp-500-today/liveblog/131683416.cms",
+    "id": "https://www.ndtv.com/world-news/us-iran-war-donald-trump-claims-iran-tried-to-attack-indian-ships-with-drones-slams-deal-leak-11628724#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Claims Iran Tried To Attack Indian Ships With Drones, Slams Deal 'Leak'",
+    "summary": "After an attack on a Palau-flagged tanker MT Settebello, three Indian sailors died",
+    "image": "https://c.ndtvimg.com/2026-04/kgag1ulo_trump_625x300_06_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 12 Jun 2026 21:18:17 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-donald-trump-claims-iran-tried-to-attack-indian-ships-with-drones-slams-deal-leak-11628724#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/worst-may-be-behind-us-chief-economic-adviser-v-anantha-nageswaran-on-us-iran-conflict-effects-11628000#publisher=newsstand",
+    "category": "india",
+    "title": "'Worst May Be Behind Us': Chief Economic Adviser On US-Iran Conflict's Effects",
+    "summary": "NDTV Editor-in-Chief Rahul Kanwal with Chief Economic Adviser V Anantha Nageswaran",
+    "image": "https://c.ndtvimg.com/2026-06/9pl4uevk_ndtv-ignite_625x300_12_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 12 Jun 2026 21:17:56 +0530",
+    "link": "https://www.ndtv.com/india-news/worst-may-be-behind-us-chief-economic-adviser-v-anantha-nageswaran-on-us-iran-conflict-effects-11628000#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/significant-progress-probe-on-investigator-year-after-air-india-crash-11628049#publisher=newsstand",
+    "category": "india",
+    "title": "'Significant Progress, Probe On': Investigator Year After Air India Crash",
+    "summary": "AAIB said the purpose of the accident investigation is to enhance aviation safety.",
+    "image": "https://c.ndtvimg.com/2026-06/2ll7uadk_image_160x120_11_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 12 Jun 2026 21:14:09 +0530",
+    "link": "https://www.ndtv.com/india-news/significant-progress-probe-on-investigator-year-after-air-india-crash-11628049#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-iran-deal-has-never-been-closer-says-iran-foreign-minister-araghchi-11628855#publisher=newsstand",
+    "category": "india",
+    "title": "US-Iran Deal Has 'Never Been Closer', Says Iran Foreign Minister Araghchi",
+    "summary": "Araghchi's comments came after Donald Trump said a peace deal will be signed soon.",
+    "image": "https://c.ndtvimg.com/2024-10/vjh1uoe8_-iranian-foreign-minister-abbas-araghchi_625x300_22_October_24.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 12 Jun 2026 21:12:31 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-deal-has-never-been-closer-says-iran-foreign-minister-araghchi-11628855#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/chennai-to-name-road-after-ashoka-chakra-awardee-major-mukund-varadharajan-11628968#publisher=newsstand",
+    "category": "india",
+    "title": "Chennai To Name Road After Ashoka Chakra Awardee Major Mukund Varadharajan",
+    "summary": "Major Mukund Varadharajan was killed in action in 2014.",
+    "image": "https://c.ndtvimg.com/2026-06/36q9l5bk_major-mukund-varadharajan_625x300_12_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 12 Jun 2026 21:11:12 +0530",
+    "link": "https://www.ndtv.com/india-news/chennai-to-name-road-after-ashoka-chakra-awardee-major-mukund-varadharajan-11628968#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/pune-news/tcs-pune-engineer-dies-by-suicide-note-alleges-harassment-by-colleagues-11628878#publisher=newsstand",
+    "category": "india",
+    "title": "TCS Engineer Dies By Suicide, Blames Harassment By Seniors, Including 2 Women",
+    "summary": "An IT engineer at TCS alleged workplace harassment in a suicide note",
+    "image": "https://c.ndtvimg.com/fuhbbqu9u2_tcs---company-website_625x300.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 12 Jun 2026 21:02:54 +0530",
+    "link": "https://www.ndtv.com/pune-news/tcs-pune-engineer-dies-by-suicide-note-alleges-harassment-by-colleagues-11628878#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/indian-man-saves-3-year-old-falling-from-london-window-ledge-credits-cricket-skills-11628899#publisher=newsstand",
+    "category": "india",
+    "title": "Indian Man Saves 3-Year-Old Falling From London Window Ledge, Credits Cricket Skills",
+    "summary": "Jesin added that his cricket skills helped him catch the girl.",
+    "image": "https://c.ndtvimg.com/2026-06/8eaajuoo_hero-who-rescued-girl-from-window-ledge-says-he-used-cricket-skills-to-catch-her_625x300_12_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 12 Jun 2026 21:02:27 +0530",
+    "link": "https://www.ndtv.com/offbeat/indian-man-saves-3-year-old-falling-from-london-window-ledge-credits-cricket-skills-11628899#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-could-make-robust-nasdaq-debut-at-25-premium-after-75-billion-ipo/articleshow/131688323.cms",
     "category": "finance",
-    "title": "SpaceX IPO Stock Price Live Updates: After record IPO, SpaceX shares to list on Nasdaq; Elon Musk sets sights on becomin",
+    "title": "SpaceX shares rise 11% in strong Nasdaq debut after $75 billion IPO",
+    "summary": "SpaceX began trading on Nasdaq following a record-breaking IPO that valued the company at $1.75 trillion. Investors are closely watching its market debut, growth prospects in space, satellite communications and AI, and potential inclusion in the Nasd",
+    "image": "https://img.etimg.com/photo/msid-131688323,imgsize-135068.cms",
+    "source": "ET",
+    "pubDate": "Fri, 12 Jun 2026 21:02:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-could-make-robust-nasdaq-debut-at-25-premium-after-75-billion-ipo/articleshow/131688323.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-reiterates-right-to-enrich-uranium-as-trump-teases-peace-deal-11628909#publisher=newsstand",
+    "category": "india",
+    "title": "Iran Reiterates Right To Enrich Uranium As Trump Teases Peace Deal",
+    "summary": "Iran the US would hold 60 days of talks.",
+    "image": "https://c.ndtvimg.com/2025-06/0ahdn2nk_iran-nuclear-site_625x300_14_June_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 12 Jun 2026 20:59:53 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-reiterates-right-to-enrich-uranium-as-trump-teases-peace-deal-11628909#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-review-delisting-framework-to-ease-exits/articleshow/131687129.cms",
+    "category": "finance",
+    "title": "Sebi to review delisting framework to ease exits",
+    "summary": "India's market regulator, SEBI, plans to review its delisting rules. This move aims to simplify capital market processes for businesses. SEBI has introduced several reforms recently to boost investor attraction. These include faster trade settlements",
+    "image": "https://img.etimg.com/photo/msid-131687129,imgsize-56808.cms",
+    "source": "ET",
+    "pubDate": "Fri, 12 Jun 2026 19:46:12 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-review-delisting-framework-to-ease-exits/articleshow/131687129.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-leveraged-fund-providers-hit-by-day-one-launch-setback-sources-say/articleshow/131686931.cms",
+    "category": "finance",
+    "title": "US Stocks: SpaceX leveraged fund providers hit by day-one launch setback, sources say",
+    "summary": "In light of recent developments, asset managers are now facing a delay on the introduction of leveraged SpaceX exchange-traded funds. The Securities and Exchange Commission has intervened to safeguard the much-anticipated IPO from any potential distr",
+    "image": "https://img.etimg.com/photo/msid-131686931,imgsize-31092.cms",
+    "source": "ET",
+    "pubDate": "Fri, 12 Jun 2026 19:33:16 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-leveraged-fund-providers-hit-by-day-one-launch-setback-sources-say/articleshow/131686931.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-shell-pauses-3-billion-share-buyback/articleshow/131686751.cms",
+    "category": "finance",
+    "title": "Global stocks: Shell pauses $3 billion share buyback",
+    "summary": "Shell has decided to put its $3 billion share repurchase program on hold from June 12 to July 14, as it navigates the implications of its acquisition of ARC Resources. During this period, shares that are not bought back will be earmarked for upcoming",
+    "image": "https://img.etimg.com/photo/msid-131686751,imgsize-87352.cms",
+    "source": "ET",
+    "pubDate": "Fri, 12 Jun 2026 19:29:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-shell-pauses-3-billion-share-buyback/articleshow/131686751.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-weighs-introducing-long-term-futures-and-options-contracts-tuhin-kanta-pandey/articleshow/131686672.cms",
+    "category": "finance",
+    "title": "Sebi weighs introducing long-term futures and options contracts: Tuhin Kanta Pandey",
+    "summary": "Sebi is evaluating longer-term futures and options contracts, broader commodity derivatives and bond index derivatives to deepen markets. The regulator highlighted resilient capital markets, strong domestic investor participation and a robust IPO pip",
+    "image": "https://img.etimg.com/photo/msid-131686672,imgsize-120662.cms",
+    "source": "ET",
+    "pubDate": "Fri, 12 Jun 2026 19:25:03 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-weighs-introducing-long-term-futures-and-options-contracts-tuhin-kanta-pandey/articleshow/131686672.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-dow-open-higher-on-mideast-deal-hopes-spacex-debut-in-focus/articleshow/131686201.cms",
+    "category": "finance",
+    "title": "US stocks: S&amp;P, Dow edge higher on Mideast deal hopes; SpaceX debut in focus",
+    "summary": "Major US stock indices opened higher on Friday, driven by optimism for a Middle East peace deal. Investors also anticipated the historic market debut of Elon Musk's SpaceX, expected to be Wall Street's largest public listing ever. The Dow and S&amp;P",
+    "image": "https://img.etimg.com/photo/msid-131686201,imgsize-243302.cms",
+    "source": "ET",
+    "pubDate": "Fri, 12 Jun 2026 19:04:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-dow-open-higher-on-mideast-deal-hopes-spacex-debut-in-focus/articleshow/131686201.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/spacex-ipo-live-elon-musk-becomes-worlds-first-trillionaire-as-company-makes-historic-debut/videoshow/131686061.cms",
+    "category": "finance",
+    "title": "SpaceX IPO LIVE | Elon Musk becomes world's first trillionaire as company makes historic debut",
     "summary": "",
-    "image": "https://img.etimg.com/photo/msid-131683416,imgsize-69532.cms",
+    "image": "https://img.etimg.com/photo/msid-131686061,imgsize-48678.cms",
     "source": "ET",
-    "pubDate": "Fri, 12 Jun 2026 17:04:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-ipo-listing-stock-price-live-updates-spcx-elon-musk-valuation-trillionaire-starlink-ai-retail-dow-jones-nasdaq-sp-500-today/liveblog/131683416.cms"
+    "pubDate": "Fri, 12 Jun 2026 18:56:06 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/spacex-ipo-live-elon-musk-becomes-worlds-first-trillionaire-as-company-makes-historic-debut/videoshow/131686061.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/neet-ug-2026-re-exam-nta-extends-duration-increases-rough-work-space-for-students-11627589#publisher=newsstand",
-    "category": "india",
-    "title": "NEET UG 2026 Re-Exam: Candidates To Get More Time And Extra Rough-Work Pages",
-    "summary": "NEET UG 2026 Re-Exam: Candidates will now receive four rough-work pages instead of the earlier two.",
-    "image": "https://c.ndtvimg.com/2024-06/8kin8q6g_entrance-exam-generic_625x300_14_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 12 Jun 2026 16:40:43 +0530",
-    "link": "https://www.ndtv.com/education/neet-ug-2026-re-exam-nta-extends-duration-increases-rough-work-space-for-students-11627589#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/woman-blackmailed-using-ai-edited-obscene-video-2-arrested-from-karnataka-11627598#publisher=newsstand",
-    "category": "india",
-    "title": "Woman Blackmailed Using AI-Edited Obscene Video, 2 Arrested From Karnataka",
-    "summary": "Both accused have been remanded to judicial custody.",
-    "image": "https://c.ndtvimg.com/2026-06/60s5vgl_karnataka-men-arrested_625x300_12_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 12 Jun 2026 16:39:59 +0530",
-    "link": "https://www.ndtv.com/india-news/woman-blackmailed-using-ai-edited-obscene-video-2-arrested-from-karnataka-11627598#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/science/scientists-create-wearable-device-that-harvests-water-from-thin-air-11627567#publisher=newsstand",
-    "category": "india",
-    "title": "Bear Grylls' Survival Dream? New Wearable Harvests Drinking Water From The Air",
-    "summary": "The advance in fabric technology comes alongside a new benchmark for atmospheric water harvesting.",
-    "image": "https://c.ndtvimg.com/2026-06/f9je88ho_this-jacket-pulls-drinking-water-from-thin-air_625x300_12_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 12 Jun 2026 16:35:19 +0530",
-    "link": "https://www.ndtv.com/science/scientists-create-wearable-device-that-harvests-water-from-thin-air-11627567#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/inside-swapan-dasguptas-marshall-plan-to-cut-losses-build-bengal-11626118#publisher=newsstand",
-    "category": "india",
-    "title": "Inside Swapan Dasgupta's 'Marshall Plan' To Cut Losses, Build Bengal",
-    "summary": "Without sustained investment, Bengal risks remaining trapped in a cycle of debt and financial stress",
-    "image": "https://c.ndtvimg.com/2026-06/lrguf6uk_swapan-suv_625x300_12_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 12 Jun 2026 16:34:11 +0530",
-    "link": "https://www.ndtv.com/india-news/inside-swapan-dasguptas-marshall-plan-to-cut-losses-build-bengal-11626118#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/tiger-takes-over-madhya-pradeshs-raisen-fort-hill-tourist-entry-shut-11627568#publisher=newsstand",
-    "category": "india",
-    "title": "Tiger Takes Over Madhya Pradesh's Raisen Fort Hill, Tourist Entry Shut",
-    "summary": "For now, Raisen Fort, once ruled by kings and maharajas, has fallen silent for visitors.",
-    "image": "https://c.ndtvimg.com/2026-06/vlrm29gc_tiger-movement_625x300_12_June_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 12 Jun 2026 16:33:30 +0530",
-    "link": "https://www.ndtv.com/india-news/tiger-takes-over-madhya-pradeshs-raisen-fort-hill-tourist-entry-shut-11627568#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/seeing-a-cultural-awakening-sanjeev-sanyal-amish-tripathi-at-ndtv-ignite-11627549#publisher=newsstand",
-    "category": "india",
-    "title": "Seeing A Cultural Awakening: Sanjeev Sanyal, Amish Tripathi At NDTV Ignite",
-    "summary": "\"We were the greatest explorers of the ancient world,\" said Sanjeev Sanyal at the NDTV Ignite Conclave. Amish Tripathi made a case for staying connected to our roots",
-    "image": "https://c.ndtvimg.com/2026-06/fko7vu14_ignite_625x300_12_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 12 Jun 2026 16:32:28 +0530",
-    "link": "https://www.ndtv.com/india-news/seeing-a-cultural-awakening-sanjeev-sanyal-amish-tripathi-at-ndtv-ignite-11627549#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/yogi-adityanath-flags-off-45-electric-buses-in-up-inaugurates-noida-depot-11627518#publisher=newsstand",
-    "category": "india",
-    "title": "Yogi Adityanath Flags Off 45 Electric Buses In UP, Inaugurates Noida Depot",
-    "summary": "According to officials, out of the 110 buses proposed, 10 are double-deckers.",
-    "image": "https://c.ndtvimg.com/2026-06/gjs5u818_up-buses-_625x300_12_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 12 Jun 2026 16:28:44 +0530",
-    "link": "https://www.ndtv.com/india-news/yogi-adityanath-flags-off-45-electric-buses-in-up-inaugurates-noida-depot-11627518#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/re-neet-2026-admit-card-live-updates-release-date-hall-ticket-download-link-exam-day-instructions-nta-on-security-measures-foolproof-preparations-revi-11626313#publisher=newsstand",
-    "category": "india",
-    "title": "Re-NEET 2026 Admit Card Live Updates: NTA Announces \"Candidate-Friendly\" Measures, Check \"Foolproof\" Preparations",
-    "summary": "The NTA is set to conduct the NEET UG 2026 re-exam on June 21, 2026.",
-    "image": "https://c.ndtvimg.com/2026-06/ke3oacm4_reneet_625x300_12_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 12 Jun 2026 16:28:22 +0530",
-    "link": "https://www.ndtv.com/education/re-neet-2026-admit-card-live-updates-release-date-hall-ticket-download-link-exam-day-instructions-nta-on-security-measures-foolproof-preparations-revi-11626313#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rallies-as-oil-slump-sparks-unwinding-of-dollar-longs/articleshow/131682274.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/united-foodbrands-among-6-consumer-discretionary-stocks-that-hit-52-week-highs-and-rallied-up-to-70-in-a-month/slideshow/131685002.cms",
     "category": "finance",
-    "title": "Rupee rallies as oil slump sparks unwinding of dollar longs",
-    "summary": "The Indian rupee experienced a robust uptick against the dollar on Friday, sparked by newfound optimism regarding peace talks between the U.S. and Iran. This positive development resulted in a sharp decrease in oil prices, alleviating some of the pre",
-    "image": "https://img.etimg.com/photo/msid-131682274,imgsize-46830.cms",
+    "title": "United Foodbrands among 6 consumer discretionary stocks that hit 52-week highs and rallied up to 70% in a month",
+    "summary": "A strong rally in Indian equities pushed several consumer discretionary stocks to fresh 52-week highs. United Foodbrands, Jay Bharat Maruti, Timex Group India, Sandhar Technologies, Goldiam International and SJS Enterprises scaled new peaks, reflecti",
+    "image": "https://img.etimg.com/photo/msid-131684832,imgsize-16266.cms",
     "source": "ET",
-    "pubDate": "Fri, 12 Jun 2026 16:26:08 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rallies-as-oil-slump-sparks-unwinding-of-dollar-longs/articleshow/131682274.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/13-stocks-held-by-100-mfs-in-may-surged-up-to-85-in-just-over-5-months/slideshow/131680461.cms",
-    "category": "finance",
-    "title": "13 stocks held by 100+ MFs in May surged up to 85% in just over 5 months",
-    "summary": "Stocks with strong mutual fund backing delivered sharp gains in CY26, with 13 names rising 40% to 85% in just over five months. Data show 268 stocks held by over 100 schemes, signalling broad institutional conviction and reinforcing momentum in selec",
-    "image": "https://img.etimg.com/photo/msid-131680292,imgsize-52680.cms",
-    "source": "ET",
-    "pubDate": "Fri, 12 Jun 2026 15:02:43 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/13-stocks-held-by-100-mfs-in-may-surged-up-to-85-in-just-over-5-months/slideshow/131680461.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/top-indian-state-lenders-eye-first-dollar-bonds-since-rbi-subsidy-sources-say/articleshow/131679759.cms",
-    "category": "finance",
-    "title": "Top Indian state lenders eye first dollar bonds since RBI subsidy, sources say",
-    "summary": "State Bank of India and Bank of Baroda are stepping into uncharted territory as the inaugural users of the Reserve Bank of India's fresh subsidised hedging mechanism. Their target? A substantial one billion dollars through a series of five-year dolla",
-    "image": "https://img.etimg.com/photo/msid-131679759,imgsize-105564.cms",
-    "source": "ET",
-    "pubDate": "Fri, 12 Jun 2026 14:37:25 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/top-indian-state-lenders-eye-first-dollar-bonds-since-rbi-subsidy-sources-say/articleshow/131679759.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/nse-ipo-coming-soon-ifci-shares-rally-20-to-fresh-52-week-high-heres-why-the-listing-buzz-is-driving-stock/articleshow/131679710.cms",
-    "category": "finance",
-    "title": "NSE IPO coming soon? IFCI shares rally 20% to fresh 52-week high. Here\u2019s why the listing buzz is driving stock",
-    "summary": "IFCI shares surged 20% to hit a 52-week high amid rising expectations of the NSE filing its IPO papers soon. The rally was driven by IFCI\u2019s indirect exposure to NSE through SHCIL. The stock has seen strong gains across short and long-term horizons.",
-    "image": "https://img.etimg.com/photo/msid-131679710,imgsize-43028.cms",
-    "source": "ET",
-    "pubDate": "Fri, 12 Jun 2026 14:35:32 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-ipo-coming-soon-ifci-shares-rally-20-to-fresh-52-week-high-heres-why-the-listing-buzz-is-driving-stock/articleshow/131679710.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/after-record-ipo-musks-spacex-faces-next-test-in-market-debut/articleshow/131678629.cms",
-    "category": "finance",
-    "title": "After record IPO, Musk's SpaceX faces next test in market debut",
-    "summary": "SpaceX is set to debut on Nasdaq with a massive $75 billion IPO. Investors are betting on Elon Musk's ambitious plans, valuing the company at $1.77 trillion. This landmark listing could reshape the market and pave the way for future tech giants. The ",
-    "image": "https://img.etimg.com/photo/msid-131678629,imgsize-116804.cms",
-    "source": "ET",
-    "pubDate": "Fri, 12 Jun 2026 13:44:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/after-record-ipo-musks-spacex-faces-next-test-in-market-debut/articleshow/131678629.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/blackrock-says-oil-fx-risks-loom-over-indias-bond-inflow-push/articleshow/131678605.cms",
-    "category": "finance",
-    "title": "BlackRock says oil, FX risks loom over India's bond inflow push",
-    "summary": "Indian debt is piquing the interest of foreign investors thanks to new government initiatives. Nonetheless, investment giant BlackRock remains cautious, keeping its exposure steady. Challenges like steep currency hedging expenses and volatile oil pri",
-    "image": "https://img.etimg.com/photo/msid-131678605,imgsize-1335453.cms",
-    "source": "ET",
-    "pubDate": "Fri, 12 Jun 2026 13:42:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/blackrock-says-oil-fx-risks-loom-over-indias-bond-inflow-push/articleshow/131678605.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-demerger-listing-date-4-new-names-special-trading-session-8-things-shareholders-should-know/slideshow/131678672.cms",
-    "category": "finance",
-    "title": "Vedanta post demerger listing: Date, 4 new stocks, special trading session. 8 things shareholders should know",
-    "summary": "Vedanta's landmark demerger is set to unlock value for shareholders, with four newly created entities scheduled for listing and trading on June 15 through a special pre-open session.",
-    "image": "https://img.etimg.com/photo/msid-131678559,imgsize-34108.cms",
-    "source": "ET",
-    "pubDate": "Fri, 12 Jun 2026 13:37:07 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-demerger-listing-date-4-new-names-special-trading-session-8-things-shareholders-should-know/slideshow/131678672.cms"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1540722.html",
-    "category": "sports",
-    "title": "India face test of depth in first-ever ODI series against Afghanistan",
-    "summary": "Afghanistan will lean on their ODI experience in India, who will not have Kohli, Hardik, Siraj and Bumrah",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/411800/411845.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 12 Jun 2026 12:05:18 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1540722.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwy03rneqxzo#0",
-    "category": "global",
-    "title": "Nineteen now arrested over Northern Ireland disorder with house targeted in arson",
-    "summary": "Thursday night was relatively quiet although police say an arson attack in north Belfast is linked to the disorder.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 12 Jun 2026 11:51:54 GMT",
-    "link": "https://www.bbc.com/news/articles/cwy03rneqxzo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Fri, 12 Jun 2026 18:01:11 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/united-foodbrands-among-6-consumer-discretionary-stocks-that-hit-52-week-highs-and-rallied-up-to-70-in-a-month/slideshow/131685002.cms"
   },
   {
     "id": "https://www.bbc.com/news/articles/cwyex8lk70jo#0",
     "category": "global",
-    "title": "Donaldson denies meeting sex abuse accuser to 'nip in the bud' allegations",
+    "title": "Prosecutor tells Donaldson he is 'the only one telling lies' at his sex abuse trial",
     "summary": "Sir Jeffrey Donaldson, the former Democratic Unionist Party (DUP) leader, is on trial for 18 sex abuse charges, including one count of rape, all of which he denies.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 12 Jun 2026 11:47:58 GMT",
+    "pubDate": "Fri, 12 Jun 2026 16:10:36 GMT",
     "link": "https://www.bbc.com/news/articles/cwyex8lk70jo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1540723.html",
+    "id": "https://www.espncricinfo.com/ci/content/story/1540724.html",
+    "category": "sports",
+    "title": "Saturday at T20 World Cup: Ismail's return, reruns of 2024 semis, and some rain",
+    "summary": "A look at the first triple-header of the Women's T20 World Cup",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418000/418010.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 12 Jun 2026 15:20:41 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1540724.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1540723.html",
     "category": "sports",
     "title": "Kane Williamson retires from international cricket",
     "summary": "New Zealand's record run-scorer opts out of completing ongoing Test series in England",
     "image": "http://p.imgci.com/db/PICTURES/CMS/418100/418161.jpg",
     "source": "Cricinfo",
-    "pubDate": "Fri, 12 Jun 2026 11:36:50 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1540723.html?ex_cid=OTC-RSS"
+    "pubDate": "Fri, 12 Jun 2026 15:17:10 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1540723.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1540747.html",
+    "category": "sports",
+    "title": "Williamson on retiring mid-series: 'Just feels like the right time'",
+    "summary": "Williamson announced his retirement from international cricket after the first Test against England at Lord's",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/409900/409954.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 12 Jun 2026 15:15:11 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1540747.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c3wyezwly69o#0",
@@ -306,78 +276,108 @@
     "summary": "Thousands of safer paths and crossings are promised to help people become more active in England's towns and cities.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 12 Jun 2026 11:21:47 GMT",
+    "pubDate": "Fri, 12 Jun 2026 15:11:57 GMT",
     "link": "https://www.bbc.com/news/articles/c3wyezwly69o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c5yzxd0g833o#0",
-    "category": "global",
-    "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
-    "summary": "The singer thanks her family as she becomes the youngest woman to be inducted into the Hall of Fame.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 12 Jun 2026 11:12:11 GMT",
-    "link": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwy034q89j4o#0",
-    "category": "global",
-    "title": "Elon Musk's SpaceX raises $75bn ahead of record stock market debut",
-    "summary": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 12 Jun 2026 11:02:44 GMT",
-    "link": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ck77rg88gd9o#0",
-    "category": "global",
-    "title": "Art's great innovator whose vivid paintings made him a household name",
-    "summary": "The proud Yorkshireman, who also painted iconic pictures of America, was routinely described as Britain's greatest artist.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 12 Jun 2026 09:52:22 GMT",
-    "link": "https://www.bbc.com/news/articles/ck77rg88gd9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1540503.html",
+    "id": "https://www.espncricinfo.com/ci/content/story/1540722.html",
     "category": "sports",
-    "title": "Edgbaston takes center stage as England, Sri Lanka kick off T20 World Cup",
-    "summary": "History is on England's side, as they have won 10 of the last 12 T20Is against Sri Lanka",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418100/418107.jpg",
+    "title": "India face test of depth in first-ever ODI series against Afghanistan",
+    "summary": "Afghanistan will lean on their ODI experience in India, who will not have Kohli, Hardik, Siraj and Bumrah",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/411800/411845.jpg",
     "source": "Cricinfo",
-    "pubDate": "Fri, 12 Jun 2026 09:52:04 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1540503.html?ex_cid=OTC-RSS"
+    "pubDate": "Fri, 12 Jun 2026 15:00:23 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1540722.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1540571.html",
+    "id": "https://www.bbc.com/news/videos/c8e2w83kxryo#0",
+    "category": "global",
+    "title": "Watch: Four UFO videos newly declassified by US government",
+    "summary": "The eyewitness footage shows bright orbs in the sky over an undisclosed location in the northeastern US.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 12 Jun 2026 14:59:52 GMT",
+    "link": "https://www.bbc.com/news/videos/c8e2w83kxryo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8d2q84y1gno#0",
+    "category": "global",
+    "title": "Defence row exposes tensions over how to keep UK safe",
+    "summary": "Ex-Defence Secretary John Healey has said the defence investment plan is \"well short of what is required\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 12 Jun 2026 14:46:23 GMT",
+    "link": "https://www.bbc.com/news/articles/c8d2q84y1gno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvgjxdr27z4o#0",
+    "category": "global",
+    "title": "Celebrated British artist David Hockney dies aged 88",
+    "summary": "Hockney, one of the UK's most important and influential artists, has died at the age of 88.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 12 Jun 2026 14:03:35 GMT",
+    "link": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1540534.html",
+    "category": "sports",
+    "title": "Mehidy taken to hospital after being hit on the head by bouncer",
+    "summary": "Mehidy had a concussion, the team physio said, and will remain in hospital for 24 hours",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418100/418140.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 12 Jun 2026 13:41:11 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1540534.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c77yje7n287o#0",
+    "category": "global",
+    "title": "Israeli tech firm accused of targeting First Minister John Swinney in election",
+    "summary": "Accounts linked to tech firm BlackCore are alleged to have carried out 'digital interference operations' against John Swinney.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 12 Jun 2026 13:18:09 GMT",
+    "link": "https://www.bbc.com/news/articles/c77yje7n287o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/clyxkeny8x6o#0",
+    "category": "global",
+    "title": "London council takes possession of property linked to Sierra Leone's First Lady",
+    "summary": "Southwark Council in south London takes possession of a property linked to Sierra Leone's Fatima Bio.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 12 Jun 2026 13:05:29 GMT",
+    "link": "https://www.bbc.com/news/articles/clyxkeny8x6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1540746.html",
+    "category": "sports",
+    "title": "Rainey replaces injured Maqsood in Scotland squad",
+    "summary": "Maqsood sustained a fractured hand during Scotland's warm-up match against Pakistan",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/388100/388179.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 12 Jun 2026 12:26:05 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1540746.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1540571.html",
     "category": "sports",
     "title": "Devonshire, Patel and Sharp earn NZ central contracts for 2026-27",
     "summary": "The trio have replaced Bates, Down and Tahuhu on the contract list, with Devine also absent from the group",
     "image": "http://p.imgci.com/db/PICTURES/CMS/406000/406018.png",
     "source": "Cricinfo",
     "pubDate": "Fri, 12 Jun 2026 08:20:48 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1540571.html?ex_cid=OTC-RSS"
+    "link": "https://www.espncricinfo.com/ci/content/story/1540571.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1540551.html",
-    "category": "sports",
-    "title": "Sciver-Brunt: 'Pressure is a privilege' for England's World Cup homecoming",
-    "summary": "England captain acknowledges success of rugby and football counterparts as hosts prepare for Sri Lanka challenge",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418100/418144.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 12 Jun 2026 08:06:01 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1540551.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1540554.html",
+    "id": "https://www.espncricinfo.com/ci/content/story/1540554.html",
     "category": "sports",
     "title": "Holder, Joseph set up victory as West Indies go 1-0 up",
     "summary": "Sri Lanka scored just 147 but gave WI a scare, before Hope's 65* led the chase",
     "image": "http://p.imgci.com/db/PICTURES/CMS/418100/418146.jpg",
     "source": "Cricinfo",
     "pubDate": "Fri, 12 Jun 2026 06:40:55 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1540554.html?ex_cid=OTC-RSS"
+    "link": "https://www.espncricinfo.com/ci/content/story/1540554.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/cly7jjq8nr1o#0",
