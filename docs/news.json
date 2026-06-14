@@ -40,26 +40,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/india-news/all-about-nationalist-citizens-party-new-home-of-20-rebel-trinamool-mps-11636178#publisher=newsstand",
-    "category": "india",
-    "title": "All About Nationalist Citizens Party, New Home Of 20 Rebel Trinamool MPs",
-    "summary": "NCPI president Uttiya Kundu and party treasurer Shewly Kundu",
-    "image": "https://c.ndtvimg.com/2026-06/bav1psq_uttiya-shewly_625x300_14_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sun, 14 Jun 2026 23:57:30 +0530",
-    "link": "https://www.ndtv.com/india-news/all-about-nationalist-citizens-party-new-home-of-20-rebel-trinamool-mps-11636178#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/all-12-on-board-killed-as-plane-crashes-in-us-state-of-missouri-11636225#publisher=newsstand",
-    "category": "india",
-    "title": "All 12 On Board Killed As Plane Crashes In US State Of Missouri",
-    "summary": "12 dead in Missouri plane crash",
-    "image": "https://c.ndtvimg.com/2026-06/qqoppjsk_missouri_625x300_14_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Sun, 14 Jun 2026 23:57:18 +0530",
-    "link": "https://www.ndtv.com/world-news/all-12-on-board-killed-as-plane-crashes-in-us-state-of-missouri-11636225#publisher=newsstand"
-  },
-  {
     "id": "https://www.ndtv.com/india-news/locked-in-beaten-forced-to-work-bengal-woman-rescued-in-gurugram-11636204#publisher=newsstand",
     "category": "india",
     "title": "Locked In, Beaten, Forced To Work, Bengal Woman Rescued In Gurugram",
@@ -100,44 +80,54 @@
     "link": "https://www.ndtv.com/india-news/merger-interim-measure-trinamool-mp-reveals-rebels-july-plan-11635968#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/8-killed-as-pick-up-vehicle-falls-in-well-in-maharashtra-cops-11636141#publisher=newsstand",
-    "category": "india",
-    "title": "8 Killed As Pick-Up Vehicle Falls In Well In Maharashtra: Cops",
-    "summary": "Fadnavis said seven people were rescued and are currently undergoing treatment.",
-    "image": "https://c.ndtvimg.com/2022-08/rbm5tbt8_do-not-cross-police-generic_625x300_23_August_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sun, 14 Jun 2026 23:17:25 +0530",
-    "link": "https://www.ndtv.com/india-news/8-killed-as-pick-up-vehicle-falls-in-well-in-maharashtra-cops-11636141#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/3-killed-29-injured-as-truck-rams-bus-in-madhya-pradesh-cops-11636066#publisher=newsstand",
-    "category": "india",
-    "title": "3 Killed, 29 Injured As Truck Rams Bus In Madhya Pradesh: Cops",
-    "summary": "The driver of the truck was also injured. (Representational)",
-    "image": "https://c.ndtvimg.com/2023-01/7hfj4un8_accident-generic-road-sign-generic-getty_625x300_20_January_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sun, 14 Jun 2026 22:45:56 +0530",
-    "link": "https://www.ndtv.com/india-news/3-killed-29-injured-as-truck-rams-bus-in-madhya-pradesh-cops-11636066#publisher=newsstand"
+    "id": "https://www.espncricinfo.com/ci/content/story/1541219.html",
+    "category": "sports",
+    "title": "Ollie Robinson out of second Test with knee injury",
+    "summary": "England to assess seamer after scans, could still return for Trent Bridge",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417800/417882.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 14 Jun 2026 20:55:25 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1541219.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1541215.html",
     "category": "sports",
-    "title": "Mandhana, Deepti, Richa star as India breeze past Pakistan",
+    "title": "Mandhana, Deepti, Ghosh star as India breeze past Pakistan",
     "summary": "Mandhana top-scored with 68 to lift India from 18 for 2 to 170, their highest in a T20 World Cup against Pakistan",
     "image": "http://p.imgci.com/db/PICTURES/CMS/418300/418321.jpg",
     "source": "Cricinfo",
-    "pubDate": "Sun, 14 Jun 2026 19:11:26 GMT",
+    "pubDate": "Sun, 14 Jun 2026 20:53:22 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1541215.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c74ym4j40gpo#0",
     "category": "global",
-    "title": "11 skydivers and pilot killed in plane crash",
+    "title": "11 skydivers and pilot killed in US plane crash",
     "summary": "The plane had just taken off in the US state of Missouri, but failed to gain altitude, according to local emergency responders.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sun, 14 Jun 2026 19:07:58 GMT",
+    "pubDate": "Sun, 14 Jun 2026 20:32:00 GMT",
     "link": "https://www.bbc.com/news/articles/c74ym4j40gpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4gyxgwkyxyo#0",
+    "category": "global",
+    "title": "Assisted dying returns to parliament as MP urges peers to 'finish the job'",
+    "summary": "Lauren Edwards says she will bring the exact same bill which was narrowly passed by the Commons but ran out of time in the Lords.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 14 Jun 2026 20:05:21 GMT",
+    "link": "https://www.bbc.com/news/articles/c4gyxgwkyxyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/crkvek3dnrgo#0",
+    "category": "global",
+    "title": "Watch: Protesters clash with police ahead of G7 summit in Geneva",
+    "summary": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 14 Jun 2026 19:46:36 GMT",
+    "link": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1541183.html",
@@ -160,16 +150,6 @@
     "link": "https://www.espncricinfo.com/ci/content/story/1541179.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1541219.html",
-    "category": "sports",
-    "title": "Ollie Robinson out of second Test with knee injury",
-    "summary": "England to assess seamer after scans, could still return for Trent Bridge",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417800/417882.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 14 Jun 2026 18:50:25 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1541219.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.espncricinfo.com/ci/content/story/1541186.html",
     "category": "sports",
     "title": "Lewis Hill vigil keeps Leicestershire afloat as Essex eye top spot",
@@ -188,16 +168,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 14 Jun 2026 18:27:31 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1541184.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c20ygjem17zo#0",
-    "category": "global",
-    "title": "Swiss voters reject 10 million population cap",
-    "summary": "Nearly 55% of participants voted against the proposal to cap population by cutting migration, results show.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 14 Jun 2026 18:23:52 GMT",
-    "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.espncricinfo.com/ci/content/story/1541188.html",
@@ -240,6 +210,16 @@
     "link": "https://www.bbc.com/news/articles/cx2dmwmj4dmo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.com/news/articles/czj83zlx1vjo#0",
+    "category": "global",
+    "title": "Israeli military says Hezbollah targets struck in Beirut",
+    "summary": "Israel says it targeted the Iran-backed armed group Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 14 Jun 2026 17:52:36 GMT",
+    "link": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/cea-anantha-nageswaran-says-ai-stock-valuations-definitely-in-a-bubble/articleshow/131720915.cms",
     "category": "finance",
     "title": "CEA Anantha Nageswaran says AI stock valuations definitely in a bubble",
@@ -278,26 +258,6 @@
     "source": "ET",
     "pubDate": "Sun, 14 Jun 2026 16:00:51 +0530",
     "link": "https://economictimes.indiatimes.com/markets/expert-view/vedanta-demerger-hfcl-dip-anand-james-reveals-how-to-trade-this-weeks-top-stock-triggers/articleshow/131719301.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cdjkd4mp93zo#0",
-    "category": "global",
-    "title": "Farage vows to ban foreign nationals from social housing",
-    "summary": "The Reform UK leader says tenants would have three months to find a new home or face potential deportation.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 14 Jun 2026 15:52:44 GMT",
-    "link": "https://www.bbc.com/news/articles/cdjkd4mp93zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx2kjwgwxwlo#0",
-    "category": "global",
-    "title": "UK and Japan agree \u00a318bn investment deal",
-    "summary": "Japanese firms will spend billions on UK infrastructure and offshore wind, Downing Street says.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 14 Jun 2026 15:25:33 GMT",
-    "link": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-rbis-fcnrb-and-ecb-swap-window-could-be-a-game-changer-for-banks/articleshow/131717819.cms",
@@ -368,6 +328,46 @@
     "source": "VentureBeat",
     "pubDate": "Mon, 19 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/all-about-nationalist-citizens-party-new-home-of-20-rebel-trinamool-mps-11636178#publisher=newsstand",
+    "category": "india",
+    "title": "All About Nationalist Citizens Party, New Home Of 20 Rebel Trinamool MPs",
+    "summary": "NCPI president Uttiya Kundu and party treasurer Shewly Kundu",
+    "image": "https://c.ndtvimg.com/2026-06/bav1psq_uttiya-shewly_625x300_14_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 15 Jun 2026 00:23:45 +0530",
+    "link": "https://www.ndtv.com/india-news/all-about-nationalist-citizens-party-new-home-of-20-rebel-trinamool-mps-11636178#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/trinamool-congress-nationalist-citizens-party-mamata-banerjee-after-rebel-blocs-big-merger-announcement-trinamools-betrayal-jab-11635730#publisher=newsstand",
+    "category": "india",
+    "title": "After Rebel Bloc's Big Merger Announcement, Trinamool's \"Betrayal\" Jab",
+    "summary": "The rebel group has \"betrayed Trinamool,\" Madan Mitra told reporters.",
+    "image": "https://c.ndtvimg.com/2026-05/dmd5ubjs_mamata-abhishek_625x300_31_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 15 Jun 2026 00:18:05 +0530",
+    "link": "https://www.ndtv.com/india-news/trinamool-congress-nationalist-citizens-party-mamata-banerjee-after-rebel-blocs-big-merger-announcement-trinamools-betrayal-jab-11635730#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/all-12-on-board-killed-as-plane-crashes-in-us-state-of-missouri-11636225#publisher=newsstand",
+    "category": "india",
+    "title": "All 12 On Board Killed As Plane Crashes In US State Of Missouri",
+    "summary": "12 dead in Missouri plane crash",
+    "image": "https://c.ndtvimg.com/2026-06/qqoppjsk_missouri_625x300_14_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 15 Jun 2026 00:17:21 +0530",
+    "link": "https://www.ndtv.com/world-news/all-12-on-board-killed-as-plane-crashes-in-us-state-of-missouri-11636225#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/new-rajkot-international-airport-boosts-industrial-growth-property-price-11636277#publisher=newsstand",
+    "category": "india",
+    "title": "New Rajkot International Airport Boosts Industrial Growth, Property Price",
+    "summary": "Due to the airport, major investments are coming in various sectors.",
+    "image": "https://c.ndtvimg.com/2023-09/aia8hes8_rajkot-international-airport-_625x300_11_September_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 15 Jun 2026 00:17:05 +0530",
+    "link": "https://www.ndtv.com/india-news/new-rajkot-international-airport-boosts-industrial-growth-property-price-11636277#publisher=newsstand"
   },
   {
     "id": "7EaNv4Ip2AUlW9RClUv2cB",
