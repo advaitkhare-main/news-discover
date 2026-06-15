@@ -40,26 +40,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.espncricinfo.com/ci/content/story/1541183.html",
-    "category": "sports",
-    "title": "Guthrie spearheads Northants push despite Bancroft, Bracey resistance",
-    "summary": "Gloucestershire battle after being made to follow on but require something special on day four",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418300/418324.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 14 Jun 2026 21:14:17 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1541183.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1541219.html",
-    "category": "sports",
-    "title": "Ollie Robinson out of second Test with knee injury",
-    "summary": "England to assess seamer after scans, could still return for Trent Bridge",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417800/417882.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 14 Jun 2026 20:55:25 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1541219.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -70,164 +50,314 @@
     "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/us-iran-peace-deal-is-it-enough-to-end-the-2-year-drought-for-nifty-bulls-bring-fiis-back/articleshow/131739664.cms",
-    "category": "finance",
-    "title": "US-Iran peace deal: Is it enough to end the 2-year drought for Nifty bulls, bring FIIs back?",
-    "summary": "A US-Iran peace framework has sparked a sharp rally in Indian markets, sending crude oil prices lower, strengthening the rupee and prompting FII short covering. Analysts believe easing macroeconomic pressures could improve growth prospects, though ca",
-    "image": "https://img.etimg.com/photo/msid-131739664,imgsize-2401881.cms",
-    "source": "ET",
-    "pubDate": "Mon, 15 Jun 2026 14:54:01 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/us-iran-peace-deal-is-it-enough-to-end-the-2-year-drought-for-nifty-bulls-bring-fiis-back/articleshow/131739664.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/jal-shares-to-delist-from-bse-and-nse-on-thursday-what-happens-to-its-6-lakh-shareholders/articleshow/131739500.cms",
-    "category": "finance",
-    "title": "JAL shares to delist from BSE and NSE on Thursday. What happens to its 6 lakh shareholders?",
-    "summary": "Jaiprakash Associates is set to be delisted from the BSE and NSE from June 18 following the completion of insolvency proceedings and Adani Group\u2019s acquisition. Existing shareholders will receive no consideration as the approved resolution plan fully ",
-    "image": "https://img.etimg.com/photo/msid-131739500,imgsize-3756.cms",
-    "source": "ET",
-    "pubDate": "Mon, 15 Jun 2026 14:43:01 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/jal-shares-to-delist-from-bse-and-nse-on-thursday-what-happens-to-its-6-lakh-shareholders/articleshow/131739500.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ril-agm-2026-this-week-date-time-where-to-watch-live-and-what-to-expect/articleshow/131739350.cms",
-    "category": "finance",
-    "title": "RIL AGM 2026 this week: Date, time, where to watch live and what to expect",
-    "summary": "Reliance Industries' 49th AGM on June 19 is expected to draw investor attention for updates on the much-awaited Jio IPO, Reliance Retail's expansion plans and progress in its new energy business. Markets will also closely watch Chairman Mukesh Ambani",
-    "image": "https://img.etimg.com/photo/msid-131739350,imgsize-16496.cms",
-    "source": "ET",
-    "pubDate": "Mon, 15 Jun 2026 14:34:09 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ril-agm-2026-this-week-date-time-where-to-watch-live-and-what-to-expect/articleshow/131739350.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/deccan-gold-mines-shares-rally-20-to-fresh-lifetime-high-after-this-supreme-court-order/articleshow/131739091.cms",
-    "category": "finance",
-    "title": "Deccan Gold Mines shares rally 20% to fresh lifetime high after this Supreme Court order",
-    "summary": "Deccan Gold Mines shares surged significantly after the Supreme Court ruled in its favor. The apex court upheld the company's mining lease rights for the Ganajur Gold Project, established before 2015. This decision protects legacy mining applications",
-    "image": "https://img.etimg.com/photo/msid-131739091,imgsize-202524.cms",
-    "source": "ET",
-    "pubDate": "Mon, 15 Jun 2026 14:27:41 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/deccan-gold-mines-shares-rally-20-to-fresh-lifetime-high-after-this-supreme-court-order/articleshow/131739091.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/advit-jewels-announces-price-band-for-its-ipo-opening-on-june-23-check-details/articleshow/131739083.cms",
-    "category": "finance",
-    "title": "Advit Jewels announces price band for its IPO opening on June 23. Check details",
-    "summary": "Advit Jewels, a Jaipur-based jewellery maker, has announced its Initial Public Offering. The price band is set between Rs 130 and Rs 138 per share. The subscription opens on June 23 and closes on June 25. The company aims to raise approximately Rs 16",
-    "image": "https://img.etimg.com/photo/msid-131739083,imgsize-5926.cms",
-    "source": "ET",
-    "pubDate": "Mon, 15 Jun 2026 14:25:18 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/advit-jewels-announces-price-band-for-its-ipo-opening-on-june-23-check-details/articleshow/131739083.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/feature/mrbeast-becomes-first-youtuber-to-reach-500-million-subscribers-receives-special-diamond-play-button-11637245#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/on-camera-egg-thrown-at-kunal-ghosh-outside-mamata-banerjee-home-in-bengal-11640047#publisher=newsstand",
     "category": "india",
-    "title": "MrBeast Becomes First YouTuber to Reach 500 Million Subscribers, Receives Special Diamond Play Button",
-    "summary": "MrBeast is an American YouTuber, entrepreneur and philanthropist.",
-    "image": "https://c.ndtvimg.com/2026-06/2abgpptg_mrbeast-_625x300_15_June_26.jpeg",
+    "title": "On Camera, Egg Thrown At Kunal Ghosh Outside Mamata Banerjee Home",
+    "summary": "He condemned the incident, describing it as a \"planned act of hooliganism\".",
+    "image": "https://c.ndtvimg.com/2026-06/vbhm77ds_kunal-ghosh_625x300_15_June_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 15 Jun 2026 14:15:15 +0530",
-    "link": "https://www.ndtv.com/feature/mrbeast-becomes-first-youtuber-to-reach-500-million-subscribers-receives-special-diamond-play-button-11637245#publisher=newsstand"
+    "pubDate": "Mon, 15 Jun 2026 21:01:26 +0530",
+    "link": "https://www.ndtv.com/india-news/on-camera-egg-thrown-at-kunal-ghosh-outside-mamata-banerjee-home-in-bengal-11640047#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/zerodha-restarts-referral-programme-nithin-kamath-says-over-half-of-growth-came-through-word-of-mouth/articleshow/131738877.cms",
+    "id": "https://www.ndtv.com/india-news/ai-startup-sarvam-turns-unicorn-after-raising-234-million-in-series-b-round-11640266#publisher=newsstand",
+    "category": "india",
+    "title": "AI Startup Sarvam Turns Unicorn After Raising $234 Million In Series B Round",
+    "summary": "The company has rapidly expanded its AI portfolio in recent months.",
+    "image": "https://c.ndtvimg.com/2026-02/0luiotcg_sarvam-ai_625x300_11_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 15 Jun 2026 20:53:44 +0530",
+    "link": "https://www.ndtv.com/india-news/ai-startup-sarvam-turns-unicorn-after-raising-234-million-in-series-b-round-11640266#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/he-tortured-raped-bashar-al-assads-opponents-for-years-then-came-judgment-day-11640250#publisher=newsstand",
+    "category": "india",
+    "title": "He Tortured, Raped Bashar Al-Assad's Opponents For Years. Then Came Judgment Day",
+    "summary": "Rafik A was convicted of 19 counts of crimes against humanity against eight victims.",
+    "image": "https://c.ndtvimg.com/2024-12/ha8uss2g_bashar-alassad-afp_625x300_07_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 15 Jun 2026 20:53:27 +0530",
+    "link": "https://www.ndtv.com/world-news/he-tortured-raped-bashar-al-assads-opponents-for-years-then-came-judgment-day-11640250#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/guwahati-airport-named-among-worlds-most-beautiful-airports-11640248#publisher=newsstand",
+    "category": "india",
+    "title": "Guwahati Airport's Terminal 2 Named Among World's Most Beautiful Airports",
+    "summary": "The terminal also incorporates sustainable and environmentally conscious features.",
+    "image": "https://c.ndtvimg.com/2025-08/s3b5f8ns_guwahati-airport_625x300_08_August_25.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 15 Jun 2026 20:51:05 +0530",
+    "link": "https://www.ndtv.com/india-news/guwahati-airport-named-among-worlds-most-beautiful-airports-11640248#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-ndr-auto-among-2-stock-recommendations-for-tuesday/articleshow/131748920.cms",
     "category": "finance",
-    "title": "Zerodha restarts referral programme; Nithin Kamath says over half of growth came through word of mouth",
-    "summary": "Zerodha has relaunched its referral program after receiving regulatory clarity, a move founder Nithin Kamath highlighted as a significant growth driver. Previously, nearly 30% of accounts were acquired through referrals, with the actual impact likely",
-    "image": "https://img.etimg.com/photo/msid-131738877,imgsize-9042.cms",
+    "title": "Market trading guide: NDR Auto among 2 stock recommendations for Tuesday",
+    "summary": "Improved investor sentiment following the interim US-Iran peace agreement has supported equities as crude fell below $85, easing inflation concerns and improving the FY27 outlook. Analysts favour growth sectors such as autos, industrials, capital goo",
+    "image": "https://img.etimg.com/photo/msid-131748920,imgsize-87236.cms",
     "source": "ET",
-    "pubDate": "Mon, 15 Jun 2026 14:14:41 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/zerodha-restarts-referral-programme-nithin-kamath-says-over-half-of-growth-came-through-word-of-mouth/articleshow/131738877.cms"
+    "pubDate": "Mon, 15 Jun 2026 20:44:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-ndr-auto-among-2-stock-recommendations-for-tuesday/articleshow/131748920.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/severe-weather-alert-fatigue-rain-thunderstorm-delhi-ncr-india-disaster-response-11637897#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/trump-celebrates-80th-birthday-as-white-house-turns-into-cage-fight-arena-11640137#publisher=newsstand",
     "category": "india",
-    "title": "Alert Fatigue? Hidden Danger Behind Delhi-NCR's Constant Weather Updates",
-    "summary": "Many of the recent alerts have not been linked to disasters. They have been weather advisories.",
-    "image": "https://c.ndtvimg.com/2026-06/sinq31qo_thunderstorm_625x300_15_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "Trump Celebrates 80th Birthday As White House Turns Into Cage Fight Arena",
+    "summary": "A series of UFC combatants paid tribute to the president after winning",
+    "image": "https://c.ndtvimg.com/2026-06/r61osqlg_trump_625x300_15_June_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 15 Jun 2026 14:14:16 +0530",
-    "link": "https://www.ndtv.com/india-news/severe-weather-alert-fatigue-rain-thunderstorm-delhi-ncr-india-disaster-response-11637897#publisher=newsstand"
+    "pubDate": "Mon, 15 Jun 2026 20:27:59 +0530",
+    "link": "https://www.ndtv.com/world-news/trump-celebrates-80th-birthday-as-white-house-turns-into-cage-fight-arena-11640137#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/trinamool-crisis-ncpi-shantanu-dey-who-opposed-rebel-mps-merger-makes-u-turn-11638123#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/3-injured-as-clashes-break-out-between-two-groups-in-manipur-11640129#publisher=newsstand",
     "category": "india",
-    "title": "Trinamool Rebels To Join This Camp. Leader Who Opposed Merger Makes U-Turn",
-    "summary": "NCPI leader Shantanu Dey has changed his stand",
-    "image": "https://c.ndtvimg.com/2026-06/eplo6mbc_shantanu-dey-ncpi_625x300_15_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "3 Injured As Clashes Break Out Between Two Groups In Manipur",
+    "summary": "The reason behind the latest clash was not immediately known.",
+    "image": "https://i.ndtvimg.com/i/2015-07/manipur-tension-650_650x400_41436866204.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Mon, 15 Jun 2026 14:12:36 +0530",
-    "link": "https://www.ndtv.com/india-news/trinamool-crisis-ncpi-shantanu-dey-who-opposed-rebel-mps-merger-makes-u-turn-11638123#publisher=newsstand"
+    "pubDate": "Mon, 15 Jun 2026 20:26:53 +0530",
+    "link": "https://www.ndtv.com/india-news/3-injured-as-clashes-break-out-between-two-groups-in-manipur-11640129#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/markets-likely-to-move-beyond-geopolitics-focus-to-shift-to-earnings-devina-mehra/articleshow/131738747.cms",
+    "id": "https://www.ndtv.com/world-news/viral-video-claims-to-show-us-marines-saluting-ufc-fighter-heres-the-truth-behind-it-11640118#publisher=newsstand",
+    "category": "india",
+    "title": "Viral Video Claims To Show US Marines \"Saluting\" UFC Fighter. Here's The Truth Behind It",
+    "summary": "UFC fighter walked out of White House with two officials.",
+    "image": "https://c.ndtvimg.com/2026-06/ck0n094k_ufc-fighter-us-marines_625x300_15_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 15 Jun 2026 20:24:30 +0530",
+    "link": "https://www.ndtv.com/world-news/viral-video-claims-to-show-us-marines-saluting-ufc-fighter-heres-the-truth-behind-it-11640118#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/abhijeet-dipke-cjp-on-camera-cockroach-janta-party-founder-slapped-repeatedly-at-jaipur-protest-11639869#publisher=newsstand",
+    "category": "india",
+    "title": "On Camera, Cockroach Janta Party Founder Slapped Repeatedly At Jaipur Protest",
+    "summary": "Abhijeet Dipke said the CJP will not be deterred and will continue to hold peaceful protests.",
+    "image": "https://c.ndtvimg.com/2026-06/a0fs3ivs_cockroach-janata-party-founder-abhijit-deepke-slapped_650x400_15_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 15 Jun 2026 20:24:03 +0530",
+    "link": "https://www.ndtv.com/india-news/abhijeet-dipke-cjp-on-camera-cockroach-janta-party-founder-slapped-repeatedly-at-jaipur-protest-11639869#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/angel-one-settles-sebi-proceedings-over-lapses-in-monitoring-authorised-persons-pays-rs-4-28-crore/articleshow/131748199.cms",
     "category": "finance",
-    "title": "Markets likely to move beyond geopolitics, focus to shift to earnings: Devina Mehra",
-    "summary": "Devina Mehra believes geopolitical deals like a potential Iran-US agreement won't drive Indian equities, with earnings and liquidity being key. She advises investors against reacting to geopolitical risks, citing historical data. Mehra also highlight",
-    "image": "https://img.etimg.com/photo/msid-131738747,imgsize-55064.cms",
+    "title": "Angel One settles Sebi proceedings over lapses in monitoring authorised persons, pays Rs 4.28 crore",
+    "summary": "Angel One has settled Sebi's adjudication and enquiry proceedings by paying Rs 4.28 crore. The regulator had alleged supervisory and monitoring lapses involving two authorised persons, including failures in due diligence, inspection processes, fund c",
+    "image": "https://img.etimg.com/photo/msid-131748199,imgsize-14790.cms",
     "source": "ET",
-    "pubDate": "Mon, 15 Jun 2026 14:08:55 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/markets-likely-to-move-beyond-geopolitics-focus-to-shift-to-earnings-devina-mehra/articleshow/131738747.cms"
+    "pubDate": "Mon, 15 Jun 2026 20:14:15 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/angel-one-settles-sebi-proceedings-over-lapses-in-monitoring-authorised-persons-pays-rs-4-28-crore/articleshow/131748199.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/aif-pms/etmarkets-pms-talk-the-best-alpha-comes-from-spotting-inflection-points-before-the-market-does-anuj-jain/articleshow/131738638.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/waaree-energies-gets-shareholders-nod-to-raise-up-to-rs-10000-cr-via-qip/articleshow/131747779.cms",
     "category": "finance",
-    "title": "ETMarkets PMS Talk | The best alpha comes from spotting inflection points before the market does: Anuj Jain",
-    "summary": "Anuj Jain of Green Portfolio emphasizes identifying businesses at the cusp of transformation for alpha, not momentum. He highlights disciplined processes and patience in special situations, differentiating turnarounds from value traps. Jain sees Indi",
-    "image": "https://img.etimg.com/photo/msid-131738638,imgsize-53616.cms",
+    "title": "Waaree Energies gets shareholders' nod to raise up to Rs 10,000 cr via QIP",
+    "summary": "Waaree Energies shareholders have approved a significant capital raise. The company can now raise up to Rs 10,000 crore through a Qualified Institutions Placement. This move will bolster the company's financial standing. Additionally, Jignesh Devchan",
+    "image": "https://img.etimg.com/photo/msid-131747779,imgsize-415264.cms",
     "source": "ET",
-    "pubDate": "Mon, 15 Jun 2026 14:08:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/aif-pms/etmarkets-pms-talk-the-best-alpha-comes-from-spotting-inflection-points-before-the-market-does-anuj-jain/articleshow/131738638.cms"
+    "pubDate": "Mon, 15 Jun 2026 19:51:35 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/waaree-energies-gets-shareholders-nod-to-raise-up-to-rs-10000-cr-via-qip/articleshow/131747779.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/ac-bus-elevated-roads-planned-to-cut-delhi-to-jewar-airport-travel-time-11638070#publisher=newsstand",
-    "category": "india",
-    "title": "AC Bus, Elevated Roads Planned To Cut Delhi To Jewar Airport Travel Time",
-    "summary": "The Delhi-Jewar route is part of a wider expansion of interstate bus connectivity being planned by DTC.",
-    "image": "https://c.ndtvimg.com/2026-06/r0fc7i84_jewar-airport_625x300_14_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 15 Jun 2026 13:59:09 +0530",
-    "link": "https://www.ndtv.com/india-news/ac-bus-elevated-roads-planned-to-cut-delhi-to-jewar-airport-travel-time-11638070#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-gains-as-investors-welcome-iran-deal/articleshow/131746807.cms",
+    "category": "finance",
+    "title": "US stocks: Dow hits record high on Iran deal optimism, lower oil prices",
+    "summary": "Major Wall Street indexes surged at the open on Monday following a preliminary agreement between Washington and Tehran to resolve the Middle East conflict and reopen the Strait of Hormuz. This development triggered a significant drop in crude oil pri",
+    "image": "https://img.etimg.com/photo/msid-131746807,imgsize-47000.cms",
+    "source": "ET",
+    "pubDate": "Mon, 15 Jun 2026 19:04:10 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-gains-as-investors-welcome-iran-deal/articleshow/131746807.cms"
   },
   {
-    "id": "https://www.ndtv.com/kerala-news/rs-23-lakh-kollam-trading-company-burglary-cctv-shows-thieves-wearing-ppe-kit-11637953#publisher=newsstand",
-    "category": "india",
-    "title": "Rs 23 Lakh Trading Company Burglary: CCTV Shows Thieves Wearing PPE Kit",
-    "summary": "Kollam police arrest two men for breaking into a trading company.",
-    "image": "https://c.ndtvimg.com/2026-06/c5vdisto_kollam-burglary-ppe-kit_625x300_15_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 15 Jun 2026 13:56:44 +0530",
-    "link": "https://www.ndtv.com/kerala-news/rs-23-lakh-kollam-trading-company-burglary-cctv-shows-thieves-wearing-ppe-kit-11637953#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/nse-indices-launch-11-new-sectoral-indices-including-nifty-power-and-nifty-hospitals/articleshow/131746296.cms",
+    "category": "finance",
+    "title": "NSE Indices launch 11 new sectoral indices including Nifty Power and Nifty Hospitals",
+    "summary": "NSE Indices has introduced 11 new sectoral benchmarks, taking its total sectoral index count to 34. The move aims to deepen sector-specific market coverage, support the growing passive investment ecosystem and provide fund managers with new benchmark",
+    "image": "https://img.etimg.com/photo/msid-131746296,imgsize-79502.cms",
+    "source": "ET",
+    "pubDate": "Mon, 15 Jun 2026 18:32:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-indices-launch-11-new-sectoral-indices-including-nifty-power-and-nifty-hospitals/articleshow/131746296.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/mumbai-awaits-monsoon-as-heat-humidity-spike-11638052#publisher=newsstand",
-    "category": "india",
-    "title": "Mumbai Awaits Monsoon As Heat, Humidity Spike",
-    "summary": "Meteorologists say that the monsoon's progress has slowed this year due to western disturbances.",
-    "image": "https://c.ndtvimg.com/2026-03/ousad09g_mumbai-heat_625x300_10_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 15 Jun 2026 13:55:20 +0530",
-    "link": "https://www.ndtv.com/india-news/mumbai-awaits-monsoon-as-heat-humidity-spike-11638052#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-parts-maker-doncasters-targets-4-4-billion-valuation-in-us-ipo/articleshow/131745757.cms",
+    "category": "finance",
+    "title": "US stocks: Aerospace parts maker Doncasters targets $4.4 billion valuation in US IPO",
+    "summary": "Aerospace innovator Doncasters is gearing up for a high-stakes debut in the U.S. public market, targeting an impressive $746.7 million by offering shares priced between $28 and $32. This strategic initiative comes on the heels of a thriving U.S. IPO ",
+    "image": "https://img.etimg.com/photo/msid-131745757,imgsize-1415912.cms",
+    "source": "ET",
+    "pubDate": "Mon, 15 Jun 2026 18:20:41 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-parts-maker-doncasters-targets-4-4-billion-valuation-in-us-ipo/articleshow/131745757.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/india-bound-lng-tanker-disha-crosses-strait-of-hormuz-to-reach-gujarat-on-friday-11638038#publisher=newsstand",
-    "category": "india",
-    "title": "India-Bound LNG Tanker Crosses Strait Of Hormuz, To Reach Gujarat On Friday",
-    "summary": "LNG tanker Disha is is expected to reach Dahej Port in Gujarat on June 18.",
-    "image": "https://c.ndtvimg.com/2026-06/irimkgp8_lng-tanker-disha_625x300_15_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 15 Jun 2026 13:51:24 +0530",
-    "link": "https://www.ndtv.com/world-news/india-bound-lng-tanker-disha-crosses-strait-of-hormuz-to-reach-gujarat-on-friday-11638038#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/fox-strikes-22-billion-deal-for-roku-to-fuel-streaming-push/articleshow/131745672.cms",
+    "category": "finance",
+    "title": "US stocks: Fox strikes $22 billion deal for Roku to fuel streaming push",
+    "summary": "Fox Corporation has announced plans to acquire Roku for approximately $22 billion, a strategic partnership designed to integrate Fox's renowned sports and news programming with Roku's top-tier streaming technology. This move is poised to significantl",
+    "image": "https://img.etimg.com/photo/msid-131745672,imgsize-305278.cms",
+    "source": "ET",
+    "pubDate": "Mon, 15 Jun 2026 18:13:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fox-strikes-22-billion-deal-for-roku-to-fuel-streaming-push/articleshow/131745672.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/patna-schools-closed-till-june-20-for-classes-up-to-5-classes-6-8-to-run-only-till-10-30-am-11638004#publisher=newsstand",
-    "category": "india",
-    "title": "Patna Schools Closed Till June 20 For Classes Up To 5; Classes 6 - 8 To Run Only Till 10:30 AM",
-    "summary": "Patna: Schools for up to Class 5 shut till June 20; Classes 6 to 8 to function until 10:30 am.",
-    "image": "https://c.ndtvimg.com/2026-06/bq37vn1k_patna-schools_625x300_15_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 15 Jun 2026 13:44:20 +0530",
-    "link": "https://www.ndtv.com/education/patna-schools-closed-till-june-20-for-classes-up-to-5-classes-6-8-to-run-only-till-10-30-am-11638004#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-five-week-high-ends-at-94-71-vs-usd-on-easing-mideast-tensions/articleshow/131745408.cms",
+    "category": "finance",
+    "title": "Rupee hits five-week high, ends at 94.71 vs USD on easing Mideast tensions",
+    "summary": "The rupee rose 40 paise to close at 94.71 against the US dollar, hitting a five-week high as easing geopolitical tensions in West Asia boosted market sentiment. Falling global oil prices and expectations of stronger foreign inflows supported the curr",
+    "image": "https://img.etimg.com/photo/msid-131745408,imgsize-35302.cms",
+    "source": "ET",
+    "pubDate": "Mon, 15 Jun 2026 18:03:25 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-five-week-high-ends-at-94-71-vs-usd-on-easing-mideast-tensions/articleshow/131745408.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvgld0vywpmo#0",
+    "category": "global",
+    "title": "Teacher guilty of sexually abusing and murdering adopted baby",
+    "summary": "Preston Davey died after months of sexual and physical abuse at the hands of Jamie Varley.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 15 Jun 2026 15:49:23 GMT",
+    "link": "https://www.bbc.com/news/articles/cvgld0vywpmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1541311.html",
+    "category": "sports",
+    "title": "Sooryavanshi, Halambage in heated exchange after Super-Over finish",
+    "summary": "Tempers flared after Sri Lanka A edged India A in a Super Over in Dambulla",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418300/418342.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 15 Jun 2026 15:44:05 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1541311.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1541314.html",
+    "category": "sports",
+    "title": "Sri Lanka A deny Sooryavanshi, Shedge in dramatic Super Over thriller",
+    "summary": "Kugadas Mathulan defended 16 in the Super Over after Sadeera Samarawickrama's 93 helped Sri Lanka A tie the game in 50 overs",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418300/418356.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 15 Jun 2026 15:42:34 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1541314.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cd0p8me2m5do#0",
+    "category": "global",
+    "title": "How could the US-Iran deal affect oil prices and the cost of food?",
+    "summary": "Experts warn the impact of the war will continue to affect the global economy for months to come.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 15 Jun 2026 15:20:09 GMT",
+    "link": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1541305.html",
+    "category": "sports",
+    "title": "McCullum 'worried' about Stokes' wellbeing after being stood down by England",
+    "summary": "Head coach stops short of saying Ben Stokes could return as captain after investigations into night out are complete",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418300/418358.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 15 Jun 2026 15:11:28 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1541305.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cy4eldkpxgwo#0",
+    "category": "global",
+    "title": "Boy, 2, in hospital after nursery playground car crash",
+    "summary": "A 63-year-old woman is arrested on suspicion of causing serious injury by dangerous driving.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 15 Jun 2026 15:07:28 GMT",
+    "link": "https://www.bbc.com/news/articles/cy4eldkpxgwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1541317.html",
+    "category": "sports",
+    "title": "Bell vows to 'bring the energy' as England face Ireland's call",
+    "summary": "Fast bowler embraces prospect of home-ground outing after enthusiastic support at Edgbaston",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418300/418362.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 15 Jun 2026 15:03:03 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1541317.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8721y4341qo#0",
+    "category": "global",
+    "title": "Henry Nowak killer's sentence referred to Court of Appeal under unduly lenient scheme",
+    "summary": "The sentence of Vickrum Digwa, who was convicted of the murder of Henry Nowak, has been referred to the Court of Appeal.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 15 Jun 2026 14:48:33 GMT",
+    "link": "https://www.bbc.com/news/articles/c8721y4341qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1541304.html",
+    "category": "sports",
+    "title": "PCB to switch to formats-based central contract system",
+    "summary": "The new structure will no longer have players in four categories from A to D, and will be classified by which format they are deemed to specialise in",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/396700/396724.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 15 Jun 2026 14:29:31 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1541304.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1541298.html",
+    "category": "sports",
+    "title": "Overton overpowers Nottinghamshire to land big win for Somerset",
+    "summary": "O'Neill resists with half-century but victory sealed by 306 runs in mid-afternoon",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/404000/404068.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 15 Jun 2026 14:09:55 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1541298.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1541291.html",
+    "category": "sports",
+    "title": "Tuesday at T20 World Cup: New Zealand eye first win; Ireland run into England",
+    "summary": "Southampton will host the double-header on Tuesday, with some rain expected in the evening",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418100/418192.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 15 Jun 2026 13:42:29 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1541291.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.espncricinfo.com/ci/content/story/1541292.html",
+    "category": "sports",
+    "title": "Jordan Cox, Sonny Baker to debut for England in second New Zealand Test",
+    "summary": "England announce four changes from Lord's Test - and could yet make a fifth",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/398400/398432.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 15 Jun 2026 13:20:54 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1541292.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8r2l352z2do#0",
+    "category": "global",
+    "title": "Russia was behind arson attacks targeting PM, BBC reveals",
+    "summary": "Evidence shows Russians directing the plot and stoking tensions with fake far-right and Muslim groups.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 15 Jun 2026 13:10:58 GMT",
+    "link": "https://www.bbc.com/news/articles/c8r2l352z2do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4gy927jx88o#0",
+    "category": "global",
+    "title": "Palestine Action ban is lawful, Court of Appeal rules",
+    "summary": "The Home Office had challenged a High Court ruling that the group's proscription should be quashed.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 15 Jun 2026 12:44:04 GMT",
+    "link": "https://www.bbc.com/news/articles/c4gy927jx88o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cddl65dp0rdo#0",
+    "category": "global",
+    "title": "Social media ban - bold and blunt, but no silver bullet",
+    "summary": "The BBC's technology editor Zoe Kleinman on the big changes coming down the line for young people online.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 15 Jun 2026 12:41:43 GMT",
+    "link": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/ckg48qqwkd2o#0",
@@ -236,138 +366,8 @@
     "summary": "The New Zealand-born reporter was credited with having invented the doorstep interview technique.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 15 Jun 2026 09:55:27 GMT",
+    "pubDate": "Mon, 15 Jun 2026 10:23:10 GMT",
     "link": "https://www.bbc.com/news/articles/ckg48qqwkd2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cly9d10l5p4o#0",
-    "category": "global",
-    "title": "Norwegian crown princess's son found guilty of two counts of rape",
-    "summary": "Marius Borg H\u00f8iby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been found guilty of two counts of rape and given four years in jail.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 15 Jun 2026 09:44:18 GMT",
-    "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ceqdny4l3jdo#0",
-    "category": "global",
-    "title": "When will social media ban start and what platforms are included?",
-    "summary": "The measures will see apps including TikTok and Snapchat blocked for UK teens early in 2027.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 15 Jun 2026 09:00:25 GMT",
-    "link": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4gyxgwkyxyo#0",
-    "category": "global",
-    "title": "New attempt to legalise assisted dying in England and Wales",
-    "summary": "Lauren Edwards says she will bring the exact same bill which was narrowly passed by the Commons but ran out of time in the Lords.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 15 Jun 2026 09:00:06 GMT",
-    "link": "https://www.bbc.com/news/articles/c4gyxgwkyxyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c892xnwg5vlo#0",
-    "category": "global",
-    "title": "Trump and thousands of others watch UFC fight on White House lawn",
-    "summary": "Justin Gaethje beat Ilia Topuria to win the lightweight championship in the main event.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 15 Jun 2026 08:46:08 GMT",
-    "link": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1541272.html",
-    "category": "sports",
-    "title": "CA and states agree 'in principle' to BBL privatisation but hurdles remain",
-    "summary": "Enabling states to make their own call on selling part or all of their BBL clubs has moved a step closer but",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/412400/412418.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 15 Jun 2026 08:11:24 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1541272.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cqj1dd5rgnzo#0",
-    "category": "global",
-    "title": "US musician Oliver Tree dies as two helicopters crash mid-air",
-    "summary": "The singer-songwriter is among six people presumed dead in air crash over Rio de Janeiro on Sunday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 15 Jun 2026 06:47:23 GMT",
-    "link": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1541220.html",
-    "category": "sports",
-    "title": "'My goal was to do something special' - Ferdous after match-winning fifty against Netherlands",
-    "summary": "\"We can all be very proud of the effort we put in today,\" Netherlands captain Babette de Leede said",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418300/418300.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 15 Jun 2026 06:19:58 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1541220.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1541246.html",
-    "category": "sports",
-    "title": "Connolly fights off cramps in innings of a lifetime",
-    "summary": "Left hander warded off cramps in Dhaka's searing heat to play one of the great ODI innings and lead Australia to a nervy one-wicket win over Bangladesh",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418300/418306.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 15 Jun 2026 05:47:13 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1541246.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1541255.html",
-    "category": "sports",
-    "title": "Holder completes heist for West Indies after Joseph picks up five",
-    "summary": "Sherfane Rutherford, Shimron Hetmyer and Rovman Powell play their parts with the bat as West Indies overhaul Sri Lanka's 169 to take the series 2-1",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418300/418333.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 15 Jun 2026 05:08:04 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1541255.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c932gpk2l1do#0",
-    "category": "global",
-    "title": "OnlyFans 'agents' control and threaten creators while taking half their earnings, BBC finds",
-    "summary": "Dozens of women on OnlyFans describe being exploited by managers who promised to help maximise profits.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 15 Jun 2026 05:00:09 GMT",
-    "link": "https://www.bbc.com/news/articles/c932gpk2l1do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1541253.html",
-    "category": "sports",
-    "title": "'Not ready to give up this' - Lyon's hunger drives long road back",
-    "summary": "The offspinner has his sights on playing all of Australia's marathon Test schedule but, going by last season, it may not be entirely in his hands",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/410800/410825.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 15 Jun 2026 04:55:54 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1541253.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c9824e0rz75o#0",
-    "category": "global",
-    "title": "Trump heralds Iran deal but questions - and risks - remain",
-    "summary": "The announcement of an Iran deal was a welcome birthday gift for the president \u2013 but its success or failure may hinge on the details.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 15 Jun 2026 02:41:25 GMT",
-    "link": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.espncricinfo.com/ci/content/story/1541232.html",
-    "category": "sports",
-    "title": "SL bat first with T20I series on the line",
-    "summary": "The series is tied 1-1 with one game remaining",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418200/418275.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 15 Jun 2026 01:59:32 GMT",
-    "link": "https://www.espncricinfo.com/ci/content/story/1541232.html?ex_cid=OTC-RSS"
   },
   {
     "id": "7EaNv4Ip2AUlW9RClUv2cB",
