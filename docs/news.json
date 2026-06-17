@@ -10,6 +10,36 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-federal-reserve-holds-rates-steady-at-kevin-warshs-first-fomc-meeting/articleshow/131808769.cms"
   },
   {
+    "id": "https://www.bbc.com/news/articles/c621z28z138o#0",
+    "category": "global",
+    "title": "Cervical cancer deaths in England fall to zero in young women given vaccine",
+    "summary": "A new study finds that hundreds of lives have been saved since school-age girls were offered the HPV jab in 2008.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 17 Jun 2026 23:01:33 GMT",
+    "link": "https://www.bbc.com/news/articles/c621z28z138o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c33yzm5mdjpo#0",
+    "category": "global",
+    "title": "Interest rates expected to be held by Bank of England",
+    "summary": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 17 Jun 2026 23:01:11 GMT",
+    "link": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cd0m2mg949yo#0",
+    "category": "global",
+    "title": "The Ring and Lilo & Stitch actress Daveigh Chase dies aged 35",
+    "summary": "Chase died from sepsis following a bout with meningitis in a Los Angeles hospital, her longtime manager told the BBC.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 17 Jun 2026 22:55:46 GMT",
+    "link": "https://www.bbc.com/news/articles/cd0m2mg949yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-files-drhp-for-mega-2-billion-ipo-sbi-among-10-investors-to-sell-stake/articleshow/131806888.cms",
     "category": "finance",
     "title": "NSE files DRHP for mega $3 billion IPO, SBI among 10 investors to sell stake",
@@ -78,26 +108,6 @@
     "source": "BBC",
     "pubDate": "Wed, 17 Jun 2026 19:22:40 GMT",
     "link": "https://www.bbc.com/news/articles/cvgmqrrlej5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c9w28e2vn57o#0",
-    "category": "global",
-    "title": "UN human rights experts demand release of British couple jailed in Iran",
-    "summary": "They said proceedings against Lindsay and Craig Foreman had been marked by grave irregularities.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 17 Jun 2026 19:21:36 GMT",
-    "link": "https://www.bbc.com/news/articles/c9w28e2vn57o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c872pwx4x2vo#0",
-    "category": "global",
-    "title": "Ex-Nigeria oil minister cleared in UK bribery trial",
-    "summary": "Diezani Alison-Madueke had been accused of receiving bribes from oil tycoons but was found not guilty by a jury at Southwark Crown Court.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 17 Jun 2026 19:03:10 GMT",
-    "link": "https://www.bbc.com/news/articles/c872pwx4x2vo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1541555.html",
@@ -200,16 +210,6 @@
     "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cn4dj7n83yqo#0",
-    "category": "global",
-    "title": "PM warns Burnham against immediate leadership challenge if he wins by-election",
-    "summary": "Keir Starmer says Labour should focus on a subsequent Manchester mayoral race if Andy Burnham wins in Makerfield.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 17 Jun 2026 09:17:37 GMT",
-    "link": "https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -248,6 +248,16 @@
     "source": "VentureBeat",
     "pubDate": "Thu, 22 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/trump-has-signed-iran-peace-deal-to-end-middle-east-war-us-official-11651928#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Has Signed Iran Peace Deal To End Middle East War: US Official",
+    "summary": "The formal signing had originally been planned to take place in Switzerland on Friday.",
+    "image": "https://c.ndtvimg.com/2026-04/kdbpguuk_trump-mojtaba_625x300_07_April_26.png",
+    "source": "NDTV",
+    "pubDate": "Thu, 18 Jun 2026 03:58:34 +0530",
+    "link": "https://www.ndtv.com/world-news/trump-has-signed-iran-peace-deal-to-end-middle-east-war-us-official-11651928#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/donald-trump-asks-benjamin-netanyahu-to-take-softer-touch-in-dealing-with-hezbollah-11651798#publisher=newsstand",
@@ -348,16 +358,6 @@
     "source": "NDTV",
     "pubDate": "Thu, 18 Jun 2026 00:12:17 +0530",
     "link": "https://www.ndtv.com/india-news/g7-summit-2026-live-updates-modi-trump-meet-france-world-leaders-live-pm-modi-arrives-in-france-will-meet-trump-tomorrow-11644040#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-updates-delhi-records-coolest-day-of-june-as-rain-brings-respite-from-hea-11646804#publisher=newsstand",
-    "category": "india",
-    "title": "Weather Highlights: Delhi Records Coolest Day Of June As Rain Brings Respite From Heat",
-    "summary": "Weather Updates: The IMD has forecast a generally cloudy sky with thunderstorm and rain today.",
-    "image": "https://c.ndtvimg.com/2026-06/ml9u88e4_delhi-rain_625x300_16_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 18 Jun 2026 00:12:04 +0530",
-    "link": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-updates-delhi-records-coolest-day-of-june-as-rain-brings-respite-from-hea-11646804#publisher=newsstand"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
