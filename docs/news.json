@@ -1,25 +1,5 @@
 [
   {
-    "id": "https://www.bbc.com/news/articles/clyxw8550y8o#0",
-    "category": "global",
-    "title": "Simpler, older version of Stonehenge found three miles from famous site",
-    "summary": "The structure consisted of two posts that lined up with the solstices 5,000 years ago.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 17 Jun 2026 23:11:29 GMT",
-    "link": "https://www.bbc.com/news/articles/clyxw8550y8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c802ldjdklzo#0",
-    "category": "global",
-    "title": "ChatGPT can be made to generate sexualised and violent images, researchers find",
-    "summary": "Researchers say it is still possible to trick the AI chatbot into producing graphic content.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 17 Jun 2026 23:07:40 GMT",
-    "link": "https://www.bbc.com/news/articles/c802ldjdklzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1541657.html",
     "category": "sports",
     "title": "Dercksen, Kapp help SA stumble past Pakistan, despite Sana heroics",
@@ -30,44 +10,14 @@
     "link": "https://www.cricinfo.com/ci/content/story/1541657.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1541561.html",
-    "category": "sports",
-    "title": "Glenn Phillips repels England to lead New Zealand recovery",
-    "summary": "From 107 for 4, the visitors have pushed on to a better position at the end of the first day's play at The Oval",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418400/418495.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 17 Jun 2026 19:26:37 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1541561.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1541555.html",
-    "category": "sports",
-    "title": "Gill and Kishan hundreds carry India past 400 and to victory",
-    "summary": "Afghanistan were bowled out for 232 with Gurnoor and Arshdeep picking up three-fors",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418400/418456.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 17 Jun 2026 17:59:24 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1541555.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1541627.html",
-    "category": "sports",
-    "title": "Shafali's all-round show helps India beat Netherlands",
-    "summary": "India batter hits her first T20 World Cup fifty and backs it up with a three-for in Headingley",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418400/418474.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 17 Jun 2026 17:54:56 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1541627.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1541631.html",
-    "category": "sports",
-    "title": "Pakistan opt to bat, and play Javed and Tuba; SA unchanged",
-    "summary": "Both teams enter the contest on the back of defeats in their respective opening matches of the T20 World Cup",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418300/418315.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 17 Jun 2026 17:44:57 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1541631.html?ex_cid=OTC-RSS"
+    "id": "https://www.bbc.com/sport/football/articles/ckg054x8d9qo#1",
+    "category": "global",
+    "title": "Harry Kane explains the strategy behind his stuttered penalty run-up",
+    "summary": "Harry Kane was able to give England the lead against Croatia from the penalty spot - but only thanks to the video assistant referee.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 17 Jun 2026 21:03:09 GMT",
+    "link": "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "4ri2LVmhlv34kOOk94nnsi",
@@ -110,169 +60,249 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-podcast/bitcoin-trades-near-64000-despite-hawkish-fed-outlook-recovery-attempt-loses-momentum/articleshow/131823220.cms",
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/update-1-pound-hits-two-month-low-as-dollar-surges-and-boe-holds-rates/articleshow/131829679.cms",
     "category": "finance",
-    "title": "Bitcoin trades near $64,000 despite hawkish Fed outlook; recovery attempt loses momentum",
-    "summary": "Bitcoin hovered near $64,000 as a hawkish Federal Reserve outlook and risk-off sentiment capped recovery momentum. Liquidations, ETF outflows and weak institutional participation weighed on prices. Key support lies between $61,000 and $63,500, while ",
-    "image": "https://img.etimg.com/photo/msid-131823220,imgsize-74080.cms",
+    "title": "UK Pound hits two-month low as dollar surges and BoE holds rates",
+    "summary": "The British pound has fallen to its lowest point in two months. This happened as the US dollar strengthened due to expectations of interest rate hikes in America. The Bank of England decided to keep borrowing costs unchanged. This cautious approach b",
+    "image": "https://img.etimg.com/photo/msid-131829679,imgsize-120326.cms",
     "source": "ET",
-    "pubDate": "Thu, 18 Jun 2026 13:40:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-podcast/bitcoin-trades-near-64000-despite-hawkish-fed-outlook-recovery-attempt-loses-momentum/articleshow/131823220.cms"
+    "pubDate": "Thu, 18 Jun 2026 17:23:14 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/update-1-pound-hits-two-month-low-as-dollar-surges-and-boe-holds-rates/articleshow/131829679.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-stock-jumps-24-in-a-week-as-nse-stake-could-be-valued-at-rs-850-crore/articleshow/131823174.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-england-votes-7-2-to-hold-rates-at-3-75/articleshow/131829619.cms",
     "category": "finance",
-    "title": "Smallcap stock jumps 24% in a week as NSE stake could be valued at Rs 850 crore",
-    "summary": "Maithan Alloys shares saw a significant jump on Thursday. This rally follows the filing of the National Stock Exchange's draft prospectus for its initial public offering. Maithan Alloys holds a stake in NSE, which is now valued at approximately Rs 85",
-    "image": "https://img.etimg.com/photo/msid-131823174,imgsize-35524.cms",
+    "title": "Bank of England votes 7-2 to hold rates at 3.75%",
+    "summary": "The Bank of England has chosen to maintain interest rates at 3.75 percent, a decision that aligns with prevailing predictions among economists. Although consensus prevailed, a couple of policymakers pushed for a higher rate. As Governor Andrew Bailey",
+    "image": "https://img.etimg.com/photo/msid-131829619,imgsize-64802.cms",
     "source": "ET",
-    "pubDate": "Thu, 18 Jun 2026 13:36:22 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-stock-jumps-24-in-a-week-as-nse-stake-could-be-valued-at-rs-850-crore/articleshow/131823174.cms"
+    "pubDate": "Thu, 18 Jun 2026 17:20:32 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-england-votes-7-2-to-hold-rates-at-3-75/articleshow/131829619.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/rupee-hits-six-week-high-on-offshore-exporter-flows/articleshow/131823085.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/accenture-cuts-revenue-outlook-stock-crashes-11-in-pre-market-trading/articleshow/131829237.cms",
     "category": "finance",
-    "title": "Rupee hits six-week high on offshore, exporter flows",
-    "summary": "The Indian Rupee saw a remarkable resurgence on Thursday, hitting a six-week high after a period of weakness influenced by the Federal Reserve's strict monetary stance. This turnaround was fueled by increased dollar selling from foreign markets and r",
-    "image": "https://img.etimg.com/photo/msid-131823085,imgsize-35040.cms",
+    "title": "Accenture cuts revenue outlook, stock crashes 11% in pre-market trading",
+    "summary": "Accenture has lowered its annual revenue growth forecast.  Companies are still cautious about spending on technology.  This is happening even as they invest in artificial intelligence and cybersecurity.  Accenture is acquiring cybersecurity firms to ",
+    "image": "https://img.etimg.com/photo/msid-131829237,imgsize-82988.cms",
     "source": "ET",
-    "pubDate": "Thu, 18 Jun 2026 13:33:24 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/rupee-hits-six-week-high-on-offshore-exporter-flows/articleshow/131823085.cms"
+    "pubDate": "Thu, 18 Jun 2026 17:03:12 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/accenture-cuts-revenue-outlook-stock-crashes-11-in-pre-market-trading/articleshow/131829237.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/tulip-infratech-to-invest-rs-1100-cr-on-construction-of-luxury-housing-project-in-gurugram/articleshow/131823020.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-ge-vernova-among-10-midcap-stocks-that-hit-52-week-highs-amp-rallied-up-to-20-in-a-month/slideshow/131828391.cms",
     "category": "finance",
-    "title": "Tulip Infratech to invest Rs 1,100 cr on construction of luxury housing project in Gurugram",
-    "summary": "Tulip Infratech is making a bold move with a staggering investment of Rs 1,100 crore for a new upscale residential venture in Gurugram, aptly named Tulip Melrose. This luxurious development will boast over 600 exquisite units located along the vibran",
-    "image": "https://img.etimg.com/photo/msid-131823020,imgsize-9260.cms",
+    "title": "Bharat Forge, GE Vernova among 10 midcap stocks that hit 52-week highs &amp; rallied up to 20% in a month",
+    "summary": "The Sensex rose 254 points to close at 77,409 on Thursday, lifting broader markets. Ten BSE 150 MidCap stocks touched fresh 52-week highs, signalling strong investor confidence. GE Vernova T&amp;D India led gains, while banking, infrastructure and in",
+    "image": "https://img.etimg.com/photo/msid-131828250,imgsize-22890.cms",
     "source": "ET",
-    "pubDate": "Thu, 18 Jun 2026 13:30:09 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/tulip-infratech-to-invest-rs-1100-cr-on-construction-of-luxury-housing-project-in-gurugram/articleshow/131823020.cms"
+    "pubDate": "Thu, 18 Jun 2026 16:45:14 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-ge-vernova-among-10-midcap-stocks-that-hit-52-week-highs-amp-rallied-up-to-20-in-a-month/slideshow/131828391.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-oil-relief-capped-by-rbis-fx-book-interest-payment-hedges-bankers-say/articleshow/131822645.cms",
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/waterways-leisure-tourism-announces-price-band-for-its-ipo-opening-on-june-23/articleshow/131828214.cms",
     "category": "finance",
-    "title": "Rupee\u2019s oil relief capped by RBI's FX book, interest payment hedges, bankers say",
-    "summary": "The Indian rupee's upward surge encounters some obstacles. As the Reserve Bank of India gradually dissolves a hefty foreign exchange forward book, banks are also preparing for interest payments on foreign currency holdings. These maneuvers are likely",
-    "image": "https://img.etimg.com/photo/msid-131822645,imgsize-67572.cms",
+    "title": "Waterways Leisure Tourism announces price band for its IPO opening on June 23",
+    "summary": "Waterways Leisure Tourism, operator of Cordelia Cruises, has set a price band of Rs 769-808 for its Rs 585 crore IPO opening June 23. Proceeds will support fleet-related lease payments, while expansion plans and improving profitability position the c",
+    "image": "https://img.etimg.com/photo/msid-131828214,imgsize-59440.cms",
     "source": "ET",
-    "pubDate": "Thu, 18 Jun 2026 13:23:39 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-oil-relief-capped-by-rbis-fx-book-interest-payment-hedges-bankers-say/articleshow/131822645.cms"
+    "pubDate": "Thu, 18 Jun 2026 16:44:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/waterways-leisure-tourism-announces-price-band-for-its-ipo-opening-on-june-23/articleshow/131828214.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/nykaa-shares-jump-8-to-record-high-after-unveiling-fy30-roadmap-targets-up-to-3x-revenue-growth/articleshow/131822505.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/madhu-kela-to-become-investor-in-lloyds-engineering-as-part-of-siscol-acquisition-to-receive-nearly-73-lakh-shares/articleshow/131827306.cms",
     "category": "finance",
-    "title": "Nykaa shares jump 8% to fresh 52-week high after unveiling FY30 roadmap; targets up to 3x revenue growth",
-    "summary": "Nykaa's parent company, FSN E-Commerce Ventures, saw its shares surge over 8% to a 52-week high after unveiling an ambitious FY30 vision. The company aims to achieve a $5 billion gross merchandise value, driven by disciplined execution and capital-ef",
-    "image": "https://img.etimg.com/photo/msid-131822505,imgsize-60520.cms",
+    "title": "Madhu Kela to become investor in Lloyds Engineering as part of SISCOL acquisition, to receive nearly 73 lakh shares",
+    "summary": "Lloyds Engineering will acquire an 88.12% stake in Steel Infra Solutions Company (SISCOL) for about Rs 1,073 crore through cash and share swaps. The deal expands its engineering, EPC and infrastructure capabilities, adding manufacturing capacity, des",
+    "image": "https://img.etimg.com/photo/msid-131827306,imgsize-13688.cms",
     "source": "ET",
-    "pubDate": "Thu, 18 Jun 2026 13:23:17 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/nykaa-shares-jump-8-to-record-high-after-unveiling-fy30-roadmap-targets-up-to-3x-revenue-growth/articleshow/131822505.cms"
+    "pubDate": "Thu, 18 Jun 2026 16:41:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/madhu-kela-to-become-investor-in-lloyds-engineering-as-part-of-siscol-acquisition-to-receive-nearly-73-lakh-shares/articleshow/131827306.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-gauge-crosses-71000-on-us-iran-peace-deal/articleshow/131822599.cms",
+    "id": "https://www.ndtv.com/india-news/maharaja-ranjit-singh-to-bhagwant-mann-inquisitions-by-akal-takht-11654342#publisher=newsstand",
+    "category": "india",
+    "title": "Maharaja Ranjit Singh To Bhagwant Mann: Inquisitions By Akal Takht",
+    "summary": "While for centuries, rulers and netas have visibly bowed to its authority, Bhagwant Mann is probably the first to directly confront the Akal Takht",
+    "image": "https://c.ndtvimg.com/2026-06/a4c4a4is_akal_625x300_18_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 18 Jun 2026 16:37:59 +0530",
+    "link": "https://www.ndtv.com/india-news/maharaja-ranjit-singh-to-bhagwant-mann-inquisitions-by-akal-takht-11654342#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/radheshyam-mishra-radhamohan-mishra-pune-godman-abused-woman-for-years-made-her-drink-his-urine-11654335#publisher=newsstand",
+    "category": "india",
+    "title": "Pune 'Godman' Abused Woman For Years, Made Her Drink His Urine",
+    "summary": "Over time, the 'godman' isolated the woman from her family and made her divorce her husband.",
+    "image": "https://c.ndtvimg.com/2026-06/p1rr5ihs_1_625x300_18_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 18 Jun 2026 16:29:30 +0530",
+    "link": "https://www.ndtv.com/india-news/radheshyam-mishra-radhamohan-mishra-pune-godman-abused-woman-for-years-made-her-drink-his-urine-11654335#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/x-is-now-part-of-worlds-most-valuable-company-this-changes-everything-11654165#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Social Media Monopoly Looked Unbreakable For A Decade. It Doesn't Anymore",
+    "summary": "X is the soft power instrument of the entire industrial empire",
+    "image": "https://c.ndtvimg.com/2025-07/p34qfk4g_elon-musk-x_625x300_01_July_25.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 18 Jun 2026 16:26:01 +0530",
+    "link": "https://www.ndtv.com/opinion/x-is-now-part-of-worlds-most-valuable-company-this-changes-everything-11654165#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/position-remains-unchanged-tamil-nadu-vs-kerala-again-over-mullaperiyar-dam-11654283#publisher=newsstand",
+    "category": "india",
+    "title": "\"Position Remains Unchanged\": Tamil Nadu vs Kerala Again Over Mullaperiyar Dam",
+    "summary": "The budget is slated for Friday, June 19 at Kerala Legislative Assembly",
+    "image": "https://c.ndtvimg.com/e19t99do_mullaperiyar-dam-650_625x300_15_August_18.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 18 Jun 2026 16:22:29 +0530",
+    "link": "https://www.ndtv.com/india-news/position-remains-unchanged-tamil-nadu-vs-kerala-again-over-mullaperiyar-dam-11654283#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/human-error-not-system-failure-coempt-issues-clarification-on-osm-glitches-11654213#publisher=newsstand",
+    "category": "india",
+    "title": "\"Human Error, Not System Failure\": COEMPT Issues Clarification On OSM Glitches",
+    "summary": "The company stated that it maintains a solid track record regarding OSM operations.",
+    "image": "https://i.ndtvimg.com/i/2018-03/students-generic-pti_650x400_51522320136.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 18 Jun 2026 16:04:19 +0530",
+    "link": "https://www.ndtv.com/education/human-error-not-system-failure-coempt-issues-clarification-on-osm-glitches-11654213#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/jobs-free-bus-travel-rs-2-000-crore-roads-karnatakas-big-welfare-push-11654065#publisher=newsstand",
+    "category": "india",
+    "title": "Jobs, Free Bus Travel, Rs 2,000 Crore Roads: Karnataka's Big Welfare Push",
+    "summary": "Infrastructure development, particularly in Bengaluru, has also received significant attention.",
+    "image": "https://c.ndtvimg.com/2026-06/q88pvemc_dk-shivakumar_625x300_05_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 18 Jun 2026 15:58:04 +0530",
+    "link": "https://www.ndtv.com/india-news/jobs-free-bus-travel-rs-2-000-crore-roads-karnatakas-big-welfare-push-11654065#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-posts-longest-winning-run-in-a-year-on-exporter-flows-bank-dollar-sales/articleshow/131826788.cms",
     "category": "finance",
-    "title": "Japan's Nikkei gauge crosses 71,000 on US-Iran peace deal",
-    "summary": "Japan's Nikkei share index soared to a historic 71,000 level on Thursday. This surge followed a ceasefire agreement between the U.S. and Iran. The U.S. Federal Reserve's stance also influenced markets. Chip-related and financial stocks led the gains.",
-    "image": "https://img.etimg.com/photo/msid-131822599,imgsize-188752.cms",
+    "title": "Rupee posts longest winning run in a year on exporter flows, bank dollar sales",
+    "summary": "The Indian rupee strengthened against the U.S. dollar for the fifth day straight, marking its longest rally in a year. Lenders and exporters aggressively reduced their dollar holdings. The rupee closed higher, recovering from an initial dip. This upw",
+    "image": "https://img.etimg.com/photo/msid-131826788,imgsize-84130.cms",
     "source": "ET",
-    "pubDate": "Thu, 18 Jun 2026 13:21:07 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-gauge-crosses-71000-on-us-iran-peace-deal/articleshow/131822599.cms"
+    "pubDate": "Thu, 18 Jun 2026 15:55:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-posts-longest-winning-run-in-a-year-on-exporter-flows-bank-dollar-sales/articleshow/131826788.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-tcs-wipro-other-it-stocks-fall-up-to-3-after-feds-hawkish-tone-whats-ahead/articleshow/131821682.cms",
+    "id": "https://www.ndtv.com/opinion/trumps-iran-war-was-it-worth-it-11653807#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Trump's Iran War: Was It Worth It?",
+    "summary": "President Donald Trump signs the Iran Memorandum of Understanding at Versailles in France",
+    "image": "https://c.ndtvimg.com/2026-06/q8sr6b78_trump-deal-_625x300_18_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 18 Jun 2026 15:45:04 +0530",
+    "link": "https://www.ndtv.com/opinion/trumps-iran-war-was-it-worth-it-11653807#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/uddhav-thackeray-shiv-sena-split-six-rebel-shiv-sena-ubt-mps-met-lok-sabha-speaker-om-birla-claimed-sena-congress-merger-11654032#publisher=newsstand",
+    "category": "india",
+    "title": "'Sena-Congress Merger Plan': What Six Rebel MPs Told Lok Sabha Speaker",
+    "summary": "Congress leader Rahul Gandhi and Sena (UBT) boss Uddhav Thackeray (File)",
+    "image": "https://c.ndtvimg.com/2026-06/s24rv588_rahul-gandhi-uddhav-thackeray_625x300_18_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 18 Jun 2026 15:34:58 +0530",
+    "link": "https://www.ndtv.com/india-news/uddhav-thackeray-shiv-sena-split-six-rebel-shiv-sena-ubt-mps-met-lok-sabha-speaker-om-birla-claimed-sena-congress-merger-11654032#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-sets-june-24-as-record-date-for-rs-5632-crore-share-buyback-heres-all-you-need-to-know/articleshow/131825425.cms",
     "category": "finance",
-    "title": "Infosys, TCS, Wipro, other IT stocks fall up to 3% after Fed's hawkish tone. What's ahead?",
-    "summary": "Indian IT stocks, including Infosys and TCS, experienced a significant decline of up to 3% on Thursday. This downturn was triggered by a hawkish stance from the US Federal Reserve, which has increased expectations of a rate hike later this year. Conc",
-    "image": "https://img.etimg.com/photo/msid-131821682,imgsize-112754.cms",
+    "title": "Bajaj Auto sets June 24 as record date for Rs 5,632 crore share buyback. Here\u2019s all you need to know",
+    "summary": "Bajaj Auto has set June 24 as the record date for its substantial Rs 5,633 crore share buyback. Shareholders will be eligible to tender shares at Rs 12,000 each. This price offers a significant premium over the stock's recent closing value. The buyba",
+    "image": "https://img.etimg.com/photo/msid-131825425,imgsize-48240.cms",
     "source": "ET",
-    "pubDate": "Thu, 18 Jun 2026 13:05:17 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-tcs-wipro-other-it-stocks-fall-up-to-3-after-feds-hawkish-tone-whats-ahead/articleshow/131821682.cms"
+    "pubDate": "Thu, 18 Jun 2026 15:20:08 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-sets-june-24-as-record-date-for-rs-5632-crore-share-buyback-heres-all-you-need-to-know/articleshow/131825425.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/who-is-noam-shazeer-ai-pioneer-behind-gemini-now-joining-openai-11653162#publisher=newsstand",
-    "category": "india",
-    "title": "Who Is Noam Shazeer? AI Pioneer Behind Gemini Now Joining OpenAI",
-    "summary": "Noam Shazeer worked on an AI chatbot called Meena at Google.",
-    "image": "https://c.ndtvimg.com/2024-09/75hvov8o_noam-shazeer-google_625x300_30_September_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 18 Jun 2026 12:57:24 +0530",
-    "link": "https://www.ndtv.com/world-news/who-is-noam-shazeer-ai-pioneer-behind-gemini-now-joining-openai-11653162#publisher=newsstand"
+    "id": "https://www.cricinfo.com/ci/content/story/1541683.html",
+    "category": "sports",
+    "title": "Capsey, Corteen-Coleman among new faces in England Test squad",
+    "summary": "Mady Villiers, Grace Potts and Ellie Threlkeld the other uncapped members of 15-player group",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417300/417360.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 18 Jun 2026 12:08:45 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1541683.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/education/ap-eamcet-results-2026-out-live-heres-direct-link-to-download-rank-card-11653195#publisher=newsstand",
-    "category": "india",
-    "title": "Andhra Pradesh Engineering, Agriculture And Medical Common Entrance Test Result 2026 Out",
-    "summary": "AP EAMCET Results 2026 (OUT) Live: The test was held across 25 districts in Andhra Pradesh and Telangana.",
-    "image": "https://c.ndtvimg.com/2026-06/cighbf04_ap-eamcet-results-2026-out-_625x300_18_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 18 Jun 2026 12:52:49 +0530",
-    "link": "https://www.ndtv.com/education/ap-eamcet-results-2026-out-live-heres-direct-link-to-download-rank-card-11653195#publisher=newsstand"
+    "id": "https://www.cricinfo.com/ci/content/story/1541681.html",
+    "category": "sports",
+    "title": "Fatima Sana lands Hundred wildcard deal for Birmingham Phoenix",
+    "summary": "Allrounder earns deal having impressed in defeat against South Africa in Women's T20 World Cup",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418500/418504.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 18 Jun 2026 11:28:15 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1541681.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-rain-alert-delhi-ncr-rain-live-delhi-records-below-normal-temperatures-ai-11652126#publisher=newsstand",
-    "category": "india",
-    "title": "Weather Live Updates: Intermittent Rain, Thunderstorm Across Delhi-NCR Till June 21, Says Weather Office",
-    "summary": "Weather Updates Today: Delhi NCR will see light rain and moderate thunderstorms till June 21",
-    "image": "https://c.ndtvimg.com/2022-03/mqspvt9g_delhi-generic-india-gate_625x300_10_March_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 18 Jun 2026 12:45:32 +0530",
-    "link": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-rain-alert-delhi-ncr-rain-live-delhi-records-below-normal-temperatures-ai-11652126#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/cy04jgy5yvpo#0",
+    "category": "global",
+    "title": "Lisa Nandy 'not satisfied' with Channel 4 response on Married at First Sight UK",
+    "summary": "BBC Panorama reported rape allegations from two cast members, allegations the men involved have denied.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 18 Jun 2026 10:10:08 GMT",
+    "link": "https://www.bbc.com/news/articles/cy04jgy5yvpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-order-on-ai-models-leaves-anthropic-workers-confused-what-to-believe-11652478#publisher=newsstand",
-    "category": "india",
-    "title": "\"What To Believe?\" US Order On AI Models Leaves Anthropic Workers Confused",
-    "summary": "Nearly a week after the surprise order, many workers say they still have little clarity on why the restrictions were imposed.",
-    "image": "https://c.ndtvimg.com/2026-06/s17n3rqg_anthropic_625x300_18_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 18 Jun 2026 12:44:00 +0530",
-    "link": "https://www.ndtv.com/world-news/us-order-on-ai-models-leaves-anthropic-workers-confused-what-to-believe-11652478#publisher=newsstand"
+    "id": "https://www.cricinfo.com/ci/content/story/1541561.html",
+    "category": "sports",
+    "title": "Glenn Phillips repels England to lead New Zealand recovery",
+    "summary": "From 107 for 4, the visitors have pushed on to a better position at the end of the first day's play at The Oval",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418400/418495.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 18 Jun 2026 10:06:58 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1541561.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/world-news/romanch-mahajan-indian-teen-dies-while-trying-to-save-mother-who-fell-from-horse-carriage-in-us-11652862#publisher=newsstand",
-    "category": "india",
-    "title": "Indian Teen Dies While Trying To Save Mother Who Fell From Horse Carriage In US",
-    "summary": "The accident is the latest in a series of mishaps involving carriage horses.",
-    "image": "https://c.ndtvimg.com/2026-06/3qcebb3k_romanch-mahajan_625x300_18_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 18 Jun 2026 12:39:27 +0530",
-    "link": "https://www.ndtv.com/world-news/romanch-mahajan-indian-teen-dies-while-trying-to-save-mother-who-fell-from-horse-carriage-in-us-11652862#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/clywz07y942o#0",
+    "category": "global",
+    "title": "Church of England apologises for role in forced adoptions",
+    "summary": "Thousands of unmarried women were pressured to give up their babies between 1949 and 1976.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 18 Jun 2026 10:00:07 GMT",
+    "link": "https://www.bbc.com/news/articles/clywz07y942o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/chhattisgarh-car-set-on-fire-over-mining-dispute-3-including-bjp-leader-burnt-alive-11653138#publisher=newsstand",
-    "category": "india",
-    "title": "Car Set On Fire Over Mining Dispute, 3, Including BJP Leader Burnt Alive In Chhattisgarh",
-    "summary": "The brutal killings have sent shockwaves across Chhattisgarh",
-    "image": "https://c.ndtvimg.com/2026-06/25ora0qo_chhattisgarh_625x300_18_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 18 Jun 2026 12:25:00 +0530",
-    "link": "https://www.ndtv.com/india-news/chhattisgarh-car-set-on-fire-over-mining-dispute-3-including-bjp-leader-burnt-alive-11653138#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/c98291g5rr1o#0",
+    "category": "global",
+    "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+    "summary": "A refinery and a shopping centre were burning after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 18 Jun 2026 09:47:47 GMT",
+    "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/education/cuet-ug-2026-results-live-updates-nta-to-release-final-answer-key-soon-at-cuet-nta-nic-in-direct-link-to-download-scorecard-subject-wise-result-pdf-ad-11653085#publisher=newsstand",
-    "category": "india",
-    "title": "CUET UG 2026 Results LIVE Updates: NTA To Release Final Answer Key Soon, Check List Of Participating Universities",
-    "summary": "Students can use the CUET UG 2026 scorecard for the 2026-27 admission cycle.",
-    "image": "https://c.ndtvimg.com/2026-06/u093puls_cuet-ug-2026_625x300_18_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 18 Jun 2026 12:24:15 +0530",
-    "link": "https://www.ndtv.com/education/cuet-ug-2026-results-live-updates-nta-to-release-final-answer-key-soon-at-cuet-nta-nic-in-direct-link-to-download-scorecard-subject-wise-result-pdf-ad-11653085#publisher=newsstand"
+    "id": "https://www.bbc.com/sport/articles/c98256ypwy0o#1",
+    "category": "global",
+    "title": "Tactical analysis: England look exciting but how can they tighten up?",
+    "summary": "England produced some exciting attacking football while beating Croatia 4-2 but why did they look so shaky defensively?",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 18 Jun 2026 09:38:00 GMT",
+    "link": "https://www.bbc.com/sport/articles/c98256ypwy0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/fired-after-years-of-loyalty-employee-doubles-salary-from-rs-70-000-to-rs-1-58-lakh-shocked-by-hike-11653134#publisher=newsstand",
-    "category": "india",
-    "title": "Fired After Years Of Loyalty, Employee Doubles Salary From Rs 70,000 To Rs 1.58 Lakh: 'Shocked By Hike'",
-    "summary": "After the layoff, the employee landed a remote role with a salary increase to Rs 1.58 lakh monthly.",
-    "image": "https://c.ndtvimg.com/2025-10/v1oralo_techie_625x300_07_October_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 18 Jun 2026 12:20:08 +0530",
-    "link": "https://www.ndtv.com/offbeat/fired-after-years-of-loyalty-employee-doubles-salary-from-rs-70-000-to-rs-1-58-lakh-shocked-by-hike-11653134#publisher=newsstand"
+    "id": "https://www.cricinfo.com/ci/content/story/1541675.html",
+    "category": "sports",
+    "title": "Sooryavanshi to have parents with him on tour of Ireland and England",
+    "summary": "BCCI secretary said the decision would help the 15-year old cope with challenges on his maiden India tour",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418000/418050.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 18 Jun 2026 08:54:10 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1541675.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.com/news/articles/c621z28z138o#0",
     "category": "global",
-    "title": "Risk of cervical cancer death before 30 'close to zero' after HPV vaccine",
+    "title": "Young women now have 'close to zero' risk of cervical cancer death after HPV jab",
     "summary": "A new study finds that hundreds of lives have been saved since school-age girls were offered the HPV jab in 2008.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -288,16 +318,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 18 Jun 2026 07:36:57 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1541666.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cm203nn7lzro#0",
-    "category": "global",
-    "title": "People starting new jobs at lowest level in five years",
-    "summary": "The Office for National Statistics says some areas of the jobs market are weakening, as vacancies continue to fall.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 18 Jun 2026 07:30:57 GMT",
-    "link": "https://www.bbc.com/news/articles/cm203nn7lzro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1541664.html",
@@ -320,16 +340,6 @@
     "link": "https://www.bbc.com/news/articles/c5yzgpe2ld3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/weather/articles/c79y35nl719o#0",
-    "category": "global",
-    "title": "Developing heatwave across Europe to send UK temperatures above 30C",
-    "summary": "Very warm weather is set to return to parts of the UK with temperatures of 30C plus expected as Europe experiences a 'heat dome' as Simon King explains.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 18 Jun 2026 03:33:38 GMT",
-    "link": "https://www.bbc.com/weather/articles/c79y35nl719o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cvgmqzr6p9mo#0",
     "category": "global",
     "title": "What's in the US-Iran agreement?",
@@ -338,16 +348,6 @@
     "source": "BBC",
     "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT",
     "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/sport/football/articles/cwylqvgne7lo#0",
-    "category": "global",
-    "title": "This was an England we haven't seen for years - and it was fun",
-    "summary": "Fun to watch and full of intent - this was an England we have not seen for years, writes Phil McNulty.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 18 Jun 2026 00:23:30 GMT",
-    "link": "https://www.bbc.com/sport/football/articles/cwylqvgne7lo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1541571.html",
