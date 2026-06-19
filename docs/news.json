@@ -40,6 +40,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/india-news/ak-47-rifle-26-pistols-seized-near-indo-pak-border-in-amritsar-1-arrested-11661740#publisher=newsstand",
+    "category": "india",
+    "title": "AK-47 Rifle, 26 Pistols Seized Near Indo-Pak Border In Amritsar, 1 Arrested",
+    "summary": "AK-47 rifle and 25 pistols from his possession near the Indo-Pakistan border in Amritsar in Punjab.",
+    "image": "https://c.ndtvimg.com/2026-06/imaul3ts_dgp-punjab-recovered-guns_625x300_20_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 20 Jun 2026 01:52:42 +0530",
+    "link": "https://www.ndtv.com/india-news/ak-47-rifle-26-pistols-seized-near-indo-pak-border-in-amritsar-1-arrested-11661740#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/kantara-actor-rukmini-vasanth-files-complaint-over-morphed-images-3-arrested-11661580#publisher=newsstand",
     "category": "india",
     "title": "Kantara Actor Rukmini Vasanth Files Complaint Over Morphed Images, 3 Arrested",
@@ -130,14 +140,44 @@
     "link": "https://www.ndtv.com/world-news/trump-asked-which-world-leader-he-admires-most-he-picks-pm-modi-xi-jinping-11660112#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/implementation-of-guarantees-to-change-karnataka-to-bring-in-new-checks-11661577#publisher=newsstand",
-    "category": "india",
-    "title": "Implementation Of Guarantees To Change, Karnataka To Bring In New Checks",
-    "summary": "The issue was disussed during a review meeting chaired by Chief Minister DK Shivkumar.",
-    "image": "https://c.ndtvimg.com/2026-06/qk7m2n54_dk-shivakumar_625x300_19_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 19 Jun 2026 23:52:58 +0530",
-    "link": "https://www.ndtv.com/india-news/implementation-of-guarantees-to-change-karnataka-to-bring-in-new-checks-11661577#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/cqx1ev0wn87o#2",
+    "category": "global",
+    "title": "PM under pressure from Labour MPs and ministers to set timetable for exit",
+    "summary": "The BBC has been told that the transport secretary is among those advising Starmer to set out a timetable.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 19 Jun 2026 21:01:33 GMT",
+    "link": "https://www.bbc.com/news/articles/cqx1ev0wn87o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1541874.html",
+    "category": "sports",
+    "title": "Pant set to be traded to Delhi Capitals for USD 1.5 million; LSG to get Kuldeep in return",
+    "summary": "ESPNcricinfo has learned that Pant will go to DC for INR 15 crore",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/380900/380927.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 19 Jun 2026 21:00:47 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1541874.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn75z3nl048o#1",
+    "category": "global",
+    "title": "What we know so far about Bedford train crash",
+    "summary": "Two East Midland Railway trains crashed into each other, with emergency services now on the scene",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 19 Jun 2026 20:44:36 GMT",
+    "link": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1541897.html",
+    "category": "sports",
+    "title": "Ganguly and Yuvraj set for senior leadership roles in Delhi Capitals in IPL 2027",
+    "summary": "While Ganguly is set to be named the DC head coach, Yuvraj is likely to be signed up as the batting coach",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/405900/405990.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 19 Jun 2026 20:31:59 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1541897.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1541904.html",
@@ -146,11 +186,11 @@
     "summary": "While Ecclestone agreed it would be \"pretty weird\" to not have Sciver-Brunt in a World Cup game, she was confident in Dean's leadership skills",
     "image": "http://p.imgci.com/db/PICTURES/CMS/418400/418404.jpg",
     "source": "Cricinfo",
-    "pubDate": "Fri, 19 Jun 2026 19:38:00 GMT",
+    "pubDate": "Fri, 19 Jun 2026 19:56:33 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1541904.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c20y1ygn707o#1",
+    "id": "https://www.bbc.com/news/articles/c20y1ygn707o#2",
     "category": "global",
     "title": "'Neither I nor Italy ever beg': Meloni says Trump made up story about photo",
     "summary": "The highly public exchange is an indication that their earlier close ties have frayed  since Trump's decision to go to war with Iran.",
@@ -170,7 +210,7 @@
     "link": "https://www.cricinfo.com/ci/content/story/1541819.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cwyk7kkygj5o#1",
+    "id": "https://www.bbc.com/news/articles/cwyk7kkygj5o#2",
     "category": "global",
     "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
     "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
@@ -188,16 +228,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 19 Jun 2026 19:26:28 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1541899.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cqx1ev0wn87o#1",
-    "category": "global",
-    "title": "PM under pressure from Labour MPs and ministers to set timetable for exit",
-    "summary": "The BBC has been told that the transport secretary is among those advising Starmer to set out a timetable.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 19 Jun 2026 19:22:40 GMT",
-    "link": "https://www.bbc.com/news/articles/cqx1ev0wn87o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/videos/c8d21z2q77do#1",
@@ -230,16 +260,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1541856.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1541897.html",
-    "category": "sports",
-    "title": "Ganguly and Yuvraj set for senior leadership roles in Delhi Capitals in IPL 2027",
-    "summary": "While Ganguly is set to be named the DC head coach, Yuvraj is likely to be signed up as the batting coach",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/405900/405990.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 19 Jun 2026 18:51:42 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1541897.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1541857.html",
     "category": "sports",
     "title": "Benjamin, Compton, Dawkins fifties keep Kent on even keel",
@@ -268,16 +288,6 @@
     "source": "ET",
     "pubDate": "Fri, 19 Jun 2026 18:29:54 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-board-meeting-open-market-buyback-is-back-and-intraday-borrowing-for-mfs-5-key-decisions-investors-should-know/articleshow/131859649.cms"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1541863.html",
-    "category": "sports",
-    "title": "Rehan Ahmed in the thick of the action as Leicestershire take control",
-    "summary": "Yorkshire stumble to 185 after opting to bat before Patel, Rehan fifties steers home response",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415500/415514.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 19 Jun 2026 18:22:30 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1541863.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-among-6-stocks-hitting-52-week-highs-surge-up-to-25-in-a-month/slideshow/131859579.cms",
@@ -340,17 +350,17 @@
     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nita-ambani-unveils-education-healthcare-and-green-coastal-parks-infrastructure-plan-for-mumbai/videoshow/131858291.cms"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c78y0gvmjy0o#1",
+    "id": "https://www.bbc.com/news/articles/c892p2qdjjxo#2",
     "category": "global",
-    "title": "'Prioritise love': Kate writes essay reflecting on Italy tour as new pictures released",
-    "summary": "The Princess of Wales reflects on an \"increasingly digitalised world\"  in a new essay, written after her return to overseas visits following her treatment for cancer.",
+    "title": "Minimum age of 11 set for UK puberty blocker trial",
+    "summary": "Gender-questioning children will have to be at least 11 years old to take part in a clinical trial of puberty-blocking drugs.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 19 Jun 2026 16:28:05 GMT",
-    "link": "https://www.bbc.com/news/articles/c78y0gvmjy0o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Fri, 19 Jun 2026 16:18:49 GMT",
+    "link": "https://www.bbc.com/news/articles/c892p2qdjjxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cp9l2278m8no#1",
+    "id": "https://www.bbc.com/news/articles/cp9l2278m8no#2",
     "category": "global",
     "title": "Boy, 3, hurt at zoo was attacked by a crocodile",
     "summary": "Police say a man arrested on suspicion of attempted murder has been bailed.",
@@ -360,17 +370,7 @@
     "link": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c3ryp0nejdro#1",
-    "category": "global",
-    "title": "Henry Zeffman: What does Keir Starmer do next after Andy Burnham's Makerfield win?",
-    "summary": "Discussion about the prime minister's future ramps up after Makerfield by-election.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 19 Jun 2026 14:34:47 GMT",
-    "link": "https://www.bbc.com/news/articles/c3ryp0nejdro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/weather/articles/cz0jde5xkjvo#1",
+    "id": "https://www.bbc.com/weather/articles/cz0jde5xkjvo#2",
     "category": "global",
     "title": "Amber extreme heat warning issued as 35C heatwave approaches",
     "summary": "Temperatures are expected to peak in the mid-30s Celsius on Monday and Tuesday with impacts on health and a risk of disruption to travel.",
