@@ -40,6 +40,26 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/donald-trump-says-he-is-going-to-turkey-china-this-year-11661818#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Says He Is Going To Turkey, China This Year",
+    "summary": "US  President Donald Trump said on Friday he will go to Turkey and make another trip to China at some point in 2026.",
+    "image": "https://c.ndtvimg.com/2026-06/6si07b0k_donald-trump_625x300_18_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 20 Jun 2026 02:56:39 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trump-says-he-is-going-to-turkey-china-this-year-11661818#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/two-trains-collide-near-london-injuries-reported-11661536#publisher=newsstand",
+    "category": "india",
+    "title": "1 Dead, Several Injured In UK Train Collision: Police",
+    "summary": "The British Traffic Police said it was responding to the incident. (Representational Image)",
+    "image": "https://c.ndtvimg.com/london-train-%28reuters%29_625x300_1529317744872.jpg",
+    "source": "NDTV",
+    "pubDate": "Sat, 20 Jun 2026 02:44:46 +0530",
+    "link": "https://www.ndtv.com/world-news/two-trains-collide-near-london-injuries-reported-11661536#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/ak-47-rifle-26-pistols-seized-near-indo-pak-border-in-amritsar-1-arrested-11661740#publisher=newsstand",
     "category": "india",
     "title": "AK-47 Rifle, 26 Pistols Seized Near Indo-Pak Border In Amritsar, 1 Arrested",
@@ -100,16 +120,6 @@
     "link": "https://www.ndtv.com/india-news/joy-working-with-vijay-he-is-humble-patient-tamil-nadu-minister-to-ndtv-11661611#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/two-trains-collide-near-london-injuries-reported-11661536#publisher=newsstand",
-    "category": "india",
-    "title": "Two Trains Collide Near London, Injuries Reported",
-    "summary": "The British Traffic Police said it was responding to the incident. (Representational Image)",
-    "image": "https://c.ndtvimg.com/london-train-%28reuters%29_625x300_1529317744872.jpg",
-    "source": "NDTV",
-    "pubDate": "Sat, 20 Jun 2026 00:00:11 +0530",
-    "link": "https://www.ndtv.com/world-news/two-trains-collide-near-london-injuries-reported-11661536#publisher=newsstand"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -130,24 +140,44 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
-    "id": "https://www.ndtv.com/world-news/trump-asked-which-world-leader-he-admires-most-he-picks-pm-modi-xi-jinping-11660112#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Asked Which World Leader He Admires Most, He Picks PM Modi, Xi Jinping",
-    "summary": "In the Axios interview, Trump repeatedly assessed power in terms of submission.",
-    "image": "https://c.ndtvimg.com/2026-06/etrp4bms_trump-modi-g7-afp_625x300_17_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 19 Jun 2026 23:59:31 +0530",
-    "link": "https://www.ndtv.com/world-news/trump-asked-which-world-leader-he-admires-most-he-picks-pm-modi-xi-jinping-11660112#publisher=newsstand"
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cqx1ev0wn87o#2",
     "category": "global",
     "title": "PM under pressure from Labour MPs and ministers to set timetable for exit",
     "summary": "The BBC has been told that the transport secretary is among those advising Starmer to set out a timetable.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 19 Jun 2026 21:01:33 GMT",
+    "pubDate": "Fri, 19 Jun 2026 22:01:19 GMT",
     "link": "https://www.bbc.com/news/articles/cqx1ev0wn87o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx2j700l5jlo#1",
+    "category": "global",
+    "title": "'People flew from their seats': Passengers describe how crash unfolded",
+    "summary": "The East of England Ambulance Service says nearly 90 people have been injured -over 30 of them seriously.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 19 Jun 2026 21:37:18 GMT",
+    "link": "https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1541912.html",
+    "category": "sports",
+    "title": "Lewis, Prendergast fifties in vain as Melie magic helps NZ win a thriller",
+    "summary": "Melie struck twice in an over as Ireland, who were 116 for 1 at one stage chasing 141, fell short by four runs",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418600/418615.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 19 Jun 2026 21:31:58 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1541912.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn75z3nl048o#1",
+    "category": "global",
+    "title": "What we know so far about Bedford train crash",
+    "summary": "Two East Midland Railway trains crashed into each other, with emergency services now on the scene",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 19 Jun 2026 21:26:27 GMT",
+    "link": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1541874.html",
@@ -158,16 +188,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 19 Jun 2026 21:00:47 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1541874.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn75z3nl048o#1",
-    "category": "global",
-    "title": "What we know so far about Bedford train crash",
-    "summary": "Two East Midland Railway trains crashed into each other, with emergency services now on the scene",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 19 Jun 2026 20:44:36 GMT",
-    "link": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1541897.html",
@@ -232,7 +252,7 @@
   {
     "id": "https://www.bbc.com/news/videos/c8d21z2q77do#1",
     "category": "global",
-    "title": "Video shows scene of Bedford train crash as passenger describes aftermath",
+    "title": "Video shows scene of collision as passenger speaks about aftermath",
     "summary": "Passenger Pete Knapp said the crash \"felt like [he'd] been in a bomb explosion\".",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -268,16 +288,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 19 Jun 2026 18:35:57 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1541857.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1541859.html",
-    "category": "sports",
-    "title": "Patterson-White six-for has Essex on the rack",
-    "summary": "Hameed in ominous touch as Notts overcome Taunton batting woes",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415350.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 19 Jun 2026 18:35:56 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1541859.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-board-meeting-open-market-buyback-is-back-and-intraday-borrowing-for-mfs-5-key-decisions-investors-should-know/articleshow/131859649.cms",
@@ -348,16 +358,6 @@
     "source": "ET",
     "pubDate": "Fri, 19 Jun 2026 17:20:20 +0530",
     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nita-ambani-unveils-education-healthcare-and-green-coastal-parks-infrastructure-plan-for-mumbai/videoshow/131858291.cms"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c892p2qdjjxo#2",
-    "category": "global",
-    "title": "Minimum age of 11 set for UK puberty blocker trial",
-    "summary": "Gender-questioning children will have to be at least 11 years old to take part in a clinical trial of puberty-blocking drugs.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 19 Jun 2026 16:18:49 GMT",
-    "link": "https://www.bbc.com/news/articles/c892p2qdjjxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cp9l2278m8no#2",
