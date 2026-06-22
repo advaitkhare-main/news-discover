@@ -40,7 +40,7 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c9w2g0ewk95o#0",
+    "id": "https://www.bbc.com/news/articles/c9w2g0ewk95o#2",
     "category": "global",
     "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
     "summary": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
@@ -50,174 +50,194 @@
     "link": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c17ynlek5djo#0",
+    "id": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-india-bonds-steady-as-dicey-iran-truce-liquidity-crunch-curb-appetite/articleshow/131909146.cms",
+    "category": "finance",
+    "title": "India bonds steady as dicey Iran truce, liquidity crunch curb appetite",
+    "summary": "Indian government bonds remained steady as traders adopted a cautious stance due to lingering U.S.-Iran tensions and tight banking liquidity. While oil prices dipped, offering some relief, market participants anticipate a period of consolidation afte",
+    "image": "https://img.etimg.com/photo/msid-131909146,imgsize-111102.cms",
+    "source": "ET",
+    "pubDate": "Mon, 22 Jun 2026 17:40:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-india-bonds-steady-as-dicey-iran-truce-liquidity-crunch-curb-appetite/articleshow/131909146.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/tech/samsung-bespoke-ai-refrigerators-one-smart-solution-for-every-home-11639814#publisher=newsstand",
+    "category": "india",
+    "title": "Samsung Bespoke AI Refrigerators: One Smart Solution For Every Home",
+    "summary": "Bespoke Design blends seamlessly with contemporary kitchen aesthetics.",
+    "image": "https://c.ndtvimg.com/2026-06/4cb1rc1_fridge_625x300_22_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 22 Jun 2026 17:37:08 +0530",
+    "link": "https://www.ndtv.com/tech/samsung-bespoke-ai-refrigerators-one-smart-solution-for-every-home-11639814#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/6-tigers-are-here-rebel-uddhav-sena-mps-join-eknath-shinde-camp-11671082#publisher=newsstand",
+    "category": "india",
+    "title": "\"6 Tigers Are Here\": Rebel Uddhav Sena MPs Join Eknath Shinde Camp",
+    "summary": "Six out of nine Lok Sabha MPs from Team Uddhav Thackeray joined Eknath Shinde-led Shiv Sena in Mumbai on Monday evening, ending days of speculation.",
+    "image": "https://c.ndtvimg.com/2026-06/pb8o4p28_rebel-uddhav-sena-mps-_650x400_22_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 22 Jun 2026 17:35:28 +0530",
+    "link": "https://www.ndtv.com/india-news/6-tigers-are-here-rebel-uddhav-sena-mps-join-eknath-shinde-camp-11671082#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/massive-fire-at-coaching-centre-in-lucknow-students-jump-from-1st-floor-11670747#publisher=newsstand",
+    "category": "india",
+    "title": "13 Killed In Fire At Lucknow Coaching Centre, Students Jump From 1st Floor",
+    "summary": "Several fire engines rushed to the spot and brought the blaze under control.",
+    "image": "https://c.ndtvimg.com/2026-06/q9c2sacg_lucknow-coaching-centre-fire_625x300_22_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 22 Jun 2026 17:29:50 +0530",
+    "link": "https://www.ndtv.com/india-news/massive-fire-at-coaching-centre-in-lucknow-students-jump-from-1st-floor-11670747#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/mbbs-student-sejal-pawars-cadaver-joke-at-pranit-more-show-and-character-autopsy-that-followed-11669560#publisher=newsstand",
+    "category": "india",
+    "title": "MBBS Student Sejal Pawar Dehumanised Cadavers, Internet Did The Same To Her",
+    "summary": "Sejal Pawar's college has sent her on a 15-day forced leave.",
+    "image": "https://c.ndtvimg.com/2026-06/8v2phtv4_sejal-pawar-_625x300_22_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 22 Jun 2026 17:28:29 +0530",
+    "link": "https://www.ndtv.com/india-news/mbbs-student-sejal-pawars-cadaver-joke-at-pranit-more-show-and-character-autopsy-that-followed-11669560#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/neet-ug-re-exam-2026-was-error-free-and-flawless-says-nta-director-abhishek-singh-11671173#publisher=newsstand",
+    "category": "india",
+    "title": "NEET UG Re-Exam Was \"Error-Free And Flawless\", Says NTA Director Abhishek Singh",
+    "summary": "The NEET UG re-examination saw over 20 lakh candidates appearing at 5,440 centres.",
+    "image": "https://c.ndtvimg.com/2026-06/4aq3qcp8_neet_625x300_21_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 22 Jun 2026 17:23:08 +0530",
+    "link": "https://www.ndtv.com/education/neet-ug-re-exam-2026-was-error-free-and-flawless-says-nta-director-abhishek-singh-11671173#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/indias-manufacturing-export-boom-why-mukul-kochhar-says-the-time-is-right-now/articleshow/131908502.cms",
+    "category": "finance",
+    "title": "India's manufacturing export boom: Why Mukul Kochhar says the time is 'right now'",
+    "summary": "India's economic outlook is brightening, with a top strategist predicting a multi-year manufacturing export boom. Despite past currency woes and foreign investor jitters, the nation's macro picture has strengthened, evidenced by a neutral current acc",
+    "image": "https://img.etimg.com/photo/msid-131908502,imgsize-23468.cms",
+    "source": "ET",
+    "pubDate": "Mon, 22 Jun 2026 17:14:29 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/indias-manufacturing-export-boom-why-mukul-kochhar-says-the-time-is-right-now/articleshow/131908502.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/struggling-to-budget-26-year-old-earning-rs-82-lakh-a-year-says-luxuries-still-out-of-reach-11671109#publisher=newsstand",
+    "category": "india",
+    "title": "\"Struggling To Budget\": 26-Year-Old Earning Over Rs 80 Lakh A Year Says Luxuries Still Out Of Reach",
+    "summary": "The user noted that they are living on a \"tight budget\".",
+    "image": "https://c.ndtvimg.com/2026-06/3pqtbf54_budget_625x300_22_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 22 Jun 2026 17:13:22 +0530",
+    "link": "https://www.ndtv.com/offbeat/struggling-to-budget-26-year-old-earning-rs-82-lakh-a-year-says-luxuries-still-out-of-reach-11671109#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/keir-starmer-resignation-put-myself-forward-andy-burnham-says-he-will-run-for-uk-prime-minister-11671094#publisher=newsstand",
+    "category": "india",
+    "title": "'Put Myself Forward': Andy Burnham Says He Will Run For UK Prime Minister",
+    "summary": "The former Manchester mayor could become leader without any formal contest.",
+    "image": "https://c.ndtvimg.com/2026-06/p9ldeso_andy-burnham_625x300_19_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 22 Jun 2026 17:10:59 +0530",
+    "link": "https://www.ndtv.com/world-news/keir-starmer-resignation-put-myself-forward-andy-burnham-says-he-will-run-for-uk-prime-minister-11671094#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/delhi-woman-takes-grandparents-abroad-for-first-time-wins-hearts-online-11670755#publisher=newsstand",
+    "category": "india",
+    "title": "\"It's Never Too Late\": Delhi Woman Takes Grandparents Abroad For First Time, Wins Hearts Online",
+    "summary": "She also added that the journey showed her there is no age limit for trying something new.",
+    "image": "https://c.ndtvimg.com/2026-06/4rsn9cc4_viral-video_625x300_22_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 22 Jun 2026 17:09:57 +0530",
+    "link": "https://www.ndtv.com/offbeat/delhi-woman-takes-grandparents-abroad-for-first-time-wins-hearts-online-11670755#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/kirloskar-oil-engines-among-5-capital-goods-stocks-hit-52-week-highs-rally-up-to-45-in-a-month/slideshow/131908000.cms",
+    "category": "finance",
+    "title": "Kirloskar Oil Engines among 5 capital goods stocks hit 52-week highs, rally up to 45% in a month",
+    "summary": "Five capital goods stocks, led by Kirloskar Oil Engines, touched fresh 52-week highs on Monday, delivering gains of up to 45% over the past month amid strong market momentum.",
+    "image": "https://img.etimg.com/photo/msid-131907857,imgsize-3970.cms",
+    "source": "ET",
+    "pubDate": "Mon, 22 Jun 2026 16:47:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/kirloskar-oil-engines-among-5-capital-goods-stocks-hit-52-week-highs-rally-up-to-45-in-a-month/slideshow/131908000.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-share-price-live-22-jun-2026/liveblog/131907230.cms",
+    "category": "finance",
+    "title": "HUL Share Price Live Updates: HUL achieves notable returns in the last quarter",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-131907230,imgsize-48810.cms",
+    "source": "ET",
+    "pubDate": "Mon, 22 Jun 2026 16:22:54 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-share-price-live-22-jun-2026/liveblog/131907230.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-snaps-six-session-winning-streak-as-firmer-dollar-pinches/articleshow/131907132.cms",
+    "category": "finance",
+    "title": "Rupee snaps six-session winning streak as firmer dollar pinches",
+    "summary": "The Indian rupee slipped on Monday, snapping its six-day upward trend due to the strengthening dollar worldwide. While falling oil prices eased some apprehensions related to conflicts, the Federal Reserve's assertive monetary policy continues to supp",
+    "image": "https://img.etimg.com/photo/msid-131907132,imgsize-41576.cms",
+    "source": "ET",
+    "pubDate": "Mon, 22 Jun 2026 16:21:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-snaps-six-session-winning-streak-as-firmer-dollar-pinches/articleshow/131907132.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-live-updates-22-jun-2026/liveblog/131906897.cms",
+    "category": "finance",
+    "title": "Adani Ent Share Price Live Updates: Adani Enterprises  Market Update",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-131906897,imgsize-16358.cms",
+    "source": "ET",
+    "pubDate": "Mon, 22 Jun 2026 16:09:07 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-live-updates-22-jun-2026/liveblog/131906897.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-22-jun-2026/liveblog/131906896.cms",
+    "category": "finance",
+    "title": "Dr Reddys Share Price Live Updates: Dr. Reddys shows a slight gain in today's trading",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-131906896,imgsize-13678.cms",
+    "source": "ET",
+    "pubDate": "Mon, 22 Jun 2026 16:09:07 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-22-jun-2026/liveblog/131906896.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-stock-price-livestock-price-today-live-updates-22-jun-2026/liveblog/131906778.cms",
+    "category": "finance",
+    "title": "LTIMindtree Share Price Live Updates: LTIMindtree  Price and Returns Overview",
+    "summary": "",
+    "image": "https://img.etimg.com/photo/msid-131906778,imgsize-15750.cms",
+    "source": "ET",
+    "pubDate": "Mon, 22 Jun 2026 16:03:57 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-stock-price-livestock-price-today-live-updates-22-jun-2026/liveblog/131906778.cms"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0qyllvpkw8o#1",
     "category": "global",
-    "title": "Wowcher sorry for 'unacceptable' crocodile attack email",
-    "summary": "The firm's marketing email appeared to reference an incident involving a toddler at a zoo.",
+    "title": "Why did Starmer resign and what could happen next?",
+    "summary": "The Labour leader says he will remain prime minister until his successor is chosen.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sun, 21 Jun 2026 19:12:32 GMT",
-    "link": "https://www.bbc.com/news/articles/c17ynlek5djo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 22 Jun 2026 12:18:31 GMT",
+    "link": "https://www.bbc.com/news/articles/c0qyllvpkw8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/vikram-solar-shares-fall-3-after-nclt-admits-insolvency-petition-against-the-company-heres-why/articleshow/131902348.cms",
-    "category": "finance",
-    "title": "Vikram Solar shares fall 3% after NCLT admits insolvency petition against the company. Here's why",
-    "summary": "Vikram Solar shares declined after the NCLT admitted an insolvency petition filed by Isitva Steels over alleged dues linked to civil works for a solar EPC project. The company has disputed the claim, citing a prior settlement agreement, and plans to ",
-    "image": "https://img.etimg.com/photo/msid-131902348,imgsize-89682.cms",
-    "source": "ET",
-    "pubDate": "Mon, 22 Jun 2026 11:38:21 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/vikram-solar-shares-fall-3-after-nclt-admits-insolvency-petition-against-the-company-heres-why/articleshow/131902348.cms"
+    "id": "https://www.bbc.com/news/articles/c20y1n8y2z7o#2",
+    "category": "global",
+    "title": "Injured ticket inspector who helped others in Bedford train crash hailed a hero",
+    "summary": "A passenger praises a member of railway staff who, despite being in pain, helped the injured.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 22 Jun 2026 12:17:34 GMT",
+    "link": "https://www.bbc.com/news/articles/c20y1n8y2z7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sk-hynix-overtakes-samsung-to-become-south-koreas-most-valuable-company/articleshow/131902116.cms",
-    "category": "finance",
-    "title": "SK Hynix overtakes Samsung to become South Korea's most valuable company",
-    "summary": "SK Hynix has surged past Samsung Electronics to become South Korea's most valuable company, driven by its dominance in high-bandwidth memory (HBM) chips crucial for AI systems. This remarkable turnaround, from near collapse two decades ago to a marke",
-    "image": "https://img.etimg.com/photo/msid-131902116,imgsize-208786.cms",
-    "source": "ET",
-    "pubDate": "Mon, 22 Jun 2026 11:24:04 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sk-hynix-overtakes-samsung-to-become-south-koreas-most-valuable-company/articleshow/131902116.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/ceasefire-inflation-elections-5-themes-driving-global-markets-this-week/slideshow/131902241.cms",
-    "category": "finance",
-    "title": "Ceasefire, Inflation, Elections: 5 themes driving global markets this week",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-131902022,imgsize-3338.cms",
-    "source": "ET",
-    "pubDate": "Mon, 22 Jun 2026 11:18:01 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ceasefire-inflation-elections-5-themes-driving-global-markets-this-week/slideshow/131902241.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-walk-tightrope-on-steady-oil-shaky-us-iran-truce/articleshow/131901973.cms",
-    "category": "finance",
-    "title": "India bonds walk tightrope on steady oil, shaky US-Iran truce",
-    "summary": "Indian government bonds traded cautiously early Monday, as concerns over U.S.-Iran tensions tempered relief from falling oil prices. While oil's dip below $80 a barrel eases import costs, traders remain wary of El Nino's impact on inflation and globa",
-    "image": "https://img.etimg.com/photo/msid-131901973,imgsize-21698.cms",
-    "source": "ET",
-    "pubDate": "Mon, 22 Jun 2026 11:13:23 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-walk-tightrope-on-steady-oil-shaky-us-iran-truce/articleshow/131901973.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/microns-ai-moment-can-earnings-sustain-the-historic-rally/slideshow/131901957.cms",
-    "category": "finance",
-    "title": "Micron's AI moment: Can earnings sustain the historic rally?",
-    "summary": "Micron has become a major beneficiary of the AI boom, driven by surging demand for high-bandwidth memory used in AI infrastructure. While investors expect strong earnings and continued growth, markets are focusing more on future guidance and whether ",
-    "image": "https://img.etimg.com/photo/msid-131901839,imgsize-7934.cms",
-    "source": "ET",
-    "pubDate": "Mon, 22 Jun 2026 11:03:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/microns-ai-moment-can-earnings-sustain-the-historic-rally/slideshow/131901957.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-hcl-tech-coforge-other-it-stocks-rise-up-to-3-a-day-after-a-massive-crash-what-lies-ahead/articleshow/131901741.cms",
-    "category": "finance",
-    "title": "Infosys, HCL Tech, Coforge, other IT stocks rise up to 3% a day after a massive crash. What lies ahead?",
-    "summary": "IT stocks rebounded after a sharp sell-off triggered by Accenture\u2019s guidance cut, with gains led by Coforge and Tech Mahindra. Analysts see valuations turning attractive but caution that volatility may persist. Technical indicators remain weak, with ",
-    "image": "https://img.etimg.com/photo/msid-131901741,imgsize-7473.cms",
-    "source": "ET",
-    "pubDate": "Mon, 22 Jun 2026 10:55:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-hcl-tech-coforge-other-it-stocks-rise-up-to-3-a-day-after-a-massive-crash-what-lies-ahead/articleshow/131901741.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/turtlemint-fintech-ipo-day-2-issue-subscribed-47-check-gmp-and-other-key-details/articleshow/131901691.cms",
-    "category": "finance",
-    "title": "Turtlemint Fintech IPO Day 2: Issue subscribed 47%; Check GMP and other key details",
-    "summary": "Turtlemint Fintech Solutions IPO: The issue, comprising a fresh issue of \u20b9660.7 crore and an offer-for-sale of \u20b9221.9 crore, is priced at \u20b9144-152 per share and will close for subscription on June 23.",
-    "image": "https://img.etimg.com/photo/msid-131901691,imgsize-5164.cms",
-    "source": "ET",
-    "pubDate": "Mon, 22 Jun 2026 10:51:04 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/turtlemint-fintech-ipo-day-2-issue-subscribed-47-check-gmp-and-other-key-details/articleshow/131901691.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/rupee-drifts-as-oil-dips-hawkish-fed-risks-importer-flows-cap-gains/articleshow/131901604.cms",
-    "category": "finance",
-    "title": "Rupee drifts as oil dips; hawkish Fed risks, importer flows cap gains",
-    "summary": "The Indian rupee held steady as easing U.S.-Iran tensions lowered oil prices, boosting sentiment. However, anticipation of potential U.S. Federal Reserve rate hikes kept traders watchful. Importer demand also capped rupee gains.  Despite a roadmap fo",
-    "image": "https://img.etimg.com/photo/msid-131901604,imgsize-207625.cms",
-    "source": "ET",
-    "pubDate": "Mon, 22 Jun 2026 10:42:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/rupee-drifts-as-oil-dips-hawkish-fed-risks-importer-flows-cap-gains/articleshow/131901604.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/education/neet-ug-2026-expected-cut-off-check-category-wise-safe-score-for-top-government-colleges-11669298#publisher=newsstand",
-    "category": "india",
-    "title": "NEET UG 2026 Expected Cut Off: Check Category-Wise Safe Score For Top Government Colleges",
-    "summary": "NEET UG 2026 expected cutoff and safe score analysis.",
-    "image": "https://c.ndtvimg.com/2026-06/g5equ65o_neet-expected-cut-off_625x300_22_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 22 Jun 2026 10:31:13 +0530",
-    "link": "https://www.ndtv.com/education/neet-ug-2026-expected-cut-off-check-category-wise-safe-score-for-top-government-colleges-11669298#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/actor-pankaj-tripathis-brother-assaulted-with-sticks-in-bihar-land-dispute-11669322#publisher=newsstand",
-    "category": "india",
-    "title": "Actor Pankaj Tripathi's Brother Assaulted With Sticks In Bihar Land Dispute",
-    "summary": "Actor Pankaj Tripathi's brother being taken to hospital",
-    "image": "https://c.ndtvimg.com/2026-06/1hvuudlc_pankaj-tripathi-brother-attacked_625x300_22_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 22 Jun 2026 10:29:12 +0530",
-    "link": "https://www.ndtv.com/india-news/actor-pankaj-tripathis-brother-assaulted-with-sticks-in-bihar-land-dispute-11669322#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/neet-ug-2026-nta-calls-viral-video-fake-says-re-exam-conducted-under-tight-security-11668916#publisher=newsstand",
-    "category": "india",
-    "title": "NEET UG 2026: NTA Calls Viral Video Fake, Says Re-Exam Conducted Under Tight Security",
-    "summary": "NTA dismisses viral NEET UG 2026 leak claims as fake.",
-    "image": "https://c.ndtvimg.com/2026-06/ficjvhgg_neet-reexam_625x300_22_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 22 Jun 2026 10:12:48 +0530",
-    "link": "https://www.ndtv.com/education/neet-ug-2026-nta-calls-viral-video-fake-says-re-exam-conducted-under-tight-security-11668916#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/qatar-gas-facility-blast-video-massive-fireball-and-smoke-after-explosion-at-qatar-gas-facility-barzan-gas-supply-facility-in-ras-laffan-us-iran-war-11669265#publisher=newsstand",
-    "category": "india",
-    "title": "Video: Massive Fireball And Smoke After Explosion At Qatar Gas Facility",
-    "summary": "Ras Laffan had already suffered significant damage during the US-Iran war",
-    "image": "https://c.ndtvimg.com/2026-06/h3d8e484_qatar-gas-explosion_625x300_22_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 22 Jun 2026 10:10:28 +0530",
-    "link": "https://www.ndtv.com/world-news/qatar-gas-facility-blast-video-massive-fireball-and-smoke-after-explosion-at-qatar-gas-facility-barzan-gas-supply-facility-in-ras-laffan-us-iran-war-11669265#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/neet-ug-re-exam-2026-solver-gang-busted-in-lakhisarai-9-impersonators-among-30-arrested-11669253#publisher=newsstand",
-    "category": "india",
-    "title": "9 Impersonators Reach Bihar Centre To Take NEET Re-Test, Arrested",
-    "summary": "Major Action Taken Against NEET UG Re Examination Cheating Scandal",
-    "image": "https://c.ndtvimg.com/2026-06/84j2odhs_neet-ug-reexam-2026_625x300_21_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 22 Jun 2026 10:03:42 +0530",
-    "link": "https://www.ndtv.com/education/neet-ug-re-exam-2026-solver-gang-busted-in-lakhisarai-9-impersonators-among-30-arrested-11669253#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/too-late-to-land-it-jobs-fresh-graduate-loses-hope-amid-brutal-job-market-11669252#publisher=newsstand",
-    "category": "india",
-    "title": "'Too Late To Land IT Jobs?' Fresh Graduate Loses Hope Amid Brutal Job Market",
-    "summary": "Fresh CSE graduate seeks advice on future amid downturn in job market.",
-    "image": "https://c.ndtvimg.com/2026-06/a6ep6ups_as_625x300_17_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 22 Jun 2026 10:03:28 +0530",
-    "link": "https://www.ndtv.com/offbeat/too-late-to-land-it-jobs-fresh-graduate-loses-hope-amid-brutal-job-market-11669252#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/lalan-singh-encounter-bihars-most-wanted-criminal-with-rs-1-25-lakh-reward-shot-dead-in-uttar-pradesh-11669230#publisher=newsstand",
-    "category": "india",
-    "title": "Bihar's Most Wanted Criminal With Rs 1.25 Lakh Reward Shot Dead In UP",
-    "summary": "Bihar's most wanted criminal Lalan Singh died in a police encounter",
-    "image": "https://c.ndtvimg.com/2026-06/23j9luco_lalan-singh-encounter_625x300_22_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 22 Jun 2026 09:55:27 +0530",
-    "link": "https://www.ndtv.com/india-news/lalan-singh-encounter-bihars-most-wanted-criminal-with-rs-1-25-lakh-reward-shot-dead-in-uttar-pradesh-11669230#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-22-june-us-iran-talks-donald-trump-oil-prices-11668862#publisher=newsstand",
-    "category": "india",
-    "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps Over 350 Points Amid US-Iran Talks in Switzerland",
-    "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
-    "image": "https://c.ndtvimg.com/2026-05/8q7ibojg_bse-stock-market-bbg_625x300_13_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 22 Jun 2026 09:55:00 +0530",
-    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-22-june-us-iran-talks-donald-trump-oil-prices-11668862#publisher=newsstand"
+    "id": "https://www.bbc.com/news/articles/cp8pml5z8p6o#1",
+    "category": "global",
+    "title": "Who is Andy Burnham? Ex-Manchester mayor who wants to lead the country",
+    "summary": "The outgoing Greater Manchester mayor is lining up a third attempt to be Labour leader following his return to Westminster.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 22 Jun 2026 11:04:28 GMT",
+    "link": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1542277.html",
@@ -226,8 +246,58 @@
     "summary": "Sri Lanka's captain said she felt like she lost her last chance to take her team to the semi-finals of the Women's T20 World Cup",
     "image": "http://p.imgci.com/db/PICTURES/CMS/418700/418769.jpg",
     "source": "Cricinfo",
-    "pubDate": "Mon, 22 Jun 2026 06:18:43 GMT",
+    "pubDate": "Mon, 22 Jun 2026 10:50:25 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1542277.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cwy0q41v1lzo#2",
+    "category": "global",
+    "title": "First round of US-Iran talks ends with encouraging progress, mediators say",
+    "summary": "The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 22 Jun 2026 10:46:45 GMT",
+    "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cwygj95xrp9o#1",
+    "category": "global",
+    "title": "Top lawyer whose 'Mr Rules' approach failed to connect with the public",
+    "summary": "Less than two years after he won a huge majority in the 2024 general election, Sir Keir Starmer has been forced out.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 22 Jun 2026 10:34:41 GMT",
+    "link": "https://www.bbc.com/news/articles/cwygj95xrp9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c862jy76y21o#2",
+    "category": "global",
+    "title": "Paedophile nursery worker could have been stopped sooner, says former colleague",
+    "summary": "Staff member who raised concerns about nursery worker Nathan Bennett was \"ignored\" for months.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 22 Jun 2026 09:24:12 GMT",
+    "link": "https://www.bbc.com/news/articles/c862jy76y21o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c621nnq4pm7o#1",
+    "category": "global",
+    "title": "Watch and read Starmer's resignation speech in full",
+    "summary": "Sir Keir announces he will be step down as Labour leader and PM in a Downing Street address.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 22 Jun 2026 09:14:38 GMT",
+    "link": "https://www.bbc.com/news/articles/c621nnq4pm7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1542206.html",
+    "category": "sports",
+    "title": "Sooryavanshi thumps fastest List A fifty as India A win tri-series",
+    "summary": "His 94 off 29 balls took India A to 377, before Sri Lanka A fell 66 short of their target",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418700/418712.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 22 Jun 2026 08:21:00 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1542206.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1542285.html",
@@ -236,7 +306,7 @@
     "summary": "This is the second time England have lost points for a slow over rate in this World Test Championship cycle",
     "image": "http://p.imgci.com/db/PICTURES/CMS/418500/418593.jpg",
     "source": "Cricinfo",
-    "pubDate": "Mon, 22 Jun 2026 06:05:31 GMT",
+    "pubDate": "Mon, 22 Jun 2026 06:49:49 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1542285.html?ex_cid=OTC-RSS"
   },
   {
@@ -248,26 +318,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 22 Jun 2026 05:15:01 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1542281.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c862jy76y21o#0",
-    "category": "global",
-    "title": "Paedophile nursery worker could have been stopped sooner, says former colleague",
-    "summary": "Staff member who raised concerns about nursery worker Nathan Bennett was \"ignored\" for months.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 22 Jun 2026 05:00:04 GMT",
-    "link": "https://www.bbc.com/news/articles/c862jy76y21o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwy0q41v1lzo#0",
-    "category": "global",
-    "title": "First round of US-Iran talks ends with 'encouraging progress', mediators say",
-    "summary": "The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 22 Jun 2026 04:45:26 GMT",
-    "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1542275.html",
@@ -300,46 +350,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1542273.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/clye4ky2yzpo#0",
-    "category": "global",
-    "title": "Trump-backed political outsider wins Colombia election, initial count shows",
-    "summary": "Abelardo de la Espriella appears to have narrowly defeated his rival Iv\u00e1n Cepeda, who says the preliminary count is \"not yet official or binding\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 22 Jun 2026 03:31:40 GMT",
-    "link": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1542257.html",
-    "category": "sports",
-    "title": "Kapp's 81* seals South Africa's come-from-behind win against India",
-    "summary": "The allrounder added 97 with Brits to rescue South Africa from 25 for 2 in the 159-run chase",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418700/418759.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 22 Jun 2026 02:47:29 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1542257.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c39yd12zed9o#0",
-    "category": "global",
-    "title": "Chris Mason: All eyes on Downing Street - what does the PM say, and when?",
-    "summary": "For the third time in four years, we appear on the brink of a prime minister announcing their plan to leave office, the BBC's political editor writes.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 22 Jun 2026 01:40:10 GMT",
-    "link": "https://www.bbc.com/news/articles/c39yd12zed9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c872e8d9el1o#0",
-    "category": "global",
-    "title": "Trump says repairs to algae-plagued Reflecting Pool will begin immediately",
-    "summary": "Despite a multi-million dollar renovation, the Washington DC landmark has peeling paint and algae. Trump claims vandals are partly to blame.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 22 Jun 2026 00:54:43 GMT",
-    "link": "https://www.bbc.com/news/articles/c872e8d9el1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1542227.html",
     "category": "sports",
     "title": "Johnson flips his script to ensure emphatic T20I whitewash",
@@ -348,16 +358,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 22 Jun 2026 00:14:51 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1542227.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/weather/articles/c932k0lewygo#0",
-    "category": "global",
-    "title": "Four-day extreme heat warning begins as temperatures could hit 38C",
-    "summary": "A Met Office amber weather warning for heat comes into force and will now last through to Thursday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 22 Jun 2026 00:09:09 GMT",
-    "link": "https://www.bbc.com/weather/articles/c932k0lewygo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
