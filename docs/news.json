@@ -10,94 +10,214 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-rejects-jd-vances-claims-of-tehran-allowing-nuclear-inspectors-11673535#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Rejects JD Vance's Claims Of Tehran Allowing Nuclear Inspectors",
-    "summary": "Iran said that interaction with the UN nuclear watchdog will be based on the \"Safeguards Agreements\".",
-    "image": "https://c.ndtvimg.com/2026-06/ea01rsbo_iran-foreign-ministry_625x300_23_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 23 Jun 2026 04:22:18 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-rejects-jd-vances-claims-of-tehran-allowing-nuclear-inspectors-11673535#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/kim-jong-un-says-north-korea-to-exercise-its-position-as-nuclear-state-11673504#publisher=newsstand",
-    "category": "india",
-    "title": "Kim Jong Un Says North Korea To Exercise Its Position As Nuclear State",
-    "summary": "North Korean leader Kim Jong Un said exercising the country's position as a nuclear weapons state is the only way to cope with an unpredictable and complicated global security situation, KCNA state news agency reported on Tuesday.",
-    "image": "https://c.ndtvimg.com/2025-05/t2r3k6fg_north-korean-leader-kim-jong-un_625x300_22_May_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 23 Jun 2026 03:39:03 +0530",
-    "link": "https://www.ndtv.com/world-news/kim-jong-un-says-north-korea-to-exercise-its-position-as-nuclear-state-11673504#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/lucknow-fire-building-got-demolition-order-in-2016-revoked-within-2-months-11673480#publisher=newsstand",
-    "category": "india",
-    "title": "Lucknow Fire: Building Got Demolition Order In 2016, Revoked Within 2 Months",
-    "summary": "The tragic fire left at least 15 dead, including students, and seven injured, officials said.",
-    "image": "https://c.ndtvimg.com/2026-06/23o7jkec_lucknow-fire_625x300_22_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 23 Jun 2026 03:11:22 +0530",
-    "link": "https://www.ndtv.com/india-news/lucknow-fire-building-got-demolition-order-in-2016-revoked-within-2-months-11673480#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/i-will-do-what-i-have-to-do-if-iran-does-not-stick-to-deal-warns-donald-trump-11673453#publisher=newsstand",
-    "category": "india",
-    "title": "\"I Will Do What I Have To Do\" If Iran Does Not Stick To Deal, Warns Trump",
-    "summary": "Trump said Iran was supposed to use the money being unfrozen to buy food exclusively from the US.",
-    "image": "https://c.ndtvimg.com/2026-05/su2ndu6o_donald-trump-afp_625x300_12_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 23 Jun 2026 02:43:21 +0530",
-    "link": "https://www.ndtv.com/world-news/i-will-do-what-i-have-to-do-if-iran-does-not-stick-to-deal-warns-donald-trump-11673453#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/36-year-old-man-charged-in-scotland-with-anti-muslim-attacks-in-court-11673417#publisher=newsstand",
-    "category": "india",
-    "title": "36-Year-Old Man Charged In Scotland With Anti-Muslim Attacks In Court",
-    "summary": "A 36-year-old Scottish man appeared in court Tuesday charged with five counts of attempted murder.",
-    "image": "https://c.ndtvimg.com/court-generic_625x300_1527245477936.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 23 Jun 2026 02:12:34 +0530",
-    "link": "https://www.ndtv.com/world-news/36-year-old-man-charged-in-scotland-with-anti-muslim-attacks-in-court-11673417#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/centre-amends-rules-for-receiving-foreign-funds-11673368#publisher=newsstand",
-    "category": "india",
-    "title": "Centre Amends Rules For Receiving Foreign Funds",
-    "summary": "The government will conduct a field inquiry to verify the utilisation, it said.",
-    "image": "https://c.ndtvimg.com/2020-07/g7l59vmg_money-generic-650_625x300_20_July_20.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 23 Jun 2026 01:50:22 +0530",
-    "link": "https://www.ndtv.com/india-news/centre-amends-rules-for-receiving-foreign-funds-11673368#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-nasdaq-close-lower-dragged-by-alphabet-and-megacap-tech-focus-on-iran/articleshow/131920115.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1-5-lakh-crore-behind-2025-can-jio-nse-and-other-mega-ipos-put-2026-on-course-for-another-record-year/articleshow/131925206.cms",
     "category": "finance",
-    "title": "US stocks: S&amp;P 500, Nasdaq close lower, dragged by Alphabet and megacap tech; focus on Iran",
-    "summary": "US market saw a mixed close as the S&amp;P 500 and Nasdaq dipped, primarily due to tech giants like Alphabet facing investor scrutiny over AI spending. The Dow, however, edged higher, supported by healthcare and industrial gains. Falling oil prices o",
-    "image": "https://img.etimg.com/photo/msid-131920115,imgsize-122930.cms",
+    "title": "Rs 1.5 lakh crore behind 2025! Can Jio, NSE and other mega IPOs put 2026 on course for another record year?",
+    "summary": "India's primary market faces a significant fundraising gap to match last year's record. However, upcoming mega IPOs from Reliance Jio (Rs 35,000 crore) and NSE (Rs 25,000 crore), alongside SBI Mutual Fund (Rs 10,000 crore), could inject much-needed d",
+    "image": "https://img.etimg.com/photo/msid-131925206,imgsize-2435122.cms",
     "source": "ET",
-    "pubDate": "Tue, 23 Jun 2026 01:32:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-nasdaq-close-lower-dragged-by-alphabet-and-megacap-tech-focus-on-iran/articleshow/131920115.cms"
+    "pubDate": "Tue, 23 Jun 2026 09:58:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1-5-lakh-crore-behind-2025-can-jio-nse-and-other-mega-ipos-put-2026-on-course-for-another-record-year/articleshow/131925206.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/delhi-police-files-fir-after-social-media-influencer-alleges-rape-11673334#publisher=newsstand",
-    "category": "india",
-    "title": "Delhi Police Files FIR After Social Media Influencer Alleges Rape",
-    "summary": "The woman alleged that man called her to a hotel in Burari in September 2022 and sexually assaulted her.",
-    "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 23 Jun 2026 01:28:17 +0530",
-    "link": "https://www.ndtv.com/world-news/delhi-police-files-fir-after-social-media-influencer-alleges-rape-11673334#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-standard-chartered-bullish-on-asia-ex-japan-equities-sees-strong-ai-led-growth/articleshow/131925130.cms",
+    "category": "finance",
+    "title": "Global Market: Standard Chartered bullish on Asia ex-Japan equities, sees strong AI-led growth",
+    "summary": "Standard Chartered upgraded Asia ex-Japan equities to overweight, expecting the region to post the strongest earnings growth globally in 2026 and 2027, supported by AI investment and semiconductors. It prefers Taiwan, China and India, while maintaini",
+    "image": "https://img.etimg.com/photo/msid-131925130,imgsize-168870.cms",
+    "source": "ET",
+    "pubDate": "Tue, 23 Jun 2026 09:53:20 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-standard-chartered-bullish-on-asia-ex-japan-equities-sees-strong-ai-led-growth/articleshow/131925130.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/lucknow-fire-tragedy-rajnath-singh-says-responsibility-will-be-fixed-11673324#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-rs-1300/10g-silver-tanks-rs-7200/kg-on-firm-dollar-rate-hike-fears-what-should-you-do/articleshow/131925041.cms",
+    "category": "finance",
+    "title": "Gold prices fall Rs 1,300/10g; silver tanks Rs 7,200/kg on firm dollar, rate hike fears. What should you do?",
+    "summary": "Gold and silver prices fell sharply on MCX on Tuesday, reversing gains from the previous session, as a stronger U.S. dollar dampened demand and investors tracked U.S.-Iran peace talks and interest-rate expectations.",
+    "image": "https://img.etimg.com/photo/msid-131925041,imgsize-88148.cms",
+    "source": "ET",
+    "pubDate": "Tue, 23 Jun 2026 09:49:49 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-rs-1300/10g-silver-tanks-rs-7200/kg-on-firm-dollar-rate-hike-fears-what-should-you-do/articleshow/131925041.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-ai-spending-fears-hammer-us-tech-giants-alphabet-leads-selloff/articleshow/131925001.cms",
+    "category": "finance",
+    "title": "US Stock Market: AI spending fears hammer US tech giants, Alphabet leads selloff",
+    "summary": "Wall Street\u2019s AI-driven technology rally faced pressure as investors questioned whether rising infrastructure spending can generate sufficient returns. While hyperscalers such as Alphabet, Amazon, Meta and Microsoft declined sharply, semiconductor an",
+    "image": "https://img.etimg.com/photo/msid-131925001,imgsize-11877.cms",
+    "source": "ET",
+    "pubDate": "Tue, 23 Jun 2026 09:46:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-ai-spending-fears-hammer-us-tech-giants-alphabet-leads-selloff/articleshow/131925001.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-warsh-to-face-lawmakers-in-key-semiannual-policy-testimony-on-july-14/articleshow/131924976.cms",
+    "category": "finance",
+    "title": "US Stock Market:  Warsh to face lawmakers in key semiannual policy testimony on July 14",
+    "summary": "Federal Reserve Chair Kevin Warsh is set to deliver his inaugural semiannual monetary policy address to Congress on July 14. This crucial appearance will offer insights into the central bank's stance on inflation, interest rates, and the overall econ",
+    "image": "https://img.etimg.com/photo/msid-131924976,imgsize-66806.cms",
+    "source": "ET",
+    "pubDate": "Tue, 23 Jun 2026 09:43:18 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-warsh-to-face-lawmakers-in-key-semiannual-policy-testimony-on-july-14/articleshow/131924976.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-feds-goolsbee-says-inflation-outlook-hinges-on-tariffs-services-prices/articleshow/131924945.cms",
+    "category": "finance",
+    "title": "US Stock Market: Fed's Goolsbee says inflation outlook hinges on tariffs, services prices",
+    "summary": "Chicago Fed's Austan Goolsbee highlighted the central bank's primary challenge: discerning if inflation's current surge will persist or fade.  While the labor market remains robust, policymakers are scrutinizing factors like tariffs and geopolitical ",
+    "image": "https://img.etimg.com/photo/msid-131924945,imgsize-77460.cms",
+    "source": "ET",
+    "pubDate": "Tue, 23 Jun 2026 09:40:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-feds-goolsbee-says-inflation-outlook-hinges-on-tariffs-services-prices/articleshow/131924945.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-simpler-rulebook-for-stock-exchanges-doing-away-with-obsolete-provisions/articleshow/131924916.cms",
+    "category": "finance",
+    "title": "Sebi plans simpler rulebook for stock exchanges, doing away with obsolete provisions",
+    "summary": "Sebi is simplifying stock exchange rules to boost business ease. The regulator plans to consolidate multiple circulars into a single master document, removing outdated provisions and reducing compliance burdens. This move aims to streamline operation",
+    "image": "https://img.etimg.com/photo/msid-131924916,imgsize-2374947.cms",
+    "source": "ET",
+    "pubDate": "Tue, 23 Jun 2026 09:38:29 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-simpler-rulebook-for-stock-exchanges-doing-away-with-obsolete-provisions/articleshow/131924916.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-trades-on-choppy-note-nifty-below-24100-as-it-stocks-drag-benchmarks-lower/articleshow/131924522.cms",
+    "category": "finance",
+    "title": "Sensex trades on choppy note, Nifty below 24,100 as IT stocks drag benchmarks lower",
+    "summary": "Indian stock markets saw a subdued trading session on Tuesday, with the Sensex and Nifty experiencing minor dips, primarily due to losses in IT stocks. Broader market indices, however, showed resilience. Analysts point to improving West Asian peace p",
+    "image": "https://img.etimg.com/photo/msid-131924522,imgsize-150390.cms",
+    "source": "ET",
+    "pubDate": "Tue, 23 Jun 2026 09:32:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-trades-on-choppy-note-nifty-below-24100-as-it-stocks-drag-benchmarks-lower/articleshow/131924522.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cbse-introduces-40-60-assessment-scheme-for-class-12-gulf-students-after-exam-cancellation-11673881#publisher=newsstand",
     "category": "india",
-    "title": "Lucknow Fire Tragedy: Rajnath Singh Says \"Responsibility Will Be Fixed\"",
-    "summary": "Lucknow Fire: Rajnath Singh described the incident as \"very unfortunate\".",
-    "image": "https://c.ndtvimg.com/2026-06/ut9t75q8_rajnath-singh-lucknow-fire_625x300_23_June_26.jpeg",
+    "title": "CBSE Introduces 40:60 Scheme For Class 12 Gulf After Exam Cancelled",
+    "summary": "Supreme Court Informed About CBSE's 40 60 Marking Formula For Gulf Students",
+    "image": "https://c.ndtvimg.com/2026-06/hdpnmbmk_cbse_625x300_06_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Tue, 23 Jun 2026 01:19:05 +0530",
-    "link": "https://www.ndtv.com/india-news/lucknow-fire-tragedy-rajnath-singh-says-responsibility-will-be-fixed-11673324#publisher=newsstand"
+    "pubDate": "Tue, 23 Jun 2026 09:18:30 +0530",
+    "link": "https://www.ndtv.com/education/cbse-introduces-40-60-assessment-scheme-for-class-12-gulf-students-after-exam-cancellation-11673881#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-23-june-trump-us-iran-deal-oil-price-11673917#publisher=newsstand",
+    "category": "india",
+    "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 150 Points Amid Mixed Global Cues, Crude Over $78",
+    "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
+    "image": "https://c.ndtvimg.com/2026-06/irk289r8_share-market_625x300_22_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Tue, 23 Jun 2026 09:17:47 +0530",
+    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-23-june-trump-us-iran-deal-oil-price-11673917#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/business-news/rental-history-home-loan-no-credit-history-cibil-score-personal-finance-11673653#publisher=newsstand",
+    "category": "india",
+    "title": "Years Of Paying Rent? How Rental History Can Unlock Your First Home",
+    "summary": "Rental history captures a form of financial discipline that conventional credit models often miss.",
+    "image": "https://c.ndtvimg.com/2026-05/ff512sp8_genz-home-loan_625x300_26_May_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Tue, 23 Jun 2026 09:00:22 +0530",
+    "link": "https://www.ndtv.com/business-news/rental-history-home-loan-no-credit-history-cibil-score-personal-finance-11673653#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/mumbai-airport-responds-after-viral-clip-shows-rope-tied-to-pen-refill-11673933#publisher=newsstand",
+    "category": "india",
+    "title": "Mumbai Airport Responds After Viral Clip Shows Rope Tied To Pen Refill",
+    "summary": "Content creator highlights pen refill security at Mumbai Airport, prompting official response.",
+    "image": "https://c.ndtvimg.com/2026-06/m8ucj86c_as_625x300_23_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Tue, 23 Jun 2026 08:58:37 +0530",
+    "link": "https://www.ndtv.com/offbeat/mumbai-airport-responds-after-viral-clip-shows-rope-tied-to-pen-refill-11673933#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/business-news/spacex-had-a-blockbuster-listing-then-it-lost-600-billion-in-just-3-days-11673898#publisher=newsstand",
+    "category": "india",
+    "title": "SpaceX Had A Blockbuster Listing. Then It Lost $600 Billion In Just 3 Days",
+    "summary": "SpaceX is the sixth-largest company in the world.",
+    "image": "https://c.ndtvimg.com/2026-06/tl3rnqp4_elon-musk-spacex-stock_625x300_23_June_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Tue, 23 Jun 2026 08:57:24 +0530",
+    "link": "https://www.ndtv.com/business-news/spacex-had-a-blockbuster-listing-then-it-lost-600-billion-in-just-3-days-11673898#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/5-burning-questions-on-lucknow-building-fire-that-killed-15-11673916#publisher=newsstand",
+    "category": "india",
+    "title": "5 Burning Questions On Lucknow Building Fire That Killed 15",
+    "summary": "Commercial operations were being run at the residential building",
+    "image": "https://c.ndtvimg.com/2026-06/n1a4gbdc_lucknow-fire_625x300_22_June_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Tue, 23 Jun 2026 08:57:02 +0530",
+    "link": "https://www.ndtv.com/india-news/5-burning-questions-on-lucknow-building-fire-that-killed-15-11673916#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/lucknow-news/lucknow-fire-news-papa-save-me-victims-last-call-to-father-during-lucknow-fire-that-killed-15-11673803#publisher=newsstand",
+    "category": "india",
+    "title": "\"Papa, There's Fire, Save Me\": Lucknow Man's Last Call To Father For Help",
+    "summary": "The Uttar Pradesh government said the building had been issued a demolition order in 2016",
+    "image": "https://c.ndtvimg.com/2026-06/8nn1ee3o_lucknow-fire-ani_625x300_23_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Tue, 23 Jun 2026 08:50:56 +0530",
+    "link": "https://www.ndtv.com/lucknow-news/lucknow-fire-news-papa-save-me-victims-last-call-to-father-during-lucknow-fire-that-killed-15-11673803#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/ai-artificial-intelligence-months-not-years-five-eyes-alliances-big-warning-on-ai-preparedness-11673180#publisher=newsstand",
+    "category": "india",
+    "title": "'The Timeline Is Months': Five Eyes' Big Warning Over Next AI Breakthrough",
+    "summary": "The alliance said cyber resilience had become essential for businesses.",
+    "image": "https://c.ndtvimg.com/2026-05/rdquv0d_ai-cyber-threat_625x300_12_May_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Tue, 23 Jun 2026 08:25:54 +0530",
+    "link": "https://www.ndtv.com/world-news/ai-artificial-intelligence-months-not-years-five-eyes-alliances-big-warning-on-ai-preparedness-11673180#publisher=newsstand"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1542437.html",
+    "category": "sports",
+    "title": "Nitish Kumar Reddy out of Ireland, England tours with quadriceps injury",
+    "summary": "With Hardik Pandya also absent, India will be without a genuine seam-bowling allrounder",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418200/418234.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 23 Jun 2026 04:52:02 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1542437.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c6217nv34rro#0",
+    "category": "global",
+    "title": "Can you refuse to work or send your kids to school during a heatwave?",
+    "summary": "As temperatures increase significantly over the next few days, these are your rights.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 23 Jun 2026 03:38:21 GMT",
+    "link": "https://www.bbc.com/news/articles/c6217nv34rro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx2kqd9ver1o#0",
+    "category": "global",
+    "title": "Labour MPs mull leadership challenge to prevent Burnham 'coronation'",
+    "summary": "Two senior party figures are considering bids in order to ensure the next leader's policy ideas are tested in a race.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 23 Jun 2026 02:57:05 GMT",
+    "link": "https://www.bbc.com/news/articles/cx2kqd9ver1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/c4gyzknng1jo#0",
+    "category": "global",
+    "title": "England boss Tuchel not a fan of hydration breaks",
+    "summary": "England head coach Thomas Tuchel admits he is not a fan of the controversial hydration breaks being used at the World Cup.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 23 Jun 2026 01:39:34 GMT",
+    "link": "https://www.bbc.com/sport/football/articles/c4gyzknng1jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1542421.html",
+    "category": "sports",
+    "title": "Lisa Keightley re-signs as Sydney Thunder coach",
+    "summary": "Keightley signs a two-year extension until the end of 2027 having led Thunder to the WBBL playoffs in two of her first three seasons",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418700/418792.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 23 Jun 2026 00:02:50 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1542421.html?ex_cid=OTC-RSS"
   },
   {
     "id": "5M2gv6mk7MEHXAvBa4H7z0",
@@ -130,47 +250,27 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1542421.html",
-    "category": "sports",
-    "title": "Lisa Keightley re-signs as Sydney Thunder coach",
-    "summary": "Keightley signs a two-year extension until the end of 2027 having led Thunder to the WBBL playoffs in two of her first three seasons",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418700/418792.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 22 Jun 2026 23:52:16 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1542421.html?ex_cid=OTC-RSS"
+    "id": "https://www.bbc.com/news/articles/ce8mzd94r76o#0",
+    "category": "global",
+    "title": "First drug to delay onset of type 1 diabetes made available on NHS",
+    "summary": "The immunotherpay can give children and adults three extra years before they need to use insulin.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 22 Jun 2026 23:44:41 GMT",
+    "link": "https://www.bbc.com/news/articles/ce8mzd94r76o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/west-bengal-eyes-calcutta-stock-exchange-revival-to-reclaim-financial-hub-status/articleshow/131918044.cms",
-    "category": "finance",
-    "title": "West Bengal govt eyes Calcutta Stock Exchange revival to reclaim financial hub status",
-    "summary": "Kolkata's historic stock exchange is set for a revival, with the state's finance minister vowing to restore the city's financial capital status.  This move promises easier capital access for Eastern India, reduced trading costs, and job creation.  Th",
-    "image": "https://img.etimg.com/photo/msid-131918044,imgsize-1745444.cms",
-    "source": "ET",
-    "pubDate": "Mon, 22 Jun 2026 23:48:18 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/west-bengal-eyes-calcutta-stock-exchange-revival-to-reclaim-financial-hub-status/articleshow/131918044.cms"
+    "id": "https://www.bbc.com/news/articles/c3vy3nr63gxo#0",
+    "category": "global",
+    "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+    "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 22 Jun 2026 23:07:45 GMT",
+    "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/vimeo-owner-bending-spoons-seeks-1-62-billion-us-ipo-sources-say/articleshow/131917413.cms",
-    "category": "finance",
-    "title": "US stocks: Vimeo owner Bending Spoons seeks $1.62 billion US IPO, sources say",
-    "summary": "Italian tech firm Bending Spoons is gearing up for a significant U.S. IPO, aiming to raise up to $1.62 billion. This move, potentially one of the largest by a European company this year, could value the software acquirer at $19 billion. The company, ",
-    "image": "https://img.etimg.com/photo/msid-131917413,imgsize-67146.cms",
-    "source": "ET",
-    "pubDate": "Mon, 22 Jun 2026 23:30:21 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/vimeo-owner-bending-spoons-seeks-1-62-billion-us-ipo-sources-say/articleshow/131917413.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-simpler-rulebook-for-stock-exchanges-doing-away-with-obsolete-provisions/articleshow/131916911.cms",
-    "category": "finance",
-    "title": "Sebi plans simpler rulebook for stock exchanges, doing away with obsolete provisions",
-    "summary": "Securities and Exchange Board of India (Sebi) is proposing a significant overhaul of stock exchange and clearing corporation regulations to boost ease of doing business. The move aims to simplify rules, reduce compliance burdens, and consolidate mult",
-    "image": "https://img.etimg.com/photo/msid-131916911,imgsize-270285.cms",
-    "source": "ET",
-    "pubDate": "Mon, 22 Jun 2026 23:18:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-simpler-rulebook-for-stock-exchanges-doing-away-with-obsolete-provisions/articleshow/131916911.cms"
-  },
-  {
-    "id": "https://www.bbc.com/weather/articles/c0myl4d3l0no#2",
+    "id": "https://www.bbc.com/weather/articles/c0myl4d3l0no#0",
     "category": "global",
     "title": "UK set for hottest June day on record as searing heat continues",
     "summary": "Heatwave conditions intensify across parts of England and Wales as the Met Office issues a rare red warning for extreme heat.",
@@ -180,7 +280,7 @@
     "link": "https://www.bbc.com/weather/articles/c0myl4d3l0no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cn8k4kyrdn5o#1",
+    "id": "https://www.bbc.com/news/articles/cn8k4kyrdn5o#0",
     "category": "global",
     "title": "Chris Mason: Questions multiply for the man tipped to replace Starmer",
     "summary": "Andy Burnham will have to set out his stall to show how he will deliver on his promises, the BBC's political editor writes.",
@@ -190,64 +290,14 @@
     "link": "https://www.bbc.com/news/articles/cn8k4kyrdn5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.com/news/articles/cdxd00lg599o#0",
+    "id": "https://www.bbc.com/news/articles/c5yzlqv4dyeo#0",
     "category": "global",
-    "title": "Starmer quits as Labour leader and paves way for contest for new prime minister",
-    "summary": "Sir Keir delivered a statement to announce his planned departure from Downing Street.",
+    "title": "Peter Murrell to be sentenced for embezzling SNP funds",
+    "summary": "The former party chief executive has admitted embezzling more than \u00a3400,000 over a 12-year period.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 22 Jun 2026 22:26:12 GMT",
-    "link": "https://www.bbc.com/news/articles/cdxd00lg599o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/c2kyz2eqxwvo#1",
-    "category": "global",
-    "title": "What does Trump want from a new UK prime minister?",
-    "summary": "The US president was once considered to have a close friendship with Keir Starmer, but that quickly fell apart with the war in Iran.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 22 Jun 2026 21:51:37 GMT",
-    "link": "https://www.bbc.com/news/videos/c2kyz2eqxwvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-cipla-among-2-stock-recommendations-for-tuesday/slideshow/131914943.cms",
-    "category": "finance",
-    "title": "Market trading guide: Cipla among 2 stock recommendations for Tuesday",
-    "summary": "Cipla and Knowledge Marine feature among analysts' top stock picks for Tuesday, backed by bullish technical breakouts, improving momentum indicators and strong chart structures that signal further upside potential.",
-    "image": "https://img.etimg.com/photo/msid-131914854,imgsize-11021.cms",
-    "source": "ET",
-    "pubDate": "Mon, 22 Jun 2026 21:36:32 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-cipla-among-2-stock-recommendations-for-tuesday/slideshow/131914943.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-uber-backed-lime-seeks-up-to-1-66-billion-valuation-in-us-ipo/articleshow/131914364.cms",
-    "category": "finance",
-    "title": "US stocks: Uber-backed Lime seeks up to $1.66 billion valuation in US IPO",
-    "summary": "Electric bike and scooter operator Lime is aiming for a valuation of up to $1.66 billion in its US IPO, seeking to raise over $180 million. Despite past losses, the company boasts rapid revenue growth and a global presence. Uber, a key investor, plan",
-    "image": "https://img.etimg.com/photo/msid-131914364,imgsize-20148.cms",
-    "source": "ET",
-    "pubDate": "Mon, 22 Jun 2026 21:32:46 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-uber-backed-lime-seeks-up-to-1-66-billion-valuation-in-us-ipo/articleshow/131914364.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/pfc-raises-300-million-through-five-year-dollar-bond/articleshow/131914213.cms",
-    "category": "finance",
-    "title": "PFC raises $300 million through five year dollar bond",
-    "summary": "Power Finance Corp successfully raised $300 million in international bonds, marking India's second such issuance since the RBI's special swap arrangement. The five-year bond was priced at 105 basis points above US treasuries, attracting a substantial",
-    "image": "https://img.etimg.com/photo/msid-131914213,imgsize-10626.cms",
-    "source": "ET",
-    "pubDate": "Mon, 22 Jun 2026 21:19:27 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/pfc-raises-300-million-through-five-year-dollar-bond/articleshow/131914213.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/jsw-infrastructure-launches-rs-7500-crore-qip-to-fund-capex-repay-debt/articleshow/131914023.cms",
-    "category": "finance",
-    "title": "JSW Infrastructure launches Rs 7,500 crore QIP, to fund capex, repay debt",
-    "summary": "JSW Infrastructure has launched a Rs 7,503 crore QIP to fund expansion projects, reduce debt and pursue strategic acquisitions. The institutional share sale, priced at a discount to the market price, is expected to strengthen the company's balance sh",
-    "image": "https://img.etimg.com/photo/msid-131914023,imgsize-32162.cms",
-    "source": "ET",
-    "pubDate": "Mon, 22 Jun 2026 21:04:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/jsw-infrastructure-launches-rs-7500-crore-qip-to-fund-capex-repay-debt/articleshow/131914023.cms"
+    "pubDate": "Mon, 22 Jun 2026 22:00:06 GMT",
+    "link": "https://www.bbc.com/news/articles/c5yzlqv4dyeo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1542407.html",
@@ -258,26 +308,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 22 Jun 2026 18:31:59 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1542407.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx2x9j1en29o#2",
-    "category": "global",
-    "title": "Man charged with terrorism-linked attempted murders after alleged anti-Muslim attacks in Edinburgh",
-    "summary": "Lewis Hawkes appeared at Edinburgh Sheriff Court following alleged anti-Muslim attacks in the city on Friday evening.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 22 Jun 2026 18:28:43 GMT",
-    "link": "https://www.bbc.com/news/articles/cx2x9j1en29o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/cze9rj6d7rgo#1",
-    "category": "global",
-    "title": "Watch: A day of big changes and mixed emotions for Labour",
-    "summary": "Andy Burnham is sworn in as MP for Makerfield hours after Keir Starmer announces his resignation as Labour Party leader.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 22 Jun 2026 18:26:07 GMT",
-    "link": "https://www.bbc.com/news/videos/cze9rj6d7rgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1542341.html",
@@ -320,16 +350,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1542344.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.com/news/articles/c0qyllvpkw8o#1",
-    "category": "global",
-    "title": "Why did Starmer resign and what could happen next?",
-    "summary": "The Labour leader says he will remain prime minister until his successor is chosen.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 22 Jun 2026 16:44:17 GMT",
-    "link": "https://www.bbc.com/news/articles/c0qyllvpkw8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1542346.html",
     "category": "sports",
     "title": "Milnes runs through Middlesex to seal Kent's fourth win in five",
@@ -338,26 +358,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 22 Jun 2026 16:39:55 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1542346.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1542343.html",
-    "category": "sports",
-    "title": "Overton ton, Rew 149 completes Somerset escape",
-    "summary": "Warwickshire batten down hatches rather than attempt fourth-innings chase of 314",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417100/417126.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 22 Jun 2026 16:13:14 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1542343.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cp8pml5z8p6o#1",
-    "category": "global",
-    "title": "Who is Andy Burnham? Ex-Manchester mayor who wants to lead the country",
-    "summary": "The outgoing Greater Manchester mayor is lining up a third attempt to be Labour leader following his return to Westminster.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 22 Jun 2026 13:54:20 GMT",
-    "link": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
