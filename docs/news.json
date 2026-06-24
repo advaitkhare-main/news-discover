@@ -10,6 +10,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-recalls-falling-for-a-pyramid-scheme-warns-retail-investors-against-easy-money-promises/articleshow/131973054.cms"
   },
   {
+    "id": "https://www.cricinfo.com/ci/content/story/1542792.html",
+    "category": "sports",
+    "title": "Wyatt-Hodge, Knight and bowlers power England into semi-final",
+    "summary": "Dean, Ecclestone and Smith reduced West Indies to 69 for 4 in the 187 chase, during which Matthews was controversially given out",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418800/418857.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 24 Jun 2026 21:22:57 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1542792.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/131972069.cms",
     "category": "finance",
     "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
@@ -48,6 +58,16 @@
     "source": "ET",
     "pubDate": "Wed, 24 Jun 2026 20:25:33 +0530",
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-futures-sink-to-three-month-low-as-dollar-rally-batters-bullion/articleshow/131971540.cms"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c30y619glveo#0",
+    "category": "global",
+    "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
+    "summary": "Heat records were broken when temperatures soared across southern England on Wednesday afternoon.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 24 Jun 2026 20:04:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-indigo-among-2-stock-recommendations-for-thursday/slideshow/131971260.cms",
@@ -130,16 +150,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1542758.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cx26p4vpgmko#0",
-    "category": "global",
-    "title": "Michael Barrymore TikTok videos prompt concern over filming on smart glasses",
-    "summary": "A shop worker tells the BBC he unexpectedly appeared in a video Barrymore uploaded on social media.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 24 Jun 2026 16:54:54 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx26p4vpgmko?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/cgepllq9npvo#0",
     "category": "global",
     "title": "'From excitement to emptiness': Families affected by largest NHS maternity scandal tell their stories",
@@ -178,16 +188,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 24 Jun 2026 14:34:14 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1542732.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1542721.html",
-    "category": "sports",
-    "title": "Sooryavanshi to change separately from India team-mates in England",
-    "summary": "The ECB said the decision is in accordance with its safeguarding policies for players under 16",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417600/417698.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 24 Jun 2026 14:25:29 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1542721.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/c4gykxdn6gwo#0",
@@ -260,6 +260,26 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://www.ndtv.com/world-news/israeli-strikes-kill-2-in-lebanon-hezbollah-accuses-it-of-truce-violation-11683510#publisher=newsstand",
+    "category": "india",
+    "title": "Israeli Strikes Kill 2 In Lebanon, Hezbollah Accuses It Of Truce Violation",
+    "summary": "Hezbollah accused Israel of a new ceasefire \"violation\" on Wednesday.",
+    "image": "https://c.ndtvimg.com/2026-06/hj1d55qc_lebanon_625x300_24_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 25 Jun 2026 02:47:46 +0530",
+    "link": "https://www.ndtv.com/world-news/israeli-strikes-kill-2-in-lebanon-hezbollah-accuses-it-of-truce-violation-11683510#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/we-were-let-down-by-allies-on-iran-war-trump-tells-nato-chief-11683468#publisher=newsstand",
+    "category": "india",
+    "title": "\"We Were Let Down\" By Allies On Iran War: Trump Tells NATO Chief",
+    "summary": "US President Donald Trump met NATO chief Mark Rutte on Wednesday.",
+    "image": "https://c.ndtvimg.com/2026-06/v61nj83c_trump-and-mark-rutte_625x300_25_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 25 Jun 2026 02:19:18 +0530",
+    "link": "https://www.ndtv.com/world-news/we-were-let-down-by-allies-on-iran-war-trump-tells-nato-chief-11683468#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/after-lucknow-fire-tragedy-coaching-centres-libraries-sealed-across-districts-11683395#publisher=newsstand",
     "category": "india",
     "title": "After Lucknow Tragedy, Coaching Centres, Libraries Sealed Across Districts",
@@ -328,26 +348,6 @@
     "source": "NDTV",
     "pubDate": "Thu, 25 Jun 2026 00:20:53 +0530",
     "link": "https://www.ndtv.com/world-news/mossad-planned-attack-on-asim-munir-in-switzerland-analyst-claims-11683279#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/indigo-air-indias-flights-come-face-to-face-on-taxiway-11683209#publisher=newsstand",
-    "category": "india",
-    "title": "IndiGo, Air India's Flights Come Face-To-Face On Taxiway",
-    "summary": "Air India admitted that its flight had \"inadvertently taken a wrong turn\".",
-    "image": "https://c.ndtvimg.com/2022-12/24r2luh8_runway-generic-plane-generic-airport-generic-unsplash_625x300_01_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 25 Jun 2026 00:20:05 +0530",
-    "link": "https://www.ndtv.com/india-news/indigo-air-indias-flights-come-face-to-face-on-taxiway-11683209#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/netherlands-confirms-first-case-of-euthanasia-involving-child-under-12-since-law-change-11683263#publisher=newsstand",
-    "category": "india",
-    "title": "Netherlands Confirms First Case Of Euthanasia Involving Child Under 12 Since Law Change",
-    "summary": "Representative image.",
-    "image": "https://c.ndtvimg.com/2026-06/gsb0m7ms_netherlands-confirms-first-euthanasia-of-child-_625x300_24_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 25 Jun 2026 00:11:45 +0530",
-    "link": "https://www.ndtv.com/world-news/netherlands-confirms-first-case-of-euthanasia-involving-child-under-12-since-law-change-11683263#publisher=newsstand"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
