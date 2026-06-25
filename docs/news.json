@@ -10,36 +10,6 @@
     "link": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1542793.html",
-    "category": "sports",
-    "title": "Tom Banton puts first-class career on hold with Somerset",
-    "summary": "Keeper-batter signs white ball deal at Taunton to manage cross-format workloads",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/398800/398853.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 24 Jun 2026 23:15:46 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1542793.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8j2m2zrrxko#0",
-    "category": "global",
-    "title": "Obesity cases rising fastest in young adults",
-    "summary": "Experts say the cost of living, pandemic and boom in unhealthy food are behind the rise in cases.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 24 Jun 2026 23:11:14 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8j2m2zrrxko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1542792.html",
-    "category": "sports",
-    "title": "Wyatt-Hodge, Knight and bowlers power England into semi-final",
-    "summary": "Dean, Ecclestone and Smith reduced West Indies to 69 for 4 in the 187 chase, during which Matthews was controversially given out",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418800/418857.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 24 Jun 2026 21:22:57 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1542792.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -70,6 +40,146 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://www.ndtv.com/world-news/venezuela-earthquakes-caracas-164-dead-971-injured-after-powerful-earthquakes-hit-venezuela-11685819#publisher=newsstand",
+    "category": "india",
+    "title": "1164 Dead, 971 Injured After Powerful Earthquakes Hit Venezuela",
+    "summary": "Rodriguez declared a state of emergency in an address to the nation late Wednesday.",
+    "image": "https://c.ndtvimg.com/2026-06/e5b44lo_venezuela-earthquake_625x300_25_June_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Thu, 25 Jun 2026 15:54:29 +0530",
+    "link": "https://www.ndtv.com/world-news/venezuela-earthquakes-caracas-164-dead-971-injured-after-powerful-earthquakes-hit-venezuela-11685819#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/venezuela-earthquakes-live-updates-7-5-magnitude-earthquake-hit-usgs-caracas-airport-shut-emergency-declared-after-quake-in-moron-delcy-rodriguez-11683955#publisher=newsstand",
+    "category": "india",
+    "title": "Venezuela Earthquakes Live: At Least 164 Dead, 971 Injured, Says Acting President",
+    "summary": "Venezuela Earthquake Live: The first earthquake had a magnitude of 7.2",
+    "image": "https://c.ndtvimg.com/2026-06/8o66u784_venezuela-earthquakes_625x300_25_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 25 Jun 2026 15:52:40 +0530",
+    "link": "https://www.ndtv.com/world-news/venezuela-earthquakes-live-updates-7-5-magnitude-earthquake-hit-usgs-caracas-airport-shut-emergency-declared-after-quake-in-moron-delcy-rodriguez-11683955#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/youd-get-a-million-votes-in-delhi-giorgia-meloni-recalls-2023-india-visit-11685821#publisher=newsstand",
+    "category": "india",
+    "title": "'You'd Get A Million Votes In Delhi': Giorgia Meloni Recalls 2023 India Visit",
+    "summary": "Giorgia Meloni shared an anecdote from her 2023 India visit  in her new book.",
+    "image": "https://c.ndtvimg.com/2026-04/a38pl6lc_giorgia-meloni_625x300_25_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 25 Jun 2026 15:52:33 +0530",
+    "link": "https://www.ndtv.com/india-news/youd-get-a-million-votes-in-delhi-giorgia-meloni-recalls-2023-india-visit-11685821#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/supreme-court-says-cutoff-for-government-doctors-for-super-speciality-seats-should-be-lower-11685805#publisher=newsstand",
+    "category": "india",
+    "title": "Cut-Off For Government Doctors Seeking Super-Speciality Seats Should Be Lower: Supreme Court",
+    "summary": "The court questioned why the qualifying percentile had not been reduced for admissions this year.",
+    "image": "https://i.ndtvimg.com/i/2017-06/doctor-generic_650x400_41498064878.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 25 Jun 2026 15:51:18 +0530",
+    "link": "https://www.ndtv.com/education/supreme-court-says-cutoff-for-government-doctors-for-super-speciality-seats-should-be-lower-11685805#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-a-tad-higher-as-oil-slide-foreign-inflows-lift-sentiment/articleshow/131990613.cms",
+    "category": "finance",
+    "title": "Rupee ends a tad higher as oil slide, foreign inflows lift sentiment",
+    "summary": "The Indian rupee experienced a slight boost this week, driven by declining oil prices and the prospect of increased foreign investment. Although initial gains were curtailed due to importer demand, the currency received support as short-seller positi",
+    "image": "https://img.etimg.com/photo/msid-131990613,imgsize-242146.cms",
+    "source": "ET",
+    "pubDate": "Thu, 25 Jun 2026 15:49:47 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-a-tad-higher-as-oil-slide-foreign-inflows-lift-sentiment/articleshow/131990613.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/housing-sales-rise-19-in-apr-jun-across-9-cities-despite-global-uncertainties/articleshow/131990581.cms",
+    "category": "finance",
+    "title": "Housing sales rise 19% in Apr-Jun across 9 cities despite global uncertainties",
+    "summary": "Despite facing global economic challenges, Indian housing sales posted a staggering 19% increase, exceeding 1.12 lakh units from April to June. PropEquity data highlights significant demand in key urban centers including Bengaluru, Mumbai, and Navi M",
+    "image": "https://img.etimg.com/photo/msid-131990581,imgsize-152482.cms",
+    "source": "ET",
+    "pubDate": "Thu, 25 Jun 2026 15:47:50 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/housing-sales-rise-19-in-apr-jun-across-9-cities-despite-global-uncertainties/articleshow/131990581.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/businessman-found-dead-at-actor-krishi-thapandas-bengaluru-home-11685764#publisher=newsstand",
+    "category": "india",
+    "title": "Businessman Found Dead At Actor Krishi Thapanda's Bengaluru Home",
+    "summary": "According to the police, the incident occurred around 8:30 pm last night, while Krishi Thapanda was away in Yelahanka.",
+    "image": "https://c.ndtvimg.com/2026-06/1bj52v5c_rithu_625x300_25_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 25 Jun 2026 15:45:46 +0530",
+    "link": "https://www.ndtv.com/india-news/businessman-found-dead-at-actor-krishi-thapandas-bengaluru-home-11685764#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-closes-109-points-higher-nifty-above-24050-indigo-mm-among-top-gainers/articleshow/131990478.cms",
+    "category": "finance",
+    "title": "Sensex closes 109 points higher, Nifty above 24,050; IndiGo, M&amp;M among top gainers",
+    "summary": "Indian stock markets closed with modest gains on Sensex monthly expiry day, as both indices erased significant intraday advances.  Sensex added 109 points to 77,100.47, and Nifty 50 climbed 34 points to 24,056.  Strong performances from IndiGo, M&amp",
+    "image": "https://img.etimg.com/photo/msid-131990478,imgsize-58432.cms",
+    "source": "ET",
+    "pubDate": "Thu, 25 Jun 2026 15:42:31 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-closes-109-points-higher-nifty-above-24050-indigo-mm-among-top-gainers/articleshow/131990478.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/business-news/cryptocurrency-bitcoin-falls-to-20-month-low-warning-bell-or-buying-opportunity-11685675#publisher=newsstand",
+    "category": "india",
+    "title": "Bitcoin Falls To 20-Month Low. Warning Bell Or Buying Opportunity?",
+    "summary": "Bitcoin's latest downturn has coincided with weakness in technology stocks globally.",
+    "image": "https://c.ndtvimg.com/2026-06/meg28ec_bitcoin_625x300_24_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 25 Jun 2026 15:41:51 +0530",
+    "link": "https://www.ndtv.com/business-news/cryptocurrency-bitcoin-falls-to-20-month-low-warning-bell-or-buying-opportunity-11685675#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-25-june-us-iran-war-oil-prices-11683975#publisher=newsstand",
+    "category": "india",
+    "title": "Stock Market Highlights, Sensex Today: Markets See Muted Close As Oil Slips To Pre-Iran War Levels",
+    "summary": "Sensex Today, Stock Market, Nifty, Share Market Highlights",
+    "image": "https://c.ndtvimg.com/2026-06/jnj4ae48_share-market-_625x300_17_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 25 Jun 2026 15:32:54 +0530",
+    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-25-june-us-iran-war-oil-prices-11683975#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/40-army-personnel-face-fir-for-storming-jammu-and-kashmir-police-station-assaulting-cops-11685206#publisher=newsstand",
+    "category": "india",
+    "title": "40 Soldiers Face FIR For Storming J&K Police Station After Vehicle Seizure",
+    "summary": "The suspects face charges of attempted murder and destroying public property.",
+    "image": "https://c.ndtvimg.com/2026-06/ulbar7cc_jk-police-station_625x300_25_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 25 Jun 2026 15:28:23 +0530",
+    "link": "https://www.ndtv.com/india-news/40-army-personnel-face-fir-for-storming-jammu-and-kashmir-police-station-assaulting-cops-11685206#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/nifty-headed-to-24500-next-week-says-dharmesh-shah-these-2-stocks-are-top-buys-right-now/articleshow/131989026.cms",
+    "category": "finance",
+    "title": "Nifty headed to 24,500 next week, says Dharmesh Shah; these 2 stocks are top buys right now",
+    "summary": "Indian equity markets are poised for further gains, with Nifty eyeing 24,500, according to ICICI Direct's Dharmesh Shah.  He highlights falling crude oil prices and rupee stability as key drivers. Bank Nifty has also shown strength, targeting 59,300.",
+    "image": "https://img.etimg.com/photo/msid-131989026,imgsize-25388.cms",
+    "source": "ET",
+    "pubDate": "Thu, 25 Jun 2026 14:43:12 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/nifty-headed-to-24500-next-week-says-dharmesh-shah-these-2-stocks-are-top-buys-right-now/articleshow/131989026.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-hindalco-nalco-shares-to-crash-up-to-40-why-incred-is-screaming-sell-on-all-aluminium-stocks/articleshow/131988778.cms",
+    "category": "finance",
+    "title": "Can Vedanta Aluminium, NALCO shares crash up to 40%? Why InCred sees major downside",
+    "summary": "InCred Equities has turned bearish on the aluminium sector, advising investors to exit aluminium stocks as it sees a potential 30\u201340% downside. The brokerage argues that the market is incorrectly valuing aluminium as a supply-constrained primary meta",
+    "image": "https://img.etimg.com/photo/msid-131988778,imgsize-810081.cms",
+    "source": "ET",
+    "pubDate": "Thu, 25 Jun 2026 14:30:04 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-hindalco-nalco-shares-to-crash-up-to-40-why-incred-is-screaming-sell-on-all-aluminium-stocks/articleshow/131988778.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/indias-cdmo-industry-set-for-global-shift-as-pharma-diversifies-beyond-china-sai-life-sciences/articleshow/131988227.cms",
+    "category": "finance",
+    "title": "India's CDMO industry set for global shift as pharma diversifies beyond China: Sai Life Sciences",
+    "summary": "Indian contract manufacturers are poised for significant growth as global pharmaceutical giants diversify away from China.  Companies like Sai Life Sciences are investing heavily in capacity, anticipating a surge in demand.  While regulatory processe",
+    "image": "https://img.etimg.com/photo/msid-131988227,imgsize-6415.cms",
+    "source": "ET",
+    "pubDate": "Thu, 25 Jun 2026 14:09:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/indias-cdmo-industry-set-for-global-shift-as-pharma-diversifies-beyond-china-sai-life-sciences/articleshow/131988227.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ey-kpmg-deloitte-among-top-10-auditors-by-number-of-companies-audited-in-fy26/articleshow/131988224.cms",
     "category": "finance",
     "title": "EY, KPMG, Deloitte among top 10 auditors by number of companies audited in FY26",
@@ -78,76 +188,6 @@
     "source": "ET",
     "pubDate": "Thu, 25 Jun 2026 13:59:42 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ey-kpmg-deloitte-among-top-10-auditors-by-number-of-companies-audited-in-fy26/articleshow/131988224.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/business-news/formal-jobs-organised-employment-growth-centre-scheme-epfo-labour-code-11674493#publisher=newsstand",
-    "category": "india",
-    "title": "Centre's Rs 99,446-Crore Plan Fuels Job Boom: 1.4 Crore Join Formal Economy",
-    "summary": "Monthly net payroll additions have consistently ranged between 19 lakh and 22 lakh in recent months.",
-    "image": "https://c.ndtvimg.com/2025-11/ingir2ns_jobs_625x300_06_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 25 Jun 2026 13:57:36 +0530",
-    "link": "https://www.ndtv.com/business-news/formal-jobs-organised-employment-growth-centre-scheme-epfo-labour-code-11674493#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/mad-as-a-murder-hornet-trump-squabbles-with-disaffected-senate-11685016#publisher=newsstand",
-    "category": "india",
-    "title": "'Mad As A Murder Hornet' Trump Squabbles With Disaffected Senate",
-    "summary": "Donald Trump and US Senate Republicans speak to media at the US Capitol.",
-    "image": "https://c.ndtvimg.com/2026-06/v3lbj13g_rick-scott-donald-trump-john-barrasso-and-john-thune_625x300_25_June_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 25 Jun 2026 13:52:02 +0530",
-    "link": "https://www.ndtv.com/world-news/mad-as-a-murder-hornet-trump-squabbles-with-disaffected-senate-11685016#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-soldiers-say-injuries-from-iran-war-were-more-serious-than-army-reported-11684566#publisher=newsstand",
-    "category": "india",
-    "title": "US Soldiers Say Injuries From Iran War Were More Serious Than Army Reported",
-    "summary": "Army officials said families may be misunderstanding military terms such as \"not seriously injured\" .",
-    "image": "https://i.ndtvimg.com/i/2017-09/us-army-reuters_650x400_81504721306.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 25 Jun 2026 13:51:13 +0530",
-    "link": "https://www.ndtv.com/world-news/us-soldiers-say-injuries-from-iran-war-were-more-serious-than-army-reported-11684566#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/venezuela-earthquakes-explained-what-makes-venezuela-prone-to-devastating-earthquakes-11685227#publisher=newsstand",
-    "category": "india",
-    "title": "Explained: What Makes Venezuela Prone To Devastating Earthquakes",
-    "summary": "Emergency services work at the site of a collapsed building after an earthquake, in Caracas, Venezuela.",
-    "image": "https://c.ndtvimg.com/2026-06/gofjn2sk_venezuela-earthquake_625x300_25_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 25 Jun 2026 13:49:07 +0530",
-    "link": "https://www.ndtv.com/world-news/venezuela-earthquakes-explained-what-makes-venezuela-prone-to-devastating-earthquakes-11685227#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/40-army-personnel-face-fir-for-storming-jammu-and-kashmir-police-station-assaulting-cops-11685206#publisher=newsstand",
-    "category": "india",
-    "title": "40 Army Personnel Face FIR For Storming J&K Police Station, Assaulting Cops",
-    "summary": "The suspects face charges of attempted murder and destroying public property.",
-    "image": "https://c.ndtvimg.com/2026-06/ulbar7cc_jk-police-station_625x300_25_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 25 Jun 2026 13:44:12 +0530",
-    "link": "https://www.ndtv.com/india-news/40-army-personnel-face-fir-for-storming-jammu-and-kashmir-police-station-assaulting-cops-11685206#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/indian-passport-proof-of-citizenship-row-what-government-said-11685097#publisher=newsstand",
-    "category": "india",
-    "title": "Explained: The Passport-Citizenship Row And What The Government Said",
-    "summary": "The passport is not proof of citizenship, government sources stressed to NDTV this week after a furious debate online on that topic. The debate was sparked by a foreign ministry official's remark that a passport is only a travel document.",
-    "image": "https://c.ndtvimg.com/2026-06/0arc70d8_passport_625x300_25_June_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 25 Jun 2026 13:40:36 +0530",
-    "link": "https://www.ndtv.com/india-news/indian-passport-proof-of-citizenship-row-what-government-said-11685097#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/venezuela-earthquakes-live-updates-7-5-magnitude-earthquake-hit-usgs-caracas-airport-shut-emergency-declared-after-quake-in-moron-delcy-rodriguez-11683955#publisher=newsstand",
-    "category": "india",
-    "title": "Venezuela Earthquakes Live: Venezuela's 7.5 Earthquake Is Most Powerful To Hit Country In Over A Century",
-    "summary": "Venezuela Earthquake Live: The first earthquake had a magnitude of 7.2",
-    "image": "https://c.ndtvimg.com/2026-06/8o66u784_venezuela-earthquakes_625x300_25_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 25 Jun 2026 13:40:32 +0530",
-    "link": "https://www.ndtv.com/world-news/venezuela-earthquakes-live-updates-7-5-magnitude-earthquake-hit-usgs-caracas-airport-shut-emergency-declared-after-quake-in-moron-delcy-rodriguez-11683955#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/expert-view/india-at-start-of-a-major-recovery-foreign-investors-just-beginning-to-return-says-blackrocks-ben-powell/articleshow/131987444.cms",
@@ -160,74 +200,14 @@
     "link": "https://economictimes.indiatimes.com/markets/expert-view/india-at-start-of-a-major-recovery-foreign-investors-just-beginning-to-return-says-blackrocks-ben-powell/articleshow/131987444.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/donald-trump-opens-us-250th-birthday-party-nobodys-laughing-at-us-anymore-11685153#publisher=newsstand",
-    "category": "india",
-    "title": "\"Nobody's Laughing At Us Anymore\": Trump Opens US 250th Birthday Party",
-    "summary": "Donald Trump hosted a rally on Washington's National Mall",
-    "image": "https://c.ndtvimg.com/2026-06/74p5hklc_donald-trump-_625x300_25_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 25 Jun 2026 13:34:53 +0530",
-    "link": "https://www.ndtv.com/world-news/donald-trump-opens-us-250th-birthday-party-nobodys-laughing-at-us-anymore-11685153#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/13-bse-500-stocks-surged-up-to-200-in-just-3-months-3-turned-multibaggers/slideshow/131987850.cms",
-    "category": "finance",
-    "title": "13 BSE 500 stocks surged up to 200% in just 3 months; 3 turned multibaggers",
-    "summary": "Despite volatile markets, several stocks delivered exceptional returns, with 13 companies gaining 70\u2013200% in three months. HFCL led the rally, while broader market strength created significant wealth-creation opportunities for investors.",
-    "image": "https://img.etimg.com/photo/msid-131987561,imgsize-5004.cms",
-    "source": "ET",
-    "pubDate": "Thu, 25 Jun 2026 13:31:10 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/13-bse-500-stocks-surged-up-to-200-in-just-3-months-3-turned-multibaggers/slideshow/131987850.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kela-backed-fund-buys-stake-in-ipo-bound-steamhouse-india-for-rs-40-crore/articleshow/131987298.cms",
-    "category": "finance",
-    "title": "Madhusudan Kela-backed fund buys stake in IPO-bound Steamhouse India for Rs 40 crore",
-    "summary": "Ace investor Madhusudan Kela's funds, along with Niveshaay Sambhav Fund, have injected Rs 49.99 crore into Steamhouse India via a pre-IPO placement. This strategic investment positions these entities to hold nearly 3% of the company's pre-IPO equity.",
-    "image": "https://img.etimg.com/photo/msid-131987298,imgsize-18500.cms",
-    "source": "ET",
-    "pubDate": "Thu, 25 Jun 2026 13:18:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kela-backed-fund-buys-stake-in-ipo-bound-steamhouse-india-for-rs-40-crore/articleshow/131987298.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-institutional-real-estate-investments-jump-23-to-4-3-billion-in-h1-2026-domestic-capital-hits-record-64-share-jll/articleshow/131987140.cms",
-    "category": "finance",
-    "title": "India's institutional real estate investments jump 23% to $4.3 billion in H1 2026; domestic capital hits record 64% shar",
-    "summary": "India's real estate market saw a robust 23% investment surge in early 2026, reaching USD 4.3 billion. A significant shift saw domestic investors dominate, contributing 64% of capital, a record high. This growth, fueled by PE and REITs, signals market",
-    "image": "https://img.etimg.com/photo/msid-131987140,imgsize-19914.cms",
-    "source": "ET",
-    "pubDate": "Thu, 25 Jun 2026 13:11:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-institutional-real-estate-investments-jump-23-to-4-3-billion-in-h1-2026-domestic-capital-hits-record-64-share-jll/articleshow/131987140.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-gain-as-upbeat-micron-forecast-revives-ai-rally/articleshow/131986962.cms",
-    "category": "finance",
-    "title": "European shares gain as upbeat Micron forecast revives AI rally",
-    "summary": "European markets opened on a positive note, driven by a surge in technology stocks. Strong forecasts from US chipmakers Micron and Qualcomm eased worries about inflated valuations, reigniting the AI rally.  European tech shares saw significant gains,",
-    "image": "https://img.etimg.com/photo/msid-131986962,imgsize-40988.cms",
-    "source": "ET",
-    "pubDate": "Thu, 25 Jun 2026 12:58:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-gain-as-upbeat-micron-forecast-revives-ai-rally/articleshow/131986962.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/nikkei-marks-record-closing-high-as-ai-shares-rally-on-micron-forecast/articleshow/131986893.cms",
-    "category": "finance",
-    "title": "Nikkei marks record closing high as AI shares rally on Micron forecast",
-    "summary": "Tokyo's Nikkei index soared to a record high, surging over 4% on Thursday. This significant jump was fueled by a powerful rally in AI-related stocks, particularly chipmakers, following an optimistic earnings forecast from U.S. firm Micron. Investors ",
-    "image": "https://img.etimg.com/photo/msid-131986893,imgsize-263388.cms",
-    "source": "ET",
-    "pubDate": "Thu, 25 Jun 2026 12:55:50 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nikkei-marks-record-closing-high-as-ai-shares-rally-on-micron-forecast/articleshow/131986893.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-slides-toward-61000-as-profit-booking-and-cautious-sentiment-weigh-on-crypto-markets/articleshow/131986598.cms",
-    "category": "finance",
-    "title": "Bitcoin slides toward $61,000 as profit booking and cautious sentiment weigh on crypto markets",
-    "summary": "Bitcoin slipped towards the $61,000 level as profit booking and cautious sentiment weighed on crypto markets. Broader weakness across major tokens reflected risk aversion, although analysts noted continued institutional participation and long-term ad",
-    "image": "https://img.etimg.com/photo/msid-131986598,imgsize-33844.cms",
-    "source": "ET",
-    "pubDate": "Thu, 25 Jun 2026 12:51:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-slides-toward-61000-as-profit-booking-and-cautious-sentiment-weigh-on-crypto-markets/articleshow/131986598.cms"
+    "id": "https://www.bbc.co.uk/news/articles/ce95r7gvm5go#0",
+    "category": "global",
+    "title": "Bodies found in state of 'advanced deterioration' at under-fire trust",
+    "summary": "An inspection of Nottingham University Hospitals (NUH) NHS Trust mortuaries found 10 shortfalls, the Human Tissue Authority said.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 25 Jun 2026 11:30:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ce95r7gvm5go?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1542822.html",
@@ -236,18 +216,68 @@
     "summary": "Kadeer Ali has joined Gulf Giants as the fielding coach and Gary Brent has taken over as the strength and conditioning coach",
     "image": "http://p.imgci.com/db/PICTURES/CMS/391600/391698.jpg",
     "source": "Cricinfo",
-    "pubDate": "Thu, 25 Jun 2026 08:15:40 GMT",
+    "pubDate": "Thu, 25 Jun 2026 11:03:27 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1542822.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/ce95r7gvm5go#0",
+    "id": "https://www.cricinfo.com/ci/content/story/1542830.html",
+    "category": "sports",
+    "title": "Switch Hit: Curfew kerfuffle",
+    "summary": "Ben Stokes is back and England have a series to win. But is it all that straightforward? Alan Gardner is joined by Andrew Miller and Vish Ehantharajah to try and make sense of the last week",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418800/418811.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 25 Jun 2026 10:48:43 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1542830.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/clyrk2eg1wro#0",
     "category": "global",
-    "title": "Bodies found in 'advanced deterioration' at under-fire trust",
-    "summary": "An inspection of NUH mortuaries found 10 shortfalls, the Human Tissue Authority said.",
+    "title": "Education secretary says she'll turn Tory leader's insult into a T-shirt",
+    "summary": "Conservative leader Kemi Badenoch's called Bridget Phillipson a 'spiteful class warrior' at PMQs.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 25 Jun 2026 07:16:44 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ce95r7gvm5go?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 25 Jun 2026 10:46:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/clyrk2eg1wro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c98263dz0mqo#0",
+    "category": "global",
+    "title": "Trump describes Burnham as the 'mayor of a town' and 'extremely liberal'",
+    "summary": "The US president gives his first public reaction to the man widely expected to be next UK prime minister.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 25 Jun 2026 10:09:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c98263dz0mqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1542825.html",
+    "category": "sports",
+    "title": "New Zealand rocked by injuries to Henry and Phillips",
+    "summary": "Key players felt niggles during Oval victory and have been rested after further assessment",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418700/418724.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 25 Jun 2026 09:56:28 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1542825.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/formula1/articles/crelx8d3ye1o#0",
+    "category": "global",
+    "title": "Austrian GP declared heat-hazard race amid heatwave",
+    "summary": "This weekend's Austrian Grand Prix is declared a heat-hazard race by Formula 1's governing body the FIA.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 25 Jun 2026 09:23:20 GMT",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/crelx8d3ye1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cpwev2x4jw9o#0",
+    "category": "global",
+    "title": "Jail time and unlimited fines planned under conversion practices ban",
+    "summary": "The government says a new Bill will protect LGBT people from \"abusive acts\" to change who they are.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 25 Jun 2026 08:33:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cpwev2x4jw9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1542777.html",
@@ -270,16 +300,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1542814.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo#0",
-    "category": "global",
-    "title": "Reeves backs Burnham to become next prime minister",
-    "summary": "The chancellor throws her support behind the MP for Makerfield despite reports he could demote her if he becomes PM.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 25 Jun 2026 05:00:07 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1542808.html",
     "category": "sports",
     "title": "Ryan Cook steps down as Netherlands men's head coach",
@@ -300,16 +320,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c70y8128w1wo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/videos/cly81w5g1qwo#0",
-    "category": "global",
-    "title": "Trump describes Burnham as 'the mayor of a town' and 'extremely liberal'",
-    "summary": "Donald Trump gives his first public reaction to the prospect of Andy Burnham becoming prime minister.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 25 Jun 2026 04:30:07 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cly81w5g1qwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1542796.html",
     "category": "sports",
     "title": "Voll enjoys licence to thrill in seamless opening transition",
@@ -328,16 +338,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 25 Jun 2026 01:10:21 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1542794.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo#0",
-    "category": "global",
-    "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
-    "summary": "But the budget faces an uphill battle, coming a day after lawmakers rebuked Trump's military action.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 25 Jun 2026 00:51:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cze9w9xnprno#0",
