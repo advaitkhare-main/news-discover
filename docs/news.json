@@ -30,26 +30,6 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cj4gyz21wyko#0",
-    "category": "global",
-    "title": "Missing Glastonbury? There's a festival on your doorstep this weekend",
-    "summary": "Stars like Fatboy Slim and Becky Hill will play small local venues to celebrate the UK music scene.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 25 Jun 2026 23:50:10 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj4gyz21wyko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/clyxg76527po#0",
-    "category": "global",
-    "title": "Watch: Driver gives lift to armed officer chasing suspect",
-    "summary": "The chase was caught on camera as the motorist pulled over to help in Margate.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 25 Jun 2026 21:09:16 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/clyxg76527po?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
     "category": "scitech",
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -80,6 +60,116 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/silver-consumer-electricals-concludes-rs-150-cr-pre-ipo-secondary-share-sale/articleshow/132019877.cms",
+    "category": "finance",
+    "title": "Silver Consumer Electricals concludes Rs 150 cr pre-IPO secondary share sale",
+    "summary": "Silver Consumer Electricals, renowned for its pumps and motors, has successfully raised Rs 150 crore through a pre-IPO secondary share sale. A 2.59% stake was sold by a promoter group member to investor Riyaz Suterwala, paving the way for its upcomin",
+    "image": "https://img.etimg.com/photo/msid-132019877,imgsize-210463.cms",
+    "source": "ET",
+    "pubDate": "Fri, 26 Jun 2026 21:19:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/silver-consumer-electricals-concludes-rs-150-cr-pre-ipo-secondary-share-sale/articleshow/132019877.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/fidelity-investments-buys-2-pc-stake-in-lodha-developers-for-rs-1864-crore/articleshow/132019863.cms",
+    "category": "finance",
+    "title": "Fidelity Investments buys 2 pc stake in Lodha Developers for Rs 1,864 crore",
+    "summary": "Fidelity Investments has strategically acquired a 2% stake in Lodha Developers, amounting to Rs 1,864 crore, through open market operations. The acquisition involves nearly 2 crore shares purchased from promoter entities Hightown Constructions and Ho",
+    "image": "https://img.etimg.com/photo/msid-132019863,imgsize-149034.cms",
+    "source": "ET",
+    "pubDate": "Fri, 26 Jun 2026 21:17:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/fidelity-investments-buys-2-pc-stake-in-lodha-developers-for-rs-1864-crore/articleshow/132019863.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/ketan-agarwal-pune-fort-murder-siya-goyal-lover-wiped-chats-deleted-folder-to-destroy-evidence-cops-11692188#publisher=newsstand",
+    "category": "india",
+    "title": "Siya Goyal, Lover Wiped Chats, Deleted Folder To Destroy Evidence: Cops",
+    "summary": "The mobile instruments have been sent to a forensic laboratory.",
+    "image": "https://c.ndtvimg.com/2026-06/kh6eeals_ketan-agarwal-siya-goval_625x300_25_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 26 Jun 2026 20:49:31 +0530",
+    "link": "https://www.ndtv.com/india-news/ketan-agarwal-pune-fort-murder-siya-goyal-lover-wiped-chats-deleted-folder-to-destroy-evidence-cops-11692188#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/sarathkumar-viral-video-tamil-nadu-ministers-video-prompts-drugs-charge-he-says-medicine-11692196#publisher=newsstand",
+    "category": "india",
+    "title": "Tamil Nadu Minister's Video Prompts \"Drugs\" Charge, He Says \"Medicine\"",
+    "summary": "The video has resurfaced and gone viral.",
+    "image": "https://c.ndtvimg.com/2026-06/7hrpc4hk_sarathkumar_625x300_26_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 26 Jun 2026 20:36:59 +0530",
+    "link": "https://www.ndtv.com/india-news/sarathkumar-viral-video-tamil-nadu-ministers-video-prompts-drugs-charge-he-says-medicine-11692196#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/us-markets/volkswagen-to-layoff-100-000-employees-close-four-plants-in-major-restructuring-move-11692154#publisher=newsstand",
+    "category": "india",
+    "title": "Volkswagen To Layoff 100,000 Employees, About 15% Of Its Workforce",
+    "summary": "Once China's top automaker for years, \u2060Volkswagen fell to the third spot in 2025.",
+    "image": "https://i.ndtvimg.com/i/2015-09/volkswagen_625x300_51442904305.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 26 Jun 2026 20:33:48 +0530",
+    "link": "https://www.ndtv.com/us-markets/volkswagen-to-layoff-100-000-employees-close-four-plants-in-major-restructuring-move-11692154#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/ujjain-man-stabs-ujjain-student-14-times-in-47-seconds-for-rejecting-his-advances-11692179#publisher=newsstand",
+    "category": "india",
+    "title": "Man Stabs Ujjain Student 14 Times In 47 Seconds For Rejecting His Advances",
+    "summary": "The accused tried to flee from the police and fractured his leg.",
+    "image": "https://c.ndtvimg.com/2026-06/eijk3h0s_ujjain_625x300_26_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 26 Jun 2026 20:33:26 +0530",
+    "link": "https://www.ndtv.com/india-news/ujjain-man-stabs-ujjain-student-14-times-in-47-seconds-for-rejecting-his-advances-11692179#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/after-gaokao-how-chinese-students-are-using-ai-to-choose-right-universities-11692166#publisher=newsstand",
+    "category": "india",
+    "title": "After Gaokao Results 2026, How Chinese Students Are Using AI To Choose Right Universities",
+    "summary": "The Gaokao was conducted from June 7 to 8, with around 13 million candidates appearing for the test.",
+    "image": "https://c.ndtvimg.com/2026-06/7243p5p4_gaokao_625x300_08_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 26 Jun 2026 20:32:47 +0530",
+    "link": "https://www.ndtv.com/education/after-gaokao-how-chinese-students-are-using-ai-to-choose-right-universities-11692166#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/woman-confronts-zerodha-co-founder-nikhil-kamath-over-unanswered-email-his-response-goes-viral-11691896#publisher=newsstand",
+    "category": "india",
+    "title": "Woman Confronts Zerodha Co-Founder Nikhil Kamath Over Unanswered Email, His Response Goes Viral",
+    "summary": "She said the main point was that she never got a response from him.",
+    "image": "https://c.ndtvimg.com/2026-06/p8sc6b78_viral-video-nikhil-kamath_625x300_26_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 26 Jun 2026 20:21:43 +0530",
+    "link": "https://www.ndtv.com/offbeat/woman-confronts-zerodha-co-founder-nikhil-kamath-over-unanswered-email-his-response-goes-viral-11691896#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/why-south-africans-are-protesting-against-immigrants-11691939#publisher=newsstand",
+    "category": "india",
+    "title": "Why South Africans Are Protesting Against Immigrants",
+    "summary": "Protesters have told all undocumented foreigners to leave South Africa by Tuesday.",
+    "image": "https://c.ndtvimg.com/2026-06/ie1023ug_south-africa_625x300_26_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 26 Jun 2026 19:40:37 +0530",
+    "link": "https://www.ndtv.com/world-news/why-south-africans-are-protesting-against-immigrants-11691939#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/incoming-missile-alert-sounded-in-dubai-report-11691725#publisher=newsstand",
+    "category": "india",
+    "title": "Incoming Missile Alert Sounded In Dubai, Then A \"Disregard Warning\" Message",
+    "summary": "A day earlier, Iran launched a drone attack targeting a Singapore-flagged cargo ship",
+    "image": "https://c.ndtvimg.com/2024-05/jkbc1s2g_dubai-generic-reuters_625x300_01_May_24.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 26 Jun 2026 19:40:20 +0530",
+    "link": "https://www.ndtv.com/world-news/incoming-missile-alert-sounded-in-dubai-report-11691725#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-lower-as-chip-stocks-resume-slide/articleshow/132017428.cms",
+    "category": "finance",
+    "title": "US stocks Today | US stocks open lower as chip stocks resume slide",
+    "summary": "Indian markets witnessed a dip on Friday, with technology stocks, particularly chipmakers, facing renewed selling pressure. Investors are now scrutinizing the elevated valuations of these companies and the substantial investments being poured into Ar",
+    "image": "https://img.etimg.com/photo/msid-132017428,imgsize-122930.cms",
+    "source": "ET",
+    "pubDate": "Fri, 26 Jun 2026 19:06:04 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-lower-as-chip-stocks-resume-slide/articleshow/132017428.cms"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-david-swensen-if-youre-investing-with-a-long-time-horizon-having-an-equity-bias-makes-sense-stocks-go-up-in-the-long-run/articleshow/132007031.cms",
     "category": "finance",
     "title": "Quote of the day by David Swensen: \"If you\u2019re investing with a long time horizon, having an equity bias makes sense; sto",
@@ -90,94 +180,14 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-david-swensen-if-youre-investing-with-a-long-time-horizon-having-an-equity-bias-makes-sense-stocks-go-up-in-the-long-run/articleshow/132007031.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/iran-rained-drones-on-major-us-base-in-bahrain-it-made-america-rethink-its-war-strategy-11691325#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Rained Drones On Major US Base. It Made America Rethink Its War Strategy",
-    "summary": "The US military said no one was killed at the base as it had moved most of the soldiers.",
-    "image": "https://c.ndtvimg.com/2026-03/bv1kvp4_bahrain_625x300_02_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 26 Jun 2026 17:54:10 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-rained-drones-on-major-us-base-in-bahrain-it-made-america-rethink-its-war-strategy-11691325#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-talks-hormuz-deal-brent-crude-oil-fed-warsh-micron-apple-spacex-intel-chip-stock-price-news-26th-june-2026/liveblog/132016225.cms",
     "category": "finance",
-    "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures slip as chip stocks retreat after Micron-led rally",
+    "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks rebound as investors shake off concerns over AI spending",
     "summary": "",
-    "image": "https://img.etimg.com/photo/msid-132016225,imgsize-1918471.cms",
+    "image": "https://img.etimg.com/photo/msid-132016225,imgsize-2068032.cms",
     "source": "ET",
     "pubDate": "Fri, 26 Jun 2026 17:52:34 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-talks-hormuz-deal-brent-crude-oil-fed-warsh-micron-apple-spacex-intel-chip-stock-price-news-26th-june-2026/liveblog/132016225.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/japan-pm-sanae-takaichi-to-visit-india-from-july-1-to-3-for-annual-summit-11691365#publisher=newsstand",
-    "category": "india",
-    "title": "Japan PM Sanae Takaichi To Visit India From July 1 to 3 For Annual Summit",
-    "summary": "It would be the first official visit of PM Takaichi to India.",
-    "image": "https://c.ndtvimg.com/2026-05/1lvlf24s_sanae-takaichi-photographer-kiyoshi-otabloomberg_625x300_18_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 26 Jun 2026 17:47:49 +0530",
-    "link": "https://www.ndtv.com/india-news/japan-pm-sanae-takaichi-to-visit-india-from-july-1-to-3-for-annual-summit-11691365#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/cctv-camera-covered-cash-hidden-in-toilet-ram-temple-theft-inside-story-11691183#publisher=newsstand",
-    "category": "india",
-    "title": "CCTV Camera Covered, Cash Hidden In Toilet: Inside Story Of Ram Temple Theft",
-    "summary": "Ram temple theft: SIT report makes new revelations. (File)",
-    "image": "https://c.ndtvimg.com/2026-06/q0ab156k_ram-temple-_625x300_26_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 26 Jun 2026 17:39:29 +0530",
-    "link": "https://www.ndtv.com/india-news/cctv-camera-covered-cash-hidden-in-toilet-ram-temple-theft-inside-story-11691183#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/woman-surprises-parents-with-first-international-trip-mothers-reaction-wins-hearts-11691314#publisher=newsstand",
-    "category": "india",
-    "title": "Woman Surprises Parents With First Foreign Trip, Mother's Reaction Wins Hearts Online",
-    "summary": "The video has received an emotional response from viewers online.",
-    "image": "https://c.ndtvimg.com/2026-06/13j72o4c_viral-video_625x300_26_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 26 Jun 2026 17:36:49 +0530",
-    "link": "https://www.ndtv.com/offbeat/woman-surprises-parents-with-first-international-trip-mothers-reaction-wins-hearts-11691314#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/lohagad-fort-murder-26-11-prosecutor-ujjwal-nikam-to-fight-pune-murder-victim-ketan-agarwals-case-11690729#publisher=newsstand",
-    "category": "india",
-    "title": "26/11 Prosecutor Ujjwal Nikam To Fight Pune Murder Victim's Case",
-    "summary": "Ujjwal Nikam has also given his consent to work as a special public prosecutor in this case.",
-    "image": "https://c.ndtvimg.com/2026-06/g4llnjvg_ketan-agarwal-siya-agarwal-_625x300_23_June_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 26 Jun 2026 17:36:14 +0530",
-    "link": "https://www.ndtv.com/india-news/lohagad-fort-murder-26-11-prosecutor-ujjwal-nikam-to-fight-pune-murder-victim-ketan-agarwals-case-11690729#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/wheat-msp-scam-in-madhya-pradesh-detected-records-fudged-to-pocket-crores-11691311#publisher=newsstand",
-    "category": "india",
-    "title": "Wheat MSP Scam In Madhya Pradesh Detected, Records Fudged To Pocket Crores",
-    "summary": "The alleged fraud was carried out with careful planning.",
-    "image": "https://i.ndtvimg.com/i/2015-01/whole-grains_625x300_61420541045.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 26 Jun 2026 17:35:00 +0530",
-    "link": "https://www.ndtv.com/india-news/wheat-msp-scam-in-madhya-pradesh-detected-records-fudged-to-pocket-crores-11691311#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/4-killed-7-injured-after-vehicle-hits-stationary-truck-in-andhra-pradeshs-palnadu-11691231#publisher=newsstand",
-    "category": "india",
-    "title": "4 Killed, 7 Injured After Vehicle Hits Stationary Truck In  Andhra's Palnadu",
-    "summary": "Police said the lorry had been parked on the roadside following a tyre burst.",
-    "image": "https://c.ndtvimg.com/2025-05/c9nkg2lo_police-generic_625x300_06_May_25.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 26 Jun 2026 17:21:19 +0530",
-    "link": "https://www.ndtv.com/india-news/4-killed-7-injured-after-vehicle-hits-stationary-truck-in-andhra-pradeshs-palnadu-11691231#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/8-killed-after-truck-collides-with-van-in-jharkhands-ramgarh-11691208#publisher=newsstand",
-    "category": "india",
-    "title": "8 Killed After Truck Collides With Van In Jharkhand's Ramgarh",
-    "summary": "The bodies have been sent for post-mortem examinations, the SDPO said.",
-    "image": "https://c.ndtvimg.com/2025-05/cg62aus8_road-accident-generic_625x300_05_May_25.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 26 Jun 2026 17:16:38 +0530",
-    "link": "https://www.ndtv.com/india-news/8-killed-after-truck-collides-with-van-in-jharkhands-ramgarh-11691208#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/power-grid-of-india-board-okays-raising-borrowing-limit-to-rs-2-2-lakh-cr/articleshow/132014308.cms",
@@ -190,6 +200,36 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/power-grid-of-india-board-okays-raising-borrowing-limit-to-rs-2-2-lakh-cr/articleshow/132014308.cms"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/c1my31rr1vno#0",
+    "category": "global",
+    "title": "Man who punched female police officers at Manchester Airport jailed",
+    "summary": "Mohammed Fahir Amaaz assaulted PC Lydia Ward, PC Ellie Cook and a Starbucks customer, a court heard.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 26 Jun 2026 16:08:46 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c1my31rr1vno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cz75px7zl0wo#0",
+    "category": "global",
+    "title": "Nicholas Rossi: Rapist who faked death and fled to Scotland dies in US hospital",
+    "summary": "Rossi fled to Scotland in 2021 in an attempt to evade justice but was arrested in the Covid ward of a Glasgow hospital.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 26 Jun 2026 16:06:38 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cz75px7zl0wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1543029.html",
+    "category": "sports",
+    "title": "Ben Stokes bags four, New Zealand lose 10 for 121",
+    "summary": "Ben Duckett then adds 40-ball fifty as England reach 73 for 1 in response at tea",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418900/418951.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 26 Jun 2026 15:24:54 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1543029.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/strong-bet-sbi-mutual-fund-investors-already-sitting-on-3x-returns-ahead-of-ipo-launch/articleshow/132012545.cms",
     "category": "finance",
     "title": "Strong bet! SBI Mutual Fund investors already sitting on 3x returns ahead of IPO launch",
@@ -198,6 +238,16 @@
     "source": "ET",
     "pubDate": "Fri, 26 Jun 2026 15:15:48 +0530",
     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/strong-bet-sbi-mutual-fund-investors-already-sitting-on-3x-returns-ahead-of-ipo-launch/articleshow/132012545.cms"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c77yzgnp5lvo#0",
+    "category": "global",
+    "title": "How transparent are the royals being about money?",
+    "summary": "After the King reveals the tax he paid questions remain over how open the Royal Family is being about its wealth.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 26 Jun 2026 15:03:39 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c77yzgnp5lvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-fourth-weekly-loss-amid-fed-rate-hike-expectations/articleshow/132012265.cms",
@@ -210,34 +260,54 @@
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-fourth-weekly-loss-amid-fed-rate-hike-expectations/articleshow/132012265.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/crude-at-65-consumption-boom-and-the-rupees-new-shield-dinshaw-iranis-big-market-calls/articleshow/132011822.cms",
-    "category": "finance",
-    "title": "Crude at $65, consumption boom, and the Rupee's new shield: Dinshaw Irani's big market calls",
-    "summary": "India's economic headwinds are easing, with falling crude oil prices and a stabilizing rupee poised to boost the market. Helios Mutual Fund CEO Dinshaw Irani anticipates oil prices dropping to around $65 per barrel, significantly benefiting India. He",
-    "image": "https://img.etimg.com/photo/msid-132011822,imgsize-77494.cms",
-    "source": "ET",
-    "pubDate": "Fri, 26 Jun 2026 14:35:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/crude-at-65-consumption-boom-and-the-rupees-new-shield-dinshaw-iranis-big-market-calls/articleshow/132011822.cms"
+    "id": "https://www.bbc.co.uk/news/articles/c2dyrw36gzjo#0",
+    "category": "global",
+    "title": "Tate brothers lose court bid to be told names of their UK accusers",
+    "summary": "Andrew and Tristan Tate will face multiple charges, including rape, when they are returned to the UK.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 26 Jun 2026 14:09:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c2dyrw36gzjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-wave-ahead-jio-nse-among-10-public-offers-to-watch-in-rest-of-2026/slideshow/132011619.cms",
-    "category": "finance",
-    "title": "IPO wave ahead: Jio, NSE among 10 public offers to watch in rest of 2026",
-    "summary": "India\u2019s IPO market is set for a strong rebound in the second half of 2026, with major listings such as Jio Platforms, NSE and SBI Mutual Fund lined up. A mix of large corporates and new-age firms like Zepto and Acko is expected to drive primary marke",
-    "image": "https://img.etimg.com/photo/msid-132011515,imgsize-63724.cms",
-    "source": "ET",
-    "pubDate": "Fri, 26 Jun 2026 14:12:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-wave-ahead-jio-nse-among-10-public-offers-to-watch-in-rest-of-2026/slideshow/132011619.cms"
+    "id": "https://www.cricinfo.com/ci/content/story/1543048.html",
+    "category": "sports",
+    "title": "Saturday triple-header: West Indies, New Zealand chase semi-final spot",
+    "summary": "For Pakistan and Netherlands, it's one final opportunity to end their campaigns on a positive note",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418200/418265.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 26 Jun 2026 14:07:27 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1543048.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-heads-into-second-half-as-worlds-top-performing-major-currency/articleshow/132010728.cms",
-    "category": "finance",
-    "title": "US dollar heads into second half of 2026 as world\u2019s top-performing major currency",
-    "summary": "The US dollar is set to enter the second half of 2026 on a strong footing, supported by higher interest rates, resilient economic growth and sustained investor demand for US assets. Despite easing inflation concerns and geopolitical relief, expectati",
-    "image": "https://img.etimg.com/photo/msid-132010728,imgsize-217174.cms",
-    "source": "ET",
-    "pubDate": "Fri, 26 Jun 2026 14:10:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-heads-into-second-half-as-worlds-top-performing-major-currency/articleshow/132010728.cms"
+    "id": "https://www.cricinfo.com/ci/content/story/1542922.html",
+    "category": "sports",
+    "title": "Conway scraps technical tweak ... and makes it a Daddy for New Zealand",
+    "summary": "Opener felt ill-at-ease after three balls so ripped up plan to remove his trigger movement",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418800/418878.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 26 Jun 2026 14:00:47 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1542922.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1543045.html",
+    "category": "sports",
+    "title": "Nuwanidu fifty keeps Sri Lanka A in the contest after Jurel's 141*",
+    "summary": "India A declared on 452 for 6, then reduced Sri Lanka A to 38 for 2 in response",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418900/418945.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 26 Jun 2026 13:49:52 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1543045.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo#0",
+    "category": "global",
+    "title": "Canada eligible to join Eurovision competition",
+    "summary": "Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 26 Jun 2026 13:41:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1543035.html",
@@ -260,16 +330,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cnv9er181lno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1543029.html",
-    "category": "sports",
-    "title": "Stokes bags four as NZ struggle to build on strong start",
-    "summary": "Stokes took all three wickets to fall during an eight-over spell in the morning as New Zealand crossed 400",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418900/418951.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 26 Jun 2026 12:49:44 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543029.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1543038.html",
     "category": "sports",
     "title": "No Vaibhav Sooryavanshi as India bowl vs Ireland",
@@ -278,26 +338,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 26 Jun 2026 12:44:23 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1543038.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1542849.html",
-    "category": "sports",
-    "title": "A new beginning for T20 champions India against Ireland",
-    "summary": "Will 15-year-old Sooryavanshi make his international debut?",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/411700/411762.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 26 Jun 2026 11:59:14 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1542849.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj9g7w0xnnjo#0",
-    "category": "global",
-    "title": "Mahmood restricts minister's access to documents as Home Office row escalates",
-    "summary": "Shabana Mahmood believes Mike Tapp should be sacked for writing an article but No 10 says the PM is taking advice.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 26 Jun 2026 11:35:55 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj9g7w0xnnjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1542971.html",
@@ -310,16 +350,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1542971.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cdr4z5rxympo#0",
-    "category": "global",
-    "title": "King and Queen will not live in Buckingham Palace after renovations",
-    "summary": "King Charles and Queen Camilla will continue to reside in Clarence House, Buckingham Palace says.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 26 Jun 2026 11:01:05 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cdr4z5rxympo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/videos/clyxgxr2672o#0",
     "category": "global",
     "title": "Watch: Moment woman pulled from rubble alive",
@@ -328,36 +358,6 @@
     "source": "BBC",
     "pubDate": "Fri, 26 Jun 2026 10:06:11 GMT",
     "link": "https://www.bbc.co.uk/news/videos/clyxgxr2672o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1542927.html",
-    "category": "sports",
-    "title": "Saracens confirm 'no further action' against academy player after nightclub incident",
-    "summary": "Totoa Auvaa had been accused by ECB of 'unprovoked attacks' on Gus Atkinson, but club stands by player",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418000/418072.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 26 Jun 2026 09:38:56 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1542927.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8x2151y8q4o#0",
-    "category": "global",
-    "title": "King becomes first monarch to reveal tax bill as royal public funding to double to \u00a3100m",
-    "summary": "New figures show the monarch paid \u00a312.9m in tax last year, but do not give any detailed breakdown of how that tax was calculated.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 26 Jun 2026 09:21:08 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1542916.html",
-    "category": "sports",
-    "title": "WI wrap SL up for 308 despite Dhananjaya 120",
-    "summary": "Greaves was West Indies' highest wicket-taker with a 3 for 39 spell after the hosts opted to bowl",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418900/418940.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 26 Jun 2026 08:09:49 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1542916.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1542932.html",
