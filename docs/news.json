@@ -40,6 +40,36 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/hezbollah-rejects-israel-lebanon-ceasefire-deal-warns-of-civil-war-11693248#publisher=newsstand",
+    "category": "india",
+    "title": "Hezbollah Rejects Israel-Lebanon Deal, Warns Of Civil War",
+    "summary": "Hezbollah said it will be unable to impose the implementation of the agreement signed in Washington.",
+    "image": "https://c.ndtvimg.com/2026-06/m0ois99c_marco-rubio_625x300_27_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 27 Jun 2026 02:40:59 +0530",
+    "link": "https://www.ndtv.com/world-news/hezbollah-rejects-israel-lebanon-ceasefire-deal-warns-of-civil-war-11693248#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/foolish-violation-trump-says-iran-fired-4-drones-at-ships-in-hormuz-1-hit-11692486#publisher=newsstand",
+    "category": "india",
+    "title": "\"Foolish Violation\": Trump Says Iran Fired 4 Drones At Ships In Hormuz, 1 Hit",
+    "summary": "Donald Trump has slammed Iran.",
+    "image": "https://c.ndtvimg.com/2026-06/9pv83h7c_donald-trump_625x300_27_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 27 Jun 2026 02:28:59 +0530",
+    "link": "https://www.ndtv.com/world-news/foolish-violation-trump-says-iran-fired-4-drones-at-ships-in-hormuz-1-hit-11692486#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-forces-strike-iranian-drone-missile-sites-after-attack-on-cargo-ship-11693221#publisher=newsstand",
+    "category": "india",
+    "title": "US Forces Strike Iranian Drone, Missile Sites After Attack On Cargo Ship",
+    "summary": "US forces struck Iranian missile and drone storage sites and coastal radar locations on Friday in response to an Iranian attack on a cargo ship, the US military said.",
+    "image": "https://c.ndtvimg.com/2026-03/bd66ftmg_trump-strait-of-hormuz_625x300_04_March_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Sat, 27 Jun 2026 02:26:16 +0530",
+    "link": "https://www.ndtv.com/world-news/us-forces-strike-iranian-drone-missile-sites-after-attack-on-cargo-ship-11693221#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-lower-chips-tumble-and-moderna-rallies/articleshow/132024472.cms",
     "category": "finance",
     "title": "US stocks: US market ends lower as tech stocks weigh on sentiment",
@@ -100,36 +130,6 @@
     "link": "https://www.ndtv.com/world-news/netherlands-euthanises-sick-child-under-12-for-first-time-in-history-11693020#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/in-breakthrough-lebanon-israel-and-us-announce-trilateral-agreement-11692874#publisher=newsstand",
-    "category": "india",
-    "title": "In Breakthrough, Lebanon, Israel And US Announce Trilateral Agreement",
-    "summary": "The deal is aimed at lasting peace in the Middle East.",
-    "image": "https://c.ndtvimg.com/2026-06/ahc0f86s_lebanon_625x300_26_June_26.jpg",
-    "source": "NDTV",
-    "pubDate": "Sat, 27 Jun 2026 00:12:37 +0530",
-    "link": "https://www.ndtv.com/world-news/in-breakthrough-lebanon-israel-and-us-announce-trilateral-agreement-11692874#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/strait-of-hormuz-traffic-42-ships-cross-strait-of-hormuz-using-oman-passage-despite-iran-threats-11693013#publisher=newsstand",
-    "category": "india",
-    "title": "42 Ships Cross Strait Of Hormuz Using Oman Passage Despite Iran Threats",
-    "summary": "Since June 15, traffic has been steadily increasing through the strait.",
-    "image": "https://c.ndtvimg.com/2026-03/12lmtpdk_strait-of-hormuz_625x300_03_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sat, 27 Jun 2026 00:10:06 +0530",
-    "link": "https://www.ndtv.com/world-news/strait-of-hormuz-traffic-42-ships-cross-strait-of-hormuz-using-oman-passage-despite-iran-threats-11693013#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/openai-launches-gpt-5-6-series-in-us-only-preview-at-governments-request-11693014#publisher=newsstand",
-    "category": "india",
-    "title": "OpenAI Launches GPT-5.6 Series in US-Only Preview At Government's Request",
-    "summary": "OpenAI said in a blog post that the limited release was a temporary step.",
-    "image": "https://c.ndtvimg.com/2023-12/qa7390ro_openai-_625x300_23_December_23.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sat, 27 Jun 2026 00:09:50 +0530",
-    "link": "https://www.ndtv.com/world-news/openai-launches-gpt-5-6-series-in-us-only-preview-at-governments-request-11693014#publisher=newsstand"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -160,6 +160,106 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/imf-chief-economist-says-fed-reduction-in-rate-guidance-is-entirely-appropriate/articleshow/132020989.cms"
   },
   {
+    "id": "https://www.cricinfo.com/ci/content/story/1543145.html",
+    "category": "sports",
+    "title": "Heartbreak for Scotland as SL clinch thriller to stay alive",
+    "summary": "SL now rely on England beating NZ and Ireland handing a thrashing to West Indies to make it to the final four",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418900/418999.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 26 Jun 2026 22:04:56 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1543145.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1543130.html",
+    "category": "sports",
+    "title": "Chris Wood seals Hampshire win with bat after starring with ball",
+    "summary": "Yorkshire unable to string together partnerships but scrap hard in defence of small target",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419000/419016.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 26 Jun 2026 22:04:55 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1543130.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1543081.html",
+    "category": "sports",
+    "title": "Jangoo, Chase's defiant stand takes WI close to parity",
+    "summary": "Sri Lanka won the middle session while West Indies drove home the advantage by winning the other two",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419000/419008.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 26 Jun 2026 21:59:49 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1543081.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1543128.html",
+    "category": "sports",
+    "title": "Munsey fires Nottinghamshire to victory at Kent",
+    "summary": "Sam Billings leads home effort with 64 off 38 but Outlaws get home with eight balls to spare",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419000/419015.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 26 Jun 2026 21:54:26 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1543128.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1543126.html",
+    "category": "sports",
+    "title": "James Rew sends reminder with astonishing solo hundred",
+    "summary": "Discarded England batter produces innings for the ages to seal 18-run win",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419000/419010.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 26 Jun 2026 21:49:36 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1543126.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1543123.html",
+    "category": "sports",
+    "title": "Malik magic sets up Warwickshire for midlands bragging rights",
+    "summary": "Young opener's 99 from 46 sets the stage for thumping win against local rivals",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419000/419014.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 26 Jun 2026 21:31:55 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1543123.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo#0",
+    "category": "global",
+    "title": "US conducts strikes on Iran after attack on cargo ship",
+    "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 26 Jun 2026 21:30:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cn4rd71411ko#0",
+    "category": "global",
+    "title": "Trump threatens 100% tariff on European nations over tech tax",
+    "summary": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 26 Jun 2026 21:29:38 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1543129.html",
+    "category": "sports",
+    "title": "Livingstone headlines powerhouse Lancashire victory",
+    "summary": "International-quality line-up proves too much for Leicestershire on hot night",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419000/419013.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 26 Jun 2026 21:27:39 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1543129.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1543048.html",
+    "category": "sports",
+    "title": "Saturday triple-header: West Indies, New Zealand chase semi-final spot",
+    "summary": "For Pakistan and Netherlands, it's one final opportunity to end their campaigns on a positive note",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418200/418265.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 26 Jun 2026 21:25:05 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1543048.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/silver-consumer-electricals-concludes-rs-150-cr-pre-ipo-secondary-share-sale/articleshow/132019877.cms",
     "category": "finance",
     "title": "Silver Consumer Electricals concludes Rs 150 cr pre-IPO secondary share sale",
@@ -180,34 +280,14 @@
     "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/fidelity-investments-buys-2-pc-stake-in-lodha-developers-for-rs-1864-crore/articleshow/132019863.cms"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1543126.html",
-    "category": "sports",
-    "title": "James Rew sends reminder with astonishing solo hundred",
-    "summary": "Discarded England batter produces innings for the ages to seal 18-run win",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417400/417437.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 26 Jun 2026 20:36:31 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543126.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1543127.html",
-    "category": "sports",
-    "title": "Lynn lights the fuse as Northants run riot against Essex",
-    "summary": "Visitors rolled aside for 108 after Vasconcelos, Willey help pile on the runs",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417600/417673.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 26 Jun 2026 20:31:11 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543127.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1543133.html",
-    "category": "sports",
-    "title": "Freeborn, Perrin fifties lay platform for Warwickshire's first win",
-    "summary": "Opening stand of 88 in 10.2 overs sets up home side, as Surrey fall well short in chase",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/406000/406035.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 26 Jun 2026 20:24:55 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543133.html?ex_cid=OTC-RSS"
+    "id": "https://www.bbc.co.uk/news/articles/c39y79g7gzko#0",
+    "category": "global",
+    "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+    "summary": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 26 Jun 2026 21:15:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno#0",
@@ -230,26 +310,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-lower-as-chip-stocks-resume-slide/articleshow/132017428.cms"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1543081.html",
-    "category": "sports",
-    "title": "Rathnayaka, Fernando lead SL's strong comeback",
-    "summary": "Nearly all of West Indies' top-six got set on a placid pitch but couldn't build on it",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418900/418996.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 26 Jun 2026 18:58:07 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543081.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero#0",
-    "category": "global",
-    "title": "Debris falls after plane hits Beijing's tallest building",
-    "summary": "Social media footage showed the moment debris from a small aircraft fell to the ground after a crash into Beijing's tallest skyscraper.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 26 Jun 2026 18:36:42 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo#0",
     "category": "global",
     "title": "Mother dies saving daughter in Venezuela earthquakes",
@@ -258,56 +318,6 @@
     "source": "BBC",
     "pubDate": "Fri, 26 Jun 2026 18:36:32 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1543029.html",
-    "category": "sports",
-    "title": "Ben Stokes four-for, Ben Duckett hundred as England roar back",
-    "summary": "Run-a-ball partnership of 179 between Duckett and Bethell transfers pressure back on to New Zealand",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418900/418985.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 26 Jun 2026 18:30:44 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543029.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1543035.html",
-    "category": "sports",
-    "title": "Sangakkara queries DRS haste as Santner falls to contentious call",
-    "summary": "Unused replay suggested ball may have hit armguard, not glove, for key dismissal on second morning",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418900/418957.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 26 Jun 2026 18:26:57 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543035.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1543106.html",
-    "category": "sports",
-    "title": "Bouchier, Adams prove too strong as Hampshire beat Yorkshire",
-    "summary": "Georgia Adams' allround display puts seal on 42-run win",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/399900/399936.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 26 Jun 2026 18:24:52 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543106.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1543084.html",
-    "category": "sports",
-    "title": "Tickner out of third Test with concussion; Foulkes named replacement",
-    "summary": "Quick's absence is latest blow for NZ side already missing Henry, Phillips and Jamieson",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418900/418987.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 26 Jun 2026 18:21:54 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543084.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo#0",
-    "category": "global",
-    "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
-    "summary": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 26 Jun 2026 18:03:32 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-david-swensen-if-youre-investing-with-a-long-time-horizon-having-an-equity-bias-makes-sense-stocks-go-up-in-the-long-run/articleshow/132007031.cms",
@@ -358,16 +368,6 @@
     "source": "BBC",
     "pubDate": "Fri, 26 Jun 2026 15:03:39 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c77yzgnp5lvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo#0",
-    "category": "global",
-    "title": "Canada eligible to join Eurovision competition",
-    "summary": "Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 26 Jun 2026 13:41:36 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cnv9er181lno#0",
