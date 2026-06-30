@@ -10,174 +10,234 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-poised-for-biggest-monthly-drop-since-2008-amid-fed-rate-hike-expectations/articleshow/132087982.cms",
-    "category": "finance",
-    "title": "Gold poised for biggest monthly drop since 2008 amid Fed rate hike expectations",
-    "summary": "Gold prices are experiencing a significant monthly drop, nearing their largest decline since 2008. This downturn is driven by expectations of Federal Reserve interest rate hikes aimed at controlling inflation, fueled by rising energy prices. A strong",
-    "image": "https://img.etimg.com/photo/msid-132087982,imgsize-69838.cms",
-    "source": "ET",
-    "pubDate": "Tue, 30 Jun 2026 13:35:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-poised-for-biggest-monthly-drop-since-2008-amid-fed-rate-hike-expectations/articleshow/132087982.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/hdfc-bank-valuations-attractive-banking-sector-ready-for-next-growth-phase-sandip-sabharwal/articleshow/132087660.cms",
-    "category": "finance",
-    "title": "HDFC Bank valuations attractive, banking sector ready for next growth phase: Sandip Sabharwal",
-    "summary": "Market expert Sandip Sabharwal sees private banks entering a robust phase driven by accelerating credit growth and easing margin pressures. He finds HDFC Bank's valuation attractive despite leadership uncertainties, while noting operational challenge",
-    "image": "https://img.etimg.com/photo/msid-132087660,imgsize-15384.cms",
-    "source": "ET",
-    "pubDate": "Tue, 30 Jun 2026 13:14:50 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/hdfc-bank-valuations-attractive-banking-sector-ready-for-next-growth-phase-sandip-sabharwal/articleshow/132087660.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-clocks-best-quarter-on-record-on-tech-rebound/articleshow/132087584.cms",
-    "category": "finance",
-    "title": "Japan's Nikkei clocks best quarter on record on tech rebound",
-    "summary": "Japan's Nikkei share average surged on Tuesday, driven by a strong rebound in technology stocks. The benchmark index closed at 70,062.32, marking its sharpest quarterly gain in decades. Despite mixed market breadth, semiconductor and AI-related share",
-    "image": "https://img.etimg.com/photo/msid-132087584,imgsize-221752.cms",
-    "source": "ET",
-    "pubDate": "Tue, 30 Jun 2026 13:06:10 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-clocks-best-quarter-on-record-on-tech-rebound/articleshow/132087584.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/fibe-parent-files-draft-papers-with-sebi-for-ipo-aims-to-garner-rs-750-cr-via-fresh-issue/articleshow/132087379.cms",
-    "category": "finance",
-    "title": "Fibe parent files draft papers with Sebi for IPO; aims to garner Rs 750-cr via fresh issue",
-    "summary": "Digital lending platform Fibe's parent company, Social Worth Technologies, is set to launch an Initial Public Offering (IPO). The company aims to raise funds through a fresh issue of shares and an offer-for-sale by existing shareholders. Proceeds wil",
-    "image": "https://img.etimg.com/photo/msid-132087379,imgsize-3428.cms",
-    "source": "ET",
-    "pubDate": "Tue, 30 Jun 2026 12:55:17 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/fibe-parent-files-draft-papers-with-sebi-for-ipo-aims-to-garner-rs-750-cr-via-fresh-issue/articleshow/132087379.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-s-korean-shares-log-best-quarter-in-nearly-30-years-on-chipmaker-rally/articleshow/132087316.cms",
-    "category": "finance",
-    "title": "Global Markets: S.Korean shares log best quarter in nearly 30 years on chipmaker rally",
-    "summary": "South Korean stocks celebrated their best quarter in almost three decades, driven by a phenomenal surge in chipmakers. The KOSPI index soared, with tech giants Samsung Electronics and SK Hynix posting impressive gains, fueled by a new government stra",
-    "image": "https://img.etimg.com/photo/msid-132087316,imgsize-40602.cms",
-    "source": "ET",
-    "pubDate": "Tue, 30 Jun 2026 12:51:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-s-korean-shares-log-best-quarter-in-nearly-30-years-on-chipmaker-rally/articleshow/132087316.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-ather-energy-shares-jump-up-to-11-as-delhi-govt-approves-new-ev-policy-what-to-expect/articleshow/132087260.cms",
-    "category": "finance",
-    "title": "Ola Electric, Ather Energy shares jump up to 11% as Delhi govt approves new EV policy. What to expect?",
-    "summary": "Shares of Ola Electric and Ather Energy surged up to 11% after the Delhi Cabinet approved the EV Policy 2.0 with a Rs 15,000 crore outlay. The policy offers incentives for electric two-wheelers, targets 95% EV registrations by 2027 and is expected to",
-    "image": "https://img.etimg.com/photo/msid-132087260,imgsize-10181.cms",
-    "source": "ET",
-    "pubDate": "Tue, 30 Jun 2026 12:50:41 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-ather-energy-shares-jump-up-to-11-as-delhi-govt-approves-new-ev-policy-what-to-expect/articleshow/132087260.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/india-visit-was-among-trumps-best-bilateral-tours-ex-us-diplomat-to-ndtv-11706256#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/10-children-injured-1-trapped-after-tree-collapses-on-school-bus-in-mumbai-11707307#publisher=newsstand",
     "category": "india",
-    "title": "India Visit Was Among Trump's Best Bilateral Tours: Ex-US Diplomat To NDTV",
-    "summary": "Juster also credited Prime Minister Narendra Modi with improving India's business climate",
-    "image": "https://i.ndtvimg.com/i/2017-06/kenneth-juster_650x400_61498047166.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Student Dies, 10 Injured After Tree Falls On School Bus In Mumbai's Chembur",
+    "summary": "India Meteorological Department (IMD) has forecast heavy showers and thunderstorms for Mumbai.",
+    "image": "https://c.ndtvimg.com/2026-06/7sautqo_mumbai-tree-collapse_625x300_30_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Tue, 30 Jun 2026 12:47:38 +0530",
-    "link": "https://www.ndtv.com/world-news/india-visit-was-among-trumps-best-bilateral-tours-ex-us-diplomat-to-ndtv-11706256#publisher=newsstand"
+    "pubDate": "Tue, 30 Jun 2026 16:49:53 +0530",
+    "link": "https://www.ndtv.com/india-news/10-children-injured-1-trapped-after-tree-collapses-on-school-bus-in-mumbai-11707307#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/hang-yasin-malik-sarla-bhats-cousin-recalls-horror-slams-political-outreach-11706241#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/videos-roads-melt-tram-tracks-buckle-as-europe-struggles-with-heatwave-11707029#publisher=newsstand",
     "category": "india",
-    "title": "\"Hang Yasin Malik\": Sarla Bhat's Cousin Recalls Horror, Slams Political Outreach",
-    "summary": "PK Bhat (L) spoke to NDTV about cousin Sarla Bhat's murder",
-    "image": "https://c.ndtvimg.com/2026-06/hrn4ue9k_sarla-bhat-pk-bhat_625x300_30_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Videos: Roads Melt, Tram Tracks Buckle As Europe Struggles With Heatwave",
+    "summary": "The scorching heat has already set records in Poland, the Czech Republic and Germany",
+    "image": "https://c.ndtvimg.com/2026-06/j4to74as_tires_625x300_30_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Tue, 30 Jun 2026 12:44:21 +0530",
-    "link": "https://www.ndtv.com/india-news/hang-yasin-malik-sarla-bhats-cousin-recalls-horror-slams-political-outreach-11706241#publisher=newsstand"
+    "pubDate": "Tue, 30 Jun 2026 16:48:14 +0530",
+    "link": "https://www.ndtv.com/world-news/videos-roads-melt-tram-tracks-buckle-as-europe-struggles-with-heatwave-11707029#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/aaditya-thackerays-right-hand-man-sachin-ahir-joins-eknath-shinde-faction-11706213#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/siya-wanted-to-marry-ketan-was-confused-about-chetan-brother-sahil-11707049#publisher=newsstand",
     "category": "india",
-    "title": "Aaditya Thackeray's 'Right-Hand Man' Sachin Ahir Joins Eknath Shinde Faction",
-    "summary": "Ahir (centre) filed nomination for the post of Deputy Chairperson of the Maharashtra Legislative Council",
-    "image": "https://c.ndtvimg.com/2026-06/urtue1fk_ahir_625x300_30_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "Siya Goyal's Brother Knew About Chetan. Why He Chose To Stay Silent",
+    "summary": "Sahil was questioned by the police for over 10 hours on Monday",
+    "image": "https://c.ndtvimg.com/2026-06/v77011cc_sahil-siya_625x300_30_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Tue, 30 Jun 2026 12:43:30 +0530",
-    "link": "https://www.ndtv.com/india-news/aaditya-thackerays-right-hand-man-sachin-ahir-joins-eknath-shinde-faction-11706213#publisher=newsstand"
+    "pubDate": "Tue, 30 Jun 2026 16:42:22 +0530",
+    "link": "https://www.ndtv.com/india-news/siya-wanted-to-marry-ketan-was-confused-about-chetan-brother-sahil-11707049#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/villages-cut-off-bridges-washed-away-in-monsoon-fury-in-arunachal-assam-11706224#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/no-direct-us-iran-talks-to-take-place-in-doha-says-qatar-11707234#publisher=newsstand",
     "category": "india",
-    "title": "Villages Cut Off, Bridges Washed Away In Monsoon Fury In Arunachal, Assam",
-    "summary": "Heavy rains trigger flash floods and landslides across Arunachal Pradesh and Assam.",
-    "image": "https://c.ndtvimg.com/2026-06/3ol0ljno_assam_625x300_28_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "No Direct US-Iran Talks To Take Place In Doha, Says Qatar",
+    "summary": "Mediator Qatar said on Tuesday that no high-level meetings or direct talks between the United States and Iran were planned in Doha after Washington said it had sent a top delegation for negotiations.",
+    "image": "https://c.ndtvimg.com/2026-06/qaiu86c8_us-iran-war_625x300_15_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Tue, 30 Jun 2026 12:41:59 +0530",
-    "link": "https://www.ndtv.com/india-news/villages-cut-off-bridges-washed-away-in-monsoon-fury-in-arunachal-assam-11706224#publisher=newsstand"
+    "pubDate": "Tue, 30 Jun 2026 16:16:51 +0530",
+    "link": "https://www.ndtv.com/world-news/no-direct-us-iran-talks-to-take-place-in-doha-says-qatar-11707234#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/tamil-nadu-news/tamil-nadu-woman-dies-after-familys-wish-for-natural-birth-at-home-11706212#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/parliamentary-panel-to-review-neet-ug-2026-re-exam-and-nta-reforms-on-july-1-11707213#publisher=newsstand",
     "category": "india",
-    "title": "Tamil Nadu Woman Dies After Family's Wish For 'Natural Birth' At Home",
-    "summary": "The woman, identified as Sasikala from a village in Tiruppur district, delivered a healthy baby.",
-    "image": "https://c.ndtvimg.com/2026-06/3dj484a4_tamil-nadu-woman-_625x300_30_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "Parliamentary Panel To Review NEET UG 2026 Re-Exam And NTA Reforms On July 1",
+    "summary": "Parliamentary panel meeting: The committee will examine findings from the NEET UG 2026 re-examination,",
+    "image": "https://c.ndtvimg.com/2026-06/edba2hk4_neet_625x300_26_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Tue, 30 Jun 2026 12:41:29 +0530",
-    "link": "https://www.ndtv.com/tamil-nadu-news/tamil-nadu-woman-dies-after-familys-wish-for-natural-birth-at-home-11706212#publisher=newsstand"
+    "pubDate": "Tue, 30 Jun 2026 16:12:49 +0530",
+    "link": "https://www.ndtv.com/education/parliamentary-panel-to-review-neet-ug-2026-re-exam-and-nta-reforms-on-july-1-11707213#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/noida-greater-noida-schools-revise-timings-amid-rising-heat-check-new-schedule-11706222#publisher=newsstand",
+    "id": "https://www.ndtv.com/offbeat/woman-praises-man-who-travelled-6-hours-to-return-her-lost-debit-card-11707172#publisher=newsstand",
     "category": "india",
-    "title": "Noida, Greater Noida Schools Revise Timings Amid Rising Heat, Check New Schedule",
-    "summary": "Gautam Buddh Nagar Schools Shift Timings Due To Heatwave",
-    "image": "https://c.ndtvimg.com/2026-04/qq67r4q_-schools-have-been-temporarily-closed-due-to-severe-heatwave-conditions_625x300_20_April_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Woman Praises Man Who Travelled 6 Hours To Return Her Lost Debit Card",
+    "summary": "The traveller said the card was left inside the ATM after withdrawing cash.",
+    "image": "https://c.ndtvimg.com/2026-06/k3b7b5m4_viral-video_625x300_30_June_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Tue, 30 Jun 2026 12:41:23 +0530",
-    "link": "https://www.ndtv.com/education/noida-greater-noida-schools-revise-timings-amid-rising-heat-check-new-schedule-11706222#publisher=newsstand"
+    "pubDate": "Tue, 30 Jun 2026 16:06:48 +0530",
+    "link": "https://www.ndtv.com/offbeat/woman-praises-man-who-travelled-6-hours-to-return-her-lost-debit-card-11707172#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/food/rats-cockroaches-expired-food-fda-cracks-down-on-6-mumbai-eateries-11705764#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/kerala-private-bus-operators-to-begin-protest-over-free-travel-scheme-11707180#publisher=newsstand",
     "category": "india",
-    "title": "6 Mumbai Restaurants Lose Licences After Food Authority Finds Rats And Expired Products",
-    "summary": "The food business licences of these establishments were suspended.",
-    "image": "https://c.ndtvimg.com/2026-06/dctgp1do_maharashtra-fda_625x300_30_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Kerala Private Bus Operators To Begin Protest Over Free Travel Scheme",
+    "summary": "The scheme has resulted in an additional 5 lakh women travelling on KSRTC ordinary services.",
+    "image": "https://c.ndtvimg.com/2026-01/j08ae9ko_kerala-electric-buses_625x300_01_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Tue, 30 Jun 2026 12:40:05 +0530",
-    "link": "https://www.ndtv.com/food/rats-cockroaches-expired-food-fda-cracks-down-on-6-mumbai-eateries-11705764#publisher=newsstand"
+    "pubDate": "Tue, 30 Jun 2026 16:05:54 +0530",
+    "link": "https://www.ndtv.com/india-news/kerala-private-bus-operators-to-begin-protest-over-free-travel-scheme-11707180#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/exiled-chinese-businessman-miles-guo-jailed-30-years-in-us-for-1-billion-fraud-11705906#publisher=newsstand",
-    "category": "india",
-    "title": "Exiled Chinese Tycoon Jailed 30 Years In US For $1 Billion Fraud",
-    "summary": "Guo, also known as Guo Wengui, was sentenced Monday in federal court in Manhattan",
-    "image": "https://c.ndtvimg.com/2026-06/ihmil4tk_guo-wengui_625x300_30_June_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Tue, 30 Jun 2026 12:37:01 +0530",
-    "link": "https://www.ndtv.com/world-news/exiled-chinese-businessman-miles-guo-jailed-30-years-in-us-for-1-billion-fraud-11705906#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-kept-buying-these-11-stocks-for-8-straight-quarters-shares-surge-up-to-250-in-2-years/slideshow/132086866.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/below-normal-monsoon-wont-derail-rural-demand-says-nomuras-mihir-shah/articleshow/132091168.cms",
     "category": "finance",
-    "title": "MFs kept buying these 11 stocks for 8 straight quarters; shares surge up to 250% in 2 years",
-    "summary": "Mutual funds increased holdings for eight consecutive quarters in 36 BSE 1000 companies, signalling sustained institutional conviction. While several stocks delivered strong returns and some more than doubled investor wealth, consistent institutional",
-    "image": "https://img.etimg.com/photo/msid-132086684,imgsize-149034.cms",
+    "title": "Below-normal monsoon won't derail rural demand, says Nomura's Mihir Shah",
+    "summary": "Despite fears of a weaker monsoon, Nomura's Mihir Shah anticipates muted impact on rural demand due to healthy reservoir levels and improved irrigation. El Ni\u00f1o's influence is expected to be limited until later in the season, with potential offsettin",
+    "image": "https://img.etimg.com/photo/msid-132091168,imgsize-39356.cms",
     "source": "ET",
-    "pubDate": "Tue, 30 Jun 2026 12:28:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-kept-buying-these-11-stocks-for-8-straight-quarters-shares-surge-up-to-250-in-2-years/slideshow/132086866.cms"
+    "pubDate": "Tue, 30 Jun 2026 16:02:46 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/below-normal-monsoon-wont-derail-rural-demand-says-nomuras-mihir-shah/articleshow/132091168.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-shares-jump-5-after-jefferies-upgrades-rating-to-buy-heres-the-latest-target-price/articleshow/132086615.cms",
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ekes-out-first-quarterly-gain-in-five-on-oil-drop-policy-salvo/articleshow/132091062.cms",
     "category": "finance",
-    "title": "Maruti Suzuki shares jump 5% after Jefferies upgrades rating to Buy. Here's the latest target price",
-    "summary": "Maruti Suzuki shares rose nearly 5% after Jefferies upgraded the stock to \u2018Buy\u2019 and raised its target price to Rs 16,500, citing strong passenger vehicle demand, easing crude prices and lower metal costs. The brokerage expects steady earnings growth ",
-    "image": "https://img.etimg.com/photo/msid-132086615,imgsize-100705.cms",
+    "title": "Rupee ekes out first quarterly gain in five on oil drop, policy salvo",
+    "summary": "The Indian rupee achieved its first quarterly gain since March 2025, buoyed by falling oil prices and policy efforts to attract dollar inflows. Despite a slight dip on Tuesday, the currency showed resilience, recovering from record lows. Analysts ant",
+    "image": "https://img.etimg.com/photo/msid-132091062,imgsize-242146.cms",
     "source": "ET",
-    "pubDate": "Tue, 30 Jun 2026 12:25:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-shares-jump-5-after-jefferies-upgrades-rating-to-buy-heres-the-latest-target-price/articleshow/132086615.cms"
+    "pubDate": "Tue, 30 Jun 2026 15:57:27 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ekes-out-first-quarterly-gain-in-five-on-oil-drop-policy-salvo/articleshow/132091062.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/cfa-level-1-pass-rate-drops-to-39-what-candidates-should-do-next-check-experts-advice-11707125#publisher=newsstand",
+    "category": "india",
+    "title": "CFA Level 1 Pass Rate Drops To 39%: What Candidates Should Do Next? Check Expert's Advice",
+    "summary": "CFA Exam: 31,566 candidates appeared for the Level 1 in May 2026 and 39% passed.",
+    "image": "https://c.ndtvimg.com/2026-06/9n88uu78_cfa_625x300_30_June_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Tue, 30 Jun 2026 15:55:15 +0530",
+    "link": "https://www.ndtv.com/education/cfa-level-1-pass-rate-drops-to-39-what-candidates-should-do-next-check-experts-advice-11707125#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-falls-250-points-nifty-closes-below-23900-on-monthly-expiry-day/articleshow/132090449.cms",
+    "category": "finance",
+    "title": "Market wrap: Sensex falls 250 points, Nifty closes below 23,900 on monthly expiry day",
+    "summary": "Indian equities ended lower for the second straight session as benchmarks slipped on expiry-day volatility, though broader markets advanced. IT stocks led declines amid rate worries, while auto and consumption names gained. Analysts expect sectoral r",
+    "image": "https://img.etimg.com/photo/msid-132090449,imgsize-10590.cms",
+    "source": "ET",
+    "pubDate": "Tue, 30 Jun 2026 15:42:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-falls-250-points-nifty-closes-below-23900-on-monthly-expiry-day/articleshow/132090449.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/nri-women-investing-nearly-70-higher-in-western-markets-than-gulf-countries-report/articleshow/132088571.cms",
+    "category": "finance",
+    "title": "NRI women investing nearly 70% higher in western markets than gulf countries: Report",
+    "summary": "Female participation in cross-border investing among NRIs rose nearly 70% over the past year, according to Belong\u2019s analysis of investors across 34 countries. Women accounted for 7.3% of NRI investors in June 2026, up from 4.3% a year earlier. The st",
+    "image": "https://img.etimg.com/photo/msid-132088571,imgsize-8132.cms",
+    "source": "ET",
+    "pubDate": "Tue, 30 Jun 2026 15:38:16 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nri-women-investing-nearly-70-higher-in-western-markets-than-gulf-countries-report/articleshow/132088571.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-remains-stuck-below-60000-as-traders-eye-fed-outlook-and-institutional-demand/articleshow/132090002.cms",
+    "category": "finance",
+    "title": "Bitcoin remains stuck below $60,000 as traders eye Fed outlook and institutional demand",
+    "summary": "Bitcoin traded below $60,000 as markets remained cautious amid expectations of U.S. monetary policy signals and mixed institutional flows. Price action stayed range-bound with limited momentum despite ETF inflows and ongoing macro uncertainty. Altcoi",
+    "image": "https://img.etimg.com/photo/msid-132090002,imgsize-74080.cms",
+    "source": "ET",
+    "pubDate": "Tue, 30 Jun 2026 15:13:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-remains-stuck-below-60000-as-traders-eye-fed-outlook-and-institutional-demand/articleshow/132090002.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/how-delta-exchange-india-makes-crypto-trading-simple-and-affordable/articleshow/132089902.cms",
+    "category": "finance",
+    "title": "How Delta Exchange India makes crypto trading simple and affordable",
+    "summary": "Crypto trading is booming in India's smaller cities, with Delta Exchange India emerging as a key player. The platform offers low fees, full INR settlement, and features catering to both beginners and advanced traders. Notably, F&amp;O trading on Delt",
+    "image": "https://img.etimg.com/photo/msid-132089902,imgsize-28908.cms",
+    "source": "ET",
+    "pubDate": "Tue, 30 Jun 2026 15:08:57 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/how-delta-exchange-india-makes-crypto-trading-simple-and-affordable/articleshow/132089902.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/yen-tumbles-to-4-decade-low-here-are-3-reasons-behind-the-historic-slump/articleshow/132089828.cms",
+    "category": "finance",
+    "title": "Yen tumbles to 4-decade low. Here are 3 reasons behind the historic slump",
+    "summary": "Japanese Finance Minister Satsuki Katayama said authorities were ready to respond appropriately at any time, without giving stronger signals. The sharp decline has fuelled growing speculation that Tokyo could be edging closer to direct intervention t",
+    "image": "https://img.etimg.com/photo/msid-132089828,imgsize-66678.cms",
+    "source": "ET",
+    "pubDate": "Tue, 30 Jun 2026 15:04:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/yen-tumbles-to-4-decade-low-here-are-3-reasons-behind-the-historic-slump/articleshow/132089828.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/binance-intercepts-10-5-billion-in-frauds-using-ai-invests-300-million-per-year-in-compliance/articleshow/132089729.cms",
+    "category": "finance",
+    "title": "Binance intercepts $10.5 billion in frauds using AI, invests $300 million per year in compliance",
+    "summary": "Binance said its AI-powered compliance systems intercepted $10.53 billion in potential fraud between 2025 and the first quarter of 2026, while the crypto exchange invests around $300 million annually in compliance. The company said the spending suppo",
+    "image": "https://img.etimg.com/photo/msid-132089729,imgsize-7044.cms",
+    "source": "ET",
+    "pubDate": "Tue, 30 Jun 2026 14:58:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/binance-intercepts-10-5-billion-in-frauds-using-ai-invests-300-million-per-year-in-compliance/articleshow/132089729.cms"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o#0",
     "category": "global",
-    "title": "Parcel bomb injures Ukrainian oligarch and family in Monaco - reports",
+    "title": "Manhunt under way in France after bomb injures Ukrainian oligarch and family in Monaco",
     "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Tue, 30 Jun 2026 06:28:18 GMT",
+    "pubDate": "Tue, 30 Jun 2026 11:36:05 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1543666.html",
+    "category": "sports",
+    "title": "Prime Minister's XI game moved to Melbourne as England warm-up to 150th anniversary Test",
+    "summary": "The floodlit match at Junction Oval will be the first time the fixture has not been held in Canberra",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/391900/391944.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 30 Jun 2026 11:00:47 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1543666.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/weather/articles/cql14kwex2wo#0",
+    "category": "global",
+    "title": "Another UK heatwave could be on the way",
+    "summary": "As parts of Europe continue to swelter in record temperatures, higher temperatures could develop again across the UK later this week, as Simon King explains.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 30 Jun 2026 10:33:03 GMT",
+    "link": "https://www.bbc.co.uk/weather/articles/cql14kwex2wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1543670.html",
+    "category": "sports",
+    "title": "No time to analyse for India, England as T20I series awaits",
+    "summary": "While Sooryavanshi still waits for his T20I debut, Archer is unlikely to play the first T20I",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419100/419182.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 30 Jun 2026 10:22:08 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1543670.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cddlgqlm7q2o#0",
+    "category": "global",
+    "title": "Refugees would be told to repay around \u00a310,000 under new asylum bill",
+    "summary": "The Home Office will be given powers to recover costs from adults who have received asylum support under new laws.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 30 Jun 2026 09:00:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cddlgqlm7q2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1543631.html",
+    "category": "sports",
+    "title": "India drop Yastika Bhatia and pick G Kamalini for Asian Games",
+    "summary": "Shreyanka Patil has been named in the squad pending a fitness clearance",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/411200/411237.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 30 Jun 2026 08:52:54 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1543631.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5yzqw9erq0o#0",
+    "category": "global",
+    "title": "Man charged with attempted murder and arson following Belfast disorder",
+    "summary": "The 29-year-old was arrested on Monday in connection with a glider bus which was set on fire on 9 June.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 30 Jun 2026 08:45:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzqw9erq0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cdr4env2v14o#0",
@@ -200,19 +260,9 @@
     "link": "https://www.bbc.co.uk/news/articles/c5yzlnp6p52o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1543631.html",
-    "category": "sports",
-    "title": "India drop Yastika Bhatia and pick G Kamalini for Asian Games",
-    "summary": "Shreyanka Patil has been named in the squad pending a fitness clearance",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/411200/411237.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 30 Jun 2026 04:59:01 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543631.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo#0",
     "category": "global",
-    "title": "'No rescuers have been sent'; Venezuelans accuse government of negligence over earthquake response",
+    "title": "'No rescuers have been sent': Venezuelans accuse government of negligence over earthquake response",
     "summary": "People in areas devastated by twin earthquakes say they need more support from the government.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -258,36 +308,6 @@
     "source": "VentureBeat",
     "pubDate": "Thu, 22 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/crkvr3xjxx3o#0",
-    "category": "global",
-    "title": "Chris Mason: Burnham revels on public stage but has little time to hammer ideas into shape",
-    "summary": "As a man who has held prime ministerial ambitions for years, Andy Burnham makes his dash for the door, political editor Chris Mason writes.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 29 Jun 2026 23:46:54 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crkvr3xjxx3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/weather/articles/cql14kwex2wo#0",
-    "category": "global",
-    "title": "Another UK heatwave could be on the way",
-    "summary": "As parts of Europe continue to swelter in record temperatures, higher temperatures could develop again across the UK later this week, as Simon King explains.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 29 Jun 2026 23:03:06 GMT",
-    "link": "https://www.bbc.co.uk/weather/articles/cql14kwex2wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cddlgqlm7q2o#0",
-    "category": "global",
-    "title": "Refugees will be told to repay up to \u00a310,000 under new asylum rules",
-    "summary": "Ministers will be given powers to recover costs from adults who have received asylum support under new laws.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 29 Jun 2026 21:31:48 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cddlgqlm7q2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o#0",
@@ -338,26 +358,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 29 Jun 2026 16:20:45 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1543616.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1543613.html",
-    "category": "sports",
-    "title": "Brendon McCullum on coaching future: 'Commitment to England has never wavered'",
-    "summary": "Head coach says he's still energised by role, despite overseeing seven defeats in nine Tests",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419100/419195.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 29 Jun 2026 15:46:25 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543613.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1543595.html",
-    "category": "sports",
-    "title": "New Zealand seal famous come-from-behind series with 160-run rout",
-    "summary": "Root run-out showcases brilliance of tourists as they claim 2-1 victory to spoil Stokes' farewell",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419100/419193.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 29 Jun 2026 14:57:06 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543595.html?ex_cid=OTC-RSS"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
