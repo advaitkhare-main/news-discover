@@ -20,16 +20,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/weather/articles/c4gyjvpl4eno#0",
-    "category": "global",
-    "title": "Third UK heatwave increasingly likely as 30C temperatures forecast",
-    "summary": "Temperatures are forecast to climb throughout the weekend, potentially leading to a heatwave being declared in parts of the UK",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 01 Jul 2026 23:04:50 GMT",
-    "link": "https://www.bbc.co.uk/weather/articles/c4gyjvpl4eno?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "5M2gv6mk7MEHXAvBa4H7z0",
     "category": "scitech",
     "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
@@ -60,174 +50,234 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/india-news/que-sera-sera-manish-tewari-after-being-left-out-of-congress-team-punjab-11716947#publisher=newsstand",
-    "category": "india",
-    "title": "\"Que Sera Sera...\": Manish Tewari After Being Left Out Of Congress' Team Punjab",
-    "summary": "\"Wish I had a cure for people's insecurities,\" Manish Tewari posted on X",
-    "image": "https://c.ndtvimg.com/2026-06/vi3h5flk_manish-tewari-_625x300_07_June_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Jul 2026 16:13:50 +0530",
-    "link": "https://www.ndtv.com/india-news/que-sera-sera-manish-tewari-after-being-left-out-of-congress-team-punjab-11716947#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/navy-thwarts-piracy-bid-against-ship-carrying-vital-cargo-for-india-11717560#publisher=newsstand",
-    "category": "india",
-    "title": "Navy Thwarts Piracy Bid Against Ship Carrying Vital Cargo For India",
-    "summary": "Indian Navy warship INS Trikand prevented a piracy attack on merchant vessel MV Golden Arsenal off the Gulf of Aden.",
-    "image": "https://c.ndtvimg.com/2026-07/vb1lipug_mv-golden-arsenal-piracy-attempt_625x300_02_July_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Jul 2026 16:11:07 +0530",
-    "link": "https://www.ndtv.com/india-news/navy-thwarts-piracy-bid-against-ship-carrying-vital-cargo-for-india-11717560#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/must-quit-sena-deputy-mayor-blames-bjp-mayor-for-mumbai-manhole-death-11717532#publisher=newsstand",
-    "category": "india",
-    "title": "'Must Quit': Sena Deputy Mayor Blames BJP Mayor For Mumbai Manhole Death",
-    "summary": "Deputy Mayor Sanjay Ghadi is targeting Mayor Ritu Tawde",
-    "image": "https://c.ndtvimg.com/2026-07/e3g0vbcg_mayor_625x300_02_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Jul 2026 16:08:12 +0530",
-    "link": "https://www.ndtv.com/india-news/must-quit-sena-deputy-mayor-blames-bjp-mayor-for-mumbai-manhole-death-11717532#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/isro-gets-bomb-threat-mail-sent-to-chairman-11717474#publisher=newsstand",
-    "category": "india",
-    "title": "ISRO Gets Bomb Threat, Mail Sent To Chairman",
-    "summary": "Police are investigating the matter.",
-    "image": "https://c.ndtvimg.com/2023-07/7oaur3bc_isro-generic-reuters_625x300_27_July_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Jul 2026 16:07:57 +0530",
-    "link": "https://www.ndtv.com/india-news/isro-gets-bomb-threat-mail-sent-to-chairman-11717474#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/exam-body-nta-responds-to-claims-of-50-spelling-errors-repeated-questions-in-ugc-net-11717400#publisher=newsstand",
-    "category": "india",
-    "title": "UGC-NET 2026: Exam Body Reacts To Claims Of Spelling Errors, Repeated Questions",
-    "summary": "UGC-NET 2026: The official said the agency would examine all genuine objections raised by candidates.",
-    "image": "https://c.ndtvimg.com/2026-07/g88gh13o_-ugcnet_625x300_02_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Jul 2026 16:04:07 +0530",
-    "link": "https://www.ndtv.com/education/exam-body-nta-responds-to-claims-of-50-spelling-errors-repeated-questions-in-ugc-net-11717400#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/pilot-who-crashed-plane-into-beijing-building-wrote-about-suicide-in-diary-11717502#publisher=newsstand",
-    "category": "india",
-    "title": "Pilot Who Crashed Plane Into Beijing Building Wrote About Suicide In Diary",
-    "summary": "The plane crash raised questions about aviation safety in tightly secured Beijing.",
-    "image": "https://c.ndtvimg.com/2026-06/doprn238_china_625x300_26_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Jul 2026 15:59:45 +0530",
-    "link": "https://www.ndtv.com/world-news/pilot-who-crashed-plane-into-beijing-building-wrote-about-suicide-in-diary-11717502#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/nris-looking-to-park-your-dollars-ujjivan-sfb-offers-7-5-dbs-up-to-5-6-on-fcnr-deposits/articleshow/132136210.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/macritchie-to-sell-up-to-200-million-stake-in-indias-pb-fintech-term-sheet-shows/articleshow/132140824.cms",
     "category": "finance",
-    "title": "NRIs looking to park your dollars? Ujjivan SFB offers 7.5%, DBS up to 5.6% on FCNR deposits",
-    "summary": "Banks are raising returns on FCNR(B) deposits after the RBI eased norms to attract foreign currency inflows. Ujjivan Small Finance Bank now offers 7.5% on 3\u20135-year USD FCNR deposits, while DBS Bank India provides up to 5.6%, giving NRIs more attracti",
-    "image": "https://img.etimg.com/photo/msid-132136210,imgsize-67756.cms",
+    "title": "MacRitchie to sell up to $200 million stake in India's PB Fintech, term sheet shows",
+    "summary": "MacRitchie Investments is set to divest up to $200 million in PB Fintech, the parent company of Policybazaar and Paisabazaar. This move involves selling approximately 2.6% of the company's outstanding shares, with a floor price of 1,604 rupees per sh",
+    "image": "https://img.etimg.com/photo/msid-132140824,imgsize-36400.cms",
     "source": "ET",
-    "pubDate": "Thu, 02 Jul 2026 15:56:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/nris-looking-to-park-your-dollars-ujjivan-sfb-offers-7-5-dbs-up-to-5-6-on-fcnr-deposits/articleshow/132136210.cms"
+    "pubDate": "Thu, 02 Jul 2026 19:53:04 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/macritchie-to-sell-up-to-200-million-stake-in-indias-pb-fintech-term-sheet-shows/articleshow/132140824.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/merchant-arbitrage-flows-extend-rupees-losing-streak-even-as-dollar-slumps/articleshow/132136153.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/two-wheeler-exports-and-ev-adoption-signal-strong-consumer-resilience-sachin-relekar-axis-mf/articleshow/132140732.cms",
     "category": "finance",
-    "title": "Merchant, arbitrage flows extend rupee's losing streak even as dollar slumps",
-    "summary": "The Indian rupee weakened for the fourth straight session against the dollar on Thursday, despite a weaker dollar and likely central bank intervention. Market flows for arbitrage and merchant payments pressured the currency, which retreated from an e",
-    "image": "https://img.etimg.com/photo/msid-132136153,imgsize-33218.cms",
+    "title": "Two-wheeler exports and EV adoption signal strong consumer resilience: Sachin Relekar, Axis MF",
+    "summary": "Indian consumer demand shows surprising strength, with auto sales exceeding expectations across both traditional and electric vehicles.  Exports, particularly in two-wheelers, are a key growth driver.  Fund manager Sachin Relekar sees opportunities i",
+    "image": "https://img.etimg.com/photo/msid-132140732,imgsize-109648.cms",
     "source": "ET",
-    "pubDate": "Thu, 02 Jul 2026 15:54:22 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/merchant-arbitrage-flows-extend-rupees-losing-streak-even-as-dollar-slumps/articleshow/132136153.cms"
+    "pubDate": "Thu, 02 Jul 2026 19:45:06 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/two-wheeler-exports-and-ev-adoption-signal-strong-consumer-resilience-sachin-relekar-axis-mf/articleshow/132140732.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/citi-becomes-no-1-investment-banker-in-india-earns-60-million-in-last-6-months-lseg/articleshow/132136080.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-launches-qip-sets-floor-price-at-rs-3034-68-per-share/articleshow/132140272.cms",
     "category": "finance",
-    "title": "Citi becomes No. 1 investment banker in India, earns $60 million in last 6 months: LSEG",
-    "summary": "The jump gives Citi a 9.8% wallet share of India's total investment banking fee pool, which itself shrank 20% year-on-year to $614.1 million in the first half.",
-    "image": "https://img.etimg.com/photo/msid-132136080,imgsize-18944.cms",
+    "title": "Adani Enterprises launches QIP, sets floor price at Rs 3,034.68 per share",
+    "summary": "Adani Enterprises launched its qualified institutional placement to raise funds from institutional investors, fixing a floor price of Rs 3,034.68 per share. The issue follows board and shareholder approvals, with pricing to be finalised in consultati",
+    "image": "https://img.etimg.com/photo/msid-132140272,imgsize-59092.cms",
     "source": "ET",
-    "pubDate": "Thu, 02 Jul 2026 15:50:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/citi-becomes-no-1-investment-banker-in-india-earns-60-million-in-last-6-months-lseg/articleshow/132136080.cms"
+    "pubDate": "Thu, 02 Jul 2026 19:05:56 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-launches-qip-sets-floor-price-at-rs-3034-68-per-share/articleshow/132140272.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/mumbai-rain-monsoon-man-missing-after-falling-into-manhole-amid-rain-in-mumbai-rescue-ops-on-11717094#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-rise-as-softer-jobs-data-calms-rate-hike-fears/articleshow/132140227.cms",
+    "category": "finance",
+    "title": "US stocks today: US stocks rise as softer jobs data calms rate-hike fears",
+    "summary": "US markets climbed after June hiring slowed more than expected, easing fears of further Fed tightening. The data pointed to a cooling but resilient labour market, lifting sentiment across sectors while prompting investors to reassess rate outlook and",
+    "image": "https://img.etimg.com/photo/msid-132140227,imgsize-121932.cms",
+    "source": "ET",
+    "pubDate": "Thu, 02 Jul 2026 19:05:45 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-rise-as-softer-jobs-data-calms-rate-hike-fears/articleshow/132140227.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/fake-marriage-racket-busted-in-delhi-3-arrested-police-11718538#publisher=newsstand",
     "category": "india",
-    "title": "Man Drowns After Falling Into Manhole Amid Heavy Rain In Mumbai",
-    "summary": "The incident took place on the Khairani Road",
-    "image": "https://c.ndtvimg.com/2026-07/8cbrm93_mumbai-rain_625x300_02_July_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Fake Marriage Racket Busted In Delhi, 3 Arrested: Police",
+    "summary": "Police said efforts are underway to arrest three other accused.",
+    "image": "https://c.ndtvimg.com/2019-05/fkcrjpmg_delhi-police-generic_625x300_27_May_19.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 02 Jul 2026 15:35:06 +0530",
-    "link": "https://www.ndtv.com/india-news/mumbai-rain-monsoon-man-missing-after-falling-into-manhole-amid-rain-in-mumbai-rescue-ops-on-11717094#publisher=newsstand"
+    "pubDate": "Thu, 02 Jul 2026 19:01:44 +0530",
+    "link": "https://www.ndtv.com/india-news/fake-marriage-racket-busted-in-delhi-3-arrested-police-11718538#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-2-july-us-iran-deal-oil-prices-11715636#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/speed-quality-experts-on-what-india-japan-manufacturing-partnership-needs-11718164#publisher=newsstand",
     "category": "india",
-    "title": "Stock Market Highlights, Sensex Today: Sensex Settles 579 Points Higher As Crude Oil Eases Further",
-    "summary": "Sensex Today, Stock Market, Nifty, Share Market Highlights",
-    "image": "https://c.ndtvimg.com/2026-04/3tjoh4c_stock-market-closing-today_625x300_21_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Speed, Quality: Experts On What India-Japan Manufacturing Partnership Needs",
+    "summary": "Industry leaders said India has the potential to become Japan's preferred manufacturing base.",
+    "image": "https://c.ndtvimg.com/2026-07/7t9l6hrg_indo-japan_625x300_02_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 02 Jul 2026 15:33:19 +0530",
-    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-2-july-us-iran-deal-oil-prices-11715636#publisher=newsstand"
+    "pubDate": "Thu, 02 Jul 2026 19:00:06 +0530",
+    "link": "https://www.ndtv.com/world-news/speed-quality-experts-on-what-india-japan-manufacturing-partnership-needs-11718164#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/nifty-eyes-24500-24800-in-july-as-crude-cools-and-fii-selling-slows-buy-the-dip-towards-2360023800-dharmesh-shah/articleshow/132135426.cms",
+    "id": "https://www.ndtv.com/world-news/israel-hamas-war-israel-marks-1-000-days-of-gaza-war-with-memorials-and-protests-11717143#publisher=newsstand",
+    "category": "india",
+    "title": "Israel Marks 1,000 Days Of Gaza War With Memorials And Protests",
+    "summary": "Israel Marks 1,000 Days Since October 7 Attacks",
+    "image": "https://c.ndtvimg.com/2023-12/resqt0ok_israel-hamas-attack-afp_625x300_01_December_23.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Jul 2026 18:56:31 +0530",
+    "link": "https://www.ndtv.com/world-news/israel-hamas-war-israel-marks-1-000-days-of-gaza-war-with-memorials-and-protests-11717143#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/air-india-express-resumes-flights-to-all-middle-east-destinations-11718466#publisher=newsstand",
+    "category": "india",
+    "title": "Air India Express Resumes Flights To All Middle East Destinations",
+    "summary": "Air India Express operates more than 500 flights daily.",
+    "image": "https://c.ndtvimg.com/2026-07/5p8p8s7k_air-india-express_625x300_02_July_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Jul 2026 18:54:37 +0530",
+    "link": "https://www.ndtv.com/india-news/air-india-express-resumes-flights-to-all-middle-east-destinations-11718466#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/after-delhi-metro-success-india-japan-to-focus-on-ai-chip-manufacturing-11717740#publisher=newsstand",
+    "category": "india",
+    "title": "After Delhi Metro Success, India, Japan To Focus On AI, Chip Manufacturing",
+    "summary": "JICA Senior Representative Yosuke Sato said that India is Japan's biggest development partner.",
+    "image": "https://c.ndtvimg.com/2026-07/jaajkjfg_indo-japan_625x300_02_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Jul 2026 18:54:13 +0530",
+    "link": "https://www.ndtv.com/world-news/after-delhi-metro-success-india-japan-to-focus-on-ai-chip-manufacturing-11717740#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/kerala-man-suffers-heart-attack-in-traffic-2-nurses-jump-off-bus-save-him-11718459#publisher=newsstand",
+    "category": "india",
+    "title": "Kerala Man Suffers Heart Attack In Traffic. 2 Nurses Jump Off Bus, Save Him",
+    "summary": "The timely intervention by the nurses and the assistance of bystanders have drawn appreciation.",
+    "image": "https://c.ndtvimg.com/2026-07/ks0ue9i8_kerala-nurse_625x300_02_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Jul 2026 18:46:41 +0530",
+    "link": "https://www.ndtv.com/india-news/kerala-man-suffers-heart-attack-in-traffic-2-nurses-jump-off-bus-save-him-11718459#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/why-physical-education-is-becoming-a-key-driver-of-attendance-in-public-schools-11718425#publisher=newsstand",
+    "category": "india",
+    "title": "Why Physical Education Is Becoming A Key Driver Of Attendance In Public Schools",
+    "summary": "The renewed focus comes as educators continue to search for ways to address absenteeism.",
+    "image": "https://c.ndtvimg.com/2026-07/fure9qs4_physical-education-_625x300_02_July_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Jul 2026 18:40:13 +0530",
+    "link": "https://www.ndtv.com/education/why-physical-education-is-becoming-a-key-driver-of-attendance-in-public-schools-11718425#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/why-pm-modi-called-japan-pm-sanae-takaichi-his-younger-sister-11718239#publisher=newsstand",
+    "category": "india",
+    "title": "Why PM Modi Called Japan PM Sanae Takaichi His \"Younger Sister\"",
+    "summary": "The remark also echoed an earlier interaction between them.",
+    "image": "https://c.ndtvimg.com/2026-07/nedg9up_pm-modipm-sanae-takaichi_625x300_02_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Jul 2026 18:34:13 +0530",
+    "link": "https://www.ndtv.com/india-news/why-pm-modi-called-japan-pm-sanae-takaichi-his-younger-sister-11718239#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-q1-update-sales-jump-46-jlr-volumes-hit-by-supply-disruptions-and-middle-east-conflict/articleshow/132139701.cms",
     "category": "finance",
-    "title": "Nifty eyes 24,500-24,800 in July as crude cools and FII selling slows; buy the dip towards 23,600\u201323,800: Dharmesh Shah",
-    "summary": "Indian equity markets are poised for further gains, with Nifty expected to target 24,500-24,800 by July. ICICI Direct's Dharmesh Shah advises investors to \"buy the dip\" as key support at 23,800 holds firm. Favorable macro factors like easing crude oi",
-    "image": "https://img.etimg.com/photo/msid-132135426,imgsize-395700.cms",
+    "title": "Tata Motors PV Q1 update: Sales jump 46%; JLR volumes hit by supply disruptions and Middle East conflict",
+    "summary": "Tata Motors reported a 46% rise in passenger vehicle sales for the June quarter, driven by strong demand and record EV sales. However, Jaguar Land Rover posted lower volumes due to supply disruptions, geopolitical challenges and the planned Jaguar mo",
+    "image": "https://img.etimg.com/photo/msid-132139701,imgsize-49968.cms",
     "source": "ET",
-    "pubDate": "Thu, 02 Jul 2026 15:31:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/nifty-eyes-24500-24800-in-july-as-crude-cools-and-fii-selling-slows-buy-the-dip-towards-2360023800-dharmesh-shah/articleshow/132135426.cms"
+    "pubDate": "Thu, 02 Jul 2026 18:29:16 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-q1-update-sales-jump-46-jlr-volumes-hit-by-supply-disruptions-and-middle-east-conflict/articleshow/132139701.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/blinkit-to-remain-undisputed-market-leader-despite-amazon-flipkarts-qc-entry-says-anand-rathi-sees-43-upside/articleshow/132134798.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-francois-rochon-people-always-have-this-emotional-relationship-with-stocks-and-once-they-have-been-bitten-by-something-it-takes-a-while-to-get-back-into-it/articleshow/132129240.cms",
     "category": "finance",
-    "title": "Blinkit to remain undisputed market leader despite Amazon, Flipkart's QC entry, says Anand Rathi, sees 43% upside",
-    "summary": "Despite concerns over Amazon and Flipkart intensifying competition in India's quick commerce market, Anand Rathi believes Blinkit remains the clear market leader due to its scale, strong customer retention and limited reliance on heavy discounts. The",
-    "image": "https://img.etimg.com/photo/msid-132134798,imgsize-133897.cms",
+    "title": "Quote of the day by Francois Rochon: \"People always have this emotional relationship with stocks, and once they have bee",
+    "summary": "Market losses deeply affect investors, making them hesitant to reinvest even when opportunities arise. This emotional response, known as loss aversion, can lead to missed gains during recoveries. Francois Rochon emphasizes emotional discipline, urgin",
+    "image": "https://img.etimg.com/photo/msid-132129240,imgsize-34469.cms",
     "source": "ET",
-    "pubDate": "Thu, 02 Jul 2026 14:51:10 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/blinkit-to-remain-undisputed-market-leader-despite-amazon-flipkarts-qc-entry-says-anand-rathi-sees-43-upside/articleshow/132134798.cms"
+    "pubDate": "Thu, 02 Jul 2026 18:00:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-francois-rochon-people-always-have-this-emotional-relationship-with-stocks-and-once-they-have-been-bitten-by-something-it-takes-a-while-to-get-back-into-it/articleshow/132129240.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-slip-nearly-7-this-week-after-212-rally-is-this-multibagger-a-buy-on-dips/articleshow/132134685.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/no-longer-magnificent-how-apple-microsoft-and-other-mag-7-stocks-are-crumbling-under-ai-pressure/articleshow/132139180.cms",
     "category": "finance",
-    "title": "HFCL shares slip nearly 7% this week after 212% rally. Is this multibagger a buy on dips?",
-    "summary": "HFCL shares have slipped after a stellar 212% rally this year, as investors booked profits despite improving fundamentals. Analysts remain constructive, citing strong technical support, a record order book, expanding defence and export businesses, an",
-    "image": "https://img.etimg.com/photo/msid-132134685,imgsize-44406.cms",
+    "title": "No longer magnificent? How Apple, Microsoft and other Mag 7 stocks are crumbling under AI pressure",
+    "summary": "The Magnificent Seven are underperforming as investors question whether massive AI spending will generate adequate returns. With $2.3 trillion erased in June, markets are shifting focus from AI hype to profitability, free cash flow and monetisation a",
+    "image": "https://img.etimg.com/photo/msid-132139180,imgsize-38456.cms",
     "source": "ET",
-    "pubDate": "Thu, 02 Jul 2026 14:44:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-slip-nearly-7-this-week-after-212-rally-is-this-multibagger-a-buy-on-dips/articleshow/132134685.cms"
+    "pubDate": "Thu, 02 Jul 2026 17:53:52 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/no-longer-magnificent-how-apple-microsoft-and-other-mag-7-stocks-are-crumbling-under-ai-pressure/articleshow/132139180.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/swara-baby-files-drhp-with-sebi-for-rs-1000-crore-ipo/articleshow/132134629.cms",
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-construction-spending-inches-up-in-may-but-homebuilding-weak/articleshow/132139099.cms",
     "category": "finance",
-    "title": "Swara Baby files DRHP with Sebi for Rs 1,000 crore IPO",
-    "summary": "Swara Baby has filed its DRHP with Sebi for a Rs 1,000 crore IPO, comprising a Rs 500 crore fresh issue and Rs 500 crore OFS. The hygiene products manufacturer plans to use proceeds for capacity expansion, debt repayment, and acquisitions as it taps ",
-    "image": "https://img.etimg.com/photo/msid-132134629,imgsize-29137.cms",
+    "title": "US construction spending inches up in May, but homebuilding weak",
+    "summary": "In May, US construction spending edged up by a mere 0.1%, influenced by increased mortgage rates partly due to tensions in the Middle East. While there was a slight boost in residential renovations, new single-family housing projects saw a downturn. ",
+    "image": "https://img.etimg.com/photo/msid-132139099,imgsize-68018.cms",
     "source": "ET",
-    "pubDate": "Thu, 02 Jul 2026 14:41:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/swara-baby-files-drhp-with-sebi-for-rs-1000-crore-ipo/articleshow/132134629.cms"
+    "pubDate": "Thu, 02 Jul 2026 17:49:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-construction-spending-inches-up-in-may-but-homebuilding-weak/articleshow/132139099.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/indias-hidden-semiconductor-advantage-whats-next-in-the-chip-journey/articleshow/132134290.cms",
-    "category": "finance",
-    "title": "India's hidden semiconductor advantage: What's next in the chip journey?",
-    "summary": "As India accelerates its semiconductor ambitions with a proposed second-phase incentive programme, Equirus says the country is well positioned to evolve from a global chip design hub into a full-stack semiconductor ecosystem. However, it cautions tha",
-    "image": "https://img.etimg.com/photo/msid-132134290,imgsize-45350.cms",
-    "source": "ET",
-    "pubDate": "Thu, 02 Jul 2026 14:34:29 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-hidden-semiconductor-advantage-whats-next-in-the-chip-journey/articleshow/132134290.cms"
+    "id": "https://www.cricinfo.com/ci/content/story/1544068.html",
+    "category": "sports",
+    "title": "Sri Lanka look for hope as Hope returns for upbeat West Indies",
+    "summary": "Sri Lanka need their batters to fire against the West Indies quicks",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/409900/409996.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 02 Jul 2026 14:54:08 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544068.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c4gyx0vldrlo#0",
+    "id": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o#0",
     "category": "global",
-    "title": "Grooming gang leader released from prison",
-    "summary": "Shabir Ahmed, known as 'Daddy' by his victims, was jailed for a total of 22 years in August 2012.",
+    "title": "Government may now allow pubs to extend hours for 1am England clash",
+    "summary": "The government had initially said it would not relax licensing laws further than they already have been for the World Cup.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 02 Jul 2026 12:01:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4gyx0vldrlo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 02 Jul 2026 14:44:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ce375v12z0qo#0",
+    "category": "global",
+    "title": "Venezuela quake survivor pulled out alive after eight days",
+    "summary": "Hern\u00e1n Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Jul 2026 14:11:50 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c2lywez0zddo#0",
+    "category": "global",
+    "title": "Gary Glitter charged with historical sexual offences",
+    "summary": "The former singer, whose real name is Paul Gadd, is due to appear at Westminster Magistrates' Court on 5 August.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Jul 2026 13:42:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c2lywez0zddo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1544003.html",
+    "category": "sports",
+    "title": "Yash Thakur, Saransh Jain make inroads for India A",
+    "summary": "Sri Lanka A captain Sahan Arachchige held fort for the hosts with an unbeaten 83",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419200/419270.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 02 Jul 2026 13:34:10 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544003.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1543995.html",
+    "category": "sports",
+    "title": "Ashwin: ETPL crucial in making cricket a global sport",
+    "summary": "The former India allrounder believes that a short format like T20 cricket is key to the sport's success in Europe and beyond, including at the LA Olympics in 2028",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/400400/400450.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 02 Jul 2026 13:25:33 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1543995.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro#0",
+    "category": "global",
+    "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
+    "summary": "Sarah Rainsford reports from the completely destroyed nine-storey block of flats in Ukraine's capital.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Jul 2026 12:37:02 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo#0",
@@ -236,13 +286,13 @@
     "summary": "In his first-ever interview, Morgan McSweeney tells the BBC the party did not deliver quickly enough in office.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 02 Jul 2026 12:00:21 GMT",
+    "pubDate": "Thu, 02 Jul 2026 12:23:14 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/c20yq332018o#0",
     "category": "global",
-    "title": "Forced adoptions 'a stain on our history' says Starmer as he gives formal apology",
+    "title": "'The shame is not yours': Starmer apologises for state's role in forced adoptions",
     "summary": "The practice saw thousands of babies taken from their mothers between 1949 and 1976.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -270,36 +320,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1543991.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/ce375v12z0qo#0",
-    "category": "global",
-    "title": "Survivor buried by Venezuela quakes eight days ago is cheering rescuers on",
-    "summary": "Emergency workers have been trying to free Hern\u00e1n Gil, who has been given an intravenous drip, for more than 100 hours.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Jul 2026 11:31:19 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1543782.html",
-    "category": "sports",
-    "title": "ETPL: Ashwin joins Dublin Guardians as captain and mentor",
-    "summary": "Faf du Plessis, Donovan Ferreira, Mitchell Marsh, Tim David are among other direct acquisitions",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418700/418708.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 02 Jul 2026 11:04:23 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543782.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1543790.html",
-    "category": "sports",
-    "title": "Crocombe to join Surrey from 2027 as Sussex exodus continues",
-    "summary": "Highly-rated fast bowler featured in England's Test squad at The Oval last month",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/387700/387714.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 02 Jul 2026 10:49:51 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543790.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1543928.html",
     "category": "sports",
     "title": "WBBL still 'the best' competition despite growth of WPL and Hundred",
@@ -320,16 +340,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1543987.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o#0",
-    "category": "global",
-    "title": "Google must pay \u20ac4.1bn fine for using Android to 'block' rivals",
-    "summary": "A Google spokesperson said the judgement \"fails to recognise\" the firm's \"significant investment to ensure Android remains open.\"",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Jul 2026 09:46:11 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1543936.html",
     "category": "sports",
     "title": "Netravalkar, Owen bowl Washington Freedom to big win",
@@ -348,16 +358,6 @@
     "source": "BBC",
     "pubDate": "Thu, 02 Jul 2026 05:00:03 GMT",
     "link": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1543929.html",
-    "category": "sports",
-    "title": "Lister replaces injured Sears for ODI series in the West Indies",
-    "summary": "Ben Sears, who has complained of pain in his ankle since the Test against Ireland in May, has been sent home for treatment",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/365600/365679.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 02 Jul 2026 04:06:05 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543929.html?ex_cid=OTC-RSS"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
