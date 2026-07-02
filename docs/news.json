@@ -10,16 +10,6 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cqj19p112qjo#0",
-    "category": "global",
-    "title": "From friendship bracelets to wedding rings: A Taylor and Travis timeline",
-    "summary": "Taylor Swift and Travis Kelce are expected to celebrate their wedding with a party at New York's Madison Square Garden this weekend.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 01 Jul 2026 23:08:20 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "5M2gv6mk7MEHXAvBa4H7z0",
     "category": "scitech",
     "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
@@ -48,6 +38,126 @@
     "source": "VentureBeat",
     "pubDate": "Thu, 22 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-micron-intel-and-other-chip-stocks-fall-up-to-11-after-record-breaking-rally/articleshow/132142872.cms",
+    "category": "finance",
+    "title": "US Stocks: Micron, Intel and other chip stocks fall up to 11% after record-breaking rally",
+    "summary": "Chip stocks experienced a significant downturn, with major AI rally leaders seeing sharp profit-taking after a record quarter.  The VanEck Semiconductor ETF plunged over 5%, led by Micron, Intel, and AMD.  Concerns over potential AI computing oversup",
+    "image": "https://img.etimg.com/photo/msid-132142872,imgsize-128848.cms",
+    "source": "ET",
+    "pubDate": "Thu, 02 Jul 2026 22:26:53 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-micron-intel-and-other-chip-stocks-fall-up-to-11-after-record-breaking-rally/articleshow/132142872.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/mla-convicted-disqualified-prestige-fight-ahead-in-madhya-pradesh-by-polls-11719537#publisher=newsstand",
+    "category": "india",
+    "title": "MLA Disqualified, Bypoll In Madhya Pradesh's Datia To See Prestige Fight",
+    "summary": "Congress leaders believe that fielding Arjun can help consolidate sympathy votes.",
+    "image": "https://c.ndtvimg.com/2026-07/sceaqfsk_datia-bypoll-_625x300_02_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Jul 2026 22:24:29 +0530",
+    "link": "https://www.ndtv.com/india-news/mla-convicted-disqualified-prestige-fight-ahead-in-madhya-pradesh-by-polls-11719537#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/strong-indicators-show-indias-economic-resilience-amid-global-uncertainties-11719528#publisher=newsstand",
+    "category": "india",
+    "title": "Strong Indicators Show India's Economic Resilience Amid Global Uncertainties",
+    "summary": "Several high-frequency indicators also reflect the Indian economy's performance.",
+    "image": "https://c.ndtvimg.com/2025-11/sdq8cegg_indian-economy_625x300_25_November_25.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Jul 2026 22:18:41 +0530",
+    "link": "https://www.ndtv.com/india-news/strong-indicators-show-indias-economic-resilience-amid-global-uncertainties-11719528#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/kerala-man-suffers-heart-attack-in-traffic-2-nurses-jump-off-bus-save-him-11718459#publisher=newsstand",
+    "category": "india",
+    "title": "Kerala Man Suffers Heart Attack In Traffic. 2 Nurses Jump Off Bus, Give CPR",
+    "summary": "The timely intervention by the nurses and the assistance of bystanders have drawn appreciation.",
+    "image": "https://c.ndtvimg.com/2026-07/ks0ue9i8_kerala-nurse_625x300_02_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Jul 2026 22:03:48 +0530",
+    "link": "https://www.ndtv.com/india-news/kerala-man-suffers-heart-attack-in-traffic-2-nurses-jump-off-bus-save-him-11718459#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/after-whatsapp-centre-sends-notices-to-telegram-signal-over-usernames-sources-11719355#publisher=newsstand",
+    "category": "india",
+    "title": "After WhatsApp, Centre Sends Notices To Telegram, Signal Over Usernames: Sources",
+    "summary": "The government is concerned that with the introduction of usernames -- meant to keep phone numbers private -- there will be a spurt in online impersonation, fraud and digital arrests.",
+    "image": "https://c.ndtvimg.com/2026-06/pnsmhomg_whatsapp_625x300_30_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Jul 2026 21:59:35 +0530",
+    "link": "https://www.ndtv.com/india-news/after-whatsapp-centre-sends-notices-to-telegram-signal-over-usernames-sources-11719355#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/man-explains-move-back-to-india-after-10-years-in-germany-surprised-many-11719392#publisher=newsstand",
+    "category": "india",
+    "title": "Man Explains Move Back To India After 10 Years In Germany: \"Surprised Many\"",
+    "summary": "He said India was \"calling back\".",
+    "image": "https://c.ndtvimg.com/2026-07/gsi0hhjk_germany_625x300_02_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Jul 2026 21:50:37 +0530",
+    "link": "https://www.ndtv.com/offbeat/man-explains-move-back-to-india-after-10-years-in-germany-surprised-many-11719392#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/they-are-using-ethanol-in-racing-cars-oil-minister-hardeep-puri-11719378#publisher=newsstand",
+    "category": "india",
+    "title": "\"They Are Using Ethanol In Racing Cars\": Oil Minister Hardeep Puri",
+    "summary": "Asked about potential cuts in retail fuel prices, Puri described the prospect as hypothetical for now.",
+    "image": "https://c.ndtvimg.com/2026-06/hemt335_hardeep-puri_625x300_08_June_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Jul 2026 21:45:59 +0530",
+    "link": "https://www.ndtv.com/india-news/they-are-using-ethanol-in-racing-cars-oil-minister-hardeep-puri-11719378#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/us-markets/tesla-reports-strong-delivery-and-production-figures-but-stock-falls-over-6-11719308#publisher=newsstand",
+    "category": "india",
+    "title": "Tesla Stock Falls Over 6% Even As EV Maker Reports Strong Q2 Sales Figures",
+    "summary": "Tesla\u2019s total Q2 production was 451,758 vehicles.",
+    "image": "https://c.ndtvimg.com/2026-05/dnc2fo4o_-tesla-model-y-premium-rwd_625x300_29_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Jul 2026 21:34:36 +0530",
+    "link": "https://www.ndtv.com/us-markets/tesla-reports-strong-delivery-and-production-figures-but-stock-falls-over-6-11719308#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/trees-cut-ponds-destroyed-in-key-kerala-reserve-high-court-takes-note-11719317#publisher=newsstand",
+    "category": "india",
+    "title": "Trees Cut, Ponds Destroyed In Key Kerala Reserve, High Court Takes Note",
+    "summary": "The Forest Department has so far registered three separate cases.",
+    "image": "https://c.ndtvimg.com/2026-07/a9aivi2_kerala_625x300_02_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 02 Jul 2026 21:33:23 +0530",
+    "link": "https://www.ndtv.com/india-news/trees-cut-ponds-destroyed-in-key-kerala-reserve-high-court-takes-note-11719317#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/icra-cuts-utkarsh-small-finance-bank-ratings-on-weak-asset-quality/articleshow/132141926.cms",
+    "category": "finance",
+    "title": "Icra cuts Utkarsh Small Finance Bank ratings on weak asset quality",
+    "summary": "Icra downgraded Utkarsh Small Finance Bank's debt ratings, citing elevated bad loans, weak earnings and rising stress in its microfinance portfolio. High credit costs, fresh slippages and lower operating profitability weighed on the lender despite im",
+    "image": "https://img.etimg.com/photo/msid-132141926,imgsize-.cms",
+    "source": "ET",
+    "pubDate": "Thu, 02 Jul 2026 21:31:58 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/icra-cuts-utkarsh-small-finance-bank-ratings-on-weak-asset-quality/articleshow/132141926.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/132141863.cms",
+    "category": "finance",
+    "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
+    "summary": "Indian equities rallied as easing Middle East tensions pushed crude prices lower and dovish Fed remarks boosted sentiment. Sensex gained nearly 580 points, while analysts expect Q1 earnings, US jobs data and the India\u2013Japan summit to guide market dir",
+    "image": "https://img.etimg.com/photo/msid-132141863,imgsize-455926.cms",
+    "source": "ET",
+    "pubDate": "Thu, 02 Jul 2026 21:25:35 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/132141863.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-suven-life-sciences-among-2-stock-recommendations-for-friday/articleshow/132141470.cms",
+    "category": "finance",
+    "title": "Market Trading Guide: Suven Life Sciences among 2 stock recommendations for Friday",
+    "summary": "Indian markets advanced on easing crude prices and dovish Fed commentary, boosting risk appetite. Analysts recommend buying NDR Auto and Suven Life Sciences after bullish breakouts, while investors await US jobs data, the India\u2013Japan summit and Q1FY2",
+    "image": "https://img.etimg.com/photo/msid-132141470,imgsize-144128.cms",
+    "source": "ET",
+    "pubDate": "Thu, 02 Jul 2026 20:42:32 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-suven-life-sciences-among-2-stock-recommendations-for-friday/articleshow/132141470.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/macritchie-to-sell-up-to-200-million-stake-in-indias-pb-fintech-term-sheet-shows/articleshow/132140824.cms",
@@ -90,154 +200,74 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-rise-as-softer-jobs-data-calms-rate-hike-fears/articleshow/132140227.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/fake-marriage-racket-busted-in-delhi-3-arrested-police-11718538#publisher=newsstand",
-    "category": "india",
-    "title": "Fake Marriage Racket Busted In Delhi, 3 Arrested: Police",
-    "summary": "Police said efforts are underway to arrest three other accused.",
-    "image": "https://c.ndtvimg.com/2019-05/fkcrjpmg_delhi-police-generic_625x300_27_May_19.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Jul 2026 19:01:44 +0530",
-    "link": "https://www.ndtv.com/india-news/fake-marriage-racket-busted-in-delhi-3-arrested-police-11718538#publisher=newsstand"
+    "id": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o#0",
+    "category": "global",
+    "title": "Pubs allowed to stay open until 5am for England Mexico match",
+    "summary": "The government had initially said it would not relax licensing laws further for the World Cup.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Jul 2026 17:39:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/world-news/speed-quality-experts-on-what-india-japan-manufacturing-partnership-needs-11718164#publisher=newsstand",
-    "category": "india",
-    "title": "Speed, Quality: Experts On What India-Japan Manufacturing Partnership Needs",
-    "summary": "Industry leaders said India has the potential to become Japan's preferred manufacturing base.",
-    "image": "https://c.ndtvimg.com/2026-07/7t9l6hrg_indo-japan_625x300_02_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Jul 2026 19:00:06 +0530",
-    "link": "https://www.ndtv.com/world-news/speed-quality-experts-on-what-india-japan-manufacturing-partnership-needs-11718164#publisher=newsstand"
+    "id": "https://www.bbc.co.uk/news/articles/cvg53d9p18vo#0",
+    "category": "global",
+    "title": "Boys who raped teen girls given custodial sentences",
+    "summary": "Two teenage boys convicted of rape had initially been given non-custodial sentences.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Jul 2026 17:39:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvg53d9p18vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/world-news/israel-hamas-war-israel-marks-1-000-days-of-gaza-war-with-memorials-and-protests-11717143#publisher=newsstand",
-    "category": "india",
-    "title": "Israel Marks 1,000 Days Of Gaza War With Memorials And Protests",
-    "summary": "Israel Marks 1,000 Days Since October 7 Attacks",
-    "image": "https://c.ndtvimg.com/2023-12/resqt0ok_israel-hamas-attack-afp_625x300_01_December_23.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Jul 2026 18:56:31 +0530",
-    "link": "https://www.ndtv.com/world-news/israel-hamas-war-israel-marks-1-000-days-of-gaza-war-with-memorials-and-protests-11717143#publisher=newsstand"
+    "id": "https://www.cricinfo.com/ci/content/story/1544076.html",
+    "category": "sports",
+    "title": "South Africa bowl and bring in Sune Luus against England",
+    "summary": "England captain Nat Sciver-Brunt returned after recovering from a calf muscle injury, with Dunkley making way",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419200/419273.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 02 Jul 2026 17:36:52 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544076.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/india-news/air-india-express-resumes-flights-to-all-middle-east-destinations-11718466#publisher=newsstand",
-    "category": "india",
-    "title": "Air India Express Resumes Flights To All Middle East Destinations",
-    "summary": "Air India Express operates more than 500 flights daily.",
-    "image": "https://c.ndtvimg.com/2026-07/5p8p8s7k_air-india-express_625x300_02_July_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Jul 2026 18:54:37 +0530",
-    "link": "https://www.ndtv.com/india-news/air-india-express-resumes-flights-to-all-middle-east-destinations-11718466#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/after-delhi-metro-success-india-japan-to-focus-on-ai-chip-manufacturing-11717740#publisher=newsstand",
-    "category": "india",
-    "title": "After Delhi Metro Success, India, Japan To Focus On AI, Chip Manufacturing",
-    "summary": "JICA Senior Representative Yosuke Sato said that India is Japan's biggest development partner.",
-    "image": "https://c.ndtvimg.com/2026-07/jaajkjfg_indo-japan_625x300_02_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Jul 2026 18:54:13 +0530",
-    "link": "https://www.ndtv.com/world-news/after-delhi-metro-success-india-japan-to-focus-on-ai-chip-manufacturing-11717740#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/kerala-man-suffers-heart-attack-in-traffic-2-nurses-jump-off-bus-save-him-11718459#publisher=newsstand",
-    "category": "india",
-    "title": "Kerala Man Suffers Heart Attack In Traffic. 2 Nurses Jump Off Bus, Save Him",
-    "summary": "The timely intervention by the nurses and the assistance of bystanders have drawn appreciation.",
-    "image": "https://c.ndtvimg.com/2026-07/ks0ue9i8_kerala-nurse_625x300_02_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Jul 2026 18:46:41 +0530",
-    "link": "https://www.ndtv.com/india-news/kerala-man-suffers-heart-attack-in-traffic-2-nurses-jump-off-bus-save-him-11718459#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/why-physical-education-is-becoming-a-key-driver-of-attendance-in-public-schools-11718425#publisher=newsstand",
-    "category": "india",
-    "title": "Why Physical Education Is Becoming A Key Driver Of Attendance In Public Schools",
-    "summary": "The renewed focus comes as educators continue to search for ways to address absenteeism.",
-    "image": "https://c.ndtvimg.com/2026-07/fure9qs4_physical-education-_625x300_02_July_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Jul 2026 18:40:13 +0530",
-    "link": "https://www.ndtv.com/education/why-physical-education-is-becoming-a-key-driver-of-attendance-in-public-schools-11718425#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/why-pm-modi-called-japan-pm-sanae-takaichi-his-younger-sister-11718239#publisher=newsstand",
-    "category": "india",
-    "title": "Why PM Modi Called Japan PM Sanae Takaichi His \"Younger Sister\"",
-    "summary": "The remark also echoed an earlier interaction between them.",
-    "image": "https://c.ndtvimg.com/2026-07/nedg9up_pm-modipm-sanae-takaichi_625x300_02_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 02 Jul 2026 18:34:13 +0530",
-    "link": "https://www.ndtv.com/india-news/why-pm-modi-called-japan-pm-sanae-takaichi-his-younger-sister-11718239#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-q1-update-sales-jump-46-jlr-volumes-hit-by-supply-disruptions-and-middle-east-conflict/articleshow/132139701.cms",
-    "category": "finance",
-    "title": "Tata Motors PV Q1 update: Sales jump 46%; JLR volumes hit by supply disruptions and Middle East conflict",
-    "summary": "Tata Motors reported a 46% rise in passenger vehicle sales for the June quarter, driven by strong demand and record EV sales. However, Jaguar Land Rover posted lower volumes due to supply disruptions, geopolitical challenges and the planned Jaguar mo",
-    "image": "https://img.etimg.com/photo/msid-132139701,imgsize-49968.cms",
-    "source": "ET",
-    "pubDate": "Thu, 02 Jul 2026 18:29:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-q1-update-sales-jump-46-jlr-volumes-hit-by-supply-disruptions-and-middle-east-conflict/articleshow/132139701.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-francois-rochon-people-always-have-this-emotional-relationship-with-stocks-and-once-they-have-been-bitten-by-something-it-takes-a-while-to-get-back-into-it/articleshow/132129240.cms",
-    "category": "finance",
-    "title": "Quote of the day by Francois Rochon: \"People always have this emotional relationship with stocks, and once they have bee",
-    "summary": "Market losses deeply affect investors, making them hesitant to reinvest even when opportunities arise. This emotional response, known as loss aversion, can lead to missed gains during recoveries. Francois Rochon emphasizes emotional discipline, urgin",
-    "image": "https://img.etimg.com/photo/msid-132129240,imgsize-34469.cms",
-    "source": "ET",
-    "pubDate": "Thu, 02 Jul 2026 18:00:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-francois-rochon-people-always-have-this-emotional-relationship-with-stocks-and-once-they-have-been-bitten-by-something-it-takes-a-while-to-get-back-into-it/articleshow/132129240.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/no-longer-magnificent-how-apple-microsoft-and-other-mag-7-stocks-are-crumbling-under-ai-pressure/articleshow/132139180.cms",
-    "category": "finance",
-    "title": "No longer magnificent? How Apple, Microsoft and other Mag 7 stocks are crumbling under AI pressure",
-    "summary": "The Magnificent Seven are underperforming as investors question whether massive AI spending will generate adequate returns. With $2.3 trillion erased in June, markets are shifting focus from AI hype to profitability, free cash flow and monetisation a",
-    "image": "https://img.etimg.com/photo/msid-132139180,imgsize-38456.cms",
-    "source": "ET",
-    "pubDate": "Thu, 02 Jul 2026 17:53:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/no-longer-magnificent-how-apple-microsoft-and-other-mag-7-stocks-are-crumbling-under-ai-pressure/articleshow/132139180.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-construction-spending-inches-up-in-may-but-homebuilding-weak/articleshow/132139099.cms",
-    "category": "finance",
-    "title": "US construction spending inches up in May, but homebuilding weak",
-    "summary": "In May, US construction spending edged up by a mere 0.1%, influenced by increased mortgage rates partly due to tensions in the Middle East. While there was a slight boost in residential renovations, new single-family housing projects saw a downturn. ",
-    "image": "https://img.etimg.com/photo/msid-132139099,imgsize-68018.cms",
-    "source": "ET",
-    "pubDate": "Thu, 02 Jul 2026 17:49:37 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-construction-spending-inches-up-in-may-but-homebuilding-weak/articleshow/132139099.cms"
+    "id": "https://www.bbc.co.uk/news/videos/cly09x7wjpko#0",
+    "category": "global",
+    "title": "Watch: Kate gives out tickets and meets public in surprise Wimbledon visit",
+    "summary": "After greeting queuing fans and handing out tickets to attendees, the princess took a seat on court 18.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Jul 2026 16:39:35 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cly09x7wjpko?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1544068.html",
     "category": "sports",
-    "title": "Sri Lanka look for hope as Hope returns for upbeat West Indies",
+    "title": "Hope fit but Roach doubtful as WI eye series win",
     "summary": "Sri Lanka need their batters to fire against the West Indies quicks",
     "image": "http://p.imgci.com/db/PICTURES/CMS/409900/409996.jpg",
     "source": "Cricinfo",
-    "pubDate": "Thu, 02 Jul 2026 14:54:08 GMT",
+    "pubDate": "Thu, 02 Jul 2026 16:13:07 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1544068.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o#0",
-    "category": "global",
-    "title": "Government may now allow pubs to extend hours for 1am England clash",
-    "summary": "The government had initially said it would not relax licensing laws further than they already have been for the World Cup.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Jul 2026 14:44:02 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/ce375v12z0qo#0",
     "category": "global",
-    "title": "Venezuela quake survivor pulled out alive after eight days",
+    "title": "Survivor pulled from rubble eight days after Venezuela earthquakes",
     "summary": "Hern\u00e1n Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 02 Jul 2026 14:11:50 GMT",
+    "pubDate": "Thu, 02 Jul 2026 16:11:24 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cn8k774pm3jo#0",
+    "category": "global",
+    "title": "Married at First Sight UK star arrested on suspicion of rape",
+    "summary": "It follows a BBC Panorama investigation, broadcast in May, into the hit Channel 4 reality TV show.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Jul 2026 15:10:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cn8k774pm3jo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/c2lywez0zddo#0",
@@ -270,16 +300,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1543995.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro#0",
-    "category": "global",
-    "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-    "summary": "Sarah Rainsford reports from the completely destroyed nine-storey block of flats in Ukraine's capital.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Jul 2026 12:37:02 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo#0",
     "category": "global",
     "title": "Labour failed to prepare for power, admits PM's former top aide",
@@ -288,16 +308,6 @@
     "source": "BBC",
     "pubDate": "Thu, 02 Jul 2026 12:23:14 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c20yq332018o#0",
-    "category": "global",
-    "title": "'The shame is not yours': Starmer apologises for state's role in forced adoptions",
-    "summary": "The practice saw thousands of babies taken from their mothers between 1949 and 1976.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Jul 2026 11:53:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c20yq332018o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1543992.html",
@@ -338,16 +348,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 02 Jul 2026 09:47:05 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1543987.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1543936.html",
-    "category": "sports",
-    "title": "Netravalkar, Owen bowl Washington Freedom to big win",
-    "summary": "They picked up three wickets apiece before Steven Smith steered them home in a 109-run chase",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419200/419259.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 02 Jul 2026 05:54:58 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543936.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro#0",
