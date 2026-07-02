@@ -40,6 +40,16 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/ce8ml4q37veo#0",
+    "category": "global",
+    "title": "Sabrina Carpenter and Graham Norton spotted in NYC before rumoured Swift wedding celebrations",
+    "summary": "Stars have been spotted arriving in New York ahead of Taylor Swift's rumoured wedding celebrations at Madison Square Garden.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Jul 2026 22:50:50 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ce8ml4q37veo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-micron-intel-and-other-chip-stocks-fall-up-to-11-after-record-breaking-rally/articleshow/132142872.cms",
     "category": "finance",
     "title": "US Stocks: Micron, Intel and other chip stocks fall up to 11% after record-breaking rally",
@@ -70,6 +80,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/132141863.cms"
   },
   {
+    "id": "https://www.cricinfo.com/ci/content/story/1544095.html",
+    "category": "sports",
+    "title": "Nat Sciver-Brunt, Heather Knight put England in final",
+    "summary": "They defended 170 with ease against South Africa and will now face Australia in the final at Lord's on Sunday",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419200/419280.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 02 Jul 2026 21:12:51 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544095.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o#0",
     "category": "global",
     "title": "Pubs allowed to stay open until 5am for England Mexico match",
@@ -88,16 +108,6 @@
     "source": "ET",
     "pubDate": "Thu, 02 Jul 2026 20:42:32 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-suven-life-sciences-among-2-stock-recommendations-for-friday/articleshow/132141470.cms"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo#0",
-    "category": "global",
-    "title": "Dangerous heatwave scorches US ahead of Fourth of July holiday",
-    "summary": "Millions are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Jul 2026 20:28:55 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/macritchie-to-sell-up-to-200-million-stake-in-indias-pb-fintech-term-sheet-shows/articleshow/132140824.cms",
@@ -122,7 +132,7 @@
   {
     "id": "https://www.bbc.co.uk/news/articles/ckg4807pn9lo#0",
     "category": "global",
-    "title": "Mini-mart at centre of BBC investigation closed down",
+    "title": "Mini-mart at centre of BBC drug dealing investigation closed down",
     "summary": "The Cradley Market shop, in Sandwell, is closed for three months following an investigation.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -162,7 +172,7 @@
   {
     "id": "https://www.bbc.co.uk/news/videos/cly09x7wjpko#0",
     "category": "global",
-    "title": "Watch: Kate gives out tickets and meets public in surprise Wimbledon visit",
+    "title": "Watch: Catherine gives out tickets and meets public in surprise Wimbledon visit",
     "summary": "After greeting queuing fans and handing out tickets to attendees, the princess took a seat on court 18.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -260,16 +270,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1543928.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1543987.html",
-    "category": "sports",
-    "title": "Australia hint Ellyse Perry could play final even if not fully fit",
-    "summary": "The allrounder retired hurt in the semi-final chase against West Indies with \"minor quad awareness\"",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419200/419229.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 02 Jul 2026 09:47:05 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1543987.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -298,6 +298,36 @@
     "source": "VentureBeat",
     "pubDate": "Fri, 16 Jan 2026 14:01:00 GMT",
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/taylor-swift-and-travis-kelce-donate-26-million-to-charities-ahead-of-wedding-11720191#publisher=newsstand",
+    "category": "india",
+    "title": "Taylor Swift, Travis Kelce Donate $26 Million To Charities Ahead Of Wedding",
+    "summary": "Taylor Swift and Travis Kelce tying the knot on 3 July at Madison Square Garden.",
+    "image": "https://c.ndtvimg.com/2026-07/qc3nsims_taylor-swift-travis-kelce_625x300_03_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Jul 2026 02:48:24 +0530",
+    "link": "https://www.ndtv.com/world-news/taylor-swift-and-travis-kelce-donate-26-million-to-charities-ahead-of-wedding-11720191#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/mark-zuckerberg-says-ai-agent-development-going-slower-than-expected-11720084#publisher=newsstand",
+    "category": "india",
+    "title": "Mark Zuckerberg Says AI Agent Development Going Slower Than Expected",
+    "summary": "Meta Chief Executive Mark Zuckerberg told an internal town hall on Thursday that AI agent development over the last four months has not \"accelerated in the way we expected,\" according to a recording heard by Reuters.",
+    "image": "https://c.ndtvimg.com/2026-07/o1tqj70c_meta-ceo-mark-zuckerberg-on-ai-and-job-layoffs_625x300_02_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Jul 2026 01:53:44 +0530",
+    "link": "https://www.ndtv.com/world-news/mark-zuckerberg-says-ai-agent-development-going-slower-than-expected-11720084#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/turkish-comedian-deniz-goktas-arrested-for-allegedly-insulting-islam-11720070#publisher=newsstand",
+    "category": "india",
+    "title": "Turkish Comedian Arrested For Allegedly Insulting Islam",
+    "summary": "Deniz Goktas was arrested at Istanbul Airport on July 2.",
+    "image": "https://c.ndtvimg.com/2026-07/s4qceo54_deniz-goktas_625x300_03_July_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Jul 2026 01:41:51 +0530",
+    "link": "https://www.ndtv.com/world-news/turkish-comedian-deniz-goktas-arrested-for-allegedly-insulting-islam-11720070#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-nasdaq-ends-lower-with-tech-investors-assess-softer-jobs-data/articleshow/132147710.cms",
@@ -358,35 +388,5 @@
     "source": "NDTV",
     "pubDate": "Fri, 03 Jul 2026 00:35:26 +0530",
     "link": "https://www.ndtv.com/india-news/army-chief-dhiraj-seth-calls-on-defence-minister-rajnath-singh-11719982#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/9-killed-in-cafe-blast-in-syrias-damascus-11719977#publisher=newsstand",
-    "category": "india",
-    "title": "9 Killed In Cafe Blast In Syria's Damascus",
-    "summary": "The explosion near the main courthouse complex.",
-    "image": "https://c.ndtvimg.com/2025-09/rbn7ol4c_international-police-generic_625x300_02_September_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Jul 2026 00:34:25 +0530",
-    "link": "https://www.ndtv.com/world-news/9-killed-in-cafe-blast-in-syrias-damascus-11719977#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/they-are-using-ethanol-in-racing-cars-oil-minister-hardeep-puri-11719378#publisher=newsstand",
-    "category": "india",
-    "title": "\"They Are Using Ethanol In Racing Cars\": Oil Minister Hardeep Puri",
-    "summary": "Asked about potential cuts in retail fuel prices, Puri described the prospect as hypothetical for now.",
-    "image": "https://c.ndtvimg.com/2026-06/hemt335_hardeep-puri_625x300_08_June_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Jul 2026 00:30:02 +0530",
-    "link": "https://www.ndtv.com/india-news/they-are-using-ethanol-in-racing-cars-oil-minister-hardeep-puri-11719378#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/girlfriend-finds-out-gurugram-man-is-married-he-kills-her-11719940#publisher=newsstand",
-    "category": "india",
-    "title": "Girlfriend Finds Out Gurugram Man Is Married, He Kills Her",
-    "summary": "Kumar told cops he became acquainted with victim when she had visited his shop. (Representational Image)",
-    "image": "https://c.ndtvimg.com/2019-12/pasi7rqs_gurgaon-police-generic_625x300_19_December_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Jul 2026 00:29:26 +0530",
-    "link": "https://www.ndtv.com/india-news/girlfriend-finds-out-gurugram-man-is-married-he-kills-her-11719940#publisher=newsstand"
   }
 ]
