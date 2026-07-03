@@ -40,6 +40,36 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/5-5-magnitude-earthquake-hits-chile-11724657#publisher=newsstand",
+    "category": "india",
+    "title": "5.5 Magnitude Earthquake Hits Chile",
+    "summary": "An earthquake measuring 5.5 magnitude struck near coast of central Chile on Friday, the German Research Centre for Geosciences (GFZ) said.",
+    "image": "https://c.ndtvimg.com/2025-03/9p4mj938_earthquake-generic_625x300_18_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 04 Jul 2026 02:57:17 +0530",
+    "link": "https://www.ndtv.com/world-news/5-5-magnitude-earthquake-hits-chile-11724657#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/brazil-court-rules-jair-bolsonaro-to-remain-under-house-arrest-11724653#publisher=newsstand",
+    "category": "india",
+    "title": "Brazil Court Rules Jair Bolsonaro To Remain Under House Arrest",
+    "summary": "Brazil's Supreme Court Justice Alexandre de Moraes has ruled that former Brazilian President Jair Bolsonaro can remain under house arrest due to health concerns, a court decision showed on Friday.",
+    "image": "https://c.ndtvimg.com/2025-12/5udu8ao8_jair-bolsonaro_625x300_10_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 04 Jul 2026 02:50:20 +0530",
+    "link": "https://www.ndtv.com/world-news/brazil-court-rules-jair-bolsonaro-to-remain-under-house-arrest-11724653#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/russia-says-it-seized-eastern-ukrainian-stronghold-of-kostyantynivka-11724641#publisher=newsstand",
+    "category": "india",
+    "title": "Russia Says It Seized Eastern Ukrainian Stronghold Of Kostyantynivka",
+    "summary": "Russia said that Ukraine's Kostyantynivka has been its under control.",
+    "image": "https://c.ndtvimg.com/2026-07/i8tue3cc_kostyantynivka_625x300_04_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 04 Jul 2026 02:40:27 +0530",
+    "link": "https://www.ndtv.com/world-news/russia-says-it-seized-eastern-ukrainian-stronghold-of-kostyantynivka-11724641#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/venezuela-earthquake-death-count-rises-to-2-645-over-12-600-injured-11724564#publisher=newsstand",
     "category": "india",
     "title": "Venezuela Earthquake: Death Count Rises To 2,645, Over 12,600 Injured",
@@ -90,36 +120,6 @@
     "link": "https://www.ndtv.com/delhi-news/tragedy-strikes-mumbai-delhis-long-delayed-tree-census-still-stuck-11724472#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/on-usha-vances-book-reading-podcast-trump-discusses-past-presidents-11724467#publisher=newsstand",
-    "category": "india",
-    "title": "On Usha Vance's \"Book-Reading\" Podcast, Trump Discusses Past Presidents",
-    "summary": "Trump mused about riding a horse after seeing a picture of Abraham Lincoln riding one.",
-    "image": "https://c.ndtvimg.com/2025-03/6321ql5g_donald-trump-ndtv-_625x300_21_March_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sat, 04 Jul 2026 00:11:39 +0530",
-    "link": "https://www.ndtv.com/world-news/on-usha-vances-book-reading-podcast-trump-discusses-past-presidents-11724467#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/trump-and-netanyahu-hold-phone-call-agree-to-meet-soon-11724448#publisher=newsstand",
-    "category": "india",
-    "title": "Trump And Netanyahu Hold Phone Call, Agree To Meet \"Soon\"",
-    "summary": "Trump has been publicly critical of Netanyahu in recent weeks. (File)",
-    "image": "https://c.ndtvimg.com/2026-03/u216naq_trump-netanyahu-afp_625x300_24_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sat, 04 Jul 2026 00:03:38 +0530",
-    "link": "https://www.ndtv.com/world-news/trump-and-netanyahu-hold-phone-call-agree-to-meet-soon-11724448#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/weather-today-live-updates-mumbai-rain-mumbai-monsoon-rain-delhi-ncr-rain-monsoon-update-live-orange-alert-in-mumbai-11720679#publisher=newsstand",
-    "category": "india",
-    "title": "Weather Highlights: Many Parts Of Gujarat Flooded After Rain, Schools Declare Holiday Near Mumbai",
-    "summary": "Weather Today, Northern India Monsoon: Orange alert issued for Mumbai, Thane, Raigad, and Palghar.",
-    "image": "https://c.ndtvimg.com/2026-07/ccrjk7ts_rainfall_625x300_03_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sat, 04 Jul 2026 00:02:15 +0530",
-    "link": "https://www.ndtv.com/india-news/weather-today-live-updates-mumbai-rain-mumbai-monsoon-rain-delhi-ncr-rain-monsoon-update-live-orange-alert-in-mumbai-11720679#publisher=newsstand"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -160,14 +160,74 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/lme-approves-adanis-major-copper-smelter-in-india-as-listed-brand/articleshow/132166327.cms"
   },
   {
+    "id": "https://www.cricinfo.com/ci/content/story/1544207.html",
+    "category": "sports",
+    "title": "Lahiru Udara 188 carries the fight for Sri Lanka",
+    "summary": "Record stand with Kamindu Mendis puts visitors in commanding position despite late West Indies strikes",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419300/419330.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 03 Jul 2026 21:52:04 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544207.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c20y2lkgz13o#0",
+    "category": "global",
+    "title": "How to walk 30 minutes a day - your tips after NHS reward scheme announced",
+    "summary": "From walking the dog before breakfast to getting off the bus a stop early, readers share their tips for building a daily walking habit.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 03 Jul 2026 21:31:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c20y2lkgz13o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1544238.html",
+    "category": "sports",
+    "title": "Harmer and Cook help Essex hand out Hove thrashing",
+    "summary": "Eagles captain hits 46 off 17 balls to boost total before claiming two wickets and effecting a run-out",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/360800/360888.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 03 Jul 2026 21:29:17 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544238.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo#0",
+    "category": "global",
+    "title": "Starmer tells of 'intensely personal' decision to quit and warns Burnham in first interview since resigning",
+    "summary": "In an untypically candid interview, the outgoing PM tells the BBC it was \"really tough\" to accept his political career was over.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 03 Jul 2026 21:26:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1544236.html",
+    "category": "sports",
+    "title": "Stone holds nerve as Notts seal one-run win to stay top",
+    "summary": "Munsey continues hot streak with fifth half-century in six before Lancashire mess up run chase",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419300/419334.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 03 Jul 2026 21:12:36 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544236.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://www.cricinfo.com/ci/content/story/1544235.html",
     "category": "sports",
     "title": "Smale trail plots path for Glamorgan to win again",
     "summary": "Sam Hain hits 63 not out from 46 but Warwickshire unable to knock home side off course in chase",
     "image": "http://p.imgci.com/db/PICTURES/CMS/419300/419333.jpg",
     "source": "Cricinfo",
-    "pubDate": "Fri, 03 Jul 2026 20:50:27 GMT",
+    "pubDate": "Fri, 03 Jul 2026 21:02:06 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1544235.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko#0",
+    "category": "global",
+    "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+    "summary": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 03 Jul 2026 21:00:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1544237.html",
@@ -182,7 +242,7 @@
   {
     "id": "https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo#0",
     "category": "global",
-    "title": "England v Mexico set to move to earlier kick-off time",
+    "title": "England, Mexico & Fifa locked in kick-off time talks",
     "summary": "England's World Cup last-16 tie with Mexico is set to be moved to 19:00 BST on Sunday.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -250,16 +310,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-godrej-consumer-expects-volume-driven-first-quarter-revenue-rise/articleshow/132163199.cms"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1544207.html",
-    "category": "sports",
-    "title": "Udara century, Kamindu fifty put SL on top on day one against WI",
-    "summary": "By tea, their partnership was unbroken on 199 after Shamar Joseph had reduced SL to 25 for 2",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419300/419330.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 03 Jul 2026 19:08:19 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1544207.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/dabur-india-posts-strong-quarterly-outlook-as-price-hikes-cushion-inflation-hit/articleshow/132163007.cms",
     "category": "finance",
     "title": "Dabur Q1 updates: Co expects double-digit revenue growth as rural demand stays ahead of urban",
@@ -310,36 +360,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-fred-c-kelly-we-may-forgive-ourselves-for-owning-a-market-dullard-when-the-rest-of-the-market-is-also-in-the-doldrums-but-it-is-disheartening-to-see-ones-favorite-resting-as-quietly-as-a-castor-oil-bottle-while-the-rest-of-the-market-goes-gaily-upward/articleshow/132152924.cms"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1544215.html",
-    "category": "sports",
-    "title": "Winfield-Hill 99, Kalis 86* as Yorkshire romp to first Blast win",
-    "summary": "Anika Learoyd's unbeaten hundred in vain as Somerset fall short in chase of 211",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419300/419326.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 03 Jul 2026 17:08:32 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1544215.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1544220.html",
-    "category": "sports",
-    "title": "Kaia, Burl, Marumani, Masakadza back in ODI side for Bangladesh series",
-    "summary": "This will be Ngarava's first ODI series as captain, having recently led them to the one-off Test win against Bangladesh",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/343600/343695.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 03 Jul 2026 16:52:06 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1544220.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cdx7dxrwg7ro#0",
-    "category": "global",
-    "title": "William talks World Cup football fever on Travis Kelce's podcast",
-    "summary": "The Prince of Wales shared his hopes for England's chances in the tournament - and that his father \"hates football\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 03 Jul 2026 16:46:23 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cdx7dxrwg7ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o#0",
     "category": "global",
     "title": "Polish PM warns critical months ahead in face of Russian threat",
@@ -368,25 +388,5 @@
     "source": "BBC",
     "pubDate": "Fri, 03 Jul 2026 16:11:14 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c3wy26p5lexo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo#0",
-    "category": "global",
-    "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-    "summary": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 03 Jul 2026 15:20:57 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo#0",
-    "category": "global",
-    "title": "NHS to reward people who walk 30 minutes a day",
-    "summary": "The \"marathon a month\" scheme, developed with former Olympic medallist Sir Brendan Foster, will launch early next year.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 03 Jul 2026 14:22:55 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo?at_medium=RSS&at_campaign=rss"
   }
 ]
