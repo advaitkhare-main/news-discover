@@ -40,10 +40,20 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/cgrkl104ly5o#0",
+    "category": "global",
+    "title": "Rare copy of US Declaration of Independence found by volunteer in UK archives",
+    "summary": "The newly discovered copy is one of only 11 of its kind in the world.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 02 Jul 2026 23:39:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cgrkl104ly5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo#0",
     "category": "global",
     "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
-    "summary": "The BBC visits Bandar Abbas to see how the US-Israeli war with Iran has affected everyday life in the port city.",
+    "summary": "The BBC travels to the city of Bandar Abbas - the first international journalists to visit the Iranian side of the strait.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Thu, 02 Jul 2026 23:15:22 GMT",
@@ -52,7 +62,7 @@
   {
     "id": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o#0",
     "category": "global",
-    "title": "How the American Dream has survived 250 years, but only just",
+    "title": "After 250 years the American Dream is surviving, but only just",
     "summary": "The American Dream has persisted since the days of the Founding Fathers, but faith in the ideal is fading",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -80,34 +90,14 @@
     "link": "https://www.cricinfo.com/ci/content/story/1544095.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cy4e109nx04o#0",
-    "category": "global",
-    "title": "At least eight arrests linked to forums that encourage drugging and raping women",
-    "summary": "The National Crime Agency says it has identified 270 individuals linked to the abuse websites.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Jul 2026 20:52:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy4e109nx04o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o#0",
     "category": "global",
-    "title": "Pubs allowed to stay open until 5am for England Mexico match",
+    "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
     "summary": "The government had initially said it would not relax licensing laws further for the World Cup.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Thu, 02 Jul 2026 20:49:17 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o#0",
-    "category": "global",
-    "title": "I take responsibility to fund defence plan extremely seriously, says Burnham",
-    "summary": "The Makerfield MP also rejects attacks on his economic stance, insisting he would not be \"indisciplined\" on finances.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 02 Jul 2026 20:40:27 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1544076.html",
@@ -180,164 +170,194 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
-    "id": "https://www.ndtv.com/india-news/2-caregivers-arrested-for-abusing-children-at-bengaluru-daycare-capgemini-keeping-children-in-washing-machine-locking-in-bathroom-11721193#publisher=newsstand",
-    "category": "india",
-    "title": "2 Caregivers Arrested For Abusing Children At Bengaluru Daycare",
-    "summary": "More arrests are to follow.",
-    "image": "https://c.ndtvimg.com/2026-07/tss3nt3k_capgemini-daycare-abuse_625x300_01_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Jul 2026 11:26:56 +0530",
-    "link": "https://www.ndtv.com/india-news/2-caregivers-arrested-for-abusing-children-at-bengaluru-daycare-capgemini-keeping-children-in-washing-machine-locking-in-bathroom-11721193#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/2026-multibagger-smallcap-stock-jumps-another-10-after-rs-1437-crore-vedanta-aluminium-order/articleshow/132153706.cms",
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/kusumgar-ipo-price-band-fixed-at-rs-398419-rs-650-crore-issue-opens-july-8-gmp-at-33/articleshow/132157618.cms",
     "category": "finance",
-    "title": "2026 multibagger smallcap stock jumps another 10% after Rs 1,437-crore Vedanta Aluminium order",
-    "summary": "Bluspring Enterprises shares hit a record high after its subsidiary secured a Rs 1,437 crore operations and maintenance contract from Vedanta Aluminium Metal. The order strengthens the company\u2019s order book, while multiple recent contract wins and pos",
-    "image": "https://img.etimg.com/photo/msid-132153706,imgsize-43388.cms",
+    "title": "Kusumgar IPO price band fixed at Rs 398\u2013419; Rs 650-crore issue opens July 8, GMP at 33%",
+    "summary": "Kusumgar has set its IPO price band at Rs 398\u2013419 for a Rs 650-crore offer for sale, opening July 8. The issue has a grey market premium of about 33%, signalling strong demand. The company has reported steady revenue and profit growth, supported by a",
+    "image": "https://img.etimg.com/photo/msid-132157618,imgsize-58932.cms",
     "source": "ET",
-    "pubDate": "Fri, 03 Jul 2026 11:25:31 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/2026-multibagger-smallcap-stock-jumps-another-10-after-rs-1437-crore-vedanta-aluminium-order/articleshow/132153706.cms"
+    "pubDate": "Fri, 03 Jul 2026 14:54:56 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/kusumgar-ipo-price-band-fixed-at-rs-398419-rs-650-crore-issue-opens-july-8-gmp-at-33/articleshow/132157618.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/kaushambi-toll-booth-accident-video-on-camera-lpg-tanker-goes-out-of-control-crashes-into-up-toll-booth-4-killed-11721192#publisher=newsstand",
-    "category": "india",
-    "title": "On Camera, LPG Tanker Goes Out Of Control, Crashes Into UP Toll Booth, 4 Killed",
-    "summary": "The video shows two tankers approaching the toll booth when one of them suddenly loses control",
-    "image": "https://c.ndtvimg.com/2026-07/0h4765lk_up-toll-accident_625x300_03_July_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Jul 2026 11:24:16 +0530",
-    "link": "https://www.ndtv.com/india-news/kaushambi-toll-booth-accident-video-on-camera-lpg-tanker-goes-out-of-control-crashes-into-up-toll-booth-4-killed-11721192#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/muthoot-finance-manappuram-finance-other-stocks-rise-up-to-5-as-gold-prices-hit-rs-1-48-lakh/10-grams/articleshow/132153655.cms",
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/dont-care-says-donald-trump-chalking-off-alleged-insider-trading-claims-1-4-billion-crypto-windfall/articleshow/132156805.cms",
     "category": "finance",
-    "title": "Muthoot Finance, Manappuram Finance, other stocks rise up to 5% as gold prices hit Rs 1.48 lakh/10 grams",
-    "summary": "Gold prices surged past Rs 1.48 lakh per 10 grams on Friday, propelling shares of gold financiers like Muthoot Finance and Manappuram Finance up by as much as 5%. This rally was triggered by weaker-than-expected US jobs data, which cooled inflation c",
-    "image": "https://img.etimg.com/photo/msid-132153655,imgsize-64288.cms",
+    "title": "'Don\u2019t care\u2019, says Donald Trump, chalking off alleged insider trading claims; $1.4 billion crypto windfall",
+    "summary": "Donald Trump dismissed concerns over alleged insider trading and conflicts of interest after financial disclosures showed businesses linked to his family's cryptocurrency ventures generated an estimated $1.4 billion in 2025. Trump said he does not ma",
+    "image": "https://img.etimg.com/photo/msid-132156805,imgsize-64804.cms",
     "source": "ET",
-    "pubDate": "Fri, 03 Jul 2026 11:21:59 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/muthoot-finance-manappuram-finance-other-stocks-rise-up-to-5-as-gold-prices-hit-rs-1-48-lakh/10-grams/articleshow/132153655.cms"
+    "pubDate": "Fri, 03 Jul 2026 14:17:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/dont-care-says-donald-trump-chalking-off-alleged-insider-trading-claims-1-4-billion-crypto-windfall/articleshow/132156805.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/icai-ca-foundation-results-2026-out-check-scorecard-link-here-11721139#publisher=newsstand",
-    "category": "india",
-    "title": "ICAI CA Foundation Results 2026 Out: Check Scorecard Link Here",
-    "summary": "ICAI CA Foundation May 2026 results declared at caresults.icai.org today.",
-    "image": "https://c.ndtvimg.com/2026-07/kjt4ddjg_ca_625x300_03_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Jul 2026 11:20:32 +0530",
-    "link": "https://www.ndtv.com/education/icai-ca-foundation-results-2026-out-check-scorecard-link-here-11721139#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/nestle-india-declares-special-dividend-of-rs-2-check-record-date-and-other-details/articleshow/132153465.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/maricos-best-volume-growth-in-quarters-isnt-luck-abneesh-roy-on-whats-really-driving-it/articleshow/132156676.cms",
     "category": "finance",
-    "title": "Nestle India declares special dividend of Rs 2. Check record date and other details",
-    "summary": "Nestle India, the maker of Maggi noodles, has announced a special dividend of Rs 2 per equity share, payable on July 30, 2026. This payout will be funded by retained earnings. The company also declared a final dividend of Rs 5 per share for FY26. The",
-    "image": "https://img.etimg.com/photo/msid-132153465,imgsize-47532.cms",
+    "title": "Marico's best volume growth in quarters isn't luck; Abneesh Roy on what's really driving it",
+    "summary": "Marico is experiencing its strongest volume growth in quarters, signaling a genuine FMCG sector turnaround, not a statistical blip. Analyst Abneesh Roy anticipates this recovery to persist for at least two more quarters.  Marico's raw material costs,",
+    "image": "https://img.etimg.com/photo/msid-132156676,imgsize-94412.cms",
     "source": "ET",
-    "pubDate": "Fri, 03 Jul 2026 11:17:07 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/nestle-india-declares-special-dividend-of-rs-2-check-record-date-and-other-details/articleshow/132153465.cms"
+    "pubDate": "Fri, 03 Jul 2026 14:11:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/maricos-best-volume-growth-in-quarters-isnt-luck-abneesh-roy-on-whats-really-driving-it/articleshow/132156676.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/pakistan-uses-cement-on-vedic-era-taxila-walls-gets-delisting-warning-from-un-11720494#publisher=newsstand",
-    "category": "india",
-    "title": "Pakistan Uses Cement On Vedic-Era Taxila Walls, Gets 'Delisting' Warning From UN",
-    "summary": "The ruins at Taxila reveal the pattern of urban evolution on the Indian subcontinent",
-    "image": "https://c.ndtvimg.com/2026-07/mrto7rlg_pakistan-taxila_625x300_03_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Jul 2026 11:16:22 +0530",
-    "link": "https://www.ndtv.com/world-news/pakistan-uses-cement-on-vedic-era-taxila-walls-gets-delisting-warning-from-un-11720494#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/expert-view/fmcg-could-outshine-it-guidance-key-this-earnings-season-narendra-solanki/articleshow/132153442.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/10-high-priced-stocks-rally-up-to-85-in-cy26-heres-fii-and-mf-exposure/slideshow/132156716.cms",
     "category": "finance",
-    "title": "FMCG could outshine, IT guidance key this earnings season: Narendra Solanki",
-    "summary": "India's Q1 earnings season kicks off with a focus on sectoral performance. While banking, manufacturing, and auto ancillaries are poised for steady gains, the IT sector faces headwinds from AI disruption and global uncertainty. Investors are keenly w",
-    "image": "https://img.etimg.com/photo/msid-132153442,imgsize-29506.cms",
+    "title": "10 high-priced stocks rally up to 85% in CY26; here\u2019s FII and MF exposure",
+    "summary": "Despite a weak broader market, several premium BSE stocks priced above Rs 5,000 delivered strong CY26 gains, led by Hitachi Energy India, Apar Industries and Solar Industries India.",
+    "image": "https://img.etimg.com/photo/msid-132156626,imgsize-5014.cms",
     "source": "ET",
-    "pubDate": "Fri, 03 Jul 2026 11:13:08 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/fmcg-could-outshine-it-guidance-key-this-earnings-season-narendra-solanki/articleshow/132153442.cms"
+    "pubDate": "Fri, 03 Jul 2026 14:04:31 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-high-priced-stocks-rally-up-to-85-in-cy26-heres-fii-and-mf-exposure/slideshow/132156716.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/rupee-clings-to-modest-gains-hemmed-in-by-softer-dollar-corporate-hedging/articleshow/132153461.cms",
+    "id": "https://economictimes.indiatimes.com/markets/expert-view/earnings-growth-to-stay-robust-at-1416-it-correction-a-buying-opportunity-vikas-khemani/articleshow/132156498.cms",
     "category": "finance",
-    "title": "Rupee clings to modest gains hemmed in by softer dollar, corporate hedging",
-    "summary": "The Indian rupee saw a slight gain on Friday, though it's set for a weekly dip. Despite a weaker dollar and positive Asian currency movements, corporate demand and hedging activities are capping the rupee's rise. Analysts suggest the Federal Reserve'",
-    "image": "https://img.etimg.com/photo/msid-132153461,imgsize-38656.cms",
+    "title": "Earnings growth to stay robust at 14\u201316%; IT correction a buying opportunity: Vikas Khemani",
+    "summary": "India's IT sector is poised for a comeback, with AI expected to boost, not hinder, growth.  Vikas Khemani of Carnelian Asset Management sees excessive pessimism, presenting an attractive long-term opportunity.  He highlights that historical tech shif",
+    "image": "https://img.etimg.com/photo/msid-132156498,imgsize-49320.cms",
     "source": "ET",
-    "pubDate": "Fri, 03 Jul 2026 11:12:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/rupee-clings-to-modest-gains-hemmed-in-by-softer-dollar-corporate-hedging/articleshow/132153461.cms"
+    "pubDate": "Fri, 03 Jul 2026 14:01:25 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/earnings-growth-to-stay-robust-at-1416-it-correction-a-buying-opportunity-vikas-khemani/articleshow/132156498.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/chennai-police-arrest-5-more-in-rs-35-crore-bribery-probe-involving-tvk-mla-11721166#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/charanjit-singh-channi-holds-key-meet-with-punjab-leaders-amid-organisational-changes-11721881#publisher=newsstand",
     "category": "india",
-    "title": "Chennai Police Arrest 5 More In Rs 35-Crore Bribery Probe Involving TVK MLA",
-    "summary": "The case stems from a complaint by TVK MLA Dr N Ilayaraja, who alleged that pollster Thirunavukkarasu contacted him claiming to be acting on behalf of functionaries of a major political party.",
-    "image": "https://c.ndtvimg.com/2026-06/1o58r9bo_tamil-nadu-police-generic-_625x300_30_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "CS Channi Holds Key Meet With Punjab Leaders Amid Organisational Changes",
+    "summary": "Charanjit Singh Channi held a meeting with senior Congress leaders.",
+    "image": "https://c.ndtvimg.com/2022-01/lau8kb34_charanjit-singh-channi-pti_625x300_15_January_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 03 Jul 2026 11:12:23 +0530",
-    "link": "https://www.ndtv.com/india-news/chennai-police-arrest-5-more-in-rs-35-crore-bribery-probe-involving-tvk-mla-11721166#publisher=newsstand"
+    "pubDate": "Fri, 03 Jul 2026 14:00:03 +0530",
+    "link": "https://www.ndtv.com/india-news/charanjit-singh-channi-holds-key-meet-with-punjab-leaders-amid-organisational-changes-11721881#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/whatsapp-upi-speed-post-how-ganja-doorstep-delivery-worked-and-busted-11721159#publisher=newsstand",
+    "id": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-3-july-us-iran-war-oil-prices-11720669#publisher=newsstand",
     "category": "india",
-    "title": "WhatsApp, UPI, Speed Post: How Ganja Doorstep Delivery Worked And Busted",
-    "summary": "The syndicate is believed to have handled 80-100 orders every day, earning around Rs 30-35 lakh a month.",
-    "image": "https://c.ndtvimg.com/2024-08/65a0si48_cannabis-_625x300_26_August_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 300 Points Higher Amid Mixed Global Cues",
+    "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
+    "image": "https://c.ndtvimg.com/2026-06/irk289r8_share-market_625x300_22_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 03 Jul 2026 11:11:32 +0530",
-    "link": "https://www.ndtv.com/india-news/whatsapp-upi-speed-post-how-ganja-doorstep-delivery-worked-and-busted-11721159#publisher=newsstand"
+    "pubDate": "Fri, 03 Jul 2026 13:58:43 +0530",
+    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-3-july-us-iran-war-oil-prices-11720669#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/business-news/8th-pay-commission-salary-hike-fitment-factor-hra-da-minimum-basic-pay-11720426#publisher=newsstand",
-    "category": "india",
-    "title": "8th Pay Commission: Will Rs 18,000 Basic Pay Rise To Rs 69,000? What We Know",
-    "summary": "8th Pay Commission: Experts expect the fitment factor to settle somewhere between 2.0 and 2.1.",
-    "image": "https://c.ndtvimg.com/2026-06/pkma09eg_8th-pay-commission_625x300_30_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Jul 2026 11:10:38 +0530",
-    "link": "https://www.ndtv.com/business-news/8th-pay-commission-salary-hike-fitment-factor-hra-da-minimum-basic-pay-11720426#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/ram-mandir-donation-theft-first-picture-of-accused-inside-counting-centre-11721115#publisher=newsstand",
-    "category": "india",
-    "title": "Ram Mandir Donation Theft: First Picture Of Accused Inside Counting Centre",
-    "summary": "Avinash Shukla and Anukalp Mishra inside the counting centre",
-    "image": "https://c.ndtvimg.com/2026-07/l4j804n8_anukalp_625x300_03_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 03 Jul 2026 11:09:00 +0530",
-    "link": "https://www.ndtv.com/india-news/ram-mandir-donation-theft-first-picture-of-accused-inside-counting-centre-11721115#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/as-fd-rates-moderate-investment-in-bonds-emerge-as-the-next-destination-for-fixed-income-investors-for-wealth-creation/articleshow/132153419.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/citi-sees-brent-crude-sliding-to-60-as-supply-fears-ease/articleshow/132156275.cms",
     "category": "finance",
-    "title": "As FD rates moderate, investment in bonds emerge as the next destination for fixed-income investors for wealth creation",
-    "summary": "Choosing the best Nifty-based index fund involves more than just a low expense ratio. Experts emphasize that tracking error, which measures how closely a fund mirrors its benchmark, is crucial for long-term returns. While low costs are attractive, co",
-    "image": "https://img.etimg.com/photo/msid-132153419,imgsize-2221175.cms",
+    "title": "Citi sees brent crude sliding to $60/bbl as supply fears ease",
+    "summary": "Geopolitical tensions easing around the Strait of Hormuz are expected to drive Brent crude prices down to $60 a barrel by year-end, according to Citi. Global energy markets are normalizing, with shipping resuming and Gulf producers increasing output.",
+    "image": "https://img.etimg.com/photo/msid-132156275,imgsize-87320.cms",
     "source": "ET",
-    "pubDate": "Fri, 03 Jul 2026 11:08:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/as-fd-rates-moderate-investment-in-bonds-emerge-as-the-next-destination-for-fixed-income-investors-for-wealth-creation/articleshow/132153419.cms"
+    "pubDate": "Fri, 03 Jul 2026 13:42:15 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/citi-sees-brent-crude-sliding-to-60-as-supply-fears-ease/articleshow/132156275.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-skepticism-why-teslas-best-delivery-quarter-still-triggered-a-sell-off/slideshow/132153280.cms",
-    "category": "finance",
-    "title": "Market Skepticism: Why Tesla\u2019s best delivery quarter still triggered a sell-off",
-    "summary": "Tesla delivered a stronger-than-expected 480,126 vehicles in Q2 2026, but shares slipped as investors looked beyond robust deliveries, focusing instead on AI ambitions and future growth prospects.",
-    "image": "https://img.etimg.com/photo/msid-132153204,imgsize-6960.cms",
-    "source": "ET",
-    "pubDate": "Fri, 03 Jul 2026 10:52:20 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-skepticism-why-teslas-best-delivery-quarter-still-triggered-a-sell-off/slideshow/132153280.cms"
+    "id": "https://www.ndtv.com/world-news/pakistan-bus-crash-40-dead-8-hurt-as-bus-plunges-into-ravine-in-pakistans-balochistan-11721615#publisher=newsstand",
+    "category": "india",
+    "title": "40 Dead As Bus Plunges Into Ravine In Pakistan's Balochistan",
+    "summary": "The bus went out of control and fell into the ravine in Dana Sar",
+    "image": "https://c.ndtvimg.com/2026-07/rhjdk22s_pakistan-bus-accident_625x300_03_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Jul 2026 13:40:50 +0530",
+    "link": "https://www.ndtv.com/world-news/pakistan-bus-crash-40-dead-8-hurt-as-bus-plunges-into-ravine-in-pakistans-balochistan-11721615#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/union-bank-of-india-shares-drop-5-post-q1-business-update-global-business-decline-marginally-on-quarterly-basis/articleshow/132153181.cms",
+    "id": "https://www.ndtv.com/world-news/frances-deadly-june-heatwave-france-records-30-rise-in-deaths-during-june-heatwave-report-11721591#publisher=newsstand",
+    "category": "india",
+    "title": "France Records 30% Rise In Deaths During June Heatwave: Report",
+    "summary": "France Heatwave Deaths Surge as Government Faces Political Backlash",
+    "image": "https://c.ndtvimg.com/2026-07/fmv8jm7s_france-heatwave-deaths-surge-june-2026_625x300_03_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Jul 2026 13:39:39 +0530",
+    "link": "https://www.ndtv.com/world-news/frances-deadly-june-heatwave-france-records-30-rise-in-deaths-during-june-heatwave-report-11721591#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/america250-all-about-july-4-us-independence-anniversary-celebrations-fourth-of-july-11721313#publisher=newsstand",
+    "category": "india",
+    "title": "'America250': All About July 4 US Independence Anniversary Celebrations",
+    "summary": "July 4, 2026, marks the 250th anniversary of signing of the Declaration of Independence in Philadelphia.",
+    "image": "https://c.ndtvimg.com/2026-07/9km5u9ac_america250_625x300_03_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Jul 2026 13:38:41 +0530",
+    "link": "https://www.ndtv.com/world-news/america250-all-about-july-4-us-independence-anniversary-celebrations-fourth-of-july-11721313#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/alibaba-to-ban-ai-claude-code-for-employees-amid-security-concerns-11721733#publisher=newsstand",
+    "category": "india",
+    "title": "Alibaba To Ban Claude Code For Employees Amid Security Concerns",
+    "summary": "Alibaba did not immediately respond to a request for comment",
+    "image": "https://c.ndtvimg.com/2026-07/sfvhcrac_alibaba-bans-claude-code-over-alleged-backdoor-security-risks_625x300_03_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Jul 2026 13:38:37 +0530",
+    "link": "https://www.ndtv.com/world-news/alibaba-to-ban-ai-claude-code-for-employees-amid-security-concerns-11721733#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-rises-ekes-out-weekly-gain-on-fed-bets-domestic-growth-signs/articleshow/132156183.cms",
     "category": "finance",
-    "title": "Union Bank of India shares drop 5% post Q1 business update, global business decline marginally on quarterly basis",
-    "summary": "Union Bank of India's stock dipped 5% following its June 2026 quarter business update. While global business saw a modest yearly growth of 7.46%, it experienced a slight quarterly decline. Gross advances grew robustly year-over-year by 12.50%, though",
-    "image": "https://img.etimg.com/photo/msid-132153181,imgsize-565286.cms",
+    "title": "Japan's Nikkei rises, ekes out weekly gain on Fed bets, domestic growth signs",
+    "summary": "Japanese stocks experienced an optimistic week with the Nikkei 225 showing an upward trend on Friday, driven by eased expectations regarding US rate hikes and encouraging local economic indicators. The market reacted positively to a weaker US jobs re",
+    "image": "https://img.etimg.com/photo/msid-132156183,imgsize-292220.cms",
     "source": "ET",
-    "pubDate": "Fri, 03 Jul 2026 10:50:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/union-bank-of-india-shares-drop-5-post-q1-business-update-global-business-decline-marginally-on-quarterly-basis/articleshow/132153181.cms"
+    "pubDate": "Fri, 03 Jul 2026 13:38:14 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-rises-ekes-out-weekly-gain-on-fed-bets-domestic-growth-signs/articleshow/132156183.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-why-tesla-shares-crashed-7-to-record-worst-single-day-fall-in-1-year-despite-record-q2-sales/articleshow/132156170.cms",
+    "category": "finance",
+    "title": "Explained: Why Tesla shares crashed 7% to record worst single-day fall in 1 year despite record Q2 sales",
+    "summary": "Tesla shares plunged over 7% despite the EV maker reporting record second-quarter deliveries that beat Wall Street estimates. Analysts attributed the sell-off to profit booking after the stock's recent rally, with investors now focusing on Tesla's AI",
+    "image": "https://img.etimg.com/photo/msid-132156170,imgsize-62456.cms",
+    "source": "ET",
+    "pubDate": "Fri, 03 Jul 2026 13:37:21 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-why-tesla-shares-crashed-7-to-record-worst-single-day-fall-in-1-year-despite-record-q2-sales/articleshow/132156170.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/drought-conditions-spread-across-india-farmers-put-on-edge-11721718#publisher=newsstand",
+    "category": "india",
+    "title": "Drought Conditions Spread Across India, Farmers Put On Edge",
+    "summary": "The progression of drought through June is even more evident in the weekly data.",
+    "image": "https://c.ndtvimg.com/2026-06/p5lcubdg_drought-due-to-el-nino-in-mp_625x300_22_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Jul 2026 13:27:51 +0530",
+    "link": "https://www.ndtv.com/india-news/drought-conditions-spread-across-india-farmers-put-on-edge-11721718#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-declared-its-independence-from-great-britain-on-july-2-but-why-is-it-celebrated-on-july-4-11721199#publisher=newsstand",
+    "category": "india",
+    "title": "US Declared Its Independence On July 2, But Why Is It Celebrated On July 4?",
+    "summary": "US Independence Day is celebrated on July 4.",
+    "image": "https://c.ndtvimg.com/98ni7clo_us-flag_625x300_02_September_18.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 03 Jul 2026 13:26:05 +0530",
+    "link": "https://www.ndtv.com/world-news/us-declared-its-independence-from-great-britain-on-july-2-but-why-is-it-celebrated-on-july-4-11721199#publisher=newsstand"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/crlw1eeez19o#0",
+    "category": "global",
+    "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
+    "summary": "Actress Lena Dunham, model Gigi Hadid and longtime music collaborator Jack Antonoff were spotted in formal attire near Madison Square Garden.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 03 Jul 2026 08:36:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1544068.html",
+    "category": "sports",
+    "title": "Hope fit but Roach doubtful as WI eye series win",
+    "summary": "Sri Lanka need their batters to fire against the West Indies quicks",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/409900/409996.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 03 Jul 2026 07:47:28 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544068.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o#0",
+    "category": "global",
+    "title": "Burnham says there is some room for movement on tax",
+    "summary": "But the likely next PM says he will stick to Labour's pledges to not raise VAT, income tax or national insurance.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 03 Jul 2026 07:40:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1544130.html",
@@ -360,33 +380,13 @@
     "link": "https://www.cricinfo.com/ci/content/story/1544116.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cvg53d9p18vo#0",
+    "id": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo#0",
     "category": "global",
-    "title": "Mother says new custodial sentences for daughter's rapists 'better' but still 'not enough'",
-    "summary": "Two teenage boys convicted of rape had initially been given non-custodial sentences but have since been handed a four year detention.",
+    "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+    "summary": "The ads use terms including \u201crape\u201d and \u201cchild video\u201d and link to content on the messaging app Telegram.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 03 Jul 2026 04:24:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvg53d9p18vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1544068.html",
-    "category": "sports",
-    "title": "Hope fit but Roach doubtful as WI eye series win",
-    "summary": "Sri Lanka need their batters to fire against the West Indies quicks",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/409900/409996.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 03 Jul 2026 03:38:39 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1544068.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/crlw1eeez19o#0",
-    "category": "global",
-    "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
-    "summary": "Actress Lena Dunham, model Gigi Hadid and longtime music collaborator Jack Antonoff were spotted in formal attire near Madison Square Garden.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 03 Jul 2026 02:33:40 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Fri, 03 Jul 2026 03:50:18 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss"
   }
 ]
