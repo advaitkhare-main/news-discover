@@ -50,56 +50,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c20y39wy760o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1544448.html",
-    "category": "sports",
-    "title": "Hope, Greaves stand tall after Jayasuriya double-strike",
-    "summary": "West Indies' fifth-wicket pair put on unbroken stand of 174 to remove peril from situation",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419400/419460.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 05 Jul 2026 23:19:17 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1544448.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1544498.html",
-    "category": "sports",
-    "title": "'Special' final a bittersweet moment for Nat Sciver-Brunt",
-    "summary": "England captain emotional after defeat at Lord's as hosts miss their shot at history",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419400/419412.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 05 Jul 2026 21:46:08 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1544498.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1544471.html",
-    "category": "sports",
-    "title": "Roderick, bowlers keep Worcestershire in hunt for knockouts",
-    "summary": "Home side scrabble up to par score and then run through Glamorgan for 15-run win",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419400/419459.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 05 Jul 2026 20:52:07 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1544471.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1544488.html",
-    "category": "sports",
-    "title": "Middlesex claim rare win thanks to Hollman heroics",
-    "summary": "Simon Harmer's career-best with the bat gives Essex a sniff in low-scoring dogfight",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/405100/405159.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 05 Jul 2026 19:48:26 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1544488.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1544468.html",
-    "category": "sports",
-    "title": "Australia in seventh heaven as Mooney, Litchfield seal T20 WC in style",
-    "summary": "England's 150 was never going to be enough, as Mooney and Litchfield shared a century stand to maintain Australia's perfect record in T20 World Cup finals",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419400/419439.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 05 Jul 2026 19:44:47 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1544468.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -120,174 +70,264 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-topix-rises-on-oil-price-drop-nikkei-weighed-down-by-tech/articleshow/132209914.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/britains-ftse-indexes-slip-as-miners-offset-financial-gains/articleshow/132215686.cms",
     "category": "finance",
-    "title": "Global Market: Japan's Topix rises on oil price drop, Nikkei weighed down by tech",
-    "summary": "Japanese stocks saw a positive start to the week, with the Topix index extending its winning streak to six sessions, buoyed by falling oil prices and a strong global market. While the tech-heavy Nikkei 225 remained flat, sectors like shipping and aut",
-    "image": "https://img.etimg.com/photo/msid-132209914,imgsize-180512.cms",
+    "title": "Britain's FTSE indexes slip as miners offset financial gains",
+    "summary": "London's FTSE 100 saw a slight dip as precious metal miners declined, countered by gains in financial stocks. EasyJet surged on a sweetened takeover bid, while ITV advanced after agreeing to sell its media division. Investors are also watching for po",
+    "image": "https://img.etimg.com/photo/msid-132215686,imgsize-100982.cms",
     "source": "ET",
-    "pubDate": "Mon, 06 Jul 2026 12:21:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-topix-rises-on-oil-price-drop-nikkei-weighed-down-by-tech/articleshow/132209914.cms"
+    "pubDate": "Mon, 06 Jul 2026 17:07:02 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/britains-ftse-indexes-slip-as-miners-offset-financial-gains/articleshow/132215686.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-kospi-slides-after-early-surge-as-ai-stocks-face-valuation-pressure/articleshow/132209618.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/not-just-elon-musk-retail-investors-are-losing-money-in-tesla-and-spacex-crash-what-should-you-do/articleshow/132215596.cms",
     "category": "finance",
-    "title": "Global Market: Kospi slides after early surge as AI stocks face valuation pressure",
-    "summary": "Indian investors are watching as South Korean stocks reversed early gains due to concerns over high valuations in AI-linked companies. Despite this, broader Asian markets found support from falling crude oil prices. SK Hynix's upcoming US listing and",
-    "image": "https://img.etimg.com/photo/msid-132209618,imgsize-114804.cms",
+    "title": "Not just Elon Musk; retail investors are losing money in Tesla and SpaceX crash. What should you do?",
+    "summary": "The sharp correction in Tesla and SpaceX has dented retail investors' portfolios, including those of Indians investing in US stocks. Experts say the selloff reflects a broader repricing of AI-linked stocks and advise investors to review portfolio all",
+    "image": "https://img.etimg.com/photo/msid-132215596,imgsize-2341631.cms",
     "source": "ET",
-    "pubDate": "Mon, 06 Jul 2026 12:09:06 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-kospi-slides-after-early-surge-as-ai-stocks-face-valuation-pressure/articleshow/132209618.cms"
+    "pubDate": "Mon, 06 Jul 2026 16:56:25 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/not-just-elon-musk-retail-investors-are-losing-money-in-tesla-and-spacex-crash-what-should-you-do/articleshow/132215596.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/weather-today-live-updates-mumbai-delhi-north-india-rain-imd-alert-monsoon-rains-hit-air-travel-flights-diverted-across-delhi-mumbai-11731692#publisher=newsstand",
-    "category": "india",
-    "title": "Weather Today LIVE: Heavy Rain Grounds Flights, Triggers Flood Alerts Across India",
-    "summary": "Monsoon Alert Live Updates: The disruptions occurred amid the ongoing monsoon season, when periods of intense rainfall and gusty winds frequently impact air travel, particularly on high-density routes such as the Delhi-Mumbai corridor.",
-    "image": "https://c.ndtvimg.com/2026-07/h74nrakg_mumbai-rain_625x300_06_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Jul 2026 12:05:44 +0530",
-    "link": "https://www.ndtv.com/india-news/weather-today-live-updates-mumbai-delhi-north-india-rain-imd-alert-monsoon-rains-hit-air-travel-flights-diverted-across-delhi-mumbai-11731692#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/feature/iit-bombay-graduates-viral-sacrifice-story-found-to-be-fictional-claims-debunked-online-11729563#publisher=newsstand",
-    "category": "india",
-    "title": "IIT Bombay Graduate's Viral Sacrifice Story Found To Be Fictional, Claims Debunked Online",
-    "summary": "The story is believed to have originated from a LinkedIn post by Dr Dilip Gosai over a month ago.",
-    "image": "https://c.ndtvimg.com/2026-07/f0v1b0v8_-vivek-sharma_625x300_05_July_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Jul 2026 12:05:21 +0530",
-    "link": "https://www.ndtv.com/feature/iit-bombay-graduates-viral-sacrifice-story-found-to-be-fictional-claims-debunked-online-11729563#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/sukhbir-singh-badal-condemns-ban-on-satluj-film-shocked-and-saddened-11732286#publisher=newsstand",
-    "category": "india",
-    "title": "\"Shocked And Saddened\": Sukhbir Singh Badal Condemns Ban On 'Satluj' Film",
-    "summary": "Sukhbir Singh Badal slammed the removal of Diljit Dosanjh's long-delayed film \"Satluj\"",
-    "image": "https://c.ndtvimg.com/2024-12/fvbjhkro_sukhbir-singh-badal-_625x300_07_December_24.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Jul 2026 12:04:37 +0530",
-    "link": "https://www.ndtv.com/india-news/sukhbir-singh-badal-condemns-ban-on-satluj-film-shocked-and-saddened-11732286#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/mumbai-monsoon-maharashtra-monsoon-monsoon-deaths-massive-landslide-buries-houses-in-pune-as-monsoon-mayhem-continues-11732242#publisher=newsstand",
-    "category": "india",
-    "title": "Landslide Buries Houses In Pune, Massive Congestion On Mumbai-Pune Highway",
-    "summary": "Authorities are continuing efforts to locate and rescue people",
-    "image": "https://c.ndtvimg.com/2026-07/5loq92io_pune-landslide_625x300_06_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Jul 2026 12:02:04 +0530",
-    "link": "https://www.ndtv.com/india-news/mumbai-monsoon-maharashtra-monsoon-monsoon-deaths-massive-landslide-buries-houses-in-pune-as-monsoon-mayhem-continues-11732242#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/video-roof-collapses-at-ratnagiri-railway-station-in-maharashtra-amid-heavy-rain-11732427#publisher=newsstand",
-    "category": "india",
-    "title": "Video: Roof Collapses At Ratnagiri Railway Station In Maharashtra Amid Heavy Rain",
-    "summary": "Visuals showed a 50-foot section of the roof lying on the floor on the outer area of the station.",
-    "image": "https://c.ndtvimg.com/2026-07/3p1fjl88_ratnagiri-station-roof-collapse_625x300_06_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 06 Jul 2026 12:01:50 +0530",
-    "link": "https://www.ndtv.com/india-news/video-roof-collapses-at-ratnagiri-railway-station-in-maharashtra-amid-heavy-rain-11732427#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-profit-booking-fears-rise-as-hong-kongs-hottest-ipos-face-lock-up-expiry/articleshow/132209417.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/indusind-bank-among-6-stocks-to-hit-52-week-highs-amp-rally-up-to-25-in-a-month/slideshow/132215546.cms",
     "category": "finance",
-    "title": "Global Market: Profit-booking fears rise as Hong Kong's hottest IPOs face lock-up expiry",
-    "summary": "Hong Kong's equity market is set for a record wave of lock-up expirations, with billions of dollars' worth of previously restricted shares becoming eligible for trading. Analysts warn the increased supply could weigh on stock prices, even as strong I",
-    "image": "https://img.etimg.com/photo/msid-132209417,imgsize-46962.cms",
+    "title": "IndusInd Bank among 6 stocks to hit 52-week highs &amp; rally up to 25% in a month",
+    "summary": "Six BSE 100 stocks, including Cholamandalam Investment, IndusInd Bank and Lupin, touched fresh 52-week highs as the Sensex climbed 521 points. The milestone reflects strong buying interest, positive momentum and growing investor confidence amid the b",
+    "image": "https://img.etimg.com/photo/msid-132215497,imgsize-680537.cms",
     "source": "ET",
-    "pubDate": "Mon, 06 Jul 2026 12:00:07 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-profit-booking-fears-rise-as-hong-kongs-hottest-ipos-face-lock-up-expiry/articleshow/132209417.cms"
+    "pubDate": "Mon, 06 Jul 2026 16:51:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/indusind-bank-among-6-stocks-to-hit-52-week-highs-amp-rally-up-to-25-in-a-month/slideshow/132215546.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/cbse-class-10-second-board-result-2026-live-marksheet-soon-check-latest-updates-here-11728393#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/canadian-man-builds-hands-free-flying-umbrella-that-follows-its-user-11733534#publisher=newsstand",
     "category": "india",
-    "title": "CBSE Class 10 Second Board Result Highlights: Marksheet Soon, Check Latest Updates Here",
-    "summary": "CBSE Class 10 Second Board Result 2026 Session 2 marksheet expected soon on official websites.",
-    "image": "https://c.ndtvimg.com/2026-07/496gjgf_cbse_625x300_05_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "Viral Again: Flying Umbrella That Follows Its User Turns Heads Online",
+    "summary": "He first built a smaller test drone to experiment safely before moving to the larger umbrella.",
+    "image": "https://c.ndtvimg.com/2026-07/a6g9ljus_viral-video_625x300_06_July_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 06 Jul 2026 11:59:57 +0530",
-    "link": "https://www.ndtv.com/education/cbse-class-10-second-board-result-2026-live-marksheet-soon-check-latest-updates-here-11728393#publisher=newsstand"
+    "pubDate": "Mon, 06 Jul 2026 16:48:11 +0530",
+    "link": "https://www.ndtv.com/world-news/canadian-man-builds-hands-free-flying-umbrella-that-follows-its-user-11733534#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korea-launches-24-hour-onshore-dollar-won-trading-to-boost-global-market-appeal/articleshow/132209361.cms",
-    "category": "finance",
-    "title": "Global Market: South Korea launches 24-hour onshore dollar-won trading to boost global market appeal",
-    "summary": "South Korea has launched a 24-hour onshore dollar-won trading system, a significant move to boost currency accessibility and global appeal. This extended trading window aims to attract foreign investors and improve market liquidity, aligning with Seo",
-    "image": "https://img.etimg.com/photo/msid-132209361,imgsize-74506.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Jul 2026 11:55:23 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korea-launches-24-hour-onshore-dollar-won-trading-to-boost-global-market-appeal/articleshow/132209361.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bank-rises-400-points-as-hdfc-bank-indusind-other-stocks-jump-up-to-3-after-q1-updates/articleshow/132209268.cms",
-    "category": "finance",
-    "title": "Nifty Bank rises 400 points as HDFC Bank, IndusInd, other stocks jump up to 3% after Q1 updates",
-    "summary": "The Nifty Bank index rose over 400 points on Monday as gains in HDFC Bank, IndusInd Bank and ICICI Bank outweighed a sharp decline in Kotak Mahindra Bank. Investors reacted to first-quarter business updates, with HDFC Bank emerging as the top gainer ",
-    "image": "https://img.etimg.com/photo/msid-132209268,imgsize-117741.cms",
-    "source": "ET",
-    "pubDate": "Mon, 06 Jul 2026 11:51:55 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bank-rises-400-points-as-hdfc-bank-indusind-other-stocks-jump-up-to-3-after-q1-updates/articleshow/132209268.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/opinion/satluj-jaswant-singh-khalra-and-when-disappearance-becomes-the-story-itself-11732376#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/ministry-announces-national-poetry-festival-2026-for-school-students-of-classes-9-to-12-check-details-here-11733719#publisher=newsstand",
     "category": "india",
-    "title": "Opinion: Opinion | Satluj, Jaswant Singh Khalra, And When Disappearance Is The Story",
-    "summary": "Jaswant Singh Khalra followed the dead to restore their dignity. Three decades later, a film on his life briefly appeared and then disappeared from Indian screens.",
-    "image": "https://c.ndtvimg.com/2026-07/5s2faj1g_diljit_295x200_04_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "Ministry Announces National Poetry Festival 2026 For School Students: Check Details Here",
+    "summary": "An opportunity for students of Classes 9 to 12 to showcase their poetry recitation talent.",
+    "image": "https://c.ndtvimg.com/2026-07/ect493bc_school_625x300_06_July_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Mon, 06 Jul 2026 11:49:34 +0530",
-    "link": "https://www.ndtv.com/opinion/satluj-jaswant-singh-khalra-and-when-disappearance-becomes-the-story-itself-11732376#publisher=newsstand"
+    "pubDate": "Mon, 06 Jul 2026 16:46:22 +0530",
+    "link": "https://www.ndtv.com/education/ministry-announces-national-poetry-festival-2026-for-school-students-of-classes-9-to-12-check-details-here-11733719#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/video-bikers-perform-stunts-block-ambulance-with-patient-in-bengaluru-11732377#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/pipeline-work-to-hit-water-supply-in-delhi-check-list-of-affected-areas-11732750#publisher=newsstand",
     "category": "india",
-    "title": "Video: Bikers Perform Stunts, Block Ambulance With Patient In Bengaluru",
-    "summary": "The ambulance was moving with its siren on.",
-    "image": "https://c.ndtvimg.com/2026-07/iv4mlmsg_bike_625x300_06_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Pipeline Work To Hit Water Supply In Delhi: Check List Of Affected Areas",
+    "summary": "Water supply through tankers will be deployed on request.",
+    "image": "https://c.ndtvimg.com/delhi-water-crisis_625x300_1530181536010.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Mon, 06 Jul 2026 11:48:01 +0530",
-    "link": "https://www.ndtv.com/india-news/video-bikers-perform-stunts-block-ambulance-with-patient-in-bengaluru-11732377#publisher=newsstand"
+    "pubDate": "Mon, 06 Jul 2026 16:44:56 +0530",
+    "link": "https://www.ndtv.com/india-news/pipeline-work-to-hit-water-supply-in-delhi-check-list-of-affected-areas-11732750#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/laser-power-infra-sets-price-band-for-rs-742-crore-ipo-gmp-signals-11-premium-check-details/articleshow/132209164.cms",
+    "id": "https://www.ndtv.com/india-news/champat-rais-resignation-accepted-by-ram-temple-trust-amid-donation-theft-row-11733536#publisher=newsstand",
+    "category": "india",
+    "title": "Champat Rai's Resignation Accepted By Ram Temple Trust Amid Donation Theft Row",
+    "summary": "Among the frontrunners to succeed Champat Rai is Bajrang Bagra, sources said.",
+    "image": "https://c.ndtvimg.com/2026-06/0v7vdga_champat-rai-ram-temple-_650x400_26_June_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Jul 2026 16:42:24 +0530",
+    "link": "https://www.ndtv.com/india-news/champat-rais-resignation-accepted-by-ram-temple-trust-amid-donation-theft-row-11733536#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/russia-ukraine-war-like-freedom-how-armenia-became-safe-haven-for-russians-fleeing-putin-11732167#publisher=newsstand",
+    "category": "india",
+    "title": "\"Like Freedom\": How Armenia Became Safe Haven For Russians Fleeing Putin",
+    "summary": "Yerevan has become a safe place for tens of thousands of Russians.",
+    "image": "https://c.ndtvimg.com/2024-07/5rrsgqno_russia-ukraine-war_625x300_09_July_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Jul 2026 16:41:39 +0530",
+    "link": "https://www.ndtv.com/world-news/russia-ukraine-war-like-freedom-how-armenia-became-safe-haven-for-russians-fleeing-putin-11732167#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/analysis-is-bangladeshs-china-pivot-just-positioning-for-negotiations-with-india-11733691#publisher=newsstand",
+    "category": "india",
+    "title": "Analysis: Is Bangladesh's China Pivot Just Positioning For Negotiations With India",
+    "summary": "Tarique Rahman with Xi Jinping in Beijing.",
+    "image": "https://c.ndtvimg.com/2026-06/cmrmo6fg_tarique-rahman-xi-jinping_625x300_26_June_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Jul 2026 16:41:33 +0530",
+    "link": "https://www.ndtv.com/india-news/analysis-is-bangladeshs-china-pivot-just-positioning-for-negotiations-with-india-11733691#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/how-spacex-investors-minted-money-before-and-after-historic-75-billion-ipo-on-binance/articleshow/132215328.cms",
     "category": "finance",
-    "title": "Laser Power &amp; Infra sets price band for Rs 742 crore IPO; GMP signals 11% premium. Check details",
-    "summary": "Laser Power &amp; Infra has fixed the price band for its Rs 742-crore IPO at Rs 203-214 per share. The issue opens on July 9 and closes on July 13, with an 11% grey market premium indicating strong investor interest. The company plans to use most of ",
-    "image": "https://img.etimg.com/photo/msid-132209164,imgsize-47616.cms",
+    "title": "How SpaceX investors minted money before and after historic $75 billion IPO on Binance",
+    "summary": "Binance highlighted how eligible users gained exposure to SpaceX before, during and after its record IPO through pre-IPO perpetuals, direct stock trading and tokenised bStocks. The exchange said the multi-stage approach drove strong trading volumes, ",
+    "image": "https://img.etimg.com/photo/msid-132215328,imgsize-116792.cms",
     "source": "ET",
-    "pubDate": "Mon, 06 Jul 2026 11:47:42 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/laser-power-infra-sets-price-band-for-rs-742-crore-ipo-gmp-signals-11-premium-check-details/articleshow/132209164.cms"
+    "pubDate": "Mon, 06 Jul 2026 16:41:25 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/how-spacex-investors-minted-money-before-and-after-historic-75-billion-ipo-on-binance/articleshow/132215328.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/midcap-stocks-ignore-middle-east-war-ai-worries-to-jump-up-to-85-in-2026-more-rally-or-sharp-correction-ahead/articleshow/132209109.cms",
+    "id": "https://www.ndtv.com/india-news/ins-mahendragiri-indias-6th-stealth-frigate-to-join-navy-fleet-on-july-11-11733590#publisher=newsstand",
+    "category": "india",
+    "title": "INS Mahendragiri, India's 6th Stealth Frigate, To Join Navy Fleet On July 11",
+    "summary": "The Navy said the warship is equipped with an advanced suite of weapons and sensors",
+    "image": "https://c.ndtvimg.com/2026-07/fkqa3mv8_ins-mahendragiri-_625x300_06_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Jul 2026 16:38:59 +0530",
+    "link": "https://www.ndtv.com/india-news/ins-mahendragiri-indias-6th-stealth-frigate-to-join-navy-fleet-on-july-11-11733590#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/could-be-misused-by-anti-india-forces-sources-on-why-satluj-was-pulled-down-11732102#publisher=newsstand",
+    "category": "india",
+    "title": "\"Could Be Misused By Anti-India Forces\": Sources On Why 'Satluj' Was Pulled Down",
+    "summary": "Satluj was denied theatrical release approval in its present form",
+    "image": "https://c.ndtvimg.com/2026-07/nc46gg18_satluj_625x300_06_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 06 Jul 2026 16:33:52 +0530",
+    "link": "https://www.ndtv.com/india-news/could-be-misused-by-anti-india-forces-sources-on-why-satluj-was-pulled-down-11732102#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/easyjet-shares-rally-10-on-potential-7-3-billion-acquisition-by-castlelake/articleshow/132215061.cms",
     "category": "finance",
-    "title": "Midcap stocks ignore Middle East war, AI worries to jump up to 85% in 2026. More rally or sharp correction ahead?",
-    "summary": "Despite a weak first half for benchmark indices, India's midcap stocks outperformed, driven by resilient domestic inflows, stronger earnings and sectoral tailwinds. Analysts expect the momentum to continue, although elevated valuations, geopolitical ",
-    "image": "https://img.etimg.com/photo/msid-132209109,imgsize-97442.cms",
+    "title": "EasyJet shares rally 10% on potential $7.3 billion acquisition by Castlelake",
+    "summary": "EasyJet shares jumped nearly 10% after the airline reached an agreement in principle with US investment firm Castlelake over a potential $7.3 billion acquisition. Castlelake's revised offer of \u00a36.90 per share represents a nearly 24% premium to easyJe",
+    "image": "https://img.etimg.com/photo/msid-132215061,imgsize-69530.cms",
     "source": "ET",
-    "pubDate": "Mon, 06 Jul 2026 11:44:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/midcap-stocks-ignore-middle-east-war-ai-worries-to-jump-up-to-85-in-2026-more-rally-or-sharp-correction-ahead/articleshow/132209109.cms"
+    "pubDate": "Mon, 06 Jul 2026 16:26:29 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/easyjet-shares-rally-10-on-potential-7-3-billion-acquisition-by-castlelake/articleshow/132215061.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-track-treasury-gains-monsoon-foreign-inflow-lend-support/articleshow/132209045.cms",
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-three-week-low-at-95-39-vs-usd-as-firmer-dollar-ndf-maturities-pinch/articleshow/132214128.cms",
     "category": "finance",
-    "title": "India bonds track Treasury gains; monsoon, foreign inflow lend support",
-    "summary": "Indian government bonds saw a rise on Monday, mirroring gains in U.S. Treasuries. Improved monsoon forecasts and consistent foreign investment bolstered market sentiment. The benchmark 10-year bond yield dipped below a key technical level, signaling ",
-    "image": "https://img.etimg.com/photo/msid-132209045,imgsize-21698.cms",
+    "title": "Rupee hits three-week low at 95.39 vs USD as firmer dollar, NDF maturities pinch",
+    "summary": "The Indian rupee touched a three-week low against the dollar on Monday, influenced by a stronger greenback and demand for foreign currency. While falling oil prices and measures to boost dollar inflows offered some support, corporate arbitrage trades",
+    "image": "https://img.etimg.com/photo/msid-132214128,imgsize-39674.cms",
     "source": "ET",
-    "pubDate": "Mon, 06 Jul 2026 11:39:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-track-treasury-gains-monsoon-foreign-inflow-lend-support/articleshow/132209045.cms"
+    "pubDate": "Mon, 06 Jul 2026 15:46:42 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-three-week-low-at-95-39-vs-usd-as-firmer-dollar-ndf-maturities-pinch/articleshow/132214128.cms"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o#0",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-citi-joins-londons-bullion-clearing-network-in-major-precious-metals-expansion/articleshow/132214112.cms",
+    "category": "finance",
+    "title": "Global Market: Citi joins London's bullion clearing network in major precious metals expansion",
+    "summary": "Citi has joined London's over-the-counter gold market clearing network, becoming the fifth bank to do so. This significant move expands the bullion trade's settlement infrastructure, which handles approximately $160 billion in daily transactions. Cit",
+    "image": "https://img.etimg.com/photo/msid-132214112,imgsize-37484.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Jul 2026 15:41:26 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-citi-joins-londons-bullion-clearing-network-in-major-precious-metals-expansion/articleshow/132214112.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-aims-to-ease-shorting-by-nearly-doubling-stocks-eligible-for-borrowing-report/articleshow/132213829.cms",
+    "category": "finance",
+    "title": "Sebi aims to ease shorting by nearly doubling stocks eligible for borrowing: Report",
+    "summary": "India's market regulator is set to nearly double the number of stocks available for short selling, aiming to invigorate the cash market and steer investors from riskier derivatives. Collateral requirements are also slated for reduction. These moves f",
+    "image": "https://img.etimg.com/photo/msid-132213829,imgsize-105672.cms",
+    "source": "ET",
+    "pubDate": "Mon, 06 Jul 2026 15:29:34 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-aims-to-ease-shorting-by-nearly-doubling-stocks-eligible-for-borrowing-report/articleshow/132213829.cms"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1544557.html",
+    "category": "sports",
+    "title": "Hampshire secure double signing to lead post-Vince and Dawson rebuild",
+    "summary": "Rishi Patel and Fynn Hudson-Prentice to join from Leicestershire and Sussex respectively",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/383400/383473.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 06 Jul 2026 11:45:51 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544557.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c77yykl87yno#0",
     "category": "global",
-    "title": "ITV sells media and entertainment arm to Sky for \u00a31.6bn",
-    "summary": "The two broadcasters say the deal will create a strong rival to global streaming giants.",
+    "title": "Buckingham Palace says Prince Harry will not stay there despite his team announcing he would",
+    "summary": "Royal sources say the Duke of Sussex had not responded to the offer of accommodation at a Royal residence by the deadline last week.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 06 Jul 2026 07:00:31 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 06 Jul 2026 11:31:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c77yykl87yno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1544558.html",
+    "category": "sports",
+    "title": "Nahid Rana breaks Zimbabwe while registering best ODI figures for Bangladesh",
+    "summary": "His first strike came with Zimbabwe three down, yet he had 6 for 21 at the end",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419400/419483.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 06 Jul 2026 11:28:03 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544558.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo#0",
+    "category": "global",
+    "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
+    "summary": "The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 06 Jul 2026 11:09:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1544542.html",
+    "category": "sports",
+    "title": "Notts sign Binura Fernando as Mohammad Ali replacement",
+    "summary": "Sri Lanka seamer available for last two group games and knockout stage",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/403600/403663.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 06 Jul 2026 11:01:45 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544542.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/videos/c1kyylkz9vyo#0",
+    "category": "global",
+    "title": "Watch: Why Australia's PM apologised for 'inappropriate' Kylie comments",
+    "summary": "Australian Prime Minister Anthony Albanese has apologised for remarks he made about popstar Kylie Minogue in a podcast interview last week.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 06 Jul 2026 10:00:08 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c1kyylkz9vyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o#0",
+    "category": "global",
+    "title": "Uefa says 'integrity of game at stake' after Fifa's decision to overturn US star's red card ban",
+    "summary": "European football's governing body criticises Fifa's decision to suspend Folarin Balogun's automatic one-match ban following an intervention by US president Donald Trump.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 06 Jul 2026 08:36:59 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1544539.html",
+    "category": "sports",
+    "title": "Bangladesh bowl against Zimbabwe under slightly overcast skies",
+    "summary": "Taskin Ahmed and Nahid Rana were back in Bangladesh's side while Raza returned to XI for Zimbabwe",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/403300/403374.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 06 Jul 2026 08:18:57 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544539.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cql11kk90zgo#0",
+    "category": "global",
+    "title": "Farage says he's 'done no wrongdoing' after benefits from ally not declared",
+    "summary": "The Liberal Democrats have asked the Reform UK leader to be \"straight with the British people\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 06 Jul 2026 08:11:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cql11kk90zgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1544537.html",
+    "category": "sports",
+    "title": "Hosein, Moqim to play for Perth Scorchers in Global Super League",
+    "summary": "Regular captain Ashton Turner will lead the team which also includes Jhye Richardson and Aaron Hardie",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/411900/411999.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 06 Jul 2026 07:49:16 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544537.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1544530.html",
@@ -338,46 +378,6 @@
     "source": "BBC",
     "pubDate": "Mon, 06 Jul 2026 05:01:11 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c1my27lyjx9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/videos/c9w22dqpjw9o#0",
-    "category": "global",
-    "title": "Watch key moments from England's 3-2 win at the Azteca",
-    "summary": "Jude Bellingham scores twice and Harry Kane converts a penalty as 10-man England beat Mexico 3-2 in the World Cup.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 06 Jul 2026 04:06:23 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/videos/c9w22dqpjw9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cr477en6w3go#0",
-    "category": "global",
-    "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
-    "summary": "Albanese has apologised 'unequivocally' after his remarks prompted a backlash.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 06 Jul 2026 01:46:29 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c0jyyw59gpjo#0",
-    "category": "global",
-    "title": "Overseas voters moving to UK could face \u00a3100,000 donations cap for year",
-    "summary": "The planned changes are part of the government's response to a review of political funding.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 06 Jul 2026 00:51:42 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c0jyyw59gpjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo#0",
-    "category": "global",
-    "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
-    "summary": "The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 06 Jul 2026 00:06:42 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
