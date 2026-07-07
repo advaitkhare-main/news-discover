@@ -30,164 +30,194 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-15-paise-to-95-28-against-us-dollar-in-early-trade/articleshow/132230211.cms",
-    "category": "finance",
-    "title": "Rupee rises 15 paise to 95.28 against US dollar in early trade",
-    "summary": "The Indian rupee gained fifteen paise against the US dollar in early trade. Saudi Arabia's significant slash in August crude oil prices for Asia improved market sentiment. Lower Middle East risk premiums and improved supply conditions contributed to ",
-    "image": "https://img.etimg.com/photo/msid-132230211,imgsize-38656.cms",
-    "source": "ET",
-    "pubDate": "Tue, 07 Jul 2026 09:54:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-15-paise-to-95-28-against-us-dollar-in-early-trade/articleshow/132230211.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sumitomo-chemical-among-4-stocks-that-closed-crossing-below-vwap/slideshow/132230126.cms",
-    "category": "finance",
-    "title": "Sumitomo Chemical among 4 stocks that closed crossing below VWAP",
-    "summary": "Four Nifty500 stocks, Zydus Wellness, Sumitomo Chemical India, Max Healthcare Institute, and Zensar Technologies, closed over 1.5% below their VWAP on July 6, indicating potential bearish momentum and increased selling pressure, according to technica",
-    "image": "https://img.etimg.com/photo/msid-132230105,imgsize-293998.cms",
-    "source": "ET",
-    "pubDate": "Tue, 07 Jul 2026 09:45:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sumitomo-chemical-among-4-stocks-that-closed-crossing-below-vwap/slideshow/132230126.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-hedge-funds-extend-selloff-in-tech-hardware-stocks-ahead-of-earnings-goldman-sachs/articleshow/132230055.cms",
-    "category": "finance",
-    "title": "US Stock Market | Hedge funds extend selloff in tech hardware stocks ahead of earnings: Goldman Sachs",
-    "summary": "US hedge funds cut exposure to technology hardware stocks for a fourth straight week ahead of the earnings season, amid weakness in semiconductor shares and concerns over AI-related spending. They also trimmed holdings in industrials and consumer dis",
-    "image": "https://img.etimg.com/photo/msid-132230055,imgsize-37404.cms",
-    "source": "ET",
-    "pubDate": "Tue, 07 Jul 2026 09:42:32 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-hedge-funds-extend-selloff-in-tech-hardware-stocks-ahead-of-earnings-goldman-sachs/articleshow/132230055.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/poonawalla-fincorp-among-4-stocks-closed-above-vwap-signalling-a-bullish-shift/slideshow/132230016.cms",
-    "category": "finance",
-    "title": "Poonawalla Fincorp among 4 stocks closed above VWAP, signalling a bullish shift",
-    "summary": "On July sixth, four Nifty500 stocks saw closing prices rally by over 1.5 percent.  This movement above their Volume Weighted Average Price suggests a potential bullish trend.  Karur Vysya Bank and Poonawalla Fincorp showed significant price increases",
-    "image": "https://img.etimg.com/photo/msid-132229976,imgsize-293865.cms",
-    "source": "ET",
-    "pubDate": "Tue, 07 Jul 2026 09:37:19 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/poonawalla-fincorp-among-4-stocks-closed-above-vwap-signalling-a-bullish-shift/slideshow/132230016.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-hong-kong-launches-gold-clearing-system-revives-futures-trading-to-strengthen-bullion-hub-ambitions/articleshow/132229958.cms",
-    "category": "finance",
-    "title": "Global market: Hong Kong launches gold clearing system, revives futures trading to strengthen bullion hub ambitions",
-    "summary": "Hong Kong launched a central clearing system and revived gold futures trading.  These initiatives aim to strengthen the city's gold trading infrastructure. Tax incentives will also support gold trading and settlement activities. A \"Delivery Connect\" ",
-    "image": "https://img.etimg.com/photo/msid-132229958,imgsize-48164.cms",
-    "source": "ET",
-    "pubDate": "Tue, 07 Jul 2026 09:35:40 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-hong-kong-launches-gold-clearing-system-revives-futures-trading-to-strengthen-bullion-hub-ambitions/articleshow/132229958.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-emerges-as-diversification-bet-for-investors-amid-market-volatility/articleshow/132229928.cms",
-    "category": "finance",
-    "title": "Global Market: China emerges as diversification bet for investors amid market volatility",
-    "summary": "Global investors now see Chinese assets as diversification, not just growth.  China's markets show resilience amid global volatility and geopolitical tensions.  This shift encourages fresh inflows into Chinese bond and equity markets.  The yuan's str",
-    "image": "https://img.etimg.com/photo/msid-132229928,imgsize-77562.cms",
-    "source": "ET",
-    "pubDate": "Tue, 07 Jul 2026 09:32:55 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-emerges-as-diversification-bet-for-investors-amid-market-volatility/articleshow/132229928.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/is-indias-favourite-gold-losing-its-appeal-as-a-safe-haven-in-volatile-market-this-year/articleshow/132229816.cms",
-    "category": "finance",
-    "title": "Is India's favourite gold losing its appeal as a safe-haven in volatile market this year?",
-    "summary": "Gold's appeal as a safe haven has slowed after a strong rally this year.  Profit-booking and easing geopolitical tensions have led to a market reassessment.  The US Federal Reserve's interest rate stance remains a significant factor for gold prices. ",
-    "image": "https://img.etimg.com/photo/msid-132229816,imgsize-1860856.cms",
-    "source": "ET",
-    "pubDate": "Tue, 07 Jul 2026 09:28:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/is-indias-favourite-gold-losing-its-appeal-as-a-safe-haven-in-volatile-market-this-year/articleshow/132229816.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-150-points-nifty-above-24450-as-market-extends-gains-for-5th-consecutive-day/articleshow/132209592.cms",
-    "category": "finance",
-    "title": "Sensex rises over 150 points, Nifty above 24,450 as market extends gains for the 5th consecutive day",
-    "summary": "Indian stock markets traded higher on Tuesday, extending gains for a fifth consecutive session. Oil prices remained near pre-war levels, and foreign investors continued their buying trend. Sensex and Nifty both saw upward movement, with broader marke",
-    "image": "https://img.etimg.com/photo/msid-132209592,imgsize-110072.cms",
-    "source": "ET",
-    "pubDate": "Tue, 07 Jul 2026 09:28:47 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-150-points-nifty-above-24450-as-market-extends-gains-for-5th-consecutive-day/articleshow/132209592.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/education/icai-denies-student-records-exam-data-breach-warns-against-rumours-11736709#publisher=newsstand",
+    "id": "https://www.ndtv.com/kerala-news/on-camera-massive-landslide-in-keralas-wayanad-after-heavy-rain-11737542#publisher=newsstand",
     "category": "india",
-    "title": "ICAI Denies Student Records, Exam Data Breach; Warns Against Rumours",
-    "summary": "Institute Of Chartered Accountants Of India Confirms No Breach Of Student Data",
-    "image": "https://c.ndtvimg.com/2026-06/gglf2nu8_ca_625x300_14_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "2 Killed In Massive Landslide In Kerala's Wayanad After Heavy Rain",
+    "summary": "Construction workers were present in the area when the incident took place",
+    "image": "https://c.ndtvimg.com/2026-07/4uj85tko_wayanad-landslide_625x300_07_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Tue, 07 Jul 2026 09:22:33 +0530",
-    "link": "https://www.ndtv.com/education/icai-denies-student-records-exam-data-breach-warns-against-rumours-11736709#publisher=newsstand"
+    "pubDate": "Tue, 07 Jul 2026 13:33:25 +0530",
+    "link": "https://www.ndtv.com/kerala-news/on-camera-massive-landslide-in-keralas-wayanad-after-heavy-rain-11737542#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/delhi-ev-policy-2026-impact-of-electric-vehicles-on-air-pollution-in-delhi-transition-to-electric-vehicles-delhis-air-pollution-11732598#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/months-after-row-ncert-removes-corruption-in-judiciary-chapter-from-class-8-textbook-11737749#publisher=newsstand",
     "category": "india",
-    "title": "Can A Transition To Electric Vehicles Solves Delhi's Air Pollution?",
-    "summary": "Delhi EV policy launched \"to curb vehicular pollution and accelerate transition towards clean mobility.\"",
-    "image": "https://c.ndtvimg.com/2026-07/fq03fua8_ev-and-air-pollution_625x300_07_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Months After Row, NCERT Removes 'Corruption In Judiciary' Chapter From Class 8 Textbook",
+    "summary": "The withdrawn edition credited 51 people on its textbook development team; the revised one lists 48.",
+    "image": "https://c.ndtvimg.com/2026-02/s8t065lc_supreme-court-ncert-textbook-social-science-_650x400_25_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Tue, 07 Jul 2026 09:20:30 +0530",
-    "link": "https://www.ndtv.com/india-news/delhi-ev-policy-2026-impact-of-electric-vehicles-on-air-pollution-in-delhi-transition-to-electric-vehicles-delhis-air-pollution-11732598#publisher=newsstand"
+    "pubDate": "Tue, 07 Jul 2026 13:32:56 +0530",
+    "link": "https://www.ndtv.com/education/months-after-row-ncert-removes-corruption-in-judiciary-chapter-from-class-8-textbook-11737749#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/business-news/stock-market-sensex-today-july-7-live-updates-indian-stock-market-set-to-open-in-green-11736403#publisher=newsstand",
-    "category": "india",
-    "title": "Stock Market, Sensex Live Updates: Sensex Up 100 Points, Nifty 26 Points Higher",
-    "summary": "Sensex Today, Nifty 50, Stock Market LIVE Updates",
-    "image": "https://c.ndtvimg.com/2026-06/dbn2kn6o_india-stock-market-bbg_625x300_23_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 07 Jul 2026 09:19:28 +0530",
-    "link": "https://www.ndtv.com/business-news/stock-market-sensex-today-july-7-live-updates-indian-stock-market-set-to-open-in-green-11736403#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/paras-defence-ideaforge-other-defence-stocks-slide-up-to-5-whats-triggering-the-selloff/articleshow/132234048.cms",
+    "category": "finance",
+    "title": "Paras Defence, ideaForge, other defence stocks slide up to 5%. What\u2019s triggering the selloff?",
+    "summary": "Defence stocks declined up to 5% as investors booked profits after a sharp rally triggered by the Defence Acquisition Council\u2019s approval of Rs 52,000 crore worth of acquisition proposals. Despite the correction, brokerages remained positive on the se",
+    "image": "https://img.etimg.com/photo/msid-132234048,imgsize-139306.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Jul 2026 13:25:34 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/paras-defence-ideaforge-other-defence-stocks-slide-up-to-5-whats-triggering-the-selloff/articleshow/132234048.cms"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/rs-42-000-for-medicines-rs-23-000-doctors-fee-x-user-praises-indias-affordability-after-us-medical-bill-shock-11736690#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/stolen-from-ram-temple-ayodhya-spent-on-iphone-for-girlfriend-avinash-shukla-confession-11737617#publisher=newsstand",
     "category": "india",
-    "title": "\"Rs 42,000 For Medicines, Rs 23,000 Doctor's Fee\": X User Praises India's Affordability After US Medical Bill Shock",
-    "summary": "Reflecting on the experience, he contrasted life in the US with everyday conveniences in India.",
-    "image": "https://c.ndtvimg.com/2026-07/nfhpfq5s_us-healthcare_625x300_07_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Stolen From Ram Temple, Spent On iPhone For Girlfriend: A Key Confession",
+    "summary": "Avinash Shukla allegedly made big revelations during his interrogation.",
+    "image": "https://c.ndtvimg.com/2026-07/ci69i6g4_avinash-shukla-ram-temple_625x300_07_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Tue, 07 Jul 2026 09:18:53 +0530",
-    "link": "https://www.ndtv.com/offbeat/rs-42-000-for-medicines-rs-23-000-doctors-fee-x-user-praises-indias-affordability-after-us-medical-bill-shock-11736690#publisher=newsstand"
+    "pubDate": "Tue, 07 Jul 2026 13:21:32 +0530",
+    "link": "https://www.ndtv.com/india-news/stolen-from-ram-temple-ayodhya-spent-on-iphone-for-girlfriend-avinash-shukla-confession-11737617#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/bengaluru-shocker-couple-kills-11-month-old-baby-stage-it-as-accident-11735822#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/golden-chapter-in-ties-pm-modi-unveils-ambitious-india-indonesia-agenda-11737687#publisher=newsstand",
     "category": "india",
-    "title": "Bengaluru Couple Kills 11-Month-Old Baby During Fight, Stages It As Accident",
-    "summary": "Post-mortem revealed the infant died due to excessive internal bleeding. (Representational Image)",
-    "image": "https://c.ndtvimg.com/2026-07/fu8jmemo_couple-kills-child_625x300_07_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "\"Golden Chapter In Ties\": PM Modi Unveils Ambitious India-Indonesia Agenda",
+    "summary": "Indonesia's President Prabowo Subianto welcomed PM Narendra Modi",
+    "image": "https://c.ndtvimg.com/2026-07/tdcpjco4_modi-in-jakarta_625x300_07_July_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Tue, 07 Jul 2026 09:16:58 +0530",
-    "link": "https://www.ndtv.com/india-news/bengaluru-shocker-couple-kills-11-month-old-baby-stage-it-as-accident-11735822#publisher=newsstand"
+    "pubDate": "Tue, 07 Jul 2026 13:20:02 +0530",
+    "link": "https://www.ndtv.com/world-news/golden-chapter-in-ties-pm-modi-unveils-ambitious-india-indonesia-agenda-11737687#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/jammu-kashmir-weather-doda-kishtwar-rainfall-flash-floods-landslides-monsoon-fury-in-jammu-and-kashmir-floods-landslides-damage-infrastructure-11736643#publisher=newsstand",
+    "id": "https://www.ndtv.com/opinion/sterilise-foreign-women-americas-citizenship-debate-is-getting-uglier-11737679#publisher=newsstand",
     "category": "india",
-    "title": "Monsoon Fury In Jammu And Kashmir, Floods, Landslides Damage Infrastructure",
-    "summary": "Incessant rainfall also triggered flash floods that damaged the Doda-Kishtwar highway on Monday",
-    "image": "https://c.ndtvimg.com/2026-07/onukrc4s_doda_625x300_07_July_26.jpeg",
+    "title": "Opinion: Opinion | 'Sterilise Foreign Women', And Other American Fantasies About Citizenship",
+    "summary": "Many commentators view the current debate as another chapter in Donald Trump's political story. That explanation is incomplete.",
+    "image": "https://c.ndtvimg.com/2018-10/om03bfrc_donald-trump-reuters_625x300_30_October_18.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Tue, 07 Jul 2026 09:09:56 +0530",
-    "link": "https://www.ndtv.com/india-news/jammu-kashmir-weather-doda-kishtwar-rainfall-flash-floods-landslides-monsoon-fury-in-jammu-and-kashmir-floods-landslides-damage-infrastructure-11736643#publisher=newsstand"
+    "pubDate": "Tue, 07 Jul 2026 13:19:29 +0530",
+    "link": "https://www.ndtv.com/opinion/sterilise-foreign-women-americas-citizenship-debate-is-getting-uglier-11737679#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/israel-hamas-war-hamas-disarmament-what-next-for-hamas-after-ruling-gaza-for-nearly-20-years-gaza-ceasefire-11736423#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/baruipur-footballer-murder-west-bengal-teen-prosenjit-throat-slit-after-football-match-victory-11737337#publisher=newsstand",
     "category": "india",
-    "title": "Biggest Hamas Decision In 20 Years Leaves One Critical Question Unanswered",
-    "summary": "Hamas militants secure area as workers along with ICRC members search for bodies of hostages in Gaza",
-    "image": "https://c.ndtvimg.com/2026-07/us7ce674_hamas-militants-guard-an-area-where-they-are-searching-for-the-bodies-of-hostages-_625x300_07_July_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "Teenager Wins Football Match, Then A Murder In Tense Kolkata Suburb",
+    "summary": "Baruipur murder: The victim was identified as Prosenjit Biswas, 17.",
+    "image": "https://c.ndtvimg.com/2026-07/mch0gkr_bengal-footballer-murder_625x300_07_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Tue, 07 Jul 2026 08:54:58 +0530",
-    "link": "https://www.ndtv.com/world-news/israel-hamas-war-hamas-disarmament-what-next-for-hamas-after-ruling-gaza-for-nearly-20-years-gaza-ceasefire-11736423#publisher=newsstand"
+    "pubDate": "Tue, 07 Jul 2026 13:18:32 +0530",
+    "link": "https://www.ndtv.com/india-news/baruipur-footballer-murder-west-bengal-teen-prosenjit-throat-slit-after-football-match-victory-11737337#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/feature/x-user-asks-ashneer-grover-for-rs-900-crore-after-wifes-rich-should-have-more-kids-comment-his-reply-goes-viral-11736544#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/centre-refutes-reports-of-e-25-petrol-launch-plans-absolutely-false-11737673#publisher=newsstand",
     "category": "india",
-    "title": "X User Asks Ashneer Grover For Rs 900 Crore After Wife's \"Rich Should Have More Kids\" Comment. His Reply",
-    "summary": "Madhuri argued that the \"Hum Do Humare Do\" concept should not apply universally.",
-    "image": "https://c.ndtvimg.com/2023-03/baem9gco_ashneer-grover_625x300_14_March_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "\"Absolutely False\": Centre Refutes Reports Of E-25 Petrol Launch Plans",
+    "summary": "Government sources termed such reports as baseless and ill-informed.",
+    "image": "https://c.ndtvimg.com/2026-03/hhrdkfpg_e25-fuel_625x300_29_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Tue, 07 Jul 2026 08:54:57 +0530",
-    "link": "https://www.ndtv.com/feature/x-user-asks-ashneer-grover-for-rs-900-crore-after-wifes-rich-should-have-more-kids-comment-his-reply-goes-viral-11736544#publisher=newsstand"
+    "pubDate": "Tue, 07 Jul 2026 13:15:47 +0530",
+    "link": "https://www.ndtv.com/india-news/centre-refutes-reports-of-e-25-petrol-launch-plans-absolutely-false-11737673#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/gujarat-high-court-upholds-death-sentence-for-38-in-2008-ahmedabad-blasts-case-11737656#publisher=newsstand",
+    "category": "india",
+    "title": "Gujarat Court Upholds Death Sentence For 38 In 2008 Ahmedabad Blasts Case",
+    "summary": "Some hospitals in the city were also targeted.",
+    "image": "https://c.ndtvimg.com/2022-02/nu1cpfq_ahmedabad-serial-blasts-file-ndtv_625x300_18_February_22.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Tue, 07 Jul 2026 13:13:16 +0530",
+    "link": "https://www.ndtv.com/india-news/gujarat-high-court-upholds-death-sentence-for-38-in-2008-ahmedabad-blasts-case-11737656#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-oil-market-weathers-iran-war-shock-but-reserve-depletion-raises-future-price-risks/articleshow/132233831.cms",
+    "category": "finance",
+    "title": "Global oil market weathers Iran war shock, but reserve depletion raises future price risks",
+    "summary": "The global oil market absorbed record supply disruptions during the Iran conflict without triggering a prolonged price shock. But analysts warn that depleted strategic reserves, damaged energy infrastructure and unresolved tensions around the Strait ",
+    "image": "https://img.etimg.com/photo/msid-132233831,imgsize-926637.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Jul 2026 13:12:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-oil-market-weathers-iran-war-shock-but-reserve-depletion-raises-future-price-risks/articleshow/132233831.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-shares-drop-9-in-3-days-whats-spooking-investors/articleshow/132233748.cms",
+    "category": "finance",
+    "title": "Ola Electric shares drop 9% in 3 days. What's spooking investors?",
+    "summary": "Ola Electric Mobility shares fell over 2%, extending their three-day decline to 9%, after media reports said two vendors had filed fresh insolvency pleas against its subsidiary over alleged unpaid dues of more than Rs 40 crore. The company also recen",
+    "image": "https://img.etimg.com/photo/msid-132233748,imgsize-85730.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Jul 2026 13:08:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-shares-drop-9-in-3-days-whats-spooking-investors/articleshow/132233748.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/11-billion-worth-of-ipo-shares-set-for-lock-in-expiry-over-next-3-months-what-shareholders-should-know/articleshow/132233617.cms",
+    "category": "finance",
+    "title": "$11 billion worth of IPO shares set for lock-in expiry over next 3 months. What shareholders should know",
+    "summary": "Nearly 53 companies are set to see IPO lock-in expiries between July and September 2026, potentially unlocking shares worth about $11 billion, according to Nuvama. While not all eligible shares are expected to be sold, the expiries could weigh on sto",
+    "image": "https://img.etimg.com/photo/msid-132233617,imgsize-59532.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Jul 2026 12:58:17 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/11-billion-worth-of-ipo-shares-set-for-lock-in-expiry-over-next-3-months-what-shareholders-should-know/articleshow/132233617.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-beijing-hong-kong-unveil-measures-to-boost-yuan-bond-and-gold-markets/articleshow/132233550.cms",
+    "category": "finance",
+    "title": "Global Market: Beijing, Hong Kong unveil measures to boost Yuan, bond and gold markets",
+    "summary": "Beijing and Hong Kong announced measures to boost financial connectivity and yuan internationalization. The southbound Bond Connect quota increased, and yuan liquidity support expanded significantly. Hong Kong launched new gold clearing infrastructur",
+    "image": "https://img.etimg.com/photo/msid-132233550,imgsize-649595.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Jul 2026 12:55:03 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-beijing-hong-kong-unveil-measures-to-boost-yuan-bond-and-gold-markets/articleshow/132233550.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-5-reasons-jefferies-believes-the-exchange-stands-out-globally/articleshow/132233469.cms",
+    "category": "finance",
+    "title": "NSE IPO: 5 reasons Jefferies believes the exchange stands out globally",
+    "summary": "As NSE nears its IPO, Jefferies says its dominant market position and strong profitability set it apart from global peers.The brokerage expects the listing to attract significant investor interest.",
+    "image": "https://img.etimg.com/photo/msid-132233469,imgsize-155577.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Jul 2026 12:50:58 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-5-reasons-jefferies-believes-the-exchange-stands-out-globally/articleshow/132233469.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/warren-buffetts-successor-puts-record-400-billion-cash-pile-to-work-whats-he-buying/articleshow/132233376.cms",
+    "category": "finance",
+    "title": "Warren Buffett's successor puts record $400 billion cash pile to work. What's he buying?",
+    "summary": "Greg Abel has started deploying Berkshire Hathaway's record cash pile after taking over as CEO from Warren Buffett. With nearly $400 billion in cash reserves, Berkshire recently invested $10 billion in Alphabet through a private placement, making it ",
+    "image": "https://img.etimg.com/photo/msid-132233376,imgsize-13642.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Jul 2026 12:46:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/warren-buffetts-successor-puts-record-400-billion-cash-pile-to-work-whats-he-buying/articleshow/132233376.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/forget-rockets-morgan-stanley-sets-300-spacex-target-based-on-a-secret-ai-weapon/articleshow/132233305.cms",
+    "category": "finance",
+    "title": "Forget rockets: Morgan Stanley sets $300 SpaceX target based on a secret AI weapon",
+    "summary": "Morgan Stanley has initiated coverage on SpaceX with an Overweight rating and a $300 target price, arguing its biggest opportunity lies beyond rockets. The brokerage believes SpaceX's vertically integrated AI infrastructure, combining terrestrial and",
+    "image": "https://img.etimg.com/photo/msid-132233305,imgsize-116792.cms",
+    "source": "ET",
+    "pubDate": "Tue, 07 Jul 2026 12:42:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/forget-rockets-morgan-stanley-sets-300-spacex-target-based-on-a-secret-ai-weapon/articleshow/132233305.cms"
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go#0",
+    "category": "global",
+    "title": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
+    "summary": "Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 07 Jul 2026 07:07:29 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1544642.html",
+    "category": "sports",
+    "title": "'Dialling in on clear plans' the key to massive Hope-Greaves stand",
+    "summary": "\"He's shown that he's capable of scoring runs in all conditions against all bowling line-ups,\" Shai Hope said of Justin Greaves after the two added 242",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419400/419499.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 07 Jul 2026 05:21:00 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544642.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj9gggjekyjo#0",
+    "category": "global",
+    "title": "MI5 knew agent was misogynist 'obsessed' with violence, watchdog finds",
+    "summary": "A secret inquiry by the security service's watchdog concluded there were 'serious failings in MI5's management of Agent X\u2019.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 07 Jul 2026 05:00:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj9gggjekyjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o#0",
@@ -208,16 +238,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 07 Jul 2026 03:05:08 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1544618.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/videos/cj0gg55613do#0",
-    "category": "global",
-    "title": "Belgium make light work of US to set up quarter-final tie with Spain",
-    "summary": "Belgium ease past a defensively sloppy USA in a match shrouded in controversy surrounding Folarin Balogun's delayed suspension, a scandal that made little impact on the pitch.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 07 Jul 2026 02:39:07 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/videos/cj0gg55613do?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/c04yywdq69vo#0",
@@ -272,7 +292,7 @@
   {
     "id": "https://www.bbc.co.uk/news/articles/ce8mmm5v8j0o#0",
     "category": "global",
-    "title": "Prince Harry begins his UK visit with court verdict",
+    "title": "Harry begins UK visit as verdict due in privacy case against Daily Mail publisher",
     "summary": "The Duke of Sussex begins a week of charity engagements and will hear the outcome of his newspaper court battle.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -282,7 +302,7 @@
   {
     "id": "https://www.bbc.co.uk/news/articles/ckg018w1r02o#0",
     "category": "global",
-    "title": "Women face hidden fertility ceiling despite donor eggs",
+    "title": "Women hit fertility tipping point at 49 - even with young donor eggs",
     "summary": "Age-related changes in the womb lining may be the cause and could be treatable in the future, say experts.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -292,22 +312,12 @@
   {
     "id": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o#0",
     "category": "global",
-    "title": "Phone contract comparisons 'amounted to mis-selling' student loans, MPs say",
+    "title": "Comparing student loans to phone contracts 'amounted to mis-selling', MPs say",
     "summary": "A new report says students were not well-enough informed that their loan terms could change retrospectively.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Mon, 06 Jul 2026 23:08:51 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o#0",
-    "category": "global",
-    "title": "Why European backlash over Trump intervention won't worry Infantino",
-    "summary": "After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 06 Jul 2026 22:26:20 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1544628.html",
@@ -368,16 +378,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 06 Jul 2026 14:14:04 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1544577.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1544557.html",
-    "category": "sports",
-    "title": "Hampshire secure double signing to lead post-Vince and Dawson rebuild",
-    "summary": "Rishi Patel and Fynn Hudson-Prentice to join from Leicestershire and Sussex respectively",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/383400/383473.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 06 Jul 2026 12:18:00 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1544557.html?ex_cid=OTC-RSS"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
