@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://www.ndtv.com/world-news/at-nato-summit-donald-trump-reiterates-us-should-control-greenland-11741451#publisher=newsstand",
+    "category": "india",
+    "title": "At NATO Summit, Trump Reiterates US Should Control Greenland",
+    "summary": "Trump said the issue of control over Greenland had harmed US ties with NATO.",
+    "image": "https://c.ndtvimg.com/2026-07/7r1esb1g_donald-trump-on-greenland_625x300_08_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 08 Jul 2026 03:47:36 +0530",
+    "link": "https://www.ndtv.com/world-news/at-nato-summit-donald-trump-reiterates-us-should-control-greenland-11741451#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-launches-series-of-powerful-strikes-on-iran-after-hormuz-attacks-11741398#publisher=newsstand",
+    "category": "india",
+    "title": "US Launches \"Series Of Powerful Strikes\" On Iran After Hormuz Attacks",
+    "summary": "The renewed fighting is likely to complicate ongoing talks.",
+    "image": "https://c.ndtvimg.com/2026-04/kdbpguuk_trump-mojtaba_625x300_07_April_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 08 Jul 2026 03:34:26 +0530",
+    "link": "https://www.ndtv.com/world-news/us-launches-series-of-powerful-strikes-on-iran-after-hormuz-attacks-11741398#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/pakistan-cargo-plane-carrying-5-goes-missing-over-arabian-sea-11741359#publisher=newsstand",
     "category": "india",
     "title": "Pakistan Cargo Plane Carrying 5 Goes Missing Over Arabian Sea",
@@ -70,26 +90,6 @@
     "link": "https://www.ndtv.com/india-news/rape-murder-of-11-year-old-in-bengal-pre-planned-police-after-three-arrests-11741155#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/air-india-ai-express-flights-come-face-to-face-on-mumbai-runway-11741145#publisher=newsstand",
-    "category": "india",
-    "title": "Air India, AI Express Flights Come Face-To-Face On Mumbai Runway",
-    "summary": "Two Air India and Air India Express planes came face-to-face on the same runway at the Mumbai airport.",
-    "image": "https://c.ndtvimg.com/2026-07/2otreb0s_mumbai-airport-runway_625x300_08_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 08 Jul 2026 00:53:37 +0530",
-    "link": "https://www.ndtv.com/india-news/air-india-ai-express-flights-come-face-to-face-on-mumbai-runway-11741145#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/after-setback-dmk-approaches-top-court-panel-cbi-ahead-of-vijays-karur-visit-11741134#publisher=newsstand",
-    "category": "india",
-    "title": "After Setback, DMK Approaches Top Court Panel, CBI Ahead Of Vijay's Karur Visit",
-    "summary": "The DMK also sought safeguards for Vijay's proposed Karur visit.",
-    "image": "https://c.ndtvimg.com/2025-12/hn0b990g_thalapathy-vijay-_625x300_14_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 08 Jul 2026 00:43:07 +0530",
-    "link": "https://www.ndtv.com/india-news/after-setback-dmk-approaches-top-court-panel-cbi-ahead-of-vijays-karur-visit-11741134#publisher=newsstand"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -118,6 +118,76 @@
     "source": "VentureBeat",
     "pubDate": "Tue, 13 Jan 2026 13:00:00 GMT",
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/tennis/articles/czx5q0kzrkro#0",
+    "category": "global",
+    "title": "Djokovic wins five-set epic to set up Sinner semi-final",
+    "summary": "Novak Djokovic beats Felix Auger-Aliassime in an epic five-setter to set up a blockbuster semi-final against defending champion Jannik Sinner.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 07 Jul 2026 22:55:27 GMT",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/czx5q0kzrkro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo#0",
+    "category": "global",
+    "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+    "summary": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 07 Jul 2026 22:48:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1544804.html",
+    "category": "sports",
+    "title": "'Atrocious, awful, unacceptable' - Iyer on India's performance",
+    "summary": "Iyer called on the players to 'start thinking how to basically make an impact' for the team after their biggest defeat in T20Is",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419500/419538.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 07 Jul 2026 22:27:21 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544804.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c1my1g29gk7o#0",
+    "category": "global",
+    "title": "Chris Mason: Farage attempts to seize back the agenda",
+    "summary": "His aim throughout the forthcoming campaign is to clearly frame this by-election as \"the people versus the establishment\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 07 Jul 2026 22:22:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c1my1g29gk7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c0ly51kzdz3o#0",
+    "category": "global",
+    "title": "Farage resigns as MP and vows to fight by-election amid finances row",
+    "summary": "Labour, the Conservatives, the Lib Dems and Restore Britain rule out standing in the by-election, in an effective boycott.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 07 Jul 2026 22:17:38 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c0ly51kzdz3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1544806.html",
+    "category": "sports",
+    "title": "Holland 92* keeps Somerset qualification hopes alive",
+    "summary": "England A allrounder steers visitors to two-wicket win that ends Essex hopes of progression",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419500/419541.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 07 Jul 2026 22:15:21 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544806.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1544757.html",
+    "category": "sports",
+    "title": "High-scoring draw gives West Indies rare series win",
+    "summary": "Campbell and King never threatened to chase down the 302-run target Sri Lanka set them in a minimum of 61 overs",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419500/419536.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 07 Jul 2026 21:40:29 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1544757.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-rules-on-use-of-depository-investor-protection-fund-income/articleshow/132242860.cms",
@@ -158,16 +228,6 @@
     "source": "ET",
     "pubDate": "Tue, 07 Jul 2026 20:58:05 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-360-one-wam-among-2-stock-recommendations-for-wednesday/articleshow/132242562.cms"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1544804.html",
-    "category": "sports",
-    "title": "'Atrocious, awful, unacceptable' - Iyer on India's performance",
-    "summary": "Iyer called on the players to 'start thinking how to basically make an impact' for the team after their biggest defeat in T20Is",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419500/419537.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 07 Jul 2026 20:42:32 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1544804.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/amazon-aims-to-raise-25-billion-from-bond-sale-bloomberg-news-reports/articleshow/132242087.cms",
@@ -220,36 +280,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c1my1g29gk7o#0",
-    "category": "global",
-    "title": "Chris Mason: Farage attempts to seize back the agenda",
-    "summary": "His aim throughout the forthcoming campaign is to clearly frame this by-election as \"the people versus the establishment\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 07 Jul 2026 19:35:19 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c1my1g29gk7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c0ly51kzdz3o#0",
-    "category": "global",
-    "title": "Farage resigns as MP and vows to fight by-election amid finances row",
-    "summary": "Labour, the Conservatives, the Lib Dems and Restore Britain rule out standing in the by-election, in an effective boycott.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 07 Jul 2026 19:07:18 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c0ly51kzdz3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1544757.html",
-    "category": "sports",
-    "title": "King, Campbell start 302 chase patiently as game heads towards draw",
-    "summary": "Sri Lanka's seamers - and Prabath Jayasuriya - were unable to cause much discomfort to the West Indian openers",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419500/419529.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 07 Jul 2026 19:04:39 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1544757.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo#0",
     "category": "global",
     "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
@@ -300,26 +330,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1544758.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/videos/c3wy0d3v9epo#0",
-    "category": "global",
-    "title": "Watch: Clacton's mixed views on Farage's resignation",
-    "summary": "Nigel Farage announced he is resigning as an MP, triggering a by-election he will stand in.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 07 Jul 2026 16:28:50 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c3wy0d3v9epo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo#0",
-    "category": "global",
-    "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-    "summary": "The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 07 Jul 2026 16:10:14 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1544670.html",
     "category": "sports",
     "title": "England players overlooked as Women's Hundred captains are named",
@@ -338,16 +348,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 07 Jul 2026 09:56:48 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1544658.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1544651.html",
-    "category": "sports",
-    "title": "Shapoor Zadran dies after prolonged illness",
-    "summary": "Fast bowler played 44 ODIs and 36 T20Is for Afghanistan; he was about to turn 39",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419500/419517.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 07 Jul 2026 09:41:56 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1544651.html?ex_cid=OTC-RSS"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
