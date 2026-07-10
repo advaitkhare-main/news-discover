@@ -70,167 +70,257 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
-    "id": "https://www.ndtv.com/opinion/us-iran-mou-collapse-why-the-strait-of-hormuz-is-back-on-the-brink-11754623#publisher=newsstand",
-    "category": "india",
-    "title": "Opinion: Opinion | US-Iran MoU Collapse: Why The Strait Of Hormuz Is Back On The Brink",
-    "summary": "Why did the ceasefire fail? Could it have been prevented? The answer to many of these questions lies in the framing of the 14-Point MoU and the uneven playfield that it created.",
-    "image": "https://c.ndtvimg.com/2026-07/i98fcie_trump-afp_625x300_08_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 19:12:57 +0530",
-    "link": "https://www.ndtv.com/opinion/us-iran-mou-collapse-why-the-strait-of-hormuz-is-back-on-the-brink-11754623#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/exclusive-navys-next-build-up-takes-shape-with-3-warship-projects-worth-rs-1-lakh-crore-11754613#publisher=newsstand",
-    "category": "india",
-    "title": "Exclusive: Navy's Next Build-Up Takes Shape With 3 Warship Projects Worth Rs 1 Lakh Crore",
-    "summary": "Indian Navy set to commission indigenous Project 17A stealth frigate Mahendragiri",
-    "image": "https://c.ndtvimg.com/2026-07/dktk26ns_navy-_625x300_10_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 19:10:17 +0530",
-    "link": "https://www.ndtv.com/india-news/exclusive-navys-next-build-up-takes-shape-with-3-warship-projects-worth-rs-1-lakh-crore-11754613#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/head-and-shoulders-outside-man-nearly-sucked-out-of-flight-as-window-detaches-11754065#publisher=newsstand",
-    "category": "india",
-    "title": "Head And Shoulders Outside: Man Nearly Sucked Out Of Flight As Window Detaches",
-    "summary": "Passengers had woken up to a sound like that of a tyre bursting and screams",
-    "image": "https://c.ndtvimg.com/2026-07/b2l52328_ryanair_625x300_10_July_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 19:08:17 +0530",
-    "link": "https://www.ndtv.com/world-news/head-and-shoulders-outside-man-nearly-sucked-out-of-flight-as-window-detaches-11754065#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-opens-steady-ahead-of-sk-hynix-listing-middle-east-in-focus/articleshow/132313400.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/morgan-stanley-warns-ai-chip-rally-may-be-running-out-of-steam/articleshow/132315698.cms",
     "category": "finance",
-    "title": "US stocks today: US stocks open steady ahead of SK Hynix listing; Middle East in focus",
-    "summary": "Wall Street opened steady as investors tracked SK Hynix\u2019s much-awaited Nasdaq debut and rising Middle East tensions. The Dow and S&amp;P 500 edged higher, while Nasdaq slipped slightly. Markets remained cautious amid inflation concerns linked to geop",
-    "image": "https://img.etimg.com/photo/msid-132313400,imgsize-270072.cms",
+    "title": "Morgan Stanley warns AI chip rally may be running out of steam",
+    "summary": "Morgan Stanley's Lisa Shalett warned semiconductor stocks may be overvalued as hyperscalers increasingly develop lower-cost proprietary AI chips. She expects slowing AI infrastructure spending and weaker pricing power to challenge chipmakers, despite",
+    "image": "https://img.etimg.com/photo/msid-132315698,imgsize-6798.cms",
     "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 19:08:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-opens-steady-ahead-of-sk-hynix-listing-middle-east-in-focus/articleshow/132313400.cms"
+    "pubDate": "Fri, 10 Jul 2026 21:14:23 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/morgan-stanley-warns-ai-chip-rally-may-be-running-out-of-steam/articleshow/132315698.cms"
   },
   {
-    "id": "https://www.ndtv.com/feature/surgeons-in-britain-stopping-operations-midway-amid-sweltering-heatwave-11754486#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/circle-wins-final-regulatory-approval-to-establish-us-trust-bank-shares-rise/articleshow/132315669.cms",
+    "category": "finance",
+    "title": "Circle shares surge 13% on getting regulatory approval to set up US trust bank",
+    "summary": "Circle secured final regulatory approval from the OCC for its national trust bank. This allows the stablecoin issuer to manage its own reserves and client crypto assets. The charter places Circle's bank under direct federal supervision by the OCC. Di",
+    "image": "https://img.etimg.com/photo/msid-132315669,imgsize-40684.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Jul 2026 21:12:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/circle-wins-final-regulatory-approval-to-establish-us-trust-bank-shares-rise/articleshow/132315669.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-shein-finally-wins-chinas-approval-for-hong-kong-ipo-in-third-attempt-to-go-public/articleshow/132315636.cms",
+    "category": "finance",
+    "title": "Global Markets: Chinese fast fashion retailer Shein finally wins approval for Hong Kong IPO",
+    "summary": "Fast-fashion titan Shein has gained approval for its Hong Kong IPO after previous attempts were blocked. Although the company has faced strict regulatory examination and backlash in the US and UK markets, it seeks to rebound. Currently, investors pro",
+    "image": "https://img.etimg.com/photo/msid-132315636,imgsize-53866.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Jul 2026 21:09:53 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-shein-finally-wins-chinas-approval-for-hong-kong-ipo-in-third-attempt-to-go-public/articleshow/132315636.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/himanta-biswa-sarma-how-assam-budget-charts-long-term-development-path-beyond-annual-spending-11755200#publisher=newsstand",
     "category": "india",
-    "title": "Surgeons In Britain Stopping Operations Midway Amid Sweltering Heatwave",
-    "summary": "Extreme heat forces NHS surgeons to halt procedures to prevent medical errors.",
-    "image": "https://c.ndtvimg.com/2026-07/fr5luk9o_as_625x300_10_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "How Assam Budget Charts Long-Term Development Path Beyond Annual Spending",
+    "summary": "The biggest financial commitment comes in the power sector.",
+    "image": "https://c.ndtvimg.com/2026-06/ieeutjk8_assam-himanta-biswa-sarma_625x300_04_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 18:47:50 +0530",
-    "link": "https://www.ndtv.com/feature/surgeons-in-britain-stopping-operations-midway-amid-sweltering-heatwave-11754486#publisher=newsstand"
+    "pubDate": "Fri, 10 Jul 2026 21:08:34 +0530",
+    "link": "https://www.ndtv.com/india-news/himanta-biswa-sarma-how-assam-budget-charts-long-term-development-path-beyond-annual-spending-11755200#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/sheikh-hasina-to-return-to-bangladesh-by-december-surrender-with-colleagues-11752841#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/bonds/pfc-raises-usd-300-mn-via-bonds-carrying-floating-interest-rates/articleshow/132315575.cms",
+    "category": "finance",
+    "title": "PFC raises USD 300 mn via bonds carrying floating interest rates",
+    "summary": "Power Finance Corporation, a state-run entity, has triumphantly secured USD 300 million via bonds that feature floating interest rates. Following the guidelines set by the RBI, these Notes are set to mature in July 2029 and will provide payments in U",
+    "image": "https://img.etimg.com/photo/msid-132315575,imgsize-85140.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Jul 2026 21:05:11 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/pfc-raises-usd-300-mn-via-bonds-carrying-floating-interest-rates/articleshow/132315575.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/agreed-to-continue-talks-but-ceasefire-over-trumps-mixed-iran-message-11754954#publisher=newsstand",
     "category": "india",
-    "title": "'May Arrest Or Kill Me': Hasina Says She'll Return To Bangladesh By December",
-    "summary": "Bangladesh has repeatedly urged India to extradite Sheikh Hasina.",
-    "image": "https://c.ndtvimg.com/2026-06/aa9lgnrs_sheikh-hasina-afp_625x300_28_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "'Agreed To Continue Talks, But Ceasefire Over': Trump's Mixed Iran Message",
+    "summary": "Trump said US has agreed to continue talks for peace only because Iran has asked to continue it",
+    "image": "https://c.ndtvimg.com/2026-04/qk73ssh4_trump-iran-pea_625x300_07_April_26.jpg",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 18:44:43 +0530",
-    "link": "https://www.ndtv.com/world-news/sheikh-hasina-to-return-to-bangladesh-by-december-surrender-with-colleagues-11752841#publisher=newsstand"
+    "pubDate": "Fri, 10 Jul 2026 21:01:25 +0530",
+    "link": "https://www.ndtv.com/world-news/agreed-to-continue-talks-but-ceasefire-over-trumps-mixed-iran-message-11754954#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/coding-is-going-away-first-then-software-engineering-anthropic-ceo-dario-amodei-11754270#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-billionaires-risky-bet-pays-off-as-sk-hynix-debuts-in-new-york/articleshow/132315233.cms",
+    "category": "finance",
+    "title": "South Korean billionaire's risky bet pays off, as SK Hynix debuts in New York",
+    "summary": "South Korean billionaire Chey Tae-won's bold acquisition of SK Hynix has paid off significantly. The company is now a leading producer of high-bandwidth memory chips for AI. This strategic investment has positioned SK Hynix as a key player in the boo",
+    "image": "https://img.etimg.com/photo/msid-132315233,imgsize-105188.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Jul 2026 20:51:29 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-billionaires-risky-bet-pays-off-as-sk-hynix-debuts-in-new-york/articleshow/132315233.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-task-force-members-get-an-a-at-the-outset-but-results-will-need-broad-buy-in/articleshow/132315199.cms",
+    "category": "finance",
+    "title": "Warsh task force members get an A at the outset, but results will need broad buy-in",
+    "summary": "Federal Reserve Chairman Kevin Warsh has enlisted a team of fifteen renowned external experts to spearhead reform task forces. This diverse group features both foreign central bankers and individuals from the former Obama administration, emphasizing ",
+    "image": "https://img.etimg.com/photo/msid-132315199,imgsize-138466.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Jul 2026 20:49:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-task-force-members-get-an-a-at-the-outset-but-results-will-need-broad-buy-in/articleshow/132315199.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/bengaluru-elites-leave-room-trashed-after-quiz-night-viral-pics-spark-civic-sense-debate-11755096#publisher=newsstand",
     "category": "india",
-    "title": "'Coding Is Going Away First, Then Software Engineering': Anthropic CEO",
-    "summary": "AI models will automate coding before handling the broader responsibilities of software engineering.",
-    "image": "https://c.ndtvimg.com/2026-07/pueqrrq8_anthropic-ceo-dario-amodei_625x300_10_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Bengaluru Elites Leave Room Trashed After Quiz Night, Viral Pics Spark Civic Sense Debate",
+    "summary": "A viral post shows littering by affluent attendees at a Bengaluru quiz night.",
+    "image": "https://c.ndtvimg.com/2026-07/iujtnopg_as_625x300_10_July_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 18:38:56 +0530",
-    "link": "https://www.ndtv.com/education/coding-is-going-away-first-then-software-engineering-anthropic-ceo-dario-amodei-11754270#publisher=newsstand"
+    "pubDate": "Fri, 10 Jul 2026 20:47:46 +0530",
+    "link": "https://www.ndtv.com/offbeat/bengaluru-elites-leave-room-trashed-after-quiz-night-viral-pics-spark-civic-sense-debate-11755096#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-jio-financial-announce-q1-earnings-dates-check-details/articleshow/132312604.cms",
-    "category": "finance",
-    "title": "Reliance Industries, Jio Financial announce Q1 earnings dates. Check details",
-    "summary": "Reliance Industries and Jio Financial Services will report their June-quarter earnings next week.  Reliance Industries' board meets Friday, July 17, 2026, for financial results.  Jio Financial Services will announce its first-quarter results on Thurs",
-    "image": "https://img.etimg.com/photo/msid-132312604,imgsize-39140.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 18:27:39 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-jio-financial-announce-q1-earnings-dates-check-details/articleshow/132312604.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/retail-space-rent-in-delhis-khan-market-rises-9pc-annually-in-apr-jun-cw/articleshow/132312458.cms",
-    "category": "finance",
-    "title": "Premium housing demand, urbanisation to support India's realty market in H2 2026: Knight Frank",
-    "summary": "India's housing market shows resilience through the second half of 2026. Strong demand for premium homes and urbanisation will support the sector. Sales growth is moderating, and new launches are outpacing absorption. Developers may offer incentives ",
-    "image": "https://img.etimg.com/photo/msid-132312458,imgsize-7390.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 18:23:32 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/retail-space-rent-in-delhis-khan-market-rises-9pc-annually-in-apr-jun-cw/articleshow/132312458.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/maharashtra-raises-farm-loan-waiver-limit-from-rs-50-000-to-rs-2-lakh-11754354#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/vijay-breaks-down-silent-for-5-minutes-while-meeting-karur-victims-families-11755086#publisher=newsstand",
     "category": "india",
-    "title": "Maharashtra Raises Farm Loan Waiver Limit From Rs 50,000 To Rs 2 Lakh",
-    "summary": "This will benefit thousands of farmers who were excluded due to the ceiling.",
-    "image": "https://c.ndtvimg.com/2026-07/1s3mj92k_cm-devendra-fadnavis-latest-news_625x300_09_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "Vijay Breaks Down, \"Silent For 5 Minutes\" While Meeting Karur Victims' Families",
+    "summary": "TVK had paid Rs 20 lakh as financial assistance to each of the 41 bereaved families.",
+    "image": "https://c.ndtvimg.com/2026-07/veffhqts_vijay-pti-_625x300_10_July_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 18:21:52 +0530",
-    "link": "https://www.ndtv.com/india-news/maharashtra-raises-farm-loan-waiver-limit-from-rs-50-000-to-rs-2-lakh-11754354#publisher=newsstand"
+    "pubDate": "Fri, 10 Jul 2026 20:45:46 +0530",
+    "link": "https://www.ndtv.com/india-news/vijay-breaks-down-silent-for-5-minutes-while-meeting-karur-victims-families-11755086#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/rajasthan-police-to-stop-using-dalit-replace-word-with-scheduled-caste-11754349#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/after-whatsapp-telegram-submits-reply-to-centre-on-username-feature-report-11755036#publisher=newsstand",
     "category": "india",
-    "title": "Rajasthan Police To Stop Using 'Dalit', Replace Word With 'Scheduled Caste'",
-    "summary": "The debate centres on the distinction between legal and socio-political terminology.",
-    "image": "https://c.ndtvimg.com/furrr3bg_rajasthan-police_625x300_19_July_18.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "title": "After WhatsApp, Telegram Submits Reply To Centre On Username Feature: Report",
+    "summary": "Submissions of both WhatsApp and Telegram are currently being examined by the government.",
+    "image": "https://c.ndtvimg.com/2026-07/j6no5n08_telegram_625x300_01_July_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 18:20:25 +0530",
-    "link": "https://www.ndtv.com/india-news/rajasthan-police-to-stop-using-dalit-replace-word-with-scheduled-caste-11754349#publisher=newsstand"
+    "pubDate": "Fri, 10 Jul 2026 20:36:55 +0530",
+    "link": "https://www.ndtv.com/india-news/after-whatsapp-telegram-submits-reply-to-centre-on-username-feature-report-11755036#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-logs-best-day-in-over-a-week-on-oil-relief/articleshow/132312436.cms",
+    "id": "https://www.ndtv.com/india-news/assam-proposes-action-against-polygamy-congress-says-existing-law-enough-11754991#publisher=newsstand",
+    "category": "india",
+    "title": "Assam Proposes Action Against Polygamy, Congress Says Existing Law Enough",
+    "summary": "The government also plans to amend the Assam Services (Discipline and Appeal) Rules, 1964.",
+    "image": "https://c.ndtvimg.com/2026-07/10ou2fjs_jayanta-malla-baruah_625x300_10_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Jul 2026 20:36:34 +0530",
+    "link": "https://www.ndtv.com/india-news/assam-proposes-action-against-polygamy-congress-says-existing-law-enough-11754991#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/visionary-roadmap-vs-copy-paste-assam-budget-triggers-political-clash-11755029#publisher=newsstand",
+    "category": "india",
+    "title": "'Visionary Roadmap' vs 'Copy-Paste': Assam Budget Triggers Political Clash",
+    "summary": "Union Minister of State and BJP MLA Pabitra Rabha defended the budget.",
+    "image": "https://c.ndtvimg.com/2026-07/hpcpg9uk_assam-budget_625x300_10_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Jul 2026 20:34:48 +0530",
+    "link": "https://www.ndtv.com/india-news/visionary-roadmap-vs-copy-paste-assam-budget-triggers-political-clash-11755029#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-banks-rule-on-staff-betting-on-prediction-markets-sources-say/articleshow/132314792.cms",
     "category": "finance",
-    "title": "India's 10-year bond logs best day in over a week on oil relief",
-    "summary": "On Friday, Indian government bonds experienced a positive shift with declining yields. This improvement was fueled by robust demand during a weekly auction and additional foreign investments. Falling oil prices further enhanced market sentiment. Howe",
-    "image": "https://img.etimg.com/photo/msid-132312436,imgsize-97836.cms",
+    "title": "Wall Street banks rule on staff betting on prediction markets, sources say",
+    "summary": "In a significant move, major Wall Street banks have revised their employee conduct guidelines. The updated policies impose restrictions on engaging in financial and political prediction markets. Specifically, Goldman Sachs and Morgan Stanley have ena",
+    "image": "https://img.etimg.com/photo/msid-132314792,imgsize-45372.cms",
     "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 18:13:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-logs-best-day-in-over-a-week-on-oil-relief/articleshow/132312436.cms"
+    "pubDate": "Fri, 10 Jul 2026 20:20:22 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-banks-rule-on-staff-betting-on-prediction-markets-sources-say/articleshow/132314792.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-approves-ipos-of-defence-electronics-maker-tonbo-imaging-and-3-others/articleshow/132312361.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacexs-near-term-ai-payoff-seen-tethered-to-earth-not-outer-space/articleshow/132314779.cms",
     "category": "finance",
-    "title": "Sebi approves IPOs of defence electronics maker Tonbo Imaging and 3 others",
-    "summary": "Sebi approved IPO proposals of Tonbo Imaging India, Marri Retail, Zetwerk and Gujarat Victory Forgings, strengthening the primary market pipeline. The companies plan fundraising for expansion, debt repayment and growth, with defence, retail, manufact",
-    "image": "https://img.etimg.com/photo/msid-132312361,imgsize-110790.cms",
+    "title": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space",
+    "summary": "SpaceX's current value stems from building essential AI infrastructure on Earth. The company is generating significant revenue from terrestrial compute contracts with major clients. These deals are expected to far exceed income from other SpaceX busi",
+    "image": "https://img.etimg.com/photo/msid-132314779,imgsize-53494.cms",
     "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 18:11:36 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-approves-ipos-of-defence-electronics-maker-tonbo-imaging-and-3-others/articleshow/132312361.cms"
+    "pubDate": "Fri, 10 Jul 2026 20:18:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacexs-near-term-ai-payoff-seen-tethered-to-earth-not-outer-space/articleshow/132314779.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-makes-us-debut-today-will-investors-sell-micron-to-buy-the-ai-memory-leader/articleshow/132312331.cms",
-    "category": "finance",
-    "title": "SK Hynix makes US debut today. Will investors sell Micron to buy the AI memory leader?",
-    "summary": "SK Hynix begins US trading after a $26.5 billion ADR sale, expanding investor access to its AI memory chip business. The Nasdaq listing could narrow its valuation gap with Micron, while testing investor appetite for AI-linked semiconductor stocks.",
-    "image": "https://img.etimg.com/photo/msid-132312331,imgsize-56528.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 18:09:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-makes-us-debut-today-will-investors-sell-micron-to-buy-the-ai-memory-leader/articleshow/132312331.cms"
+    "id": "https://www.ndtv.com/india-news/black-scorpio-shooter-filmed-attack-how-gurugram-encounter-played-out-11754910#publisher=newsstand",
+    "category": "india",
+    "title": "Black Scorpio, Shooter Filmed Attack: How Gurugram Encounter Played Out",
+    "summary": "The guns recovered from the encounter site",
+    "image": "https://c.ndtvimg.com/2026-07/umh920b_gurugram_625x300_10_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Jul 2026 20:12:52 +0530",
+    "link": "https://www.ndtv.com/india-news/black-scorpio-shooter-filmed-attack-how-gurugram-encounter-played-out-11754910#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-hetty-green-there-is-no-great-secret-in-fortune-making-all-you-have-to-do-is-to-buy-cheap-and-sell-dear-act-with-thrift-and-shrewdness-and-then-be-persistent/articleshow/132303742.cms",
-    "category": "finance",
-    "title": "Quote of the day by Hetty Green: \"There is no great secret in fortune making. All you have to do is to buy cheap and sel",
-    "summary": "Hetty Green's century-old advice on wealth creation remains relevant today. Investors should buy undervalued assets and sell them at higher prices. Practicing financial prudence and managing expenses wisely builds lasting wealth. Persistence through ",
-    "image": "https://img.etimg.com/photo/msid-132303742,imgsize-121946.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 18:00:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-hetty-green-there-is-no-great-secret-in-fortune-making-all-you-have-to-do-is-to-buy-cheap-and-sell-dear-act-with-thrift-and-shrewdness-and-then-be-persistent/articleshow/132303742.cms"
+    "id": "https://www.cricinfo.com/ci/content/story/1545122.html",
+    "category": "sports",
+    "title": "Is Brook ready to lead England across all three formats?",
+    "summary": "England don't have many options as a long-term replacement for Stokes but turning Brook risks spreading him too thin",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419200/419224.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Jul 2026 16:43:51 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545122.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-top-gainers-and-losers-on-nifty-and-sensex-today/articleshow/132311812.cms",
-    "category": "finance",
-    "title": "Market wrap: Top gainers and losers on Nifty and Sensex today",
-    "summary": "Sensex climbed 828 points and Nifty gained 244 points, extending their winning streak as TCS earnings, positive global cues and banking optimism lifted sentiment. The rally added nearly Rs 6 lakh crore to BSE market capitalisation, with IT, financial",
-    "image": "https://img.etimg.com/photo/msid-132311812,imgsize-33492.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 17:54:27 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-top-gainers-and-losers-on-nifty-and-sensex-today/articleshow/132311812.cms"
+    "id": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo#1",
+    "category": "global",
+    "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+    "summary": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Jul 2026 16:42:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cy04erw9y42o#0",
+    "id": "https://www.cricinfo.com/ci/content/story/1545126.html",
+    "category": "sports",
+    "title": "Knott downs Somerset to seal Blaze's spot at Finals Day",
+    "summary": "Somerset's Charlie Dean top-scores with 41 and takes 3 for 24 but finds little support",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419600/419637.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Jul 2026 16:40:00 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545126.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o#1",
+    "category": "global",
+    "title": "Ann Widdecombe murder probe: What we know so far",
+    "summary": "Police say they are searching for a suspect in connection with the former MP's death at her home on Dartmoor.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Jul 2026 16:33:26 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545128.html",
+    "category": "sports",
+    "title": "Grace Scrivens 85 sets up Essex for victory over Durham",
+    "summary": "Captain combines in 94-run opening stand with Anneke Bosch to set visitors on their way",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415424.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Jul 2026 16:32:56 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545128.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o#1",
+    "category": "global",
+    "title": "Arthur Fery's Wimbledon run ended by Alexander Zverev in semi-finals",
+    "summary": "Arthur Fery's unforgettable Wimbledon run comes to an end as Alexander Zverev beats the British wildcard to secure a place in the final.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Jul 2026 15:36:30 GMT",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cewq9vznzz5o#1",
+    "category": "global",
+    "title": "Top Boy actor Micheal Ward found not guilty of rape",
+    "summary": "Micheal Ward told the jury the encounter with his accuser was \"wholly consensual\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Jul 2026 14:52:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cewq9vznzz5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545114.html",
+    "category": "sports",
+    "title": "England chase 4-0 as India look to halt historic slump",
+    "summary": "A win for England in the fifth T20I would see them swipe India's No.1 ICC ranking",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419600/419609.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Jul 2026 14:42:33 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545114.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo#1",
+    "category": "global",
+    "title": "At least 12 dead and 23 missing in wildfire in southern Spain",
+    "summary": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almer\u00eda.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Jul 2026 14:08:26 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy04erw9y42o#1",
     "category": "global",
     "title": "Longest-serving Archers star Patricia Greene dies aged 95",
     "summary": "She was best known for playing Jill Archer in the BBC Radio 4 soap for nearly 70 years.",
@@ -250,7 +340,7 @@
     "link": "https://www.cricinfo.com/ci/content/story/1545065.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o#0",
+    "id": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o#1",
     "category": "global",
     "title": "UK bakes in 35C highs as millions under hosepipe bans",
     "summary": "On Thursday, temperatures exceeded 34C for the eighth day this year, breaking the previous record of seven days in a calendar year.",
@@ -258,16 +348,6 @@
     "source": "BBC",
     "pubDate": "Fri, 10 Jul 2026 12:38:19 GMT",
     "link": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo#0",
-    "category": "global",
-    "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-    "summary": "Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Jul 2026 12:31:08 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545100.html",
@@ -278,36 +358,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 10 Jul 2026 12:22:45 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1545100.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c2kyw4nqd5do#0",
-    "category": "global",
-    "title": "Ann Widdecombe obituary: Brexit-backing former minister turned Strictly star",
-    "summary": "A leading figure on the right of British politics who reinvented herself as a reality TV star.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Jul 2026 11:53:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c2kyw4nqd5do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c3eyq2np7qgo#0",
-    "category": "global",
-    "title": "Met police investigating Reform over election donations - reports",
-    "summary": "The investigation is looking into donations made to Reform UK by the mother of the convicted fraudster George Cottrell, according to the Times.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Jul 2026 11:46:03 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3eyq2np7qgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1544985.html",
-    "category": "sports",
-    "title": "India and England turn to whites as Lord's gears up for a historic first",
-    "summary": "It will be a quick turnaround for both sides after the T20 World Cup but with more than 30,000 tickets already sold, the occasion promises to be a landmark",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419600/419621.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Jul 2026 11:35:39 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1544985.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545099.html",
@@ -330,27 +380,7 @@
     "link": "https://www.cricinfo.com/ci/content/story/1545101.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o#0",
-    "category": "global",
-    "title": "Vapes to have less enticing names and flavours to protect children",
-    "summary": "People are being consulted about plans to stop vape companies using enticing flavour descriptions that \"attract\" children into experimenting.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Jul 2026 09:54:49 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545075.html",
-    "category": "sports",
-    "title": "Tromp, Fletcher and Russell lift LAKR to No. 3",
-    "summary": "Narine's 1 for 14 in four overs and Russell's two blows in an over restricted Washington Freedom",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419600/419612.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Jul 2026 05:23:59 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545075.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o#0",
+    "id": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o#1",
     "category": "global",
     "title": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
     "summary": "The famous artefact depicting events leading up to the Norman Conquest of England will go on display in September.",
@@ -358,35 +388,5 @@
     "source": "BBC",
     "pubDate": "Fri, 10 Jul 2026 05:00:04 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545066.html",
-    "category": "sports",
-    "title": "Grimmond replaces injured Henry in West Indies squad for Ireland ODIs",
-    "summary": "The three-match series in Ireland is West Indies' third of the 2025-29 Women's Championship",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/401700/401725.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Jul 2026 03:40:30 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545066.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1544956.html",
-    "category": "sports",
-    "title": "Chennai locked in to host Renegades vs Scorchers BBL opener",
-    "summary": "CA said they had interest from most clubs in being part of the fixture, and hope to sell out MA Chidambaram Stadium",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/369300/369346.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Jul 2026 02:15:05 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1544956.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c2eyl3zkpwko#0",
-    "category": "global",
-    "title": "Pioneering treatment saves identical twins from rare pregnancy condition",
-    "summary": "Identical twins Nancy and Margo benefitted from the procedure while in the womb as part of a world-first medical trial.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Jul 2026 01:37:23 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c2eyl3zkpwko?at_medium=RSS&at_campaign=rss"
   }
 ]
