@@ -40,6 +40,66 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-as-investors-turn-to-earnings-season/articleshow/132320373.cms",
+    "category": "finance",
+    "title": "US stocks today: US stocks end higher as investors turn to earnings season",
+    "summary": "US markets ended higher with the S&amp;P 500 near record levels, driven by SK Hynix\u2019s strong Nasdaq debut and renewed momentum in AI-linked chip stocks. Investors remain cautious ahead of earnings season and inflation data, while geopolitical tension",
+    "image": "https://img.etimg.com/photo/msid-132320373,imgsize-197458.cms",
+    "source": "ET",
+    "pubDate": "Sat, 11 Jul 2026 01:34:16 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-as-investors-turn-to-earnings-season/articleshow/132320373.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/bomb-them-donald-trump-says-hes-left-instructions-if-iran-assassinates-him-11755910#publisher=newsstand",
+    "category": "india",
+    "title": "\"Bomb Them\": Trump Says He's Left Instructions If Iran Assassinates Him",
+    "summary": "After the NATO Summit, Trump swapped his plans while travelling back to the US",
+    "image": "https://c.ndtvimg.com/2026-03/7uiru26s_trump-iran-plan_625x300_07_March_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 11 Jul 2026 00:29:10 +0530",
+    "link": "https://www.ndtv.com/world-news/bomb-them-donald-trump-says-hes-left-instructions-if-iran-assassinates-him-11755910#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/coding-is-going-away-first-then-software-engineering-anthropic-ceo-dario-amodei-11754270#publisher=newsstand",
+    "category": "india",
+    "title": "'Coding Is Going Away First, Then Software Engineering': Anthropic CEO",
+    "summary": "AI models will automate coding before handling the broader responsibilities of software engineering.",
+    "image": "https://c.ndtvimg.com/2026-07/pueqrrq8_anthropic-ceo-dario-amodei_625x300_10_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 11 Jul 2026 00:26:35 +0530",
+    "link": "https://www.ndtv.com/education/coding-is-going-away-first-then-software-engineering-anthropic-ceo-dario-amodei-11754270#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/amaira-shivani-meena-vijay-meena-amaira-gave-distress-signal-jaipur-couple-recalls-daughters-final-hours-11755860#publisher=newsstand",
+    "category": "india",
+    "title": "'Amaira Gave Distress Signal': Jaipur Couple Recalls Daughter's Final Hours",
+    "summary": "The parents also question the school's response after the fall.",
+    "image": "https://c.ndtvimg.com/2026-07/m5u2iiss_amaira-parents-ndtv-_625x300_11_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 11 Jul 2026 00:12:17 +0530",
+    "link": "https://www.ndtv.com/india-news/amaira-shivani-meena-vijay-meena-amaira-gave-distress-signal-jaipur-couple-recalls-daughters-final-hours-11755860#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/assams-rs-2-100-crore-plan-to-build-satellite-city-around-guwahati-airport-11755872#publisher=newsstand",
+    "category": "india",
+    "title": "Assam's Rs 2,100-Crore Plan To Build Satellite City Around Guwahati Airport",
+    "summary": "The project is based on the Aerotropolis model.",
+    "image": "https://c.ndtvimg.com/2025-09/kqg5j3h8_guwahati-generic_625x300_14_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 11 Jul 2026 00:07:24 +0530",
+    "link": "https://www.ndtv.com/india-news/assams-rs-2-100-crore-plan-to-build-satellite-city-around-guwahati-airport-11755872#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/aviation-watchdog-warns-indigo-over-goods-handling-lapses-11755873#publisher=newsstand",
+    "category": "india",
+    "title": "Aviation Watchdog Warns IndiGo Over Goods Handling Lapses",
+    "summary": "The airline said there is a significant impact on its financials, operations, or other activities.",
+    "image": "https://c.ndtvimg.com/2025-08/5vb4qh3_indigo_625x300_06_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 11 Jul 2026 00:07:24 +0530",
+    "link": "https://www.ndtv.com/india-news/aviation-watchdog-warns-indigo-over-goods-handling-lapses-11755873#publisher=newsstand"
+  },
+  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -70,6 +130,36 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
+    "id": "https://www.ndtv.com/india-news/in-assam-budget-green-cess-proposal-to-fund-environmental-projects-11755842#publisher=newsstand",
+    "category": "india",
+    "title": "In Assam Budget, 'Green Cess' Proposal To Fund Environmental Projects",
+    "summary": "The proposed fund would support long-term environmental programmes",
+    "image": "https://c.ndtvimg.com/2026-07/7kjc6lec_tractor-generic_625x300_10_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Jul 2026 23:57:22 +0530",
+    "link": "https://www.ndtv.com/india-news/in-assam-budget-green-cess-proposal-to-fund-environmental-projects-11755842#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/bjp-replaces-candidate-against-prashant-kishor-for-bypoll-in-bihars-bankipur-11755813#publisher=newsstand",
+    "category": "india",
+    "title": "BJP Replaces Candidate Against Prashant Kishor For Bypoll In Bihar's Bankipur",
+    "summary": "The seat was vacated by BJP national president Nitin Nabin.",
+    "image": "https://c.ndtvimg.com/2026-07/gbggcaqs_wikimedia_625x300_10_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Jul 2026 23:49:59 +0530",
+    "link": "https://www.ndtv.com/india-news/bjp-replaces-candidate-against-prashant-kishor-for-bypoll-in-bihars-bankipur-11755813#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/playing-with-fire-union-minister-ravneet-singh-bittu-to-ndtv-on-satluj-screenings-by-akali-dal-11755794#publisher=newsstand",
+    "category": "india",
+    "title": "'Playing With Fire': Minister To NDTV On Satluj Screenings By Akali Dal",
+    "summary": "NDTV's Padmaja Joshi speaks to Ravneet Singh Bittu",
+    "image": "https://c.ndtvimg.com/2026-07/fpau3bd8_bittu_625x300_10_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Jul 2026 23:48:05 +0530",
+    "link": "https://www.ndtv.com/india-news/playing-with-fire-union-minister-ravneet-singh-bittu-to-ndtv-on-satluj-screenings-by-akali-dal-11755794#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-drops-capital-raising-plan-on-lower-ecl-hit/articleshow/132318232.cms",
     "category": "finance",
     "title": "Indian Bank drops capital raising plan on lower ECL hit",
@@ -80,36 +170,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-drops-capital-raising-plan-on-lower-ecl-hit/articleshow/132318232.cms"
   },
   {
-    "id": "https://www.ndtv.com/feature/refugee-camps-to-ceo-avinash-kaul-chronicles-his-journey-in-the-next-mountain-11652853#publisher=newsstand",
-    "category": "india",
-    "title": "Refugee Camps To CEO: Avinash Kaul Chronicles His Journey In \"The Next Mountain\"",
-    "summary": "The Next Mountain: Notes on Resilience, Leadership, and Purpose is scheduled for release on July 3.",
-    "image": "https://c.ndtvimg.com/2026-06/9uah3src_the-next-mountain_625x300_18_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 22:53:51 +0530",
-    "link": "https://www.ndtv.com/feature/refugee-camps-to-ceo-avinash-kaul-chronicles-his-journey-in-the-next-mountain-11652853#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/suspected-chinese-state-linked-hackers-spying-on-all-weather-friend-pakistan-11755620#publisher=newsstand",
-    "category": "india",
-    "title": "Suspected Chinese State-Linked Hackers Spying On 'All-Weather Friend' Pakistan",
-    "summary": "Chinese hackers carried out intrusions into the digital infrastructure of the police forces of Pakistan",
-    "image": "https://c.ndtvimg.com/2024-12/e30r389g_china-pakistan-istock_625x300_14_December_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 22:49:55 +0530",
-    "link": "https://www.ndtv.com/world-news/suspected-chinese-state-linked-hackers-spying-on-all-weather-friend-pakistan-11755620#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/no-cbi-probe-in-ajit-pawar-crash-before-report-from-investigator-d-fadnavis-11755568#publisher=newsstand",
-    "category": "india",
-    "title": "No CBI Probe In Ajit Pawar Crash Before Report From Investigator: D Fadnavis",
-    "summary": "Fadnavis urged political leaders and the public to refrain from baseless speculation.",
-    "image": "https://c.ndtvimg.com/2024-12/gtqkaioo_devendra-fadnavis_625x300_31_December_24.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 22:39:00 +0530",
-    "link": "https://www.ndtv.com/india-news/no-cbi-probe-in-ajit-pawar-crash-before-report-from-investigator-d-fadnavis-11755568#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-shares-jump-14-in-debut-on-us-stock-market-riding-on-ai-wave/articleshow/132316923.cms",
     "category": "finance",
     "title": "SK Hynix shares jump 14% in debut on US stock market riding on AI wave",
@@ -118,56 +178,6 @@
     "source": "ET",
     "pubDate": "Fri, 10 Jul 2026 22:30:30 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-shares-jump-14-in-debut-on-us-stock-market-riding-on-ai-wave/articleshow/132316923.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/minor-girls-body-found-in-mumbai-man-arrested-within-hours-11755507#publisher=newsstand",
-    "category": "india",
-    "title": "Minor Girl's Body Found In Mumbai, Man Arrested Within Hours",
-    "summary": "The Samtanagar police station official identified the accused as Suraj Maruti Waghmare.",
-    "image": "https://c.ndtvimg.com/mumbai-police-generic_650_625x300_1530762157699.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 22:27:54 +0530",
-    "link": "https://www.ndtv.com/india-news/minor-girls-body-found-in-mumbai-man-arrested-within-hours-11755507#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/kiwis-have-such-a-good-work-life-balance-indian-woman-praises-new-zealands-office-culture-11755459#publisher=newsstand",
-    "category": "india",
-    "title": "'It Is Such A Shock': Woman Compares New Zealand And Indian Work Culture",
-    "summary": "Indian woman in New Zealand praises Kiwi work culture's appreciation and work-life balance.",
-    "image": "https://c.ndtvimg.com/2026-07/97ab4tmk_as_625x300_10_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 22:23:35 +0530",
-    "link": "https://www.ndtv.com/offbeat/kiwis-have-such-a-good-work-life-balance-indian-woman-praises-new-zealands-office-culture-11755459#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/india-objects-to-wrong-map-at-dhaka-seminar-reasserts-j-k-is-integral-part-11755487#publisher=newsstand",
-    "category": "india",
-    "title": "India Objects To Wrong Map At Dhaka Seminar, Reasserts J&K Is Integral Part",
-    "summary": "Bangladesh's State Minister for Foreign Affairs Shama Obaed attended the event as the chief guest.",
-    "image": "https://c.ndtvimg.com/2026-07/r1r84als_india-bangladesh_625x300_10_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 22:21:37 +0530",
-    "link": "https://www.ndtv.com/india-news/india-objects-to-wrong-map-at-dhaka-seminar-reasserts-j-k-is-integral-part-11755487#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/pakistans-masterclass-in-selective-outrage-deporting-afghans-while-preaching-brotherhood-11755483#publisher=newsstand",
-    "category": "india",
-    "title": "Pakistan's Masterclass In Selective Outrage: Deporting Afghans While Preaching Brotherhood",
-    "summary": "Pakistan's domestic policies reflect a broader geopolitical truth",
-    "image": "https://i.ndtvimg.com/i/2017-10/afghan-pak-border-village-reuters-650_650x400_61507643450.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 22:21:14 +0530",
-    "link": "https://www.ndtv.com/world-news/pakistans-masterclass-in-selective-outrage-deporting-afghans-while-preaching-brotherhood-11755483#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/27-year-old-dies-after-falling-into-deep-open-drain-in-noida-11754807#publisher=newsstand",
-    "category": "india",
-    "title": "28-Year-Old Dies After Falling Into Deep Open Drain During Rain In Noida",
-    "summary": "The body has been sent for post-mortem examination. (Representational image)",
-    "image": "https://c.ndtvimg.com/2026-07/53ui52dg_noida-flood-ani-_625x300_10_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 22:17:50 +0530",
-    "link": "https://www.ndtv.com/india-news/27-year-old-dies-after-falling-into-deep-open-drain-in-noida-11754807#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/morgan-stanley-warns-ai-chip-rally-may-be-running-out-of-steam/articleshow/132315698.cms",
@@ -220,24 +230,94 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-billionaires-risky-bet-pays-off-as-sk-hynix-debuts-in-new-york/articleshow/132315233.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-task-force-members-get-an-a-at-the-outset-but-results-will-need-broad-buy-in/articleshow/132315199.cms",
-    "category": "finance",
-    "title": "Warsh task force members get an A at the outset, but results will need broad buy-in",
-    "summary": "Federal Reserve Chairman Kevin Warsh has enlisted a team of fifteen renowned external experts to spearhead reform task forces. This diverse group features both foreign central bankers and individuals from the former Obama administration, emphasizing ",
-    "image": "https://img.etimg.com/photo/msid-132315199,imgsize-138466.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 20:49:38 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-task-force-members-get-an-a-at-the-outset-but-results-will-need-broad-buy-in/articleshow/132315199.cms"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj4g79exkzlo#2",
+    "id": "https://www.bbc.co.uk/news/articles/cm2d370npe4o#0",
     "category": "global",
-    "title": "Prince Harry, Meghan and children visit King and Queen",
-    "summary": "King Charles and Queen Camilla host the Sussexes at Highgrove House on Friday afternoon.",
+    "title": "Anton du Beke 'devastated' at death of Strictly co-star Ann Widdecombe",
+    "summary": "Kemi Badenoch said the Conservative Party was \"reeling\" as the former minister's death is investigated as murder.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 10 Jul 2026 18:06:44 GMT",
+    "pubDate": "Fri, 10 Jul 2026 20:11:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm2d370npe4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2vq71473yo#0",
+    "category": "global",
+    "title": "Bedford triple murder suspect arrested in South Africa",
+    "summary": "Prosecutors in the UK authorise charges against Ndodana Mkhanyisi Tshuma.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Jul 2026 20:09:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vq71473yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545144.html",
+    "category": "sports",
+    "title": "Roy, Clark star as Surrey demolish Kent",
+    "summary": "Home side blown away for 102 with only four batters reaching double-figures",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417300/417351.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Jul 2026 20:01:52 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545144.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545142.html",
+    "category": "sports",
+    "title": "Hughes hundred tips balance in basement battle",
+    "summary": "Sussex hand out thrashing against fellow South Group strugglers",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/387400/387438.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Jul 2026 19:39:01 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545142.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvg50lk22jpo#0",
+    "category": "global",
+    "title": "Man arrested on suspicion of murder after death of Ann Widdecombe",
+    "summary": "There was initially no suggestion of suspicious circumstances when her death was announced on Friday morning.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Jul 2026 19:39:00 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvg50lk22jpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545139.html",
+    "category": "sports",
+    "title": "Mandhana, Harmanpreet fifties but England restrict India to 285 on historic opening day",
+    "summary": "Playing a women's Test at Lord's for the first time, England lost Tammy Beaumont in their batting response before stumps",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419600/419632.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Jul 2026 19:29:18 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545139.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj4g79exkzlo#0",
+    "category": "global",
+    "title": "Harry visits King with Meghan and children for first time in four years",
+    "summary": "It is the first time the King has seen his grandchildren Archie, seven, and Lilibet, five, in person in more than four years.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Jul 2026 18:50:54 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cj4g79exkzlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545065.html",
+    "category": "sports",
+    "title": "Mustafizur Rahman ruled out for four weeks with hamstring and knee injuries",
+    "summary": "Seamer will travel to Birmingham for rehabilitation after being ruled out of Zimbabwe tour",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416062.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Jul 2026 18:29:28 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545065.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2xd555levo#0",
+    "category": "global",
+    "title": "Man pulls wheelies then throws electric motorbike off bridge after police chase",
+    "summary": "Owen Pendree was sentenced to 12 months and has been banned from driving after his \"stupid\" actions.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Jul 2026 18:17:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2xd555levo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545137.html",
@@ -248,16 +328,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 10 Jul 2026 18:02:26 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1545137.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545139.html",
-    "category": "sports",
-    "title": "Mandhana, Harmanpreet fifties but England restrict India to 285 on historic opening day",
-    "summary": "Playing a women's Test at Lord's for the first time, England lost Tammy Beaumont in their batting response before stumps",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419600/419632.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Jul 2026 18:02:25 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545139.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545140.html",
@@ -290,87 +360,27 @@
     "link": "https://www.cricinfo.com/ci/content/story/1545136.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/videos/c1ly3glepr1o#1",
+    "id": "https://www.bbc.co.uk/news/articles/cn94rdz3e59o#0",
     "category": "global",
-    "title": "Watch: Police confirm 26 year-old suspect in custody",
-    "summary": "A 26-year-old man has been arrested on suspicion of murder following the death of Ann Widdecombe, police say.",
+    "title": "Sam Fender and Olivia Dean make UK chart history with Rein Me In",
+    "summary": "They break the record for the longest-running number one single of all time by a British act.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 10 Jul 2026 17:18:02 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c1ly3glepr1o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Fri, 10 Jul 2026 17:07:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cn94rdz3e59o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1545131.html",
-    "category": "sports",
-    "title": "Hampshire secure top spot as Adams stars with bat and ball again",
-    "summary": "Captain hits 53 after taking 2 for 21 as Warwickshire fall to ninth defeat in 12 group games",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419600/419639.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Jul 2026 17:12:32 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545131.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o#1",
+    "id": "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o#0",
     "category": "global",
-    "title": "Ann Widdecombe murder probe: What we know so far",
-    "summary": "Police say they are searching for a suspect in connection with the former MP's death at her home on Dartmoor.",
+    "title": "Fery's Wimbledon run ended by Zverev in semi-finals",
+    "summary": "Arthur Fery's unforgettable Wimbledon run comes to an end as Alexander Zverev beats the British wildcard to secure a place in the final.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Fri, 10 Jul 2026 17:04:40 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Fri, 10 Jul 2026 15:36:30 GMT",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1545128.html",
-    "category": "sports",
-    "title": "Grace Scrivens 85 sets up Essex for victory over Durham",
-    "summary": "Captain combines in 94-run opening stand with Anneke Bosch to set visitors on their way",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415400/415424.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Jul 2026 16:58:15 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545128.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/c0lydpe9722o#1",
-    "category": "global",
-    "title": "Watch: 'Shocked' Starmer and Badenoch react to murder investigation",
-    "summary": "The prime minister and opposition leader spoke after the police announced a murder investigation into the death of Ann Widdecombe.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Jul 2026 16:47:24 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c0lydpe9722o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545122.html",
-    "category": "sports",
-    "title": "Is Brook ready to lead England across all three formats?",
-    "summary": "England don't have many options as a long-term replacement for Stokes but turning Brook risks spreading him too thin",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419200/419224.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Jul 2026 16:43:51 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545122.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo#2",
-    "category": "global",
-    "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-    "summary": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Jul 2026 16:42:24 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cewq9vznzz5o#2",
-    "category": "global",
-    "title": "Top Boy actor Micheal Ward found not guilty of rape",
-    "summary": "Micheal Ward told the jury the encounter with his accuser was \"wholly consensual\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Jul 2026 14:52:59 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cewq9vznzz5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo#2",
+    "id": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo#0",
     "category": "global",
     "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
     "summary": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almer\u00eda.",
@@ -378,15 +388,5 @@
     "source": "BBC",
     "pubDate": "Fri, 10 Jul 2026 14:08:26 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o#2",
-    "category": "global",
-    "title": "UK bakes in 35C highs as millions under hosepipe bans",
-    "summary": "On Thursday, temperatures exceeded 34C for the eighth day this year, breaking the previous record of seven days in a calendar year.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Jul 2026 12:38:19 GMT",
-    "link": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o?at_medium=RSS&at_campaign=rss"
   }
 ]
