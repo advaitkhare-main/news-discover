@@ -40,16 +40,6 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o#0",
-    "category": "global",
-    "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-    "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 09 Jul 2026 20:47:41 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -80,164 +70,224 @@
     "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-said-to-launch-213-million-india-ipo-this-month/articleshow/132276227.cms",
-    "category": "finance",
-    "title": "Milky Mist said to launch $213 million IPO this month",
-    "summary": "Milky Mist Dairy Food Ltd. is preparing for its large initial public offering.  The company aims to launch the share sale as early as July or August.  This offering is expected to be India's largest dairy sector IPO.  Proceeds will fund manufacturing",
-    "image": "https://img.etimg.com/photo/msid-132276227,imgsize-68468.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 16:32:57 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-said-to-launch-213-million-india-ipo-this-month/articleshow/132276227.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-13-stocks-surged-up-to-225-in-just-3-months/slideshow/132309891.cms",
-    "category": "finance",
-    "title": "Multibaggers: 13 stocks surged up to 225% in just 3 months",
-    "summary": "Even as the Sensex stayed nearly flat with just a 0.14% gain over three months, 13 stocks with a market cap above Rs 5,000 crore bucked the trend, surging up to 225% and more than doubling investor wealth in the same period.",
-    "image": "https://img.etimg.com/photo/msid-132309709,imgsize-3990.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 16:05:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-13-stocks-surged-up-to-225-in-just-3-months/slideshow/132309891.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/court-sends-shiv-sena-corporator-who-assaulted-woman-doctor-to-3-day-custody-11753646#publisher=newsstand",
+    "id": "https://www.ndtv.com/opinion/us-iran-mou-collapse-why-the-strait-of-hormuz-is-back-on-the-brink-11754623#publisher=newsstand",
     "category": "india",
-    "title": "Court Sends Shiv Sena Corporator Who Assaulted Woman Doctor To 3-Day Custody",
-    "summary": "Ramesh Mhatre was arrested on Wednesday",
-    "image": "https://c.ndtvimg.com/2026-07/1see2vek_mhatre_625x300_10_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "Opinion: Opinion | US-Iran MoU Collapse: Why The Strait Of Hormuz Is Back On The Brink",
+    "summary": "Why did the ceasefire fail? Could it have been prevented? The answer to many of these questions lies in the framing of the 14-Point MoU and the uneven playfield that it created.",
+    "image": "https://c.ndtvimg.com/2026-07/i98fcie_trump-afp_625x300_08_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 16:04:57 +0530",
-    "link": "https://www.ndtv.com/india-news/court-sends-shiv-sena-corporator-who-assaulted-woman-doctor-to-3-day-custody-11753646#publisher=newsstand"
+    "pubDate": "Fri, 10 Jul 2026 19:12:57 +0530",
+    "link": "https://www.ndtv.com/opinion/us-iran-mou-collapse-why-the-strait-of-hormuz-is-back-on-the-brink-11754623#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-on-week-as-iran-flare-up-spurs-caution-merchant-hedging/articleshow/132309601.cms",
+    "id": "https://www.ndtv.com/india-news/exclusive-navys-next-build-up-takes-shape-with-3-warship-projects-worth-rs-1-lakh-crore-11754613#publisher=newsstand",
+    "category": "india",
+    "title": "Exclusive: Navy's Next Build-Up Takes Shape With 3 Warship Projects Worth Rs 1 Lakh Crore",
+    "summary": "Indian Navy set to commission indigenous Project 17A stealth frigate Mahendragiri",
+    "image": "https://c.ndtvimg.com/2026-07/dktk26ns_navy-_625x300_10_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Jul 2026 19:10:17 +0530",
+    "link": "https://www.ndtv.com/india-news/exclusive-navys-next-build-up-takes-shape-with-3-warship-projects-worth-rs-1-lakh-crore-11754613#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/head-and-shoulders-outside-man-nearly-sucked-out-of-flight-as-window-detaches-11754065#publisher=newsstand",
+    "category": "india",
+    "title": "Head And Shoulders Outside: Man Nearly Sucked Out Of Flight As Window Detaches",
+    "summary": "Passengers had woken up to a sound like that of a tyre bursting and screams",
+    "image": "https://c.ndtvimg.com/2026-07/b2l52328_ryanair_625x300_10_July_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Jul 2026 19:08:17 +0530",
+    "link": "https://www.ndtv.com/world-news/head-and-shoulders-outside-man-nearly-sucked-out-of-flight-as-window-detaches-11754065#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-opens-steady-ahead-of-sk-hynix-listing-middle-east-in-focus/articleshow/132313400.cms",
     "category": "finance",
-    "title": "Rupee slips on week as Iran flare-up spurs caution, merchant hedging",
-    "summary": "The Indian rupee ended nearly unchanged on Friday, but the week closed on a weaker note. Investor caution grew amid renewed hostilities in the Middle East, impacting oil-affiliated currencies. Meanwhile, global stock markets thrived, propelled by AI ",
-    "image": "https://img.etimg.com/photo/msid-132309601,imgsize-223014.cms",
+    "title": "US stocks today: US stocks open steady ahead of SK Hynix listing; Middle East in focus",
+    "summary": "Wall Street opened steady as investors tracked SK Hynix\u2019s much-awaited Nasdaq debut and rising Middle East tensions. The Dow and S&amp;P 500 edged higher, while Nasdaq slipped slightly. Markets remained cautious amid inflation concerns linked to geop",
+    "image": "https://img.etimg.com/photo/msid-132313400,imgsize-270072.cms",
     "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 16:04:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-on-week-as-iran-flare-up-spurs-caution-merchant-hedging/articleshow/132309601.cms"
+    "pubDate": "Fri, 10 Jul 2026 19:08:11 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-opens-steady-ahead-of-sk-hynix-listing-middle-east-in-focus/articleshow/132313400.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/jaipur-school-amaira-teachers-left-her-dead-on-stretcher-fled-parents-of-bullied-student-to-ndtv-11753624#publisher=newsstand",
+    "id": "https://www.ndtv.com/feature/surgeons-in-britain-stopping-operations-midway-amid-sweltering-heatwave-11754486#publisher=newsstand",
     "category": "india",
-    "title": "\"Teachers Left Her Dead On Stretcher, Fled\": Parents Of Bullied Student To NDTV",
-    "summary": "Shivani Meena underlined that her daughter was very happy when she arrived at the school that November morning.",
-    "image": "https://c.ndtvimg.com/2026-07/i0mp3umg_amaira-_625x300_10_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Surgeons In Britain Stopping Operations Midway Amid Sweltering Heatwave",
+    "summary": "Extreme heat forces NHS surgeons to halt procedures to prevent medical errors.",
+    "image": "https://c.ndtvimg.com/2026-07/fr5luk9o_as_625x300_10_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 16:04:09 +0530",
-    "link": "https://www.ndtv.com/india-news/jaipur-school-amaira-teachers-left-her-dead-on-stretcher-fled-parents-of-bullied-student-to-ndtv-11753624#publisher=newsstand"
+    "pubDate": "Fri, 10 Jul 2026 18:47:50 +0530",
+    "link": "https://www.ndtv.com/feature/surgeons-in-britain-stopping-operations-midway-amid-sweltering-heatwave-11754486#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/wish-i-had-chosen-it-33-year-old-civil-engineers-painful-confession-viral-11753663#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/sheikh-hasina-to-return-to-bangladesh-by-december-surrender-with-colleagues-11752841#publisher=newsstand",
     "category": "india",
-    "title": "'Wish I Had Chosen IT': 33-Year-Old Civil Engineer's Painful Confession Viral",
-    "summary": "Professional voices regrets over civil engineering career citing mental and work pressures",
-    "image": "https://c.ndtvimg.com/2026-07/98uvoc4c_as_625x300_10_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "'May Arrest Or Kill Me': Hasina Says She'll Return To Bangladesh By December",
+    "summary": "Bangladesh has repeatedly urged India to extradite Sheikh Hasina.",
+    "image": "https://c.ndtvimg.com/2026-06/aa9lgnrs_sheikh-hasina-afp_625x300_28_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 16:03:07 +0530",
-    "link": "https://www.ndtv.com/offbeat/wish-i-had-chosen-it-33-year-old-civil-engineers-painful-confession-viral-11753663#publisher=newsstand"
+    "pubDate": "Fri, 10 Jul 2026 18:44:43 +0530",
+    "link": "https://www.ndtv.com/world-news/sheikh-hasina-to-return-to-bangladesh-by-december-surrender-with-colleagues-11752841#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/pregnancy-norms-stall-ips-officers-training-despite-favourable-court-opinion-11753648#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/coding-is-going-away-first-then-software-engineering-anthropic-ceo-dario-amodei-11754270#publisher=newsstand",
     "category": "india",
-    "title": "Pregnancy Norms Stall IPS Officer's Training Despite Favourable Court Opinion",
-    "summary": "The matter was taken up after the Supreme Court, on July 8.",
-    "image": "https://c.ndtvimg.com/2026-06/mt6dm2bs_supreme-court-of-india_625x300_17_June_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "title": "'Coding Is Going Away First, Then Software Engineering': Anthropic CEO",
+    "summary": "AI models will automate coding before handling the broader responsibilities of software engineering.",
+    "image": "https://c.ndtvimg.com/2026-07/pueqrrq8_anthropic-ceo-dario-amodei_625x300_10_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 16:01:22 +0530",
-    "link": "https://www.ndtv.com/india-news/pregnancy-norms-stall-ips-officers-training-despite-favourable-court-opinion-11753648#publisher=newsstand"
+    "pubDate": "Fri, 10 Jul 2026 18:38:56 +0530",
+    "link": "https://www.ndtv.com/education/coding-is-going-away-first-then-software-engineering-anthropic-ceo-dario-amodei-11754270#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/cbse-class-10-second-exam-results-2026-delay-sparks-worry-over-college-admissions-11753617#publisher=newsstand",
-    "category": "india",
-    "title": "CBSE Class 10 Second Exam Result Delay Sparks Worry Over College Admissions",
-    "summary": "CBSE Class 10 Second Exam Results 2026: Around 6.68 lakh students are awaiting their results.",
-    "image": "https://c.ndtvimg.com/2026-07/5tukd3qs_cbse-class-10-second-exam-result_625x300_10_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 16:01:13 +0530",
-    "link": "https://www.ndtv.com/education/cbse-class-10-second-exam-results-2026-delay-sparks-worry-over-college-admissions-11753617#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/shes-in-shock-cant-sleep-father-of-doctor-assaulted-by-shiv-sena-corporator-11753650#publisher=newsstand",
-    "category": "india",
-    "title": "'She's In Shock, Can't Sleep': Father Of Doctor Assaulted By Sena Corporator",
-    "summary": "Dr Srishti Baviskar's father Mahendra Salunkhe talks to reporters",
-    "image": "https://c.ndtvimg.com/2026-07/j578goic_thane-doctor_625x300_10_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 16:01:09 +0530",
-    "link": "https://www.ndtv.com/india-news/shes-in-shock-cant-sleep-father-of-doctor-assaulted-by-shiv-sena-corporator-11753650#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/business-news/end-hustle-culture-gen-z-effort-recession-corporate-india-workplace-trend-11747760#publisher=newsstand",
-    "category": "india",
-    "title": "End Of Hustle Culture? Gen Z's 'Effort Recession' Hits 6 In 10 Indian Firms",
-    "summary": "One of the biggest reasons behind this shift is the rapid rise of Gen Z, as per the report.",
-    "image": "https://c.ndtvimg.com/2024-11/gtop39f8_workplace-generic-_625x300_14_November_24.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 15:55:23 +0530",
-    "link": "https://www.ndtv.com/business-news/end-hustle-culture-gen-z-effort-recession-corporate-india-workplace-trend-11747760#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-company-announces-110-stock-split-7-days-after-listing-on-market/articleshow/132309190.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-jio-financial-announce-q1-earnings-dates-check-details/articleshow/132312604.cms",
     "category": "finance",
-    "title": "Smallcap company announces 1:10 stock split 7 days after listing on market",
-    "summary": "Waterways Leisure Tourism approved a 1:10 stock split, subject to shareholder approval, days after its market debut. The move aims to improve stock liquidity, affordability and retail participation without altering market capitalisation or intrinsic ",
-    "image": "https://img.etimg.com/photo/msid-132309190,imgsize-1792480.cms",
+    "title": "Reliance Industries, Jio Financial announce Q1 earnings dates. Check details",
+    "summary": "Reliance Industries and Jio Financial Services will report their June-quarter earnings next week.  Reliance Industries' board meets Friday, July 17, 2026, for financial results.  Jio Financial Services will announce its first-quarter results on Thurs",
+    "image": "https://img.etimg.com/photo/msid-132312604,imgsize-39140.cms",
     "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 15:45:43 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-company-announces-110-stock-split-7-days-after-listing-on-market/articleshow/132309190.cms"
+    "pubDate": "Fri, 10 Jul 2026 18:27:39 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-jio-financial-announce-q1-earnings-dates-check-details/articleshow/132312604.cms"
   },
   {
-    "id": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-10-july-us-iran-war-trump-oil-prices-11751809#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/retail-space-rent-in-delhis-khan-market-rises-9pc-annually-in-apr-jun-cw/articleshow/132312458.cms",
+    "category": "finance",
+    "title": "Premium housing demand, urbanisation to support India's realty market in H2 2026: Knight Frank",
+    "summary": "India's housing market shows resilience through the second half of 2026. Strong demand for premium homes and urbanisation will support the sector. Sales growth is moderating, and new launches are outpacing absorption. Developers may offer incentives ",
+    "image": "https://img.etimg.com/photo/msid-132312458,imgsize-7390.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Jul 2026 18:23:32 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/retail-space-rent-in-delhis-khan-market-rises-9pc-annually-in-apr-jun-cw/articleshow/132312458.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/maharashtra-raises-farm-loan-waiver-limit-from-rs-50-000-to-rs-2-lakh-11754354#publisher=newsstand",
     "category": "india",
-    "title": "Stock Market Highlights, Sensex Today: Sensex Settles 827 Points Higher Amid Positive Global Cues",
-    "summary": "Sensex Today, Stock Market, Nifty, Share Market Highlights",
-    "image": "https://c.ndtvimg.com/2026-06/6p1b35no_india-stock-market-bbg_625x300_10_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Maharashtra Raises Farm Loan Waiver Limit From Rs 50,000 To Rs 2 Lakh",
+    "summary": "This will benefit thousands of farmers who were excluded due to the ceiling.",
+    "image": "https://c.ndtvimg.com/2026-07/1s3mj92k_cm-devendra-fadnavis-latest-news_625x300_09_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 10 Jul 2026 15:39:00 +0530",
-    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-10-july-us-iran-war-trump-oil-prices-11751809#publisher=newsstand"
+    "pubDate": "Fri, 10 Jul 2026 18:21:52 +0530",
+    "link": "https://www.ndtv.com/india-news/maharashtra-raises-farm-loan-waiver-limit-from-rs-50-000-to-rs-2-lakh-11754354#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/nuvama-initiates-buy-call-on-vedanta-aluminium-shares-expects-profitability-to-exceed-historical-average-heres-why/articleshow/132309020.cms",
-    "category": "finance",
-    "title": "Nuvama initiates Buy call on Vedanta Aluminium shares, expects profitability to exceed historical average. Here's why",
-    "summary": "Nuvama Institutional Equities and Motilal Oswal Financial Services have initiated coverage on Vedanta Aluminium with 'Buy' ratings and target prices of Rs 540, citing strong earnings growth, cost reduction initiatives, firm aluminium prices and robus",
-    "image": "https://img.etimg.com/photo/msid-132309020,imgsize-12700.cms",
-    "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 15:36:24 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/nuvama-initiates-buy-call-on-vedanta-aluminium-shares-expects-profitability-to-exceed-historical-average-heres-why/articleshow/132309020.cms"
+    "id": "https://www.ndtv.com/india-news/rajasthan-police-to-stop-using-dalit-replace-word-with-scheduled-caste-11754349#publisher=newsstand",
+    "category": "india",
+    "title": "Rajasthan Police To Stop Using 'Dalit', Replace Word With 'Scheduled Caste'",
+    "summary": "The debate centres on the distinction between legal and socio-political terminology.",
+    "image": "https://c.ndtvimg.com/furrr3bg_rajasthan-police_625x300_19_July_18.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 10 Jul 2026 18:20:25 +0530",
+    "link": "https://www.ndtv.com/india-news/rajasthan-police-to-stop-using-dalit-replace-word-with-scheduled-caste-11754349#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/lords-mark-industries-limited-listed-on-the-bombay-stock-exchange/articleshow/132308849.cms",
+    "id": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-logs-best-day-in-over-a-week-on-oil-relief/articleshow/132312436.cms",
     "category": "finance",
-    "title": "Lord's Mark Industries Limited listed on the Bombay Stock Exchange",
-    "summary": "Lord's Mark Industries Limited successfully listed on the Bombay Stock Exchange on Friday, July 10. This significant milestone marks a new phase in the company's corporate journey. The diversified business group operates across energy, IVD, and MedTe",
-    "image": "https://img.etimg.com/photo/msid-132308849,imgsize-832108.cms",
+    "title": "India's 10-year bond logs best day in over a week on oil relief",
+    "summary": "On Friday, Indian government bonds experienced a positive shift with declining yields. This improvement was fueled by robust demand during a weekly auction and additional foreign investments. Falling oil prices further enhanced market sentiment. Howe",
+    "image": "https://img.etimg.com/photo/msid-132312436,imgsize-97836.cms",
     "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 15:34:20 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/lords-mark-industries-limited-listed-on-the-bombay-stock-exchange/articleshow/132308849.cms"
+    "pubDate": "Fri, 10 Jul 2026 18:13:28 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-logs-best-day-in-over-a-week-on-oil-relief/articleshow/132312436.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/christopher-wood-warns-of-ai-fatigue-why-jefferies-is-turning-to-india-and-china/articleshow/132308164.cms",
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-approves-ipos-of-defence-electronics-maker-tonbo-imaging-and-3-others/articleshow/132312361.cms",
     "category": "finance",
-    "title": "Christopher Wood warns of AI fatigue. Why Jefferies is turning to India and China",
-    "summary": "Christopher Wood of Jefferies warns that the AI trade is showing signs of fatigue as investors seek cheaper value opportunities. With India and China positioned to benefit from a rotation away from crowded AI winners, Wood believes picks-and-shovels ",
-    "image": "https://img.etimg.com/photo/msid-132308164,imgsize-49112.cms",
+    "title": "Sebi approves IPOs of defence electronics maker Tonbo Imaging and 3 others",
+    "summary": "Sebi approved IPO proposals of Tonbo Imaging India, Marri Retail, Zetwerk and Gujarat Victory Forgings, strengthening the primary market pipeline. The companies plan fundraising for expansion, debt repayment and growth, with defence, retail, manufact",
+    "image": "https://img.etimg.com/photo/msid-132312361,imgsize-110790.cms",
     "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 14:55:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/christopher-wood-warns-of-ai-fatigue-why-jefferies-is-turning-to-india-and-china/articleshow/132308164.cms"
+    "pubDate": "Fri, 10 Jul 2026 18:11:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-approves-ipos-of-defence-electronics-maker-tonbo-imaging-and-3-others/articleshow/132312361.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-as-miners-airlines-offset-tech-weakness-benchmark-set-for-weekly-loss/articleshow/132307730.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-makes-us-debut-today-will-investors-sell-micron-to-buy-the-ai-memory-leader/articleshow/132312331.cms",
     "category": "finance",
-    "title": "Global Market: European shares edge higher as miners, airlines offset tech weakness; benchmark set for weekly loss",
-    "summary": "European shares saw minimal change as mining and travel stocks gained. Technology shares declined, weighing on the broader market's performance. Investors remained cautious due to renewed Middle East geopolitical tensions. EasyJet shares surged signi",
-    "image": "https://img.etimg.com/photo/msid-132307730,imgsize-110300.cms",
+    "title": "SK Hynix makes US debut today. Will investors sell Micron to buy the AI memory leader?",
+    "summary": "SK Hynix begins US trading after a $26.5 billion ADR sale, expanding investor access to its AI memory chip business. The Nasdaq listing could narrow its valuation gap with Micron, while testing investor appetite for AI-linked semiconductor stocks.",
+    "image": "https://img.etimg.com/photo/msid-132312331,imgsize-56528.cms",
     "source": "ET",
-    "pubDate": "Fri, 10 Jul 2026 14:29:58 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-as-miners-airlines-offset-tech-weakness-benchmark-set-for-weekly-loss/articleshow/132307730.cms"
+    "pubDate": "Fri, 10 Jul 2026 18:09:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-makes-us-debut-today-will-investors-sell-micron-to-buy-the-ai-memory-leader/articleshow/132312331.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-hetty-green-there-is-no-great-secret-in-fortune-making-all-you-have-to-do-is-to-buy-cheap-and-sell-dear-act-with-thrift-and-shrewdness-and-then-be-persistent/articleshow/132303742.cms",
+    "category": "finance",
+    "title": "Quote of the day by Hetty Green: \"There is no great secret in fortune making. All you have to do is to buy cheap and sel",
+    "summary": "Hetty Green's century-old advice on wealth creation remains relevant today. Investors should buy undervalued assets and sell them at higher prices. Practicing financial prudence and managing expenses wisely builds lasting wealth. Persistence through ",
+    "image": "https://img.etimg.com/photo/msid-132303742,imgsize-121946.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Jul 2026 18:00:00 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-hetty-green-there-is-no-great-secret-in-fortune-making-all-you-have-to-do-is-to-buy-cheap-and-sell-dear-act-with-thrift-and-shrewdness-and-then-be-persistent/articleshow/132303742.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-top-gainers-and-losers-on-nifty-and-sensex-today/articleshow/132311812.cms",
+    "category": "finance",
+    "title": "Market wrap: Top gainers and losers on Nifty and Sensex today",
+    "summary": "Sensex climbed 828 points and Nifty gained 244 points, extending their winning streak as TCS earnings, positive global cues and banking optimism lifted sentiment. The rally added nearly Rs 6 lakh crore to BSE market capitalisation, with IT, financial",
+    "image": "https://img.etimg.com/photo/msid-132311812,imgsize-33492.cms",
+    "source": "ET",
+    "pubDate": "Fri, 10 Jul 2026 17:54:27 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-top-gainers-and-losers-on-nifty-and-sensex-today/articleshow/132311812.cms"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy04erw9y42o#0",
+    "category": "global",
+    "title": "Longest-serving Archers star Patricia Greene dies aged 95",
+    "summary": "She was best known for playing Jill Archer in the BBC Radio 4 soap for nearly 70 years.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Jul 2026 13:29:41 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cy04erw9y42o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545065.html",
+    "category": "sports",
+    "title": "Mustafizur Rahman ruled out for four weeks with hamstring and knee injuries",
+    "summary": "He has been ruled out of the remainder of Bangladesh's tour of Zimbabwe",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416062.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Jul 2026 13:03:59 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545065.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o#0",
+    "category": "global",
+    "title": "UK bakes in 35C highs as millions under hosepipe bans",
+    "summary": "On Thursday, temperatures exceeded 34C for the eighth day this year, breaking the previous record of seven days in a calendar year.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Jul 2026 12:38:19 GMT",
+    "link": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo#0",
+    "category": "global",
+    "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+    "summary": "Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Jul 2026 12:31:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545100.html",
+    "category": "sports",
+    "title": "Zimbabwe eye 3-0 sweep as Bangladesh seek consolation",
+    "summary": "Zimbabwe haven't completed a clean sweep of Bangladesh in any format since 2001",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419500/419593.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 10 Jul 2026 12:22:45 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545100.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c2kyw4nqd5do#0",
+    "category": "global",
+    "title": "Ann Widdecombe obituary: Brexit-backing former minister turned Strictly star",
+    "summary": "A leading figure on the right of British politics who reinvented herself as a reality TV star.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 10 Jul 2026 11:53:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c2kyw4nqd5do?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/c3eyq2np7qgo#0",
@@ -260,16 +310,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1544985.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c2dyw9lp02wo#0",
-    "category": "global",
-    "title": "Prince Harry plays pickleball at Invictus Games event, but no Meghan",
-    "summary": "The Duke of Sussex is travelling without his wife for the event at Birmingham's NEC.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Jul 2026 11:28:26 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c2dyw9lp02wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1545099.html",
     "category": "sports",
     "title": "England win toss and bowl in historic women's Lord's Test",
@@ -290,16 +330,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1545101.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c2kyw4nqd5do#0",
-    "category": "global",
-    "title": "Brexit-backing, animal-loving Strictly star Ann Widdecombe dies aged 78",
-    "summary": "A leading figure on the right of British politics who reinvented herself as a reality TV star.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Jul 2026 10:13:12 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c2kyw4nqd5do?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o#0",
     "category": "global",
     "title": "Vapes to have less enticing names and flavours to protect children",
@@ -308,16 +338,6 @@
     "source": "BBC",
     "pubDate": "Fri, 10 Jul 2026 09:54:49 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545008.html",
-    "category": "sports",
-    "title": "Ashwin ruled out of rest of MLC 2026 with knee injury",
-    "summary": "Australian fast bowler Peter Siddle has been approved as Ashwin's replacement",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418700/418708.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Jul 2026 07:16:20 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545008.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545075.html",
@@ -330,16 +350,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1545075.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo#0",
-    "category": "global",
-    "title": "To Wimbledon and back - Fery's voyage to Centre Court spotlight",
-    "summary": "Arthur Fery learned how to play tennis about a mile away from Wimbledon's Centre Court - now he's one win from the SW19 final.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 10 Jul 2026 05:10:25 GMT",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o#0",
     "category": "global",
     "title": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
@@ -348,16 +358,6 @@
     "source": "BBC",
     "pubDate": "Fri, 10 Jul 2026 05:00:04 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545065.html",
-    "category": "sports",
-    "title": "Mustafizur Rahman ruled out for four weeks with hamstring and knee injuries",
-    "summary": "He has been ruled out of the remainder of Bangladesh's tour of Zimbabwe",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416000/416062.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 10 Jul 2026 04:13:14 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545065.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545066.html",
