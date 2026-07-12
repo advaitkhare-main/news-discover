@@ -40,6 +40,66 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-cdsl-among-2-stock-recommendations-for-monday/articleshow/132344315.cms",
+    "category": "finance",
+    "title": "Market trading guide: CDSL among 2 stock recommendations for Monday",
+    "summary": "Markets rebounded sharply on Friday, supported by positive global cues and encouraging IT earnings. Analysts recommend CDSL and Sumitomo Chemical India as technical buy ideas, citing bullish breakouts, strong volumes and improving momentum indicators",
+    "image": "https://img.etimg.com/photo/msid-132344315,imgsize-54790.cms",
+    "source": "ET",
+    "pubDate": "Sun, 12 Jul 2026 16:12:03 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-cdsl-among-2-stock-recommendations-for-monday/articleshow/132344315.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/not-on-priority-list-cbse-class-10-second-board-result-sparks-anxiety-memes-and-appeals-on-social-media-11761068#publisher=newsstand",
+    "category": "india",
+    "title": "\"Not On Priority List\": CBSE 10th Second Board Result Sparks Anxiety, Memes, And Appeals On Social Media",
+    "summary": "The CBSE has not announced a result date, adding to anxiety among students.",
+    "image": "https://c.ndtvimg.com/2026-07/n4m2fj48_cbse_625x300_12_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sun, 12 Jul 2026 15:45:12 +0530",
+    "link": "https://www.ndtv.com/education/not-on-priority-list-cbse-class-10-second-board-result-sparks-anxiety-memes-and-appeals-on-social-media-11761068#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/jaisalmer-news-army-veteran-fought-3-wars-for-india-his-4th-battle-is-to-save-his-own-land-11761014#publisher=newsstand",
+    "category": "india",
+    "title": "He Fought 3 Wars For India. His \"4th Battle\" Is To Save His Own Land",
+    "summary": "Retired Honorary Captain Chunni Lal had fought the 1962, 1965, and 1971 wars",
+    "image": "https://c.ndtvimg.com/2026-07/l7ic8nnk_war-veteran_625x300_12_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sun, 12 Jul 2026 15:24:39 +0530",
+    "link": "https://www.ndtv.com/india-news/jaisalmer-news-army-veteran-fought-3-wars-for-india-his-4th-battle-is-to-save-his-own-land-11761014#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/delivery-agent-who-barged-into-bengaluru-womans-home-flashed-her-arrested-11760563#publisher=newsstand",
+    "category": "india",
+    "title": "Delivery Agent Who Barged Into Bengaluru Woman's Home, Flashed Her, Arrested",
+    "summary": "The accused, identified as Vijay Mallikarjun Kamat, has been arrested.",
+    "image": "https://c.ndtvimg.com/2026-07/ia0985ok_bengaluru-woman_160x120_12_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sun, 12 Jul 2026 15:23:07 +0530",
+    "link": "https://www.ndtv.com/india-news/delivery-agent-who-barged-into-bengaluru-womans-home-flashed-her-arrested-11760563#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/feature/truck-suddenly-changes-lane-on-bengaluru-road-biker-escapes-collision-by-inches-11760604#publisher=newsstand",
+    "category": "india",
+    "title": "Bengaluru Biker Avoids Crash After Truck's Last-Second Move To Save Wrong-Side Rider: \"Heart Missed A Beat\"",
+    "summary": "The video drew widespread reactions, with many users blaming poor lane discipline and wrong-side driving.",
+    "image": "https://c.ndtvimg.com/2026-07/r9c51gus_bengaluru-biker-_625x300_12_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sun, 12 Jul 2026 15:05:42 +0530",
+    "link": "https://www.ndtv.com/feature/truck-suddenly-changes-lane-on-bengaluru-road-biker-escapes-collision-by-inches-11760604#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/video-himanta-sarma-uses-road-roller-destroys-seized-drugs-worth-472-crores-11760933#publisher=newsstand",
+    "category": "india",
+    "title": "Video: Himanta Sarma Uses Road Roller, Destroys Seized Drugs Worth Rs 472 Crore",
+    "summary": "The state-level disposal programme was held on the outskirts of Guwahati",
+    "image": "https://c.ndtvimg.com/2026-07/skmmq8lk_himanta-sarma_625x300_12_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sun, 12 Jul 2026 14:58:25 +0530",
+    "link": "https://www.ndtv.com/india-news/video-himanta-sarma-uses-road-roller-destroys-seized-drugs-worth-472-crores-11760933#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-buys-3-58-lakh-shares-in-this-it-company-that-nearly-doubled-investor-money/articleshow/132343261.cms",
     "category": "finance",
     "title": "Vijay Kedia buys 3.58 lakh shares in this IT company that nearly doubled investor money",
@@ -78,56 +138,6 @@
     "source": "NDTV",
     "pubDate": "Sun, 12 Jul 2026 14:35:39 +0530",
     "link": "https://www.ndtv.com/education/delhi-university-pg-admission-2026-round-3-minimum-allocation-scores-out-direct-pdf-link-here-11760857#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/vietnam-boat-tragedy-updates-pm-narendra-modi-condoles-deaths-of-indian-tourists-in-vietnam-11758328#publisher=newsstand",
-    "category": "india",
-    "title": "Vietnam Boat Tragedy Updates: Vietnam Orders Probe After Boat Tragedy Kills 15 Indian Tourists",
-    "summary": "Vietnam Boat Tragedy: At least 15 Indians, including 13 men and 2 women, were killed in the incident",
-    "image": "https://c.ndtvimg.com/2026-07/fhm94m64_vietnam_625x300_12_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sun, 12 Jul 2026 14:33:26 +0530",
-    "link": "https://www.ndtv.com/world-news/vietnam-boat-tragedy-updates-pm-narendra-modi-condoles-deaths-of-indian-tourists-in-vietnam-11758328#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/delhi-news/3-lawrence-bishnoi-gang-shooters-planning-targeted-murder-arrested-in-delhi-11760828#publisher=newsstand",
-    "category": "india",
-    "title": "3 Lawrence Bishnoi Gang Shooters Planning Targeted Killing Arrested In Delhi",
-    "summary": "The arrests come amid increased scrutiny of the Lawrence Bishnoi organised crime network",
-    "image": "https://c.ndtvimg.com/2026-02/hfro7kss_lawrence-bishnoi_625x300_19_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sun, 12 Jul 2026 14:25:31 +0530",
-    "link": "https://www.ndtv.com/delhi-news/3-lawrence-bishnoi-gang-shooters-planning-targeted-murder-arrested-in-delhi-11760828#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/maharashtra-cet-cap-2026-registration-last-date-extended-till-july-16-check-details-here-11760603#publisher=newsstand",
-    "category": "india",
-    "title": "Maharashtra CET CAP 2026: Registration Last Date Extended Till July 16, Check Details Here",
-    "summary": "MHT CET CAP 2026 registration extended till July 16; complete JEE Main score fetch process.",
-    "image": "https://c.ndtvimg.com/2026-07/a9inab9c_mht_625x300_12_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Sun, 12 Jul 2026 14:22:14 +0530",
-    "link": "https://www.ndtv.com/education/maharashtra-cet-cap-2026-registration-last-date-extended-till-july-16-check-details-here-11760603#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/one-tunnel-one-highway-rs-14-115-crore-bet-to-transform-up-delhi-ncr-11751976#publisher=newsstand",
-    "category": "india",
-    "title": "One Tunnel, One Highway: Rs 14,115-Crore Bet To Transform UP, Delhi-NCR",
-    "summary": "India has steadily increased spending on highways over the past decade to reduce logistics costs.",
-    "image": "https://c.ndtvimg.com/2026-07/pkj0tpgo_tunnel_625x300_10_July_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sun, 12 Jul 2026 14:21:38 +0530",
-    "link": "https://www.ndtv.com/india-news/one-tunnel-one-highway-rs-14-115-crore-bet-to-transform-up-delhi-ncr-11751976#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-live-updates-us-strikes-iran-after-tanker-attacks-in-hormuz-donald-trump-nato-israel-lebanon-hezbollah-ceasefire-11741497#publisher=newsstand",
-    "category": "india",
-    "title": "US-Iran War Live Updates: After US Strikes Iran, Missile Alerts Sounded In UAE, Qatar, Bahrain",
-    "summary": "The US also revoked a sanctions waiver for Iranian oil.",
-    "image": "https://c.ndtvimg.com/2026-07/kqc933n_strait-of-hormuz_625x300_08_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sun, 12 Jul 2026 14:21:30 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-live-updates-us-strikes-iran-after-tanker-attacks-in-hormuz-donald-trump-nato-israel-lebanon-hezbollah-ceasefire-11741497#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/132342643.cms",
@@ -180,6 +190,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/iran-moves-to-close-strait-of-hormuz-should-investors-fear-a-nifty-crash-in-coming-days/articleshow/132341443.cms"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo#0",
+    "category": "global",
+    "title": "Nothing to suggest Widdecombe killing was politically motivated, police say",
+    "summary": "Police say they are not looking for anyone else after a 28-year-old man was arrested in Rotherham, South Yorkshire.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 12 Jul 2026 11:34:41 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-tech-q1-preview-revenue-may-dip-qoq-net-profit-could-rise-on-currency-depreciation/articleshow/132341372.cms",
     "category": "finance",
     "title": "HCL Tech Q1 preview: Revenue may dip QoQ; net profit could rise on currency depreciation",
@@ -190,14 +210,44 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-tech-q1-preview-revenue-may-dip-qoq-net-profit-could-rise-on-currency-depreciation/articleshow/132341372.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/10-debt-free-penny-stocks-under-rs-10-rally-up-to-1126-in-one-year-did-you-catch-them/articleshow/132341240.cms",
-    "category": "finance",
-    "title": "10 debt-free penny stocks under Rs 10 rally up to 1,126% in one year. Did you catch them?",
-    "summary": "Debt-free penny stocks priced under Rs 10 have delivered outsized returns of up to 1,126% over the past year, despite weak broader markets. Trendlyne data highlights sharp gains driven by liquidity and sentiment, but underlying risks remain high due ",
-    "image": "https://img.etimg.com/photo/msid-132341240,imgsize-87850.cms",
-    "source": "ET",
-    "pubDate": "Sun, 12 Jul 2026 11:19:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-debt-free-penny-stocks-under-rs-10-rally-up-to-1126-in-one-year-did-you-catch-them/articleshow/132341240.cms"
+    "id": "https://www.bbc.co.uk/news/articles/cx2x7441762o#0",
+    "category": "global",
+    "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+    "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, according to local media",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 12 Jul 2026 11:23:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545331.html",
+    "category": "sports",
+    "title": "McCullum relaxes new drinking regulations after England series win",
+    "summary": "ECB's policy on alcohol came with a clause that McCullum and managing director Rob Key could overrule the guidance",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419200/419223.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 12 Jul 2026 11:22:07 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545331.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/videos/ckg5kz7qp31o#0",
+    "category": "global",
+    "title": "'Argentina get ready': Fans react to England win",
+    "summary": "England fans in London celebrated their team's World Cup win against Norway.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 12 Jul 2026 11:17:05 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/ckg5kz7qp31o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c621y75w2x2o#1",
+    "category": "global",
+    "title": "'Animals', Hand of God and Beckham - Argentina and England's World Cup rivalry",
+    "summary": "As England and Argentina prepare to go head-to-head in Wednesday's World Cup semi-final, BBC Sport looks at their footballing rivalry.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 12 Jul 2026 10:10:33 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c621y75w2x2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo#0",
@@ -210,16 +260,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo#0",
-    "category": "global",
-    "title": "Man arrested in South Yorkshire on suspicion of Ann Widdecombe murder",
-    "summary": "A 28-year-old white British national has been arrested in South Yorkshire, police say.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 12 Jul 2026 09:45:21 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1545315.html",
     "category": "sports",
     "title": "Bishnoi replaces injured Varun in squad for Zimbabwe T20I tour",
@@ -228,16 +268,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 12 Jul 2026 09:21:29 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1545315.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo#1",
-    "category": "global",
-    "title": "'The perfect football song': Why England fans (like Beckham) and players love Wonderwall",
-    "summary": "David Beckham joined in with the latest Oasis singalong, following England's World Cup win in Miami.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 12 Jul 2026 07:15:40 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo#0",
@@ -258,16 +288,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 12 Jul 2026 06:09:47 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1545319.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/weather/articles/ce8mrn49gndo#0",
-    "category": "global",
-    "title": "'Exceptional' wildfire risk for parts of UK as heat health alerts issued",
-    "summary": "The warnings come as parts of the UK are set to enter their second week of temperatures above the heatwave threshold.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 12 Jul 2026 06:07:51 GMT",
-    "link": "https://www.bbc.co.uk/weather/articles/ce8mrn49gndo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545310.html",
@@ -310,16 +330,6 @@
     "link": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o#1",
-    "category": "global",
-    "title": "Watch full highlights as England ride luck in fierce Miami heat",
-    "summary": "Jude Bellingham scores twice, including an extra-time winner, as England come from behind to beat Norway 2-1 in Miami to reach the World Cup semi-finals.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 12 Jul 2026 00:50:48 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/c8r2nz82z3vo#0",
     "category": "global",
     "title": "We are living fewer years in good health: Is the NHS part of the problem?",
@@ -348,16 +358,6 @@
     "source": "Cricinfo",
     "pubDate": "Sat, 11 Jul 2026 19:57:37 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1545277.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545263.html",
-    "category": "sports",
-    "title": "Majola four-for rolls England, van Schalkwyk cements advantage",
-    "summary": "James Minto and Rocky Flintoff hit fifties but can't prevent first-innings deficit",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/404100/404138.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sat, 11 Jul 2026 19:34:46 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545263.html?ex_cid=OTC-RSS"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
