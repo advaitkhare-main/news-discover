@@ -20,14 +20,24 @@
     "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/donald-trumps-thursday-speech-to-focus-on-2020-election-interference-report-11767512#publisher=newsstand",
     "category": "india",
-    "title": "US-Iran War Live Updates: US Launches New Strikes On Iran After Trump Announces Hormuz Blockade",
-    "summary": "US-Iran War Live Updates: The flare-up is the latest to undermine an interim agreement between Washington and Tehran aimed at ending their war, which has caused global economic shockwaves since it began in late February.",
-    "image": "https://c.ndtvimg.com/2026-07/avok0scg_iran-war_625x300_13_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "Trump's Thursday Speech To Focus On 2020 Election Interference: Report",
+    "summary": "President Donald Trump announced that he will deliver a primetime address to the nation on Thursday.",
+    "image": "https://c.ndtvimg.com/2026-07/0d3gsvkk_donald-trump_625x300_14_July_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Tue, 14 Jul 2026 02:56:32 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
+    "pubDate": "Tue, 14 Jul 2026 04:46:53 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trumps-thursday-speech-to-focus-on-2020-election-interference-report-11767512#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/trump-sends-congress-formal-notice-that-iran-conflict-has-resumed-11767501#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Sends Congress Formal Notice That Iran Conflict Has Resumed",
+    "summary": "The United States began attacking Iran on February 28, alongside Israel.",
+    "image": "https://c.ndtvimg.com/2026-07/hvflvpo_hormuz_625x300_14_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Tue, 14 Jul 2026 04:31:44 +0530",
+    "link": "https://www.ndtv.com/world-news/trump-sends-congress-formal-notice-that-iran-conflict-has-resumed-11767501#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/us-launches-strikes-on-iran-for-third-consecutive-night-11767407#publisher=newsstand",
@@ -36,8 +46,38 @@
     "summary": "The US military said Monday it had launched a fresh salvo of attacks on Iran, marking the third night in a row that it had struck the country, as a deal to end the war falters.",
     "image": "https://c.ndtvimg.com/2026-07/9on5ttvc_us-strikes-iran_625x300_14_July_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Tue, 14 Jul 2026 02:55:34 +0530",
+    "pubDate": "Tue, 14 Jul 2026 04:31:07 +0530",
     "link": "https://www.ndtv.com/world-news/us-launches-strikes-on-iran-for-third-consecutive-night-11767407#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-military-death-toll-in-iran-war-rises-to-14-after-navy-pilot-death-this-month-11767454#publisher=newsstand",
+    "category": "india",
+    "title": "Iran War: US Military Death Count Rises To 14, Over 400 Injured",
+    "summary": "The fragile ceasefire between the US and Iran has officially collapsed as both have resumed strikes.",
+    "image": "https://c.ndtvimg.com/2026-07/bln4u3sk_iran-war_625x300_14_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Tue, 14 Jul 2026 03:59:25 +0530",
+    "link": "https://www.ndtv.com/world-news/us-military-death-toll-in-iran-war-rises-to-14-after-navy-pilot-death-this-month-11767454#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/series-of-blasts-heard-in-kyiv-after-missile-alert-11767441#publisher=newsstand",
+    "category": "india",
+    "title": "Series Of Blasts Heard In Kyiv After Missile Alert",
+    "summary": "A series of explosions were heard in the Ukrainian capital, Kyiv, shortly after midnight on Tuesday, an AFP journalist said, after the air force warned that several missiles were approaching.",
+    "image": "https://c.ndtvimg.com/2026-07/n920vmcc_kyiv_625x300_14_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Tue, 14 Jul 2026 03:27:03 +0530",
+    "link": "https://www.ndtv.com/world-news/series-of-blasts-heard-in-kyiv-after-missile-alert-11767441#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand",
+    "category": "india",
+    "title": "US-Iran War Live Updates: US Launches New Strikes On Iran After Trump Announces Hormuz Blockade",
+    "summary": "US-Iran War Live Updates: The flare-up is the latest to undermine an interim agreement between Washington and Tehran aimed at ending their war, which has caused global economic shockwaves since it began in late February.",
+    "image": "https://c.ndtvimg.com/2026-07/avok0scg_iran-war_625x300_13_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Tue, 14 Jul 2026 02:56:32 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/us-immigration-agent-kills-colombian-man-in-maine-2nd-such-killing-in-a-week-11767335#publisher=newsstand",
@@ -70,46 +110,6 @@
     "link": "https://www.ndtv.com/world-news/us-iran-war-yemen-claims-strike-on-sanaa-airport-houthis-attack-saudi-arabia-11767290#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/donald-trump-to-address-nation-on-thursday-11767236#publisher=newsstand",
-    "category": "india",
-    "title": "Donald Trump To Address Nation On Thursday",
-    "summary": "Trump did not reveal the subject of the speech.",
-    "image": "https://c.ndtvimg.com/2026-07/ntt64v28_donald-trump_625x300_07_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 14 Jul 2026 00:47:30 +0530",
-    "link": "https://www.ndtv.com/world-news/donald-trump-to-address-nation-on-thursday-11767236#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-us-to-resume-iran-port-blockade-from-today-amid-escalating-tensions-11767218#publisher=newsstand",
-    "category": "india",
-    "title": "US To Resume Iran Port Blockade From Today Amid Escalating Tensions",
-    "summary": "The United States will begin enforcing its renewed blockade of Iran's ports on Tuesday at 2000 GMT, the US military said.",
-    "image": "https://c.ndtvimg.com/2026-07/vmmnh5cc_hormuz_625x300_13_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 14 Jul 2026 00:31:54 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-us-to-resume-iran-port-blockade-from-today-amid-escalating-tensions-11767218#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/family-chased-for-15-km-car-windshield-smashed-after-molestation-bid-11766592#publisher=newsstand",
-    "category": "india",
-    "title": "Nashik Family Chased For 15 km, Car Damaged After Resisting Sexual Harassment",
-    "summary": "They chased the family's car and launched an attack.",
-    "image": "https://c.ndtvimg.com/2026-07/ibp7kcp_nashik_625x300_13_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 14 Jul 2026 00:27:32 +0530",
-    "link": "https://www.ndtv.com/india-news/family-chased-for-15-km-car-windshield-smashed-after-molestation-bid-11766592#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/drugs-sold-in-chocolate-wrappers-woman-arrested-in-ahmedabad-11767202#publisher=newsstand",
-    "category": "india",
-    "title": "Drugs Sold In Chocolate Wrappers, Woman Arrested In Ahmedabad",
-    "summary": "Police said Simaben has a previous case registered against her under the NDPS Act.",
-    "image": "https://c.ndtvimg.com/2026-07/nmvv5p0o_drugs_625x300_14_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 14 Jul 2026 00:24:09 +0530",
-    "link": "https://www.ndtv.com/india-news/drugs-sold-in-chocolate-wrappers-woman-arrested-in-ahmedabad-11767202#publisher=newsstand"
-  },
-  {
     "id": "1dxpkoyNmn8ceRMHCKLlT8",
     "category": "scitech",
     "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -140,6 +140,16 @@
     "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o#0",
+    "category": "global",
+    "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+    "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 13 Jul 2026 23:42:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/strategy-bitcoin-sales-shine-light-on-faltering-crypto-hoarding-companies/articleshow/132373599.cms",
     "category": "finance",
     "title": "Strategy bitcoin sales shine light on faltering crypto hoarding companies",
@@ -150,14 +160,34 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/strategy-bitcoin-sales-shine-light-on-faltering-crypto-hoarding-companies/articleshow/132373599.cms"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o#0",
+    "id": "https://www.bbc.co.uk/news/articles/c5yzn2g0xw9o#0",
     "category": "global",
-    "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-    "summary": "The US military later said it had started the third consecutive night of strikes on Iran.",
+    "title": "YouTube still recommending eating disorder videos to teens, research finds",
+    "summary": "The site is continuing to recommend harmful videos despite new rules meant to better protect teenagers in the UK, a study finds.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Mon, 13 Jul 2026 22:47:52 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 13 Jul 2026 23:05:00 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzn2g0xw9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/weather/articles/cvge2zq0zg3o#0",
+    "category": "global",
+    "title": "No significant rain forecast for at least a week as UK heatwave continues",
+    "summary": "Heat has been this big story of the summer so far but there has also been a lack of wet weather, as Ben Rich explains.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 13 Jul 2026 23:02:25 GMT",
+    "link": "https://www.bbc.co.uk/weather/articles/cvge2zq0zg3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o#0",
+    "category": "global",
+    "title": "The secretive crypto firm backed by Farage's biggest donor",
+    "summary": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 13 Jul 2026 23:00:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545472.html",
@@ -250,16 +280,6 @@
     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ahead-of-ipo-millworks-tech-raises-nearly-rs-44-cr-from-anchor-investors/articleshow/132369715.cms"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/ce8m9615dqlo#0",
-    "category": "global",
-    "title": "Mahmood says law will be changed to help deport grooming gang leader",
-    "summary": "Calls to deport Rochdale grooming gang ringleader Shabir Ahmed have been growing since his release from prison.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 13 Jul 2026 20:11:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ce8m9615dqlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1545455.html",
     "category": "sports",
     "title": "Kohli, Rohit and Bumrah arrive to help India face England",
@@ -300,16 +320,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1545481.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego#0",
-    "category": "global",
-    "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
-    "summary": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 13 Jul 2026 18:52:46 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1545480.html",
     "category": "sports",
     "title": "New Zealand bowl first, both teams make a change each",
@@ -348,16 +358,6 @@
     "source": "BBC",
     "pubDate": "Mon, 13 Jul 2026 17:31:54 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo#0",
-    "category": "global",
-    "title": "Volkswagen planning to cut up to 100,000 jobs globally",
-    "summary": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 13 Jul 2026 16:19:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cvgl20x1ggpo#0",
