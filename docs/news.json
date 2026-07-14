@@ -120,6 +120,16 @@
     "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/cp8l87784ngo#0",
+    "category": "global",
+    "title": "Seven Britons among those killed in Spain wildfires",
+    "summary": "Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 14 Jul 2026 23:33:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-ibm-shares-crashed-26-ceo-arvind-krishna-highlights-customer-spending-shifts-towards-ai/articleshow/132398379.cms",
     "category": "finance",
     "title": "Why IBM shares crashed 26%: CEO Arvind Krishna highlights customer spending shifts towards AI",
@@ -128,6 +138,36 @@
     "source": "ET",
     "pubDate": "Tue, 14 Jul 2026 23:31:35 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-ibm-shares-crashed-26-ceo-arvind-krishna-highlights-customer-spending-shifts-towards-ai/articleshow/132398379.cms"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/crele3r8j19o#0",
+    "category": "global",
+    "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+    "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 14 Jul 2026 23:17:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c982857nlrlo#0",
+    "category": "global",
+    "title": "Midnight social media curfew proposed for older UK teens",
+    "summary": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 14 Jul 2026 23:17:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c992e8g10nmo#0",
+    "category": "global",
+    "title": "After record heat, could the Atlantic make Britain's weather even more extreme?",
+    "summary": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 14 Jul 2026 23:08:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c992e8g10nmo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-warsh-vows-to-do-my-job-if-challenged-by-trump/articleshow/132396174.cms",
@@ -140,16 +180,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-warsh-vows-to-do-my-job-if-challenged-by-trump/articleshow/132396174.cms"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c982857nlrlo#0",
-    "category": "global",
-    "title": "Midnight social media curfew proposed for older UK teens",
-    "summary": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 14 Jul 2026 21:43:56 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132395996.cms",
     "category": "finance",
     "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
@@ -158,16 +188,6 @@
     "source": "ET",
     "pubDate": "Tue, 14 Jul 2026 21:31:46 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132395996.cms"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o#0",
-    "category": "global",
-    "title": "Review of MP security needed after Widdecombe death, Burnham says",
-    "summary": "The expected next prime minister says politics has \"darkened\" in the decade he has been away from Westminster.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 14 Jul 2026 21:30:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-profit-tops-estimates-on-trading-boom-corporate-deal-spree/articleshow/132395970.cms",
@@ -230,16 +250,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c5yzy71p9zeo#0",
-    "category": "global",
-    "title": "Southport victim's dad accuses ambulance staff of breaching trust",
-    "summary": "North West Ambulance Service is investigating whether staff inappropriately accessed medical records.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 14 Jul 2026 18:17:10 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5yzy71p9zeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/c0ryr74zjzvo#0",
     "category": "global",
     "title": "Police say Ann Widdecombe killed in 'targeted attack' as motive investigated",
@@ -258,16 +268,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 14 Jul 2026 17:06:35 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1545483.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c0qyq800n44o#0",
-    "category": "global",
-    "title": "Tyrannosaurus rex most expensive dinosaur ever sold",
-    "summary": "The dinosaur skeleton, which roamed the planet 67 million years ago, was sold by Sotheby's in New York.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 14 Jul 2026 15:37:52 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545592.html",
