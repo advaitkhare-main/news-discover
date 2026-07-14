@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://www.ndtv.com/world-news/florida-man-killed-after-fleeing-us-immigration-agents-3rd-death-in-a-week-11772362#publisher=newsstand",
+    "category": "india",
+    "title": "Florida Man Killed After Fleeing US Immigration Agents, 3rd Death In A Week",
+    "summary": "It was the third death in about a week involving encounters with ICE agents.",
+    "image": "https://c.ndtvimg.com/2026-07/u45g5r0g_us-immigration-officer_625x300_15_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Jul 2026 02:45:19 +0530",
+    "link": "https://www.ndtv.com/world-news/florida-man-killed-after-fleeing-us-immigration-agents-3rd-death-in-a-week-11772362#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-reimposes-naval-blockade-against-iran-in-strait-of-hormuz-launches-new-round-of-strikes-11772250#publisher=newsstand",
+    "category": "india",
+    "title": "US Resumes Hormuz Blockade Against Iran, Launches New Strikes",
+    "summary": "The US carried out another wave of strikes ahead of reimposing the blockade on Tuesday.",
+    "image": "https://c.ndtvimg.com/2026-07/q51cs8e8_us-iran-war_650x400_15_July_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Jul 2026 02:07:04 +0530",
+    "link": "https://www.ndtv.com/world-news/us-reimposes-naval-blockade-against-iran-in-strait-of-hormuz-launches-new-round-of-strikes-11772250#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-and-nasdaq-end-higher-on-cool-inflation-data-solid-bank-earnings/articleshow/132400813.cms",
     "category": "finance",
     "title": "US stocks today: S&amp;P 500 and Nasdaq end higher on cool inflation data, solid bank earnings",
@@ -18,6 +38,26 @@
     "source": "ET",
     "pubDate": "Wed, 15 Jul 2026 01:28:47 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-derivatives-regulator-blocks-kalshi-from-canceling-michigan-trades-despite-court-order/articleshow/132400801.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-us-forces-launch-new-round-of-strikes-on-iran-11772217#publisher=newsstand",
+    "category": "india",
+    "title": "US Forces Launch New Round Of Strikes On Iran",
+    "summary": "The United States launched strikes against Iran for the fourth day in a row Tuesday as Washington prepared to reimpose a naval blockade on Iranian ports, the US military said.",
+    "image": "https://c.ndtvimg.com/2026-07/occnece_us-army-iran-war_625x300_15_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Jul 2026 01:20:01 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-us-forces-launch-new-round-of-strikes-on-iran-11772217#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-halts-immigration-traffic-stops-after-2-fatal-shootings-11772182#publisher=newsstand",
+    "category": "india",
+    "title": "US Halts Immigration Traffic Stops After 2 Fatal Shootings",
+    "summary": "Last week, an ICE agent shot dead Lorenzo Salgado, a 52-year-old Mexican, during an operation in Texas.",
+    "image": "https://c.ndtvimg.com/2026-07/ac3lm2mo_us-immigration_625x300_15_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Jul 2026 00:51:36 +0530",
+    "link": "https://www.ndtv.com/world-news/us-halts-immigration-traffic-stops-after-2-fatal-shootings-11772182#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/donald-trumps-thursday-speech-to-focus-on-free-and-fair-elections-11772132#publisher=newsstand",
@@ -60,26 +100,6 @@
     "link": "https://www.ndtv.com/india-news/e20-ethanol-manish-kashyap-4-influencers-charged-for-tarnishing-nitin-gadkaris-image-in-e20-row-11772104#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/virgin-atlantic-flight-to-nowhere-circles-for-hours-before-returning-to-london-11772106#publisher=newsstand",
-    "category": "india",
-    "title": "Virgin Atlantic 'Flight To Nowhere' Circles For Hours Before Returning To London",
-    "summary": "Virgin Atlantic confirmed to the media outlet the turnaround was due to a \"minor technical issue\".",
-    "image": "https://c.ndtvimg.com/2026-07/jjn2cfr8_plane_625x300_14_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 00:14:34 +0530",
-    "link": "https://www.ndtv.com/world-news/virgin-atlantic-flight-to-nowhere-circles-for-hours-before-returning-to-london-11772106#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/akal-takht-to-document-sikh-deaths-during-1982-95-militancy-11772081#publisher=newsstand",
-    "category": "india",
-    "title": "Akal Takht To Document Sikh Deaths During 1982-95 Militancy",
-    "summary": "The Jathedar directed SGPC to establish a \"Shaheedi Pattan Memorial\" at Harike Pattan",
-    "image": "https://c.ndtvimg.com/2026-06/a5tukkjg_akal-takht_625x300_29_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 00:07:19 +0530",
-    "link": "https://www.ndtv.com/india-news/akal-takht-to-document-sikh-deaths-during-1982-95-militancy-11772081#publisher=newsstand"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -98,26 +118,6 @@
     "source": "VentureBeat",
     "pubDate": "Tue, 19 May 2026 17:45:00 GMT",
     "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/after-hormuz-iran-eyes-choking-off-red-sea-as-trump-card-against-us-11772051#publisher=newsstand",
-    "category": "india",
-    "title": "After Hormuz, Iran Eyes Choking Off Red Sea As Trump Card Against US",
-    "summary": "The war, launched in late February by the US and Israel, has destabilised the Gulf.",
-    "image": "https://c.ndtvimg.com/2019-05/i4bn2td8_oil-tanker-generic-pixabay_625x300_01_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 14 Jul 2026 23:58:30 +0530",
-    "link": "https://www.ndtv.com/world-news/after-hormuz-iran-eyes-choking-off-red-sea-as-trump-card-against-us-11772051#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand",
-    "category": "india",
-    "title": "US-Iran War News LIVE: Trump Backs Away From Plan To Charge Fees In The Strait Of Hormuz",
-    "summary": "US-Iran War Live Updates: The flare-up is the latest to undermine an interim agreement between Washington and Tehran aimed at ending their war, which has caused global economic shockwaves since it began in late February.",
-    "image": "https://c.ndtvimg.com/2026-07/avok0scg_iran-war_625x300_13_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 14 Jul 2026 23:55:18 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-ibm-shares-crashed-26-ceo-arvind-krishna-highlights-customer-spending-shifts-towards-ai/articleshow/132398379.cms",
@@ -140,6 +140,16 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-warsh-vows-to-do-my-job-if-challenged-by-trump/articleshow/132396174.cms"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/c982857nlrlo#0",
+    "category": "global",
+    "title": "Midnight social media curfew proposed for older UK teens",
+    "summary": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 14 Jul 2026 21:43:56 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132395996.cms",
     "category": "finance",
     "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
@@ -148,6 +158,16 @@
     "source": "ET",
     "pubDate": "Tue, 14 Jul 2026 21:31:46 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132395996.cms"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o#0",
+    "category": "global",
+    "title": "Review of MP security needed after Widdecombe death, Burnham says",
+    "summary": "The expected next prime minister says politics has \"darkened\" in the decade he has been away from Westminster.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 14 Jul 2026 21:30:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-profit-tops-estimates-on-trading-boom-corporate-deal-spree/articleshow/132395970.cms",
@@ -168,6 +188,16 @@
     "source": "ET",
     "pubDate": "Tue, 14 Jul 2026 21:10:15 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/anand-rathi-share-q1-results-profit-rises-71-to-rs-39-crore-before-one-time-charge/articleshow/132395689.cms"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545604.html",
+    "category": "sports",
+    "title": "Axar, Gill deliver India's first win of UK tour",
+    "summary": "Half-centurions Root and Dawson revived England after a collapse after Brook opted to bat",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419814.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 14 Jul 2026 21:05:36 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545604.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-adani-green-among-4-stocks-recommendations-for-wednesday/slideshow/132395083.cms",
@@ -198,26 +228,6 @@
     "source": "BBC",
     "pubDate": "Tue, 14 Jul 2026 20:10:37 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o#0",
-    "category": "global",
-    "title": "Review of MP security needed after Widdecombe death, Burnham says",
-    "summary": "The expected next prime minister says politics has \"darkened\" in the decade he has been away from Westminster.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 14 Jul 2026 19:35:31 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545604.html",
-    "category": "sports",
-    "title": "Axar, Gill deliver India's first win of UK tour",
-    "summary": "Half-centurions Root and Dawson revived England after a collapse after Brook opted to bat",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419814.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 14 Jul 2026 18:39:03 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545604.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/c5yzy71p9zeo#0",
@@ -278,16 +288,6 @@
     "source": "BBC",
     "pubDate": "Tue, 14 Jul 2026 12:19:47 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c4gynyz4wqpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/czrxrlydyzzo#0",
-    "category": "global",
-    "title": "UK wasted \u00a310bn on PPE that left NHS staff poorly protected, Covid inquiry finds",
-    "summary": "Healthcare staff were unable to properly protect themselves, or those in their care, from dangerous infections, says the latest inquiry report.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 14 Jul 2026 12:12:53 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545565.html",
