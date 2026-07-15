@@ -1,5 +1,55 @@
 [
   {
+    "id": "https://www.ndtv.com/india-news/irctc-unveils-new-ticket-booking-website-after-2-decades-beta-version-live-11776517#publisher=newsstand",
+    "category": "india",
+    "title": "IRCTC Unveils New Ticket Booking Website After 2 Decades, Beta Version Live",
+    "summary": "The launch comes as part of the Railways' broader effort to modernise digital ticketing.",
+    "image": "https://i.ndtvimg.com/i/2015-06/irctc_650x400_51435165598.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Jul 2026 22:13:43 +0530",
+    "link": "https://www.ndtv.com/india-news/irctc-unveils-new-ticket-booking-website-after-2-decades-beta-version-live-11776517#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-fall-below-ipo-price-for-first-time-as-post-listing-excitement-fades/articleshow/132420340.cms",
+    "category": "finance",
+    "title": "SpaceX shares fall below IPO price for first time as post-listing excitement fades",
+    "summary": "SpaceX shares slipped below their IPO price for the first time, signalling fading investor enthusiasm after a strong debut. The decline highlights valuation concerns, broader market pressure and risks tied to high-growth stocks. Despite strong initia",
+    "image": "https://img.etimg.com/photo/msid-132420340,imgsize-30616.cms",
+    "source": "ET",
+    "pubDate": "Wed, 15 Jul 2026 21:59:06 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-fall-below-ipo-price-for-first-time-as-post-listing-excitement-fades/articleshow/132420340.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/science/historic-first-human-x-rays-taken-in-space-signal-new-era-for-astronaut-health-11776433#publisher=newsstand",
+    "category": "india",
+    "title": "First Human X-Rays Captured In Space Mark Major Breakthrough For Astronaut Health",
+    "summary": "Following their return, three independent radiologists evaluated the in-flight images against identical scans taken before and after the mission.",
+    "image": "https://c.ndtvimg.com/2026-07/t3m9kll4_xray_625x300_15_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Jul 2026 21:53:05 +0530",
+    "link": "https://www.ndtv.com/science/historic-first-human-x-rays-taken-in-space-signal-new-era-for-astronaut-health-11776433#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/delhi-flags-70-of-300-large-projects-sealing-action-likely-11776419#publisher=newsstand",
+    "category": "india",
+    "title": "Delhi Flags 70% Of 300 Large Projects, Sealing Action Likely",
+    "summary": "Property owners in Delhi may face recovery notices and sealing action after a preliminary government scrutiny found that nearly 70 per cent of around 300 large projects had allegedly secured building plan approvals without paying the mandatory charge",
+    "image": "https://c.ndtvimg.com/2023-06/dsdrvj7g_society-building-generic_625x300_09_June_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Jul 2026 21:49:13 +0530",
+    "link": "https://www.ndtv.com/india-news/delhi-flags-70-of-300-large-projects-sealing-action-likely-11776419#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/ethanol-biofuel-will-make-india-aatmanirbhar-nitin-gadkari-at-ndtv-automate-summit-11776340#publisher=newsstand",
+    "category": "india",
+    "title": "Ethanol, Biofuel Will Make India Aatmanirbhar: Nitin Gadkari At NDTV Event",
+    "summary": "Gadkari pointed out that India spends nearly Rs 22 lakh crore on energy imports",
+    "image": "https://c.ndtvimg.com/2026-07/jq71l0so_nitin-gadkari-ndtv-automate_625x300_15_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Jul 2026 21:30:51 +0530",
+    "link": "https://www.ndtv.com/india-news/ethanol-biofuel-will-make-india-aatmanirbhar-nitin-gadkari-at-ndtv-automate-summit-11776340#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/angel-one-q1-results-net-profit-doubles-to-rs-231-crore/articleshow/132419853.cms",
     "category": "finance",
     "title": "Angel One Q1 Results: Net profit doubles to Rs 231 crore",
@@ -13,8 +63,8 @@
     "id": "https://economictimes.indiatimes.com/markets/bonds/tata-capital-raises-usd-400-million-from-a-bond-issue-in-the-us/articleshow/132419835.cms",
     "category": "finance",
     "title": "Tata Capital raises USD 400 million from a bond issue in the US",
-    "summary": "Tata Capital achieved a remarkable milestone by securing USD 400 million from global bond markets through a 3.5-year tenor Fixed Rate Senior Unsecured Reg S Bond. This strategic fundraising effort, according to the managing director, enhances the com",
-    "image": "https://img.etimg.com/photo/msid-132419835,imgsize-61542.cms",
+    "summary": "Tata Capital successfully raised $400 million by selling dollar bonds abroad. Asian and European asset managers dominated demand for these instruments. The bonds mature in 42 months and were priced tightly. This marks Tata Capital's second overseas d",
+    "image": "https://img.etimg.com/photo/msid-132419835,imgsize-54488.cms",
     "source": "ET",
     "pubDate": "Wed, 15 Jul 2026 21:25:18 +0530",
     "link": "https://economictimes.indiatimes.com/markets/bonds/tata-capital-raises-usd-400-million-from-a-bond-issue-in-the-us/articleshow/132419835.cms"
@@ -30,6 +80,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132419779.cms"
   },
   {
+    "id": "https://www.ndtv.com/india-news/landslide-cuts-off-village-near-china-border-as-arunachal-floods-wreak-havoc-11776235#publisher=newsstand",
+    "category": "india",
+    "title": "Landslide Cuts Off Village Near China Border As Arunachal Floods Wreak Havoc",
+    "summary": "Mechuka is a globally known tourist spot, visited by hundreds of tourists.",
+    "image": "https://c.ndtvimg.com/2026-06/bc4q6fus_pti_625x300_25_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Jul 2026 21:07:47 +0530",
+    "link": "https://www.ndtv.com/india-news/landslide-cuts-off-village-near-china-border-as-arunachal-floods-wreak-havoc-11776235#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-tightens-conflict-safeguards-with-recusal-framework/articleshow/132419435.cms",
     "category": "finance",
     "title": "Sebi tightens conflict safeguards with recusal framework",
@@ -38,6 +98,16 @@
     "source": "ET",
     "pubDate": "Wed, 15 Jul 2026 21:01:28 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-tightens-conflict-safeguards-with-recusal-framework/articleshow/132419435.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/man-discovers-20-year-old-sbi-passbook-wonders-if-the-money-is-lost-forever-11776203#publisher=newsstand",
+    "category": "india",
+    "title": "Man Discovers 20-Year-Old SBI Passbook, Wonders If The Money Is \"Lost Forever\"",
+    "summary": "The family had thought that the passbook was lost forever.",
+    "image": "https://c.ndtvimg.com/2026-07/nbo1ihi8_sbi-passbook_625x300_15_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Jul 2026 20:58:51 +0530",
+    "link": "https://www.ndtv.com/offbeat/man-discovers-20-year-old-sbi-passbook-wonders-if-the-money-is-lost-forever-11776203#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-kevin-warsh-says-interested-in-probe-of-bowman-bank-meeting-wont-prejudge-outcome/articleshow/132419357.cms",
@@ -53,8 +123,8 @@
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-inox-india-among-2-stock-recommendations-for-thursday/articleshow/132419296.cms",
     "category": "finance",
     "title": "Market Trading Guide: Inox India among 2 stock recommendations for Thursday",
-    "summary": "while the Fed maintained its focus on price stability without turning more hawkish. Q1 earnings remained the key domestic catalyst, though higher crude prices due to West Asia tensions capped gains and triggered profit booking.",
-    "image": "https://img.etimg.com/photo/msid-132419296,imgsize-10573.cms",
+    "summary": "Domestic equities showed resilience, with broader markets outperforming large caps amid positive cues. Q1 earnings remained a key domestic catalyst, though higher crude prices capped gains.",
+    "image": "https://img.etimg.com/photo/msid-132419296,imgsize-86304.cms",
     "source": "ET",
     "pubDate": "Wed, 15 Jul 2026 20:54:33 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-inox-india-among-2-stock-recommendations-for-thursday/articleshow/132419296.cms"
@@ -80,16 +150,6 @@
     "link": "https://www.ndtv.com/education/du-admission-2026-delhi-university-opens-admissions-without-cuet-pursue-an-mba-or-bsc-from-home-11776016#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/maharashtra-man-gets-life-term-for-killing-wife-over-infidelity-suspicion-11775770#publisher=newsstand",
-    "category": "india",
-    "title": "Maharashtra Man Gets Life Term For Killing Wife Over Infidelity Suspicion",
-    "summary": "A total of 11 witnesses were examined during the trial.",
-    "image": "https://c.ndtvimg.com/2019-07/f3n8l6vg_court-generic_625x300_27_July_19.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 20:20:41 +0530",
-    "link": "https://www.ndtv.com/india-news/maharashtra-man-gets-life-term-for-killing-wife-over-infidelity-suspicion-11775770#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-lombard-q1-results-profit-falls-46-on-commercial-insurance-slowdown-higher-claims/articleshow/132418788.cms",
     "category": "finance",
     "title": "ICICI Lombard Q1 Results: Profit falls 46% on commercial insurance slowdown, higher claims",
@@ -100,64 +160,64 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-lombard-q1-results-profit-falls-46-on-commercial-insurance-slowdown-higher-claims/articleshow/132418788.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/school-assembly-news-headlines-july-16-top-national-international-sports-news-11775992#publisher=newsstand",
-    "category": "india",
-    "title": "School Assembly News Headlines (July 16): Top National, International, Sports News",
-    "summary": "On the world stage: the UK hails rapid progress on a trade deal with India.",
-    "image": "https://c.ndtvimg.com/2026-07/m2o2iq4g_school_625x300_08_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 20:15:27 +0530",
-    "link": "https://www.ndtv.com/education/school-assembly-news-headlines-july-16-top-national-international-sports-news-11775992#publisher=newsstand"
+    "id": "https://www.bbc.co.uk/news/articles/czrjgmmx5rmo#0",
+    "category": "global",
+    "title": "Boy, 14, charged with terrorism offence over alleged plan to target mosques",
+    "summary": "The alleged offences are linked to \"extreme right-wing terrorism\" police say.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 15 Jul 2026 17:57:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/czrjgmmx5rmo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/indian-woman-shares-5-parenting-tips-shes-definitely-stealing-from-european-parents-11775975#publisher=newsstand",
-    "category": "india",
-    "title": "Indian Woman Shares 5 Parenting Tips She's \"Definitely Stealing\" From European Parents",
-    "summary": "She said your child doesn't have to be the centre of your world.",
-    "image": "https://c.ndtvimg.com/2026-07/3c54lh7g_parenting_625x300_15_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 20:12:14 +0530",
-    "link": "https://www.ndtv.com/offbeat/indian-woman-shares-5-parenting-tips-shes-definitely-stealing-from-european-parents-11775975#publisher=newsstand"
+    "id": "https://www.cricinfo.com/ci/content/story/1545756.html",
+    "category": "sports",
+    "title": "Taylor's second straight ton seals 3-0 sweep for West Indies",
+    "summary": "Afy Fletcher led the bowling attack with three key wickets as Ireland were bowled out for 193 in the chase of 258",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418500/418549.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 15 Jul 2026 17:34:49 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545756.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/india-news/akhil-gogoi-expelled-from-assam-assembly-for-interrupting-himanta-sarmas-speech-11775974#publisher=newsstand",
-    "category": "india",
-    "title": "Akhil Gogoi Expelled From Assam Assembly For Interrupting Himanta Sarma's Speech",
-    "summary": "Raijor Dal MLA Akhil Gogoi was expelled from the Assam Legislative Assembly for the remainder of the day during the ongoing Budget Session after repeatedly interrupting Chief Minister Himanta Biswa Sarma's speech on the Assam Budget 2026-27.",
-    "image": "https://c.ndtvimg.com/2022-05/9a89a3co_akhil-gogoi-ndtv-650_625x300_06_May_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 20:12:13 +0530",
-    "link": "https://www.ndtv.com/india-news/akhil-gogoi-expelled-from-assam-assembly-for-interrupting-himanta-sarmas-speech-11775974#publisher=newsstand"
+    "id": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o#0",
+    "category": "global",
+    "title": "French MPs approve assisted dying law with strict rules after years of argument",
+    "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 15 Jul 2026 17:29:26 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/education/mbbs-admissions-2026-27-9-911-seats-added-total-at-1-36-939-check-state-wise-seat-matrix-11775639#publisher=newsstand",
-    "category": "india",
-    "title": "MBBS Admissions 2026-27: 9,911 Seats Added, Total At 1,36,939, Check State-Wise Seat Matrix",
-    "summary": "MBBS Admissions 2026-27: Tamil Nadu gets 950 new seats, raising its total to 13,999.",
-    "image": "https://c.ndtvimg.com/2026-06/vbt93ur_nmc-has-retained-an-important-academic-restriction_625x300_01_June_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 20:04:45 +0530",
-    "link": "https://www.ndtv.com/education/mbbs-admissions-2026-27-9-911-seats-added-total-at-1-36-939-check-state-wise-seat-matrix-11775639#publisher=newsstand"
+    "id": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po#0",
+    "category": "global",
+    "title": "Iain Watson: Burnham faces crucial choice for chancellor as battle for No 11 continues",
+    "summary": "Whoever Burnham appoints to the key role will send a signal of his intent, writes Iain Watson.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 15 Jul 2026 17:13:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/el-nino-may-make-history-this-year-what-it-means-for-india-11775925#publisher=newsstand",
-    "category": "india",
-    "title": "El Nino May Make History This Year: What It Means For India",
-    "summary": "India has already seen the impact in the first month of the monsoon.",
-    "image": "https://c.ndtvimg.com/2026-07/mj75aeb4_india-has-already-seen-the-impact-in-the-first-month-of-the-monsoon_625x300_15_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 20:03:29 +0530",
-    "link": "https://www.ndtv.com/india-news/el-nino-may-make-history-this-year-what-it-means-for-india-11775925#publisher=newsstand"
+    "id": "https://www.cricinfo.com/ci/content/story/1545748.html",
+    "category": "sports",
+    "title": "Netherlands recall Pringle, Zulfiqar for ODIs against Nepal and Namibia",
+    "summary": "Netherlands will play four ODIs at Kampong in Utrecht, which are part of the World Cup League 2",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/405700/405745.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 15 Jul 2026 16:26:49 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545748.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/jp-morgan-moving-closer-to-a-milestone-no-bank-has-ever-reached-a-1-trillion-market-value/articleshow/132418396.cms",
-    "category": "finance",
-    "title": "JP Morgan moving closer to a milestone no bank has ever reached: A $1 trillion market value",
-    "summary": "JPMorgan is approaching a $1 trillion market valuation after record profits and a strong share rally. Robust investment banking, diversified operations and investor confidence in CEO Jamie Dimon have strengthened its leadership, with sustained dealma",
-    "image": "https://img.etimg.com/photo/msid-132418396,imgsize-14048.cms",
-    "source": "ET",
-    "pubDate": "Wed, 15 Jul 2026 20:02:31 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jp-morgan-moving-closer-to-a-milestone-no-bank-has-ever-reached-a-1-trillion-market-value/articleshow/132418396.cms"
+    "id": "https://www.cricinfo.com/ci/content/story/1545746.html",
+    "category": "sports",
+    "title": "Stokes set for Durham comeback during One-Day Cup",
+    "summary": "Former England captain \"reporting for duty\", according to head coach Campbell",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418500/418567.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 15 Jul 2026 16:16:24 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545746.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545747.html",
@@ -170,14 +230,14 @@
     "link": "https://www.cricinfo.com/ci/content/story/1545747.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1545746.html",
-    "category": "sports",
-    "title": "Stokes set for Durham comeback during One-Day Cup",
-    "summary": "Former England captain \"reporting for duty\", according to head coach Campbell",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418500/418567.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 15 Jul 2026 15:58:17 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545746.html?ex_cid=OTC-RSS"
+    "id": "https://www.bbc.co.uk/sport/athletics/articles/cvgj55npzdzo#0",
+    "category": "global",
+    "title": "New camera guidelines for female athletics coverage",
+    "summary": "New guidelines have been released advising broadcasters on how to use more respectful camera angles when covering live female athletics events.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 15 Jul 2026 15:53:45 GMT",
+    "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgj55npzdzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/c8r2r76vnd1o#0",
@@ -190,16 +250,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c8r2r76vnd1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/videos/c36y66j142wo#0",
-    "category": "global",
-    "title": "Watch: Starmer's kind send-off across the Commons",
-    "summary": "A warmer and less confrontational tone than usual was struck during Sir Keir Starmer's final PMQs appearance as prime minister.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 15 Jul 2026 15:19:38 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c36y66j142wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1545737.html",
     "category": "sports",
     "title": "Ashwin wants to see Kuldeep given 'better treatment'",
@@ -208,16 +258,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 15 Jul 2026 15:02:27 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1545737.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c9929dg5l5lo#0",
-    "category": "global",
-    "title": "Tourists warned of methanol poisoning risks in new campaign",
-    "summary": "Holidaymakers are urged to understand the dangers and symptoms of methanol poisoning.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 15 Jul 2026 14:55:43 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9929dg5l5lo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545739.html",
@@ -238,16 +278,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 15 Jul 2026 14:43:45 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1545738.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cyv0vqp04pgo#0",
-    "category": "global",
-    "title": "Three men who raped woman on Brighton beach jailed",
-    "summary": "The rapists carried out a \"cynical, predatory and callous\" attack, jurors were told.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 15 Jul 2026 14:35:34 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cyv0vqp04pgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/c5yzynxwk05o#0",
@@ -278,36 +308,6 @@
     "source": "BBC",
     "pubDate": "Wed, 15 Jul 2026 12:26:38 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545709.html",
-    "category": "sports",
-    "title": "ICC adds Super Series and Super 7 twist to 2027 ODI World Cup",
-    "summary": "The new structure, revealed on Wednesday, was introduced to \"enhance consequence\"",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/371700/371710.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 15 Jul 2026 12:19:43 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545709.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545717.html",
-    "category": "sports",
-    "title": "T20 World Cup 2028 to have two 'eliminators' before semi-finals",
-    "summary": "The first round will have five groups of four teams instead of four groups of five teams",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414571.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 15 Jul 2026 12:16:58 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545717.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c982857nlrlo#0",
-    "category": "global",
-    "title": "Midnight social media curfew proposed for UK teens aged 16 and 17 - but they can opt out",
-    "summary": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 15 Jul 2026 11:24:29 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/c802041g4v8o#0",
