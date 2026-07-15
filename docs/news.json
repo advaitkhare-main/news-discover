@@ -1,55 +1,5 @@
 [
   {
-    "id": "https://www.ndtv.com/noida-news/2-killed-after-e-bike-catches-fire-in-noida-residential-building-11776893#publisher=newsstand",
-    "category": "india",
-    "title": "2 Killed After E-Bike Catches Fire In Noida Residential Building",
-    "summary": "Officials said the fire from an electric bike spread to other floors",
-    "image": "https://c.ndtvimg.com/2026-07/acolse5g_noida-fire_625x300_15_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 23:48:54 +0530",
-    "link": "https://www.ndtv.com/noida-news/2-killed-after-e-bike-catches-fire-in-noida-residential-building-11776893#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/new-port-new-pipelines-gulf-nations-billion-dollar-push-to-bypass-hormuz-11776869#publisher=newsstand",
-    "category": "india",
-    "title": "New Port, New Pipelines: Gulf Nations' Billion-Dollar Push To Bypass Hormuz",
-    "summary": "UAE, Iraq have started building major pipeline projects that would move oil around Hormuz",
-    "image": "https://c.ndtvimg.com/2026-05/obrtkbsg_missile-is-dead-long-live-the-map-story_625x300_18_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 23:41:31 +0530",
-    "link": "https://www.ndtv.com/world-news/new-port-new-pipelines-gulf-nations-billion-dollar-push-to-bypass-hormuz-11776869#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/kidney-transplant-or-death-5-new-mothers-write-to-president-for-euthanasia-11776786#publisher=newsstand",
-    "category": "india",
-    "title": "'Kidney Transplant Or Death': 5 New Mothers Write To President For Euthanasia",
-    "summary": "The hospital said their treatment is ongoing, and all patients are stable",
-    "image": "https://c.ndtvimg.com/2026-07/iqrv1skk_kota-hospital_625x300_15_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 23:38:16 +0530",
-    "link": "https://www.ndtv.com/india-news/kidney-transplant-or-death-5-new-mothers-write-to-president-for-euthanasia-11776786#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/crossed-hormuz-safely-pune-sailor-messaged-wife-hours-before-attack-11776833#publisher=newsstand",
-    "category": "india",
-    "title": "'Crossed Hormuz Safely': Pune Sailor Messaged Wife Hours Before Attack",
-    "summary": "The family declined to share further details.",
-    "image": "https://c.ndtvimg.com/2026-03/12lmtpdk_strait-of-hormuz_625x300_03_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 23:32:12 +0530",
-    "link": "https://www.ndtv.com/india-news/crossed-hormuz-safely-pune-sailor-messaged-wife-hours-before-attack-11776833#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/bihar-woman-boyfriend-hire-contract-killer-to-murder-husband-on-train-11776824#publisher=newsstand",
-    "category": "india",
-    "title": "Bihar Woman, Boyfriend Hire Contract Killer To Murder Husband On Train",
-    "summary": "Police said efforts are being made to identify and arrest any other persons involved.",
-    "image": "https://c.ndtvimg.com/2022-11/oot8t25k_police-generic_625x300_07_November_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 23:29:22 +0530",
-    "link": "https://www.ndtv.com/india-news/bihar-woman-boyfriend-hire-contract-killer-to-murder-husband-on-train-11776824#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/pentair-shares-dip-17-on-dour-forecast-amid-weak-pool-sales/articleshow/132422544.cms",
     "category": "finance",
     "title": "Pentair shares dip 17% on dour forecast amid weak pool sales",
@@ -68,26 +18,6 @@
     "source": "ET",
     "pubDate": "Wed, 15 Jul 2026 23:21:57 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-cook-says-she-is-prepared-to-act-soon-if-inflation-does-not-begin-to-slow/articleshow/132422413.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/science/plutos-moon-charon-shows-signs-of-despinning-new-study-finds-11776766#publisher=newsstand",
-    "category": "india",
-    "title": "Pluto's Moon Charon Shows Signs Of \"Despinning\", New Study Finds",
-    "summary": "Charon is uniquely suited for this kind of detective work. It has no atmosphere, limited resurfacing, and craters more than 4 billion years old.",
-    "image": "https://c.ndtvimg.com/2026-07/apn13e4s_charon_625x300_15_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 23:12:20 +0530",
-    "link": "https://www.ndtv.com/science/plutos-moon-charon-shows-signs-of-despinning-new-study-finds-11776766#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/tenants-rant-about-bengalurus-crazy-rental-market-viral-feeling-helpless-11776745#publisher=newsstand",
-    "category": "india",
-    "title": "Tenant's Rant About Bengaluru's 'Crazy' Rental Market Viral: 'Feeling Helpless'",
-    "summary": "House hunting in Bengaluru proves exhausting due to rising rents and owner refusals.",
-    "image": "https://c.ndtvimg.com/2026-05/jtc70ckk_as_625x300_22_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 23:07:25 +0530",
-    "link": "https://www.ndtv.com/offbeat/tenants-rant-about-bengalurus-crazy-rental-market-viral-feeling-helpless-11776745#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-fall-below-ipo-price-for-first-time-as-post-listing-excitement-fades/articleshow/132420340.cms",
@@ -140,14 +70,14 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-tightens-conflict-safeguards-with-recusal-framework/articleshow/132419435.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-kevin-warsh-says-interested-in-probe-of-bowman-bank-meeting-wont-prejudge-outcome/articleshow/132419357.cms",
-    "category": "finance",
-    "title": "Fed's Kevin Warsh says interested in probe of Bowman bank meeting, won't prejudge outcome",
-    "summary": "Federal Reserve Chairman Kevin Warsh has shown keen interest in probing a discussion that took place between a top regulator and participants from the market. This meeting followed a recent Federal Reserve rate decision. Warsh clarified that he would",
-    "image": "https://img.etimg.com/photo/msid-132419357,imgsize-80720.cms",
-    "source": "ET",
-    "pubDate": "Wed, 15 Jul 2026 20:56:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-kevin-warsh-says-interested-in-probe-of-bowman-bank-meeting-wont-prejudge-outcome/articleshow/132419357.cms"
+    "id": "https://www.cricinfo.com/ci/content/story/1545757.html",
+    "category": "sports",
+    "title": "Willey, Sanderson come to the fore as Northants progress again",
+    "summary": "Return to Finals Day sealed by old guard as Gloucestershire are swept aside",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419833.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 15 Jul 2026 20:09:15 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545757.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545758.html",
@@ -290,16 +220,6 @@
     "link": "https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1545737.html",
-    "category": "sports",
-    "title": "Ashwin wants to see Kuldeep given 'better treatment'",
-    "summary": "Ashwin says Kuldeep is a 'match winner' and his skill set will be crucial during the 2027 ODI World Cup",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417900/417921.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 15 Jul 2026 15:02:27 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545737.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/c5yzynxwk05o#1",
     "category": "global",
     "title": "Starmer says it's the 'end of my political journey' at his final Prime Minister's Questions",
@@ -350,13 +270,93 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/iran-war-us-military-strikes-ship-trying-to-breach-iran-port-blockade-in-strait-of-hormuz-11777212#publisher=newsstand",
+    "category": "india",
+    "title": "US Military Strikes Ship Trying To Breach Iran Port Blockade",
+    "summary": "It was the first time US has forcibly halted a vessel since reinstating the ports blockade on Tuesday.",
+    "image": "https://c.ndtvimg.com/2026-07/a10rnhvk_hormuz_625x300_14_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 02:58:21 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-us-military-strikes-ship-trying-to-breach-iran-port-blockade-in-strait-of-hormuz-11777212#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/ukrainian-drone-kills-chief-engineer-at-zaporizhzhia-nuclear-plant-russia-11777181#publisher=newsstand",
+    "category": "india",
+    "title": "Ukrainian Drone Kills Chief Engineer At Zaporizhzhia Nuclear Plant: Russia",
+    "summary": "The chief engineer at the Zaporizhzhia nuclear power plant has been killed by a Ukrainian drone.",
+    "image": "https://c.ndtvimg.com/2026-07/te14kpa8_zaporizhzhia-nuclear-power-plant-chief_625x300_16_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 02:38:03 +0530",
+    "link": "https://www.ndtv.com/world-news/ukrainian-drone-kills-chief-engineer-at-zaporizhzhia-nuclear-plant-russia-11777181#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/red-fort-to-remain-closed-till-august-15-for-independence-preparations-11777108#publisher=newsstand",
+    "category": "india",
+    "title": "Red Fort To Remain Closed Till August 15 For Independence Preparations",
+    "summary": "A senior ASI official said on Wednesday that such orders are issued every year ahead of Independence Day.",
+    "image": "https://c.ndtvimg.com/2026-07/msbqq1i_red-fort-delhi_625x300_11_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 01:57:08 +0530",
+    "link": "https://www.ndtv.com/world-news/red-fort-to-remain-closed-till-august-15-for-independence-preparations-11777108#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-on-cool-inflation-data-strong-earnings/articleshow/132424759.cms",
+    "category": "finance",
+    "title": "US stocks today: US stocks end higher on cool inflation data, strong earnings",
+    "summary": "Wall Street closed higher as softer US producer inflation and strong early Q2 earnings boosted sentiment. PayPal surged on a reported buyout offer, while BlackRock and Morgan Stanley beat estimates. Despite weak semiconductor stocks, easing rate hike",
+    "image": "https://img.etimg.com/photo/msid-132424759,imgsize-243302.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Jul 2026 01:33:22 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-on-cool-inflation-data-strong-earnings/articleshow/132424759.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-forces-launch-new-wave-of-strikes-against-iran-11777048#publisher=newsstand",
+    "category": "india",
+    "title": "US Forces Launch New Wave Of Strikes Against Iran",
+    "summary": "The United States launched a new wave of strikes against Iran on Wednesday in a bid to curb Tehran's ability to threaten the Strait of Hormuz, the US military said.",
+    "image": "https://c.ndtvimg.com/2026-07/q51cs8e8_us-iran-war_650x400_15_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 01:06:32 +0530",
+    "link": "https://www.ndtv.com/world-news/us-forces-launch-new-wave-of-strikes-against-iran-11777048#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/marco-rubio-to-chair-global-meet-on-far-left-political-terrorism-today-11777032#publisher=newsstand",
+    "category": "india",
+    "title": "Marco Rubio To Chair Global Meet On Far-Left Political Terrorism Today",
+    "summary": "US Secretary of State Marco Rubio will chair the meeting on Thursday.",
+    "image": "https://c.ndtvimg.com/2026-06/oon32sl8_marco-rubio_625x300_27_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 01:00:16 +0530",
+    "link": "https://www.ndtv.com/world-news/marco-rubio-to-chair-global-meet-on-far-left-political-terrorism-today-11777032#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/115-fall-ill-after-eating-street-golgappas-12-hospitalised-in-rajasthan-11776983#publisher=newsstand",
+    "category": "india",
+    "title": "115 Fall Ill After Eating Street Golgappas, 12 Hospitalised In Rajasthan",
+    "summary": "The critically ill patients were shifted to CHC Simliya. (Representational)",
+    "image": "https://c.ndtvimg.com/2026-06/kc3uaoq4_ambulance-_625x300_30_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 00:26:07 +0530",
+    "link": "https://www.ndtv.com/india-news/115-fall-ill-after-eating-street-golgappas-12-hospitalised-in-rajasthan-11776983#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/noida-news/2-killed-after-e-bike-catches-fire-in-noida-residential-building-11776893#publisher=newsstand",
+    "category": "india",
+    "title": "\"Even Ambulance Can't Pass\": Inside Noida Lane Where 2 Died In Building Fire",
+    "summary": "Officials said the fire from an electric bike spread to other floors",
+    "image": "https://c.ndtvimg.com/2026-07/acolse5g_noida-fire_625x300_15_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 00:17:36 +0530",
+    "link": "https://www.ndtv.com/noida-news/2-killed-after-e-bike-catches-fire-in-noida-residential-building-11776893#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/fair-equitable-balanced-piyush-goyal-lauds-india-eu-trade-deal-11776947#publisher=newsstand",
     "category": "india",
-    "title": "\"Fair, Equitable, Balanced\": Piyush Goyal Lauds India-EU Trade Deal",
+    "title": "\"Fair, Equitable, Balanced\": Piyush Goyal Praises India-EU Trade Deal",
     "summary": "He said FTA will help create framework for greater trade and business.",
     "image": "https://c.ndtvimg.com/2024-03/kvgqceig_piyush-goyal_625x300_30_March_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 00:07:13 +0530",
+    "pubDate": "Thu, 16 Jul 2026 00:15:58 +0530",
     "link": "https://www.ndtv.com/india-news/fair-equitable-balanced-piyush-goyal-lauds-india-eu-trade-deal-11776947#publisher=newsstand"
   },
   {
