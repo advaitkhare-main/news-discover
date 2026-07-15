@@ -1,13 +1,93 @@
 [
   {
-    "id": "https://www.ndtv.com/india-news/irctc-unveils-new-ticket-booking-website-after-2-decades-beta-version-live-11776517#publisher=newsstand",
+    "id": "https://www.ndtv.com/noida-news/2-killed-after-e-bike-catches-fire-in-noida-residential-building-11776893#publisher=newsstand",
     "category": "india",
-    "title": "IRCTC Unveils New Ticket Booking Website After 2 Decades, Beta Version Live",
-    "summary": "The launch comes as part of the Railways' broader effort to modernise digital ticketing.",
-    "image": "https://i.ndtvimg.com/i/2015-06/irctc_650x400_51435165598.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "2 Killed After E-Bike Catches Fire In Noida Residential Building",
+    "summary": "Officials said the fire from an electric bike spread to other floors",
+    "image": "https://c.ndtvimg.com/2026-07/acolse5g_noida-fire_625x300_15_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 22:13:43 +0530",
-    "link": "https://www.ndtv.com/india-news/irctc-unveils-new-ticket-booking-website-after-2-decades-beta-version-live-11776517#publisher=newsstand"
+    "pubDate": "Wed, 15 Jul 2026 23:48:54 +0530",
+    "link": "https://www.ndtv.com/noida-news/2-killed-after-e-bike-catches-fire-in-noida-residential-building-11776893#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/new-port-new-pipelines-gulf-nations-billion-dollar-push-to-bypass-hormuz-11776869#publisher=newsstand",
+    "category": "india",
+    "title": "New Port, New Pipelines: Gulf Nations' Billion-Dollar Push To Bypass Hormuz",
+    "summary": "UAE, Iraq have started building major pipeline projects that would move oil around Hormuz",
+    "image": "https://c.ndtvimg.com/2026-05/obrtkbsg_missile-is-dead-long-live-the-map-story_625x300_18_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Jul 2026 23:41:31 +0530",
+    "link": "https://www.ndtv.com/world-news/new-port-new-pipelines-gulf-nations-billion-dollar-push-to-bypass-hormuz-11776869#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/kidney-transplant-or-death-5-new-mothers-write-to-president-for-euthanasia-11776786#publisher=newsstand",
+    "category": "india",
+    "title": "'Kidney Transplant Or Death': 5 New Mothers Write To President For Euthanasia",
+    "summary": "The hospital said their treatment is ongoing, and all patients are stable",
+    "image": "https://c.ndtvimg.com/2026-07/iqrv1skk_kota-hospital_625x300_15_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Jul 2026 23:38:16 +0530",
+    "link": "https://www.ndtv.com/india-news/kidney-transplant-or-death-5-new-mothers-write-to-president-for-euthanasia-11776786#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/crossed-hormuz-safely-pune-sailor-messaged-wife-hours-before-attack-11776833#publisher=newsstand",
+    "category": "india",
+    "title": "'Crossed Hormuz Safely': Pune Sailor Messaged Wife Hours Before Attack",
+    "summary": "The family declined to share further details.",
+    "image": "https://c.ndtvimg.com/2026-03/12lmtpdk_strait-of-hormuz_625x300_03_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Jul 2026 23:32:12 +0530",
+    "link": "https://www.ndtv.com/india-news/crossed-hormuz-safely-pune-sailor-messaged-wife-hours-before-attack-11776833#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/bihar-woman-boyfriend-hire-contract-killer-to-murder-husband-on-train-11776824#publisher=newsstand",
+    "category": "india",
+    "title": "Bihar Woman, Boyfriend Hire Contract Killer To Murder Husband On Train",
+    "summary": "Police said efforts are being made to identify and arrest any other persons involved.",
+    "image": "https://c.ndtvimg.com/2022-11/oot8t25k_police-generic_625x300_07_November_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Jul 2026 23:29:22 +0530",
+    "link": "https://www.ndtv.com/india-news/bihar-woman-boyfriend-hire-contract-killer-to-murder-husband-on-train-11776824#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/pentair-shares-dip-17-on-dour-forecast-amid-weak-pool-sales/articleshow/132422544.cms",
+    "category": "finance",
+    "title": "Pentair shares dip 17% on dour forecast amid weak pool sales",
+    "summary": "Pentair shares dropped sharply after the company cut its annual forecast, citing weak demand in its pool segment. High interest rates and inflation have pressured spending on outdoor projects, while distributors continue inventory cuts. The outlook s",
+    "image": "https://img.etimg.com/photo/msid-132422544,imgsize-50792.cms",
+    "source": "ET",
+    "pubDate": "Wed, 15 Jul 2026 23:26:15 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/pentair-shares-dip-17-on-dour-forecast-amid-weak-pool-sales/articleshow/132422544.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-cook-says-she-is-prepared-to-act-soon-if-inflation-does-not-begin-to-slow/articleshow/132422413.cms",
+    "category": "finance",
+    "title": "Fed's Cook says she is prepared to act soon if inflation does not begin to slow",
+    "summary": "Federal Reserve Governor Lisa Cook signalled readiness to act if inflation fails to ease, while allowing more time to assess trends. She flagged rising risks from AI investment, tariffs and geopolitical tensions. With inflation still above target, ma",
+    "image": "https://img.etimg.com/photo/msid-132422413,imgsize-212124.cms",
+    "source": "ET",
+    "pubDate": "Wed, 15 Jul 2026 23:21:57 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-cook-says-she-is-prepared-to-act-soon-if-inflation-does-not-begin-to-slow/articleshow/132422413.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/science/plutos-moon-charon-shows-signs-of-despinning-new-study-finds-11776766#publisher=newsstand",
+    "category": "india",
+    "title": "Pluto's Moon Charon Shows Signs Of \"Despinning\", New Study Finds",
+    "summary": "Charon is uniquely suited for this kind of detective work. It has no atmosphere, limited resurfacing, and craters more than 4 billion years old.",
+    "image": "https://c.ndtvimg.com/2026-07/apn13e4s_charon_625x300_15_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Jul 2026 23:12:20 +0530",
+    "link": "https://www.ndtv.com/science/plutos-moon-charon-shows-signs-of-despinning-new-study-finds-11776766#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/tenants-rant-about-bengalurus-crazy-rental-market-viral-feeling-helpless-11776745#publisher=newsstand",
+    "category": "india",
+    "title": "Tenant's Rant About Bengaluru's 'Crazy' Rental Market Viral: 'Feeling Helpless'",
+    "summary": "House hunting in Bengaluru proves exhausting due to rising rents and owner refusals.",
+    "image": "https://c.ndtvimg.com/2026-05/jtc70ckk_as_625x300_22_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 15 Jul 2026 23:07:25 +0530",
+    "link": "https://www.ndtv.com/offbeat/tenants-rant-about-bengalurus-crazy-rental-market-viral-feeling-helpless-11776745#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-fall-below-ipo-price-for-first-time-as-post-listing-excitement-fades/articleshow/132420340.cms",
@@ -18,36 +98,6 @@
     "source": "ET",
     "pubDate": "Wed, 15 Jul 2026 21:59:06 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-fall-below-ipo-price-for-first-time-as-post-listing-excitement-fades/articleshow/132420340.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/science/historic-first-human-x-rays-taken-in-space-signal-new-era-for-astronaut-health-11776433#publisher=newsstand",
-    "category": "india",
-    "title": "First Human X-Rays Captured In Space Mark Major Breakthrough For Astronaut Health",
-    "summary": "Following their return, three independent radiologists evaluated the in-flight images against identical scans taken before and after the mission.",
-    "image": "https://c.ndtvimg.com/2026-07/t3m9kll4_xray_625x300_15_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 21:53:05 +0530",
-    "link": "https://www.ndtv.com/science/historic-first-human-x-rays-taken-in-space-signal-new-era-for-astronaut-health-11776433#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/delhi-flags-70-of-300-large-projects-sealing-action-likely-11776419#publisher=newsstand",
-    "category": "india",
-    "title": "Delhi Flags 70% Of 300 Large Projects, Sealing Action Likely",
-    "summary": "Property owners in Delhi may face recovery notices and sealing action after a preliminary government scrutiny found that nearly 70 per cent of around 300 large projects had allegedly secured building plan approvals without paying the mandatory charge",
-    "image": "https://c.ndtvimg.com/2023-06/dsdrvj7g_society-building-generic_625x300_09_June_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 21:49:13 +0530",
-    "link": "https://www.ndtv.com/india-news/delhi-flags-70-of-300-large-projects-sealing-action-likely-11776419#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/ethanol-biofuel-will-make-india-aatmanirbhar-nitin-gadkari-at-ndtv-automate-summit-11776340#publisher=newsstand",
-    "category": "india",
-    "title": "Ethanol, Biofuel Will Make India Aatmanirbhar: Nitin Gadkari At NDTV Event",
-    "summary": "Gadkari pointed out that India spends nearly Rs 22 lakh crore on energy imports",
-    "image": "https://c.ndtvimg.com/2026-07/jq71l0so_nitin-gadkari-ndtv-automate_625x300_15_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 21:30:51 +0530",
-    "link": "https://www.ndtv.com/india-news/ethanol-biofuel-will-make-india-aatmanirbhar-nitin-gadkari-at-ndtv-automate-summit-11776340#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/angel-one-q1-results-net-profit-doubles-to-rs-231-crore/articleshow/132419853.cms",
@@ -62,7 +112,7 @@
   {
     "id": "https://economictimes.indiatimes.com/markets/bonds/tata-capital-raises-usd-400-million-from-a-bond-issue-in-the-us/articleshow/132419835.cms",
     "category": "finance",
-    "title": "Tata Capital raises USD 400 million from a bond issue in the US",
+    "title": "Tata Capital raises $400 million in global bond sale",
     "summary": "Tata Capital successfully raised $400 million by selling dollar bonds abroad. Asian and European asset managers dominated demand for these instruments. The bonds mature in 42 months and were priced tightly. This marks Tata Capital's second overseas d",
     "image": "https://img.etimg.com/photo/msid-132419835,imgsize-54488.cms",
     "source": "ET",
@@ -80,16 +130,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132419779.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/landslide-cuts-off-village-near-china-border-as-arunachal-floods-wreak-havoc-11776235#publisher=newsstand",
-    "category": "india",
-    "title": "Landslide Cuts Off Village Near China Border As Arunachal Floods Wreak Havoc",
-    "summary": "Mechuka is a globally known tourist spot, visited by hundreds of tourists.",
-    "image": "https://c.ndtvimg.com/2026-06/bc4q6fus_pti_625x300_25_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 21:07:47 +0530",
-    "link": "https://www.ndtv.com/india-news/landslide-cuts-off-village-near-china-border-as-arunachal-floods-wreak-havoc-11776235#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-tightens-conflict-safeguards-with-recusal-framework/articleshow/132419435.cms",
     "category": "finance",
     "title": "Sebi tightens conflict safeguards with recusal framework",
@@ -98,16 +138,6 @@
     "source": "ET",
     "pubDate": "Wed, 15 Jul 2026 21:01:28 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-tightens-conflict-safeguards-with-recusal-framework/articleshow/132419435.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/man-discovers-20-year-old-sbi-passbook-wonders-if-the-money-is-lost-forever-11776203#publisher=newsstand",
-    "category": "india",
-    "title": "Man Discovers 20-Year-Old SBI Passbook, Wonders If The Money Is \"Lost Forever\"",
-    "summary": "The family had thought that the passbook was lost forever.",
-    "image": "https://c.ndtvimg.com/2026-07/nbo1ihi8_sbi-passbook_625x300_15_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 20:58:51 +0530",
-    "link": "https://www.ndtv.com/offbeat/man-discovers-20-year-old-sbi-passbook-wonders-if-the-money-is-lost-forever-11776203#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-kevin-warsh-says-interested-in-probe-of-bowman-bank-meeting-wont-prejudge-outcome/articleshow/132419357.cms",
@@ -120,54 +150,54 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-kevin-warsh-says-interested-in-probe-of-bowman-bank-meeting-wont-prejudge-outcome/articleshow/132419357.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-inox-india-among-2-stock-recommendations-for-thursday/articleshow/132419296.cms",
-    "category": "finance",
-    "title": "Market Trading Guide: Inox India among 2 stock recommendations for Thursday",
-    "summary": "Domestic equities showed resilience, with broader markets outperforming large caps amid positive cues. Q1 earnings remained a key domestic catalyst, though higher crude prices capped gains.",
-    "image": "https://img.etimg.com/photo/msid-132419296,imgsize-86304.cms",
-    "source": "ET",
-    "pubDate": "Wed, 15 Jul 2026 20:54:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-inox-india-among-2-stock-recommendations-for-thursday/articleshow/132419296.cms"
+    "id": "https://www.cricinfo.com/ci/content/story/1545758.html",
+    "category": "sports",
+    "title": "Surrey falter with Finals Day in sight as Haynes 75* makes the difference",
+    "summary": "Roy, Evans give visitors flying start but wheels come off at back-end of chase",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419834.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 15 Jul 2026 19:02:09 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545758.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/ai-is-the-only-technology-that-will-matter-says-zohos-sridhar-vembu-11776137#publisher=newsstand",
-    "category": "india",
-    "title": "AI Is The Only Technology That Will Matter, Says Zoho's Sridhar Vembu",
-    "summary": "Vembu predicts AI will improve medicine, climate solutions, housing, and possibly end wars.",
-    "image": "https://c.ndtvimg.com/2026-01/jnpb07rs_sridhar-vembu-divorce-case-details_625x300_10_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 20:47:07 +0530",
-    "link": "https://www.ndtv.com/offbeat/ai-is-the-only-technology-that-will-matter-says-zohos-sridhar-vembu-11776137#publisher=newsstand"
+    "id": "https://www.cricinfo.com/ci/content/story/1545759.html",
+    "category": "sports",
+    "title": "Overton brings Somerset back from brink in stunning chase",
+    "summary": "Yorkshire had Somerset 82 for 8 chasing 162 before Craig Overton stunned at the death",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419839.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 15 Jul 2026 19:02:07 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545759.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/education/du-admission-2026-delhi-university-opens-admissions-without-cuet-pursue-an-mba-or-bsc-from-home-11776016#publisher=newsstand",
-    "category": "india",
-    "title": "Delhi University Opens Admissions Without CUET; Pursue MBA, BSc From Home",
-    "summary": "DU Admission 2026 Without CUET: The first admission list is scheduled to be released on July 27.",
-    "image": "https://c.ndtvimg.com/2026-07/u88ptp8s_neet_625x300_08_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 15 Jul 2026 20:37:52 +0530",
-    "link": "https://www.ndtv.com/education/du-admission-2026-delhi-university-opens-admissions-without-cuet-pursue-an-mba-or-bsc-from-home-11776016#publisher=newsstand"
+    "id": "https://www.cricinfo.com/ci/content/story/1545755.html",
+    "category": "sports",
+    "title": "Vince's century, Baker's five takes Hampshire to another Finals Day",
+    "summary": "Vince's 125 set Essex a target of 212 before Baker knocked them down in a one-sided quarter-final",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419837.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 15 Jul 2026 18:48:06 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545755.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-lombard-q1-results-profit-falls-46-on-commercial-insurance-slowdown-higher-claims/articleshow/132418788.cms",
-    "category": "finance",
-    "title": "ICICI Lombard Q1 Results: Profit falls 46% on commercial insurance slowdown, higher claims",
-    "summary": "ICICI Lombard reported a dramatic forty-six percent drop in profit for the first quarter, attributed to a downturn in commercial insurance and heightened claims payments. Despite these challenges, demand for retail health insurance remains strong, an",
-    "image": "https://img.etimg.com/photo/msid-132418788,imgsize-23960.cms",
-    "source": "ET",
-    "pubDate": "Wed, 15 Jul 2026 20:16:28 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-lombard-q1-results-profit-falls-46-on-commercial-insurance-slowdown-higher-claims/articleshow/132418788.cms"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/czrjgmmx5rmo#0",
+    "id": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo#1",
     "category": "global",
-    "title": "Boy, 14, charged with terrorism offence over alleged plan to target mosques",
-    "summary": "The alleged offences are linked to \"extreme right-wing terrorism\" police say.",
+    "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+    "summary": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Wed, 15 Jul 2026 17:57:17 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/czrjgmmx5rmo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Wed, 15 Jul 2026 18:41:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o#1",
+    "category": "global",
+    "title": "SpaceX share price drops below stock market debut",
+    "summary": "Share trading in Elon Musk\u2019s rocket company has been volatile since it went public a month ago.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 15 Jul 2026 18:11:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545756.html",
@@ -180,7 +210,7 @@
     "link": "https://www.cricinfo.com/ci/content/story/1545756.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o#0",
+    "id": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o#1",
     "category": "global",
     "title": "French MPs approve assisted dying law with strict rules after years of argument",
     "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
@@ -190,7 +220,7 @@
     "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po#0",
+    "id": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po#1",
     "category": "global",
     "title": "Iain Watson: Burnham faces crucial choice for chancellor as battle for No 11 continues",
     "summary": "Whoever Burnham appoints to the key role will send a signal of his intent, writes Iain Watson.",
@@ -198,6 +228,16 @@
     "source": "BBC",
     "pubDate": "Wed, 15 Jul 2026 17:13:06 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c20y0rn9052o#1",
+    "category": "global",
+    "title": "The Odyssey is a 'colossal piece of cinema', critics say in rave reviews",
+    "summary": "The film, starring Matt Damon and Zendaya, is director Sir Christopher Nolan's first since Oppenheimer.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 15 Jul 2026 17:04:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c20y0rn9052o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545748.html",
@@ -230,17 +270,7 @@
     "link": "https://www.cricinfo.com/ci/content/story/1545747.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/sport/athletics/articles/cvgj55npzdzo#0",
-    "category": "global",
-    "title": "New camera guidelines for female athletics coverage",
-    "summary": "New guidelines have been released advising broadcasters on how to use more respectful camera angles when covering live female athletics events.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 15 Jul 2026 15:53:45 GMT",
-    "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgj55npzdzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8r2r76vnd1o#0",
+    "id": "https://www.bbc.co.uk/news/articles/c8r2r76vnd1o#1",
     "category": "global",
     "title": "Man arrested over social media post threatening to shoot Farage",
     "summary": "Met Police says a man in his 20s was held in south London this week on suspicion of sending threatening communications to an MP.",
@@ -248,6 +278,16 @@
     "source": "BBC",
     "pubDate": "Wed, 15 Jul 2026 15:27:01 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c8r2r76vnd1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo#1",
+    "category": "global",
+    "title": "Dramatic video shows wildfire surround freight train in Canada",
+    "summary": "CN Rail told the BBC that operations were temporarily suspended in the affected area in the province of Ontario.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 15 Jul 2026 15:11:00 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545737.html",
@@ -260,27 +300,7 @@
     "link": "https://www.cricinfo.com/ci/content/story/1545737.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1545739.html",
-    "category": "sports",
-    "title": "Muzarabani and Ngarava overwhelm Bangladesh again",
-    "summary": "The two Zimbabwe quicks picked up four wickets each to defend a total of 170",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419827.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 15 Jul 2026 14:43:45 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545739.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545738.html",
-    "category": "sports",
-    "title": "Ashwin: It was 'about time' CSK looked beyond Fleming",
-    "summary": "Ashwin said Fleming's tenure with CSK was 'beyond excellent' and said there is no better person than MS Dhoni to take over",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416200/416203.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 15 Jul 2026 14:43:45 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545738.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5yzynxwk05o#0",
+    "id": "https://www.bbc.co.uk/news/articles/c5yzynxwk05o#1",
     "category": "global",
     "title": "Starmer says it's the 'end of my political journey' at his final Prime Minister's Questions",
     "summary": "MPs on all sides of the House of Commons paid tribute to the departing PM, traded jokes and shared anecdotes.",
@@ -288,36 +308,6 @@
     "source": "BBC",
     "pubDate": "Wed, 15 Jul 2026 14:13:44 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c5yzynxwk05o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545727.html",
-    "category": "sports",
-    "title": "ICC admits Mauritius as 111th member, places France Cricket 'on notice'",
-    "summary": "Among the other key outcomes of the ICC board meeting were the approval of USD 12.82 million loan for Cricket West Indies and a set of reinstatement conditions for Cricket Canada.",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415700/415734.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 15 Jul 2026 13:33:57 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545727.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo#0",
-    "category": "global",
-    "title": "Iran threatens to block more trade routes as US launches fresh strikes",
-    "summary": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 15 Jul 2026 12:26:38 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c802041g4v8o#0",
-    "category": "global",
-    "title": "UK's extreme weather is the new normal, Met Office says",
-    "summary": "The latest report on the UK's climate warns cold mountainous areas are also being lost.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 15 Jul 2026 11:11:32 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "4ri2LVmhlv34kOOk94nnsi",
@@ -358,6 +348,16 @@
     "source": "VentureBeat",
     "pubDate": "Thu, 22 Jan 2026 14:00:00 GMT",
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/fair-equitable-balanced-piyush-goyal-lauds-india-eu-trade-deal-11776947#publisher=newsstand",
+    "category": "india",
+    "title": "\"Fair, Equitable, Balanced\": Piyush Goyal Lauds India-EU Trade Deal",
+    "summary": "He said FTA will help create framework for greater trade and business.",
+    "image": "https://c.ndtvimg.com/2024-03/kvgqceig_piyush-goyal_625x300_30_March_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 00:07:13 +0530",
+    "link": "https://www.ndtv.com/india-news/fair-equitable-balanced-piyush-goyal-lauds-india-eu-trade-deal-11776947#publisher=newsstand"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
