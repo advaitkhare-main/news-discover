@@ -12,22 +12,12 @@
   {
     "id": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o#0",
     "category": "global",
-    "title": "New monkey species with orange lips found 'hiding' in DRC forest",
+    "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
     "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Wed, 15 Jul 2026 23:02:49 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c20y00712ezo#0",
-    "category": "global",
-    "title": "Families of 43 victims await verdict in Genoa bridge disaster",
-    "summary": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 15 Jul 2026 23:02:37 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo#0",
@@ -48,6 +38,16 @@
     "source": "VentureBeat",
     "pubDate": "Wed, 15 Jul 2026 22:24:17 GMT",
     "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/videos/cwy059qwdg4o#0",
+    "category": "global",
+    "title": "Argentina shatter England's World Cup dreams in semi-final",
+    "summary": "Argentina shatter England's World Cup dreams, scoring two late goals to come from behind and knock out Thomas Tuchel's side, in a dramatic semi-final in Atlanta.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 15 Jul 2026 22:05:15 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cwy059qwdg4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545757.html",
@@ -100,16 +100,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1545756.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po#0",
-    "category": "global",
-    "title": "Iain Watson: Burnham faces crucial choice for chancellor as battle for No 11 continues",
-    "summary": "Whoever Burnham appoints to the key role will send a signal of his intent, writes Iain Watson.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 15 Jul 2026 17:13:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "5M2gv6mk7MEHXAvBa4H7z0",
     "category": "scitech",
     "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
@@ -140,74 +130,144 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-11-stocks-cross-above-their-200-dmas/slideshow/132427775.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/icici-lombard-general-insurance-shares-tumble-15-after-q1-profit-takes-a-hit/articleshow/132430258.cms",
     "category": "finance",
-    "title": "Positive Breakout: These 11 stocks cross above their 200 DMAs",
-    "summary": "As long as the stock is priced above the 200-day SMA on the daily time frame, it is generally considered to be an overall uptrend.",
-    "image": "https://img.etimg.com/photo/msid-132427724,imgsize-321397.cms",
+    "title": "ICICI Lombard General Insurance shares tumble 15% after Q1 profit takes a hit",
+    "summary": "ICICI Lombard shares tumbled 15% after the insurer reported a 46% YoY decline in Q1 FY27 net profit to Rs 403 crore, hit by large fire claims and the Supreme Court's Motor TP verdict. While gross premium income rose 7.5% to Rs 8,318 crore, the combin",
+    "image": "https://img.etimg.com/photo/msid-132430258,imgsize-36451.cms",
     "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 07:32:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-11-stocks-cross-above-their-200-dmas/slideshow/132427775.cms"
+    "pubDate": "Thu, 16 Jul 2026 10:47:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/icici-lombard-general-insurance-shares-tumble-15-after-q1-profit-takes-a-hit/articleshow/132430258.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-as-mideast-escalation-tempers-easing-inflation-optimism/articleshow/132427678.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/mrpl-shares-zoom-11-after-q1-turnaround-revenue-nearly-doubles/articleshow/132430190.cms",
     "category": "finance",
-    "title": "Gold steady as Mideast escalation tempers easing inflation optimism",
-    "summary": "Gold prices remained stable as U.S. inflation data showed easing pressures.  However, Middle East conflict escalation drove oil prices higher, reviving energy cost concerns.  U.S. producer prices unexpectedly fell in June, indicating subsiding inflat",
-    "image": "https://img.etimg.com/photo/msid-132427678,imgsize-736216.cms",
+    "title": "MRPL shares zoom 11% after Q1 turnaround; revenue nearly doubles",
+    "summary": "MRPL shares surged over 11% on Thursday after the company reported a strong Q1FY27 performance. Revenue nearly doubled year-on-year to Rs 41,609 crore, while the company returned to profitability with a PAT of Rs 915 crore, compared with a net loss o",
+    "image": "https://img.etimg.com/photo/msid-132430190,imgsize-77244.cms",
     "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 07:26:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-as-mideast-escalation-tempers-easing-inflation-optimism/articleshow/132427678.cms"
+    "pubDate": "Thu, 16 Jul 2026 10:43:20 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/mrpl-shares-zoom-11-after-q1-turnaround-revenue-nearly-doubles/articleshow/132430190.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/why-europes-deadly-heatwave-is-more-than-just-a-summer-crisis-11774059#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/russia-ukraine-war-moscow-seeks-more-fuel-from-india-as-ukraine-attacks-refineries-report-11778056#publisher=newsstand",
     "category": "india",
-    "title": "Why Europe's Deadly Heatwave Is More Than Just A Summer Crisis",
-    "summary": "The heatwave has now exposed public infrastructure and its incapacity to deal with the sweltering heat.",
-    "image": "https://c.ndtvimg.com/2026-07/o1hmnu98_europe-heatwave_625x300_15_July_26.jpeg",
+    "title": "Russia Seeks More Fuel From India As Ukraine Attacks Refineries: Report",
+    "summary": "Russia is witnessing its worst gasoline crisis.",
+    "image": "https://c.ndtvimg.com/2026-07/kdls17do_russian-fuel_625x300_16_July_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 07:24:52 +0530",
-    "link": "https://www.ndtv.com/world-news/why-europes-deadly-heatwave-is-more-than-just-a-summer-crisis-11774059#publisher=newsstand"
+    "pubDate": "Thu, 16 Jul 2026 10:40:10 +0530",
+    "link": "https://www.ndtv.com/world-news/russia-ukraine-war-moscow-seeks-more-fuel-from-india-as-ukraine-attacks-refineries-report-11778056#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacexs-slide-below-ipo-price-risks-turning-blockbuster-ipo-into-confidence-test/articleshow/132427655.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korea-to-unveil-new-measures-for-single-stock-leveraged-etfs-amid-volatility-concerns/articleshow/132430151.cms",
     "category": "finance",
-    "title": "SpaceX's slide below IPO price risks turning blockbuster IPO into confidence test",
-    "summary": "SpaceX's stock has fallen below its initial public offering price. This development raises concerns about market valuations and investor sentiment. The company's performance could influence upcoming high-profile stock market debuts. Retail investors ",
-    "image": "https://img.etimg.com/photo/msid-132427655,imgsize-116792.cms",
+    "title": "Global Market: South Korea to unveil new measures for single-stock leveraged ETFs amid volatility concerns",
+    "summary": "South Korea's Financial Services Commission (FSC) is set to introduce new measures for single-stock leveraged ETFs as it steps up efforts to curb excessive market volatility and strengthen investor protection, Reuters reported.",
+    "image": "https://img.etimg.com/photo/msid-132430151,imgsize-73056.cms",
     "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 07:24:08 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacexs-slide-below-ipo-price-risks-turning-blockbuster-ipo-into-confidence-test/articleshow/132427655.cms"
+    "pubDate": "Thu, 16 Jul 2026 10:40:09 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korea-to-unveil-new-measures-for-single-stock-leveraged-etfs-amid-volatility-concerns/articleshow/132430151.cms"
   },
   {
-    "id": "https://www.ndtv.com/lucknow-news/supreme-court-clears-ups-rs-1-500-crore-kukrail-night-safari-project-in-lucknow-11777496#publisher=newsstand",
-    "category": "india",
-    "title": "Supreme Court Clears UP's Rs 1,500-Crore Kukrail Night Safari Project",
-    "summary": "The adventure zone, which was originally planned with a tram service, has been scrapped",
-    "image": "https://c.ndtvimg.com/2022-10/tthv9vd8_supreme-court-india-generic-pti_625x300_10_October_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 07:10:07 +0530",
-    "link": "https://www.ndtv.com/lucknow-news/supreme-court-clears-ups-rs-1-500-crore-kukrail-night-safari-project-in-lucknow-11777496#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/icsi-cseet-june-2026-result-gungun-secures-air-1-merit-list-out-11777488#publisher=newsstand",
-    "category": "india",
-    "title": "ICSI CSEET June 2026 Result: Gungun Secures AIR 1, Merit List Out",
-    "summary": "Candidates can download their e-Result-cum-Marks Statement online.",
-    "image": "https://c.ndtvimg.com/2026-07/21hgkpsc_icsi-cseet-june-2026-top-3-rank-holders_625x300_16_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 07:04:46 +0530",
-    "link": "https://www.ndtv.com/education/icsi-cseet-june-2026-result-gungun-secures-air-1-merit-list-out-11777488#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/breakout-above-key-resistance-makes-chalet-hotels-a-buy-shitij-gandhi/videoshow/132408851.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/mrs-bectors-food-soars-11-after-sunil-singhanias-abakkus-acquires-29-4-lakh-shares-via-block-deal/articleshow/132430105.cms",
     "category": "finance",
-    "title": "Breakout above key resistance makes Chalet Hotels a buy: Shitij Gandhi",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-132408851,imgsize-334348.cms",
+    "title": "Mrs Bectors Food soars 11% after Sunil Singhania's Abakkus acquires 29.4 lakh shares via block deal",
+    "summary": "Mrs Bectors Food shares surged sharply on Thursday after Sunil Singhania-led Abakkus Investment Managers acquired 29.4 lakh shares through a block deal. The purchase boosted investor sentiment despite the stock's recent underperformance, while analys",
+    "image": "https://img.etimg.com/photo/msid-132430105,imgsize-27034.cms",
     "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 07:00:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/breakout-above-key-resistance-makes-chalet-hotels-a-buy-shitij-gandhi/videoshow/132408851.cms"
+    "pubDate": "Thu, 16 Jul 2026 10:37:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/mrs-bectors-food-soars-11-after-sunil-singhanias-abakkus-acquires-29-4-lakh-shares-via-block-deal/articleshow/132430105.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/no-vision-jolt-to-prashant-kishor-ahead-of-bankipur-bypoll-party-leaders-join-bjp-11778036#publisher=newsstand",
+    "category": "india",
+    "title": "\"No Vision\": Jolt To Prashant Kishor Ahead Of Bankipur Bypoll, Party Leaders Join BJP",
+    "summary": "Prashant Kishor is up against the BJP in Bankipur bypoll slated for July 30",
+    "image": "https://c.ndtvimg.com/2026-07/agdff0ac_prashant-kishor-image_625x300_13_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 10:34:17 +0530",
+    "link": "https://www.ndtv.com/india-news/no-vision-jolt-to-prashant-kishor-ahead-of-bankipur-bypoll-party-leaders-join-bjp-11778036#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-is-crude-once-again-is-95-the-new-normal-and-what-it-means-for-indian-investors/articleshow/132430022.cms",
+    "category": "finance",
+    "title": "Oil is crude once again! Is $95 the new normal and what it means for Indian investors?",
+    "summary": "Crude oil prices are rising again due to escalating Middle East tensions. This surge impacts India's import costs and government finances significantly. Higher oil prices will likely pressure the Indian rupee and fuel inflation. Indian equity markets",
+    "image": "https://img.etimg.com/photo/msid-132430022,imgsize-2210082.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Jul 2026 10:27:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-is-crude-once-again-is-95-the-new-normal-and-what-it-means-for-indian-investors/articleshow/132430022.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-money-market-funds-shorten-maturities-as-fed-rate-uncertainty-drives-cautious-positioning/articleshow/132429784.cms",
+    "category": "finance",
+    "title": "US Stock Market: Money market funds shorten maturities as Fed rate uncertainty drives cautious positioning",
+    "summary": "Money market funds are shortening portfolio maturities due to Federal Reserve rate path uncertainty. Managers are favoring floating-rate notes and repurchase agreements for flexibility. This defensive shift occurs as fund assets reach record highs ne",
+    "image": "https://img.etimg.com/photo/msid-132429784,imgsize-62163.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Jul 2026 10:22:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-money-market-funds-shorten-maturities-as-fed-rate-uncertainty-drives-cautious-positioning/articleshow/132429784.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/woman-cant-claim-maintenance-from-step-son-after-relief-from-real-son-allahabad-high-court-11777978#publisher=newsstand",
+    "category": "india",
+    "title": "'Woman Can't Claim Maintenance From Step-Son After Relief From Real Son': Allahabad Court",
+    "summary": "The woman's counsel argued that both sons ought to have been directed to pay maintenance",
+    "image": "https://c.ndtvimg.com/2026-01/3k019tvc_allahabad-high-court-_625x300_25_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 10:21:48 +0530",
+    "link": "https://www.ndtv.com/india-news/woman-cant-claim-maintenance-from-step-son-after-relief-from-real-son-allahabad-high-court-11777978#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/watch-how-a-simple-question-exposed-a-pakistani-man-lying-about-being-indian-on-stage-11777965#publisher=newsstand",
+    "category": "india",
+    "title": "Watch: How A Simple Question Exposed A Pakistani Man Lying About Being Indian On Stage",
+    "summary": "Kate Hu pushed away a Pakistani Man who tried to touch her during a show.",
+    "image": "https://c.ndtvimg.com/2026-07/ca0ut1eg_instagramcomkatehucomedy_625x300_16_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 10:20:31 +0530",
+    "link": "https://www.ndtv.com/offbeat/watch-how-a-simple-question-exposed-a-pakistani-man-lying-about-being-indian-on-stage-11777965#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/people-will-take-oxygen-shots-bombay-high-court-on-shrinking-green-cover-11777893#publisher=newsstand",
+    "category": "india",
+    "title": "'People Will Take Oxygen Shots': Bombay High Court On Shrinking Green Cover",
+    "summary": "The bench also criticised the state's approach to compensatory afforestation",
+    "image": "https://c.ndtvimg.com/2026-05/4jcmbv4c_bombay-high-court_625x300_27_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 10:20:23 +0530",
+    "link": "https://www.ndtv.com/india-news/people-will-take-oxygen-shots-bombay-high-court-on-shrinking-green-cover-11777893#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/kirandeep-kaur-indian-mother-24-stabbed-to-death-at-uk-home-family-calls-it-hate-crime-11777982#publisher=newsstand",
+    "category": "india",
+    "title": "Indian Mother, 24, Stabbed To Death At UK Home, Family Calls It 'Hate Crime'",
+    "summary": "Kaur's brother-in-law, Sahib, described her as a wonderful mother.",
+    "image": "https://c.ndtvimg.com/2026-07/t563p7e4_uk-stabbing-indian-womand-dead_625x300_16_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 10:18:41 +0530",
+    "link": "https://www.ndtv.com/world-news/kirandeep-kaur-indian-mother-24-stabbed-to-death-at-uk-home-family-calls-it-hate-crime-11777982#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/tamil-nadu-tet-2026-paper-1-2-answer-key-out-check-objection-process-11777989#publisher=newsstand",
+    "category": "india",
+    "title": "Tamil Nadu TET 2026 Paper 1, 2 Answer Key Out; Check Objection Process",
+    "summary": "TN TET 2026 Answer Key: The examination for working teachers was conducted on July 4 and 5, 2026.",
+    "image": "https://c.ndtvimg.com/2026-07/1jdc8mag_tamil-nadu-tet-2026_625x300_16_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 10:18:08 +0530",
+    "link": "https://www.ndtv.com/education/tamil-nadu-tet-2026-paper-1-2-answer-key-out-check-objection-process-11777989#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-mfs-lap-up-over-1-crore-shares-of-15-stocks-that-surged-up-to-49-do-you-own-any/slideshow/132429968.cms",
+    "category": "finance",
+    "title": "Volume Shocker: MFs lap up over 1 crore shares of 15 stocks that surged up to 49%. Do you own any",
+    "summary": "Among the 54 stocks, NHPC, Vodafone Idea and Yes Bank saw the biggest additions, with mutual funds buying a net 33.64 crore, 28.19 crore and 22.73 crore shares, respectively.",
+    "image": "https://img.etimg.com/photo/msid-132429879,imgsize-37674.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Jul 2026 10:16:24 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-mfs-lap-up-over-1-crore-shares-of-15-stocks-that-surged-up-to-49-do-you-own-any/slideshow/132429968.cms"
   },
   {
     "id": "https://www.ndtv.com/education/cbse-10th-second-board-result-2026-live-expected-scorecard-date-check-latest-updates-here-11772654#publisher=newsstand",
@@ -216,108 +276,58 @@
     "summary": "CBSE Class 10 Second Board Result 2026 expected soon; students await official scorecard.",
     "image": "https://c.ndtvimg.com/2026-07/ntf8q4c_cbse_625x300_15_July_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 06:52:47 +0530",
+    "pubDate": "Thu, 16 Jul 2026 10:13:01 +0530",
     "link": "https://www.ndtv.com/education/cbse-10th-second-board-result-2026-live-expected-scorecard-date-check-latest-updates-here-11772654#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-for-4th-day-as-us-strikes-on-iran-raise-fears-of-wider-conflict/articleshow/132427457.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-shares-surge-7-on-rs-1-9-lakh-crore-phone-manufacturing-push-buy-sell-or-hold-the-stock/articleshow/132429770.cms",
     "category": "finance",
-    "title": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict",
-    "summary": "Oil prices climbed for a fourth day on Thursday. New U.S. strikes on Iran fuelled fears of conflict and supply disruptions. Brent crude futures rose to $85.28 a barrel and WTI futures reached $80.02. Analysts suggest WTI could rise further depending ",
-    "image": "https://img.etimg.com/photo/msid-132427457,imgsize-46238.cms",
+    "title": "Dixon Tech shares surge 7% on Rs 1.9 lakh crore phone manufacturing push. Buy, sell or hold the stock?",
+    "summary": "Dixon Technologies shares surged after the Union Cabinet approved the Rs 1.27 lakh crore second phase of the India Semiconductor Mission and a Rs 62,500 crore Mobile Phone Manufacturing Scheme. The government is expected to issue administrative notif",
+    "image": "https://img.etimg.com/photo/msid-132429770,imgsize-45524.cms",
     "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 06:51:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-for-4th-day-as-us-strikes-on-iran-raise-fears-of-wider-conflict/articleshow/132427457.cms"
+    "pubDate": "Thu, 16 Jul 2026 10:10:17 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-shares-surge-7-on-rs-1-9-lakh-crore-phone-manufacturing-push-buy-sell-or-hold-the-stock/articleshow/132429770.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132427427.cms",
-    "category": "finance",
-    "title": "D-St set for a positive opening as GIFT Nifty signals firm start",
-    "summary": "Benchmark indices experienced volatility on Wednesday amid the ongoing Q1 earnings season.  Profit booking occurred after an intraday high, limiting market upside.  A weaker rupee and firm crude oil prices contributed to cautious investor sentiment. ",
-    "image": "https://img.etimg.com/photo/msid-132427427,imgsize-31848.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 06:44:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132427427.cms"
+    "id": "https://www.bbc.co.uk/news/articles/c5y680w62wno#0",
+    "category": "global",
+    "title": "Government brings British Steel under public ownership",
+    "summary": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 05:22:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-wipro-jio-financial-hdb-financial-hdfc-amc-sbi/articleshow/132427409.cms",
-    "category": "finance",
-    "title": "Stocks in news: Wipro, Jio Financial, HDB Financial, HDFC AMC, SBI",
-    "summary": "Indian markets experienced volatility, ending nearly unchanged amid mixed global cues. Several companies like Wipro and Jio Financial announced their first quarter results today. Angel One reported a strong quarter with significant year-on-year profi",
-    "image": "https://img.etimg.com/photo/msid-132427409,imgsize-95072.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 06:38:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-wipro-jio-financial-hdb-financial-hdfc-amc-sbi/articleshow/132427409.cms"
+    "id": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o#0",
+    "category": "global",
+    "title": "Starmer on final trip to Ukraine as PM pledges UK's 'cast-iron' support",
+    "summary": "The prime minister will meet Ukrainian President Volodymyr Zelensky in Kyiv later on Thursday.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 05:00:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-equities-drop-led-by-kospi-oil-extends-gain/articleshow/132427394.cms",
-    "category": "finance",
-    "title": "Global Market Today: Asian equities drop led by Kospi, oil extends gain",
-    "summary": "Asian stocks declined as semiconductor shares faced renewed selling pressure. Crude oil prices climbed higher due to fresh strikes in the Middle East. Government bonds in Australia and New Zealand opened higher after US inflation data. Traders reduce",
-    "image": "https://img.etimg.com/photo/msid-132427394,imgsize-107306.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 06:34:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-equities-drop-led-by-kospi-oil-extends-gain/articleshow/132427394.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/venezuela-earthquake-death-count-rises-to-4-829-over-20-000-displaced-11777417#publisher=newsstand",
-    "category": "india",
-    "title": "Venezuela Earthquake: Death Count Rises To 4,829, Over 20,000 Displaced",
-    "summary": "At least 20,857 people made homeless by the quakes are living in overcrowded camps.",
-    "image": "https://c.ndtvimg.com/2026-07/rgbr1fc8_venezuela-earthquake_625x300_16_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 06:32:08 +0530",
-    "link": "https://www.ndtv.com/world-news/venezuela-earthquake-death-count-rises-to-4-829-over-20-000-displaced-11777417#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/donald-trump-says-iran-has-freed-us-citizen-detained-since-2024-11777386#publisher=newsstand",
-    "category": "india",
-    "title": "Amid War, Trump Says Iran Has Freed Detained US Citizen In Goodwill Gesture",
-    "summary": "US President Donald Trump said Wednesday that arch foe Iran has freed an American citizen detained since December 2024 and allowed her to leave the country.",
-    "image": "https://c.ndtvimg.com/2026-07/ntt64v28_donald-trump_625x300_07_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 06:24:19 +0530",
-    "link": "https://www.ndtv.com/world-news/donald-trump-says-iran-has-freed-us-citizen-detained-since-2024-11777386#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/russia-hits-kyiv-with-missiles-as-eu-chief-ursula-von-der-leyen-visits-ukraine-11777324#publisher=newsstand",
-    "category": "india",
-    "title": "Blasts Heard In Kyiv As EU Chief Visits Ukraine Amid Russian Missile Alert",
-    "summary": "European Commission President Ursula von der Leyen is on Ukraine tour to boost defence ties.",
-    "image": "https://c.ndtvimg.com/2026-07/4c72ipjo_kyiv-_625x300_16_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 06:22:47 +0530",
-    "link": "https://www.ndtv.com/world-news/russia-hits-kyiv-with-missiles-as-eu-chief-ursula-von-der-leyen-visits-ukraine-11777324#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/kcet-counselling-2026-round-1-final-seat-allotment-result-out-check-direct-link-next-steps-here-11773072#publisher=newsstand",
-    "category": "india",
-    "title": "KCET Counselling 2026 Round 1 Final Seat Allotment Result Out; Check Direct Link, Next Steps Here",
-    "summary": "KCET 2026 Round 1 final seat allotment result released.",
-    "image": "https://c.ndtvimg.com/2026-07/4rmmp9mg_kcet_625x300_16_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 06:12:26 +0530",
-    "link": "https://www.ndtv.com/education/kcet-counselling-2026-round-1-final-seat-allotment-result-out-check-direct-link-next-steps-here-11773072#publisher=newsstand"
+    "id": "https://www.bbc.co.uk/news/articles/c3wygjz632qo#0",
+    "category": "global",
+    "title": "Can Andy Burnham solve the UK's housing crisis?",
+    "summary": "BBC Verify has looked at the scale of the housing challenge facing Burnham when he becomes PM.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 05:00:04 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3wygjz632qo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545771.html",
     "category": "sports",
     "title": "Short's 94* in vain as Powell's 15-ball blitz takes LAKR into final",
-    "summary": "Andre Russell played a vital role in his 600th T20 matches with an unbeaten half-century and a nerveless over",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419300/419345.jpg",
+    "summary": "Andre Russell played a vital role in his 600th T20 match with an unbeaten half-century and a nerveless over",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419842.jpg",
     "source": "Cricinfo",
-    "pubDate": "Thu, 16 Jul 2026 01:58:13 GMT",
+    "pubDate": "Thu, 16 Jul 2026 03:02:05 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1545771.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/ce8l15903k8o#0",
-    "category": "global",
-    "title": "'Passive' and 'crumbled' - did Tuchel's defensive tactics cost England?",
-    "summary": "England went 1-0 up against Argentina before slumping to a heart-breaking semi-final defeat. But did boss Thomas Tuchel's \"negative\" tactics cost the Three Lions a place in the World Cup final?",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 00:57:21 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ce8l15903k8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545770.html",
@@ -342,22 +352,12 @@
   {
     "id": "https://www.bbc.co.uk/news/articles/c07y77exx8eo#0",
     "category": "global",
-    "title": "Jesy Nelson calls plan to test newborns for deadly muscle condition a 'victory'",
+    "title": "Singer Jesy Nelson calls plan to test newborns for deadly muscle condition a 'victory'",
     "summary": "All newborn babies are set to have a heel prick test for Spinal Muscular Atrophy (SMA) in England.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Thu, 16 Jul 2026 00:20:52 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c07y77exx8eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5y68dgnylxo#0",
-    "category": "global",
-    "title": "William tells England to 'hold their heads high' after loss",
-    "summary": "The Prince of Wales says England has \"inspired us all\" as he offers his commiserations over the loss to Argentina.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 00:07:05 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5y68dgnylxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
