@@ -30,6 +30,26 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/cwyq3lnndvxo#0",
+    "category": "global",
+    "title": "Targeted prostate cancer treatment cuts risk of side effects, study suggests",
+    "summary": "An NHS trial over 10 years followed nearly 3,500 men who received focal therapy, a less invasive treatment.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 23:36:40 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwyq3lnndvxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o#0",
+    "category": "global",
+    "title": "UK heatwave approaches two-week mark",
+    "summary": "All UK nations have experienced recent heatwave conditions but in southern England, the heatwave has now continued for 13 days. Sarah Keith-Lucas looks at how unusual this spell of heat is, and when we might see it easing.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 23:28:21 GMT",
+    "link": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-logan-calls-for-modestly-higher-interest-rates/articleshow/132444805.cms",
     "category": "finance",
     "title": "Fed's Logan calls for 'modestly higher' interest rates",
@@ -170,16 +190,6 @@
     "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c74glj9zkzko#0",
-    "category": "global",
-    "title": "Teenagers from 15 should be given MenB vaccine, say UK experts after Kent outbreak",
-    "summary": "Advisers are asking the government to consider introducing the jabs following concerns over a meningitis B outbreak earlier this year, in which two people died.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 16:36:13 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c74glj9zkzko?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/ckgvwxygpv2o#0",
     "category": "global",
     "title": "Couples free to marry at the beach or the pub in England and Wales under new plans",
@@ -240,14 +250,34 @@
     "link": "https://www.cricinfo.com/ci/content/story/1545875.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cpq8j188n90o#0",
-    "category": "global",
-    "title": "Claudia Winkleman quits chat show after one series",
-    "summary": "Winkleman said she was \"incredibly grateful\" for the opportunity, but had been \"too nervous\" to enjoy it.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 12:37:32 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cpq8j188n90o?at_medium=RSS&at_campaign=rss"
+    "id": "https://www.ndtv.com/world-news/philippines-condemns-chinese-medias-video-depicting-filipinos-as-monkeys-11782166#publisher=newsstand",
+    "category": "india",
+    "title": "Philippines Condemns Chinese Media's Video Depicting Filipinos As Monkeys",
+    "summary": "The video portrayed a monkey dressed in Filipino attire.",
+    "image": "https://c.ndtvimg.com/2026-07/13a46gpk_china-daily-racist-video_625x300_17_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Jul 2026 04:55:44 +0530",
+    "link": "https://www.ndtv.com/world-news/philippines-condemns-chinese-medias-video-depicting-filipinos-as-monkeys-11782166#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/andhra-pradesh-reports-4-covid-19-deaths-12-cases-in-less-than-a-month-11782132#publisher=newsstand",
+    "category": "india",
+    "title": "Andhra Pradesh Reports 4 Covid-19 Deaths, 12 Cases In Less Than A Month",
+    "summary": "Out of the four deaths, three casualties were from Kadapa district and one from Kakinada.",
+    "image": "https://c.ndtvimg.com/2025-10/a0ki2voo_covid19_625x300_09_October_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Jul 2026 04:19:03 +0530",
+    "link": "https://www.ndtv.com/india-news/andhra-pradesh-reports-4-covid-19-deaths-12-cases-in-less-than-a-month-11782132#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/trump-media-to-sell-high-speed-access-to-truth-social-posts-11782100#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Media To Sell High Speed Access To Truth Social Posts",
+    "summary": "It said that the service, starting August 1, could benefit traders and news organizations.",
+    "image": "https://c.ndtvimg.com/2026-07/mfdqns3s_donald-trump-truth-social_625x300_17_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Jul 2026 03:50:55 +0530",
+    "link": "https://www.ndtv.com/world-news/trump-media-to-sell-high-speed-access-to-truth-social-posts-11782100#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/us-strikes-hit-bridges-airport-in-iran-report-11782076#publisher=newsstand",
@@ -308,35 +338,5 @@
     "source": "NDTV",
     "pubDate": "Fri, 17 Jul 2026 01:35:02 +0530",
     "link": "https://www.ndtv.com/india-news/odisha-government-confirms-2-deaths-denies-stampede-at-puri-rath-yatra-11781910#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/brazil-hits-out-at-marco-rubio-over-remarks-on-lula-11781857#publisher=newsstand",
-    "category": "india",
-    "title": "\"Crude And Arrogant\": Brazil Hits Out At Marco Rubio Over Remarks On Lula",
-    "summary": "Brazil's Foreign Minister Mauro Vieira said Rubio's remarks were \"unacceptable and offensive.\"",
-    "image": "https://c.ndtvimg.com/2026-07/06usnns4_mauro-vieira-_625x300_17_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 01:00:32 +0530",
-    "link": "https://www.ndtv.com/world-news/brazil-hits-out-at-marco-rubio-over-remarks-on-lula-11781857#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/saarc-bimstec-dont-need-to-be-rivals-bangladesh-at-delhi-meet-11781793#publisher=newsstand",
-    "category": "india",
-    "title": "'SAARC, BIMSTEC Don't Need To Be Rivals': Bangladesh At Delhi Meet",
-    "summary": "This isn't the first time Dhaka has brought SAARC up.",
-    "image": "https://c.ndtvimg.com/2026-07/sirbv97_bimstec_625x300_17_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 00:20:51 +0530",
-    "link": "https://www.ndtv.com/world-news/saarc-bimstec-dont-need-to-be-rivals-bangladesh-at-delhi-meet-11781793#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-warm-day-in-delhi-rain-expected-from-july-14-to-18-11772639#publisher=newsstand",
-    "category": "india",
-    "title": "Weather Highlights: Orange Alert Issued For Heavy Rainfall In Parts Of Himachal",
-    "summary": "Weather Highlights: IMD forecasts isolated rainfall in Delhi till July 18",
-    "image": "https://c.ndtvimg.com/2026-07/biahnjmc_delhi-heatani_625x300_15_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 00:15:20 +0530",
-    "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-warm-day-in-delhi-rain-expected-from-july-14-to-18-11772639#publisher=newsstand"
   }
 ]
