@@ -20,6 +20,16 @@
     "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/c20y00712ezo#0",
+    "category": "global",
+    "title": "Families of 43 victims await verdict in Genoa bridge disaster",
+    "summary": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 15 Jul 2026 23:02:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo#0",
     "category": "global",
     "title": "Argentina face action over Falklands banner",
@@ -30,16 +40,6 @@
     "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/sport/football/videos/c62v3q3qp99o#0",
-    "category": "global",
-    "title": "'No regrets' - Tuchel on England's defeat by Argentina",
-    "summary": "England manager Thomas Tuchel believes his team \"got too passive\" after scoring first in the World Cup semi-final against Argentina, which they lost 2-1 at Atlanta Stadium.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 15 Jul 2026 22:40:05 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/videos/c62v3q3qp99o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2884mjZs7g6yWxefPaGVHN",
     "category": "scitech",
     "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem \u2014 and most are call",
@@ -48,36 +48,6 @@
     "source": "VentureBeat",
     "pubDate": "Wed, 15 Jul 2026 22:24:17 GMT",
     "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545757.html",
-    "category": "sports",
-    "title": "Willey, Sanderson come to the fore as Northants progress again",
-    "summary": "Return to Finals Day sealed by old guard as Gloucestershire are swept aside",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419833.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 15 Jul 2026 20:09:15 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545757.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545758.html",
-    "category": "sports",
-    "title": "Surrey falter with Finals Day in sight as Haynes 75* makes the difference",
-    "summary": "Roy, Evans give visitors flying start but wheels come off at back-end of chase",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419834.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 15 Jul 2026 19:02:09 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545758.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545759.html",
-    "category": "sports",
-    "title": "Overton brings Somerset back from brink in stunning chase",
-    "summary": "Yorkshire had Somerset 82 for 8 chasing 162 before Craig Overton stunned at the death",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419839.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 15 Jul 2026 19:02:07 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545759.html?ex_cid=OTC-RSS"
   },
   {
     "id": "5M2gv6mk7MEHXAvBa4H7z0",
@@ -110,164 +80,244 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/apples-5-trillion-dream-why-wall-street-is-turning-bullish-again/slideshow/132432907.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q1-results-profit-up-1-yoy-to-rs-3352-crore-co-declares-rs-2/share-dividend/articleshow/132436215.cms",
     "category": "finance",
-    "title": "Apple's $5 Trillion Dream: Why Wall Street is turning bullish again",
-    "summary": "Apple is riding a wave of Wall Street optimism as bullish analysts and investors bet it could become just the second company ever to reach a $5 trillion valuation. The momentum is driven by strong AI expectations, record-high shares, regulatory progr",
-    "image": "https://img.etimg.com/photo/msid-132432646,imgsize-.cms",
+    "title": "Wipro Q1 Results: Profit flat YoY at Rs 3,352 crore; co declares Rs 2/share dividend",
+    "summary": "Wipro Q1 Results: Along with the earnings, the company\u2019s board also approved an interim dividend of Rs 2 per share.",
+    "image": "https://img.etimg.com/photo/msid-132436215,imgsize-1987853.cms",
     "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 13:02:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/apples-5-trillion-dream-why-wall-street-is-turning-bullish-again/slideshow/132432907.cms"
+    "pubDate": "Thu, 16 Jul 2026 15:57:47 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q1-results-profit-up-1-yoy-to-rs-3352-crore-co-declares-rs-2/share-dividend/articleshow/132436215.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/mumbai-chembur-accident-neglect-turned-into-natural-disaster-father-of-boy-killed-tree-collapse-11778479#publisher=newsstand",
-    "category": "india",
-    "title": "\"Neglect Turned Into Natural Disaster\": Father Of Boy Killed In Mumbai Tree Collapse",
-    "summary": "Parents of Vihaan Srivastav spoke to NDTV",
-    "image": "https://c.ndtvimg.com/2026-07/bj1qejr_mumbai-tree-collapse-_650x400_16_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 12:53:53 +0530",
-    "link": "https://www.ndtv.com/india-news/mumbai-chembur-accident-neglect-turned-into-natural-disaster-father-of-boy-killed-tree-collapse-11778479#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/dont-send-indian-sailors-to-hormuz-new-delhi-to-shipowners-amid-iran-war-11778534#publisher=newsstand",
-    "category": "india",
-    "title": "'Don't Send Indian Sailors To Hormuz': New Delhi To Shipowners Amid Iran War",
-    "summary": "India is the world's third-largest supplier of seafarers, with more than 300,000 sailors",
-    "image": "https://c.ndtvimg.com/2026-07/7ierednc_hormuz_625x300_16_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 12:49:28 +0530",
-    "link": "https://www.ndtv.com/world-news/dont-send-indian-sailors-to-hormuz-new-delhi-to-shipowners-amid-iran-war-11778534#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/garbage-dump-goa-airbnb-host-alleges-guests-left-property-in-filthy-condition-11778411#publisher=newsstand",
-    "category": "india",
-    "title": "\"Garbage Dump\": Goa Airbnb Host Alleges Guests Left Property In Filthy Condition",
-    "summary": "Many users criticised the guests' alleged behaviour.",
-    "image": "https://c.ndtvimg.com/2026-07/o1utita8_airbnb-guests-trash-flat_625x300_16_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 12:49:16 +0530",
-    "link": "https://www.ndtv.com/offbeat/garbage-dump-goa-airbnb-host-alleges-guests-left-property-in-filthy-condition-11778411#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/tech/oneplus-exits-us-europe-as-oppo-reshapes-business-is-india-next-in-line-11778462#publisher=newsstand",
-    "category": "india",
-    "title": "OnePlus Exits US, Europe As Oppo Reshapes Business: Is India Next In Line?",
-    "summary": "India has been one of OnePlus' biggest success stories, particularly due to its Nord series.",
-    "image": "https://c.ndtvimg.com/2026-07/k77kef9c_oneplus-nord-ce6-lite_625x300_05_July_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 12:46:25 +0530",
-    "link": "https://www.ndtv.com/tech/oneplus-exits-us-europe-as-oppo-reshapes-business-is-india-next-in-line-11778462#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/q1-results-today-live-updates-wipro-tech-mahindra-bhel-jio-finances-quarter-1-results-earnings-2026-share-price-updates/liveblog/132432215.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-ends-flat-nifty-holds-24050-as-iran-us-conflict-keeps-optimism-in-check/articleshow/132435934.cms",
     "category": "finance",
-    "title": "Q1 Results Earnings Live Updates: Wipro, Tech Mahindra, Jio Financial among 41 firms to report June quarter earnings tod",
+    "title": "Market Wrap: Sensex ends flat, Nifty holds 24,050 as Iran-US conflict keeps optimism in check",
+    "summary": "Sensex gained a mere 1 point to end at around 77,187, and Nifty 50 dropped around 6 points to close at nearly 24,073 on Thursday. Broader markets slipped into the red, with Nifty Midcap 100 and Nifty Smallcap 100 indices closing up to 0.4% lower.",
+    "image": "https://img.etimg.com/photo/msid-132435934,imgsize-337022.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Jul 2026 15:46:10 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-ends-flat-nifty-holds-24050-as-iran-us-conflict-keeps-optimism-in-check/articleshow/132435934.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-96-34-vs-usd-firmer-asia-fx-oil-dip-offer-little-comfort-as-ndf-maturities-pinch/articleshow/132436001.cms",
+    "category": "finance",
+    "title": "Rupee closes at 96.34 vs USD; firmer Asia FX, oil dip offer little comfort as NDF maturities pinch",
+    "summary": "On Thursday, the Indian rupee experienced a slight decline versus the dollar, influenced by dollar demand associated with expiring non-deliverable forward contracts. Meanwhile, most Asian currencies showed a strengthening trend, and the dollar index ",
+    "image": "https://img.etimg.com/photo/msid-132436001,imgsize-207625.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Jul 2026 15:44:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-96-34-vs-usd-firmer-asia-fx-oil-dip-offer-little-comfort-as-ndf-maturities-pinch/articleshow/132436001.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/warren-buffett-issues-new-warning-says-tough-to-find-value-in-market-when-everybody-prefers-gambling/articleshow/132435944.cms",
+    "category": "finance",
+    "title": "Warren Buffett issues new warning, says tough to find value in market when everybody prefers gambling",
+    "summary": "Warren Buffett has warned that value investing is becoming harder as speculative trading gains popularity. Calling today's markets increasingly driven by gambling, the Berkshire Hathaway chairman urged investors to stay patient, focus on quality busi",
+    "image": "https://img.etimg.com/photo/msid-132435944,imgsize-62466.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Jul 2026 15:41:17 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/warren-buffett-issues-new-warning-says-tough-to-find-value-in-market-when-everybody-prefers-gambling/articleshow/132435944.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-tsmc-to-invest-additional-100-billion-in-arizona-raises-capex-on-booming-ai-demand/articleshow/132435792.cms",
+    "category": "finance",
+    "title": "Global Market: TSMC to invest additional $100 billion in Arizona, raises capex on booming AI demand",
+    "summary": "TSMC will invest an additional one hundred billion dollars in Arizona facilities. This expansion underscores strong confidence in future artificial intelligence demand. The company also raised its capital expenditure guidance for the coming years. TS",
+    "image": "https://img.etimg.com/photo/msid-132435792,imgsize-47020.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Jul 2026 15:32:35 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-tsmc-to-invest-additional-100-billion-in-arizona-raises-capex-on-booming-ai-demand/articleshow/132435792.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/korean-subscriber-attacks-stock-youtuber-after-losing-money-on-investment/articleshow/132435719.cms",
+    "category": "finance",
+    "title": "Korean subscriber attacks stock YouTuber after losing money on investment",
+    "summary": "A South Korean man was arrested for allegedly attacking a stock YouTuber after reportedly suffering heavy investment losses from following the creator's recommendations. The incident has reignited concerns over the growing influence of online investm",
+    "image": "https://img.etimg.com/photo/msid-132435719,imgsize-98982.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Jul 2026 15:29:08 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/korean-subscriber-attacks-stock-youtuber-after-losing-money-on-investment/articleshow/132435719.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/sotefin-bharat-ipo-opens-issue-16-subscribed-on-day-one-so-far-gmp-suggests-12-listing-pop/articleshow/132435645.cms",
+    "category": "finance",
+    "title": "Sotefin Bharat IPO opens: Issue 16% subscribed on day one so far, GMP suggests 12% listing pop",
+    "summary": "Sotefin Bharat's Rs 89.76 crore SME IPO opened to a cautious 16% subscription on Day 1, with the GMP suggesting a modest listing premium of around 11.76% over its Rs 187 upper price band.",
+    "image": "https://img.etimg.com/photo/msid-132435645,imgsize-32289.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Jul 2026 15:24:39 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sotefin-bharat-ipo-opens-issue-16-subscribed-on-day-one-so-far-gmp-suggests-12-listing-pop/articleshow/132435645.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/life-at-48-degrees-celsius-a-day-in-ups-banda-one-of-hottest-towns-on-earth-11778569#publisher=newsstand",
+    "category": "india",
+    "title": "Life At 48 Degrees Celsius: A Day In UP's Banda, One Of Hottest Towns On Earth",
+    "summary": "Global warming is making heat waves across India more frequent and intense. (File photo)",
+    "image": "https://c.ndtvimg.com/2026-07/bj53r7nc_httpswwwndtvcomindianewslifeat48degreescelsiusadayinupsbandaoneofhottesttownsonearth11778569_625x300_16_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 15:09:37 +0530",
+    "link": "https://www.ndtv.com/india-news/life-at-48-degrees-celsius-a-day-in-ups-banda-one-of-hottest-towns-on-earth-11778569#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/pm-narendra-modi-to-flag-off-indias-first-hydrogen-train-in-haryana-on-friday-11779093#publisher=newsstand",
+    "category": "india",
+    "title": "PM Modi To Flag Off India's First Hydrogen Train In Haryana On Friday",
+    "summary": "During his Haryana visit, the prime minister will flag off India's first hydrogen-powered train.",
+    "image": "https://c.ndtvimg.com/2026-07/2abe53m_pm-modi_625x300_15_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 15:05:37 +0530",
+    "link": "https://www.ndtv.com/india-news/pm-narendra-modi-to-flag-off-indias-first-hydrogen-train-in-haryana-on-friday-11779093#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/actor-koel-mallick-quits-mamata-banerjees-trinamool-months-after-being-picked-for-rajya-sabha-11779000#publisher=newsstand",
+    "category": "india",
+    "title": "Actor Koel Mallick Quits Rajya Sabha Months After Being Picked By Trinamool",
     "summary": "",
-    "image": "https://img.etimg.com/photo/msid-132432215,imgsize-1954489.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 12:38:08 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-results-today-live-updates-wipro-tech-mahindra-bhel-jio-finances-quarter-1-results-earnings-2026-share-price-updates/liveblog/132432215.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-will-return-to-india-but-these-5-reasons-will-keep-them-at-bay-for-some-time/articleshow/132432147.cms",
-    "category": "finance",
-    "title": "FIIs will return to India, but these 5 reasons will keep them at bay for some time",
-    "summary": "FII selling has remained a key headwind for Indian equities since 2024, with foreign investors pulling out $32 billion amid the Middle East conflict. While recent inflows have provided some relief, Elara Securities believes a sustained, broad-based r",
-    "image": "https://img.etimg.com/photo/msid-132432147,imgsize-21592.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 12:36:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-will-return-to-india-but-these-5-reasons-will-keep-them-at-bay-for-some-time/articleshow/132432147.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/hyderabad-startup-skyroot-aerospaces-vikram-1-plans-robotic-hug-to-clean-up-space-junk-11778480#publisher=newsstand",
-    "category": "india",
-    "title": "Hyderabad Startup Plans 'Robotic Hug' To Clean Up Space Junk",
-    "summary": "European Space Agency statistics paint an even more worrying picture.",
-    "image": "https://c.ndtvimg.com/2026-07/ntaiknbg_skyroot-aerospaces-vikram1_625x300_16_July_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "image": "https://c.ndtvimg.com/2020-07/tqhi3mio_koel-mallick_625x300_11_July_20.jpg",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 12:36:39 +0530",
-    "link": "https://www.ndtv.com/india-news/hyderabad-startup-skyroot-aerospaces-vikram-1-plans-robotic-hug-to-clean-up-space-junk-11778480#publisher=newsstand"
+    "pubDate": "Thu, 16 Jul 2026 15:04:40 +0530",
+    "link": "https://www.ndtv.com/india-news/actor-koel-mallick-quits-mamata-banerjees-trinamool-months-after-being-picked-for-rajya-sabha-11779000#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/opinion/why-a-post-by-a-senior-us-defence-official-about-allies-should-worry-india-11778463#publisher=newsstand",
+    "id": "https://www.ndtv.com/opinion/why-britain-is-finding-it-so-hard-to-deport-a-pakistani-grooming-gang-leader-11779147#publisher=newsstand",
     "category": "india",
-    "title": "Opinion: Opinion | Why A Post By A Senior US Defence Official About 'Allies' Should Worry India",
-    "summary": "Colby's post frames what could become a thorny question in India-US relations.",
-    "image": "https://c.ndtvimg.com/2026-03/14b8cufo_elbridge-colby_625x300_24_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "Opinion: Opinion | Why Britain Is Finding It So Hard To Deport A Pakistani 'Grooming Gang' Leader",
+    "summary": "Shabir Ahmed, a UK-Pakistan dual national, lost his British citizenship after his conviction more than two decades ago. His case has become the latest test of a problem confronting many democracies.",
+    "image": "https://c.ndtvimg.com/2026-07/tlt3rv6k_shabir-ahmed_625x300_16_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 12:28:50 +0530",
-    "link": "https://www.ndtv.com/opinion/why-a-post-by-a-senior-us-defence-official-about-allies-should-worry-india-11778463#publisher=newsstand"
+    "pubDate": "Thu, 16 Jul 2026 15:03:56 +0530",
+    "link": "https://www.ndtv.com/opinion/why-britain-is-finding-it-so-hard-to-deport-a-pakistani-grooming-gang-leader-11779147#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/gurugram-thar-driver-runs-over-woman-takes-her-to-hospital-then-dumps-body-back-at-accident-spot-11778320#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/itc-hotels-q1-net-up-36-at-rs-181-91-crore/articleshow/132435116.cms",
+    "category": "finance",
+    "title": "ITC Hotels Q1 net up 36% at Rs 181.91 crore",
+    "summary": "ITC Hotels reported a thirty-six percent rise in net profit for the first quarter.  Consolidated revenue from operations also increased compared to the previous year.  The company announced the approved acquisition of GHK Hospitality &amp; Infrastruc",
+    "image": "https://img.etimg.com/photo/msid-132435116,imgsize-6634.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Jul 2026 15:02:28 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/itc-hotels-q1-net-up-36-at-rs-181-91-crore/articleshow/132435116.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/kerala-high-court-pauses-waqf-board-functioning-over-composition-row-11779148#publisher=newsstand",
     "category": "india",
-    "title": "Woman Run Over By Thar. Driver Takes Her To Hospital, Dumps Body Back At Spot",
-    "summary": "Victim's nephew alleged the body had been placed back in the parking area, and the driver had not informed anyone about the woman's death.",
-    "image": "https://c.ndtvimg.com/2026-07/rf0n7fq4_thar_625x300_16_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "Kerala High Court Pauses Waqf Board Functioning Over Composition Row",
+    "summary": "The petitioners challenged the constitution of the board.",
+    "image": "https://c.ndtvimg.com/2026-06/sv3jspn_kerala-high-court_625x300_29_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 12:28:24 +0530",
-    "link": "https://www.ndtv.com/india-news/gurugram-thar-driver-runs-over-woman-takes-her-to-hospital-then-dumps-body-back-at-accident-spot-11778320#publisher=newsstand"
+    "pubDate": "Thu, 16 Jul 2026 15:02:00 +0530",
+    "link": "https://www.ndtv.com/india-news/kerala-high-court-pauses-waqf-board-functioning-over-composition-row-11779148#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-climb-as-oil-surge-and-fiscal-concerns-weigh-on-market/articleshow/132431940.cms",
-    "category": "finance",
-    "title": "Global Market: Japanese bond yields climb as oil surge and fiscal concerns weigh on market",
-    "summary": "Japanese government bond yields climbed on Thursday due to rising oil prices. Higher energy costs fueled inflation expectations and investor worries about Japan's fiscal health. A Bank of Japan survey indicated widespread expectations of future price",
-    "image": "https://img.etimg.com/photo/msid-132431940,imgsize-165414.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 12:27:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-climb-as-oil-surge-and-fiscal-concerns-weigh-on-market/articleshow/132431940.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/laser-power-infra-lists-at-26-premium-what-should-investors-do-now/articleshow/132431931.cms",
-    "category": "finance",
-    "title": "Laser Power &amp; Infra lists at 26% premium. What should investors do now?",
-    "summary": "Laser Power &amp; Infra debuted at a 26% premium over its IPO price, rewarding investors on listing day. Analysts recommend holding the stock for the long term, citing its strong order book, debt reduction plans and favourable growth prospects from I",
-    "image": "https://img.etimg.com/photo/msid-132431931,imgsize-37531.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 12:27:18 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/laser-power-infra-lists-at-26-premium-what-should-investors-do-now/articleshow/132431931.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/education/mbbs-admissions-2026-27-which-states-have-most-mbbs-seats-check-top-10-list-11778422#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/gangster-nitish-kaushal-26-added-to-fbis-wanted-list-11779030#publisher=newsstand",
     "category": "india",
-    "title": "MBBS Admissions 2026-27: Check The Top 10 States With The Most MBBS Seats",
-    "summary": "MBBS Admissions 2026-27: Karnataka has the highest number of MBBS seats at 15,395.",
-    "image": "https://c.ndtvimg.com/2024-02/tpmvbkao_medical-students_625x300_27_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Gangster Nitish Kaushal, 26, Added To FBI's Wanted List",
+    "summary": "Nitish Kaushal is part of the Bhagwanpuria Organized Crime Group.",
+    "image": "https://c.ndtvimg.com/2026-07/6mumu5mg_fbi-wanted-nitish-kaushal_625x300_16_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 12:27:03 +0530",
-    "link": "https://www.ndtv.com/education/mbbs-admissions-2026-27-which-states-have-most-mbbs-seats-check-top-10-list-11778422#publisher=newsstand"
+    "pubDate": "Thu, 16 Jul 2026 14:58:35 +0530",
+    "link": "https://www.ndtv.com/world-news/gangster-nitish-kaushal-26-added-to-fbis-wanted-list-11779030#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-3-reasons-why-south-koreas-kospi-crashed-up-to-8-today/articleshow/132431747.cms",
-    "category": "finance",
-    "title": "Explained: 3 reasons why South Korea's Kospi crashed up to 8% today",
-    "summary": "South Korea's Kospi slumped as much as 8%, briefly triggering a sidecar trading curb, as a Bank of Korea rate hike, a sharp sell-off in AI chip giants Samsung Electronics and SK Hynix, and concerns over leveraged single-stock ETFs rattled investor se",
-    "image": "https://img.etimg.com/photo/msid-132431747,imgsize-48484.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 12:12:41 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-3-reasons-why-south-koreas-kospi-crashed-up-to-8-today/articleshow/132431747.cms"
+    "id": "https://www.ndtv.com/world-news/pete-hegseth-allows-to-operate-at-absolute-best-us-to-test-troops-for-low-testosterone-11779044#publisher=newsstand",
+    "category": "india",
+    "title": "\"Allows To Operate At Absolute Best\": US To Test Troops For Low Testosterone",
+    "summary": "Pete Hegseth said the screening program will test \"testosterone deficiency\" among troops (File photo)",
+    "image": "https://c.ndtvimg.com/2026-05/4dd254_pete-hegseth-afp_625x300_30_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 14:55:50 +0530",
+    "link": "https://www.ndtv.com/world-news/pete-hegseth-allows-to-operate-at-absolute-best-us-to-test-troops-for-low-testosterone-11779044#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/millworks-technologies-ipo-day-3-subscription-hits-63x-gmp-surges-to-125-ahead-of-listing/articleshow/132431282.cms",
-    "category": "finance",
-    "title": "Millworks Technologies IPO Day 3: Subscription hits 63x, GMP surges to 125% ahead of listing",
-    "summary": "Millworks Technologies' SME IPO was subscribed over 63 times on the final day, driven by strong retail and NII demand, while its grey market premium surged to 125%. Robust financials, exposure to aerospace and defence, and positive listing expectatio",
-    "image": "https://img.etimg.com/photo/msid-132431282,imgsize-17302.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 11:51:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/millworks-technologies-ipo-day-3-subscription-hits-63x-gmp-surges-to-125-ahead-of-listing/articleshow/132431282.cms"
+    "id": "https://www.ndtv.com/feature/who-is-anil-menon-indian-origin-nasa-astronaut-reaches-iss-aboard-soyuz-11779052#publisher=newsstand",
+    "category": "india",
+    "title": "Indian-Origin NASA Astronaut Anil Menon Reaches ISS, Shares First Video From Space",
+    "summary": "He shared his first video from orbit describing Earth as beautiful.",
+    "image": "https://c.ndtvimg.com/2026-07/mh33ejjs_anil-menon_625x300_16_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 16 Jul 2026 14:54:27 +0530",
+    "link": "https://www.ndtv.com/feature/who-is-anil-menon-indian-origin-nasa-astronaut-reaches-iss-aboard-soyuz-11779052#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/the-rs-1-5-lakh-crore-bank-guarantee-link-that-could-rattle-nse-bse-and-mcx/articleshow/132431109.cms",
-    "category": "finance",
-    "title": "The Rs 1.5 lakh crore bank guarantee link that could rattle NSE, BSE and MCX",
-    "summary": "Revised RBI norms on bank guarantees could squeeze proprietary traders by sharply reducing leverage and raising funding costs, potentially hurting derivatives trading volumes. Analysts say the move, along with higher STT, may weigh on the valuations ",
-    "image": "https://img.etimg.com/photo/msid-132431109,imgsize-96408.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 11:41:04 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/the-rs-1-5-lakh-crore-bank-guarantee-link-that-could-rattle-nse-bse-and-mcx/articleshow/132431109.cms"
+    "id": "https://www.bbc.co.uk/news/articles/c5y680w62wno#0",
+    "category": "global",
+    "title": "British Steel taken into public ownership to protect 'vital' UK supply",
+    "summary": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 10:49:14 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545859.html",
+    "category": "sports",
+    "title": "Brar warned for breaching level one of ICC Code of Conduct",
+    "summary": "The incident occured in the eighth over of the Birmingham ODI, where he hurled the ball in the direction of the batter Duckett",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419700/419787.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 16 Jul 2026 10:38:41 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545859.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545766.html",
+    "category": "sports",
+    "title": "Wadhera moves from Punjab to Himachal ahead of 2026-27 domestic season",
+    "summary": "Prashant Chopra, who was with Uttarakhand last season, is also back at Himachal",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419861.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 16 Jul 2026 10:35:34 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545766.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c4gy5jwjvz7o#0",
+    "category": "global",
+    "title": "Feeling gutted? Five ways to cope with England's World Cup defeat",
+    "summary": "After England\u2019s loss, fans and experts share their tips for managing the disappointment.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 10:25:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c4gy5jwjvz7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cd7l3y83g7eo#0",
+    "category": "global",
+    "title": "Ten unheard tracks from David Bowie's early career to be released",
+    "summary": "The previously unheard tracks from the 1960s were recorded when Bowie went by the stage name Davie Jones.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 09:48:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cd7l3y83g7eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cdx76069n3do#0",
+    "category": "global",
+    "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
+    "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 09:29:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545759.html",
+    "category": "sports",
+    "title": "Overton brings Somerset back from brink in stunning chase",
+    "summary": "Yorkshire had Somerset 82 for 8 chasing 162 before Craig Overton stunned at the death",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419839.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 16 Jul 2026 08:28:38 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545759.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o#0",
+    "category": "global",
+    "title": "TikTok faces Ofcom investigation over child age checks",
+    "summary": "It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 08:19:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545845.html",
@@ -280,16 +330,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1545845.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c5y680w62wno#0",
-    "category": "global",
-    "title": "British Steel taken into public ownership to protect 'vital' UK supply",
-    "summary": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 07:34:47 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1545849.html",
     "category": "sports",
     "title": "Will West Indies turn to Hetmyer to tackle their spin woes?",
@@ -298,26 +338,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 16 Jul 2026 07:19:19 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1545849.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o#0",
-    "category": "global",
-    "title": "Starmer pledges 'cast-iron support' for Ukraine on final visit as PM",
-    "summary": "The prime minister will meet Ukrainian President Volodymyr Zelensky in Kyiv later on Thursday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 07:05:02 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c70ylezgr1eo#0",
-    "category": "global",
-    "title": "Nowak killer's first recorded confession revealed",
-    "summary": "Vickrum Digwa was recorded in a police van discussing Henry Nowak's murder in Southampton.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 05:17:14 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c70ylezgr1eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545771.html",
@@ -330,16 +350,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1545771.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o#0",
-    "category": "global",
-    "title": "US military to start screening for testosterone deficiency, Hegseth says",
-    "summary": "Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 02:33:40 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1545770.html",
     "category": "sports",
     "title": "Moises Henriques announces retirement from Australian domestic cricket",
@@ -348,16 +358,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 16 Jul 2026 00:56:09 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1545770.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c07y77exx8eo#0",
-    "category": "global",
-    "title": "Singer Jesy Nelson calls plan to test newborns for deadly muscle condition a 'victory'",
-    "summary": "All newborn babies are set to have a heel prick test for Spinal Muscular Atrophy (SMA) in England.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 00:20:52 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c07y77exx8eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
