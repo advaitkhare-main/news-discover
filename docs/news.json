@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o#0",
-    "category": "global",
-    "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
-    "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 15 Jul 2026 23:02:49 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "2884mjZs7g6yWxefPaGVHN",
     "category": "scitech",
     "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem \u2014 and most are call",
@@ -50,164 +40,254 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://www.ndtv.com/world-news/openai-anthropic-meta-oversight-board-ai-top-ai-models-are-less-critical-of-repressive-regimes-meta-report-11779459#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/du-ug-round-1-seat-allocation-out-93-033-candidates-allotted-seats-in-round-1-11780608#publisher=newsstand",
     "category": "india",
-    "title": "Top AI Models Are Less Critical Of Repressive Regimes: Meta Report",
-    "summary": "AI companies urged to conduct systematic human rights analyses. (Representational)",
-    "image": "https://c.ndtvimg.com/2026-06/u4b7aof4_artificial-intelligence-_625x300_05_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Delhi University UG Admission 2026: 93,033 Students Get Seats In Round 1",
+    "summary": "DU UG Seat Allocation Result: The university also allotted seats to 1,243 Single Girl Child candidates.",
+    "image": "https://c.ndtvimg.com/2026-07/u88ptp8s_neet_625x300_08_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 17:28:08 +0530",
-    "link": "https://www.ndtv.com/world-news/openai-anthropic-meta-oversight-board-ai-top-ai-models-are-less-critical-of-repressive-regimes-meta-report-11779459#publisher=newsstand"
+    "pubDate": "Thu, 16 Jul 2026 20:04:46 +0530",
+    "link": "https://www.ndtv.com/education/du-ug-round-1-seat-allocation-out-93-033-candidates-allotted-seats-in-round-1-11780608#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rise-on-steady-oil-easing-us-rate-hike-fears/articleshow/132438415.cms",
-    "category": "finance",
-    "title": "Indian bonds rise on steady oil, easing US rate-hike fears",
-    "summary": "On Thursday, Indian government bonds experienced an upturn as oil prices stabilized alongside declining U.S. rate hike expectations, enhancing investor confidence. The market eagerly anticipates updates on India's possible inclusion in the Bloomberg ",
-    "image": "https://img.etimg.com/photo/msid-132438415,imgsize-97378.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 17:14:52 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rise-on-steady-oil-easing-us-rate-hike-fears/articleshow/132438415.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-live-cowardly-crime-against-children-iran-slams-us-attack-near-cancer-hospital-11779812#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/take-off-your-uniform-and-fight-elections-pakistan-mp-maulana-fazlur-rehman-dares-asim-munir-11780553#publisher=newsstand",
     "category": "india",
-    "title": "'Cowardly Crime Against Children': Iran Slams US Attack Near Cancer Hospital",
-    "summary": "The hospital which provided chemotherapy treatment for cancer patients had to be evacuated",
-    "image": "https://c.ndtvimg.com/2026-07/fho8lpos_iran-hospital-attacked_625x300_16_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "'Take Off Your Uniform And Fight Elections': Pakistan MP Dares Asim Munir",
+    "summary": "Maulana Fazlur Rehman accused the military of interfering in Pak's political system",
+    "image": "https://c.ndtvimg.com/2026-07/8jvejdn_asim-munir-_625x300_16_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 17:14:48 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-live-cowardly-crime-against-children-iran-slams-us-attack-near-cancer-hospital-11779812#publisher=newsstand"
+    "pubDate": "Thu, 16 Jul 2026 20:04:24 +0530",
+    "link": "https://www.ndtv.com/world-news/take-off-your-uniform-and-fight-elections-pakistan-mp-maulana-fazlur-rehman-dares-asim-munir-11780553#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/delhi-news/4-arrested-for-misbehaving-with-delhi-poll-officer-during-voter-revision-11779809#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/watch-deer-seek-refuge-on-irans-kharg-island-amid-us-bombing-explosions-11780692#publisher=newsstand",
     "category": "india",
-    "title": "4 Arrested For Misbehaving With Delhi Poll Officer During Voter Revision",
-    "summary": "Police said further investigation into the case is underway.",
-    "image": "https://c.ndtvimg.com/2019-05/fkcrjpmg_delhi-police-generic_625x300_27_May_19.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "Watch: Deer Seek Refuge On Iran's Kharg Island Amid US Bombing Explosions",
+    "summary": "Explosions from US bombs cause deer to seek refuge in streets on Iran's Kharg Island.",
+    "image": "https://c.ndtvimg.com/2026-07/npe0cpu8_as_625x300_16_July_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 17:13:54 +0530",
-    "link": "https://www.ndtv.com/delhi-news/4-arrested-for-misbehaving-with-delhi-poll-officer-during-voter-revision-11779809#publisher=newsstand"
+    "pubDate": "Thu, 16 Jul 2026 19:56:58 +0530",
+    "link": "https://www.ndtv.com/world-news/watch-deer-seek-refuge-on-irans-kharg-island-amid-us-bombing-explosions-11780692#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bhel-shares-jump-4-after-maharatna-psu-posts-net-profit-of-rs-377-crore-in-q1-revenue-jumps-40/articleshow/132438300.cms",
-    "category": "finance",
-    "title": "BHEL shares jump 4% after Maharatna PSU posts net profit of Rs 377 crore in Q1, revenue jumps 40%",
-    "summary": "BHEL reported a consolidated Q1 FY27 net profit of \u20b9377 crore against a year-ago loss, driven by 40% revenue growth and a sharp recovery in operating margins. Strong power segment performance lifted sentiment, sending the PSU stock over 4% higher.",
-    "image": "https://img.etimg.com/photo/msid-132438300,imgsize-75108.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 17:11:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bhel-shares-jump-4-after-maharatna-psu-posts-net-profit-of-rs-377-crore-in-q1-revenue-jumps-40/articleshow/132438300.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/dharwad-doctor-kiran-honannavar-husband-dead-son-stabbed-karnataka-doctor-found-casually-browsing-phone-11779789#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/fresh-floods-landslides-hit-5-districts-in-arunachal-pradesh-11780609#publisher=newsstand",
     "category": "india",
-    "title": "Husband Dead, Son Stabbed, Karnataka Doctor Found Casually Browsing Phone",
-    "summary": "Dr Priyanka, an ophthalmologist, has been taken into custody for questioning.",
-    "image": "https://c.ndtvimg.com/2026-07/e3eto0lo_karnataka-doctor-murder-_625x300_16_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Fresh Floods, Landslides Hit 5 Districts In Arunachal Pradesh",
+    "summary": "Fresh floods and landslides were reported in Arunachal Pradesh, damaging houses, roads and crops, officials said on Thursday.",
+    "image": "https://c.ndtvimg.com/2024-06/r81jtj_arunachal-rain-ians_625x300_19_June_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 17:09:52 +0530",
-    "link": "https://www.ndtv.com/india-news/dharwad-doctor-kiran-honannavar-husband-dead-son-stabbed-karnataka-doctor-found-casually-browsing-phone-11779789#publisher=newsstand"
+    "pubDate": "Thu, 16 Jul 2026 19:49:02 +0530",
+    "link": "https://www.ndtv.com/india-news/fresh-floods-landslides-hit-5-districts-in-arunachal-pradesh-11780609#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/nuclear-plant-concerns-isro-staff-policy-science-minister-jitendra-singh-answers-queries-11779591#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-regulators-propose-new-e-delivery-for-investor-disclosures/articleshow/132441518.cms",
+    "category": "finance",
+    "title": "Wall Street regulators propose new e-delivery for investor disclosures",
+    "summary": "The U.S. Securities and Exchange Commission has introduced a groundbreaking rule to enhance electronic disclosure delivery. This initiative seeks to improve accessibility for investors by leveraging modern technology. Under this proposal, companies m",
+    "image": "https://img.etimg.com/photo/msid-132441518,imgsize-85958.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Jul 2026 19:41:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-regulators-propose-new-e-delivery-for-investor-disclosures/articleshow/132441518.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/1-dead-several-taken-to-hospital-after-crowd-surge-at-puri-rath-yatra-11780248#publisher=newsstand",
     "category": "india",
-    "title": "'Many Come And Go': Science Minister Downplays ISRO Resignations",
-    "summary": "Jitendra Singh spoke on the KKNPP and ISRO news in a chat with reporters",
-    "image": "https://c.ndtvimg.com/2026-07/n1nqhop8_jitendra-singh_625x300_16_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "1 Dead, Several Taken To Hospital After Crowd Surge At Puri Rath Yatra",
+    "summary": "The exact cause of death is being determined.",
+    "image": "https://c.ndtvimg.com/2026-07/88uql1i4_rath-yatra-injured_650x400_16_July_26.jpg",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 17:05:58 +0530",
-    "link": "https://www.ndtv.com/india-news/nuclear-plant-concerns-isro-staff-policy-science-minister-jitendra-singh-answers-queries-11779591#publisher=newsstand"
+    "pubDate": "Thu, 16 Jul 2026 19:39:53 +0530",
+    "link": "https://www.ndtv.com/india-news/1-dead-several-taken-to-hospital-after-crowd-surge-at-puri-rath-yatra-11780248#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/girl-16-stabbed-to-death-by-man-for-rejecting-his-proposal-near-kolkata-11779761#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/ips-officer-raw-agent-armyman-son-of-ex-bureaucrat-and-his-many-avatars-11780345#publisher=newsstand",
     "category": "india",
-    "title": "Girl, 16, Stabbed To Death By Man For Rejecting His Proposal Near Kolkata",
-    "summary": "Police said the accused worked at a factory in Domjur.",
-    "image": "https://c.ndtvimg.com/2026-07/8v6bvjas_howrah-murder_625x300_16_July_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Posed As IPS Officer, Spy And Soldier: Con Of Top Bureaucrat's Son Ends",
+    "summary": "According to police, Yashvardhan used props to pose as a senior officer from various agencies.",
+    "image": "https://c.ndtvimg.com/2026-07/fjohjtus_fake-ips-officer-_625x300_16_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 17:04:33 +0530",
-    "link": "https://www.ndtv.com/india-news/girl-16-stabbed-to-death-by-man-for-rejecting-his-proposal-near-kolkata-11779761#publisher=newsstand"
+    "pubDate": "Thu, 16 Jul 2026 19:32:28 +0530",
+    "link": "https://www.ndtv.com/india-news/ips-officer-raw-agent-armyman-son-of-ex-bureaucrat-and-his-many-avatars-11780345#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-joel-greenblatt-when-it-comes-to-long-term-investing-doing-less-is-often-more/articleshow/132428714.cms",
-    "category": "finance",
-    "title": "Quote of the day by Joel Greenblatt: \"When it comes to long-term investing, doing \u201cless\u201d is often \u201cmore\u201d",
-    "summary": "Value investor Joel Greenblatt advises that less action yields more long-term investment gains. Patience and disciplined holding outperform frequent trading and market timing. Compounding wealth requires staying invested in strong businesses through ",
-    "image": "https://img.etimg.com/photo/msid-132428714,imgsize-54446.cms",
-    "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 16:59:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-joel-greenblatt-when-it-comes-to-long-term-investing-doing-less-is-often-more/articleshow/132428714.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/indian-theatres-are-better-than-south-koreas-foreigners-honest-praise-viral-11779736#publisher=newsstand",
+    "id": "https://www.ndtv.com/offbeat/watch-how-a-simple-question-exposed-a-pakistani-man-lying-about-being-indian-on-stage-11777965#publisher=newsstand",
     "category": "india",
-    "title": "'Indian Theatres Are Better Than South Korea's': Foreigner's Honest Praise Viral",
-    "summary": "'Indian Theatres Are Better Than South Korea's': Foreigner's Honest Praise Viral",
-    "image": "https://c.ndtvimg.com/2026-07/ui22kpi8_as_625x300_16_July_26.jpeg",
+    "title": "Pakistani Man Tries To Hug Female Comedian, Then Lies About Being Indian",
+    "summary": "Kate Hu pushed away a Pakistani Man who tried to touch her during a show.",
+    "image": "https://c.ndtvimg.com/2026-07/ca0ut1eg_instagramcomkatehucomedy_625x300_16_July_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 16:58:47 +0530",
-    "link": "https://www.ndtv.com/offbeat/indian-theatres-are-better-than-south-koreas-foreigners-honest-praise-viral-11779736#publisher=newsstand"
+    "pubDate": "Thu, 16 Jul 2026 19:19:05 +0530",
+    "link": "https://www.ndtv.com/offbeat/watch-how-a-simple-question-exposed-a-pakistani-man-lying-about-being-indian-on-stage-11777965#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/bengaluru-man-uses-leash-to-strangle-4-month-pregnant-wife-kill-self-11779720#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/everyone-does-naarebaazi-in-democracy-supreme-court-relief-for-bhagwant-man-11780458#publisher=newsstand",
     "category": "india",
-    "title": "Bengaluru Man Uses Leash To Strangle 4-Month Pregnant Wife, Kill Self",
-    "summary": "Frequent quarrels had been taking place between the couple.",
-    "image": "https://c.ndtvimg.com/2026-07/anajbcog_bengaluru_625x300_16_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "\"Everyone Does Naarebaazi In Democracy\": Top Court Relief For Bhagwant Man",
+    "summary": "Supreme Court said it was not inclined to entertain the challenge",
+    "image": "https://c.ndtvimg.com/2026-07/8nl3ur6g_supreme-court_625x300_16_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 16 Jul 2026 16:56:46 +0530",
-    "link": "https://www.ndtv.com/india-news/bengaluru-man-uses-leash-to-strangle-4-month-pregnant-wife-kill-self-11779720#publisher=newsstand"
+    "pubDate": "Thu, 16 Jul 2026 19:16:46 +0530",
+    "link": "https://www.ndtv.com/india-news/everyone-does-naarebaazi-in-democracy-supreme-court-relief-for-bhagwant-man-11780458#publisher=newsstand"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-declares-interim-dividend-worth-rs-2/share-fixes-record-date-check-details/articleshow/132437571.cms",
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/robust-bidding-sbi-funds-management-sees-rs-2-98-lakh-crore-investor-rush-for-rs-9813-crore-ipo/articleshow/132441025.cms",
     "category": "finance",
-    "title": "Wipro declares interim dividend worth Rs 2/share, fixes record date. Check details",
-    "summary": "Wipro declared an interim dividend of \u20b92 per share, with July 27 fixed as the record date. The IT major reported modest Q1 FY27 profit and revenue growth, issued cautious quarterly guidance and reiterated its focus on AI-led business transformation.",
-    "image": "https://img.etimg.com/photo/msid-132437571,imgsize-64248.cms",
+    "title": "SBI Funds Management gets highest applications for any IPO this year, sees Rs 2.98 lakh crore investor rush",
+    "summary": "SBI Funds Management's Rs 9,813 crore IPO saw 42 times subscription on its final day. Qualified institutional buyers led the strong demand, subscribing 140.11 times their allocated portion. The issue received nearly 65 lakh applications, the highest ",
+    "image": "https://img.etimg.com/photo/msid-132441025,imgsize-4902.cms",
     "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 16:47:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-declares-interim-dividend-worth-rs-2/share-fixes-record-date-check-details/articleshow/132437571.cms"
+    "pubDate": "Thu, 16 Jul 2026 19:15:15 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/robust-bidding-sbi-funds-management-sees-rs-2-98-lakh-crore-investor-rush-for-rs-9813-crore-ipo/articleshow/132441025.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/larry-page-sergey-brin-get-15-billion-richer-as-warren-buffett-says-alphabet-bet-was-his-call/articleshow/132437443.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-open-lower-as-chip-stocks-weaken/articleshow/132440760.cms",
     "category": "finance",
-    "title": "Larry Page, Sergey Brin get $15 billion richer as Warren Buffett says Alphabet bet was his call",
-    "summary": "Warren Buffett revealed he personally initiated Berkshire Hathaway\u2019s investment in Alphabet, lifting the stock nearly 4% and adding over $15 billion to the combined wealth of Google co-founders Larry Page and Sergey Brin. Berkshire now holds Alphabet",
-    "image": "https://img.etimg.com/photo/msid-132437443,imgsize-63196.cms",
+    "title": "US stocks today: S&amp;P 500, Nasdaq open lower as chip stocks weaken",
+    "summary": "U.S. markets opened mixed with Dow gaining while S&amp;P 500 and Nasdaq slipped as chip stocks continued to weaken. Investors assessed fresh economic data for signals on growth and policy direction. The divergence highlights sector rotation and cauti",
+    "image": "https://img.etimg.com/photo/msid-132440760,imgsize-128174.cms",
     "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 16:38:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/larry-page-sergey-brin-get-15-billion-richer-as-warren-buffett-says-alphabet-bet-was-his-call/articleshow/132437443.cms"
+    "pubDate": "Thu, 16 Jul 2026 19:09:11 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-open-lower-as-chip-stocks-weaken/articleshow/132440760.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q1-results-net-profit-rises-28-yoy-to-rs-1465-crore-revenue-up-18/articleshow/132436967.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-financial-q1-results-profit-skyrockets-156-yoy-to-rs-830-crore/articleshow/132440198.cms",
     "category": "finance",
-    "title": "Tech Mahindra Q1 Results: Net profit rises 28% YoY to Rs 1,465 crore, revenue up 18%",
-    "summary": "Tech Mahindra announced a consolidated net profit of Rs 1,465 crore for the first quarter. This represents a substantial 28% increase compared to the previous year's earnings. The company also saw its net profit rise over 8% sequentially from the pri",
-    "image": "https://img.etimg.com/photo/msid-132436967,imgsize-1997740.cms",
+    "title": "Jio Financial Q1 Results: Profit skyrockets 155% YoY to Rs 830 crore",
+    "summary": "Jio Financial on Thursday reported 155% year-on-year (YoY) growth in its consolidated net profit at Rs 830 crore in the first quarter. The same stood at Rs 325 crore in the same quarter last year.",
+    "image": "https://img.etimg.com/photo/msid-132440198,imgsize-19826.cms",
     "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 16:20:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q1-results-net-profit-rises-28-yoy-to-rs-1465-crore-revenue-up-18/articleshow/132436967.cms"
+    "pubDate": "Thu, 16 Jul 2026 18:32:19 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-financial-q1-results-profit-skyrockets-156-yoy-to-rs-830-crore/articleshow/132440198.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q1-results-profit-up-1-yoy-to-rs-3352-crore-co-declares-rs-2/share-dividend/articleshow/132436215.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-data-watch-13-nasdaq-100-stocks-deliver-multibaggers-return-in-cy26/slideshow/132440115.cms",
     "category": "finance",
-    "title": "Wipro Q1 Results: Profit flat YoY at Rs 3,352 crore; co declares Rs 2/share dividend",
-    "summary": "Wipro Q1 Results: Wipro reported a modest 1% year-on-year rise in June-quarter net profit to Rs 3,352 crore, while revenue grew 11%. The IT major declared an interim dividend of Rs 2 per share, but maintained a cautious outlook for the September quar",
-    "image": "https://img.etimg.com/photo/msid-132436215,imgsize-1987853.cms",
+    "title": "US Data Watch: 13 Nasdaq 100 stocks deliver multibaggers return in CY26",
+    "summary": "Thirteen Nasdaq 100 stocks have turned multibaggers in CY26, led by AI, semiconductors and data infrastructure themes, significantly outperforming the broader index and delivering exceptional gains to investors.",
+    "image": "https://img.etimg.com/photo/msid-132439876,imgsize-26275.cms",
     "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 15:57:47 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q1-results-profit-up-1-yoy-to-rs-3352-crore-co-declares-rs-2/share-dividend/articleshow/132436215.cms"
+    "pubDate": "Thu, 16 Jul 2026 18:14:15 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-data-watch-13-nasdaq-100-stocks-deliver-multibaggers-return-in-cy26/slideshow/132440115.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-ends-flat-nifty-holds-24050-as-iran-us-conflict-keeps-optimism-in-check/articleshow/132435934.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bhel-among-6-midcap-stocks-that-hit-52-week-highs-and-rallied-up-to-20-in-a-month/slideshow/132439796.cms",
     "category": "finance",
-    "title": "Market Wrap: Sensex ends flat, Nifty holds 24,050 as Iran-US conflict keeps optimism in check",
-    "summary": "Sensex gained a mere 1 point to end at around 77,187, and Nifty 50 dropped around 6 points to close at nearly 24,073 on Thursday. Broader markets slipped into the red, with Nifty Midcap 100 and Nifty Smallcap 100 indices closing up to 0.4% lower.",
-    "image": "https://img.etimg.com/photo/msid-132435934,imgsize-337022.cms",
+    "title": "BHEL among 6 midcap stocks that hit 52-week highs and rallied up to 20% in a month",
+    "summary": "Despite a flat Sensex close, six BSE 150 MidCap stocks\u2014Ipca Laboratories, Sona BLW Precision Forgings, BHEL, Gujarat Fluorochemicals, Lupin and Biocon\u2014hit fresh 52-week highs, signalling strong buying interest, improving investor confidence and susta",
+    "image": "https://img.etimg.com/photo/msid-132439470,imgsize-7306.cms",
     "source": "ET",
-    "pubDate": "Thu, 16 Jul 2026 15:46:10 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-ends-flat-nifty-holds-24050-as-iran-us-conflict-keeps-optimism-in-check/articleshow/132435934.cms"
+    "pubDate": "Thu, 16 Jul 2026 18:02:12 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bhel-among-6-midcap-stocks-that-hit-52-week-highs-and-rallied-up-to-20-in-a-month/slideshow/132439796.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/polycab-q1-results-profit-surges-33-yoy-to-rs-797-crore-revenue-jumps-39/articleshow/132439305.cms",
+    "category": "finance",
+    "title": "Polycab Q1 Results: Profit surges 33% YoY to Rs 797 crore, revenue jumps 39%",
+    "summary": "Polycab India delivered its strongest-ever first quarter, with revenue rising 39% and net profit increasing 33%, driven by robust wires and cables demand and strong FMEG growth. Management expects infrastructure spending, capacity expansion and distr",
+    "image": "https://img.etimg.com/photo/msid-132439305,imgsize-40553.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Jul 2026 18:00:17 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/polycab-q1-results-profit-surges-33-yoy-to-rs-797-crore-revenue-jumps-39/articleshow/132439305.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-icici-lombard-indigo-among-top-gainers-losers-on-nifty-and-sensex-today/articleshow/132439120.cms",
+    "category": "finance",
+    "title": "Market wrap: ICICI Lombard, IndiGo among top gainers &amp; losers on Nifty and Sensex today",
+    "summary": "Indian equities ended subdued on weekly expiry as investors weighed Iran-US tensions, firm crude prices and rupee weakness. Analysts expect Q1 earnings to drive stock-specific action, while Nifty remains in a consolidation phase with key support near",
+    "image": "https://img.etimg.com/photo/msid-132439120,imgsize-168352.cms",
+    "source": "ET",
+    "pubDate": "Thu, 16 Jul 2026 17:52:10 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-icici-lombard-indigo-among-top-gainers-losers-on-nifty-and-sensex-today/articleshow/132439120.cms"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c74glj9zkzko#0",
+    "category": "global",
+    "title": "Free meningitis B vaccine should be offered to all teenagers over 15,  UK experts say",
+    "summary": "Advisers are asking the government to consider introducing MenB jabs following concerns over an outbreak in Kent earlier this year, in which two people died.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 14:42:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c74glj9zkzko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545872.html",
+    "category": "sports",
+    "title": "'They are 15 short, boys' - Ponting does\u00a0a Kallis as Freedom pull off record chase",
+    "summary": "Gous leads the way with 132 off 51 balls as Freedom break records and MINY at Oakland's Coliseum",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419854.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 16 Jul 2026 14:38:50 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545872.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545888.html",
+    "category": "sports",
+    "title": "Buoyant Zimbabwe eye series win against depleted Bangladesh",
+    "summary": "Bangladesh have now lost their last five T20Is and need their top order to fire",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419824.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 16 Jul 2026 14:38:16 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545888.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cdx76069n3do#0",
+    "category": "global",
+    "title": "Protests in Ukrainian cities against Zelensky's removal of popular defence minister",
+    "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 14:22:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/clyen1ned7no#0",
+    "category": "global",
+    "title": "UK says Falkland Islands 'definitely ours' after Argentina banner",
+    "summary": "Argentina could be disciplined by Fifa for the celebrations after the World Cup win over England.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 14:12:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/clyen1ned7no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o#0",
+    "category": "global",
+    "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+    "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 13:51:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/crmrwe84rp2o#0",
+    "category": "global",
+    "title": "MI5 court evidence based on lies, report says",
+    "summary": "Senior MI5 figures were criticised in the report by deputy investigatory powers commissioner Sir John Goldring.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 13:22:04 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crmrwe84rp2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545875.html",
+    "category": "sports",
+    "title": "Hamza Shaikh rejects Warwickshire contract to join Leicestershire",
+    "summary": "After 12 years at Edgbaston, Shaikh has opted to move to Grace Road for more 1st XI opportunities",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/386100/386174.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 16 Jul 2026 12:43:03 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545875.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o#0",
+    "category": "global",
+    "title": "US strikes oil tanker with missiles as it enforces new Iran blockade",
+    "summary": "The US military targeted an unladen oil tanker which it said was heading for the key Iranian oil terminal on Kharg island.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 12:09:26 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545870.html",
@@ -220,16 +300,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1545870.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/crmrwe84rp2o#0",
-    "category": "global",
-    "title": "MI5 court evidence based on lies, report says",
-    "summary": "Senior MI5 figures were criticised in the report by deputy investigatory powers commissioner Sir John Goldring.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 11:44:25 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crmrwe84rp2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1545766.html",
     "category": "sports",
     "title": "Wadhera moves from Punjab to Himachal ahead of 2026-27 domestic season",
@@ -240,54 +310,14 @@
     "link": "https://www.cricinfo.com/ci/content/story/1545766.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c5y680w62wno#0",
+    "id": "https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o#0",
     "category": "global",
-    "title": "British Steel taken into public ownership to protect 'vital' UK supply",
-    "summary": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
+    "title": "Why you should care about the third-place play-off between England and France",
+    "summary": "It might feel like the last thing anyone wants right now - but here is why, actually, you do want to watch the World Cup's third-place play-off.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 11:31:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cdx76069n3do#0",
-    "category": "global",
-    "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
-    "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 11:31:11 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o#0",
-    "category": "global",
-    "title": "TikTok faces Ofcom investigation over child age checks",
-    "summary": "It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 11:08:33 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o#0",
-    "category": "global",
-    "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
-    "summary": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 10:52:26 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cly5lq03l7do#0",
-    "category": "global",
-    "title": "How coach-on-pitch Messi undid England's tactics on the fly",
-    "summary": "England pride themselves on their physicality, so shouldn't it have suited them to face a 39-year-old who spends most of his time walking? Not this 39-year-old. BBC Sport football tactics correspondent Umir Irfan explores a Lionel Messi masterclass.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 10:46:31 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cly5lq03l7do?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 16 Jul 2026 10:44:03 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1545859.html",
@@ -310,16 +340,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c4gy5jwjvz7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1545759.html",
-    "category": "sports",
-    "title": "Overton brings Somerset back from brink in stunning chase",
-    "summary": "Yorkshire had Somerset 82 for 8 chasing 162 before Craig Overton stunned at the death",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419839.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 16 Jul 2026 08:28:38 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545759.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1545845.html",
     "category": "sports",
     "title": "Smith and Gous outdo Pooran as Freedom pull off world-record chase",
@@ -338,26 +358,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 16 Jul 2026 07:19:19 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1545849.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545771.html",
-    "category": "sports",
-    "title": "Short's 94* in vain as Powell's 15-ball blitz takes LAKR into final",
-    "summary": "Andre Russell played a vital role in his 600th T20 match with an unbeaten half-century and a nerveless over",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419842.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 16 Jul 2026 03:02:05 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545771.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545770.html",
-    "category": "sports",
-    "title": "Moises Henriques announces retirement from Australian domestic cricket",
-    "summary": "Most capped BBL player in history retires from domestic cricket in Australia and is set to play for Portugal",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/395300/395346.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 16 Jul 2026 00:56:09 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545770.html?ex_cid=OTC-RSS"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
