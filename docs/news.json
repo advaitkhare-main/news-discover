@@ -40,6 +40,36 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-logan-calls-for-modestly-higher-interest-rates/articleshow/132444805.cms"
   },
   {
+    "id": "https://www.cricinfo.com/ci/content/story/1545955.html",
+    "category": "sports",
+    "title": "Joe Root happy to sacrifice ton for victory",
+    "summary": "Batter tells Gus Atkinson not to worry about leaving him on 99 not out as England level ODI series with India",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419900/419901.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 16 Jul 2026 22:48:50 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545955.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c151gdjwd10o#0",
+    "category": "global",
+    "title": "Blasts reported in Iran as US launches new wave of strikes",
+    "summary": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 21:44:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c2lq12z1xdlo#0",
+    "category": "global",
+    "title": "Burnham to promise new path for UK when he becomes new Labour leader",
+    "summary": "In a speech on Friday, he will begin to set out his vision for government, before becoming prime minister next week.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 16 Jul 2026 21:44:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c2lq12z1xdlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.cricinfo.com/ci/content/story/1545912.html",
     "category": "sports",
     "title": "Root's classy 99 not out helps England level the series",
@@ -78,16 +108,6 @@
     "source": "VentureBeat",
     "pubDate": "Thu, 16 Jul 2026 19:02:38 GMT",
     "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/czrjg0jxkpno#0",
-    "category": "global",
-    "title": "Energy drinks to be banned for under-16s in England from April",
-    "summary": "It will be illegal to sell high-caffeine beverages to under-16s from April next year, but soft drinks with lower caffeine levels will not be affected.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 18:57:47 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/czrjg0jxkpno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo#0",
@@ -230,24 +250,44 @@
     "link": "https://www.bbc.co.uk/news/articles/cpq8j188n90o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1545870.html",
-    "category": "sports",
-    "title": "England bowl; Kishan in for unwell Rahul",
-    "summary": "Saqib Mahmood and Gus Atkinson come in for Josh Tongue and Liam Dawson",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419809.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 16 Jul 2026 12:01:13 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545870.html?ex_cid=OTC-RSS"
+    "id": "https://www.ndtv.com/world-news/us-strikes-hit-bridges-airport-in-iran-report-11782076#publisher=newsstand",
+    "category": "india",
+    "title": "US Strikes Hit Bridges, Airport, Railway Station In Iran: Report",
+    "summary": "According to Iranian media,  two people had died and four were injured in the attack.",
+    "image": "https://c.ndtvimg.com/2026-07/7m51051s_hormuz_625x300_17_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Jul 2026 03:38:13 +0530",
+    "link": "https://www.ndtv.com/world-news/us-strikes-hit-bridges-airport-in-iran-report-11782076#publisher=newsstand"
   },
   {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o#0",
-    "category": "global",
-    "title": "Why you should care about the third-place play-off between England and France",
-    "summary": "It might feel like the last thing anyone wants right now - but here is why, actually, you do want to watch the World Cup's third-place play-off.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 16 Jul 2026 10:44:03 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o?at_medium=RSS&at_campaign=rss"
+    "id": "https://www.ndtv.com/world-news/us-forces-continue-wave-of-strikes-against-iran-for-6th-consecutive-night-11782065#publisher=newsstand",
+    "category": "india",
+    "title": "US Forces Continue \"Wave Of Strikes\" Against Iran For 6th Consecutive Night",
+    "summary": "US forces on Thursday launched a fresh wave of military strikes against Iran.",
+    "image": "https://c.ndtvimg.com/2026-07/3fakal3k_us-forces_625x300_17_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Jul 2026 03:06:54 +0530",
+    "link": "https://www.ndtv.com/world-news/us-forces-continue-wave-of-strikes-against-iran-for-6th-consecutive-night-11782065#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand",
+    "category": "india",
+    "title": "US-Iran War News LIVE: US Launches 6th Consecutive Night Of Strikes Against Iran",
+    "summary": "US-Iran War Live Updates: A fifth of all traded crude oil and natural gas passed through the Strait of Hormuz before the war, when it was open to all without tolls.",
+    "image": "https://c.ndtvimg.com/2026-07/avok0scg_iran-war_625x300_13_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Jul 2026 03:02:56 +0530",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/xi-jinping-to-present-chinas-ai-dream-at-major-conference-today-11781947#publisher=newsstand",
+    "category": "india",
+    "title": "Xi Jinping To Present China's AI Dream At Major Conference Today",
+    "summary": "Xi Jinping will speak at the World Artificial Intelligence Conference (WAIC) in Shanghai on Friday.",
+    "image": "https://c.ndtvimg.com/2026-07/kh08toks_xi-jinping_625x300_12_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Jul 2026 01:53:31 +0530",
+    "link": "https://www.ndtv.com/world-news/xi-jinping-to-present-chinas-ai-dream-at-major-conference-today-11781947#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-as-chip-weakness-offsets-solid-earnings-economic-data/articleshow/132447866.cms",
@@ -260,6 +300,16 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-as-chip-weakness-offsets-solid-earnings-economic-data/articleshow/132447866.cms"
   },
   {
+    "id": "https://www.ndtv.com/india-news/odisha-government-confirms-2-deaths-denies-stampede-at-puri-rath-yatra-11781910#publisher=newsstand",
+    "category": "india",
+    "title": "Odisha Government Confirms 2 Deaths, Denies Stampede At Puri Rath Yatra",
+    "summary": "The festival witnessed an estimated eight to nine lakh devotees from across the world.",
+    "image": "https://c.ndtvimg.com/2026-07/7qv9dq9_puri-rath-yatra_625x300_17_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Jul 2026 01:35:02 +0530",
+    "link": "https://www.ndtv.com/india-news/odisha-government-confirms-2-deaths-denies-stampede-at-puri-rath-yatra-11781910#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/brazil-hits-out-at-marco-rubio-over-remarks-on-lula-11781857#publisher=newsstand",
     "category": "india",
     "title": "\"Crude And Arrogant\": Brazil Hits Out At Marco Rubio Over Remarks On Lula",
@@ -268,16 +318,6 @@
     "source": "NDTV",
     "pubDate": "Fri, 17 Jul 2026 01:00:32 +0530",
     "link": "https://www.ndtv.com/world-news/brazil-hits-out-at-marco-rubio-over-remarks-on-lula-11781857#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand",
-    "category": "india",
-    "title": "US-Iran War News LIVE: US Launches 5th Consecutive Night Of Strikes Against Iran",
-    "summary": "US-Iran War Live Updates: A fifth of all traded crude oil and natural gas passed through the Strait of Hormuz before the war, when it was open to all without tolls.",
-    "image": "https://c.ndtvimg.com/2026-07/avok0scg_iran-war_625x300_13_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 00:44:36 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/world-news/saarc-bimstec-dont-need-to-be-rivals-bangladesh-at-delhi-meet-11781793#publisher=newsstand",
@@ -298,45 +338,5 @@
     "source": "NDTV",
     "pubDate": "Fri, 17 Jul 2026 00:15:20 +0530",
     "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-warm-day-in-delhi-rain-expected-from-july-14-to-18-11772639#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/trump-administration-tightens-visa-limits-for-foreign-students-and-journalists-11781779#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Administration Tightens Visa Limits For Foreign Students And Journalists",
-    "summary": "Foreign journalists would be limited to stays of just 240 days, or around eight months",
-    "image": "https://edata.ndtv.com/feeds/liveblog/7514908/638730839432088929.JPG?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 00:10:56 +0530",
-    "link": "https://www.ndtv.com/world-news/trump-administration-tightens-visa-limits-for-foreign-students-and-journalists-11781779#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/28-year-old-shot-dead-by-friend-in-gurugram-cops-11781777#publisher=newsstand",
-    "category": "india",
-    "title": "28-Year-Old Shot Dead By Friend In Gurugram: Cops",
-    "summary": "Further investigation is underway, say officials. (Representational)",
-    "image": "https://c.ndtvimg.com/2024-06/olj5u4a8_police-generic-image_625x300_18_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 00:10:16 +0530",
-    "link": "https://www.ndtv.com/india-news/28-year-old-shot-dead-by-friend-in-gurugram-cops-11781777#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/on-camera-man-attacks-woman-with-machete-at-karnataka-bus-stand-she-dies-11781081#publisher=newsstand",
-    "category": "india",
-    "title": "Man Pulls Out Machete From Bag, Kills Woman Waiting For Bus In Karnataka",
-    "summary": "The accused has been on the run since the incident.",
-    "image": "https://c.ndtvimg.com/2026-07/75qjb09o_machete_625x300_16_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 00:08:13 +0530",
-    "link": "https://www.ndtv.com/india-news/on-camera-man-attacks-woman-with-machete-at-karnataka-bus-stand-she-dies-11781081#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/man-stabbed-to-death-after-argument-over-borrowed-money-in-mumbai-cops-11781769#publisher=newsstand",
-    "category": "india",
-    "title": "Man Stabbed To Death After Argument Over Borrowed Money In Mumbai: Cops",
-    "summary": "Investigators found that two other accused allegedly assisted him in the attack.",
-    "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 00:06:51 +0530",
-    "link": "https://www.ndtv.com/india-news/man-stabbed-to-death-after-argument-over-borrowed-money-in-mumbai-cops-11781769#publisher=newsstand"
   }
 ]
