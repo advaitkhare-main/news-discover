@@ -70,54 +70,84 @@
     "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
   },
   {
-    "id": "https://www.ndtv.com/india-news/not-okay-to-call-someone-second-class-passenger-supreme-court-to-railways-11786322#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/weather-office-warns-of-heavy-rain-in-northeast-over-next-4-days-11786646#publisher=newsstand",
     "category": "india",
-    "title": "Not Okay To Call Someone 'Second-Class' Passenger: Supreme Court To Railways",
-    "summary": "The court made the observations over a plea for compensation.",
-    "image": "https://c.ndtvimg.com/2026-07/1hv2fecs_supreme-court_625x300_16_July_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "Weather Office Warns Of Heavy Rain In Northeast Over Next 4 Days",
+    "summary": "By July 21, only scattered rainfall is expected over most parts of the region.",
+    "image": "https://c.ndtvimg.com/2026-07/1gd5l1bk_arunachal-pradesh_625x300_18_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 23:00:59 +0530",
-    "link": "https://www.ndtv.com/india-news/not-okay-to-call-someone-second-class-passenger-supreme-court-to-railways-11786322#publisher=newsstand"
+    "pubDate": "Sat, 18 Jul 2026 01:12:10 +0530",
+    "link": "https://www.ndtv.com/india-news/weather-office-warns-of-heavy-rain-in-northeast-over-next-4-days-11786646#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/middle-east-on-boil-again-iran-threatens-zero-hour-donald-trump-deploys-planes-11786235#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/allahabad-high-court-adjourns-hearing-in-krishna-janmabhumi-shahi-idgah-mosque-dispute-11786600#publisher=newsstand",
     "category": "india",
-    "title": "Middle East On Boil Again? Iran Threatens \"Zero Hour\", Trump Deploys Planes",
-    "summary": "Senior American and Israeli officials say that Trump could order the attacks in the coming days",
-    "image": "https://c.ndtvimg.com/2026-07/0ov1atio_donald-trump_625x300_06_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Court Adjourns Hearing In Krishna Janmabhumi-Shahi Idgah Mosque Dispute",
+    "summary": "The court asked the parties to file objections, if any, to the application.",
+    "image": "https://c.ndtvimg.com/2022-12/lhg4ll98_shahi-idgah_625x300_24_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 22:53:56 +0530",
-    "link": "https://www.ndtv.com/world-news/middle-east-on-boil-again-iran-threatens-zero-hour-donald-trump-deploys-planes-11786235#publisher=newsstand"
+    "pubDate": "Sat, 18 Jul 2026 00:42:56 +0530",
+    "link": "https://www.ndtv.com/india-news/allahabad-high-court-adjourns-hearing-in-krishna-janmabhumi-shahi-idgah-mosque-dispute-11786600#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/we-dont-want-them-donald-trump-set-to-replace-immigrant-truckers-with-veterans-11786572#publisher=newsstand",
+    "category": "india",
+    "title": "\"We Don't Want Them\": Trump Set To Replace Immigrant Truckers With Veterans",
+    "summary": "Indian immigrants form a significant part of the US trucking workforce",
+    "image": "https://s.ndtvimg.com/images/entities/300/donald-trump_638630538762086042_121957.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Jul 2026 00:22:06 +0530",
+    "link": "https://www.ndtv.com/world-news/we-dont-want-them-donald-trump-set-to-replace-immigrant-truckers-with-veterans-11786572#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/uk-nationalises-british-steel-takes-control-from-chinas-jingye-11786554#publisher=newsstand",
+    "category": "india",
+    "title": "UK Nationalises British Steel, Takes Control From China's Jingye",
+    "summary": "Nationalisation brings British Steel back into government ownership for the first time since 1988.",
+    "image": "https://c.ndtvimg.com/2026-07/umrd3ubk_british-steel_625x300_18_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Jul 2026 00:13:35 +0530",
+    "link": "https://www.ndtv.com/world-news/uk-nationalises-british-steel-takes-control-from-chinas-jingye-11786554#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/vihaan-chembur-trying-to-find-new-purpose-parents-of-boy-killed-in-mumbai-tree-collapse-11786548#publisher=newsstand",
+    "category": "india",
+    "title": "\"Trying To Find New Purpose\": Parents Of Boy Killed In Mumbai Tree Collapse",
+    "summary": "Vihaan Srivastav was killed when a tree fell on his school bus.",
+    "image": "https://c.ndtvimg.com/2026-07/k0533pn8_vihaan-srivastav-parents-_625x300_18_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Jul 2026 00:07:39 +0530",
+    "link": "https://www.ndtv.com/india-news/vihaan-chembur-trying-to-find-new-purpose-parents-of-boy-killed-in-mumbai-tree-collapse-11786548#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/india-news/pm-modis-vande-mataram-message-set-to-fly-into-space-tomorrow-11786226#publisher=newsstand",
     "category": "india",
-    "title": "PM Modi's \"Vande Mataram\" Message Set To Fly Into Space Tomorrow",
+    "title": "PM Modi's \"Vande Mataram\" Message Set To Fly Into Space Today",
     "summary": "Image of PM Modi's message released by Skyroot",
     "image": "https://c.ndtvimg.com/2026-07/7jm8hpps_modi-message_625x300_17_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 22:34:26 +0530",
+    "pubDate": "Sat, 18 Jul 2026 00:05:43 +0530",
     "link": "https://www.ndtv.com/india-news/pm-modis-vande-mataram-message-set-to-fly-into-space-tomorrow-11786226#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/meghalaya-to-table-resolution-opposing-uranium-mining-11786180#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/rs-2-000-crore-delhi-secretariat-plan-likely-to-get-global-bids-in-next-month-11786529#publisher=newsstand",
     "category": "india",
-    "title": "Meghalaya To Table Resolution Opposing Uranium Mining",
-    "summary": "The Meghalaya government has announced that it would bring a resolution in the State Assembly to formally oppose and prohibit uranium mining, with Chief Minister Conrad K. Sangma asserting that his government has never given its approval for such act",
-    "image": "https://i.ndtvimg.com/i/2017-09/uranium-ore-mining-story-650-3_650x400_71504957770.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Rs 2,000-Crore Delhi Secretariat Plan Likely To Get Global Bids Next Month",
+    "summary": "The purpose of the global tender is to invite the world's leading companies.",
+    "image": "https://i.ndtvimg.com/i/2016-10/delhi-traffic-jam-pti_650x400_81477667435.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 22:25:12 +0530",
-    "link": "https://www.ndtv.com/india-news/meghalaya-to-table-resolution-opposing-uranium-mining-11786180#publisher=newsstand"
+    "pubDate": "Sat, 18 Jul 2026 00:03:33 +0530",
+    "link": "https://www.ndtv.com/india-news/rs-2-000-crore-delhi-secretariat-plan-likely-to-get-global-bids-in-next-month-11786529#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/no-damage-to-terminal-in-us-attacks-on-chabahar-port-centre-11786166#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/another-mh-60r-seahawk-helicopter-delivered-to-navy-us-embassy-11786527#publisher=newsstand",
     "category": "india",
-    "title": "No Damage To Terminal In US Attacks On Chabahar Port: Centre",
-    "summary": "The Chabahar port is being developed by India and Iran to boost connectivity and trade ties",
-    "image": "https://c.ndtvimg.com/2026-01/0hncfjok_chabaharport_625x300_09_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Another MH-60R Seahawk Helicopter Delivered To Navy: US Embassy",
+    "summary": "The first three MH-60R helicopters were delivered to India in 2021.",
+    "image": "https://c.ndtvimg.com/2024-03/jspceq3k_mh-60r-seahawk-1200_625x300_03_March_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 22:22:16 +0530",
-    "link": "https://www.ndtv.com/india-news/no-damage-to-terminal-in-us-attacks-on-chabahar-port-centre-11786166#publisher=newsstand"
+    "pubDate": "Sat, 18 Jul 2026 00:01:30 +0530",
+    "link": "https://www.ndtv.com/india-news/another-mh-60r-seahawk-helicopter-delivered-to-navy-us-embassy-11786527#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q1-revenue-rises-but-profit-falls-as-e-commerce-weighs/articleshow/132465804.cms",
@@ -130,26 +160,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q1-revenue-rises-but-profit-falls-as-e-commerce-weighs/articleshow/132465804.cms"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/woman-wins-rs-1-4-crore-lottery-scrolling-phone-unable-to-sleep-11786128#publisher=newsstand",
-    "category": "india",
-    "title": "Woman Wins Rs 1.4 Crore Lottery Scrolling Phone, Unable To Sleep",
-    "summary": "Mooresville resident Sue Rowley told lottery officials she was struggling to fall asleep on the night of July 8 when she won the Rs 1.4 crore jackpot.",
-    "image": "https://c.ndtvimg.com/2026-07/92o4dvmk_as_625x300_17_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 22:14:16 +0530",
-    "link": "https://www.ndtv.com/offbeat/woman-wins-rs-1-4-crore-lottery-scrolling-phone-unable-to-sleep-11786128#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/7-4-magnitude-earthquake-strikes-southern-mexico-tsunami-alert-issued-11785957#publisher=newsstand",
-    "category": "india",
-    "title": "7.4-Magnitude Earthquake Strikes Southern Mexico, Tsunami Alert Issued",
-    "summary": "People evacuate a building after a 7.4-magnitude earthquake struck off the coast of Mexico's Chiapas.",
-    "image": "https://c.ndtvimg.com/2026-07/9oltn5p8_earthquake_625x300_17_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 22:06:20 +0530",
-    "link": "https://www.ndtv.com/world-news/7-4-magnitude-earthquake-strikes-southern-mexico-tsunami-alert-issued-11785957#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steels-profit-doubles-on-revenue-growth-beats-estimates/articleshow/132465171.cms",
     "category": "finance",
     "title": "JSW Steel\u2019s profit doubles on revenue growth, beats estimates",
@@ -158,16 +168,6 @@
     "source": "ET",
     "pubDate": "Fri, 17 Jul 2026 21:49:03 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steels-profit-doubles-on-revenue-growth-beats-estimates/articleshow/132465171.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/how-is-bangladeshs-pm-dealing-with-student-protests-11785986#publisher=newsstand",
-    "category": "india",
-    "title": "How Is Bangladesh's PM Dealing With Student Protests",
-    "summary": "Bangladesh Prime Minister Tarique Rahman",
-    "image": "https://c.ndtvimg.com/2026-06/5unsuinc_tarique-rahman_625x300_21_June_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 21:39:56 +0530",
-    "link": "https://www.ndtv.com/world-news/how-is-bangladeshs-pm-dealing-with-student-protests-11785986#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/netflix-shares-tumble-over-10-as-slowing-growth-less-viewership-data-spook-investors/articleshow/132465122.cms",
@@ -228,6 +228,26 @@
     "source": "ET",
     "pubDate": "Fri, 17 Jul 2026 19:49:33 +0530",
     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/zepto-ipo-anchor-book-nears-closure-norges-motilal-oswal-may-take-40-45-pc/articleshow/132463512.cms"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1546048.html",
+    "category": "sports",
+    "title": "BCCI secretary dismisses speculation on Rohit Sharma's ODI future",
+    "summary": "Lord's ODI wont be his last match, says Devajit Saikia",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/418500/418591.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 17 Jul 2026 19:24:13 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1546048.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo#0",
+    "category": "global",
+    "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+    "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Jul 2026 19:04:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1546041.html",
@@ -340,16 +360,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cwyjv3znypyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cq56ed827peo#0",
-    "category": "global",
-    "title": "German politician faces calls to resign over surrogacy child",
-    "summary": "Surrogacy is banned in Germany, a policy firmly backed by Jens Spahn's Christian Democrat party, and several years ago by Spahn, too.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 17 Jul 2026 15:08:37 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq56ed827peo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1546026.html",
     "category": "sports",
     "title": "Openers, Mahedi and Rishad help Bangladesh keep series alive",
@@ -368,16 +378,6 @@
     "source": "BBC",
     "pubDate": "Fri, 17 Jul 2026 13:52:20 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cz7djw5dznpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1546017.html",
-    "category": "sports",
-    "title": "Injury replacements trial tweaked by ECB after consultation",
-    "summary": "Replacements for injury or illness now only permitted in both teams' first innings; like-for-like stipulation only applies to skillset",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416100/416144.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 17 Jul 2026 13:45:41 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1546017.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/c998v0g2v0vo#0",
