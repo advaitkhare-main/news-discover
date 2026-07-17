@@ -70,164 +70,284 @@
     "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-top-gainers-and-losers-on-nifty-and-sensex-today/articleshow/132460186.cms",
-    "category": "finance",
-    "title": "Market wrap: Top gainers and losers on Nifty and Sensex today",
-    "summary": "Indian markets ended the week strongly as Sensex surged 964 points and Nifty gained 262 points, driven by robust Q1 earnings and IT buying. Analysts see improving momentum in large caps, with Nifty's breakout indicating potential upside towards 24,80",
-    "image": "https://img.etimg.com/photo/msid-132460186,imgsize-168352.cms",
-    "source": "ET",
-    "pubDate": "Fri, 17 Jul 2026 17:05:36 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-top-gainers-and-losers-on-nifty-and-sensex-today/articleshow/132460186.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/federal-bank-among-4-stocks-that-hit-52-week-highs-and-rallied-up-to-25-in-a-month/slideshow/132460099.cms",
-    "category": "finance",
-    "title": "Federal Bank among 4 stocks that hit 52-week highs and rallied up to 25% in a month",
-    "summary": "Sensex ended 96 points higher on Friday as four BSE 200 stocks\u2014Oracle Financial Services, Adani Energy Solutions, BHEL and Federal Bank\u2014hit fresh 52-week highs. The milestone reflects sustained buying interest, improving investor sentiment and contin",
-    "image": "https://img.etimg.com/photo/msid-132460066,imgsize-41918.cms",
-    "source": "ET",
-    "pubDate": "Fri, 17 Jul 2026 16:50:11 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/federal-bank-among-4-stocks-that-hit-52-week-highs-and-rallied-up-to-25-in-a-month/slideshow/132460099.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/shapoorji-pallonji-group-completes-long-delayed-debt-fundraising-sources-say/articleshow/132459713.cms",
-    "category": "finance",
-    "title": "Shapoorji Pallonji Group completes long-delayed debt fundraising, sources say",
-    "summary": "The Shapoorji Pallonji Group has successfully wrapped up its fundraising campaign, garnering bids amounting to a remarkable 215 billion rupees for a three-year bond. This initiative is primarily designed to refinance the conglomerate's existing debts",
-    "image": "https://img.etimg.com/photo/msid-132459713,imgsize-42276.cms",
-    "source": "ET",
-    "pubDate": "Fri, 17 Jul 2026 16:29:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/shapoorji-pallonji-group-completes-long-delayed-debt-fundraising-sources-say/articleshow/132459713.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/analysis-why-the-shadow-of-separatism-lingers-in-punjab-11784273#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/cbi-files-2nd-chargesheet-in-reliance-communications-loan-fraud-case-11785387#publisher=newsstand",
     "category": "india",
-    "title": "Analysis: Why The Shadow Of Separatism Lingers In Punjab",
-    "summary": "Punjab's distress stems from stagnation of its historically prosperous agrarian economy.",
-    "image": "https://c.ndtvimg.com/2023-03/tf05meb_punjab-paramilitary-ani_625x300_19_March_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "CBI Files 2nd Chargesheet In Reliance Communications Loan Fraud Case",
+    "summary": "The chargesheet was filed before the Special Judge for CBI Cases in Mumbai.",
+    "image": "https://c.ndtvimg.com/2026-07/bj7kjv6g_r-com_625x300_17_July_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 16:04:07 +0530",
-    "link": "https://www.ndtv.com/india-news/analysis-why-the-shadow-of-separatism-lingers-in-punjab-11784273#publisher=newsstand"
+    "pubDate": "Fri, 17 Jul 2026 19:49:40 +0530",
+    "link": "https://www.ndtv.com/india-news/cbi-files-2nd-chargesheet-in-reliance-communications-loan-fraud-case-11785387#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/founder-slams-rs-3-000-crore-company-for-not-paying-dues-5-months-after-project-completion-11784255#publisher=newsstand",
-    "category": "india",
-    "title": "Founder Slams Rs 3,000-Crore Company For Not Paying Dues 5 Months After Project Completion",
-    "summary": "Video production company claims large Indian firm withholding payment despite project completion.",
-    "image": "https://c.ndtvimg.com/2026-07/35keh56g_as_625x300_17_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 16:00:09 +0530",
-    "link": "https://www.ndtv.com/offbeat/founder-slams-rs-3-000-crore-company-for-not-paying-dues-5-months-after-project-completion-11784255#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/punjab-paddy-yields-at-risk-amid-28-rain-deficit-rise-in-cultivation-costs-11784241#publisher=newsstand",
-    "category": "india",
-    "title": "Punjab Paddy Yields At Risk Amid 28% Rain Deficit, Rise In Cultivation Costs",
-    "summary": "Farmers in several districts say they are being forced to depend heavily on tube wells.",
-    "image": "https://c.ndtvimg.com/2019-07/sabomsfo_kharif-crops-hit-monsoon-deficit-650_625x300_02_July_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 15:56:43 +0530",
-    "link": "https://www.ndtv.com/india-news/punjab-paddy-yields-at-risk-amid-28-rain-deficit-rise-in-cultivation-costs-11784241#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-96-28-vs-usd-logs-sharpest-weekly-drop-since-may-as-oil-price-jump-stings/articleshow/132458678.cms",
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/zepto-ipo-anchor-book-nears-closure-norges-motilal-oswal-may-take-40-45-pc/articleshow/132463512.cms",
     "category": "finance",
-    "title": "Rupee closes at 96.28 vs USD; logs sharpest weekly drop since May as oil price jump stings",
-    "summary": "The Indian rupee faced its most significant weekly drop since May, driven by rising oil prices and strong demand for the dollar. Increasing tensions between the U.S. and Iran exacerbated concerns over energy supplies, further straining the rupee's po",
-    "image": "https://img.etimg.com/photo/msid-132458678,imgsize-98256.cms",
+    "title": "Zepto IPO anchor book nears closure; Norges, Motilal Oswal may take 40-45%",
+    "summary": "In a notable financial move, major investors like Norges and Motilal Oswal are expressing a keen interest in Zepto's upcoming initial public offering, which is valued at approximately Rs 11,000 crore. The anchor book is approaching its closure, with ",
+    "image": "https://img.etimg.com/photo/msid-132463512,imgsize-50780.cms",
     "source": "ET",
-    "pubDate": "Fri, 17 Jul 2026 15:41:57 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-96-28-vs-usd-logs-sharpest-weekly-drop-since-may-as-oil-price-jump-stings/articleshow/132458678.cms"
+    "pubDate": "Fri, 17 Jul 2026 19:49:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/zepto-ipo-anchor-book-nears-closure-norges-motilal-oswal-may-take-40-45-pc/articleshow/132463512.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ril-q1-results-live-updates-reliance-industries-ltd-q1-fy27-revenue-earning-net-profit-loss-bonus-shares-date-time/liveblog/132458673.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q1-results-pat-drops-14-yoy-to-rs-2806-crore-due-to-quick-commerce-spends-revenue-up-7-4-yoy/articleshow/132462433.cms",
     "category": "finance",
-    "title": "Reliance Industries Q1 Results Live: RIL to announce earnings today; EBITDA may rise up to 10% on O2C, Jio growth",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-132458673,imgsize-2020579.cms",
+    "title": "Reliance Retail Q1 results: Quick-commerce spends drag PAT 14% YoY to Rs 2,806 crore; revenue rises 7%",
+    "summary": "Reliance Retail Q1 Results: The company's EBITDA margin moderated 80 bps to 7.9% due to the growing contribution of digital commerce in revenue and associated infrastructure investments increasing fixed costs.",
+    "image": "https://img.etimg.com/photo/msid-132462433,imgsize-2428160.cms",
     "source": "ET",
-    "pubDate": "Fri, 17 Jul 2026 15:40:35 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ril-q1-results-live-updates-reliance-industries-ltd-q1-fy27-revenue-earning-net-profit-loss-bonus-shares-date-time/liveblog/132458673.cms"
+    "pubDate": "Fri, 17 Jul 2026 19:41:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q1-results-pat-drops-14-yoy-to-rs-2806-crore-due-to-quick-commerce-spends-revenue-up-7-4-yoy/articleshow/132462433.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/rs-9000-crore-bet-reliance-industries-promoters-increase-stake-by-0-5-in-june-quarter/articleshow/132458644.cms",
+    "id": "https://www.ndtv.com/offbeat/man-32-with-rs-4-5-crore-corpus-shares-what-he-got-wrong-in-life-i-dont-get-excited-11785357#publisher=newsstand",
+    "category": "india",
+    "title": "Man, 32, With Rs 4.5 Crore Corpus Shares What He Got 'Wrong' In Life: 'I Don't Get Excited'",
+    "summary": "32-year-old man shares wealth portfolio and warns about deferring health for financial goals.",
+    "image": "https://c.ndtvimg.com/2026-07/fkrjle2k_as_625x300_17_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Jul 2026 19:39:59 +0530",
+    "link": "https://www.ndtv.com/offbeat/man-32-with-rs-4-5-crore-corpus-shares-what-he-got-wrong-in-life-i-dont-get-excited-11785357#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/in-pm-narendra-modis-punjab-speech-references-to-drugs-and-tahir-hussain-11785294#publisher=newsstand",
+    "category": "india",
+    "title": "In PM Modi's Punjab Speech, References To Drugs And Tahir Hussain",
+    "summary": "The Prime Minister said crime and extortion have taken over the state.",
+    "image": "https://c.ndtvimg.com/2026-07/u0sb6pbs_pm-modi_625x300_17_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Jul 2026 19:39:56 +0530",
+    "link": "https://www.ndtv.com/india-news/in-pm-narendra-modis-punjab-speech-references-to-drugs-and-tahir-hussain-11785294#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/kuwait-says-army-personnel-injured-in-iranian-drone-attack-11785290#publisher=newsstand",
+    "category": "india",
+    "title": "Kuwait Says Army Personnel Injured In Iranian Drone Attack",
+    "summary": "Iran had earlier said it had struck Kuwait.",
+    "image": "https://c.ndtvimg.com/2026-07/iv6028ms_kuwait_625x300_17_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Jul 2026 19:29:42 +0530",
+    "link": "https://www.ndtv.com/world-news/kuwait-says-army-personnel-injured-in-iranian-drone-attack-11785290#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-jio-q1-results-ipo-bound-telcos-net-profit-rises-9-yoy-to-rs-7764-crore-arpu-climbs-to-rs-215-6/articleshow/132462455.cms",
     "category": "finance",
-    "title": "Rs 9,000 crore bet! Reliance Industries promoters increase stake by 0.5% in June quarter",
-    "summary": "Reliance Industries\u2019 promoters increased their stake to 50.48% in the June quarter through market purchases worth an estimated Rs 8,500\u20139,000 crore. The move signals confidence despite the stock\u2019s weak performance, earnings misses and challenges acro",
-    "image": "https://img.etimg.com/photo/msid-132458644,imgsize-39140.cms",
+    "title": "Reliance Jio Q1 Results: IPO-bound telco\u2019s net profit rises 9% YoY to Rs 7,764 crore; ARPU climbs to Rs 215.6",
+    "summary": "Reliance Jio Q1 Results: Average Revenue Per User (ARPU) stood at Rs 215.6 during the quarter under review, up from Rs 208.8 reported in the same period in the last fiscal year, and Rs 214 reported in Q4 FY26.",
+    "image": "https://img.etimg.com/photo/msid-132462455,imgsize-2131141.cms",
     "source": "ET",
-    "pubDate": "Fri, 17 Jul 2026 15:40:15 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-9000-crore-bet-reliance-industries-promoters-increase-stake-by-0-5-in-june-quarter/articleshow/132458644.cms"
+    "pubDate": "Fri, 17 Jul 2026 19:28:25 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-jio-q1-results-ipo-bound-telcos-net-profit-rises-9-yoy-to-rs-7764-crore-arpu-climbs-to-rs-215-6/articleshow/132462455.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/hang-seng-crashes-over-2-as-tech-selloff-hits-asia-markets-why-hong-kong-stocks-are-falling-on-friday/articleshow/132458594.cms",
+    "id": "https://www.ndtv.com/world-news/iran-strikes-us-airbase-in-qatar-to-punish-the-aggressor-11785273#publisher=newsstand",
+    "category": "india",
+    "title": "Iran Strikes US Airbase In Qatar \"To Punish The Aggressor\"",
+    "summary": "US-Iran strikes have erupted again. (Image for representation)",
+    "image": "https://c.ndtvimg.com/2026-02/306v6j9k_iran_625x300_28_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Jul 2026 19:28:07 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-strikes-us-airbase-in-qatar-to-punish-the-aggressor-11785273#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-capital-markets-hdfc-bank-among-4-book-runners-appointed-for-nlc-india-renewables-ipo/articleshow/132462911.cms",
     "category": "finance",
-    "title": "Hang Seng crashes over 2% as tech selloff hits Asia markets. Why Hong Kong stocks are falling on Friday?",
-    "summary": "Hong Kong's Hang Seng Index fell 2% by midday on Friday, weighed down by a global selloff in technology stocks as renewed inflation concerns dampened risk appetite. The Hang Seng Tech Index plunged 4%, with investors reducing exposure to technology a",
-    "image": "https://img.etimg.com/photo/msid-132458594,imgsize-214786.cms",
+    "title": "SBI Capital Markets, HDFC Bank among 4 book runners appointed for NLC India Renewables IPO",
+    "summary": "NLC India Renewables has engaged four investment banks to facilitate its much-anticipated initial public offering. This IPO is designed to enhance the company's capital structure, fueling its ambitious growth objectives. The firm aims to broaden its ",
+    "image": "https://img.etimg.com/photo/msid-132462911,imgsize-50108.cms",
     "source": "ET",
-    "pubDate": "Fri, 17 Jul 2026 15:38:34 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hang-seng-crashes-over-2-as-tech-selloff-hits-asia-markets-why-hong-kong-stocks-are-falling-on-friday/articleshow/132458594.cms"
+    "pubDate": "Fri, 17 Jul 2026 19:17:02 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-capital-markets-hdfc-bank-among-4-book-runners-appointed-for-nlc-india-renewables-ipo/articleshow/132462911.cms"
   },
   {
-    "id": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-17-july-us-iran-war-oil-prices-11782568#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/no-hatred-australia-vows-crackdown-on-racism-against-indian-truckers-11785234#publisher=newsstand",
     "category": "india",
-    "title": "Stock Market Highlights, Sensex Today: Sensex Closes 964 Points Higher, Tech Stocks Rally",
-    "summary": "Sensex Today, Stock Market, Nifty, Share Market Highlights",
-    "image": "https://c.ndtvimg.com/2026-05/tnm95cdg_investment-stock-market-pexels_625x300_15_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "'No Hatred': Australia Vows Crackdown On Racism Against Indian Truckers",
+    "summary": "The Indian community has grown increasingly vocal about safety concerns",
+    "image": "https://c.ndtvimg.com/2026-07/9qipoj4s_india-truck-drivers_625x300_11_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 15:35:02 +0530",
-    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-17-july-us-iran-war-oil-prices-11782568#publisher=newsstand"
+    "pubDate": "Fri, 17 Jul 2026 19:16:17 +0530",
+    "link": "https://www.ndtv.com/world-news/no-hatred-australia-vows-crackdown-on-racism-against-indian-truckers-11785234#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/mehbooba-mufti-jabs-centre-over-sonam-wangchuk-protest-bjp-hits-back-11784145#publisher=newsstand",
-    "category": "india",
-    "title": "Mehbooba Mufti Jabs Centre Over Sonam Wangchuk Protest, BJP Hits Back",
-    "summary": "Taking a swipe at the central governing for refusing to engage with the Cockroach Janta Party protesters at Delhi's Jantar Mantar, the PDP chief said that British may have left but \"colonial mindset seems to endure\".",
-    "image": "https://c.ndtvimg.com/2026-07/mpkaske_mehbooba-mufti-_625x300_17_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 15:33:53 +0530",
-    "link": "https://www.ndtv.com/india-news/mehbooba-mufti-jabs-centre-over-sonam-wangchuk-protest-bjp-hits-back-11784145#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-koreas-ai-driven-stock-frenzy-fuels-volatility-challenges-market-fundamentals/articleshow/132458499.cms",
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/indias-gold-jewellery-demand-revives-as-prices-stabilise-festive-orders-pick-up-wgc/articleshow/132462896.cms",
     "category": "finance",
-    "title": "Global Market: South Korea's AI-driven stock frenzy fuels volatility, challenges market fundamentals",
-    "summary": "The sharp swings have unsettled investors and regulators alike, with market movements increasingly driven by leveraged investment products rather than corporate fundamentals. The volatility has also complicated the assessment of South Korean equities",
-    "image": "https://img.etimg.com/photo/msid-132458499,imgsize-956002.cms",
+    "title": "India's gold jewellery demand revives as prices stabilise; festive orders pick up: WGC",
+    "summary": "India's gold jewellery demand is showing signs of recovery as stable prices and retailer discounts draw consumers back to stores, the World Gold Council said. Festive season orders have begun picking up, while gold ETF inflows and digital gold purcha",
+    "image": "https://img.etimg.com/photo/msid-132462896,imgsize-261224.cms",
     "source": "ET",
-    "pubDate": "Fri, 17 Jul 2026 15:33:46 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-koreas-ai-driven-stock-frenzy-fuels-volatility-challenges-market-fundamentals/articleshow/132458499.cms"
+    "pubDate": "Fri, 17 Jul 2026 19:14:49 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/indias-gold-jewellery-demand-revives-as-prices-stabilise-festive-orders-pick-up-wgc/articleshow/132462896.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/why-skyroot-aerospaces-vikram-1-launch-could-be-a-turning-point-for-india-11784138#publisher=newsstand",
-    "category": "india",
-    "title": "Why Skyroot's Vikram-1 Launch Could Be A Turning Point For India",
-    "summary": "Vikram-1 has the capacity to eventually put 300 kilograms into low Earth orbit.",
-    "image": "https://c.ndtvimg.com/2026-07/b6pm8q5c_vikram1_625x300_16_July_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 15:32:50 +0530",
-    "link": "https://www.ndtv.com/india-news/why-skyroot-aerospaces-vikram-1-launch-could-be-a-turning-point-for-india-11784138#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q1-results-profit-falls-22-yoy-to-rs-20946-crore-due-to-one-time-exceptional-item/articleshow/132462892.cms",
+    "category": "finance",
+    "title": "RIL Q1 Results: Revenue up 25% YoY; profit falls 22% YoY to Rs 20,946 cr due to one-time exceptional item",
+    "summary": "RIL Q1 Results:  Reliance Industries announces the Q1FY26 results, with a year-on-year profit decline due to exceptional item. Revenue from operations increased by twenty-five percent year-on-year to Rs 3.11 lakh crore. EBITDA also saw a ten percent ",
+    "image": "https://img.etimg.com/photo/msid-132462892,imgsize-2459298.cms",
+    "source": "ET",
+    "pubDate": "Fri, 17 Jul 2026 19:14:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q1-results-profit-falls-22-yoy-to-rs-20946-crore-due-to-one-time-exceptional-item/articleshow/132462892.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/wild-elephant-terrorising-andhra-villages-captured-after-month-long-hunt-11784119#publisher=newsstand",
-    "category": "india",
-    "title": "Wild Elephant Terrorising Andhra Villages Captured After Month-Long Hunt",
-    "summary": "Forest officials said the animal's movements were closely monitored for more than a month.",
-    "image": "https://c.ndtvimg.com/2026-07/tps036o4_elephant_625x300_17_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 15:28:25 +0530",
-    "link": "https://www.ndtv.com/india-news/wild-elephant-terrorising-andhra-villages-captured-after-month-long-hunt-11784119#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/jk-bank-sells-0-5-stake-in-pnb-metlife-for-rs-120-crore/articleshow/132462829.cms",
+    "category": "finance",
+    "title": "J&amp;K Bank sells 0.5% stake in PNB MetLife for Rs 120 crore",
+    "summary": "Jammu and Kashmir Bank has sold a 0.5% stake in PNB MetLife India Insurance to MetLife International Holdings for Rs 120 crore. The transaction reduces the bank\u2019s holding to 2.5% without changing control of the life insurance company.",
+    "image": "https://img.etimg.com/photo/msid-132462829,imgsize-337746.cms",
+    "source": "ET",
+    "pubDate": "Fri, 17 Jul 2026 19:12:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/jk-bank-sells-0-5-stake-in-pnb-metlife-for-rs-120-crore/articleshow/132462829.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-immigration-officer-in-maine-shooting-has-history-of-violent-behavio-report-11782489#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-lower-as-chip-rout-extends-netflix-slides/articleshow/132462708.cms",
+    "category": "finance",
+    "title": "US stocks today: US stocks open lower as chip rout extends",
+    "summary": "Wall Street opened lower as investors reassessed the strength of the AI-driven rally, triggering a fresh selloff in chip stocks. Nvidia and Intel declined, while Netflix dropped after a weak forecast. The Nasdaq led losses, reflecting pressure on tec",
+    "image": "https://img.etimg.com/photo/msid-132462708,imgsize-40636.cms",
+    "source": "ET",
+    "pubDate": "Fri, 17 Jul 2026 19:06:35 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-lower-as-chip-rout-extends-netflix-slides/articleshow/132462708.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/on-camera-elderly-man-slapped-by-auto-driver-after-argument-in-bengaluru-11784495#publisher=newsstand",
     "category": "india",
-    "title": "US Immigration Officer In Maine Shooting Has History Of Violent Behaviour: Report",
-    "summary": "ICE officer accused of violent past shot and killed a Colombian man in Maine",
-    "image": "https://c.ndtvimg.com/2026-07/hk3nf1gg_david-brouillette-_625x300_17_July_26.jpeg",
+    "title": "On Camera, Elderly Man Slapped By Auto Driver After Argument In Bengaluru",
+    "summary": "The exact location and date of the incident are yet to be verified",
+    "image": "https://c.ndtvimg.com/2026-07/2arre5uc_split_625x300_17_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 17 Jul 2026 15:13:29 +0530",
-    "link": "https://www.ndtv.com/world-news/us-immigration-officer-in-maine-shooting-has-history-of-violent-behavio-report-11782489#publisher=newsstand"
+    "pubDate": "Fri, 17 Jul 2026 19:03:21 +0530",
+    "link": "https://www.ndtv.com/india-news/on-camera-elderly-man-slapped-by-auto-driver-after-argument-in-bengaluru-11784495#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/russian-woman-says-india-living-in-2050-after-availing-medical-testing-facility-at-home-11785104#publisher=newsstand",
+    "category": "india",
+    "title": "Russian Woman Says 'India Living In 2050' After Availing Medical Testing Facility At Home",
+    "summary": "Foreigner lauds India's advanced medical testing with doorstep sample collection.",
+    "image": "https://c.ndtvimg.com/2026-07/uo6vjef_as_625x300_17_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 17 Jul 2026 18:51:00 +0530",
+    "link": "https://www.ndtv.com/offbeat/russian-woman-says-india-living-in-2050-after-availing-medical-testing-facility-at-home-11785104#publisher=newsstand"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1546026.html",
+    "category": "sports",
+    "title": "Openers, Mahedi and Rishad help Bangladesh keep series alive",
+    "summary": "Zimbabwe were sloppy in the field and lost wickets in clusters with the bat",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419900/419913.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 17 Jul 2026 14:35:20 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1546026.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c151gdjwd10o#0",
+    "category": "global",
+    "title": "Iran accuses US of hitting civilian infrastructure",
+    "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Jul 2026 14:32:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c0m70zremezo#0",
+    "category": "global",
+    "title": "My Left Foot and Home Alone 2 actress Brenda Fricker dies at 81",
+    "summary": "She won for her role in 1989 film My Left Foot and had well-loved parts in Home Alone 2 and TV's Casualty.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Jul 2026 14:29:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c0m70zremezo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cz7djw5dznpo#0",
+    "category": "global",
+    "title": "Zeffman: Burnham promises huge change - now to find out how he will deliver it",
+    "summary": "The next prime minister promised nothing less than the biggest change in British politics in 40 years in his first speech as Labour leader.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Jul 2026 13:52:20 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cz7djw5dznpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1546017.html",
+    "category": "sports",
+    "title": "Injury replacements trial tweaked by ECB after consultation",
+    "summary": "Replacements for injury or illness now only permitted in both teams' first innings; like-for-like stipulation only applies to skillset",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/416100/416144.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 17 Jul 2026 13:45:41 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1546017.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1546018.html",
+    "category": "sports",
+    "title": "Knott four, Ballinger three as Blaze rout Surrey in semi",
+    "summary": "Blast holders eliminated as Kathryn Bryce and Tammy Beaumont steer comfortable chase",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419900/419912.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 17 Jul 2026 13:45:02 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1546018.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545979.html",
+    "category": "sports",
+    "title": "LPL hit by franchise owner controversy hours before 2026 season opener",
+    "summary": "SLC said it would cooperate fully with local authorities following reports that an owner of the Jaffna Kings franchise had been arrested",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/385100/385176.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 17 Jul 2026 13:24:06 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545979.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1546006.html",
+    "category": "sports",
+    "title": "Andy Flower rules himself out of England Test job running",
+    "summary": "Flower has spoken with England men's managing director Rob Key but says he is not in contention",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/407200/407215.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 17 Jul 2026 13:21:34 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1546006.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1545978.html",
+    "category": "sports",
+    "title": "'Incredibly disappointing' - Associates criticise ICC's revamped ODI World Cup format",
+    "summary": "They argue that the newly introduced Super Series limits opportunities they have to compete and grow on the global stage",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/369500/369531.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 17 Jul 2026 13:08:41 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1545978.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy4kdd1e0ejo#0",
+    "category": "global",
+    "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+    "summary": "Researchers have found an Earth-like, rocky planet orbiting within the habitable zone of a distant star with an atmosphere.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Jul 2026 12:58:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cy4kdd1e0ejo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cq56ed827peo#0",
+    "category": "global",
+    "title": "German politician faces calls to resign over surrogacy child",
+    "summary": "Surrogacy is banned in Germany, a policy firmly backed by Jens Spahn's Christian Democrat party, and several years ago by Spahn, too.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Jul 2026 12:26:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq56ed827peo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c998v0g2v0vo#0",
+    "category": "global",
+    "title": "Boy attacked by zoo crocodile has had seven operations and is smiling again, say parents",
+    "summary": "The three-year-old's parents say the boy is making progress after seven operations in a month.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Jul 2026 12:14:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c998v0g2v0vo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1546007.html",
@@ -236,7 +356,7 @@
     "summary": "The India allrounder picked up an injury to his leg, leaving the door open for Kuldeep's return",
     "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419878.jpg",
     "source": "Cricinfo",
-    "pubDate": "Fri, 17 Jul 2026 12:04:09 GMT",
+    "pubDate": "Fri, 17 Jul 2026 12:12:11 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1546007.html?ex_cid=OTC-RSS"
   },
   {
@@ -248,36 +368,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 17 Jul 2026 12:01:06 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1545997.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o#0",
-    "category": "global",
-    "title": "Longest dry spell in 30 years for parts of England as heatwave hits two-week mark",
-    "summary": "All UK nations have experienced recent heatwave conditions but in southern England, the heatwave has now continued for 14 days",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 17 Jul 2026 11:58:03 GMT",
-    "link": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1546006.html",
-    "category": "sports",
-    "title": "Andy Flower rules himself out of England Test job running",
-    "summary": "Flower has spoken with England men's managing director Rob Key but says he is not in contention",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/407200/407215.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 17 Jul 2026 11:48:02 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1546006.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo#0",
-    "category": "global",
-    "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-    "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 17 Jul 2026 11:37:00 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo#0",
@@ -298,95 +388,5 @@
     "source": "BBC",
     "pubDate": "Fri, 17 Jul 2026 11:07:45 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c151gdjwd10o#0",
-    "category": "global",
-    "title": "Iran accuses US of hitting civilian infrastructure",
-    "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 17 Jul 2026 10:57:50 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545992.html",
-    "category": "sports",
-    "title": "Joe Denly to retire from professional cricket at end of 2026 season",
-    "summary": "Former England batter announces retirement at age of 40 after more than 20 years in the game",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/306200/306266.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 17 Jul 2026 10:37:53 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545992.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545990.html",
-    "category": "sports",
-    "title": "Unchanged Zimbabwe put Bangladesh in to bat",
-    "summary": "Bangladesh brought in Rishad Hossain for Nasum Ahmed",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/397100/397168.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 17 Jul 2026 10:35:21 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545990.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwyelj4zxn7o#0",
-    "category": "global",
-    "title": "Fans invited to line streets for Bonnie Tyler's funeral",
-    "summary": "Bonnie Tyler's coffin will be brought to her Mumbles home, with fans invited to \"pay their respects\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 17 Jul 2026 10:17:21 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwyelj4zxn7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545979.html",
-    "category": "sports",
-    "title": "LPL hit by franchise owner controversy hours before 2026 season opener",
-    "summary": "SLC said it would cooperate fully with local authorities following reports that an owner of the Jaffna Kings franchise had been arrested",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/385100/385176.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 17 Jul 2026 10:12:47 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545979.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545978.html",
-    "category": "sports",
-    "title": "'Incredibly disappointing' - Associates criticise ICC's revamped ODI World Cup format",
-    "summary": "They argue that the newly introduced Super Series limits opportunities they have to compete and grow on the global stage",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/369500/369531.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 17 Jul 2026 09:47:43 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545978.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545980.html",
-    "category": "sports",
-    "title": "ICC hands Nawaz three-month ban for breaching anti-doping code",
-    "summary": "\"Nawaz's records from the match against the Netherlands on 7 February and in subsequent matches until 1 May 2026 have been disqualified,\" an ICC release said",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/413600/413618.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 17 Jul 2026 09:47:40 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545980.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c62122pgjqdo#0",
-    "category": "global",
-    "title": "Five headaches Andy Burnham will have to deal with as PM",
-    "summary": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 17 Jul 2026 05:59:36 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cp8xn9exg8yo#0",
-    "category": "global",
-    "title": "Catfished student gets \u00a310k after photos used for fake dating profiles",
-    "summary": "Elha Mai Weston posed as the teenager to strike up romantic conversations on social media.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 17 Jul 2026 05:17:23 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cp8xn9exg8yo?at_medium=RSS&at_campaign=rss"
   }
 ]
