@@ -70,94 +70,184 @@
     "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
   },
   {
-    "id": "https://www.ndtv.com/delhi-news/want-to-drill-a-borewell-in-delhi-rainwater-harvesting-may-become-mandatory-11786951#publisher=newsstand",
-    "category": "india",
-    "title": "Want To Drill A Borewell In Delhi? Rainwater Harvesting May Become Mandatory",
-    "summary": "The proposal was announced by PWD and Water Minister Parvesh Sahib Singh Verma.",
-    "image": "https://c.ndtvimg.com/2025-07/k2sq9r9_parvesh-verma_625x300_19_July_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sat, 18 Jul 2026 06:17:21 +0530",
-    "link": "https://www.ndtv.com/delhi-news/want-to-drill-a-borewell-in-delhi-rainwater-harvesting-may-become-mandatory-11786951#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/new-mother-in-icu-after-mismatched-blood-transfusion-at-rajasthan-jodhpur-ummaid-hospital-11786925#publisher=newsstand",
-    "category": "india",
-    "title": "New Mother In ICU After Mismatched Blood Transfusion At Jodhpur Hospital",
-    "summary": "The woman is battling for her life after she was administered the wrong blood group following childbirth.",
-    "image": "https://i.ndtvimg.com/i/2016-08/icu-generic_650x400_61471662832.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sat, 18 Jul 2026 05:48:01 +0530",
-    "link": "https://www.ndtv.com/india-news/new-mother-in-icu-after-mismatched-blood-transfusion-at-rajasthan-jodhpur-ummaid-hospital-11786925#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/rss-is-civilizational-force-that-needs-no-certification-rajnath-singh-11786910#publisher=newsstand",
-    "category": "india",
-    "title": "\"RSS Is Civilizational Force That Needs No Certification\": Rajnath Singh",
-    "summary": "Rajnath Singh said that the Sangh has always operated with the spirit of 'Nation First.",
-    "image": "https://c.ndtvimg.com/2026-07/or3cgis4_rajnath-singh_625x300_18_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Sat, 18 Jul 2026 05:27:55 +0530",
-    "link": "https://www.ndtv.com/india-news/rss-is-civilizational-force-that-needs-no-certification-rajnath-singh-11786910#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/leather-jacket-worn-by-nvidia-ceo-jensen-huang-auctions-for-nearly-1-million-11786899#publisher=newsstand",
-    "category": "india",
-    "title": "Leather Jacket Worn By Nvidia CEO Auctions For Nearly $1 Million",
-    "summary": "Nvidia CEO Jensen Huang gives a speech during Nvidia/Japan AI Ecosystem Reception in Tokyo on July 16.",
-    "image": "https://c.ndtvimg.com/2026-07/af3rfcic_nvidia-ceo-jensen-huang_625x300_18_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Sat, 18 Jul 2026 05:14:27 +0530",
-    "link": "https://www.ndtv.com/world-news/leather-jacket-worn-by-nvidia-ceo-jensen-huang-auctions-for-nearly-1-million-11786899#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-strikes-iran-again-now-7-nights-in-a-row-11786666#publisher=newsstand",
-    "category": "india",
-    "title": "US Hits Iran 7th Night In Row, Tehran Replies With \"No Border Safe\" Warning",
-    "summary": "US said that strikes against Iran were designed to \"continue degrading Iranian military capabilities.\"",
-    "image": "https://c.ndtvimg.com/2026-07/occnece_us-army-iran-war_625x300_15_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Sat, 18 Jul 2026 04:56:02 +0530",
-    "link": "https://www.ndtv.com/world-news/us-strikes-iran-again-now-7-nights-in-a-row-11786666#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/elon-musks-spacex-in-talks-to-provide-computing-power-to-pentagon-report-11786877#publisher=newsstand",
-    "category": "india",
-    "title": "Elon Musk's SpaceX In Talks To Provide Computing Power To Pentagon: Report",
-    "summary": "Discussions between SpaceX and the Pentagon are ongoing and could still fall apart, WSJ reported.",
-    "image": "https://c.ndtvimg.com/2026-07/d8f6bdl4_spacex_625x300_18_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sat, 18 Jul 2026 04:45:50 +0530",
-    "link": "https://www.ndtv.com/world-news/elon-musks-spacex-in-talks-to-provide-computing-power-to-pentagon-report-11786877#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/smoke-fire-floods-us-faces-triple-extreme-summer-weather-threats-11786808#publisher=newsstand",
-    "category": "india",
-    "title": "Smoke, Fire, Floods: US Faces Triple Extreme Summer Weather Threats",
-    "summary": "Nearly 3.72 million acres (1.51 million hectares) have burned nationwide so far this year.",
-    "image": "https://c.ndtvimg.com/2026-07/0sg35rtc_us-wildfire_625x300_18_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Sat, 18 Jul 2026 03:10:49 +0530",
-    "link": "https://www.ndtv.com/world-news/smoke-fire-floods-us-faces-triple-extreme-summer-weather-threats-11786808#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/venezuela-earthquake-death-count-rises-to-more-than-5-000-11786786#publisher=newsstand",
-    "category": "india",
-    "title": "Venezuela Earthquake: Death Count Rises To More Than 5,000",
-    "summary": "The 7.2 and 7.5 magnitude quakes that struck on June 24 killed 5,069 people.",
-    "image": "https://c.ndtvimg.com/2026-07/b5v2uc9k_-venezuela-earthquake_625x300_18_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Sat, 18 Jul 2026 02:42:12 +0530",
-    "link": "https://www.ndtv.com/world-news/venezuela-earthquake-death-count-rises-to-more-than-5-000-11786786#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-for-the-day-and-week-as-chip-selloff-broadens/articleshow/132469580.cms",
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/xtranet-technologies-announces-ipo-dates-for-launch-next-week-check-details/articleshow/132474277.cms",
     "category": "finance",
-    "title": "US stocks today: Nasdaq, S&amp;P fall over 1%, end lower for week as chip selloff broadens",
-    "summary": "Wall Street declined as AI-driven chip stocks extended losses, triggering broader risk-off sentiment. Semiconductor shares saw sharp weekly declines, while energy stocks gained on rising oil prices amid Middle East tensions. Despite strong early earn",
-    "image": "https://img.etimg.com/photo/msid-132469580,imgsize-129966.cms",
+    "title": "Xtranet Technologies announces IPO dates for launch next week. Check details",
+    "summary": "Xtranet Technologies will launch its Rs 166.8 crore IPO on July 23 at a price band of Rs 120-127 per share. The issue, comprising a fresh issue of 1.31 crore shares, will fund debt repayment, capital expenditure and working capital, with listing sche",
+    "image": "https://img.etimg.com/photo/msid-132474277,imgsize-7792.cms",
     "source": "ET",
-    "pubDate": "Sat, 18 Jul 2026 01:34:39 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-for-the-day-and-week-as-chip-selloff-broadens/articleshow/132469580.cms"
+    "pubDate": "Sat, 18 Jul 2026 10:44:57 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/xtranet-technologies-announces-ipo-dates-for-launch-next-week-check-details/articleshow/132474277.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/longer-dated-yields-lower-after-data-on-track-for-weekly-decline/articleshow/132474217.cms",
+    "category": "finance",
+    "title": "Longer-dated yields lower after data, on track for weekly decline",
+    "summary": "Longer-dated U.S. Treasury yields declined on Friday after recent economic data. Markets largely priced out a Federal Reserve rate hike for this month. Import prices increased unexpectedly, while consumer and producer prices showed moderation. Geopol",
+    "image": "https://img.etimg.com/photo/msid-132474217,imgsize-23204.cms",
+    "source": "ET",
+    "pubDate": "Sat, 18 Jul 2026 10:38:13 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/longer-dated-yields-lower-after-data-on-track-for-weekly-decline/articleshow/132474217.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/sonam-wangchuk-latest-news-live-updates-sonam-wangchuk-hunger-strike-hospitalised-cjp-protest-11787071#publisher=newsstand",
+    "category": "india",
+    "title": "Sonam Wangchuk Hospitalised Live Updates: Sonam Wangchuk Is 'Weak But Stable', Says Safdarjung Hospital In Health Update",
+    "summary": "Sonam Wangchuk was on an an indefinite hunger strike for over 20 days.",
+    "image": "https://c.ndtvimg.com/2026-07/5ra2pjqc_sonam-wangchuk_625x300_18_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Jul 2026 10:36:50 +0530",
+    "link": "https://www.ndtv.com/india-news/sonam-wangchuk-latest-news-live-updates-sonam-wangchuk-hunger-strike-hospitalised-cjp-protest-11787071#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/how-sonam-wangchuk-was-whisked-away-by-cops-from-delhis-jantar-mantar-protest-site-in-civilian-clothes-hunger-strike-11787135#publisher=newsstand",
+    "category": "india",
+    "title": "How Sonam Wangchuk Was Whisked Away By Cops In Civilian Clothes",
+    "summary": "The police also appealed to protesters to vacate Jantar Mantar peacefully \"at the earliest\".",
+    "image": "https://c.ndtvimg.com/2026-07/snb15ja4_sonam-wangchuk_625x300_18_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Jul 2026 10:34:18 +0530",
+    "link": "https://www.ndtv.com/india-news/how-sonam-wangchuk-was-whisked-away-by-cops-from-delhis-jantar-mantar-protest-site-in-civilian-clothes-hunger-strike-11787135#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/czech-government-cuts-bond-issuance-plan-after-strong-demand-for-retail-bonds/articleshow/132474187.cms",
+    "category": "finance",
+    "title": "Czech government cuts bond issuance plan after strong demand for retail bonds",
+    "summary": "Czech Finance Ministry will reduce planned bond issuance by 130 billion crowns. This decision follows strong demand for retail bonds offered recently. Overall gross borrowing needs for 2026 remain largely unchanged. Two more retail bond offerings are",
+    "image": "https://img.etimg.com/photo/msid-132474187,imgsize-34828.cms",
+    "source": "ET",
+    "pubDate": "Sat, 18 Jul 2026 10:31:48 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/czech-government-cuts-bond-issuance-plan-after-strong-demand-for-retail-bonds/articleshow/132474187.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-settles-up-on-renewed-us-iran-hostilities-and-threat-of-red-sea-closure/articleshow/132474160.cms",
+    "category": "finance",
+    "title": "Oil settles up on renewed US-Iran hostilities and threat of Red Sea closure",
+    "summary": "Oil prices climbed significantly on Friday, reaching their highest point in over a month. Escalating hostilities between the United States and Iran intensified attacks across the Gulf region. Shipping routes face potential closure, impacting global o",
+    "image": "https://img.etimg.com/photo/msid-132474160,imgsize-46250.cms",
+    "source": "ET",
+    "pubDate": "Sat, 18 Jul 2026 10:29:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-settles-up-on-renewed-us-iran-hostilities-and-threat-of-red-sea-closure/articleshow/132474160.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-biggest-weekly-drop-since-early-june-on-inflation-rate-hike-worries/articleshow/132474140.cms",
+    "category": "finance",
+    "title": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries",
+    "summary": "Gold prices saw an increase on Friday, driven by escalating U.S.-Iran tensions. These geopolitical events fueled energy prices and inflation concerns, impacting market sentiment. Higher inflation fears reinforced expectations of potential U.S. intere",
+    "image": "https://img.etimg.com/photo/msid-132474140,imgsize-22218.cms",
+    "source": "ET",
+    "pubDate": "Sat, 18 Jul 2026 10:27:24 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-biggest-weekly-drop-since-early-june-on-inflation-rate-hike-worries/articleshow/132474140.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/tech-selloff-weighs-on-european-shares-ahead-of-ecb-meeting-next-week/articleshow/132474106.cms",
+    "category": "finance",
+    "title": "Tech selloff weighs on European shares ahead of ECB meeting next week",
+    "summary": "European stocks edged lower Friday, influenced by a global tech sell-off and Middle East tensions. Investors await the European Central Bank meeting and corporate earnings reports next week. Rising oil prices and subdued reactions to strong results c",
+    "image": "https://img.etimg.com/photo/msid-132474106,imgsize-88426.cms",
+    "source": "ET",
+    "pubDate": "Sat, 18 Jul 2026 10:24:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tech-selloff-weighs-on-european-shares-ahead-of-ecb-meeting-next-week/articleshow/132474106.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/education/comedk-counselling-2026-btech-choice-filling-deadline-extended-till-july-24-11787263#publisher=newsstand",
+    "category": "india",
+    "title": "COMEDK Counselling 2026: BTech Choice Filling Deadline Extended Till July 24",
+    "summary": "COMEDK extends BTech choice filling deadline to July 24.",
+    "image": "https://c.ndtvimg.com/2026-07/tokatkrk_comedk-2026_625x300_18_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Jul 2026 10:23:42 +0530",
+    "link": "https://www.ndtv.com/education/comedk-counselling-2026-btech-choice-filling-deadline-extended-till-july-24-11787263#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-5-ipos-opening-for-subscription-to-keep-investors-busy-sbi-funds-among-4-listings-scheduled/articleshow/132474048.cms",
+    "category": "finance",
+    "title": "IPO calendar: 5 IPOs opening for subscription to keep investors busy; SBI Funds among 4 listings scheduled",
+    "summary": "The IPO market will remain active next week with five public issues opening for subscription, including mainboard offerings from Xtranet Technologies and Cube Highways Trust InvIT. Investors will also watch four listings, led by SBI Funds Management,",
+    "image": "https://img.etimg.com/photo/msid-132474048,imgsize-33366.cms",
+    "source": "ET",
+    "pubDate": "Sat, 18 Jul 2026 10:17:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-5-ipos-opening-for-subscription-to-keep-investors-busy-sbi-funds-among-4-listings-scheduled/articleshow/132474048.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steels-q1-profit-soars-2x-yoy-on-robust-topline-growth/articleshow/132474031.cms",
+    "category": "finance",
+    "title": "JSW Steel\u2019s Q1 profit soars 2x YoY on robust topline growth",
+    "summary": "JSW Steel's profit more than doubled year-on-year to 4,696 crore in the June quarter. Robust revenue growth and higher volumes aided the company's strong financial performance. Consolidated revenue from operations rose around ten percent on year to 4",
+    "image": "https://img.etimg.com/photo/msid-132474031,imgsize-907982.cms",
+    "source": "ET",
+    "pubDate": "Sat, 18 Jul 2026 10:15:12 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steels-q1-profit-soars-2x-yoy-on-robust-topline-growth/articleshow/132474031.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/sonam-wanchuk-taken-to-hospital-for-essential-care-delhi-police-urges-protesters-to-vacate-jantar-mantar-11787089#publisher=newsstand",
+    "category": "india",
+    "title": "\"Sonam Wanchuk Taken For Essential Care\": Cops Urge Protesters To Vacate Jantar Mantar",
+    "summary": "",
+    "image": "https://c.ndtvimg.com/2026-07/ae051uks_sonam-wangchuk_625x300_18_July_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Jul 2026 10:14:59 +0530",
+    "link": "https://www.ndtv.com/india-news/sonam-wanchuk-taken-to-hospital-for-essential-care-delhi-police-urges-protesters-to-vacate-jantar-mantar-11787089#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/sonam-wangchuk-hospitalised-his-wife-gitanjali-angmo-says-no-treatment-without-her-consent-11787224#publisher=newsstand",
+    "category": "india",
+    "title": "Sonam Wangchuk Hospitalised, His Wife Says No Treatment Without Her Consent",
+    "summary": "Sonam Wangchuk, who had been on a hunger strike demanding the resignation of Education Minister Dharmendra Pradhan over alleged NEET paper leak, appeared fine on Friday, his wife said, questioning the need to hospitalise her husband.",
+    "image": "https://c.ndtvimg.com/2026-07/tqku2b8k_sonam-wangchuk-_625x300_18_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Jul 2026 10:07:45 +0530",
+    "link": "https://www.ndtv.com/india-news/sonam-wangchuk-hospitalised-his-wife-gitanjali-angmo-says-no-treatment-without-her-consent-11787224#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/bengaluru-mans-kind-gesture-for-first-time-flyer-at-delhi-airport-wins-hearts-online-11787262#publisher=newsstand",
+    "category": "india",
+    "title": "Bengaluru Man's Kind Gesture For First-Time Flyer At Delhi Airport Wins Hearts Online",
+    "summary": "Rayaz, a Bengaluru-based content creator, shared the video on his Instagram handle.",
+    "image": "https://c.ndtvimg.com/2026-07/lb7t2glo_viral-video_625x300_18_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Jul 2026 10:03:09 +0530",
+    "link": "https://www.ndtv.com/offbeat/bengaluru-mans-kind-gesture-for-first-time-flyer-at-delhi-airport-wins-hearts-online-11787262#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/spend-a-night-in-a-haunted-house-earn-88-000-yen-inside-japans-unusual-ghost-free-job-11787309#publisher=newsstand",
+    "category": "india",
+    "title": "Spend A Night In A Haunted House, Earn 88,000 Yen? Inside Japan's Unusual Ghost-Free Job",
+    "summary": "Landlords of properties where a death has taken place know who to call.",
+    "image": "https://c.ndtvimg.com/2026-07/hvthj69s_haunted-house_625x300_18_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Jul 2026 10:02:08 +0530",
+    "link": "https://www.ndtv.com/offbeat/spend-a-night-in-a-haunted-house-earn-88-000-yen-inside-japans-unusual-ghost-free-job-11787309#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/india-to-engage-with-us-on-revised-visa-policies-to-minimise-difficulties-11787184#publisher=newsstand",
+    "category": "india",
+    "title": "\"To Minimise Difficulties\": India To Engage With US On Revised Visa Policies",
+    "summary": "India addresses difficulties faced by its citizens under new US visa rules.",
+    "image": "https://c.ndtvimg.com/2025-07/9ndfd9ug_us-visa_625x300_11_July_25.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Jul 2026 10:01:23 +0530",
+    "link": "https://www.ndtv.com/world-news/india-to-engage-with-us-on-revised-visa-policies-to-minimise-difficulties-11787184#publisher=newsstand"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/czek5wl6p2go#0",
+    "category": "global",
+    "title": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
+    "summary": "\"Anya\" gives the BBC a rare account of how sex-criminal financier Epstein lured and abused his \u201cassistants\u201d.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 18 Jul 2026 05:10:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro#0",
+    "category": "global",
+    "title": "US strikes hit Iran for seventh consecutive night",
+    "summary": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 18 Jul 2026 04:40:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo#0",
@@ -170,26 +260,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro#0",
-    "category": "global",
-    "title": "US strikes hit Iran for seventh consecutive night",
-    "summary": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 18 Jul 2026 01:16:11 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q1-revenue-rises-but-profit-falls-as-e-commerce-weighs/articleshow/132465804.cms",
-    "category": "finance",
-    "title": "Reliance Retail Q1 revenue rises, but profit falls as e-commerce weighs",
-    "summary": "Reliance Retail's Q1 revenue rose 8.2% despite the FMCG demerger, while net profit fell 14.2% as e-commerce investments pressured margins. Reliance Consumer more than doubled revenue, driven by Campa and Independence, with rapid growth across grocery",
-    "image": "https://img.etimg.com/photo/msid-132465804,imgsize-56224.cms",
-    "source": "ET",
-    "pubDate": "Fri, 17 Jul 2026 22:16:57 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q1-revenue-rises-but-profit-falls-as-e-commerce-weighs/articleshow/132465804.cms"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o#0",
     "category": "global",
     "title": "White House defends Argentina team over Falklands banner",
@@ -198,46 +268,6 @@
     "source": "BBC",
     "pubDate": "Fri, 17 Jul 2026 22:12:54 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steels-profit-doubles-on-revenue-growth-beats-estimates/articleshow/132465171.cms",
-    "category": "finance",
-    "title": "JSW Steel\u2019s profit doubles on revenue growth, beats estimates",
-    "summary": "JSW Steel's profit more than doubled year-on-year to Rs 4,696 crore in the June quarter. Robust revenue growth and lower finance costs aided the company's strong financial performance. Consolidated revenue from operations rose around ten percent on y",
-    "image": "https://img.etimg.com/photo/msid-132465171,imgsize-39668.cms",
-    "source": "ET",
-    "pubDate": "Fri, 17 Jul 2026 21:49:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steels-profit-doubles-on-revenue-growth-beats-estimates/articleshow/132465171.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/netflix-shares-tumble-over-10-as-slowing-growth-less-viewership-data-spook-investors/articleshow/132465122.cms",
-    "category": "finance",
-    "title": "Netflix shares tumble over 10% as slowing growth, less viewership data spook investors",
-    "summary": "Netflix recently saw a significant drop in its share prices following a forecast that indicated slower revenue growth. Additionally, the streaming service announced it would cut back on reporting viewership statistics, which has raised investor anxie",
-    "image": "https://img.etimg.com/photo/msid-132465122,imgsize-499260.cms",
-    "source": "ET",
-    "pubDate": "Fri, 17 Jul 2026 21:33:46 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/netflix-shares-tumble-over-10-as-slowing-growth-less-viewership-data-spook-investors/articleshow/132465122.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-official-warns-of-broad-based-inflation-as-firms-urge-action/articleshow/132465098.cms",
-    "category": "finance",
-    "title": "US Fed official warns of 'broad-based' inflation as firms urge action",
-    "summary": "A top Federal Reserve official said Friday that stubbornly high inflation is her bigger concern right now, warning that firms are urging the US central bank to act against rising prices. \"Persistently high inflation is the bigger concern,\" she said.",
-    "image": "https://img.etimg.com/photo/msid-132465098,imgsize-94768.cms",
-    "source": "ET",
-    "pubDate": "Fri, 17 Jul 2026 21:33:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-official-warns-of-broad-based-inflation-as-firms-urge-action/articleshow/132465098.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/chipmakers-and-other-high-flying-stocks-slide-as-ai-trade-wobbles/articleshow/132465089.cms",
-    "category": "finance",
-    "title": "Chipmakers and other high-flying stocks slide as AI trade wobbles",
-    "summary": "As July commenced, global tech stocks faced a notable decline, predominantly driven by chip shares. This drop indicates investor profit-taking alongside worries regarding the sustainability of AI expenditures. The Philadelphia Semis Index is close to",
-    "image": "https://img.etimg.com/photo/msid-132465089,imgsize-1383397.cms",
-    "source": "ET",
-    "pubDate": "Fri, 17 Jul 2026 21:31:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/chipmakers-and-other-high-flying-stocks-slide-as-ai-trade-wobbles/articleshow/132465089.cms"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cjd45xmexnyo#0",
@@ -250,16 +280,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cjd45xmexnyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q1-takeaways-what-mukesh-ambani-said-on-jio-ipo-and-how-reliance-consumer-doubled-revenue/articleshow/132464398.cms",
-    "category": "finance",
-    "title": "RIL Q1 Takeaways: What Mukesh Ambani said on Jio IPO and how Reliance Consumer doubled revenue",
-    "summary": "Reliance Industries highlighted strong consumer business momentum in Q1 FY27, with Jio Platforms advancing towards its IPO and Reliance Consumer more than doubling revenue. Campa and Independence drove growth, while Jio posted higher ARPU, subscriber",
-    "image": "https://img.etimg.com/photo/msid-132464398,imgsize-181532.cms",
-    "source": "ET",
-    "pubDate": "Fri, 17 Jul 2026 20:46:36 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q1-takeaways-what-mukesh-ambani-said-on-jio-ipo-and-how-reliance-consumer-doubled-revenue/articleshow/132464398.cms"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1546051.html",
     "category": "sports",
     "title": "Tammy Beaumont, Sarah Bryce burn through run chase as The Blaze triumph",
@@ -268,16 +288,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 17 Jul 2026 20:37:23 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1546051.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-unseats-nvidia-to-become-worlds-most-valuable-company-as-ai-bets-shift/articleshow/132464148.cms",
-    "category": "finance",
-    "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
-    "summary": "In a remarkable turn of events, Apple has dethroned Nvidia to reclaim its status as the world's most valuable company. This change underscores a significant recalibration of investor perspectives regarding the artificial intelligence landscape, highl",
-    "image": "https://img.etimg.com/photo/msid-132464148,imgsize-123068.cms",
-    "source": "ET",
-    "pubDate": "Fri, 17 Jul 2026 20:26:01 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-unseats-nvidia-to-become-worlds-most-valuable-company-as-ai-bets-shift/articleshow/132464148.cms"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1546048.html",
@@ -338,16 +348,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 17 Jul 2026 17:12:01 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1546039.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4gjd9qww1eo#0",
-    "category": "global",
-    "title": "Bayeux Tapestry in 'wonderful state' after journey to London, French minister says",
-    "summary": "The French culture minister has told the BBC that the Bayeux Tapestry  is in \"a wonderful state\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 17 Jul 2026 17:07:24 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4gjd9qww1eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1546034.html",
