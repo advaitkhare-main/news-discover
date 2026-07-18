@@ -70,84 +70,134 @@
     "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
   },
   {
-    "id": "https://www.ndtv.com/india-news/skyroot-vikram-1-mission-aagaman-indias-1st-private-rocket-lifts-off-for-historic-mission-from-sriharikota-11787468#publisher=newsstand",
-    "category": "india",
-    "title": "Hello Space, Vikram-1 Has Arrived: Skyroot Scripts India's Historic Rocket Mission",
-    "summary": "The historic liftoff of Skyroot's Vikram-1 rocket",
-    "image": "https://c.ndtvimg.com/2026-07/6jifnc1c_vikram-1_625x300_18_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sat, 18 Jul 2026 12:39:50 +0530",
-    "link": "https://www.ndtv.com/india-news/skyroot-vikram-1-mission-aagaman-indias-1st-private-rocket-lifts-off-for-historic-mission-from-sriharikota-11787468#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-rebounds-to-64k-after-ai-led-selloff-triggers-crypto-rout-heres-what-experts-say/articleshow/132476886.cms",
+    "category": "finance",
+    "title": "Bitcoin rebounds to $64K after AI-led selloff triggers crypto rout. Here's what experts say",
+    "summary": "Bitcoin recovered towards $64,000 after an AI-driven selloff pushed the cryptocurrency below the $63,000 mark. Experts said risk-off sentiment weighed on crypto markets, though softer US inflation data helped revive investor confidence. Analysts high",
+    "image": "https://img.etimg.com/photo/msid-132476886,imgsize-295364.cms",
+    "source": "ET",
+    "pubDate": "Sat, 18 Jul 2026 14:24:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-rebounds-to-64k-after-ai-led-selloff-triggers-crypto-rout-heres-what-experts-say/articleshow/132476886.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/father-died-due-to-lack-of-timely-treatment-domestic-workers-daughter-clears-neet-11787735#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/delhi-rishikesh-namo-bharat-rail-project-transform-uttarakhand-delhi-uttar-pradesh-11779212#publisher=newsstand",
     "category": "india",
-    "title": "Father Died Due To Lack Of Timely Treatment, Domestic Worker's Daughter Clears NEET",
-    "summary": "Neelu scored 94% in the CBSE Class 12 board examinations this year before successfully clearing NEET.",
-    "image": "https://c.ndtvimg.com/2026-07/6apshick_neet-ug-2026-qualifier-nilu-with-her-family-members_625x300_18_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Delhi-Rishikesh Namo Bharat: How Rail Project Will Transform Two States",
+    "summary": "The Centre has given in-principle approval to extend Delhi-Meerut Regional Rapid Transit System from Modipuram in Meerut to Haridwar and Rishikesh.",
+    "image": "https://c.ndtvimg.com/2026-07/eh4t6m4s_namo-bharat_625x300_16_July_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Sat, 18 Jul 2026 12:38:41 +0530",
-    "link": "https://www.ndtv.com/education/father-died-due-to-lack-of-timely-treatment-domestic-workers-daughter-clears-neet-11787735#publisher=newsstand"
+    "pubDate": "Sat, 18 Jul 2026 14:17:30 +0530",
+    "link": "https://www.ndtv.com/india-news/delhi-rishikesh-namo-bharat-rail-project-transform-uttarakhand-delhi-uttar-pradesh-11779212#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/infiltration-bid-foiled-in-j-k-heavy-firing-along-loc-in-rajouri-11788023#publisher=newsstand",
+    "category": "india",
+    "title": "Infiltration Bid Foiled In J&K, Heavy Firing Along LoC In Rajouri",
+    "summary": "There were no reports of any casualties.",
+    "image": "https://i.ndtvimg.com/i/2018-03/security-forces-kashmir-generic_650x400_51520188882.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Jul 2026 14:12:01 +0530",
+    "link": "https://www.ndtv.com/india-news/infiltration-bid-foiled-in-j-k-heavy-firing-along-loc-in-rajouri-11788023#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/neet-ug-2026-madhya-pradesh-topper-aryaman-solanki-says-re-exam-improved-his-rank-11787970#publisher=newsstand",
+    "category": "india",
+    "title": "NEET UG 2026: Madhya Pradesh Topper Aryaman Solanki Says Re-Exam Improved His Rank",
+    "summary": "NEET UG 2026 AIR 46 Aryaman Solanki says the re-exam helped improve his rank and performance.",
+    "image": "https://c.ndtvimg.com/2026-07/votcmn8g_neet_625x300_18_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Jul 2026 14:05:25 +0530",
+    "link": "https://www.ndtv.com/education/neet-ug-2026-madhya-pradesh-topper-aryaman-solanki-says-re-exam-improved-his-rank-11787970#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q1-results-net-profit-surges-34-yoy-to-rs-1071-crore-nii-advances-18/articleshow/132476478.cms",
+    "category": "finance",
+    "title": "Yes Bank Q1 Results: Net profit surges 34% YoY to Rs 1,071 crore; NII advances 18%",
+    "summary": "Yes Bank Q1 Results:  Yes Bank reported a 34% YoY rise in Q1 FY27 standalone net profit to Rs 1,071 crore, while net interest income grew 17.5%. Asset quality improved year-on-year but saw a sequential uptick in NPAs. The bank said stronger core earn",
+    "image": "https://img.etimg.com/photo/msid-132476478,imgsize-515055.cms",
+    "source": "ET",
+    "pubDate": "Sat, 18 Jul 2026 13:56:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q1-results-net-profit-surges-34-yoy-to-rs-1071-crore-nii-advances-18/articleshow/132476478.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/passkeys-recovery-email-simple-steps-to-secure-your-whatsapp-account-11787971#publisher=newsstand",
+    "category": "india",
+    "title": "Passkeys, Recovery Email: Simple Steps To Secure Your WhatsApp Account",
+    "summary": "Protecting your account does not stop after you log in.",
+    "image": "https://c.ndtvimg.com/2023-08/496n8oh8_whatsapp-web_625x300_29_August_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Jul 2026 13:55:34 +0530",
+    "link": "https://www.ndtv.com/india-news/passkeys-recovery-email-simple-steps-to-secure-your-whatsapp-account-11787971#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/neet-ug-2026-result-father-runs-a-grocery-shop-three-children-from-bihars-saharsa-crack-neet-together-11787943#publisher=newsstand",
+    "category": "india",
+    "title": "Father Runs Grocery Shop, 3 Siblings From Bihar's Saharsa Crack NEET Together",
+    "summary": "NEET UG 2026 Result: The siblings credited their parents as the biggest contributors to their success.",
+    "image": "https://c.ndtvimg.com/2026-07/v4543els_neet-ug-2026-sucess-story-from-bihar_625x300_18_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 18 Jul 2026 13:47:25 +0530",
+    "link": "https://www.ndtv.com/education/neet-ug-2026-result-father-runs-a-grocery-shop-three-children-from-bihars-saharsa-crack-neet-together-11787943#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/india-news/skyroot-vikram-1-launch-live-updates-indias-1st-private-orbital-rocket-historic-takeoff-today-pm-modi-vande-mataram-message-space-sector-11787076#publisher=newsstand",
     "category": "india",
-    "title": "Skyroot's Vikram-1 Launch Live Updates: \"Grand Success\", Says Skyroot As Vikram-1 Successfully Releases Payload In Space",
+    "title": "Skyroot's Vikram-1 Launch Live Updates: \"Grand Success,\" Says Skyroot As Vikram-1 Successfully Releases Payload In Space",
     "summary": "Skyroot Vikram-1 Rocket Launch Live News Updates from Sriharikota",
-    "image": "https://c.ndtvimg.com/2026-07/ug4umg18_skyroot_625x300_18_July_26.jpeg",
+    "image": "https://c.ndtvimg.com/2026-07/33kilphs_vikram1-pti_625x300_18_July_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Sat, 18 Jul 2026 12:35:08 +0530",
+    "pubDate": "Sat, 18 Jul 2026 13:47:05 +0530",
     "link": "https://www.ndtv.com/india-news/skyroot-vikram-1-launch-live-updates-indias-1st-private-orbital-rocket-historic-takeoff-today-pm-modi-vande-mataram-message-space-sector-11787076#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/uk-graduate-route-visa-reduced-to-18-months-what-indian-students-need-to-know-11787698#publisher=newsstand",
+    "id": "https://www.ndtv.com/andhra-pradesh-news/nara-lokesh-as-tdp-worker-arrested-for-assaulting-woman-zero-tolerance-11787940#publisher=newsstand",
     "category": "india",
-    "title": "UK Graduate Route Visa Reduced To 18 Months: What Indian Students Need To Know",
-    "summary": "UK revises Graduate Route visa duration for new applicants.",
-    "image": "https://c.ndtvimg.com/2026-07/91aja384_uk-visa-changes_625x300_18_July_26.jpeg",
+    "title": "\"Zero Tolerance\": Nara Lokesh As TDP Worker Arrested For Assaulting Woman",
+    "summary": "Police registered a criminal case and arrested the accused.",
+    "image": "https://c.ndtvimg.com/2026-07/tk0hnmv4_andhra-woman-assault_625x300_18_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Sat, 18 Jul 2026 12:28:30 +0530",
-    "link": "https://www.ndtv.com/education/uk-graduate-route-visa-reduced-to-18-months-what-indian-students-need-to-know-11787698#publisher=newsstand"
+    "pubDate": "Sat, 18 Jul 2026 13:46:00 +0530",
+    "link": "https://www.ndtv.com/andhra-pradesh-news/nara-lokesh-as-tdp-worker-arrested-for-assaulting-woman-zero-tolerance-11787940#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/ugc-net-june-2026-answer-key-soon-nta-to-open-objection-window-after-key-release-11787389#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/mission-aagaman-you-made-india-proud-pm-modi-dials-in-to-join-skyroots-vikram-1-launch-celebrations-11787851#publisher=newsstand",
     "category": "india",
-    "title": "UGC NET June 2026 Answer Key Soon; NTA To Open Objection Window After Key Release",
-    "summary": "UGC NET June 2026 answer key expected soon; check exam dates, download process and objections.",
-    "image": "https://c.ndtvimg.com/2026-07/56rdunlg_ugc_625x300_18_July_26.jpeg",
+    "title": "\"Proved My Faith In India's Youth Right\": PM Modi Dials Skyroot Team After Historic Launch",
+    "summary": "PM Modi called Skyroot CEO Pawan Kumar Chandana",
+    "image": "https://c.ndtvimg.com/2026-07/j6uf5mic_pm-modi_625x300_18_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Sat, 18 Jul 2026 12:26:26 +0530",
-    "link": "https://www.ndtv.com/education/ugc-net-june-2026-answer-key-soon-nta-to-open-objection-window-after-key-release-11787389#publisher=newsstand"
+    "pubDate": "Sat, 18 Jul 2026 13:45:30 +0530",
+    "link": "https://www.ndtv.com/india-news/mission-aagaman-you-made-india-proud-pm-modi-dials-in-to-join-skyroots-vikram-1-launch-celebrations-11787851#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/skyroot-vikram-1-launch-3-2-1-lift-off-moment-indias-1st-private-space-rocket-took-off-watch-11787637#publisher=newsstand",
-    "category": "india",
-    "title": "\"3...2...1...Lift Off\": Moment India's 1st Private Space Rocket Took Off. Watch",
-    "summary": "Vikram-1 is India's first privately developed rocket.",
-    "image": "https://c.ndtvimg.com/2026-07/afdcmikg_vikram-1_625x300_18_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sat, 18 Jul 2026 12:22:58 +0530",
-    "link": "https://www.ndtv.com/india-news/skyroot-vikram-1-launch-3-2-1-lift-off-moment-indias-1st-private-space-rocket-took-off-watch-11787637#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/pnb-q1-results-net-profit-surges-214-yoy-to-rs-5253-crore-nii-up-2/articleshow/132475639.cms",
+    "category": "finance",
+    "title": "PNB Q1 Results: Net profit surges 214% YoY to Rs 5,253 crore; NII up 2%",
+    "summary": "PNB Q1 Results: Sequentially,  however, net profit rose marginally by a little over 0.5% QoQ from Rs 5,225 crore reported in the preceding three months.",
+    "image": "https://img.etimg.com/photo/msid-132475639,imgsize-187716.cms",
+    "source": "ET",
+    "pubDate": "Sat, 18 Jul 2026 13:41:36 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pnb-q1-results-net-profit-surges-214-yoy-to-rs-5253-crore-nii-up-2/articleshow/132475639.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/10-big-firsts-of-vikram-1-and-mission-aagaman-by-skyroot-11787010#publisher=newsstand",
-    "category": "india",
-    "title": "10 Big Firsts Of Vikram-1 And 'Mission Aagaman' By Skyroot",
-    "summary": "India's first private orbital rocket Vikram-1 by Skyroot Aerospace is ready for launch.",
-    "image": "https://c.ndtvimg.com/2026-07/e7ij1ado_skyroots-vikram1_625x300_18_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sat, 18 Jul 2026 12:19:34 +0530",
-    "link": "https://www.ndtv.com/india-news/10-big-firsts-of-vikram-1-and-mission-aagaman-by-skyroot-11787010#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-retail-raise-stakes-in-q1-12-stocks-rally-up-to-135-5-turn-multibaggers/slideshow/132476369.cms",
+    "category": "finance",
+    "title": "FIIs, retail raise stakes in Q1; 12 stocks rally up to 135%, 5 turn multibaggers",
+    "summary": "FIIs and retail investors increased stakes in 88 stocks during Q1FY27. ETMarkets highlights 12 stocks that rallied up to 135% in six months, including five multibaggers.",
+    "image": "https://img.etimg.com/photo/msid-132476280,imgsize-12982.cms",
+    "source": "ET",
+    "pubDate": "Sat, 18 Jul 2026 13:34:47 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-retail-raise-stakes-in-q1-12-stocks-rally-up-to-135-5-turn-multibaggers/slideshow/132476369.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/skyroot-vikram-1-launch-mars-moon-sun-sea-indias-space-achievements-as-vikram-1-lifts-off-11787666#publisher=newsstand",
-    "category": "india",
-    "title": "Mars, Moon, Sun, Sea: India's Space Achievements As Vikram-1 Lifts Off",
-    "summary": "India's first privately developed orbital-class rocket.",
-    "image": "https://c.ndtvimg.com/2026-07/b6pm8q5c_vikram1_625x300_16_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sat, 18 Jul 2026 12:18:48 +0530",
-    "link": "https://www.ndtv.com/india-news/skyroot-vikram-1-launch-mars-moon-sun-sea-indias-space-achievements-as-vikram-1-lifts-off-11787666#publisher=newsstand"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q1-results-net-profit-climbs-26-yoy-to-rs-4123-crore-nii-rises-9/articleshow/132475694.cms",
+    "category": "finance",
+    "title": "Kotak Mahindra Bank Q1 Results: Net profit climbs 26% YoY to Rs 4,123 crore; NII rises 9%",
+    "summary": "Kotak Mahindra Bank Q1 Results:  Kotak Mahindra Bank reported a 26% YoY rise in Q1 FY27 standalone net profit to Rs 4,123 crore, while NII increased 9%. Asset quality improved year-on-year, with gross and net NPAs declining, though margins moderated ",
+    "image": "https://img.etimg.com/photo/msid-132475694,imgsize-126108.cms",
+    "source": "ET",
+    "pubDate": "Sat, 18 Jul 2026 13:01:17 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q1-results-net-profit-climbs-26-yoy-to-rs-4123-crore-nii-rises-9/articleshow/132475694.cms"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q1-results-net-profit-rises-23-yoy-to-rs-7114-crore-nii-up-8/articleshow/132474844.cms",
@@ -180,54 +230,34 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-13-smallcap-stocks-that-gain-for-5-days-in-a-row/slideshow/132474793.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/agentic-ai-alternative-data-and-sifs-take-centre-stage-at-indian-institutional-quant-conference-2026/articleshow/132474311.cms",
-    "category": "finance",
-    "title": "Agentic AI, alternative data and SIFs take centre stage at Indian Institutional Quant Conference 2026",
-    "summary": "Agentic AI, alternative data and Specialised Investment Funds (SIFs) dominated discussions at the Indian Institutional Quant Conference 2026, where industry leaders, academics and policymakers explored the evolving role of quantitative investing, AI-",
-    "image": "https://img.etimg.com/photo/msid-132474311,imgsize-2511964.cms",
-    "source": "ET",
-    "pubDate": "Sat, 18 Jul 2026 10:50:36 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/agentic-ai-alternative-data-and-sifs-take-centre-stage-at-indian-institutional-quant-conference-2026/articleshow/132474311.cms"
+    "id": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o#0",
+    "category": "global",
+    "title": "Burnham to announce plans for new North Sea oil and gas drilling",
+    "summary": "Drilling has become a controversial topic for the Labour party after the 2024 manifesto pledged to not issue new licences.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sat, 18 Jul 2026 08:59:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/xtranet-technologies-announces-ipo-dates-for-launch-next-week-check-details/articleshow/132474277.cms",
-    "category": "finance",
-    "title": "Xtranet Technologies announces IPO dates for launch next week. Check details",
-    "summary": "Xtranet Technologies will launch its Rs 166.8 crore IPO on July 23 at a price band of Rs 120-127 per share. The issue, comprising a fresh issue of 1.31 crore shares, will fund debt repayment, capital expenditure and working capital, with listing sche",
-    "image": "https://img.etimg.com/photo/msid-132474277,imgsize-7792.cms",
-    "source": "ET",
-    "pubDate": "Sat, 18 Jul 2026 10:44:57 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/xtranet-technologies-announces-ipo-dates-for-launch-next-week-check-details/articleshow/132474277.cms"
+    "id": "https://www.cricinfo.com/ci/content/story/1546007.html",
+    "category": "sports",
+    "title": "Washington out of India's third ODI against England",
+    "summary": "The India allrounder picked up an injury to his leg, leaving the door open for Kuldeep's return",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419878.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 18 Jul 2026 08:55:17 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1546007.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/longer-dated-yields-lower-after-data-on-track-for-weekly-decline/articleshow/132474217.cms",
-    "category": "finance",
-    "title": "Longer-dated yields lower after data, on track for weekly decline",
-    "summary": "Longer-dated U.S. Treasury yields declined on Friday after recent economic data. Markets largely priced out a Federal Reserve rate hike for this month. Import prices increased unexpectedly, while consumer and producer prices showed moderation. Geopol",
-    "image": "https://img.etimg.com/photo/msid-132474217,imgsize-23204.cms",
-    "source": "ET",
-    "pubDate": "Sat, 18 Jul 2026 10:38:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/longer-dated-yields-lower-after-data-on-track-for-weekly-decline/articleshow/132474217.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/czech-government-cuts-bond-issuance-plan-after-strong-demand-for-retail-bonds/articleshow/132474187.cms",
-    "category": "finance",
-    "title": "Czech government cuts bond issuance plan after strong demand for retail bonds",
-    "summary": "Czech Finance Ministry will reduce planned bond issuance by 130 billion crowns. This decision follows strong demand for retail bonds offered recently. Overall gross borrowing needs for 2026 remain largely unchanged. Two more retail bond offerings are",
-    "image": "https://img.etimg.com/photo/msid-132474187,imgsize-34828.cms",
-    "source": "ET",
-    "pubDate": "Sat, 18 Jul 2026 10:31:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/czech-government-cuts-bond-issuance-plan-after-strong-demand-for-retail-bonds/articleshow/132474187.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-settles-up-on-renewed-us-iran-hostilities-and-threat-of-red-sea-closure/articleshow/132474160.cms",
-    "category": "finance",
-    "title": "Oil settles up on renewed US-Iran hostilities and threat of Red Sea closure",
-    "summary": "Oil prices climbed significantly on Friday, reaching their highest point in over a month. Escalating hostilities between the United States and Iran intensified attacks across the Gulf region. Shipping routes face potential closure, impacting global o",
-    "image": "https://img.etimg.com/photo/msid-132474160,imgsize-46250.cms",
-    "source": "ET",
-    "pubDate": "Sat, 18 Jul 2026 10:29:43 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-settles-up-on-renewed-us-iran-hostilities-and-threat-of-red-sea-closure/articleshow/132474160.cms"
+    "id": "https://www.cricinfo.com/ci/content/story/1546074.html",
+    "category": "sports",
+    "title": "Refreshed Knight Riders face usual suspects Freedom in MLC final",
+    "summary": "Knight Riders have a four-day gap ahead of the game which could be pivotal in the quest for their first title",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419900/419935.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sat, 18 Jul 2026 08:21:17 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1546074.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro#0",
@@ -240,16 +270,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o#0",
-    "category": "global",
-    "title": "Burnham to announce plans for new North Sea oil and gas drilling",
-    "summary": "Drilling has become a controversial topic for the Labour party after the 2024 manifesto pledged to not issue new licenses.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 18 Jul 2026 06:53:04 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/czek5wl6p2go#0",
     "category": "global",
     "title": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
@@ -258,16 +278,6 @@
     "source": "BBC",
     "pubDate": "Sat, 18 Jul 2026 05:10:44 GMT",
     "link": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo#0",
-    "category": "global",
-    "title": "Defiant Tuchel stands by decisions and says loss is 'scar we carry now'",
-    "summary": "England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sat, 18 Jul 2026 02:50:36 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo#1",
@@ -290,9 +300,19 @@
     "link": "https://www.bbc.co.uk/weather/articles/c07rex9p7x2o?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/cdr4rrzypymo#1",
+    "category": "global",
+    "title": "16 viral moments - from Posh Spice's slow reaction to Haaland's bromance",
+    "summary": "We look at some of the most memorable scenes during the 2026 World Cup that set the internet alight.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 17 Jul 2026 23:40:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cdr4rrzypymo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o#0",
     "category": "global",
-    "title": "White House defends Argentina team over Falklands banner",
+    "title": "White House backs Argentina team over Falklands banner",
     "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -368,25 +388,5 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 17 Jul 2026 16:46:42 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1546034.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1545925.html",
-    "category": "sports",
-    "title": "Rohit Sharma's international future hangs in the balance",
-    "summary": "India selectors tell 39-year-old batter he is not part of 2027 World Cup plans",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/397900/397962.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 17 Jul 2026 16:42:28 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1545925.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1546037.html",
-    "category": "sports",
-    "title": "Chris Lynn fit for Northamptonshire's Finals Day tilt",
-    "summary": "Tom Banton (Somerset) and Liam Dawson (Hampshire) have been released to play by England",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/417600/417673.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 17 Jul 2026 16:39:42 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1546037.html?ex_cid=OTC-RSS"
   }
 ]
