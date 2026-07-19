@@ -100,6 +100,16 @@
     "link": "https://www.ndtv.com/india-news/girl-4-kidnapped-from-railway-station-in-gujarat-found-murdered-11793244#publisher=newsstand"
   },
   {
+    "id": "https://www.cricinfo.com/ci/content/story/1546304.html",
+    "category": "sports",
+    "title": "Gill puts spotlight on India's fitness record",
+    "summary": "India's captain said the squad will need greater resilience for when next year's World Cup comes around",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420000/420002.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 19 Jul 2026 23:49:36 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1546304.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand",
     "category": "india",
     "title": "US-Iran War News LIVE: India Issues Travel Advisory As US Strikes Iran For 8th Straight Day",
@@ -130,7 +140,27 @@
     "link": "https://www.ndtv.com/world-news/israel-vows-full-force-response-if-iran-fires-missiles-11793151#publisher=newsstand"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cy8m7k98p3no#1",
+    "id": "https://www.cricinfo.com/ci/content/story/1546301.html",
+    "category": "sports",
+    "title": "Chapman, Santner star in low-scoring thriller as NZ take series",
+    "summary": "The visitors just about held their nerve in a chase of 189 to take an unassailable 3-1 lead in the ODI series",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420000/420054.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 19 Jul 2026 23:21:12 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1546301.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cr59mqnm081o#0",
+    "category": "global",
+    "title": "Fire crews battling blaze on Arthur\u2019s Seat in Edinburgh",
+    "summary": "A huge plume of smoke could be seen from as far away as Fife on Sunday evening.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Sun, 19 Jul 2026 20:49:32 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr59mqnm081o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy8m7k98p3no#0",
     "category": "global",
     "title": "Burnham to promise 'more breathing room' for people in first speech as PM",
     "summary": "The Labour leader will say he is \"acutely conscious\" of the UK's high turnover of prime ministers, as he becomes the seventh in 10 years on Monday.",
@@ -140,7 +170,7 @@
     "link": "https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cgk417jp83po#1",
+    "id": "https://www.bbc.co.uk/news/articles/cgk417jp83po#0",
     "category": "global",
     "title": "US soldier killed and one injured after Iranian attack in Iraq",
     "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
@@ -160,7 +190,7 @@
     "link": "https://www.cricinfo.com/ci/content/story/1546247.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cx278ed09nzo#1",
+    "id": "https://www.bbc.co.uk/news/articles/cx278ed09nzo#0",
     "category": "global",
     "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
     "summary": "The BBC understands creditors would would pursue payment in full of the outstanding debts, in the multi-billions of pounds.",
@@ -170,7 +200,7 @@
     "link": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo#1",
+    "id": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo#0",
     "category": "global",
     "title": "Russia launches major ballistic missile attack on Ukrainian cities",
     "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
@@ -210,7 +240,7 @@
     "link": "https://www.cricinfo.com/ci/content/story/1546248.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o#1",
+    "id": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o#0",
     "category": "global",
     "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
     "summary": "The newlyweds were first linked in 2023 after Healy's brief relationship with Taylor Swift.",
@@ -270,7 +300,7 @@
     "link": "https://www.cricinfo.com/ci/content/story/1546207.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cwymly9yd33o#1",
+    "id": "https://www.bbc.co.uk/news/articles/cwymly9yd33o#0",
     "category": "global",
     "title": "Tate brothers arrested in US as further UK charges take total to 59",
     "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
@@ -330,7 +360,7 @@
     "link": "https://www.cricinfo.com/ci/content/story/1546193.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/crmrznw82j4o#1",
+    "id": "https://www.bbc.co.uk/news/articles/crmrznw82j4o#0",
     "category": "global",
     "title": "Neighbours actor Terence Donovan dies aged 90",
     "summary": "His son, actor Jason Donovan, posted to social media that his father died on Saturday night peacefully in Melbourne, Australia",
@@ -338,36 +368,6 @@
     "source": "BBC",
     "pubDate": "Sun, 19 Jul 2026 08:18:32 GMT",
     "link": "https://www.bbc.co.uk/news/articles/crmrznw82j4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1546180.html",
-    "category": "sports",
-    "title": "Hope wants West Indies to get 'the results we really want' to honour Sobers",
-    "summary": "West Indies are 2-1 down in the five-match series against New Zealand, and need more wins to ensure direct qualification for the 2027 ODI World Cup",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419700/419709.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 19 Jul 2026 06:52:54 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1546180.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1546178.html",
-    "category": "sports",
-    "title": "Los Angeles Knight Riders pull off last-ball win for first MLC title",
-    "summary": "The see-sawing match went down to the final over, bowled by Shadley van Schalkwyk, and then to the last ball, before a run out gave Los Angeles Knight Riders a one-run win",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419900/419996.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 19 Jul 2026 04:19:50 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1546178.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cpd3dd3vv65o#1",
-    "category": "global",
-    "title": "Record numbers of honours for working class heroes",
-    "summary": "Record numbers of people from poorer backgrounds are now receiving awards.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Sun, 19 Jul 2026 01:56:10 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cpd3dd3vv65o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.ndtv.com/world-news/another-american-soldier-killed-in-us-iran-war-was-detonating-iranian-drone-11793448#publisher=newsstand",
