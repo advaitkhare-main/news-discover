@@ -70,184 +70,274 @@
     "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1546301.html",
-    "category": "sports",
-    "title": "Chapman, Santner star in low-scoring thriller as NZ take series",
-    "summary": "The visitors just about held their nerve in a chase of 189 to take an unassailable 3-1 lead in the ODI series",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/420000/420054.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 19 Jul 2026 23:21:12 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1546301.html?ex_cid=OTC-RSS"
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-imposes-rs-1-crore-penalty-on-cdsl-over-2022-malware-attack/articleshow/132518202.cms",
+    "category": "finance",
+    "title": "Sebi imposes Rs 1 crore penalty on CDSL over 2022 malware attack",
+    "summary": "Sebi has imposed a Rs 1 crore penalty on CDSL for cybersecurity failures that enabled a 2022 malware attack, disrupting depository operations and market settlements. The regulator cited inadequate protection of critical systems, weak access controls ",
+    "image": "https://img.etimg.com/photo/msid-132518202,imgsize-55652.cms",
+    "source": "ET",
+    "pubDate": "Mon, 20 Jul 2026 20:11:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-imposes-rs-1-crore-penalty-on-cdsl-over-2022-malware-attack/articleshow/132518202.cms"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o#2",
+    "id": "https://www.ndtv.com/india-news/cjp-protest-in-delhi-live-cockroach-janta-party-parliament-protest-abhijeet-dipke-jantar-mantar-sonam-wangchuk-parliament-monsoon-session-saurav-das-11794314#publisher=newsstand",
+    "category": "india",
+    "title": "CJP Parliament March LIVE Updates: \"Protests To Continue,\" Says CJP After Meeting With JP Nadda",
+    "summary": "CJP Parliament March LIVE",
+    "image": "https://tvdata.s2.apps.ndtv.com/data/images/PTI07_20_2026_000286B.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 20 Jul 2026 19:41:58 +0530",
+    "link": "https://www.ndtv.com/india-news/cjp-protest-in-delhi-live-cockroach-janta-party-parliament-protest-abhijeet-dipke-jantar-mantar-sonam-wangchuk-parliament-monsoon-session-saurav-das-11794314#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/techie-rejected-12-times-before-landing-job-at-google-shares-inspiring-journey-11797028#publisher=newsstand",
+    "category": "india",
+    "title": "Techie Rejected 12 Times Before Landing Job At Google, Shares Inspiring Journey",
+    "summary": "The techie also suggested messaging managers of target companies.",
+    "image": "https://c.ndtvimg.com/2026-07/n66nf7io_google_625x300_20_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 20 Jul 2026 19:39:43 +0530",
+    "link": "https://www.ndtv.com/offbeat/techie-rejected-12-times-before-landing-job-at-google-shares-inspiring-journey-11797028#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/steptrades-pre-ipo-fund-secures-rs-100-crore-in-first-close/articleshow/132517531.cms",
+    "category": "finance",
+    "title": "Steptrade\u2019s pre-IPO fund secures Rs 100 crore in first close",
+    "summary": "Steptrade Capital has raised over Rs 100 crore in the first close of its Rs 500 crore Chanakya Opportunities Fund II. The Category II AIF will invest in growth-stage pre-IPO companies across manufacturing, energy transition and emerging technology se",
+    "image": "https://img.etimg.com/photo/msid-132517531,imgsize-82608.cms",
+    "source": "ET",
+    "pubDate": "Mon, 20 Jul 2026 19:36:49 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/steptrades-pre-ipo-fund-secures-rs-100-crore-in-first-close/articleshow/132517531.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/4-die-after-entering-abandoned-well-to-rescue-calf-in-haryanas-munimpur-village-11795500#publisher=newsstand",
+    "category": "india",
+    "title": "4 Die After Entering Abandoned Well To Rescue Calf In Haryana Village",
+    "summary": "The incident took place on Sunday evening in Munimpur village.",
+    "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 20 Jul 2026 19:20:11 +0530",
+    "link": "https://www.ndtv.com/india-news/4-die-after-entering-abandoned-well-to-rescue-calf-in-haryanas-munimpur-village-11795500#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/sonam-wangchuk-says-will-continue-hunger-strike-hours-after-government-meets-protesters-11796749#publisher=newsstand",
+    "category": "india",
+    "title": "\"I Will Continue My Fast\": Sonam Wangchuk After Government Meets Protesters",
+    "summary": "Sonam Wangchuk has been admitted in a Delhi hospital",
+    "image": "https://c.ndtvimg.com/2026-07/m3fdn6k4_sonam-wangchuk-ani_625x300_19_July_26.jpg",
+    "source": "NDTV",
+    "pubDate": "Mon, 20 Jul 2026 19:18:48 +0530",
+    "link": "https://www.ndtv.com/india-news/sonam-wangchuk-says-will-continue-hunger-strike-hours-after-government-meets-protesters-11796749#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/tear-gassing-lathicharging-students-not-indias-way-rahul-gandhi-on-cjp-march-11796865#publisher=newsstand",
+    "category": "india",
+    "title": "\"Tear-Gassing, Lathicharging Students Not India's Way\": Rahul Gandhi On CJP March",
+    "summary": "The Delhi Police fired tear gas and baton-charged protesters on Monday as they tried to march on parliament to demand the resignation of Education Minister Dharmendra Pradhan over irregularities in major examinations, including question paper leaks a",
+    "image": "https://c.ndtvimg.com/2026-07/tmr6f10o_rahul-gandhi-cjp-protest-_650x400_20_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 20 Jul 2026 19:17:30 +0530",
+    "link": "https://www.ndtv.com/india-news/tear-gassing-lathicharging-students-not-indias-way-rahul-gandhi-on-cjp-march-11796865#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/inflatiopn-economy-middle-east-rbi-flags-conflict-monsoon-risks-are-these-already-pushing-up-inflation-11796889#publisher=newsstand",
+    "category": "india",
+    "title": "RBI Flags Conflict, Monsoon Risks. These May Already Be Pushing Inflation",
+    "summary": "The RBI has already revised its inflation outlook upward.",
+    "image": "https://c.ndtvimg.com/2026-07/soovr37k_datafy-inflation-_625x300_20_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 20 Jul 2026 19:15:33 +0530",
+    "link": "https://www.ndtv.com/india-news/inflatiopn-economy-middle-east-rbi-flags-conflict-monsoon-risks-are-these-already-pushing-up-inflation-11796889#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stock-opens-higher-as-chips-recover-megacap-earnings-loom/articleshow/132517043.cms",
+    "category": "finance",
+    "title": "US stocks today: US stocks open higher as chips recover, megacap earnings loom",
+    "summary": "Wall Street opened higher as chip stocks rebounded from last week\u2019s sharp decline, supporting gains across major indexes. Investors are now focused on upcoming earnings from leading technology companies driving the AI rally, with sentiment stabilisin",
+    "image": "https://img.etimg.com/photo/msid-132517043,imgsize-300714.cms",
+    "source": "ET",
+    "pubDate": "Mon, 20 Jul 2026 19:06:04 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stock-opens-higher-as-chips-recover-megacap-earnings-loom/articleshow/132517043.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/sobha-ltd-q1-results-profit-jumps-over-3-fold-to-rs-51-crore-revenue-rises-to-rs-1330-crore/articleshow/132516958.cms",
+    "category": "finance",
+    "title": "Sobha Ltd Q1 Results: Profit jumps over 3-fold to Rs 51 crore, revenue rises to Rs 1,330 crore",
+    "summary": "Sobha Ltd experienced remarkable growth in net profit for the June quarter, seeing a threefold increase compared to last year. Significant gains in total income were reported, alongside record-breaking quarterly sales attributed to new project launch",
+    "image": "https://img.etimg.com/photo/msid-132516958,imgsize-88564.cms",
+    "source": "ET",
+    "pubDate": "Mon, 20 Jul 2026 19:02:34 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sobha-ltd-q1-results-profit-jumps-over-3-fold-to-rs-51-crore-revenue-rises-to-rs-1330-crore/articleshow/132516958.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/opinion/the-5-piece-set-chinas-naval-air-power-is-growing-faster-than-india-can-ignore-11796056#publisher=newsstand",
+    "category": "india",
+    "title": "Opinion: Opinion | Not Just Jets, China Is Developing A '5-Piece' Carrier Set, And India Should Worry",
+    "summary": "China is now the only state serially producing two distinct stealth fighter families simultaneously, with some estimates projecting that advanced-fighter output across all jet programmes could reach 300-400 aircraft annually by 2027.",
+    "image": "https://c.ndtvimg.com/2024-05/hac7a7ro_fujian-_625x300_10_May_24.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 20 Jul 2026 18:57:51 +0530",
+    "link": "https://www.ndtv.com/opinion/the-5-piece-set-chinas-naval-air-power-is-growing-faster-than-india-can-ignore-11796056#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/united-states-and-cuba-relations-us-says-cuba-infiltrated-highest-reaches-of-american-government-11796771#publisher=newsstand",
+    "category": "india",
+    "title": "US Says Cuba Infiltrated \"Highest Reaches\" Of American Government",
+    "summary": "US Secretary of State Marco Rubio.",
+    "image": "https://c.ndtvimg.com/2025-03/4ppk59jo_marco-rubio_625x300_13_March_25.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 20 Jul 2026 18:51:46 +0530",
+    "link": "https://www.ndtv.com/world-news/united-states-and-cuba-relations-us-says-cuba-infiltrated-highest-reaches-of-american-government-11796771#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/the-titans-of-nasdaq-100-top-companies-ranked-by-market-cap/slideshow/132516440.cms",
+    "category": "finance",
+    "title": "The Titans of Nasdaq 100: Top companies ranked by market cap",
+    "summary": "The Nasdaq-100\u2019s largest companies continue to dominate global technology, AI, cloud computing and digital markets. Nvidia and Apple lead by market value, while Amazon tops revenue, reflecting the scale, innovation and financial strength driving the ",
+    "image": "https://img.etimg.com/photo/msid-132516289,imgsize-86038.cms",
+    "source": "ET",
+    "pubDate": "Mon, 20 Jul 2026 18:18:17 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/the-titans-of-nasdaq-100-top-companies-ranked-by-market-cap/slideshow/132516440.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/bonds/sobha-plans-to-raise-up-to-rs1000-cr-through-non-convertible-debentures/articleshow/132516169.cms",
+    "category": "finance",
+    "title": "Sobha plans to raise up to Rs1,000 cr through non-convertible debentures",
+    "summary": "Sobha Ltd's board approved raising up to Rs 1,000 crore through privately placed non-convertible debentures in one or more tranches. The fund raise will enhance financing flexibility, with commercial terms to be finalised later by the investments and",
+    "image": "https://img.etimg.com/photo/msid-132516169,imgsize-100732.cms",
+    "source": "ET",
+    "pubDate": "Mon, 20 Jul 2026 18:15:01 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/sobha-plans-to-raise-up-to-rs1000-cr-through-non-convertible-debentures/articleshow/132516169.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/downfall-of-a-wall-street-darling-why-oracle-shares-crashed-65-from-peak/articleshow/132516113.cms",
+    "category": "finance",
+    "title": "Downfall of a Wall Street darling: Why Oracle shares crashed 65% from peak",
+    "summary": "Oracle shares have dropped about 65% from their peak as investors shift focus from AI-driven cloud growth to rising capital expenditure, debt and execution risks. Despite strong OCI revenue and a massive backlog, markets seek proof that AI investment",
+    "image": "https://img.etimg.com/photo/msid-132516113,imgsize-91498.cms",
+    "source": "ET",
+    "pubDate": "Mon, 20 Jul 2026 18:09:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/downfall-of-a-wall-street-darling-why-oracle-shares-crashed-65-from-peak/articleshow/132516113.cms"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-john-bogle-sometimes-common-sense-tells-us-what-statistics-cannot/articleshow/132513302.cms",
+    "category": "finance",
+    "title": "Quote of the day by John Bogle: \"Sometimes common sense tells us what statistics cannot\"",
+    "summary": "Legendary investor John C. Bogle stressed common sense in investing.  Statistics reveal trends, but not all market dynamics or psychology.  His wisdom guides investors through volatile market conditions and speculation.  Bogle advocated for diversifi",
+    "image": "https://img.etimg.com/photo/msid-132513302,imgsize-56436.cms",
+    "source": "ET",
+    "pubDate": "Mon, 20 Jul 2026 18:00:42 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-john-bogle-sometimes-common-sense-tells-us-what-statistics-cannot/articleshow/132513302.cms"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo#1",
     "category": "global",
-    "title": "My fitness tracker knew I was pregnant before I did",
-    "summary": "Ravika is one of hundreds of women who are noticing early pregnancy signs through the data on their fitness trackers.",
+    "title": "Burnham promises help with your money. How could it affect you?",
+    "summary": "New Prime Minister Andy Burnham says he wants life to be more affordable, but how could he do it?",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Sun, 19 Jul 2026 23:09:18 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Mon, 20 Jul 2026 15:04:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sona-blw-precision-among-6-midcap-stocks-that-hit-52-week-highs-rally-up-to-20-in-a-month/slideshow/132514653.cms",
-    "category": "finance",
-    "title": "Sona BLW Precision among 6 midcap stocks that hit 52-week highs, rally up to 20% in a month",
-    "summary": "Despite a weak market, six BSE 150 MidCap stocks, including Sona BLW Precision and Gujarat Fluorochemicals, hit fresh 52-week highs, gaining up to 20% over the past month.",
-    "image": "https://img.etimg.com/photo/msid-132514461,imgsize-41918.cms",
-    "source": "ET",
-    "pubDate": "Mon, 20 Jul 2026 16:59:54 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sona-blw-precision-among-6-midcap-stocks-that-hit-52-week-highs-rally-up-to-20-in-a-month/slideshow/132514653.cms"
+    "id": "https://www.cricinfo.com/ci/content/story/1546370.html",
+    "category": "sports",
+    "title": "ECB relief as last-minute Hundred deals swerve gambling shirt-sponsors",
+    "summary": "Tournament MD blames 'challenging market' as outright ban on betting sponsorship is deferred",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420000/420073.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 20 Jul 2026 14:53:18 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1546370.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-trent-axis-bank-among-top-gainers-and-losers-on-nifty-and-sensex-today/articleshow/132514396.cms",
-    "category": "finance",
-    "title": "Market wrap: Trent, Axis Bank among top gainers and losers on Nifty and Sensex today",
-    "summary": "Indian equities ended lower as escalating Iran-US tensions and surging crude prices dampened investor sentiment despite easing volatility. Banking stocks dragged benchmarks, while analysts expect geopolitical risks, inflation concerns and Q1 earnings",
-    "image": "https://img.etimg.com/photo/msid-132514396,imgsize-168352.cms",
-    "source": "ET",
-    "pubDate": "Mon, 20 Jul 2026 16:58:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-trent-axis-bank-among-top-gainers-and-losers-on-nifty-and-sensex-today/articleshow/132514396.cms"
+    "id": "https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo#1",
+    "category": "global",
+    "title": "Burnham's policy choices reveal what kind of PM he wants to be",
+    "summary": "The new prime minister has begun to set out key policies - starting with a vow to end rough sleeping.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 20 Jul 2026 14:46:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-two-month-low-oil-prices-remain-focal-point/articleshow/132513954.cms",
-    "category": "finance",
-    "title": "Rupee hits two-month low, oil prices remain focal point",
-    "summary": "The Indian rupee hit a two-month low on Monday as oil prices hovered around ninety dollars per barrel. In an effort to stabilize the currency, the Reserve Bank of India intervened by unloading dollars into the market. Meanwhile, Asian currencies and ",
-    "image": "https://img.etimg.com/photo/msid-132513954,imgsize-98256.cms",
-    "source": "ET",
-    "pubDate": "Mon, 20 Jul 2026 16:46:56 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-two-month-low-oil-prices-remain-focal-point/articleshow/132513954.cms"
+    "id": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o#2",
+    "category": "global",
+    "title": "Kevin Keegan, Liverpool footballer who managed England and Newcastle United, dies aged 75",
+    "summary": "The former England captain and manager revealed seven weeks ago that he had been diagnosed with stage four cancer.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 20 Jul 2026 14:38:28 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/cjp-leaders-meet-union-minister-jp-nadda-amid-protest-in-delhi-11795858#publisher=newsstand",
-    "category": "india",
-    "title": "CJP Leaders Meet Union Minister JP Nadda, Submit Letter Of Demands",
-    "summary": "CJP supporters meet Union Minister JP Nadda",
-    "image": "https://c.ndtvimg.com/2026-07/0v2guk6c_cjp-jp-nadda_625x300_20_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 20 Jul 2026 16:46:52 +0530",
-    "link": "https://www.ndtv.com/india-news/cjp-leaders-meet-union-minister-jp-nadda-amid-protest-in-delhi-11795858#publisher=newsstand"
+    "id": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o#1",
+    "category": "global",
+    "title": "Key takeaways as Andy Burnham becomes PM",
+    "summary": "The new Labour leader has formally taken office and set out his priorities for power in No 10.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 20 Jul 2026 14:34:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/artificial-intelligence/chinese-ai-innovations-like-kimi-k3-and-qwen3-8-max-reshape-the-global-ai-landscape-11796023#publisher=newsstand",
-    "category": "india",
-    "title": "Chinese AI Is Catching Up To The US Faster Than Before: Why It Matters",
-    "summary": "China's latest AI models are rapidly closing the gap with America's best.",
-    "image": "https://c.ndtvimg.com/2025-04/1up2qeu4_us-china-trade-war_625x300_16_April_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 20 Jul 2026 16:43:52 +0530",
-    "link": "https://www.ndtv.com/artificial-intelligence/chinese-ai-innovations-like-kimi-k3-and-qwen3-8-max-reshape-the-global-ai-landscape-11796023#publisher=newsstand"
+    "id": "https://www.bbc.co.uk/news/articles/c4gyyx2zg59o#2",
+    "category": "global",
+    "title": "Ofcom launches investigation into Married at First Sight UK",
+    "summary": "In May, BBC Panorama revealed rape allegations from two women on the show, which the men involved deny.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 20 Jul 2026 13:42:04 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c4gyyx2zg59o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/woman-kills-lover-hides-body-in-sack-then-sends-landlord-a-voice-note-11796010#publisher=newsstand",
-    "category": "india",
-    "title": "Woman Kills Lover, Hides Body In Sack, Then Sends Landlord A Voice Note",
-    "summary": "Police have not yet established a clear motive for the murder.",
-    "image": "https://c.ndtvimg.com/2026-07/4ofbqeuo_woman-kills-lover-hides-body-in-sack-then-sends-landlord-a-voice-note_625x300_20_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 20 Jul 2026 16:41:12 +0530",
-    "link": "https://www.ndtv.com/india-news/woman-kills-lover-hides-body-in-sack-then-sends-landlord-a-voice-note-11796010#publisher=newsstand"
+    "id": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo#2",
+    "category": "global",
+    "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
+    "summary": "The three-year-old brother of Yamal has been hailed one of Spain's World Cup breakout stars by fans",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 20 Jul 2026 13:13:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/education/neet-counselling-2026-top-medical-colleges-in-karnataka-11795989#publisher=newsstand",
-    "category": "india",
-    "title": "NEET Counselling 2026: Top Medical Colleges In Karnataka",
-    "summary": "Around 20 lakh candidates appeared for the NEET UG 2026.",
-    "image": "https://c.ndtvimg.com/2026-07/vkkvl5ic_neet-ug-reexam-result-2026_625x300_16_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 20 Jul 2026 16:39:13 +0530",
-    "link": "https://www.ndtv.com/education/neet-counselling-2026-top-medical-colleges-in-karnataka-11795989#publisher=newsstand"
+    "id": "https://www.cricinfo.com/ci/content/story/1546366.html",
+    "category": "sports",
+    "title": "Ojha century, and Yashbardhan and Manal fifties rescue India Under-19",
+    "summary": "Sri Lanka had reduced the visitors to 0 for 2, before Ojha and Yashbardhan added 122 for the third wicket",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/361300/361331.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 20 Jul 2026 13:08:52 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1546366.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/kerala-news/kerala-man-who-killed-neighbour-his-mother-in-2025-gets-death-sentence-11795170#publisher=newsstand",
-    "category": "india",
-    "title": "Kerala Man Who Killed Neighbour, His Mother In 2025 Gets Death Sentence",
-    "summary": "On Monday morning, the court heard from the prosecution and defence counsels.",
-    "image": "https://c.ndtvimg.com/2025-01/0jdrvneo_kerala-double-murder_625x300_29_January_25.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 20 Jul 2026 16:28:39 +0530",
-    "link": "https://www.ndtv.com/kerala-news/kerala-man-who-killed-neighbour-his-mother-in-2025-gets-death-sentence-11795170#publisher=newsstand"
+    "id": "https://www.cricinfo.com/ci/content/story/1546364.html",
+    "category": "sports",
+    "title": "Series gone, but plenty at stake yet for deflated West Indies",
+    "summary": "West Indies are currently 10th in the ICC men's ODI team rankings and run the risk of having to play the Qualifier for the 2027 World Cup, should they not finish ninth at the very least",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420000/420058.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 20 Jul 2026 12:49:45 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1546364.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/world-news/russia-ukraine-war-vladimir-putin-the-hidden-diplomacy-linking-berlin-and-moscow-beyond-official-channels-11795101#publisher=newsstand",
-    "category": "india",
-    "title": "As Europe Hardens Its Line, A Quiet German Back Channel Reaches Russia",
-    "summary": "The German government has publicly distanced itself from these meetings.",
-    "image": "https://c.ndtvimg.com/2026-02/ahemg68o_russia-ukraine-war_625x300_24_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 20 Jul 2026 16:20:00 +0530",
-    "link": "https://www.ndtv.com/world-news/russia-ukraine-war-vladimir-putin-the-hidden-diplomacy-linking-berlin-and-moscow-beyond-official-channels-11795101#publisher=newsstand"
+    "id": "https://www.bbc.co.uk/news/videos/cd0xgxgz135o#1",
+    "category": "global",
+    "title": "Watch: Starmer resigns, Burnham becomes PM... the day so far",
+    "summary": "Andy Burnham has become the UK's prime minister after being appointed by the King at Buckingham Palace.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 20 Jul 2026 12:49:18 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cd0xgxgz135o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/9-newly-elected-members-take-oath-in-rajya-sabha-11794832#publisher=newsstand",
-    "category": "india",
-    "title": "9 Newly-Elected Members Take Oath In Rajya Sabha",
-    "summary": "Some other members elected earlier had already taken their oath during the inter-session period.",
-    "image": "https://c.ndtvimg.com/2020-09/5u6qtss_rajya-sabha-generic-pti-photo_625x300_23_September_20.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 20 Jul 2026 16:17:58 +0530",
-    "link": "https://www.ndtv.com/india-news/9-newly-elected-members-take-oath-in-rajya-sabha-11794832#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/bangalore-news/bengaluru-officer-downloads-wedding-invite-on-whatsapp-loses-rs-10-lakh-11795769#publisher=newsstand",
-    "category": "india",
-    "title": "Bengaluru Officer Downloads Wedding Invite On WhatsApp, Loses Rs 10 Lakh",
-    "summary": "The complainant deleted all APK files from the phone and later approached the police.",
-    "image": "https://c.ndtvimg.com/2026-07/1t48k658_-cyber-fraud-whatsapp-scam_625x300_06_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 20 Jul 2026 16:13:45 +0530",
-    "link": "https://www.ndtv.com/bangalore-news/bengaluru-officer-downloads-wedding-invite-on-whatsapp-loses-rs-10-lakh-11795769#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/absolute-projects-jindal-supreme-secure-sebis-nod-to-float-ipos/articleshow/132513275.cms",
-    "category": "finance",
-    "title": "Absolute Projects, Jindal Supreme secure Sebi's nod to float IPOs",
-    "summary": "Funds will be used to modernise Manufacturing Facility I, procure machinery for Manufacturing Facility II, and secure equipment for Power EPC projects.",
-    "image": "https://img.etimg.com/photo/msid-132513275,imgsize-320366.cms",
-    "source": "ET",
-    "pubDate": "Mon, 20 Jul 2026 16:13:24 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/absolute-projects-jindal-supreme-secure-sebis-nod-to-float-ipos/articleshow/132513275.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/indias-exim-bank-plans-300-million-dollar-bond-sale-under-rbi-hedging-facility/articleshow/132513234.cms",
-    "category": "finance",
-    "title": "India's EXIM Bank plans $300 million dollar bond sale under RBI hedging facility",
-    "summary": "The state-run export finance institution will issue three-year floating-rate \u200cbonds priced \u2060at 90 \u2060basis points over the Secured Overnight Financing Rate (SOFR), according to the bankers, \u200bwho requested anonymity as they're not authorised to speak to",
-    "image": "https://img.etimg.com/photo/msid-132513234,imgsize-2164192.cms",
-    "source": "ET",
-    "pubDate": "Mon, 20 Jul 2026 16:09:56 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/indias-exim-bank-plans-300-million-dollar-bond-sale-under-rbi-hedging-facility/articleshow/132513234.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/bonds-unsettled-as-oil-and-gas-climb-earnings-loom-for-ai/articleshow/132513173.cms",
-    "category": "finance",
-    "title": "Bonds unsettled as oil and gas climb, earnings loom for AI",
-    "summary": "That sent U.S. yields higher, with \u200bthe benchmark 10-year Treasury yield at 4.55%, while yields on 30-year Treasuries are back above the \u2060psychological 5.0% \u200cbarrier.",
-    "image": "https://img.etimg.com/photo/msid-132513173,imgsize-21698.cms",
-    "source": "ET",
-    "pubDate": "Mon, 20 Jul 2026 16:07:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/bonds-unsettled-as-oil-and-gas-climb-earnings-loom-for-ai/articleshow/132513173.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/british-government-bond-yields-edge-higher-as-burnham-becomes-pm/articleshow/132513109.cms",
-    "category": "finance",
-    "title": "British government bond yields edge higher as Burnham becomes PM",
-    "summary": "BRITAIN-BONDS/British government bond yields edge higher as Burnham becomes PM",
-    "image": "https://img.etimg.com/photo/msid-132513109,imgsize-306350.cms",
-    "source": "ET",
-    "pubDate": "Mon, 20 Jul 2026 16:05:04 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/british-government-bond-yields-edge-higher-as-burnham-becomes-pm/articleshow/132513109.cms"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/mrs-bectors-food-shares-surge-25-in-3-days-after-sunil-singhanias-abakkus-picks-up-stake/articleshow/132513087.cms",
-    "category": "finance",
-    "title": "Mrs Bectors Food shares surge 25% in 3 days after Sunil Singhania's Abakkus picks up  stake",
-    "summary": "Mrs Bectors Food Specialities shares surged on Monday, extending their three-day gains to over 25% after Sunil Singhania's Abakkus Investment Managers acquired a nearly 1% stake through a bulk deal. Investors cheered the marquee investment even as th",
-    "image": "https://img.etimg.com/photo/msid-132513087,imgsize-33239.cms",
-    "source": "ET",
-    "pubDate": "Mon, 20 Jul 2026 16:01:50 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/mrs-bectors-food-shares-surge-25-in-3-days-after-sunil-singhanias-abakkus-picks-up-stake/articleshow/132513087.cms"
+    "id": "https://www.bbc.co.uk/news/articles/c75y4q61eevo#1",
+    "category": "global",
+    "title": "Who is Andy Burnham's wife, Marie-France van Heel?",
+    "summary": "Van Heel, known as Frankie, is a marketing executive who has been in a relationship with Burnham since their university days.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 20 Jul 2026 12:43:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c75y4q61eevo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1546362.html",
@@ -256,7 +346,7 @@
     "summary": "White-ball coach says he will watch 'next talent' under 'brightest lights' during four-week tournament",
     "image": "http://p.imgci.com/db/PICTURES/CMS/420000/420072.jpg",
     "source": "Cricinfo",
-    "pubDate": "Mon, 20 Jul 2026 12:12:51 GMT",
+    "pubDate": "Mon, 20 Jul 2026 12:39:39 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1546362.html?ex_cid=OTC-RSS"
   },
   {
@@ -270,16 +360,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1546360.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/clyv9qe6wj7o#1",
-    "category": "global",
-    "title": "A very quick guide to new prime minister Andy Burnham",
-    "summary": "Andy Burnham replaces Sir Keir Starmer as PM, after winning the backing of Labour MPs.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 20 Jul 2026 11:52:27 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/clyv9qe6wj7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1546328.html",
     "category": "sports",
     "title": "'No noise, no fun' - Rohit shrugs off retirement chatter after Lord's 138",
@@ -288,56 +368,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 20 Jul 2026 11:09:25 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1546328.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/cx2ml6g4y6ko#1",
-    "category": "global",
-    "title": "'I go with a smile': Watch Keir Starmer's last speech as prime minister in full",
-    "summary": "Starmer spoke in front of an applauding crowd on Downing Street.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 20 Jul 2026 10:37:20 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cx2ml6g4y6ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c75y4q61eevo#1",
-    "category": "global",
-    "title": "Who is Andy Burnham's wife, Marie-France van Heel?",
-    "summary": "Van Heel, known as Frankie, is a marketing executive who has been in a relationship with Burnham since their university days.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 20 Jul 2026 09:44:31 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c75y4q61eevo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cr59mqnm081o#2",
-    "category": "global",
-    "title": "Fire crews battle blaze on Arthur\u2019s Seat in Edinburgh",
-    "summary": "A huge plume of smoke could be seen from as far away as Fife on Sunday evening.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 20 Jul 2026 09:38:05 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr59mqnm081o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvg0xlrvv4mo#2",
-    "category": "global",
-    "title": "Prisons minister Lord Timpson quits government",
-    "summary": "The businessman said it was an \"honour\" to serve in the post, but the BBC understands he feels he has achieved all he can in the role.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 20 Jul 2026 09:12:10 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvg0xlrvv4mo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o#2",
-    "category": "global",
-    "title": "Broadcaster and journalist Edward Stourton dies aged 68",
-    "summary": "Stourton hosted Radio 4's Today programme for a decade and was a founding member of Channel 4 News.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 20 Jul 2026 07:30:13 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1546320.html",
@@ -350,16 +380,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1546320.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1546304.html",
-    "category": "sports",
-    "title": "Gill puts spotlight on India's fitness record",
-    "summary": "India's captain said the squad will need greater resilience for when next year's World Cup comes around",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419800/419878.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 20 Jul 2026 05:09:36 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1546304.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1546310.html",
     "category": "sports",
     "title": "Jangoo: West Indies 'don't deserve' to be in World Cup qualifiers",
@@ -368,25 +388,5 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 20 Jul 2026 04:18:57 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1546310.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1546247.html",
-    "category": "sports",
-    "title": "Duckett 141 trumps Rohit 138 in Lord's run-fest",
-    "summary": "England set India 388 in this series decider, and then refused to blink with the ball to secure a 2-1 series win - their first against India since 2018",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/420000/420009.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 20 Jul 2026 03:57:47 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1546247.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o#2",
-    "category": "global",
-    "title": "Victory for football? Spain beat Argentina to win World Cup",
-    "summary": "It might seem like a trite cliche, but you won't find many neutrals disagreeing with that verdict on the World Cup final.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 20 Jul 2026 00:28:50 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&at_campaign=rss"
   }
 ]
