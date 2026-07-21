@@ -10,164 +10,234 @@
     "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-kept-buying-these-14-stocks-for-3-quarters-shares-surged-up-to-101/slideshow/132531255.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-total-gas-q1-results-profit-falls-14-yoy-to-rs-142-crore-revenue-jumps-27/articleshow/132533438.cms",
     "category": "finance",
-    "title": "MFs kept buying these 14 stocks for 3 quarters; shares surged up to 101%",
-    "summary": "Mutual funds have steadily raised stakes in several BSE 500 companies over the past three quarters, reflecting institutional confidence. Among these stocks, multiple companies delivered strong one-year returns, with some gaining over 50%. The trend h",
-    "image": "https://img.etimg.com/photo/msid-132531114,imgsize-12970.cms",
+    "title": "Adani Total Gas Q1 Results: Profit falls 14% YoY to Rs 142 crore, revenue jumps 27%",
+    "summary": "Adani Total Gas Q1 Results: Adani Total Gas reported 14% year-on-year (YoY) decline in its consolidated net profit at Rs 142 crore in the first quarter. The same stood at Rs 165 crore in the same quarter of last year. Revenue from operations rose 27%",
+    "image": "https://img.etimg.com/photo/msid-132533438,imgsize-88444.cms",
     "source": "ET",
-    "pubDate": "Tue, 21 Jul 2026 13:21:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-kept-buying-these-14-stocks-for-3-quarters-shares-surged-up-to-101/slideshow/132531255.cms"
+    "pubDate": "Tue, 21 Jul 2026 15:38:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-total-gas-q1-results-profit-falls-14-yoy-to-rs-142-crore-revenue-jumps-27/articleshow/132533438.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/arvind-fashions-q1-results-net-profit-rises-11-to-rs-27-61-cr/articleshow/132531049.cms",
+    "id": "https://www.ndtv.com/india-news/mission-aagaman-voice-of-mars-for-nasa-applauds-skyroot-on-maiden-success-of-vikram-1-rocket-11800008#publisher=newsstand",
+    "category": "india",
+    "title": "'Voice of Mars for NASA' Applauds Skyroot On Maiden Success Of Vikram-1",
+    "summary": "Dr Swati Mohan described the achievement as a major step for India's growing private space ecosystem",
+    "image": "https://c.ndtvimg.com/2026-07/mqv5vdq8_vikram_625x300_21_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Tue, 21 Jul 2026 15:02:57 +0530",
+    "link": "https://www.ndtv.com/india-news/mission-aagaman-voice-of-mars-for-nasa-applauds-skyroot-on-maiden-success-of-vikram-1-rocket-11800008#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/business-news/microfinance-recovery-lender-borrowing-cap-guardrails-risk-bad-loans-decline-11794333#publisher=newsstand",
+    "category": "india",
+    "title": "3-Lender Rule, Rs 2 Lakh Cap: How Microfinance Lenders Curbed Bad Loans",
+    "summary": "The MFIN guardrails place a cap of three microfinance lenders per borrower.",
+    "image": "https://c.ndtvimg.com/2026-06/c2f9qkn4_car-loan_625x300_25_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Tue, 21 Jul 2026 15:00:42 +0530",
+    "link": "https://www.ndtv.com/business-news/microfinance-recovery-lender-borrowing-cap-guardrails-risk-bad-loans-decline-11794333#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/youngest-municipal-chairperson-diya-binu-loses-no-confidence-motion-in-setback-for-udf-11800441#publisher=newsstand",
+    "category": "india",
+    "title": "Youngest Municipal Chairperson Loses No-Confidence Motion In Setback For UDF",
+    "summary": "Diya Binu Pulikkakandam was the country's youngest municipal chairperson.",
+    "image": "https://c.ndtvimg.com/2026-07/9iic85mc_diya-binu-pala-municipality-udf-kerala_625x300_21_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Tue, 21 Jul 2026 15:00:24 +0530",
+    "link": "https://www.ndtv.com/india-news/youngest-municipal-chairperson-diya-binu-loses-no-confidence-motion-in-setback-for-udf-11800441#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-11798662#publisher=newsstand",
+    "category": "india",
+    "title": "Parliament Monsoon Session 2026 Highlights: Parliament Adjourned For The Day Amid Opposition Protest On Various Issues",
+    "summary": "Parliament Monsoon Session 2026 Highlights: The session will conclude on August 13",
+    "image": "https://c.ndtvimg.com/2026-07/24ea84hg_parliament_625x300_04_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Tue, 21 Jul 2026 14:57:05 +0530",
+    "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-11798662#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/sonam-wangchuk-safdarjung-hospital-cjp-protest-delhi-high-court-court-proposes-to-shift-sonam-wangchuk-to-medanta-hospital-11800082#publisher=newsstand",
+    "category": "india",
+    "title": "\"Can't Ignore Concerns\": Court Proposes Shifting Sonam Wangchuk To Medanta Hospital",
+    "summary": "Earlier this week Wangchuk was forcibly removed from the CJP's protest site at Jantar Mantar in central Delhi, and admitted to Safdarjung, after the Delhi High Court directed authorities to 'do what needs to be done to save his life'.",
+    "image": "https://c.ndtvimg.com/2026-07/it98bn1_sonam-wangchuk_625x300_18_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Tue, 21 Jul 2026 14:50:01 +0530",
+    "link": "https://www.ndtv.com/india-news/sonam-wangchuk-safdarjung-hospital-cjp-protest-delhi-high-court-court-proposes-to-shift-sonam-wangchuk-to-medanta-hospital-11800082#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-banks-tighten-credit-standards-amid-geopolitical-risks-ecb-survey-shows/articleshow/132532469.cms",
     "category": "finance",
-    "title": "Arvind Fashions Q1 Results: Net profit rises 11% to Rs 27.61 cr",
-    "summary": "Arvind Fashions reported an eleven percent rise in net profit for the first quarter.  Revenue from operations increased to one thousand two hundred seventy-eight point five crore rupees.  Direct channels contributed sixty-two percent of the company's",
-    "image": "https://img.etimg.com/photo/msid-132531049,imgsize-32164.cms",
+    "title": "Global Market: Euro zone banks tighten credit standards amid geopolitical risks, ECB survey shows",
+    "summary": "Euro zone banks tightened lending standards in the second quarter as geopolitical uncertainty and economic risks prompted greater caution, according to the ECB's latest Bank Lending Survey. While demand for business loans improved, lenders became mor",
+    "image": "https://img.etimg.com/photo/msid-132532469,imgsize-271082.cms",
     "source": "ET",
-    "pubDate": "Tue, 21 Jul 2026 13:18:43 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/arvind-fashions-q1-results-net-profit-rises-11-to-rs-27-61-cr/articleshow/132531049.cms"
+    "pubDate": "Tue, 21 Jul 2026 14:49:24 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-banks-tighten-credit-standards-amid-geopolitical-risks-ecb-survey-shows/articleshow/132532469.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-lenders-brace-for-solid-q2-results-despite-geopolitical-uncertainty/articleshow/132530952.cms",
+    "id": "https://www.ndtv.com/education/supreme-court-asks-cbse-to-revise-apaar-id-consent-form-nationwide-11800358#publisher=newsstand",
+    "category": "india",
+    "title": "Supreme Court Asks CBSE To Revise APAAR ID Consent Form Nationwide",
+    "summary": "SC Orders CBSE To Review Data Protection Concerns Under Aadhaar Linked APAAR Scheme",
+    "image": "https://c.ndtvimg.com/2026-07/26j92808_apaar-id_625x300_21_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Tue, 21 Jul 2026 14:49:18 +0530",
+    "link": "https://www.ndtv.com/education/supreme-court-asks-cbse-to-revise-apaar-id-consent-form-nationwide-11800358#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/jaipur-news/travelling-near-jaipur-just-got-costlier-as-nhai-revises-toll-rates-11800226#publisher=newsstand",
+    "category": "india",
+    "title": "Toll Tax Hiked On Jaipur-Delhi Highway, New Rates Take Effect",
+    "summary": "The hike is expected to raise transportation costs for regular travellers.",
+    "image": "https://c.ndtvimg.com/2026-07/71apd5l_toll-_625x300_21_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Tue, 21 Jul 2026 14:48:46 +0530",
+    "link": "https://www.ndtv.com/jaipur-news/travelling-near-jaipur-just-got-costlier-as-nhai-revises-toll-rates-11800226#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/brutality-unleashed-rahul-gandhi-demands-discussion-on-police-action-on-protesters-11799611#publisher=newsstand",
+    "category": "india",
+    "title": "\"Why Is PM Silent?\" Rahul Gandhi Meets Students Injured During CJP March",
+    "summary": "Rahul Gandhi and other Opposition leaders met Speaker Om Birla on Tuesday",
+    "image": "https://c.ndtvimg.com/2026-07/2r1n1qdk_rahul1_625x300_21_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Tue, 21 Jul 2026 14:48:44 +0530",
+    "link": "https://www.ndtv.com/india-news/brutality-unleashed-rahul-gandhi-demands-discussion-on-police-action-on-protesters-11799611#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-shares-jump-6-after-q1-net-profit-soars-67-to-rs-1019-crore-revenue-up-33/articleshow/132532206.cms",
     "category": "finance",
-    "title": "Global Market:  European lenders brace for solid Q2 results despite geopolitical uncertainty",
-    "summary": "European banks are set to report another quarter of resilient earnings, supported by steady loan growth, higher interest rates, strong trading activity and disciplined cost management. While profitability remains robust, investors will closely track ",
-    "image": "https://img.etimg.com/photo/msid-132530952,imgsize-207164.cms",
+    "title": "TVS Motor shares jump 6% after Q1 net profit soars 67% YoY to Rs 1,019 crore, revenue up 33%",
+    "summary": "TVS Motor Company's net profit surged sixty-seven percent year-on-year to one thousand nineteen crore rupees. Revenue from operations also increased thirty-three point five percent to sixteen thousand two hundred ninety-five crore rupees. The company",
+    "image": "https://img.etimg.com/photo/msid-132532206,imgsize-72232.cms",
     "source": "ET",
-    "pubDate": "Tue, 21 Jul 2026 13:13:33 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-lenders-brace-for-solid-q2-results-despite-geopolitical-uncertainty/articleshow/132530952.cms"
+    "pubDate": "Tue, 21 Jul 2026 14:40:17 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-shares-jump-6-after-q1-net-profit-soars-67-to-rs-1019-crore-revenue-up-33/articleshow/132532206.cms"
   },
   {
-    "id": "https://www.ndtv.com/opinion/the-5-piece-set-chinas-naval-air-power-is-growing-faster-than-india-can-ignore-11796056#publisher=newsstand",
-    "category": "india",
-    "title": "Opinion: Opinion | Not Just Jets, China Is Developing A '5-Piece' Carrier Set, And India Should Worry",
-    "summary": "China is now the only state serially producing two distinct stealth fighter families simultaneously, with some estimates projecting that advanced-fighter output across all jet programmes could reach 300-400 aircraft annually by 2027.",
-    "image": "https://c.ndtvimg.com/2024-05/hac7a7ro_fujian-_625x300_10_May_24.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 21 Jul 2026 13:05:35 +0530",
-    "link": "https://www.ndtv.com/opinion/the-5-piece-set-chinas-naval-air-power-is-growing-faster-than-india-can-ignore-11796056#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-auto-q1-results-cons-pat-surges-46-yoy-to-rs-3226-crore-revenue-zooms-65/articleshow/132530437.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-london-stock-exchange-to-roll-out-overnight-trading-exchange-lse-24-in-2027/articleshow/132532137.cms",
     "category": "finance",
-    "title": "Bajaj Auto Q1 Results: Cons PAT surges 46% YoY to Rs 3,226 crore; revenue zooms 65%",
-    "summary": "Bajaj Auto Q1 Results: Bajaj Auto reported a strong Q1 FY27 with net profit up 46 percent. Revenue from operations jumped 65 percent, reaching Rs 21,689 crore. The company achieved record quarterly volumes and improved realisations across segments. E",
-    "image": "https://img.etimg.com/photo/msid-132530437,imgsize-63642.cms",
+    "title": "Global Market: London Stock Exchange to roll out overnight trading exchange LSE 24 in 2027",
+    "summary": "The new exchange will operate separately from the LSE's main market and will initially offer trading in exchange-traded products (ETPs), including funds that track the UK and U.S. stock markets, according to Reuters.",
+    "image": "https://img.etimg.com/photo/msid-132532137,imgsize-152328.cms",
     "source": "ET",
-    "pubDate": "Tue, 21 Jul 2026 13:03:32 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-auto-q1-results-cons-pat-surges-46-yoy-to-rs-3226-crore-revenue-zooms-65/articleshow/132530437.cms"
+    "pubDate": "Tue, 21 Jul 2026 14:25:22 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-london-stock-exchange-to-roll-out-overnight-trading-exchange-lse-24-in-2027/articleshow/132532137.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/indian-man-sentenced-to-jail-for-counterfeit-diamond-theft-at-singapore-jewellery-store-11798822#publisher=newsstand",
-    "category": "india",
-    "title": "Indian Tourists In Singapore Steal Diamond Worth $1,54,000, Hide It In Mouth",
-    "summary": "Indian national jailed after diamond swap heist plot at Singapore jewellery store",
-    "image": "https://i.ndtvimg.com/i/2018-04/diamond-generic_650x400_41524210465.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 21 Jul 2026 13:03:20 +0530",
-    "link": "https://www.ndtv.com/world-news/indian-man-sentenced-to-jail-for-counterfeit-diamond-theft-at-singapore-jewellery-store-11798822#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/the-tate-brothers-fight-extradition-to-the-uk-where-they-face-rape-and-sex-trafficking-charges-11799402#publisher=newsstand",
-    "category": "india",
-    "title": "Andrew Tate, Brother Tristan Fight Extradition To UK Over Rape, Sex Trafficking Charges",
-    "summary": "Last year, brothers were allowed to leave Romania and flew to Florida.",
-    "image": "https://c.ndtvimg.com/2026-07/pbgae4i8_andrew-tate-tristan-tate_625x300_20_July_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 21 Jul 2026 13:01:27 +0530",
-    "link": "https://www.ndtv.com/world-news/the-tate-brothers-fight-extradition-to-the-uk-where-they-face-rape-and-sex-trafficking-charges-11799402#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/japan-bond-jitters-overshadow-takaichis-first-economic-policy-roadmap/articleshow/132530718.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dollar-wavers-as-markets-grapple-with-gulf-tensions/articleshow/132532065.cms",
     "category": "finance",
-    "title": "Japan bond jitters overshadow Takaichi's first economic policy roadmap",
-    "summary": "Prime Minister Sanae Takaichi's economic blueprint promises increased investment in growth areas.  Market concerns persist regarding potential government interference in monetary policy decisions.  Bond yields have risen, reflecting worries about Jap",
-    "image": "https://img.etimg.com/photo/msid-132530718,imgsize-23742.cms",
+    "title": "Dollar wavers as markets grapple with Gulf tensions",
+    "summary": "The US dollar hovered near a one-week high as investors weighed escalating Middle East tensions against hopes for a ceasefire. Concerns over energy supplies supported the greenback, while the yen and euro remained largely steady. The British pound ed",
+    "image": "https://img.etimg.com/photo/msid-132532065,imgsize-201132.cms",
     "source": "ET",
-    "pubDate": "Tue, 21 Jul 2026 13:00:03 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/japan-bond-jitters-overshadow-takaichis-first-economic-policy-roadmap/articleshow/132530718.cms"
+    "pubDate": "Tue, 21 Jul 2026 14:18:35 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dollar-wavers-as-markets-grapple-with-gulf-tensions/articleshow/132532065.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/countries-move-to-ban-social-media-for-children-11799496#publisher=newsstand",
-    "category": "india",
-    "title": "Brazil To Austraia: World Shifts Towards Social Media Bans For Children",
-    "summary": "Social media has been banned for under-16s in Australia since December 2025. (Representational)",
-    "image": "https://c.ndtvimg.com/2026-07/tm53h99c_social-media-ban-for-children_625x300_21_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 21 Jul 2026 12:57:01 +0530",
-    "link": "https://www.ndtv.com/world-news/countries-move-to-ban-social-media-for-children-11799496#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/america-kya-kehta-tha-meme-star-gautam-singh-joins-neet-ug-protest-in-delhi-11799846#publisher=newsstand",
-    "category": "india",
-    "title": "\"America Kya Kehta Tha?\" Meme Star Gautam Singh Joins NEET-UG Protest In Delhi",
-    "summary": "Delhi creator Gautam Singh shot to fame with his \"America Kya Kehta Tha?\" rant.",
-    "image": "https://c.ndtvimg.com/2026-07/ls8oed48_meme-star-gautam-singh-joins-neetug-protest-in-delhi_625x300_21_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Tue, 21 Jul 2026 12:55:21 +0530",
-    "link": "https://www.ndtv.com/offbeat/america-kya-kehta-tha-meme-star-gautam-singh-joins-neet-ug-protest-in-delhi-11799846#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-indonesia-appoints-banks-for-inaugural-yuan-denominated-panda-bond-issue/articleshow/132530487.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jpmorgan-other-us-banks-set-to-help-finance-japans-550-billion-us-investment-plan-sources-say/articleshow/132531960.cms",
     "category": "finance",
-    "title": "Global Market: Indonesia appoints banks for inaugural yuan-denominated panda bond issue",
-    "summary": "Indonesia plans its first yuan-denominated panda bond issuance in China. A consortium of banks will arrange this debut offering in China's market. Bank of China leads as underwriter, with others joining as bookrunners. The country holds investment-gr",
-    "image": "https://img.etimg.com/photo/msid-132530487,imgsize-30166.cms",
+    "title": "JPMorgan, other US banks set to help finance Japan's $550 billion US investment plan, sources say",
+    "summary": "JPMorgan and other US banks are close to agreeing on financing support for projects under Japan\u2019s $550 billion US investment pledge, according to sources. The move could help Tokyo fulfil commitments made to President Donald Trump, as Japanese banks ",
+    "image": "https://img.etimg.com/photo/msid-132531960,imgsize-140134.cms",
     "source": "ET",
-    "pubDate": "Tue, 21 Jul 2026 12:54:14 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-indonesia-appoints-banks-for-inaugural-yuan-denominated-panda-bond-issue/articleshow/132530487.cms"
+    "pubDate": "Tue, 21 Jul 2026 14:10:45 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jpmorgan-other-us-banks-set-to-help-finance-japans-550-billion-us-investment-plan-sources-say/articleshow/132531960.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/leopard-wanders-into-liquor-store-in-rajasthan-town-injures-3-before-5-hour-rescue-operation-11799789#publisher=newsstand",
-    "category": "india",
-    "title": "Leopard Wanders Into Liquor Store In Rajasthan Town, Injures 3 Before 5-Hour Rescue Operation",
-    "summary": "According to forest officials, the leopard was initially spotted hiding in bushes near the town.",
-    "image": "https://c.ndtvimg.com/2026-07/23b3jr44_leopard-storms-rajasthan-liquor-shop_625x300_21_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Tue, 21 Jul 2026 12:51:12 +0530",
-    "link": "https://www.ndtv.com/india-news/leopard-wanders-into-liquor-store-in-rajasthan-town-injures-3-before-5-hour-rescue-operation-11799789#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/jammu-news/pak-man-caught-near-international-border-in-jammu-11799780#publisher=newsstand",
-    "category": "india",
-    "title": "Pak Man Caught Near International Border In Jammu",
-    "summary": "The apprehended individual remains in BSF custody and is being questioned further.",
-    "image": "https://c.ndtvimg.com/2026-07/coe157u4_pakistani-intruder-_625x300_21_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 21 Jul 2026 12:50:54 +0530",
-    "link": "https://www.ndtv.com/jammu-news/pak-man-caught-near-international-border-in-jammu-11799780#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-targets-us-air-defence-and-radar-systems-in-bahrain-and-kuwait-11799419#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Say It Hit US Military Targets In Bahrain, Kuwait",
-    "summary": "Iran's army said it targeted \"three major US bases in Kuwait\" with kamikaze drones.",
-    "image": "https://c.ndtvimg.com/2026-07/f654ucus_kuwait_625x300_17_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 21 Jul 2026 12:48:54 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-targets-us-air-defence-and-radar-systems-in-bahrain-and-kuwait-11799419#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-rallies-after-steep-decline-as-focus-turns-to-tech-results/articleshow/132530282.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-energy-q1-results-profit-zooms-124-yoy-to-rs-1149-crore-revenue-jumps-42/articleshow/132531830.cms",
     "category": "finance",
-    "title": "Global Markets: Japan's Nikkei rallies after steep decline as focus turns to tech results",
-    "summary": "Japan's Nikkei share average advanced on Tuesday after a significant weekly decline.  Markets reopened and investors bought bargains following last week's sharp selloff.  The benchmark Nikkei 225 recovered some of its previous losses.  Investor atten",
-    "image": "https://img.etimg.com/photo/msid-132530282,imgsize-291718.cms",
+    "title": "Adani Energy Q1 Results: Profit zooms 124% YoY to Rs 1,149 crore; revenue jumps 42%",
+    "summary": "Adani Energy Solutions reported a 124 percent profit increase year-on-year.  Revenue from operations also saw a substantial 42 percent rise during the quarter.  Transmission and distribution segments drove this impressive financial performance.  The ",
+    "image": "https://img.etimg.com/photo/msid-132531830,imgsize-37674.cms",
     "source": "ET",
-    "pubDate": "Tue, 21 Jul 2026 12:39:50 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-rallies-after-steep-decline-as-focus-turns-to-tech-results/articleshow/132530282.cms"
+    "pubDate": "Tue, 21 Jul 2026 14:05:11 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-energy-q1-results-profit-zooms-124-yoy-to-rs-1149-crore-revenue-jumps-42/articleshow/132531830.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-takaichi-unveils-growth-blueprint-reiterates-investment-push-amid-bond-market-concerns/articleshow/132530259.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-rises-1-as-hopes-for-us-iran-diplomacy-pause-oil-rally/articleshow/132531850.cms",
     "category": "finance",
-    "title": "Global Market: Japan's Takaichi unveils growth blueprint, reiterates investment push amid bond market concerns",
-    "summary": "Japanese Prime Minister Sanae Takaichi unveiled her first economic blueprint, promising stronger investment in strategic industries while reaffirming the Bank of Japan's monetary policy independence. The plan comes as rising bond yields and investor ",
-    "image": "https://img.etimg.com/photo/msid-132530259,imgsize-26006.cms",
+    "title": "Gold rises 1% as hopes for US-Iran diplomacy pause oil rally",
+    "summary": "Gold prices gained over 1% as investors tracked diplomatic efforts to ease the US-Iran conflict and assessed the impact on inflation and the Federal Reserve\u2019s rate outlook. Spot gold rose 1.6% to $4,071.59 per ounce, while US gold futures climbed 1.5",
+    "image": "https://img.etimg.com/photo/msid-132531850,imgsize-110214.cms",
     "source": "ET",
-    "pubDate": "Tue, 21 Jul 2026 12:38:13 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-takaichi-unveils-growth-blueprint-reiterates-investment-push-amid-bond-market-concerns/articleshow/132530259.cms"
+    "pubDate": "Tue, 21 Jul 2026 14:04:58 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-rises-1-as-hopes-for-us-iran-diplomacy-pause-oil-rally/articleshow/132531850.cms"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1546466.html",
+    "category": "sports",
+    "title": "Matt Walker to take over from Paul Farbrace as Sussex head coach",
+    "summary": "Appointment comes with club under special measures from the ECB following financial losses",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420000/420097.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 21 Jul 2026 10:57:48 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1546466.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo#0",
+    "category": "global",
+    "title": "Parts of the UK move closer to drought",
+    "summary": "The longest dry spell in over 30 years for central England raises concerns about drought and when it might rain.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 21 Jul 2026 10:41:54 GMT",
+    "link": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o#0",
+    "category": "global",
+    "title": "Cause of Ann Widdecombe's death not yet established, inquest hears",
+    "summary": "The 78-year-old was found with \"visible injuries\" at her home in Devon on 9 July.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 21 Jul 2026 09:56:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx25wg2x26do#0",
+    "category": "global",
+    "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+    "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 21 Jul 2026 09:48:20 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o#0",
+    "category": "global",
+    "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+    "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 21 Jul 2026 09:16:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c62xzn3j1p2o#0",
+    "category": "global",
+    "title": "Chris Mason: Starmer ally takes swipe at Burnham's first big policy",
+    "summary": "Sir Keir Starmer's former right hand man Darren Jones says Andy Burnham's VAT cut is unfunded.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 21 Jul 2026 09:00:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c62xzn3j1p2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1546451.html",
+    "category": "sports",
+    "title": "CPL: Ayub, Sadaqat headline strong Pakistani contingent at Jamaica Kingsmen",
+    "summary": "Jamaica Kingsmen's seven overseas signings all have links to their parent franchise Hyderabad Kingsmen in the PSL",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/367100/367186.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 21 Jul 2026 08:52:09 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1546451.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/ckg4we9g58do#0",
@@ -180,26 +250,6 @@
     "link": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o#0",
-    "category": "global",
-    "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-    "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 21 Jul 2026 07:56:13 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c24mnnnd18do#0",
-    "category": "global",
-    "title": "Chris Mason: New chancellor faces tough spending choices",
-    "summary": "The appointment of John Healey is particularly fascinating, writes BBC political editor Chris Mason.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 21 Jul 2026 07:21:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c24mnnnd18do?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1546432.html",
     "category": "sports",
     "title": "Gaikwad to lead West Zone in 2026-27 domestic season-opening Duleep Trophy",
@@ -208,26 +258,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 21 Jul 2026 06:33:38 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1546432.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o#0",
-    "category": "global",
-    "title": "Man due in court charged with murder of Ann Widdecombe",
-    "summary": "Joshua Kerry from South Yorkshire, is set to appear at Westminister Magistrates' Court on Tuesday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 21 Jul 2026 06:26:07 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx25wg2x26do#0",
-    "category": "global",
-    "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-    "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 21 Jul 2026 06:16:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1546408.html",
@@ -258,16 +288,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 21 Jul 2026 02:12:02 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1546407.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo#0",
-    "category": "global",
-    "title": "Is UK facing drought for second summer in a row?",
-    "summary": "The longest dry spell in over 30 years for central England raises concerns about drought and when it might rain.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 21 Jul 2026 00:12:17 GMT",
-    "link": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "5M2gv6mk7MEHXAvBa4H7z0",
@@ -368,25 +388,5 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 20 Jul 2026 17:12:10 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1546400.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1546366.html",
-    "category": "sports",
-    "title": "Ojha century, and Yashbardhan and Manal fifties rescue India Under-19",
-    "summary": "Sri Lanka had reduced the visitors to 0 for 2, before Ojha and Yashbardhan added 122 for the third wicket",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/420000/420076.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 20 Jul 2026 16:34:58 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1546366.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1546368.html",
-    "category": "sports",
-    "title": "Stokes return adds intrigue as counties assemble for One-Day Cup",
-    "summary": "All the runners and riders as the domestic 50-over tournament gets underway in the Hundred's shadow",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/416700/416713.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 20 Jul 2026 16:05:57 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1546368.html?ex_cid=OTC-RSS"
   }
 ]
