@@ -1,13 +1,63 @@
 [
   {
-    "id": "https://www.ndtv.com/india-news/rahul-gandhi-exploiting-students-we-owe-them-more-than-outrage-says-education-minister-dharmendra-pradhan-11803061#publisher=newsstand",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-on-chip-stocks-recovery-earnings-draw-focus/articleshow/132546607.cms",
+    "category": "finance",
+    "title": "US stocks today: US stocks end higher as semiconductors surge amid Mideast war intensifies",
+    "summary": "Wall Street closed higher as semiconductor stocks rebounded sharply, lifting major indexes despite tariff tensions and Middle East risks. Investors are positioning ahead of key tech earnings, betting on AI-driven growth. Gains in 3M and Hasbro contra",
+    "image": "https://img.etimg.com/photo/msid-132546607,imgsize-282308.cms",
+    "source": "ET",
+    "pubDate": "Wed, 22 Jul 2026 01:34:14 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-on-chip-stocks-recovery-earnings-draw-focus/articleshow/132546607.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/ukraines-zelensky-sacks-army-chief-amid-war-11803393#publisher=newsstand",
     "category": "india",
-    "title": "\"Owe Students More Than Outrage\": Dharmendra Pradhan Slams Rahul Gandhi",
-    "summary": "The minister accused the Congress of choosing \"political spectacle\" over debate.",
-    "image": "https://c.ndtvimg.com/2025-05/7epg2ols_dharmendra-pradhan_160x120_27_May_25.jpg",
+    "title": "Ukraine's Zelensky Sacks Army Chief Amid War",
+    "summary": "Zelensky on Tuesday dismissed Oleksandr Syrsky, commander-in-chief of Ukraine's army.",
+    "image": "https://c.ndtvimg.com/2026-07/aktvooo4_oleksandr-syrsky_625x300_22_July_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Wed, 22 Jul 2026 00:08:23 +0530",
-    "link": "https://www.ndtv.com/india-news/rahul-gandhi-exploiting-students-we-owe-them-more-than-outrage-says-education-minister-dharmendra-pradhan-11803061#publisher=newsstand"
+    "pubDate": "Wed, 22 Jul 2026 01:29:10 +0530",
+    "link": "https://www.ndtv.com/world-news/ukraines-zelensky-sacks-army-chief-amid-war-11803393#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/weather-office-predicts-heavy-rain-widespread-thundershowers-across-up-11803385#publisher=newsstand",
+    "category": "india",
+    "title": "Weather Office Predicts Heavy Rain, Widespread Thundershowers Across UP",
+    "summary": "IMD predicting widespread thundershowers across the state over next few days.",
+    "image": "https://c.ndtvimg.com/2026-06/bqd9cg8o_rain-generic_625x300_02_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 22 Jul 2026 01:22:44 +0530",
+    "link": "https://www.ndtv.com/india-news/weather-office-predicts-heavy-rain-widespread-thundershowers-across-up-11803385#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/21-killed-in-24-hours-as-flood-situation-worsens-in-assam-11803324#publisher=newsstand",
+    "category": "india",
+    "title": "21 Killed In 24 Hours As Flood Situation Worsens In Assam",
+    "summary": "With these deaths, the toll in this year's flood in the state rose to 31.",
+    "image": "https://c.ndtvimg.com/2026-07/7ebhmt98_assam-rains_625x300_22_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 22 Jul 2026 00:49:46 +0530",
+    "link": "https://www.ndtv.com/india-news/21-killed-in-24-hours-as-flood-situation-worsens-in-assam-11803324#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/india-is-now-a-solar-superpower-backed-by-skilled-workforce-says-un-climate-chief-simon-stiell-11803308#publisher=newsstand",
+    "category": "india",
+    "title": "\"India Is Now A Solar Superpower Backed By Skilled Workforce\": UN Climate Chief",
+    "summary": "Simon Stiell, Executive Secretary of the United Nations Framework Convention on Climate Change (UNFCCC)",
+    "image": "https://c.ndtvimg.com/2026-07/5d67ofac_simon-stiell_625x300_22_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 22 Jul 2026 00:39:07 +0530",
+    "link": "https://www.ndtv.com/india-news/india-is-now-a-solar-superpower-backed-by-skilled-workforce-says-un-climate-chief-simon-stiell-11803308#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-us-war-news-live-update-new-strikes-middle-east-conflict-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-11799301#publisher=newsstand",
+    "category": "india",
+    "title": "Iran-US War News Live Updates: Trump Says US 'Not Finished At All' With Iran",
+    "summary": "Shipping through the Strait of Hormuz has largely stalled",
+    "image": "https://c.ndtvimg.com/2026-07/sva5v5p8_iran-war-news_625x300_21_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 22 Jul 2026 00:18:39 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-us-war-news-live-update-new-strikes-middle-east-conflict-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-11799301#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/india-news/neet-paper-leak-row-rahul-gandhi-sister-priyanka-lead-congress-protest-to-pm-modi-s-house-11800745#publisher=newsstand",
@@ -16,18 +66,28 @@
     "summary": "Jitendra Singh, Minister of State in the PMO, spoke to Rahul Gandhi for several minutes.",
     "image": "https://c.ndtvimg.com/2026-07/965psu2g_rahul-gandhi-detained-_650x400_21_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Wed, 22 Jul 2026 00:02:36 +0530",
+    "pubDate": "Wed, 22 Jul 2026 00:14:03 +0530",
     "link": "https://www.ndtv.com/india-news/neet-paper-leak-row-rahul-gandhi-sister-priyanka-lead-congress-protest-to-pm-modi-s-house-11800745#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/opinion/opinion-battle-for-legacy-over-july-21-remembrance-in-bengal-11803209#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/iran-shifted-nuclear-centrifuges-to-pickaxe-mountain-report-11803267#publisher=newsstand",
     "category": "india",
-    "title": "Opinion: Opinion: Battle For Legacy Over July 21 Remembrance In Bengal",
-    "summary": "During the 15 years that the Trinamool Congress (TMC) remained in power, July 21 gradually transformed. What had once been a day marked by grief, sacrifice, and remembrance increasingly became a symbolic celebration of the party itself.",
-    "image": "https://c.ndtvimg.com/2026-07/e1rtt404_abhishek-banerjee-mamata-banerjee_625x300_19_July_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Iran Shifted Nuclear Centrifuges To Pickaxe Mountain: Report",
+    "summary": "The facility is believed to be buried more than 300 feet beneath solid granite",
+    "image": "https://c.ndtvimg.com/2026-07/hj6dn5k_pickaxe-mountain_625x300_15_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Wed, 22 Jul 2026 00:00:38 +0530",
-    "link": "https://www.ndtv.com/opinion/opinion-battle-for-legacy-over-july-21-remembrance-in-bengal-11803209#publisher=newsstand"
+    "pubDate": "Wed, 22 Jul 2026 00:13:28 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-shifted-nuclear-centrifuges-to-pickaxe-mountain-report-11803267#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/rahul-gandhi-exploiting-students-we-owe-them-more-than-outrage-says-education-minister-dharmendra-pradhan-11803061#publisher=newsstand",
+    "category": "india",
+    "title": "\"Owe Students More Than Outrage\": Dharmendra Pradhan Slams Rahul Gandhi",
+    "summary": "The minister accused the Congress of choosing \"political spectacle\" over debate.",
+    "image": "https://c.ndtvimg.com/2025-05/7epg2ols_dharmendra-pradhan_160x120_27_May_25.jpg",
+    "source": "NDTV",
+    "pubDate": "Wed, 22 Jul 2026 00:12:29 +0530",
+    "link": "https://www.ndtv.com/india-news/rahul-gandhi-exploiting-students-we-owe-them-more-than-outrage-says-education-minister-dharmendra-pradhan-11803061#publisher=newsstand"
   },
   {
     "id": "2884mjZs7g6yWxefPaGVHN",
@@ -38,56 +98,6 @@
     "source": "VentureBeat",
     "pubDate": "Wed, 15 Jul 2026 22:24:17 GMT",
     "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/vijyeta-dahiya-cockroach-janata-party-cjp-if-someone-is-hungry-they-eat-sacked-cjp-spokesperson-on-burger-video-11803235#publisher=newsstand",
-    "category": "india",
-    "title": "\"If Someone Is Hungry, They Eat\": Sacked CJP Spokesperson On Burger Video",
-    "summary": "Police said at least 178 people were injured during the protest.",
-    "image": "https://c.ndtvimg.com/2026-07/tl7087ck_vijeta-dahiya_625x300_21_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 21 Jul 2026 23:59:59 +0530",
-    "link": "https://www.ndtv.com/india-news/vijyeta-dahiya-cockroach-janata-party-cjp-if-someone-is-hungry-they-eat-sacked-cjp-spokesperson-on-burger-video-11803235#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/feature/dog-fights-off-bear-that-charged-six-year-old-boy-incredible-bravery-11803234#publisher=newsstand",
-    "category": "india",
-    "title": "Dog Fights Off Bear That Charged Six-Year-Old Boy: \"Incredible Bravery\"",
-    "summary": "Representative image.",
-    "image": "https://c.ndtvimg.com/2026-07/r3imtf5o_dog_625x300_21_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Tue, 21 Jul 2026 23:59:58 +0530",
-    "link": "https://www.ndtv.com/feature/dog-fights-off-bear-that-charged-six-year-old-boy-incredible-bravery-11803234#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/opinion/abhishek-banerjee-rise-and-fall-of-tmcs-once-unchallenged-yuvraj-11631737#publisher=newsstand",
-    "category": "india",
-    "title": "Opinion: Abhishek Banerjee: Rise And Fall Of Trinamool's Once-Unchallenged Yuvraj",
-    "summary": "Abhishek Banerjee is 38 years old. He entered politics at 25 and received exposure that few regional leaders of his generation got",
-    "image": "https://c.ndtvimg.com/2026-05/p0qcma2c_abhishek-banerjee-_625x300_30_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 21 Jul 2026 23:56:58 +0530",
-    "link": "https://www.ndtv.com/opinion/abhishek-banerjee-rise-and-fall-of-tmcs-once-unchallenged-yuvraj-11631737#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/20-workers-die-in-sikkim-tunnel-collapse-efforts-on-to-rescue-5-trapped-11803208#publisher=newsstand",
-    "category": "india",
-    "title": "20 Workers Die In Sikkim Tunnel Collapse, Efforts On To Rescue 5 Trapped",
-    "summary": "Seven bodies have so far been identified",
-    "image": "https://c.ndtvimg.com/2026-07/pvi0baes_samardung-tunnel-_625x300_21_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 21 Jul 2026 23:53:07 +0530",
-    "link": "https://www.ndtv.com/india-news/20-workers-die-in-sikkim-tunnel-collapse-efforts-on-to-rescue-5-trapped-11803208#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/video-australian-politician-criticised-for-shouting-at-dog-during-live-tv-interview-11803151#publisher=newsstand",
-    "category": "india",
-    "title": "Video: Australian Politician Criticised For Shouting At Dog During Live TV Interview",
-    "summary": "He turned away from the camera and shouted, \"Sit down!\"",
-    "image": "https://c.ndtvimg.com/2026-07/5ulm976g_australian-politician_625x300_21_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Tue, 21 Jul 2026 23:37:45 +0530",
-    "link": "https://www.ndtv.com/offbeat/video-australian-politician-criticised-for-shouting-at-dog-during-live-tv-interview-11803151#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/cube-highways-trust-collects-rs-1687-crore-from-anchor-investors-ahead-of-ipo/articleshow/132543954.cms",
@@ -150,6 +160,46 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-q1-results-profit-rises-18-yoy-to-rs-390-crore-total-income-up-15/articleshow/132539913.cms"
   },
   {
+    "id": "https://www.cricinfo.com/ci/content/story/1546951.html",
+    "category": "sports",
+    "title": "West Indies bowl first and pick Hetmyer in the bid for consolation win",
+    "summary": "Meanwhile, New Zealand picked Kristian Clarke for his first game of the tour in place of Matt Fisher",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419900/419903.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 21 Jul 2026 20:12:18 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1546951.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo#0",
+    "category": "global",
+    "title": "Burnham tells cabinet to tackle living costs at first meeting",
+    "summary": "The new prime minister chaired his first cabinet after announcing a cut to VAT on household electricity.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 21 Jul 2026 20:09:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cyvl35z3917o#0",
+    "category": "global",
+    "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+    "summary": "Oleksandr Syrskyi is dismissed after days of unrest over the removal of popular Defence Minister Mykhailo Fedorov.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 21 Jul 2026 19:57:38 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1546490.html",
+    "category": "sports",
+    "title": "Stokes' matchwinning hundred steals the thunder on Hundred's opening night",
+    "summary": "Former England captain defies leg injury to produce winning display in front of 1,300 crowd at Derby",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420100/420119.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 21 Jul 2026 19:53:24 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1546490.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-eyes-500-million-dollar-bond-issue-via-gift-city/articleshow/132538886.cms",
     "category": "finance",
     "title": "ICICI Bank eyes $500 million dollar bond issue via GIFT City",
@@ -160,26 +210,6 @@
     "link": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-eyes-500-million-dollar-bond-issue-via-gift-city/articleshow/132538886.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/anant-raj-to-demerge-data-centre-arm-into-separately-listed-company/articleshow/132538699.cms",
-    "category": "finance",
-    "title": "Anant Raj to demerge data centre arm into separately listed company",
-    "summary": "Anant Raj will demerge its data centre and cloud business into Ashok Cloud Pvt Ltd, creating a separately listed digital infrastructure company. The move aims to unlock shareholder value, support expansion to 307 MW by FY32 and strengthen its cloud s",
-    "image": "https://img.etimg.com/photo/msid-132538699,imgsize-291381.cms",
-    "source": "ET",
-    "pubDate": "Tue, 21 Jul 2026 19:47:08 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/anant-raj-to-demerge-data-centre-arm-into-separately-listed-company/articleshow/132538699.cms"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo#0",
-    "category": "global",
-    "title": "Burnham tells cabinet to tackle living costs at first meeting",
-    "summary": "The new prime minister chaired his first cabinet after announcing a cut to VAT on household electricity.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 21 Jul 2026 19:00:23 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1546493.html",
     "category": "sports",
     "title": "Fernandes makes the difference as Middlesex see off Essex",
@@ -188,36 +218,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 21 Jul 2026 18:51:01 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1546493.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1546951.html",
-    "category": "sports",
-    "title": "West Indies bowl first and pick Hetmyer in the bid for consolation win",
-    "summary": "Meanwhile, New Zealand picked Kristian Clarke for his first game of the tour in place of Matt Fisher",
-    "image": "http://p.imgci.com",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 21 Jul 2026 18:51:00 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1546951.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c7vgel8374yo#0",
-    "category": "global",
-    "title": "Row escalates in Ukraine over army chief's future",
-    "summary": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 21 Jul 2026 18:49:19 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1546490.html",
-    "category": "sports",
-    "title": "Stokes' matchwinning hundred steals the thunder on Hundred's opening night",
-    "summary": "Former England captain defies leg injury to produce winning display in front of 1,300 crowd at Derby",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/420000/420098.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 21 Jul 2026 18:42:00 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1546490.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1546494.html",
