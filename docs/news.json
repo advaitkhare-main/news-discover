@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://www.ndtv.com/india-news/13-bodies-recovered-from-collapsed-sikkim-tunnel-rescue-ops-continue-11808224#publisher=newsstand",
+    "category": "india",
+    "title": "13 Bodies Recovered From Collapsed Sikkim Tunnel, Rescue Ops Continue",
+    "summary": "Twenty-five workers were inside the tunnel which collapsed following an explosion.",
+    "image": "https://c.ndtvimg.com/2026-07/pvi0baes_samardung-tunnel-_625x300_21_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 22 Jul 2026 23:52:55 +0530",
+    "link": "https://www.ndtv.com/india-news/13-bodies-recovered-from-collapsed-sikkim-tunnel-rescue-ops-continue-11808224#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/feature/spouses-may-increase-risk-of-dementia-by-up-to-70-new-study-finds-11808213#publisher=newsstand",
+    "category": "india",
+    "title": "Spouses May Increase Risk Of Dementia By Up To 70%, New Study Finds",
+    "summary": "Representative image.",
+    "image": "https://c.ndtvimg.com/2026-07/9ecms14_husband-and-wife_625x300_22_July_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 22 Jul 2026 23:46:32 +0530",
+    "link": "https://www.ndtv.com/feature/spouses-may-increase-risk-of-dementia-by-up-to-70-new-study-finds-11808213#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/chhattisgarh-chief-minister-says-uniform-code-bill-likely-in-winter-session-11808170#publisher=newsstand",
+    "category": "india",
+    "title": "Chhattisgarh Chief Minister Says Uniform Code Bill Likely In Winter Session",
+    "summary": "He stated that two major irrigation projects are being initiated on the Indravati River.",
+    "image": "https://c.ndtvimg.com/2026-07/r2cm790k_attack_625x300_22_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 22 Jul 2026 23:31:23 +0530",
+    "link": "https://www.ndtv.com/india-news/chhattisgarh-chief-minister-says-uniform-code-bill-likely-in-winter-session-11808170#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cements-comes-up-with-a-record-june-quarter-profit-surges-17/articleshow/132563390.cms",
     "category": "finance",
     "title": "UltraTech Cement comes up with a record June quarter, profit surges 17%",
@@ -20,16 +50,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/csb-bank-q1-profit-jumps-27-yoy-to-rs-150-crore-as-provisions-decline/articleshow/132562546.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/why-are-you-so-selective-centre-on-rahul-gandhis-paper-leak-charges-11807497#publisher=newsstand",
-    "category": "india",
-    "title": "\"Why Are You So Selective?\" Centre On Rahul Gandhi's Paper Leak Charges",
-    "summary": "",
-    "image": "https://c.ndtvimg.com/2026-07/ai5heoec_nadda_625x300_22_July_26.jpg",
-    "source": "NDTV",
-    "pubDate": "Wed, 22 Jul 2026 21:16:39 +0530",
-    "link": "https://www.ndtv.com/india-news/why-are-you-so-selective-centre-on-rahul-gandhis-paper-leak-charges-11807497#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/prisms-premium-hotel-push-emerges-as-next-leg-of-india-growth-ahead-of-ipo/articleshow/132562158.cms",
     "category": "finance",
     "title": "PRISM's premium hotel push emerges as next leg of India growth ahead of IPO",
@@ -38,36 +58,6 @@
     "source": "ET",
     "pubDate": "Wed, 22 Jul 2026 21:10:53 +0530",
     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/prisms-premium-hotel-push-emerges-as-next-leg-of-india-growth-ahead-of-ipo/articleshow/132562158.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/iran-denies-secret-nuclear-site-at-pickaxe-mountain-amid-us-strike-threat-11807514#publisher=newsstand",
-    "category": "india",
-    "title": "Iran Denies Secret Nuclear Site At Pickaxe Mountain Amid US Strike Threat",
-    "summary": "The mountain is near Iran's Natanz nuclear facility, which was bombed by the US last year",
-    "image": "https://c.ndtvimg.com/2026-07/581uiqh8_nuclear-facility-trump_625x300_15_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 22 Jul 2026 20:57:24 +0530",
-    "link": "https://www.ndtv.com/world-news/iran-denies-secret-nuclear-site-at-pickaxe-mountain-amid-us-strike-threat-11807514#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/german-approval-sparks-security-concerns-over-french-russian-nuclear-project-11807489#publisher=newsstand",
-    "category": "india",
-    "title": "German Approval Sparks Security Concerns Over French Russian Nuclear Project",
-    "summary": "The project would be based at Framatome's fuel rod assembly facility in the town of Lingen",
-    "image": "https://c.ndtvimg.com/2022-03/hvppse7c_nuclear-energy_625x300_28_March_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 22 Jul 2026 20:52:06 +0530",
-    "link": "https://www.ndtv.com/world-news/german-approval-sparks-security-concerns-over-french-russian-nuclear-project-11807489#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/nearly-700-detained-as-j-k-police-launch-security-sweep-11807461#publisher=newsstand",
-    "category": "india",
-    "title": "Nearly 700 Detained As J&K Police Launch Security Sweep",
-    "summary": "Officials said the operation is designed to identify, isolate and neutralise facilitators.",
-    "image": "https://i.ndtvimg.com/i/2017-04/jammu-and-kashmir-police-pti_650x400_81491148105.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 22 Jul 2026 20:46:00 +0530",
-    "link": "https://www.ndtv.com/india-news/nearly-700-detained-as-j-k-police-launch-security-sweep-11807461#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132561965.cms",
@@ -88,46 +78,6 @@
     "source": "ET",
     "pubDate": "Wed, 22 Jul 2026 20:38:22 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-bajaj-auto-among-7-stock-recommendations-for-thursday/slideshow/132562171.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/dharmendra-pradhan-neet-cjp-when-dharmendra-pradhan-hit-the-streets-to-protest-a-paper-leak-30-years-ago-11807386#publisher=newsstand",
-    "category": "india",
-    "title": "When Dharmendra Pradhan Hit The Streets To Protest A Paper Leak 30 Years Ago",
-    "summary": "Dharmendra Pradhan himself protested a paper leak in 1997.",
-    "image": "https://c.ndtvimg.com/2026-07/kn4tjkqs_dharmendra-pradhan-_625x300_22_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 22 Jul 2026 20:31:16 +0530",
-    "link": "https://www.ndtv.com/india-news/dharmendra-pradhan-neet-cjp-when-dharmendra-pradhan-hit-the-streets-to-protest-a-paper-leak-30-years-ago-11807386#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/sonam-wangchuk-says-will-end-fast-if-assured-of-no-action-against-students-11806479#publisher=newsstand",
-    "category": "india",
-    "title": "Sonam Wangchuk Says Will End Fast If Centre Spares Students From Legal Action",
-    "summary": "Sonam Wangchuk continues to be on hunger strike for Day 25",
-    "image": "https://c.ndtvimg.com/2026-07/knbcqj2s_sonam-wangchuk_650x400_22_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 22 Jul 2026 20:30:29 +0530",
-    "link": "https://www.ndtv.com/india-news/sonam-wangchuk-says-will-end-fast-if-assured-of-no-action-against-students-11806479#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/clat-2027-notification-out-clat-2027-exam-date-announced-exam-on-december-6-registration-from-august-3-11807376#publisher=newsstand",
-    "category": "india",
-    "title": "CLAT 2027 Notification Out: Exam On December 6, Registration From August 3",
-    "summary": "CLAT 2027: No changes have been made to the syllabus or the exam pattern.",
-    "image": "https://c.ndtvimg.com/2026-07/h087cr3c_-clat-2027-exam_625x300_22_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 22 Jul 2026 20:27:54 +0530",
-    "link": "https://www.ndtv.com/education/clat-2027-notification-out-clat-2027-exam-date-announced-exam-on-december-6-registration-from-august-3-11807376#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/earning-rs-2-lakh-monthly-but-drowning-in-debt-techie-seeks-help-i-made-mistakes-11807370#publisher=newsstand",
-    "category": "india",
-    "title": "Earning Rs 2 Lakh Monthly But 'Drowning In Debt', Techie Seeks Help: 'I Made Mistakes'",
-    "summary": "Techie with Rs 2 lakh salary struggles with debt and seeks recovery plan advice.",
-    "image": "https://c.ndtvimg.com/2026-06/76ckburc_gurugram-techie-explains-why-his-rs-15-lakh-salary-feels-like-rs-15000_625x300_16_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 22 Jul 2026 20:26:55 +0530",
-    "link": "https://www.ndtv.com/offbeat/earning-rs-2-lakh-monthly-but-drowning-in-debt-techie-seeks-help-i-made-mistakes-11807370#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/amd-to-invest-up-to-5-billion-in-anthropic-ai-startup-to-buy-up-to-2-gw-of-chips/articleshow/132561775.cms",
@@ -160,6 +110,56 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-datawatch-bill-gates-top-5-winning-stocks-of-2026-surged-up-to-55-ytd/slideshow/132561134.cms"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/cwye7lv2endo#0",
+    "category": "global",
+    "title": "Police formally investigate woman, 70, after Brit stabbed to death in French village",
+    "summary": "Karen Carter was found with stab wounds in the Dordogne village she had lived in for over a decade.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 22 Jul 2026 19:03:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1547062.html",
+    "category": "sports",
+    "title": "Glamorgan's Welsh youngsters hit statement tons to down Sussex",
+    "summary": "Jack Hope-Bell and Alex Horton add 240 for sixth wicket in comeback win",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420100/420199.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 22 Jul 2026 18:37:40 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547062.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1547120.html",
+    "category": "sports",
+    "title": "Welsh Fire's late collapse hands points to Southern Brave",
+    "summary": "New captain Sophie Molineux closes game out as Fire lose five wickets for six runs in 13 balls",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420100/420195.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 22 Jul 2026 18:11:08 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547120.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c204p64pqzno#0",
+    "category": "global",
+    "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+    "summary": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 22 Jul 2026 17:54:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1547065.html",
+    "category": "sports",
+    "title": "Cox, de Swardt dig deep as Leicestershire edge to two-wicket win",
+    "summary": "Thriller at Kibworth as Gloucestershire's low total nearly proves enough",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/266000/266066.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 22 Jul 2026 17:40:44 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547065.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://www.cricinfo.com/ci/content/story/1547079.html",
     "category": "sports",
     "title": "New county report warns of looming 'realities' as financial gulfs widen",
@@ -168,16 +168,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 22 Jul 2026 16:54:49 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1547079.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c204p64pqzno#0",
-    "category": "global",
-    "title": "Mamdani U-turn on threat to arrest Netanyahu citing lack of authority",
-    "summary": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 22 Jul 2026 16:29:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1547049.html",
@@ -208,16 +198,6 @@
     "source": "Cricinfo",
     "pubDate": "Wed, 22 Jul 2026 15:57:30 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1547061.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o#0",
-    "category": "global",
-    "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
-    "summary": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 22 Jul 2026 15:50:17 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno#0",
@@ -290,36 +270,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1547031.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1546483.html",
-    "category": "sports",
-    "title": "Kuldeep signs with Yorkshire for County Championship and One-Day Cup",
-    "summary": "His two-part stint will see him feature in eight games on either side of India's Test tour to Sri Lanka",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/418000/418026.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 22 Jul 2026 10:36:15 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1546483.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1547030.html",
-    "category": "sports",
-    "title": "Root back in top ten of ODI batting rankings; Rohit closes in on top three",
-    "summary": "Shubman Gill and Virat Kohli remain second and third, behind No. 1 Daryl Mitchell",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/420000/420026.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 22 Jul 2026 09:45:25 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1547030.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1546987.html",
-    "category": "sports",
-    "title": "Hetmyer, Rutherford haul West Indies home in tense chase",
-    "summary": "Duffy took two wickets in the 45th over to make things tense, but Hetmyer held his nerve to lead the hosts to a two-wicket win",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/420100/420144.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 22 Jul 2026 09:20:35 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1546987.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "2884mjZs7g6yWxefPaGVHN",
     "category": "scitech",
     "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem \u2014 and most are call",
@@ -338,6 +288,56 @@
     "source": "VentureBeat",
     "pubDate": "Tue, 19 May 2026 17:45:00 GMT",
     "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/students-betrayed-by-system-shashi-tharoor-exclusive-on-paper-leak-protests-11808276#publisher=newsstand",
+    "category": "india",
+    "title": "Exclusive | \"Students Betrayed By System\": Shashi Tharoor On Paper Leak Protests",
+    "summary": "Tharoor narrated what he described as \"police brutality\" on the protesters",
+    "image": "https://c.ndtvimg.com/2026-07/gimrnc3_shashi-tharoor-exclusive_625x300_22_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Jul 2026 00:19:34 +0530",
+    "link": "https://www.ndtv.com/india-news/students-betrayed-by-system-shashi-tharoor-exclusive-on-paper-leak-protests-11808276#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-us-war-news-live-update-new-strikes-middle-east-conflict-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-11799301#publisher=newsstand",
+    "category": "india",
+    "title": "Iran-US War News Live Updates: Trump Attends Transfer Of Fallen US Service Members",
+    "summary": "Shipping through the Strait of Hormuz has largely stalled",
+    "image": "https://c.ndtvimg.com/2026-07/sva5v5p8_iran-war-news_625x300_21_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Jul 2026 00:17:45 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-us-war-news-live-update-new-strikes-middle-east-conflict-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-11799301#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/trumps-saudi-nuclear-pact-opens-door-to-uranium-enrichment-whats-at-stake-11808282#publisher=newsstand",
+    "category": "india",
+    "title": "Trump's Saudi Nuclear Pact Opens Door To Uranium Enrichment. What's At Stake",
+    "summary": "The proposed agreement is expected to be sent to the US Congress soon",
+    "image": "https://i.ndtvimg.com/i/2018-03/saudi-prince-and-trump-afp-650_650x400_41521576885.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Jul 2026 00:13:53 +0530",
+    "link": "https://www.ndtv.com/world-news/trumps-saudi-nuclear-pact-opens-door-to-uranium-enrichment-whats-at-stake-11808282#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/china-ready-to-handle-sensitive-issues-with-india-says-foreign-minister-11808268#publisher=newsstand",
+    "category": "india",
+    "title": "China \"Ready\" To Handle Sensitive Issues With India, Says Foreign Minister",
+    "summary": "India is scheduled to host the BRICS summit in New Delhi in September.",
+    "image": "https://c.ndtvimg.com/2024-07/sru8ogk_s-jaishankar-wang-yi-_625x300_04_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Jul 2026 00:04:12 +0530",
+    "link": "https://www.ndtv.com/india-news/china-ready-to-handle-sensitive-issues-with-india-says-foreign-minister-11808268#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/two-life-convicts-serving-time-for-murder-marry-inside-jodhpur-jail-11808263#publisher=newsstand",
+    "category": "india",
+    "title": "Two Life Convicts, Serving Time For Murder Marry Inside Jodhpur Jail",
+    "summary": "For a few hours, the open jail transformed into a wedding venue.",
+    "image": "https://c.ndtvimg.com/2023-03/jgg11q4_bihar-khagaria-wedding-generic-650_625x300_03_March_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 23 Jul 2026 00:02:28 +0530",
+    "link": "https://www.ndtv.com/india-news/two-life-convicts-serving-time-for-murder-marry-inside-jodhpur-jail-11808263#publisher=newsstand"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
