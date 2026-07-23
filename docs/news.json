@@ -30,13 +30,33 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o#0",
+    "category": "global",
+    "title": "UK complacent about war threat, warns defence boss",
+    "summary": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned.\nDr Charles Woodburn",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 23 Jul 2026 23:04:19 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o#0",
+    "category": "global",
+    "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+    "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 23 Jul 2026 23:03:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.cricinfo.com/ci/content/story/1547304.html",
     "category": "sports",
     "title": "CA boss Greenberg 'open' to England-Australia Test in India",
     "summary": "\"There are opportunities in India to put more content into certain areas,\" he says",
     "image": "http://p.imgci.com/db/PICTURES/CMS/405400/405468.png",
     "source": "Cricinfo",
-    "pubDate": "Thu, 23 Jul 2026 21:54:55 GMT",
+    "pubDate": "Thu, 23 Jul 2026 22:31:08 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1547304.html?ex_cid=OTC-RSS"
   },
   {
@@ -48,16 +68,6 @@
     "source": "BBC",
     "pubDate": "Thu, 23 Jul 2026 21:53:02 GMT",
     "link": "https://www.bbc.co.uk/sport/articles/cvg79z237yvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o#0",
-    "category": "global",
-    "title": "US announces tariffs on dozens of countries over forced labour concerns",
-    "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 23 Jul 2026 21:46:34 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/suryoday-sfb-q1-profit-more-than-doubles-on-strong-loan-growth/articleshow/132586902.cms",
@@ -190,16 +200,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo#0",
-    "category": "global",
-    "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-    "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 23 Jul 2026 17:58:02 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1547309.html",
     "category": "sports",
     "title": "Bishop earns maiden call-up, Mckenzie returns for West Indies' Tests against Pakistan",
@@ -280,34 +280,84 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
+    "id": "https://www.ndtv.com/world-news/iran-war-us-military-launches-new-round-of-strikes-on-iran-amid-trump-warning-11813996#publisher=newsstand",
+    "category": "india",
+    "title": "US Strikes Iran As Tensions Escalate Over Shipping Routes In Hormuz",
+    "summary": "Iran War: The United States military said Thursday it was attacking Iran for the 13th night in a row.",
+    "image": "https://c.ndtvimg.com/2026-07/4mmmv0gg_us-army-iran-war_625x300_24_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 24 Jul 2026 04:59:24 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-us-military-launches-new-round-of-strikes-on-iran-amid-trump-warning-11813996#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-says-wont-block-tate-brothers-extradition-to-uk-over-rape-charges-11813983#publisher=newsstand",
+    "category": "india",
+    "title": "US Says Won't Block Tate Brothers' Extradition To UK Over Rape Charges",
+    "summary": "The Tates are challenging their extradition.",
+    "image": "https://c.ndtvimg.com/2026-07/vv4kdt1k_tate-brothers-_625x300_20_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 24 Jul 2026 04:46:28 +0530",
+    "link": "https://www.ndtv.com/world-news/us-says-wont-block-tate-brothers-extradition-to-uk-over-rape-charges-11813983#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/us-imposes-new-tariffs-on-60-countries-over-forced-labour-concerns-11813910#publisher=newsstand",
+    "category": "india",
+    "title": "US Imposes New Tariffs On 60 Countries Over Forced Labour Concerns: Report",
+    "summary": "This week, Trump also ordered new 50-percent tariffs on many Canadian products.",
+    "image": "https://c.ndtvimg.com/2026-07/9nm27spo_donald-trump_625x300_24_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Fri, 24 Jul 2026 04:18:27 +0530",
+    "link": "https://www.ndtv.com/world-news/us-imposes-new-tariffs-on-60-countries-over-forced-labour-concerns-11813910#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-frozen-iranian-assets-will-pay-for-damage-to-shipping-11813952#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Says Frozen Iranian Assets Will Pay For Damage To Shipping",
+    "summary": "Trump said that the US would begin using frozen Iranian assets to pay for ships and cargo damaged.",
+    "image": "https://c.ndtvimg.com/2025-11/b4vhq8bg_donald-trump-afp_625x300_07_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 24 Jul 2026 04:10:21 +0530",
+    "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-frozen-iranian-assets-will-pay-for-damage-to-shipping-11813952#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/salman-rushdie-testifies-at-knife-attackers-us-terror-trial-11813944#publisher=newsstand",
+    "category": "india",
+    "title": "Salman Rushdie Testifies At Knife Attacker's US Terror Trial",
+    "summary": "Rushdie lived in seclusion in London for a decade after the 1989 fatwa.",
+    "image": "https://c.ndtvimg.com/2026-04/bl1401jg_salman-rushdie_625x300_09_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Fri, 24 Jul 2026 03:54:48 +0530",
+    "link": "https://www.ndtv.com/world-news/salman-rushdie-testifies-at-knife-attackers-us-terror-trial-11813944#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/sonam-wangchuk-ends-hunger-strike-after-26-days-in-presence-of-ministers-11813634#publisher=newsstand",
     "category": "india",
     "title": "\"Long Negotiations\": Sonam Wangchuk Ends Hunger Strike After 26 Days",
     "summary": "Sonam Wangchuk had been on a hunger strike since June 28",
     "image": "https://c.ndtvimg.com/2026-07/403o23eg_sonam_625x300_24_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 24 Jul 2026 02:41:07 +0530",
+    "pubDate": "Fri, 24 Jul 2026 03:37:25 +0530",
     "link": "https://www.ndtv.com/india-news/sonam-wangchuk-ends-hunger-strike-after-26-days-in-presence-of-ministers-11813634#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/donald-trump-says-iran-has-some-evil-intentions-cannot-be-allowed-to-have-nukes-11813870#publisher=newsstand",
+    "id": "https://www.ndtv.com/world-news/donald-trump-says-xi-jinping-will-visit-us-on-september-24-11813878#publisher=newsstand",
     "category": "india",
-    "title": "Trump Says Iran Has \"Some Evil Intentions\", Cannot Be Allowed To Have Nukes",
-    "summary": "Trump said that Iran cannot be allowed to even consider acquiring nuclear weapons.",
-    "image": "https://c.ndtvimg.com/2026-07/93p9gcl4_donald-trump_625x300_15_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "Trump Says Xi Jinping Will Visit US On September 24",
+    "summary": "US President Donald Trump said on Thursday that he will discuss artificial intelligence with Chinese President Xi Jinping when he visits the United States on September 24.",
+    "image": "https://c.ndtvimg.com/2026-07/lc5kqlcs_trump-and-xi-jinping_625x300_24_July_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Fri, 24 Jul 2026 02:39:31 +0530",
-    "link": "https://www.ndtv.com/world-news/donald-trump-says-iran-has-some-evil-intentions-cannot-be-allowed-to-have-nukes-11813870#publisher=newsstand"
+    "pubDate": "Fri, 24 Jul 2026 02:52:09 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trump-says-xi-jinping-will-visit-us-on-september-24-11813878#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/assam-floods-6-more-deaths-in-24-hours-over-7-lakh-people-affected-11813828#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/cjp-protest-live-updates-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-neet-paper-leak-parl-11808852#publisher=newsstand",
     "category": "india",
-    "title": "Assam Floods: 6 More Deaths In 24 Hours, Over 7 Lakh People Affected",
-    "summary": "Four deaths were reported from Sivasagar, and two from Charaideo, it said.",
-    "image": "https://c.ndtvimg.com/2026-07/e094t3qs_assam-floods_625x300_24_July_26.jpeg",
+    "title": "CJP Protest LIVE Updates: CJP, Union Ministers May Meet At 12.30 PM Today: Sources",
+    "summary": "CJP Protest LIVE Updates: The protesters have converged at Jantar Mantar in Delhi",
+    "image": "https://c.ndtvimg.com/2026-07/rp89j3b_cjp-protest_625x300_23_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Fri, 24 Jul 2026 02:18:30 +0530",
-    "link": "https://www.ndtv.com/india-news/assam-floods-6-more-deaths-in-24-hours-over-7-lakh-people-affected-11813828#publisher=newsstand"
+    "pubDate": "Fri, 24 Jul 2026 02:46:29 +0530",
+    "link": "https://www.ndtv.com/india-news/cjp-protest-live-updates-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-neet-paper-leak-parl-11808852#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-fall-as-tech-earnings-spark-ai-spending-worries-and-oil-hits-100/articleshow/132591456.cms",
@@ -320,26 +370,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-fall-as-tech-earnings-spark-ai-spending-worries-and-oil-hits-100/articleshow/132591456.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/sonam-wangchuks-family-waits-watches-and-worries-as-fast-enters-day-26-11813485#publisher=newsstand",
-    "category": "india",
-    "title": "\"Worried, Waiting\": Sonam Wangchuk's Brother To NDTV Before He Ended Fast",
-    "summary": "Dorjey said Wangchuk had initially planned to end his fast on July 20.",
-    "image": "https://c.ndtvimg.com/2026-07/f5g71j48_uk_625x300_24_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 24 Jul 2026 01:33:17 +0530",
-    "link": "https://www.ndtv.com/india-news/sonam-wangchuks-family-waits-watches-and-worries-as-fast-enters-day-26-11813485#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/cjp-protest-live-updates-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-neet-paper-leak-parl-11808852#publisher=newsstand",
-    "category": "india",
-    "title": "CJP Protest LIVE Updates: Sonam Wangchuk Ends Fast After 26 Days",
-    "summary": "CJP Protest LIVE Updates: The protesters have converged at Jantar Mantar in Delhi",
-    "image": "https://c.ndtvimg.com/2026-07/rp89j3b_cjp-protest_625x300_23_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 24 Jul 2026 01:24:26 +0530",
-    "link": "https://www.ndtv.com/india-news/cjp-protest-live-updates-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-neet-paper-leak-parl-11808852#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive/articleshow/132591384.cms",
     "category": "finance",
     "title": "Tesla short sellers mint $4 billion profit as shares nosedive",
@@ -348,36 +378,6 @@
     "source": "ET",
     "pubDate": "Fri, 24 Jul 2026 01:23:21 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive/articleshow/132591384.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/amid-protests-pm-modi-promises-more-strict-actions-against-paper-leaks-today-11813540#publisher=newsstand",
-    "category": "india",
-    "title": "PM Promises \"More Strict Actions\" Against Leaks Today As Protests Continue",
-    "summary": "PM Narendra Modi announced more action in paper leak cases",
-    "image": "https://c.ndtvimg.com/2026-07/d0jggeuo_narendra-modi_625x300_24_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Fri, 24 Jul 2026 01:10:40 +0530",
-    "link": "https://www.ndtv.com/india-news/amid-protests-pm-modi-promises-more-strict-actions-against-paper-leaks-today-11813540#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/trump-reports-over-1-4-billion-in-income-from-crypto-ventures-11813663#publisher=newsstand",
-    "category": "india",
-    "title": "Trump Reports Over $1.4 Billion In Income From Crypto Ventures",
-    "summary": "Trump reported another $635 million from the sale of his Trump meme coins.",
-    "image": "https://c.ndtvimg.com/2026-07/hvmvl7j8_donald-trump-crypto_625x300_24_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 24 Jul 2026 01:04:01 +0530",
-    "link": "https://www.ndtv.com/world-news/trump-reports-over-1-4-billion-in-income-from-crypto-ventures-11813663#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-amit-shah-cjp-protest-neet-paper-leak-e-20-petrol-income-tax-bill-11809071#publisher=newsstand",
-    "category": "india",
-    "title": "Parliament Session 2026 Highlights: Opposition MPs Protest At Parliament Over NEET Leak, Demand Dharmendra Pradhan's Res",
-    "summary": "Parliament Monsoon Session 2026 Highlights: The proceedings in both Houses have been stalled because of government-opposition deadlock as the former insists on readiness for debate and the latter remains bent on the Education Minister's resignation b",
-    "image": "https://c.ndtvimg.com/2026-07/le462eh8_lok-sabha_625x300_23_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Fri, 24 Jul 2026 01:00:40 +0530",
-    "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-amit-shah-cjp-protest-neet-paper-leak-e-20-petrol-income-tax-bill-11809071#publisher=newsstand"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
