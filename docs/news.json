@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://www.ndtv.com/india-news/two-army-personnel-injured-in-landmine-explosion-in-jammu-and-kashmirs-uri-11835359#publisher=newsstand",
+    "category": "india",
+    "title": "Two Army Personnel Injured In Landmine Explosion In Jammu And Kashmir",
+    "summary": "Both soldiers belong to 8 Rashtriya Rifles and were on duty near the LoC when the incident took place.",
+    "image": "https://c.ndtvimg.com/2024-09/aqiolv6o_jammu-and-kashmir-encounter_625x300_11_September_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 29 Jul 2026 02:38:04 +0530",
+    "link": "https://www.ndtv.com/india-news/two-army-personnel-injured-in-landmine-explosion-in-jammu-and-kashmirs-uri-11835359#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/assam-flood-seven-more-deaths-in-24-hours-over-3-lakh-people-affected-11835207#publisher=newsstand",
     "category": "india",
     "title": "Assam Floods: Seven More Deaths In 24 Hours, Over 3 Lakh People Affected",
@@ -8,6 +18,16 @@
     "source": "NDTV",
     "pubDate": "Wed, 29 Jul 2026 01:32:16 +0530",
     "link": "https://www.ndtv.com/india-news/assam-flood-seven-more-deaths-in-24-hours-over-3-lakh-people-affected-11835207#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-ends-higher-as-investors-await-tech-earnings/articleshow/132694299.cms",
+    "category": "finance",
+    "title": "US stocks: S&amp;P 500 ends higher as investors await tech earnings",
+    "summary": "The S&amp;P 500 index closed higher on Tuesday, boosted by gains in Boeing and Coca-Cola.  Chip stocks experienced a significant decline as investors awaited quarterly reports from major tech firms.  Microsoft and Amazon saw movement ahead of their u",
+    "image": "https://img.etimg.com/photo/msid-132694299,imgsize-123420.cms",
+    "source": "ET",
+    "pubDate": "Wed, 29 Jul 2026 01:32:04 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-ends-higher-as-investors-await-tech-earnings/articleshow/132694299.cms"
   },
   {
     "id": "https://www.ndtv.com/delhi-news/over-75-lakh-voter-verification-forms-digitised-under-sir-in-delhi-11835165#publisher=newsstand",
@@ -80,16 +100,6 @@
     "link": "https://www.ndtv.com/india-news/cbi-files-chargesheet-against-13-in-2026-neet-ug-paper-leak-case-11835125#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/pm-modi-chairs-2nd-meeting-with-secretaries-to-government-of-india-11835109#publisher=newsstand",
-    "category": "india",
-    "title": "PM Modi Chairs 2nd Meeting With Secretaries To Government Of India",
-    "summary": "The Prime Minister shared a post on X elaborating on the discussions held during the session.",
-    "image": "https://c.ndtvimg.com/2026-07/37bsnr1_pm-modi-ians-_625x300_29_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 29 Jul 2026 00:29:48 +0530",
-    "link": "https://www.ndtv.com/india-news/pm-modi-chairs-2nd-meeting-with-secretaries-to-government-of-india-11835109#publisher=newsstand"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -130,6 +140,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/fusion-finance-forfeits-unpaid-rights-shares-after-final-reminder/articleshow/132689928.cms"
   },
   {
+    "id": "https://www.cricinfo.com/ci/content/story/1547854.html",
+    "category": "sports",
+    "title": "Hurst, Stanley pull strings on Lancashire's Farington bow",
+    "summary": "Daniel Bell-Drummond digs in for half-century but Kent can only muster below-par 223",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420400/420439.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 28 Jul 2026 21:34:42 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547854.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132688972.cms",
     "category": "finance",
     "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
@@ -138,6 +158,16 @@
     "source": "ET",
     "pubDate": "Tue, 28 Jul 2026 21:22:42 +0530",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132688972.cms"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1547908.html",
+    "category": "sports",
+    "title": "Marsh, Crawley, Brook rise to occasion as Sunrisers blitz Super Giants",
+    "summary": "Buttler-Klaasen stand eclipsed by big hitting from home heroes at Headingley",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420400/420447.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Tue, 28 Jul 2026 21:08:57 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547908.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-100-heads-for-correction-as-ai-worries-rattle-investors/articleshow/132688570.cms",
@@ -160,14 +190,14 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/coforge-q1-results-profit-soars-63-to-rs-519-crore-driven-by-encora-acquisition-ai-led-services-demand/articleshow/132688523.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/knowledge-realty-trust-noi-rises-15pc-to-rs-1243cr-in-q1-distributes-752cr-to-unit-holders/articleshow/132688507.cms",
-    "category": "finance",
-    "title": "Knowledge Realty Trust NOI rises 15pc to Rs 1243cr in Q1; distributes 752cr to unit holders",
-    "summary": "Knowledge Realty Trust has showcased a remarkable performance with a fifteen percent uptick in net operating income, marking an exhilarating time for investors. The firm proudly declared a record distribution amounting to Rs 751.6 crore. Additionally",
-    "image": "https://img.etimg.com/photo/msid-132688507,imgsize-13766.cms",
-    "source": "ET",
-    "pubDate": "Tue, 28 Jul 2026 21:03:06 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/knowledge-realty-trust-noi-rises-15pc-to-rs-1243cr-in-q1-distributes-752cr-to-unit-holders/articleshow/132688507.cms"
+    "id": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro#0",
+    "category": "global",
+    "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+    "summary": "The two leaders were in Washington to attend the funeral of Senator Lindsey Graham, a staunch supporter of Israel and advocate for US aid to Ukraine.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 28 Jul 2026 20:57:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1547906.html",
@@ -188,16 +218,6 @@
     "source": "BBC",
     "pubDate": "Tue, 28 Jul 2026 18:48:45 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cly5jvegxeqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1547854.html",
-    "category": "sports",
-    "title": "Hurst, Stanley pull strings on Lancashire's Farington bow",
-    "summary": "Daniel Bell-Drummond digs in for half-century but Kent can only muster below-par 223",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/420400/420439.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 28 Jul 2026 18:11:52 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1547854.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1547905.html",
@@ -233,7 +253,7 @@
     "id": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go#0",
     "category": "global",
     "title": "Some parents on benefits to get up to \u00a34,500 for child starting apprenticeship",
-    "summary": "Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships.",
+    "summary": "Some parents on benefits lose income if their children take on apprenticeships.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Tue, 28 Jul 2026 17:32:56 GMT",
@@ -280,19 +300,9 @@
     "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1547862.html",
-    "category": "sports",
-    "title": "Pratika Rawal signs with Warwickshire Bears",
-    "summary": "The India top-order batter is set to return to action after missing the Lord's Test with injury",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/408300/408323.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Tue, 28 Jul 2026 15:51:07 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1547862.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o#0",
     "category": "global",
-    "title": "Uefa & Burnham criticise Infantino World Cup plan",
+    "title": "Uefa and PM criticise Infantino World Cup plan",
     "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -308,16 +318,6 @@
     "source": "BBC",
     "pubDate": "Tue, 28 Jul 2026 15:32:37 GMT",
     "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ce8l064xe52o#0",
-    "category": "global",
-    "title": "Powell says student loan system at top of in-tray",
-    "summary": "She says she stands by past comments that the interest charged on Plan 2 loans is \"egregious\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 28 Jul 2026 14:50:02 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ce8l064xe52o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o#0",
