@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserve-keeps-rates-steady-as-iran-driven-inflation-risks-keep-markets-on-edge/articleshow/132719615.cms",
+    "category": "finance",
+    "title": "US Federal Reserve keeps rates steady as Iran-driven inflation risks keep markets on edge",
+    "summary": "The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation signals. Renewed fighting linked to Iran pressures oil prices and clouds economic outlook. Inflation remains above the Fed's target, causing investor concern about poten",
+    "image": "https://img.etimg.com/photo/msid-132719615,imgsize-66806.cms",
+    "source": "ET",
+    "pubDate": "Wed, 29 Jul 2026 23:32:07 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserve-keeps-rates-steady-as-iran-driven-inflation-risks-keep-markets-on-edge/articleshow/132719615.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/naga-village-guard-killed-2-security-personnel-injured-in-manipur-operation-11840144#publisher=newsstand",
+    "category": "india",
+    "title": "Naga Village Guard Killed, 2 Security Personnel Injured In Manipur Operation",
+    "summary": "Security forces maintained a tight cordon and continued combing operations. (File)",
+    "image": "https://c.ndtvimg.com/2026-07/ttiv6l2s_manipur-generic_625x300_06_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 29 Jul 2026 23:13:46 +0530",
+    "link": "https://www.ndtv.com/india-news/naga-village-guard-killed-2-security-personnel-injured-in-manipur-operation-11840144#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/2-brothers-killed-mother-injured-in-landslide-in-nagaland-11840128#publisher=newsstand",
+    "category": "india",
+    "title": "2 Brothers Killed, Mother Injured In Landslide In Nagaland",
+    "summary": "The victims' bodies have been taken to their native village in Alisopur",
+    "image": "https://c.ndtvimg.com/2026-07/5i2ddhfc_nagaland-landslide_625x300_29_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 29 Jul 2026 23:05:54 +0530",
+    "link": "https://www.ndtv.com/india-news/2-brothers-killed-mother-injured-in-landslide-in-nagaland-11840128#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/instagram-posts-may-help-iran-warns-us-considers-seizing-troops-phones-11840124#publisher=newsstand",
+    "category": "india",
+    "title": "Instagram Posts May Help Iran, Warns US, Considers Seizing Troops' Phones",
+    "summary": "Any restrictions would significantly affect thousands of US personnel who rely on their phones",
+    "image": "https://c.ndtvimg.com/2026-07/mv9qaeno_us-army_625x300_29_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 29 Jul 2026 23:05:26 +0530",
+    "link": "https://www.ndtv.com/world-news/instagram-posts-may-help-iran-warns-us-considers-seizing-troops-phones-11840124#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/tulu-mondal-anubrata-mondal-trinamool-congress-bjp-birbhum-raid-at-bengal-ex-bus-drivers-home-unearths-rs-5-crore-cash-15-kg-gold-and-politics-11840102#publisher=newsstand",
+    "category": "india",
+    "title": "Raid At Bengal Ex-Bus Driver's Home Unearths Rs 5 Crore Cash, 15-kg Gold, And Politics",
+    "summary": "West Bengal Chief Minister Suvendu Adhikari said the drive against corruption will continue.",
+    "image": "https://c.ndtvimg.com/2026-07/3oroc7ns_birbhum-gold_625x300_29_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 29 Jul 2026 23:03:47 +0530",
+    "link": "https://www.ndtv.com/india-news/tulu-mondal-anubrata-mondal-trinamool-congress-bjp-birbhum-raid-at-bengal-ex-bus-drivers-home-unearths-rs-5-crore-cash-15-kg-gold-and-politics-11840102#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/one-lucky-ticket-wins-800-million-mega-millions-jackpot-in-florida-11840082#publisher=newsstand",
+    "category": "india",
+    "title": "One Lucky Ticket Wins $800 Million Mega Millions Jackpot In Florida",
+    "summary": "Florida does not charge a state tax on lottery winnings.",
+    "image": "https://c.ndtvimg.com/2026-07/njordeso_mega-millions-florida_625x300_29_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 29 Jul 2026 22:54:44 +0530",
+    "link": "https://www.ndtv.com/offbeat/one-lucky-ticket-wins-800-million-mega-millions-jackpot-in-florida-11840082#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/reporters-diary-the-day-manmohan-singh-challenged-cbi-summons-in-top-court-11840078#publisher=newsstand",
+    "category": "india",
+    "title": "Reporter's Diary: The Day Manmohan Singh Challenged CBI Summons In Top Court",
+    "summary": "The case remained pending before the Supreme Court for several years. Manmohan Singh died in 2024.",
+    "image": "https://c.ndtvimg.com/2025-10/7s9rl6l4_manmohan-singh_625x300_21_October_25.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 29 Jul 2026 22:53:40 +0530",
+    "link": "https://www.ndtv.com/india-news/reporters-diary-the-day-manmohan-singh-challenged-cbi-summons-in-top-court-11840078#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/bihar-man-beheads-sister-in-law-over-delay-in-serving-food-11839956#publisher=newsstand",
+    "category": "india",
+    "title": "Bihar Man Beheads Sister-In-Law Over Delay In Serving Food",
+    "summary": "The accused has been arrested.",
+    "image": "https://c.ndtvimg.com/2026-07/lrsg9jjc_murder_625x300_29_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 29 Jul 2026 22:35:16 +0530",
+    "link": "https://www.ndtv.com/india-news/bihar-man-beheads-sister-in-law-over-delay-in-serving-food-11839956#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/feature/smart-toilet-seat-developed-by-german-company-can-detect-heart-problems-says-study-11839980#publisher=newsstand",
+    "category": "india",
+    "title": "Smart Toilet Seat Developed By German Company Can Detect Heart Problems, Says Study",
+    "summary": "The seat records the heart's electrical activity for about 30 seconds.",
+    "image": "https://c.ndtvimg.com/2026-07/r65brph8_toilet-seat_625x300_29_July_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 29 Jul 2026 22:34:05 +0530",
+    "link": "https://www.ndtv.com/feature/smart-toilet-seat-developed-by-german-company-can-detect-heart-problems-says-study-11839980#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-jumps-7-climbs-over-90-on-escalating-middle-east-strikes/articleshow/132717383.cms",
     "category": "finance",
     "title": "Brent crude jumps 7%, climbs over $90 on escalating Middle East strikes",
@@ -8,16 +98,6 @@
     "source": "ET",
     "pubDate": "Wed, 29 Jul 2026 22:10:16 +0530",
     "link": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-jumps-7-climbs-over-90-on-escalating-middle-east-strikes/articleshow/132717383.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/in-pics-how-wildfires-are-ravaging-western-europe-this-summer-11839786#publisher=newsstand",
-    "category": "india",
-    "title": "In Pics: How Wildfires Are Ravaging Western Europe This Summer",
-    "summary": "France has witnessed even larger evacuations as wildfires continue to rage.",
-    "image": "https://c.ndtvimg.com/2026-07/vl6amh4_wildfire_625x300_26_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 29 Jul 2026 21:46:46 +0530",
-    "link": "https://www.ndtv.com/india-news/in-pics-how-wildfires-are-ravaging-western-europe-this-summer-11839786#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/jk-bank-q1-profit-slips-13-as-higher-provisions-hit-earnings/articleshow/132716700.cms",
@@ -50,26 +130,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132716493.cms"
   },
   {
-    "id": "https://www.ndtv.com/world-news/us-iran-war-live-will-beat-s-t-out-of-them-donald-trump-after-surprise-iran-attack-on-us-base-11838999#publisher=newsstand",
-    "category": "india",
-    "title": "'Will Beat F***ing S**t Out Of Them': Trump After Iran Attacks US Base",
-    "summary": "His comments came after the US military said it had intercepted every Iranian missile",
-    "image": "https://c.ndtvimg.com/2026-03/ehuqon2c_trump-afp_625x300_24_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 29 Jul 2026 21:18:46 +0530",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-live-will-beat-s-t-out-of-them-donald-trump-after-surprise-iran-attack-on-us-base-11838999#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/himanta-sarma-flags-off-rs-16-crore-relief-fund-as-assam-rebuilds-from-flood-11839655#publisher=newsstand",
-    "category": "india",
-    "title": "Himanta Sarma Flags Off Rs 16 Crore Relief Fund As Assam Rebuilds From Flood",
-    "summary": "Himanta Sarma also pointed to the recurring floods caused by runoff from the hills of Nagaland.",
-    "image": "https://c.ndtvimg.com/2026-07/j6pmqn54_assam-flood_625x300_20_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 29 Jul 2026 21:17:07 +0530",
-    "link": "https://www.ndtv.com/india-news/himanta-sarma-flags-off-rs-16-crore-relief-fund-as-assam-rebuilds-from-flood-11839655#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserve-expected-to-hold-rates-as-iran-war-clouds-inflation-outlook/articleshow/132716071.cms",
     "category": "finance",
     "title": "US Federal Reserve expected to hold rates as Iran war clouds inflation outlook",
@@ -78,46 +138,6 @@
     "source": "ET",
     "pubDate": "Wed, 29 Jul 2026 21:08:22 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserve-expected-to-hold-rates-as-iran-war-clouds-inflation-outlook/articleshow/132716071.cms"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/absolutely-insane-spectacular-meteors-light-up-new-zealand-skies-with-sonic-booms-11839590#publisher=newsstand",
-    "category": "india",
-    "title": "\"Absolutely Insane\": Spectacular Meteors Light Up New Zealand Skies With Sonic Booms",
-    "summary": "Representative image.",
-    "image": "https://c.ndtvimg.com/2026-07/7clgti0k_meteor_625x300_29_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Wed, 29 Jul 2026 21:04:35 +0530",
-    "link": "https://www.ndtv.com/offbeat/absolutely-insane-spectacular-meteors-light-up-new-zealand-skies-with-sonic-booms-11839590#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/mumbai-civic-body-bmc-scorpios-pain-in-the-back-mumbai-civic-body-seeks-to-buy-pricier-innovas-11839563#publisher=newsstand",
-    "category": "india",
-    "title": "Scorpios 'Pain In The Back', Mumbai Civic Body Seeks To Buy Pricier Innovas",
-    "summary": "The leader of the opposition in the BMC said the move is a waste of money.",
-    "image": "https://c.ndtvimg.com/2026-07/2na5j4a8_1_625x300_29_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 29 Jul 2026 21:01:14 +0530",
-    "link": "https://www.ndtv.com/india-news/mumbai-civic-body-bmc-scorpios-pain-in-the-back-mumbai-civic-body-seeks-to-buy-pricier-innovas-11839563#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/ukraine-calls-out-russia-urges-india-to-act-after-attacks-on-sailors-11839568#publisher=newsstand",
-    "category": "india",
-    "title": "Ukraine Calls Out Russia, Urges India To Act After Attacks On Sailors",
-    "summary": "13 Indian crew members remain stranded aboard the cargo vessel MV AMIR 1 at the Port of Chornomorsk",
-    "image": "https://c.ndtvimg.com/2026-07/l4luav8g_indian-sailor-ukraine_625x300_29_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 29 Jul 2026 20:59:07 +0530",
-    "link": "https://www.ndtv.com/world-news/ukraine-calls-out-russia-urges-india-to-act-after-attacks-on-sailors-11839568#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/offbeat/indian-origin-woman-reveals-how-she-returned-to-semiconductor-career-after-six-year-break-11839545#publisher=newsstand",
-    "category": "india",
-    "title": "Indian-Origin Woman Reveals How She Returned To Semiconductor Career After Six-Year Break",
-    "summary": "Ramya Ramesh overcame a six-year career gap to join the tech workforce.",
-    "image": "https://c.ndtvimg.com/2026-07/f989rk1s_asas_625x300_29_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 29 Jul 2026 20:54:34 +0530",
-    "link": "https://www.ndtv.com/offbeat/indian-origin-woman-reveals-how-she-returned-to-semiconductor-career-after-six-year-break-11839545#publisher=newsstand"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-lloyds-metals-among-2-stock-recommendations-for-thursday/articleshow/132715595.cms",
@@ -130,16 +150,6 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-lloyds-metals-among-2-stock-recommendations-for-thursday/articleshow/132715595.cms"
   },
   {
-    "id": "https://www.ndtv.com/education/school-assembly-news-headlines-july-30-top-national-international-sports-education-news-11839430#publisher=newsstand",
-    "category": "india",
-    "title": "School Assembly News Headlines (July 30): Top National, International, Sports Education News",
-    "summary": "School Assembly News Headlines (July 30):  Take a look at the top stories making headlines today.",
-    "image": "https://c.ndtvimg.com/2019-05/o5lslqjo_cbse-board-result_625x300_04_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 29 Jul 2026 20:31:57 +0530",
-    "link": "https://www.ndtv.com/education/school-assembly-news-headlines-july-30-top-national-international-sports-education-news-11839430#publisher=newsstand"
-  },
-  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/amazon-web-services-india-net-profit-jumps-over-10-fold-to-rs-242-cr-in-fy26/articleshow/132715491.cms",
     "category": "finance",
     "title": "Amazon Web Services India net profit jumps over 10-fold to Rs 242 cr in FY26",
@@ -150,14 +160,94 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/amazon-web-services-india-net-profit-jumps-over-10-fold-to-rs-242-cr-in-fy26/articleshow/132715491.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cbiz-shares-soar-17-after-grant-thornton-agrees-to-buy-company-in-5-billion-cash-deal/articleshow/132714927.cms",
-    "category": "finance",
-    "title": "CBIZ shares soar 17% after Grant Thornton agrees to buy company in $5 billion cash deal",
-    "summary": "CBIZ shares surged 17% after Grant Thornton Advisors agreed to acquire the company for $5 billion in cash. The deal will create the fifth-largest US accounting and advisory firm, overshadowing mixed quarterly results and accelerating consolidation in",
-    "image": "https://img.etimg.com/photo/msid-132714927,imgsize-15822.cms",
-    "source": "ET",
-    "pubDate": "Wed, 29 Jul 2026 20:10:37 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cbiz-shares-soar-17-after-grant-thornton-agrees-to-buy-company-in-5-billion-cash-deal/articleshow/132714927.cms"
+    "id": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o#0",
+    "category": "global",
+    "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+    "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 29 Jul 2026 18:41:31 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o#0",
+    "category": "global",
+    "title": "Police to take no further action against Polanski over guillotine re-post",
+    "summary": "The Green Party leader has said he made an \"inadvertent mistake\" when he shared the image with his social media followers.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 29 Jul 2026 18:40:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1548024.html",
+    "category": "sports",
+    "title": "Sharks off the mark as Tear leads stiff run-chase",
+    "summary": "Thain century in vain as Essex target of 317 is not enough",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/405100/405144.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 29 Jul 2026 18:31:53 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548024.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1548038.html",
+    "category": "sports",
+    "title": "Match tied after Jones, Kelly shine in Spirit chase",
+    "summary": "Honours even in London derby as MI London's win drought goes on",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420400/420488.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 29 Jul 2026 17:58:36 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548038.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1548026.html",
+    "category": "sports",
+    "title": "Barnard stars for Bears as Surrey are undone",
+    "summary": "Sibley, Blake put up a fight in stiff chase but Warwickshire succumb by 45 runs",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/402000/402098.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 29 Jul 2026 17:41:12 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548026.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1548037.html",
+    "category": "sports",
+    "title": "Duckett fires for Rockets as Welsh Fire fizzle to nine-wicket loss",
+    "summary": "Seven no-balls contribute to one-sided chase as 123-run target is hunted down with ease",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420400/420489.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 29 Jul 2026 17:41:09 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548037.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1548022.html",
+    "category": "sports",
+    "title": "Rhodes' epic century secures thrilling three-wicket win for Durham",
+    "summary": "Aldridge plays key role as sidekick after Stokes' first-ball duck had put Glamorgan in total command",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420400/420490.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 29 Jul 2026 17:34:09 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548022.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1548046.html",
+    "category": "sports",
+    "title": "Shane McDermott appointed Afghanistan assistant and fielding coach",
+    "summary": "He will link up with the team on August 1, ahead of their five-match ODI series against Ireland",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/419600/419668.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 29 Jul 2026 17:15:34 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548046.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1548025.html",
+    "category": "sports",
+    "title": "Litton Das named Bangladesh's new ODI captain",
+    "summary": "He takes over from Mehidy, who the BCB hopes will be able to regain top form without added responsibility",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/403600/403664.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Wed, 29 Jul 2026 17:11:53 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548025.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o#0",
@@ -168,16 +258,6 @@
     "source": "BBC",
     "pubDate": "Wed, 29 Jul 2026 17:04:42 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1548046.html",
-    "category": "sports",
-    "title": "Shane McDermott appointed Afghanistan assistant and fielding coach",
-    "summary": "He will link up with the team on August 1, ahead of their five-match ODI series against Ireland",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419600/419668.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 29 Jul 2026 17:03:21 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548046.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1548028.html",
@@ -200,34 +280,14 @@
     "link": "https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1548025.html",
-    "category": "sports",
-    "title": "Litton Das named Bangladesh's new ODI captain",
-    "summary": "He takes over from Mehidy, who the BCB hopes will be able to regain top form without added responsibility",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/403600/403664.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 29 Jul 2026 16:57:21 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548025.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/c62q5we799ro#0",
     "category": "global",
     "title": "France fire crews face searing heat in battle to contain flames",
-    "summary": "Firefighters are battling flare-ups in 40C heat, as some locals have refused to heed evacuations in the Gironde region.",
+    "summary": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Wed, 29 Jul 2026 16:49:41 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko#0",
-    "category": "global",
-    "title": "Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins",
-    "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 29 Jul 2026 16:49:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro#0",
@@ -240,34 +300,14 @@
     "link": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo#0",
+    "id": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o#0",
     "category": "global",
-    "title": "Serial killer given whole life orders for murders of two men as police investigate four more deaths",
-    "summary": "Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed.",
+    "title": "Some tech shares are plunging - what does that mean for the AI revolution?",
+    "summary": "Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Wed, 29 Jul 2026 16:10:40 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1548035.html",
-    "category": "sports",
-    "title": "Sciver-Brunt doesn't 'want to give up bowling just yet' despite calf issues",
-    "summary": "The England captain has hinted at missing the Ireland ODIs next month to continue rehab for her calf issue that has forced her to play as a specialist batter",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/420400/420459.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 29 Jul 2026 15:33:41 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548035.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1548004.html",
-    "category": "sports",
-    "title": "Chase, Warrican to lead Barbadian contingent at Garry Sobers' state funeral",
-    "summary": "The Barbados cricketers, part of West Indies' Test squad against Pakistan, would fly from Trinidad to attend the funeral",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/284500/284599.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 29 Jul 2026 15:08:03 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548004.html?ex_cid=OTC-RSS"
+    "pubDate": "Wed, 29 Jul 2026 15:32:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o#0",
@@ -278,46 +318,6 @@
     "source": "BBC",
     "pubDate": "Wed, 29 Jul 2026 14:37:30 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1548006.html",
-    "category": "sports",
-    "title": "Abbas, Shahzad handed a demerit point each for aggressive\u00a0celebrations",
-    "summary": "Shahzad was also fined 15% of his match fee while Abbas was handed an official reprimand",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/420300/420359.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 29 Jul 2026 14:08:28 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548006.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1548016.html",
-    "category": "sports",
-    "title": "Duleep Trophy: Kishan to captain East Zone; Sooryavanshi named vice-captain",
-    "summary": "The squad includes Shami and Mukesh, while Parag and Akash Deep weren't considered as they continue to recuperate from surgeries",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/419200/419210.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 29 Jul 2026 14:06:36 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548016.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1548007.html",
-    "category": "sports",
-    "title": "Mooney, Sciver-Brunt lead Welsh Fire thrashing",
-    "summary": "Trent Rockets chased a target of 130 with ease after Welsh Fire managed just 15 in the Powerplay",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/420400/420473.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 29 Jul 2026 13:57:55 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548007.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cjejl274xx8o#0",
-    "category": "global",
-    "title": "Is World Cup sell-off plan a step too far by Infantino?",
-    "summary": "BBC Sport explores why Fifa president Gianni Infantino feels powerful enough to sell off stakes in the World Cup - and what the consequences could be.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 29 Jul 2026 13:48:10 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cjejl274xx8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "4ri2LVmhlv34kOOk94nnsi",
