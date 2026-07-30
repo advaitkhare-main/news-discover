@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1548053.html",
-    "category": "sports",
-    "title": "Spirit's Proteas secure London Derby for first win of the campaign",
-    "summary": "Lhuan-dre Pretorius and Dewald Brevis seal Spirit's second win over Oval rivals in 10 attempts",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/420400/420491.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 29 Jul 2026 22:11:37 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548053.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "4ri2LVmhlv34kOOk94nnsi",
     "category": "scitech",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -40,190 +30,260 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-big-short-why-rising-credit-default-swaps-are-spooking-investors-and-how-is-it-similar-to-2008-housing-crisis/articleshow/132738317.cms",
+    "id": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/embassy-reit-q1-revenue-jumps-17-on-strong-gcc-ai-leasing/articleshow/132741818.cms",
     "category": "finance",
-    "title": "AI Big Short? Why rising credit default swaps are spooking investors and how is it similar to 2008 housing crisis",
-    "summary": "Rising credit default swaps on major technology companies are fuelling concerns over a potential AI-driven market correction. Investors are drawing parallels with Michael Burry\u2019s successful 2008 bet, while surging AI spending, leverage and elevated v",
-    "image": "https://img.etimg.com/photo/msid-132738317,imgsize-166604.cms",
+    "title": "Embassy REIT Q1 revenue jumps 17% on strong GCC, AI leasing",
+    "summary": "Embassy Office Parks REIT posted 17% growth in Q1 revenue and net operating income, driven by robust leasing from Global Capability Centres and AI firms. The REIT declared a higher distribution, maintained strong occupancy and expanded its developmen",
+    "image": "https://img.etimg.com/photo/msid-132741818,imgsize-103.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Jul 2026 17:00:30 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-big-short-why-rising-credit-default-swaps-are-spooking-investors-and-how-is-it-similar-to-2008-housing-crisis/articleshow/132738317.cms"
+    "pubDate": "Thu, 30 Jul 2026 19:06:45 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/embassy-reit-q1-revenue-jumps-17-on-strong-gcc-ai-leasing/articleshow/132741818.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-announces-demerger-of-real-estate-business-into-new-listed-company/articleshow/132736690.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-opens-higher-as-microsofts-results-temper-some-ai-jitters/articleshow/132741802.cms",
     "category": "finance",
-    "title": "Vedanta announces demerger of real estate business into new listed company",
-    "summary": "Vedanta's board has approved a demerger of its real estate business.  This will create a new pure-play real estate company called Vedanta Property Platforms.  Shareholders will receive one new share for every twenty held in Vedanta.  The company plan",
-    "image": "https://img.etimg.com/photo/msid-132736690,imgsize-47894.cms",
+    "title": "US stocks: US market opens higher as Microsoft's results temper some AI jitters",
+    "summary": "US stocks opened higher on Thursday morning. Microsoft's strong forecast eased investor concerns about AI spending. Major indices like the Dow and S&amp;P 500 saw significant gains. The Nasdaq Composite also experienced a notable increase at the open",
+    "image": "https://img.etimg.com/photo/msid-132741802,imgsize-122930.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Jul 2026 16:07:34 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-announces-demerger-of-real-estate-business-into-new-listed-company/articleshow/132736690.cms"
+    "pubDate": "Thu, 30 Jul 2026 19:03:33 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-opens-higher-as-microsofts-results-temper-some-ai-jitters/articleshow/132741802.cms"
   },
   {
-    "id": "https://www.ndtv.com/artificial-intelligence/consulting-giants-ai-blunders-continue-this-time-its-pwc-11842995#publisher=newsstand",
-    "category": "india",
-    "title": "Consulting Giants' AI Blunders Continue, This Time It's PWC",
-    "summary": "One citation URL actually contained \"utm_source=chatgpt.com\"",
-    "image": "https://c.ndtvimg.com/2025-12/437edb04_428191667.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Jul 2026 16:03:59 +0530",
-    "link": "https://www.ndtv.com/artificial-intelligence/consulting-giants-ai-blunders-continue-this-time-its-pwc-11842995#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/centre-pins-exam-mess-on-previous-government-inaction-congress-hits-back-11842790#publisher=newsstand",
-    "category": "india",
-    "title": "'Threatening Violence': BJP Over M Kharge's Remark On Amit Shah In Parliament",
-    "summary": "Home Minister Amit Shah and LoP Rajya Sabha Mallikarjun Kharge",
-    "image": "https://c.ndtvimg.com/2026-07/l2i8820g_amit-shah-kharge_625x300_30_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Jul 2026 16:00:57 +0530",
-    "link": "https://www.ndtv.com/india-news/centre-pins-exam-mess-on-previous-government-inaction-congress-hits-back-11842790#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wait-till-payback-time-south-korean-retail-investors-protest-as-govt-apologises-after-kospi-crashes-40-in-a-month/articleshow/132736424.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-q1-net-profit-down-37-as-sales-volume-slips/articleshow/132741576.cms",
     "category": "finance",
-    "title": "'Wait till payback time!': South Korean retail investors protest as govt apologises after Kospi crashes 40% in a month",
-    "summary": "Kospi skyrocketed over 122% since the beginning of the year to hit a lifetime high of 9,386 in June on the back of a global AI frenzy, before things began to go downhill. While South Korea\u2019s stock market grabbed headlines as the world\u2019s best-performi",
-    "image": "https://img.etimg.com/photo/msid-132736424,imgsize-85760.cms",
+    "title": "Ambuja Cements Q1 net profit down 37% as sales volume slips",
+    "summary": "Ambuja Cements reported a profit drop, impacted by lower sales volume and higher costs. The company will now prioritize value over sales volume in its operations. Consolidated net profit decreased by thirty-seven percent year-on-year during the fisca",
+    "image": "https://img.etimg.com/photo/msid-132741576,imgsize-116464.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Jul 2026 15:59:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wait-till-payback-time-south-korean-retail-investors-protest-as-govt-apologises-after-kospi-crashes-40-in-a-month/articleshow/132736424.cms"
+    "pubDate": "Thu, 30 Jul 2026 18:57:21 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-q1-net-profit-down-37-as-sales-volume-slips/articleshow/132741576.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/swiggy-q1-results-net-loss-narrows-to-rs-791-crore-revenue-jumps-37-yoy/articleshow/132736162.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/hyundai-india-q1-profit-misses-estimates-drops-35-on-disruptions/articleshow/132740647.cms",
     "category": "finance",
-    "title": "Swiggy Q1 Results: Net loss narrows to Rs 791 crore; revenue jumps 37% YoY",
-    "summary": "Swiggy Q1 Results: Swiggy narrowed its Q1FY27 consolidated net loss by 34% year-on-year to Rs 791 crore, while revenue from operations rose 37%. Instamart achieved contribution breakeven despite continued investments, food delivery maintained steady ",
-    "image": "https://img.etimg.com/photo/msid-132736162,imgsize-201340.cms",
+    "title": "Hyundai India Q1 profit misses estimates, drops 35% on disruptions",
+    "summary": "Hyundai Motor India reported a 35% decline in Q1 net profit, missing estimates as production disruptions and weaker Middle East exports hurt earnings. The company expects recovery from Q2 with production normalisation, new vehicle launches and Rs 7,5",
+    "image": "https://img.etimg.com/photo/msid-132740647,imgsize-27254.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Jul 2026 15:52:05 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/swiggy-q1-results-net-loss-narrows-to-rs-791-crore-revenue-jumps-37-yoy/articleshow/132736162.cms"
+    "pubDate": "Thu, 30 Jul 2026 18:21:05 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hyundai-india-q1-profit-misses-estimates-drops-35-on-disruptions/articleshow/132740647.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-nearly-flat-at-95-68-vs-usd-wedged-between-oil-swings-rbi-intervention/articleshow/132736055.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/torrent-pharmaceuticals-q1-results-profit-rises-3-to-rs-566-crore/articleshow/132740627.cms",
     "category": "finance",
-    "title": "Rupee ends nearly flat at 95.68 vs USD, wedged between oil swings, RBI intervention",
-    "summary": "On Thursday, the Indian rupee remained stable, closing at approximately 95.68 against the dollar. The currency faced pressure due to fluctuating oil prices and heightened demand for dollars from corporations. However, intervention from the central ba",
-    "image": "https://img.etimg.com/photo/msid-132736055,imgsize-46062.cms",
+    "title": "Torrent Pharmaceuticals Q1 Results: Profit rises 3% to Rs 566 crore",
+    "summary": "Torrent Pharmaceuticals announced a robust profit after tax of Rs 566 crore for the first quarter, showcasing impressive growth. Revenue soared to Rs 4,921 crore, with Indian revenue up by nineteen percent and a significant thirty-six percent increas",
+    "image": "https://img.etimg.com/photo/msid-132740627,imgsize-291369.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Jul 2026 15:46:23 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-nearly-flat-at-95-68-vs-usd-wedged-between-oil-swings-rbi-intervention/articleshow/132736055.cms"
+    "pubDate": "Thu, 30 Jul 2026 18:19:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/torrent-pharmaceuticals-q1-results-profit-rises-3-to-rs-566-crore/articleshow/132740627.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/hyundai-motor-q1-results-profit-slumps-35-yoy-to-rs-889-crore-as-headwinds-weigh-on-volumes/articleshow/132735596.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/bank-of-england-policymakers-keep-rates-on-hold-but-more-back-hike/articleshow/132740548.cms",
     "category": "finance",
-    "title": "Hyundai Motor Q1 Results: Profit slumps 35% YoY to Rs 889 crore as headwinds weigh on volumes",
-    "summary": "Hyundai Motor India reported a net profit of Rs 889 crore for Q1 FY27. This represents a significant 35% decrease from the previous year's earnings. Revenue from operations saw a slight dip to Rs 16,335 crore. EBITDA also tumbled 31% year-on-year to ",
-    "image": "https://img.etimg.com/photo/msid-132735596,imgsize-26734.cms",
+    "title": "Bank of England policymakers keep rates on hold but more back hike",
+    "summary": "The Bank of England decided to keep its benchmark interest rate steady at 3.75 percent. However, three policymakers have pushed for a possible hike amid rising tensions in the Middle East. With inflation expected to touch 3.2 percent later this year,",
+    "image": "https://img.etimg.com/photo/msid-132740548,imgsize-256620.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Jul 2026 15:43:16 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hyundai-motor-q1-results-profit-slumps-35-yoy-to-rs-889-crore-as-headwinds-weigh-on-volumes/articleshow/132735596.cms"
+    "pubDate": "Thu, 30 Jul 2026 18:18:23 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/bank-of-england-policymakers-keep-rates-on-hold-but-more-back-hike/articleshow/132740548.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/did-my-duty-wasnt-scared-bhopals-lady-singham-who-stood-in-front-of-moving-bus-11842907#publisher=newsstand",
-    "category": "india",
-    "title": "\"Did My Duty, Wasn't Scared\": Bhopal's 'Lady Singham' Who Stood In Front Of Moving Bus",
-    "summary": "ACP Monika Shukla in front of the bus",
-    "image": "https://c.ndtvimg.com/2026-07/aia09g34_bus_625x300_30_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Jul 2026 15:37:54 +0530",
-    "link": "https://www.ndtv.com/india-news/did-my-duty-wasnt-scared-bhopals-lady-singham-who-stood-in-front-of-moving-bus-11842907#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/education/neet-ug-2026-candidate-moves-delhi-high-court-alleges-nta-changed-his-score-thrice-within-24-hours-11842920#publisher=newsstand",
-    "category": "india",
-    "title": "NEET UG Candidate Moves Delhi Court, Alleges NTA Changed His Score Thrice Within 24 Hours",
-    "summary": "The NEET UG 2026 results were declared on July 16.",
-    "image": "https://c.ndtvimg.com/2019-02/9oaj3kf8_exam-hall_625x300_09_February_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Jul 2026 15:35:44 +0530",
-    "link": "https://www.ndtv.com/education/neet-ug-2026-candidate-moves-delhi-high-court-alleges-nta-changed-his-score-thrice-within-24-hours-11842920#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-30-july-us-iran-war-oil-prices-11841149#publisher=newsstand",
-    "category": "india",
-    "title": "Stock Market Highlights, Sensex Today: Sensex Settles 170 Points Higher Amid Fresh US-Iran Tensions",
-    "summary": "Sensex Today, Stock Market, Nifty, Share Market Highlights",
-    "image": "https://c.ndtvimg.com/2026-07/1pb99vcs_stock-market-today_625x300_15_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 30 Jul 2026 15:33:52 +0530",
-    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-30-july-us-iran-war-oil-prices-11841149#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q1-results-profit-jumps-28-yoy-to-rs-6081-crore-nii-surges-23/articleshow/132735572.cms",
+    "id": "https://economictimes.indiatimes.com/markets/bonds/uk-bond-yields-and-sterling-dip-after-boe-holds-rates-steady/articleshow/132740517.cms",
     "category": "finance",
-    "title": "Bajaj Finance Q1 Results: Profit jumps 28% YoY to Rs 6,081 crore, NII surges 23%",
-    "summary": "Bajaj Finance on Thursday reported 28% year-on-year (YoY) growth in its standalone net profit at Rs 6,081 crore, compared with Rs 4,765 crore in the last year quarter. Net interest income in the reporting period increased 23% YoY to Rs 12,571 crore.",
-    "image": "https://img.etimg.com/photo/msid-132735572,imgsize-12372.cms",
+    "title": "UK bond yields and sterling dip after BoE holds rates steady",
+    "summary": "In a move consistent with expectations, the Bank of England has kept interest rates steady at 3.75 percent. They noted domestic conditions are helping to alleviate inflationary pressures. Following this update, there were minor decreases in UK bond y",
+    "image": "https://img.etimg.com/photo/msid-132740517,imgsize-39618.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Jul 2026 15:32:38 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q1-results-profit-jumps-28-yoy-to-rs-6081-crore-nii-surges-23/articleshow/132735572.cms"
+    "pubDate": "Thu, 30 Jul 2026 18:15:26 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/uk-bond-yields-and-sterling-dip-after-boe-holds-rates-steady/articleshow/132740517.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-raised-stakes-in-12-smallcap-stocks-that-surged-up-to-110/slideshow/132735800.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-marty-whitman-were-bottom-up-investors-we-always-have-to-operate-on-negative-macro-assumptions/articleshow/132739809.cms",
     "category": "finance",
-    "title": "Retail investors raised stakes in 12 smallcap stocks that surged up to 110%",
-    "summary": "Shareholding data for the June 2026 quarter show that retail investors increased their stakes in 328 small-cap stocks for the second consecutive quarter, signalling sustained confidence.",
-    "image": "https://img.etimg.com/photo/msid-132735392,imgsize-30574.cms",
+    "title": "Quote of the day by Marty Whitman: \"We\u2019re bottom-up investors. We always have to operate on negative macro assumptions\"",
+    "summary": "Legendary investor Marty Whitman advocated a bottom-up investing approach, urging investors to assume adverse macro conditions while focusing on strong businesses. He emphasised resilient balance sheets, capable management, competitive advantages and",
+    "image": "https://img.etimg.com/photo/msid-132739809,imgsize-2038799.cms",
     "source": "ET",
-    "pubDate": "Thu, 30 Jul 2026 15:25:44 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-raised-stakes-in-12-smallcap-stocks-that-surged-up-to-110/slideshow/132735800.cms"
+    "pubDate": "Thu, 30 Jul 2026 17:52:38 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-marty-whitman-were-bottom-up-investors-we-always-have-to-operate-on-negative-macro-assumptions/articleshow/132739809.cms"
   },
   {
-    "id": "https://www.ndtv.com/delhi-news/farmer-goes-to-bank-to-update-aadhaar-dies-in-accidental-firing-in-delhi-11842825#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/technology-delayed-is-technology-denied-air-force-chief-a-p-singh-pushes-for-self-reliance-11843419#publisher=newsstand",
     "category": "india",
-    "title": "Farmer Goes To Delhi Bank To Update Aadhaar, Dies In Accidental Firing",
-    "summary": "Man dies after security guard accidentally shoots him inside a Delhi bank",
-    "image": "https://c.ndtvimg.com/2026-07/aglq4lec_indian-farmer-in-bank-generic-ai_625x300_30_July_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "\"Technology Delayed Is Technology Denied\": Air Force Chief Pushes For Self-Reliance",
+    "summary": "He also spoke about integration of manned platforms and drones.",
+    "image": "https://c.ndtvimg.com/2025-05/mgaugkug_iaf-chief-air-chief-marshal-a-p-singh-pti_625x300_30_May_25.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 30 Jul 2026 15:25:33 +0530",
-    "link": "https://www.ndtv.com/delhi-news/farmer-goes-to-bank-to-update-aadhaar-dies-in-accidental-firing-in-delhi-11842825#publisher=newsstand"
+    "pubDate": "Thu, 30 Jul 2026 17:36:03 +0530",
+    "link": "https://www.ndtv.com/india-news/technology-delayed-is-technology-denied-air-force-chief-a-p-singh-pushes-for-self-reliance-11843419#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/who-is-eligible-to-apply-for-prime-minister-research-chair-fellowship-grant-experience-role-11842843#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/neet-protests-cockroach-janta-party-no-legal-action-against-cjp-protesters-in-delhi-arrests-to-be-reviewed-11843593#publisher=newsstand",
     "category": "india",
-    "title": "Who Is Eligible To Apply For Prime Minister Research Chair Fellowship? Grant, Experience, Role",
-    "summary": "The PMRC application must include curriculum vitae, details of citizenship, VISA.",
-    "image": "https://c.ndtvimg.com/2026-07/d42adj3o_pmrc_625x300_30_July_26.jpeg",
+    "title": "No Legal Action Against CJP Protesters In Delhi, Arrests To Be Reviewed",
+    "summary": "The Delhi government has said no adverse legal action will be taken against people booked over protests linked to alleged NEET-UG irregularities.",
+    "image": "https://c.ndtvimg.com/2026-07/73chrac_cjp-protest_625x300_28_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 30 Jul 2026 15:24:59 +0530",
-    "link": "https://www.ndtv.com/education/who-is-eligible-to-apply-for-prime-minister-research-chair-fellowship-grant-experience-role-11842843#publisher=newsstand"
+    "pubDate": "Thu, 30 Jul 2026 17:35:05 +0530",
+    "link": "https://www.ndtv.com/india-news/neet-protests-cockroach-janta-party-no-legal-action-against-cjp-protesters-in-delhi-arrests-to-be-reviewed-11843593#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/feature/yesmadam-ceos-90-second-airport-reunion-with-wife-goes-viral-linkedin-calls-it-modern-romance-11842756#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/pune-marathon-runner-dies-in-crash-family-donates-organs-to-save-4-live-11843418#publisher=newsstand",
     "category": "india",
-    "title": "YesMadam CEO's 90-Second Airport Reunion With Wife Goes Viral: \"For Us, This Is Romance\"",
-    "summary": "The post sparked conversations about the personal sacrifices behind entrepreneurship.",
-    "image": "https://c.ndtvimg.com/2026-07/mfoa2iec_-aditya-arya_625x300_30_July_26.jpeg",
+    "title": "Pune Marathon Runner Dies In Crash, Family Donates Organs To Save 4 Lives",
+    "summary": "Uday Birmal's family consented to donate his heart, liver, and both kidneys.",
+    "image": "https://c.ndtvimg.com/2026-07/fh6udbrk_uday_625x300_30_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 30 Jul 2026 15:23:07 +0530",
-    "link": "https://www.ndtv.com/feature/yesmadam-ceos-90-second-airport-reunion-with-wife-goes-viral-linkedin-calls-it-modern-romance-11842756#publisher=newsstand"
+    "pubDate": "Thu, 30 Jul 2026 17:34:32 +0530",
+    "link": "https://www.ndtv.com/india-news/pune-marathon-runner-dies-in-crash-family-donates-organs-to-save-4-live-11843418#publisher=newsstand"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cn9nyz12xe8o#0",
+    "id": "https://www.ndtv.com/india-news/cauvery-setback-for-karnataka-tamil-nadu-to-get-3-500-cusecs-water-per-day-11843446#publisher=newsstand",
+    "category": "india",
+    "title": "Cauvery Setback For Karnataka, Tamil Nadu To Get 3,500 Cusecs Water Per Day",
+    "summary": "The authority rejected Karnataka's contention that it was not in a position to release water.",
+    "image": "https://c.ndtvimg.com/0tvaiueg_mekedatu-waterfalls-650_625x300_16_July_18.jpg",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Jul 2026 17:33:19 +0530",
+    "link": "https://www.ndtv.com/india-news/cauvery-setback-for-karnataka-tamil-nadu-to-get-3-500-cusecs-water-per-day-11843446#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/over-200-academics-criticise-priyanka-gandhis-remarks-on-iit-professor-v-kamakoti-11843528#publisher=newsstand",
+    "category": "india",
+    "title": "215 Academics Slam Priyanka Gandhi's 'Cow Urine' Remark On IIT Professor",
+    "summary": "Priyanka Gandhi made the remarks during her speech in the Lok Sabha",
+    "image": "https://c.ndtvimg.com/2024-05/h43hvltk_priyanka-gandhi-vadra-ani_625x300_07_May_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Jul 2026 17:28:32 +0530",
+    "link": "https://www.ndtv.com/india-news/over-200-academics-criticise-priyanka-gandhis-remarks-on-iit-professor-v-kamakoti-11843528#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/nep-2020-turns-six-whats-changed-in-indias-education-system-and-whats-still-missing-11843516#publisher=newsstand",
+    "category": "india",
+    "title": "NEP 2020 Turns 6: What's Changed In India's Education System, What's Still Missing",
+    "summary": "NEP 2020 Turns 6: The most visible transformation has been in the structure of schooling.",
+    "image": "https://c.ndtvimg.com/2026-07/dffchfsk_july-school-holidays_625x300_04_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Jul 2026 17:25:48 +0530",
+    "link": "https://www.ndtv.com/education/nep-2020-turns-six-whats-changed-in-indias-education-system-and-whats-still-missing-11843516#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/offbeat/rotten-tomatoes-not-like-zindangi-naa-milegi-dobara-indian-woman-shares-reality-of-la-tomatina-festival-11843492#publisher=newsstand",
+    "category": "india",
+    "title": "'Rotten Tomatoes, Not Like Zindangi Naa Milegi Dobara': Indian Woman Shares Reality Of La Tomatina Festival",
+    "summary": "Indian woman warns visitors of harsh reality at La Tomatina tomato festival in Spain.",
+    "image": "https://c.ndtvimg.com/2024-08/52m4ghjo_tomatina-festival_625x300_28_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Jul 2026 17:20:51 +0530",
+    "link": "https://www.ndtv.com/offbeat/rotten-tomatoes-not-like-zindangi-naa-milegi-dobara-indian-woman-shares-reality-of-la-tomatina-festival-11843492#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/ndtv-impact-j-k-pellet-victim-who-lost-eyesight-in-2016-gets-compensation-11843479#publisher=newsstand",
+    "category": "india",
+    "title": "NDTV Impact: J&K Pellet Victim Who Lost Eyesight In 2016 Gets Compensation",
+    "summary": "NDTV visited the Sedow village in Shopian district earlier this week to report on the struggle of Insha.",
+    "image": "https://c.ndtvimg.com/2026-07/guiko9g8_insha-mushtaq_625x300_27_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 30 Jul 2026 17:16:50 +0530",
+    "link": "https://www.ndtv.com/india-news/ndtv-impact-j-k-pellet-victim-who-lost-eyesight-in-2016-gets-compensation-11843479#publisher=newsstand"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy07w28jn5lo#0",
     "category": "global",
-    "title": "Mum and boyfriend jailed for girl's  murder",
-    "summary": "Isabelle was subjected to \"sadistic\" violence and sexual abuse before her murder, a court hears.",
+    "title": "Greek police probe 'foul play' in death of woman found in suitcase",
+    "summary": "Elisabeth-Jane Ross's body was found in an abandoned building in the Kypseli district in Athens on 18 July.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 30 Jul 2026 11:44:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cn9nyz12xe8o?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 30 Jul 2026 13:47:19 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cy07w28jn5lo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo#0",
+    "id": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro#0",
     "category": "global",
-    "title": "Joe Root returns as England Test cricket captain with Stephen Fleming named head coach",
-    "summary": "Former New Zealand captain Stephen Fleming is appointed as England Test coach, with Joe Root as captain.",
+    "title": "Missile that left crater deep inside Poland was probably Russian, Polish PM says",
+    "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
-    "pubDate": "Thu, 30 Jul 2026 11:13:50 GMT",
-    "link": "https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&at_campaign=rss"
+    "pubDate": "Thu, 30 Jul 2026 13:38:50 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1548112.html",
+    "category": "sports",
+    "title": "Fleming appointment confirms England's wasted summer",
+    "summary": "ECB could have made clean break in wake of Ashes defeat; instead Test team has trod water",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/415600/415642.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 30 Jul 2026 13:38:44 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548112.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1548107.html",
+    "category": "sports",
+    "title": "Shanto: Bangladesh fast bowlers will 'give Australia a tough time'",
+    "summary": "Shanto also welcomed Australia's decision to field a full-strength squad, seeing it as a sign of the \"respect\" Bangladesh have earned",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/417000/417099.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 30 Jul 2026 13:36:27 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548107.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1548110.html",
+    "category": "sports",
+    "title": "UAE qualify for 2027 women's under-19 T20 World Cup by winning Asia Qualifier",
+    "summary": "Samoa also make it to the tournament for the second successive time after qualifying in 2025 too",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420500/420503.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 30 Jul 2026 13:35:10 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548110.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1548095.html",
+    "category": "sports",
+    "title": "Fleming named new England men's Test head coach, Root back as captain",
+    "summary": "New Zealander to take over before South Africa tour, with Marcus Trescothick filling in on interim basis for Pakistan Tests next month",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/365900/365997.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 30 Jul 2026 13:07:05 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548095.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c9w01781981o#0",
+    "category": "global",
+    "title": "Thousands evacuated in Crete as Europe battles wildfires",
+    "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 30 Jul 2026 12:46:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6298ljegkgo#0",
+    "category": "global",
+    "title": "Large rise in offenders sent back to prison, figures reveal",
+    "summary": "There has been a large rise in the number of offenders being recalled to prisons in England and Wales.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 30 Jul 2026 12:13:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6298ljegkgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5yd2j93r7ro#0",
+    "category": "global",
+    "title": "Four people die trying to cross Channel in small boats",
+    "summary": "French officials said the people had died in two separate incidents off its coast overnight.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 30 Jul 2026 11:45:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5yd2j93r7ro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/videos/cdx7lg950gdo#0",
     "category": "global",
     "title": "Watch: Giant iceberg turns over near  Greenland's coast",
-    "summary": "Video captured by a passerby showed the moment the iceberg collapsed creating a big wave.",
+    "summary": "Video captured by a passerby showed the moment the iceberg collapsed, creating a big wave.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Thu, 30 Jul 2026 10:54:36 GMT",
@@ -250,26 +310,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1548096.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1548095.html",
-    "category": "sports",
-    "title": "Fleming named new England men's Test head coach, Root back as captain",
-    "summary": "New Zealander to take over before South Africa tour, with Marcus Trescothick filling in on interim basis for Pakistan Tests next month",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/365900/365997.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 30 Jul 2026 10:15:33 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548095.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro#0",
-    "category": "global",
-    "title": "Missile that left crater deep inside Poland was probably Russian, Polish PM says",
-    "summary": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 30 Jul 2026 09:56:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/cq6dmlr1gzeo#0",
     "category": "global",
     "title": "Olivia Dean nominated and  Lily Allen snubbed in Mercury Prize list",
@@ -278,16 +318,6 @@
     "source": "BBC",
     "pubDate": "Thu, 30 Jul 2026 09:45:12 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cq6dmlr1gzeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c9w01781981o#0",
-    "category": "global",
-    "title": "Thousands evacuated in Crete as European wildfires continue to rage",
-    "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 30 Jul 2026 09:10:11 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1548062.html",
@@ -318,36 +348,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 30 Jul 2026 07:09:54 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1548089.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1548072.html",
-    "category": "sports",
-    "title": "Rahane announces retirement from international cricket and all formats",
-    "summary": "He finishes his 12-year international career with 8414 runs and 15 centuries",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/361500/361542.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 30 Jul 2026 06:40:05 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548072.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1548060.html",
-    "category": "sports",
-    "title": "Adam Zampa joins Queensland, BBL club remains unknown",
-    "summary": "Australia's premier white-ball spinner set to play domestic cricket for Queensland after leaving NSW",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/411200/411210.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Thu, 30 Jul 2026 05:28:54 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548060.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o#0",
-    "category": "global",
-    "title": "Israel building new land barriers in Gaza and displacing families",
-    "summary": "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 30 Jul 2026 05:05:24 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
