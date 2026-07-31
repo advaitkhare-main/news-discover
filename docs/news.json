@@ -40,6 +40,26 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "id": "https://www.ndtv.com/world-news/us-israel-planning-to-bombard-energy-related-targets-in-iran-report-11850783#publisher=newsstand",
+    "category": "india",
+    "title": "US, Israel Planning To Bombard Energy-Related Targets In Iran: Report",
+    "summary": "The campaign would be one of the harshest yet against Iranian energy infrastructure, the report claimed.",
+    "image": "https://c.ndtvimg.com/2026-07/eb3guu54_us-iran-war_625x300_12_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 01 Aug 2026 02:55:20 +0530",
+    "link": "https://www.ndtv.com/world-news/us-israel-planning-to-bombard-energy-related-targets-in-iran-report-11850783#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/stopped-india-pakistan-war-during-operation-sindoor-with-tariff-threat-claims-trump-11850619#publisher=newsstand",
+    "category": "india",
+    "title": "Stopped India-Pak War During Operation Sindoor With Tariff Threat: Trump",
+    "summary": "India has firmly rejected any third-party intervention",
+    "image": "https://c.ndtvimg.com/2026-07/c7bshf7o_donald-trump-afp_625x300_05_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Sat, 01 Aug 2026 02:18:45 +0530",
+    "link": "https://www.ndtv.com/world-news/stopped-india-pakistan-war-during-operation-sindoor-with-tariff-threat-claims-trump-11850619#publisher=newsstand"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-higher-as-amazon-soothes-ai-jitters/articleshow/132776618.cms",
     "category": "finance",
     "title": "US stocks: US market ends higher as Amazon soothes AI jitters",
@@ -110,26 +130,6 @@
     "link": "https://www.ndtv.com/world-news/italy-suspends-schengen-agreement-with-spain-because-of-ceuta-migrant-crisis-11850533#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/ceuta-migrant-crisis-morocco-34-dead-60-000-enter-from-morocco-all-about-crisis-in-spains-enclave-ceuta-11849393#publisher=newsstand",
-    "category": "india",
-    "title": "57 Dead, 60,000 Enter From Morocco: All About Crisis In Spain's Enclave Ceuta",
-    "summary": "Madrid has sent troops, more police, including divers, drones and boats, to boost security in Ceuta.",
-    "image": "https://c.ndtvimg.com/2026-07/9hq4ib_ceuta_625x300_31_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Sat, 01 Aug 2026 00:17:48 +0530",
-    "link": "https://www.ndtv.com/world-news/ceuta-migrant-crisis-morocco-34-dead-60-000-enter-from-morocco-all-about-crisis-in-spains-enclave-ceuta-11849393#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/uzair-balochs-brother-zubair-baloch-shot-multiple-times-in-karachis-lyari-by-unknown-gunmen-11850519#publisher=newsstand",
-    "category": "india",
-    "title": "Uzair Baloch's Brother Shot Multiple Times In Karachi's Lyari By Unknown Gunmen",
-    "summary": "Zubair suffered multiple gunshot wounds, including injuries to his chest and abdomen",
-    "image": "https://c.ndtvimg.com/2026-07/kbf4dc3g_zubair-baloch_625x300_31_July_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Sat, 01 Aug 2026 00:12:22 +0530",
-    "link": "https://www.ndtv.com/world-news/uzair-balochs-brother-zubair-baloch-shot-multiple-times-in-karachis-lyari-by-unknown-gunmen-11850519#publisher=newsstand"
-  },
-  {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
     "category": "scitech",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -170,6 +170,16 @@
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-imposes-penalty-of-rs-1-48-crore-on-zee-entertainment/articleshow/132772624.cms"
   },
   {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o#0",
+    "category": "global",
+    "title": "Fifa executive says staff 'deceived' by Infantino plans",
+    "summary": "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 31 Jul 2026 21:48:49 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-pays-rs-715-crore-to-settle-pending-rs-1491-crore-co-location-case-ahead-of-ipo/articleshow/132772270.cms",
     "category": "finance",
     "title": "NSE pays Rs 715 crore to settle pending Rs 1,491-crore co-location case ahead of IPO",
@@ -208,6 +218,26 @@
     "source": "ET",
     "pubDate": "Fri, 31 Jul 2026 21:24:19 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/apple-shares-tumble-9-on-supply-worries-on-track-for-worst-single-day-fall-in-over-6-years/articleshow/132771838.cms"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1548286.html",
+    "category": "sports",
+    "title": "Finn Allen-powered Trent Rockets soar into top spot",
+    "summary": "Manchester Super Giants struggle to set pace despite another Jos Buttler half-century",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420500/420555.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Fri, 31 Jul 2026 21:14:51 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548286.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo#0",
+    "category": "global",
+    "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
+    "summary": "Donald Trump insists Israel is \"very happy\" with a proposal for the Palestinian group to give up weapons in exchange for an Israeli withdrawal.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Fri, 31 Jul 2026 20:58:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1548272.html",
@@ -260,16 +290,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1548270.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cwyle421806o#0",
-    "category": "global",
-    "title": "Massive Attack banned from Singapore after pro-Palestine display at show",
-    "summary": "The UK band is told not to return to the city-state after shouting \"free Palestine\" at a gig on Wednesday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 31 Jul 2026 17:55:04 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwyle421806o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1548271.html",
     "category": "sports",
     "title": "Libby upstages De Caires as Worcestershire end Middlesex's perfect start",
@@ -278,16 +298,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 31 Jul 2026 17:55:01 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1548271.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o#0",
-    "category": "global",
-    "title": "Fifa executive says staff 'deceived' by Infantino plans",
-    "summary": "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Fri, 31 Jul 2026 17:45:11 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1548269.html",
@@ -318,16 +328,6 @@
     "source": "Cricinfo",
     "pubDate": "Fri, 31 Jul 2026 17:25:43 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1548267.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1548266.html",
-    "category": "sports",
-    "title": "Kuldeep gets Stokes as Yorkshire thrash Durham",
-    "summary": "Ben Cliff and Ben Coad run through Durham top order before James Wharton steers chase",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/404700/404722.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Fri, 31 Jul 2026 17:04:40 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548266.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o#0",
