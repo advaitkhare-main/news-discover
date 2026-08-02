@@ -80,9 +80,19 @@
     "link": "https://www.ndtv.com/india-news/petrol-diesel-sales-in-india-rise-by-up-to-10-year-on-year-in-july-11856843#publisher=newsstand"
   },
   {
+    "id": "https://www.cricinfo.com/ci/content/story/1548493.html",
+    "category": "sports",
+    "title": "Greaves half-century props up West Indies on rain-affected day",
+    "summary": "Pakistan attack make inroads but hosts battle through with series of useful partnerships",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420600/420646.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Sun, 02 Aug 2026 21:51:32 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548493.html?ex_cid=OTC-RSS"
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o#0",
     "category": "global",
-    "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth doubts",
+    "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth Games doubts",
     "summary": "Glasgow 2026 was a joyful success in isolation but questions and doubts remain about the Commonwealth Games' future.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
@@ -98,16 +108,6 @@
     "source": "Cricinfo",
     "pubDate": "Sun, 02 Aug 2026 21:23:46 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1548497.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1548493.html",
-    "category": "sports",
-    "title": "Pakistan make inroads after rain-affected start in Trinidad",
-    "summary": "Shai Hope and Justin Greaves steady WI with 45-run stand up until tea",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/420400/420409.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Sun, 02 Aug 2026 21:18:29 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548493.html?ex_cid=OTC-RSS"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o#0",
@@ -340,6 +340,16 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
+    "id": "https://www.ndtv.com/india-news/no-case-against-minor-accused-of-abusing-pm-modi-delhi-police-sources-11856914#publisher=newsstand",
+    "category": "india",
+    "title": "No Case Against Minor Accused Of Abusing PM Modi: Delhi Police Sources",
+    "summary": "The minor had apologised for using abusive language against PM Modi.",
+    "image": "https://c.ndtvimg.com/2026-08/9dv30qq8_no-case_625x300_02_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 03 Aug 2026 03:08:56 +0530",
+    "link": "https://www.ndtv.com/india-news/no-case-against-minor-accused-of-abusing-pm-modi-delhi-police-sources-11856914#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/china-spies-chinas-digital-gaze-how-beijing-tracks-foreigners-down-to-their-gas-bills-11856880#publisher=newsstand",
     "category": "india",
     "title": "How China's Surveillance Network Follows Foreigners Into Their Homes",
@@ -348,16 +358,6 @@
     "source": "NDTV",
     "pubDate": "Mon, 03 Aug 2026 00:15:31 +0530",
     "link": "https://www.ndtv.com/world-news/china-spies-chinas-digital-gaze-how-beijing-tracks-foreigners-down-to-their-gas-bills-11856880#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/no-case-against-minor-accused-of-abusing-pm-modi-delhi-police-sources-11856914#publisher=newsstand",
-    "category": "india",
-    "title": "No Case Against Minor Accused Of Abusing PM Modi: Delhi Police Sources",
-    "summary": "The minor had apologised for using abusive language against PM Modi.",
-    "image": "https://c.ndtvimg.com/2026-08/9dv30qq8_no-case_625x300_02_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 03 Aug 2026 00:15:01 +0530",
-    "link": "https://www.ndtv.com/india-news/no-case-against-minor-accused-of-abusing-pm-modi-delhi-police-sources-11856914#publisher=newsstand"
   },
   {
     "id": "https://www.ndtv.com/india-news/after-terror-attacks-farooq-abdullah-seeks-j-k-statehood-illogical-theory-says-pdp-11856963#publisher=newsstand",
