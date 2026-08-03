@@ -60,164 +60,234 @@
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/closing-auction-session-for-equity-cash-segment-comes-into-effect/articleshow/132833231.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/kansai-nerolac-q1-profit-rises-5-approves-rs-601-crore-capacity-expansion/articleshow/132836083.cms",
     "category": "finance",
-    "title": "Closing auction session for equity cash segment comes into effect",
-    "summary": "India's stock markets have introduced an innovative auction system to determine closing prices, specifically designed for cash market stocks paired with derivative contracts. This progressive framework is set to enhance transparency and effectiveness",
-    "image": "https://img.etimg.com/photo/msid-132833231,imgsize-346822.cms",
+    "title": "Kansai Nerolac Q1 profit rises 5%; approves Rs 601 crore capacity expansion",
+    "summary": "Paintmaker cites healthy demand despite geopolitical disruptions; expects festive season to support growth.",
+    "image": "https://img.etimg.com/photo/msid-132836083,imgsize-13292.cms",
     "source": "ET",
-    "pubDate": "Mon, 03 Aug 2026 18:59:53 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/closing-auction-session-for-equity-cash-segment-comes-into-effect/articleshow/132833231.cms"
+    "pubDate": "Mon, 03 Aug 2026 21:23:30 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kansai-nerolac-q1-profit-rises-5-approves-rs-601-crore-capacity-expansion/articleshow/132836083.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/dlf-q1-results-profit-rises-4-to-rs-794-crore-revenue-declines-46/articleshow/132832859.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132835943.cms",
     "category": "finance",
-    "title": "DLF Q1 Results: Profit rises 4% to Rs 794 crore; revenue declines 46%",
-    "summary": "DLF Ltd has recorded a modest profit growth of four percent in the June quarter, though total income suffered a notable drop, affecting its financial outcomes. The increase in net profit stems from better performance in associate and joint ventures. ",
-    "image": "https://img.etimg.com/photo/msid-132832859,imgsize-40694.cms",
+    "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+    "summary": "Indian equities rallied sharply as easing oil prices following renewed US-Iran talks boosted sentiment. Sensex gained 544 points and Nifty surged 1.6%, adding nearly Rs 5 lakh crore in market value, while FII inflows, a stronger rupee and upbeat earn",
+    "image": "https://img.etimg.com/photo/msid-132835943,imgsize-93794.cms",
     "source": "ET",
-    "pubDate": "Mon, 03 Aug 2026 18:37:04 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dlf-q1-results-profit-rises-4-to-rs-794-crore-revenue-declines-46/articleshow/132832859.cms"
+    "pubDate": "Mon, 03 Aug 2026 21:17:49 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132835943.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sells-usd-14-9-bn-during-jan-may-to-check-excess-volatility-in-rupee/articleshow/132832815.cms",
+    "id": "https://www.ndtv.com/india-news/disgusting-vijays-tvk-slams-udhayanidhi-stalin-over-trisha-reference-11860702#publisher=newsstand",
+    "category": "india",
+    "title": "\"Disgusting\": Vijay's TVK Slams Udhayanidhi Stalin Over 'Trisha' Reference",
+    "summary": "BJP leader Vinoj P Selvam also slammed the DMK leader for the remark.",
+    "image": "https://c.ndtvimg.com/2024-10/i6b35cqo_udhayanidhi-stalin_625x300_28_October_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 03 Aug 2026 21:07:47 +0530",
+    "link": "https://www.ndtv.com/india-news/disgusting-vijays-tvk-slams-udhayanidhi-stalin-over-trisha-reference-11860702#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/parliament-it-panel-chief-nishikant-dubey-highlights-rise-of-some-groups-points-to-algorithm-11860842#publisher=newsstand",
+    "category": "india",
+    "title": "Parliament IT Panel Chief Highlights Rise Of Some Groups, Points To Algorithm",
+    "summary": "Social media handles of unrecognised street groups inexplicably rise fast, the government said",
+    "image": "https://c.ndtvimg.com/2026-08/7j16mvqc_activists_625x300_03_August_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 03 Aug 2026 21:05:54 +0530",
+    "link": "https://www.ndtv.com/india-news/parliament-it-panel-chief-nishikant-dubey-highlights-rise-of-some-groups-points-to-algorithm-11860842#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/raj-thackeray-mumbai-siddhivinayak-temple-donation-theft-sada-sarvankar-siddhivinayak-trust-reacts-11860820#publisher=newsstand",
+    "category": "india",
+    "title": "Raj Thackeray Claims Donation Theft At Mumbai's Siddhivinayak, Trust Reacts",
+    "summary": "The allegations have drawn reactions from across Maharashtra's political spectrum.",
+    "image": "https://c.ndtvimg.com/2026-08/bht0rfa8_siddhivinayak-raj-thackeray_625x300_03_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 03 Aug 2026 21:02:57 +0530",
+    "link": "https://www.ndtv.com/india-news/raj-thackeray-mumbai-siddhivinayak-temple-donation-theft-sada-sarvankar-siddhivinayak-trust-reacts-11860820#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/lic-ofs-opens-tomorrow-as-govt-looks-to-sell-up-to-6-5-stake-check-details/articleshow/132835659.cms",
     "category": "finance",
-    "title": "RBI sells USD 14.9 bn during Jan-May to check excess volatility in rupee",
-    "summary": "In an effort to stabilize the rupee, the Reserve Bank of India sold USD 14.9 billion. Banks are also re-engaging with defaulters to recover substantial written-off loans. The SWAMIH Fund has been effective in funding 147 projects, benefitting many ho",
-    "image": "https://img.etimg.com/photo/msid-132832815,imgsize-87206.cms",
+    "title": "LIC OFS opens tomorrow as govt looks to sell up to 6.5% stake. Check details",
+    "summary": "The government will launch LIC\u2019s offer for sale for non-retail investors on Tuesday and retail investors on Wednesday. It plans to divest up to 6.5% through a base 2.5% offer and green shoe option, advancing minimum public shareholding compliance.",
+    "image": "https://img.etimg.com/photo/msid-132835659,imgsize-140161.cms",
     "source": "ET",
-    "pubDate": "Mon, 03 Aug 2026 18:35:48 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sells-usd-14-9-bn-during-jan-may-to-check-excess-volatility-in-rupee/articleshow/132832815.cms"
+    "pubDate": "Mon, 03 Aug 2026 20:56:23 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/lic-ofs-opens-tomorrow-as-govt-looks-to-sell-up-to-6-5-stake-check-details/articleshow/132835659.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/divis-laboratories-among-7-stocks-to-hit-52-week-highs-and-surge-up-to-25-in-a-month/slideshow/132832705.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/amazon-joins-3-trillion-club-as-ai-cloud-growth-fuel-stock-rally/articleshow/132835634.cms",
     "category": "finance",
-    "title": "Divi's Laboratories among 7 stocks to hit 52-week highs and surge up to 25% in a month",
-    "summary": "Benchmark indices extended gains as Sensex climbed 544 points to 78,639, driving eight BSE 100 stocks to fresh 52-week highs. Divi's Laboratories, TVS Motor, Bajaj Auto and Bajaj Finance led the rally, reflecting strong buying momentum and improving ",
-    "image": "https://img.etimg.com/photo/msid-132832547,imgsize-5466.cms",
+    "title": "Amazon joins $3 trillion club as AI, cloud growth fuel stock rally",
+    "summary": "Amazon crossed a $3 trillion market valuation after strong earnings and robust cloud growth reinforced confidence in its AI investments. Shares hit a record high, while investors rewarded the company for demonstrating improving returns from heavy AI ",
+    "image": "https://img.etimg.com/photo/msid-132835634,imgsize-53122.cms",
     "source": "ET",
-    "pubDate": "Mon, 03 Aug 2026 18:25:31 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/divis-laboratories-among-7-stocks-to-hit-52-week-highs-and-surge-up-to-25-in-a-month/slideshow/132832705.cms"
+    "pubDate": "Mon, 03 Aug 2026 20:52:59 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/amazon-joins-3-trillion-club-as-ai-cloud-growth-fuel-stock-rally/articleshow/132835634.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tcs-indigo-sun-pharma-among-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/132831712.cms",
+    "id": "https://www.ndtv.com/india-news/disappointed-karnataka-ex-minister-dinesh-gundu-rao-after-cabinet-snub-11860207#publisher=newsstand",
+    "category": "india",
+    "title": "\"Disappointed\": Karnataka Ex-Minister Dinesh Gundu Rao After Cabinet Snub",
+    "summary": "He said he had always worked hard, remained loyal to the party, upheld its ideology.",
+    "image": "https://c.ndtvimg.com/2026-08/hob089ks_dinesh-gundu-rao_625x300_03_August_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 03 Aug 2026 20:52:10 +0530",
+    "link": "https://www.ndtv.com/india-news/disappointed-karnataka-ex-minister-dinesh-gundu-rao-after-cabinet-snub-11860207#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/business-news/ai-fear-sank-these-stocks-up-to-50-why-experts-see-a-buying-opportunity-11858231#publisher=newsstand",
+    "category": "india",
+    "title": "AI Fear Sank These Stocks By Up To 50%. Why Experts See A Buying Opportunity",
+    "summary": "Stock Market Today: The IT sector has been at the centre of AI concerns.",
+    "image": "https://c.ndtvimg.com/2026-07/lehvi5b_stock-markets-_625x300_26_July_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 03 Aug 2026 20:50:24 +0530",
+    "link": "https://www.ndtv.com/business-news/ai-fear-sank-these-stocks-up-to-50-why-experts-see-a-buying-opportunity-11858231#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/centre-hikes-windfall-gains-tax-on-export-of-petrol-diesel-amid-iran-war-11860691#publisher=newsstand",
+    "category": "india",
+    "title": "Centre Hikes Windfall Gains Tax On Export Of Petrol, Diesel Amid Iran War",
+    "summary": "The government said the increase is aimed at safeguarding domestic fuel supplies.",
+    "image": "https://c.ndtvimg.com/2026-08/210t9q64_fuel-_625x300_03_August_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 03 Aug 2026 20:36:47 +0530",
+    "link": "https://www.ndtv.com/india-news/centre-hikes-windfall-gains-tax-on-export-of-petrol-diesel-amid-iran-war-11860691#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/education/ghaziabad-schools-colleges-closed-till-august-12-considering-kanwar-yatra-11860197#publisher=newsstand",
+    "category": "india",
+    "title": "Ghaziabad Schools, Colleges Closed Till August 12 For Kanwar Yatra",
+    "summary": "Schools in Meerut and Ghaziabad districts will remain closed till August 12.",
+    "image": "https://c.ndtvimg.com/2026-08/tn2u82bs_schools-closed_625x300_03_August_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Mon, 03 Aug 2026 20:19:28 +0530",
+    "link": "https://www.ndtv.com/education/ghaziabad-schools-colleges-closed-till-august-12-considering-kanwar-yatra-11860197#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/makemytrip-q1-bookings-rise-20-ai-assistant-drives-growth/articleshow/132834965.cms",
     "category": "finance",
-    "title": "Market wrap: TCS, IndiGo, Sun Pharma among top gainers and losers on Nifty and Sensex on Monday",
-    "summary": "Indian benchmark indices surged on Monday after easing crude oil prices, sparked by renewed US-Iran talks, boosted investor sentiment. The Sensex jumped 544 points and the Nifty climbed 1.6%, adding nearly Rs 5 lakh crore to BSE market capitalisation",
-    "image": "https://img.etimg.com/photo/msid-132831712,imgsize-146002.cms",
+    "title": "MakeMyTrip Q1 bookings rise 20%; AI assistant drives growth",
+    "summary": "MakeMyTrip reported a 19.9% year-on-year rise in Q1 gross bookings to $2.85 billion, while revenue and adjusted operating profit increased despite travel disruptions. Strong growth across hotels, buses and AI-powered Myra 2.0 reinforced confidence in",
+    "image": "https://img.etimg.com/photo/msid-132834965,imgsize-276933.cms",
     "source": "ET",
-    "pubDate": "Mon, 03 Aug 2026 18:00:37 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tcs-indigo-sun-pharma-among-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/132831712.cms"
+    "pubDate": "Mon, 03 Aug 2026 20:16:19 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/makemytrip-q1-bookings-rise-20-ai-assistant-drives-growth/articleshow/132834965.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-63000-as-falling-oil-prices-ease-inflation-worries-weak-flows-limit-recovery/articleshow/132831639.cms",
+    "id": "https://www.ndtv.com/india-news/remain-patient-dk-shivakumars-message-after-dissent-over-cabinet-expansion-11859796#publisher=newsstand",
+    "category": "india",
+    "title": "Remain Patient: DK Shivakumar's Message After Dissent Over Cabinet Expansion",
+    "summary": "DK Shivakumar said he too had been overlooked for ministerial positions in the past.",
+    "image": "https://c.ndtvimg.com/2026-07/5ggv7da_dk-shivakumar_625x300_02_July_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Mon, 03 Aug 2026 20:13:26 +0530",
+    "link": "https://www.ndtv.com/india-news/remain-patient-dk-shivakumars-message-after-dissent-over-cabinet-expansion-11859796#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-extends-parrva-enrollment-deadline-to-sep-3-for-investment-advisers-research-analysts/articleshow/132834953.cms",
     "category": "finance",
-    "title": "Bitcoin trades near $63,000 as falling oil prices ease inflation worries; weak flows limit recovery",
-    "summary": "Bitcoin traded near $63,000 as easing oil prices reduced inflation concerns, but weak institutional inflows and subdued spot activity capped gains. Ethereum and major altcoins declined, while analysts cited cautious investor sentiment, tighter liquid",
-    "image": "https://img.etimg.com/photo/msid-132831639,imgsize-255744.cms",
+    "title": "Sebi extends PaRRVA enrollment deadline to Sep 3 for investment advisers, research analysts",
+    "summary": "Sebi has granted a new extension for investment advisers and research analysts regarding their enrolment, now set for September 3, 2026. This delay allows participants more time to finalize their registrations, facilitating a more seamless rollout of",
+    "image": "https://img.etimg.com/photo/msid-132834953,imgsize-55652.cms",
     "source": "ET",
-    "pubDate": "Mon, 03 Aug 2026 17:55:19 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-63000-as-falling-oil-prices-ease-inflation-worries-weak-flows-limit-recovery/articleshow/132831639.cms"
+    "pubDate": "Mon, 03 Aug 2026 20:12:37 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-extends-parrva-enrollment-deadline-to-sep-3-for-investment-advisers-research-analysts/articleshow/132834953.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/two-losses-several-warnings-what-bjp-must-learn-from-the-bypolls-11859836#publisher=newsstand",
-    "category": "india",
-    "title": "Two Losses, Several Warnings: What BJP Must Learn From The Bypolls",
-    "summary": "The BJP's preliminary assessment suggests that the RJD transferred its votes to Prashant Kishor.",
-    "image": "https://c.ndtvimg.com/2026-08/m2e89vf4_prashant-kishor-_650x400_03_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 03 Aug 2026 17:54:02 +0530",
-    "link": "https://www.ndtv.com/india-news/two-losses-several-warnings-what-bjp-must-learn-from-the-bypolls-11859836#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-trump-us-iran-attacks-hormuz-crude-oil-fed-warsh-spacex-micron-amazon-amd-chip-stock-price-news-3rd-august-2026/liveblog/132831640.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/3-early-investors-to-sell-paytm-shares-worth-up-to-rs-2002-crore-at-5-discount/articleshow/132834342.cms",
     "category": "finance",
-    "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures rise on Mideast deal hopes; healthcare in focus",
-    "summary": "",
-    "image": "https://img.etimg.com/photo/msid-132831640,imgsize-1944867.cms",
+    "title": "3 early investors to sell Paytm shares worth up to Rs 2,002 crore at 5% discount",
+    "summary": "Three early Paytm investors plan to sell shares worth up to Rs 2,002 crore through a block deal at a nearly 5% discount. The secondary transaction will not raise funds for the company and includes a 60-day post-sale lock-up for sellers.",
+    "image": "https://img.etimg.com/photo/msid-132834342,imgsize-43052.cms",
     "source": "ET",
-    "pubDate": "Mon, 03 Aug 2026 17:53:36 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-trump-us-iran-attacks-hormuz-crude-oil-fed-warsh-spacex-micron-amazon-amd-chip-stock-price-news-3rd-august-2026/liveblog/132831640.cms"
+    "pubDate": "Mon, 03 Aug 2026 19:42:51 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/3-early-investors-to-sell-paytm-shares-worth-up-to-rs-2002-crore-at-5-discount/articleshow/132834342.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/bonds/us-10-year-yield-falls-from-18-month-high-on-iran-peace-talk-hopes/articleshow/132831577.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-opens-higher-on-middle-east-deal-hopes/articleshow/132833426.cms",
     "category": "finance",
-    "title": "US 10-year yield falls from 18-month high on Iran peace talk hopes",
-    "summary": "U.S. Treasury yields saw a decline on Monday as oil prices plummeted. President Donald Trump's recent announcement about renewed discussions with Iran helped ease inflation concerns, pushing U.S. crude prices down to below eighty dollars per barrel. ",
-    "image": "https://img.etimg.com/photo/msid-132831577,imgsize-39618.cms",
+    "title": "US stocks: US market starts the month strong as Mideast deal hopes rise",
+    "summary": "Major US stock indexes opened higher on Monday. De-escalating Middle East tensions helped drag down crude oil prices. Investors are now preparing for a busy week of earnings reports. The Dow Jones Industrial Average increased by 274 points at the ope",
+    "image": "https://img.etimg.com/photo/msid-132833426,imgsize-123432.cms",
     "source": "ET",
-    "pubDate": "Mon, 03 Aug 2026 17:53:14 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/us-10-year-yield-falls-from-18-month-high-on-iran-peace-talk-hopes/articleshow/132831577.cms"
+    "pubDate": "Mon, 03 Aug 2026 19:07:42 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-opens-higher-on-middle-east-deal-hopes/articleshow/132833426.cms"
   },
   {
-    "id": "https://www.ndtv.com/india-news/anti-cruelty-law-for-married-women-applies-to-those-in-live-ins-supreme-court-11859819#publisher=newsstand",
-    "category": "india",
-    "title": "Anti-Cruelty Law For Married Women Applies To Those In Live-Ins: Supreme Court",
-    "summary": "Coverage of IPC Section 498A has been extended to include women in live-in relationships",
-    "image": "https://c.ndtvimg.com/2026-08/isuj9s5g_crime-against-women_625x300_03_August_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 03 Aug 2026 17:52:55 +0530",
-    "link": "https://www.ndtv.com/india-news/anti-cruelty-law-for-married-women-applies-to-those-in-live-ins-supreme-court-11859819#publisher=newsstand"
+    "id": "https://www.cricinfo.com/ci/content/story/1548596.html",
+    "category": "sports",
+    "title": "Chase, defiant lower order take West Indies to 344",
+    "summary": "Sajid took four and three bowlers took two each for Pakistan in an extended session",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420600/420672.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 03 Aug 2026 16:07:10 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548596.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/education/delhi-government-notice-to-rohini-school-over-fire-lapses-rs-15-6-crore-losses-unauthorised-fee-hike-11859837#publisher=newsstand",
-    "category": "india",
-    "title": "Fire Lapses, Rs 15.6 Crore Losses, Unauthorised Fee Hike: Delhi Government Notice To Rohini School",
-    "summary": "The inspection team also reported inadequate sports infrastructure.",
-    "image": "https://c.ndtvimg.com/2026-08/s6idrir4_delhi-schools_625x300_03_August_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 03 Aug 2026 17:52:01 +0530",
-    "link": "https://www.ndtv.com/education/delhi-government-notice-to-rohini-school-over-fire-lapses-rs-15-6-crore-losses-unauthorised-fee-hike-11859837#publisher=newsstand"
+    "id": "https://www.bbc.co.uk/news/articles/c23579jzv08o#0",
+    "category": "global",
+    "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+    "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 03 Aug 2026 15:59:48 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/congress-candidate-ghanshyam-singh-wins-bypoll-in-madhya-pradeshs-datia-by-6-000-votes-11859835#publisher=newsstand",
-    "category": "india",
-    "title": "Congress Candidate Wins Bypoll In Madhya Pradesh's Datia By 6,000 Votes",
-    "summary": "State Congress chief Jitu Patwari described it as a victory for the people of Datia, a clarion call for the 2028 assembly elections, and the result of the collective efforts of Congress leaders.",
-    "image": "https://c.ndtvimg.com/2026-08/vijsaev4_cong-win_625x300_03_August_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 03 Aug 2026 17:51:54 +0530",
-    "link": "https://www.ndtv.com/india-news/congress-candidate-ghanshyam-singh-wins-bypoll-in-madhya-pradeshs-datia-by-6-000-votes-11859835#publisher=newsstand"
+    "id": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo#0",
+    "category": "global",
+    "title": "France hits out at Reform UK plan to return migrants using Navy",
+    "summary": "It comes after the party said it would override French objections to return migrants to France.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 03 Aug 2026 15:59:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/offbeat/hundreds-of-mysterious-blue-alien-jellyfish-wash-up-on-uk-beaches-amid-heatwave-11859803#publisher=newsstand",
-    "category": "india",
-    "title": "Hundreds Of Mysterious Blue 'Alien Jellyfish' Wash Up on UK Beaches Amid Heatwave",
-    "summary": "Despite their jellyfish-like appearance, Velella velella are not true jellyfish.",
-    "image": "https://c.ndtvimg.com/2026-08/tu472bgk_-velella-velella_625x300_03_August_26.jpeg",
-    "source": "NDTV",
-    "pubDate": "Mon, 03 Aug 2026 17:49:25 +0530",
-    "link": "https://www.ndtv.com/offbeat/hundreds-of-mysterious-blue-alien-jellyfish-wash-up-on-uk-beaches-amid-heatwave-11859803#publisher=newsstand"
+    "id": "https://www.cricinfo.com/ci/content/story/1548595.html",
+    "category": "sports",
+    "title": "Women's Asia Cup likely in UAE, but ACC yet to formally announce",
+    "summary": "The eight-team tournament is likely to be played between August 28 and September 13",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/385500/385544.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 03 Aug 2026 15:49:45 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548595.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/india-news/prashant-kishor-makes-stellar-electoral-debut-from-bjps-bihar-stronghold-bankipur-11859733#publisher=newsstand",
-    "category": "india",
-    "title": "Prashant Kishor Makes Stellar Electoral Debut From BJP's Bihar Stronghold Bankipur",
-    "summary": "Bankipur had been a BJP stronghold in Bihar.",
-    "image": "https://c.ndtvimg.com/2022-08/cjr3cj68_prashant-kishor-ndtv_650x400_10_August_22.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 03 Aug 2026 17:45:22 +0530",
-    "link": "https://www.ndtv.com/india-news/prashant-kishor-makes-stellar-electoral-debut-from-bjps-bihar-stronghold-bankipur-11859733#publisher=newsstand"
+    "id": "https://www.cricinfo.com/ci/content/story/1548592.html",
+    "category": "sports",
+    "title": "Pakistan set to bring in Michael Smith as batting coach",
+    "summary": "He will take over in both red and white-ball formats",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/294100/294114.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Mon, 03 Aug 2026 15:36:49 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548592.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.ndtv.com/india-news/bankipur-datia-manjalpur-bypoll-election-live-updates-today-vote-counting-results-winner-trends-bihar-gujarat-madhya-pradesh-11857343#publisher=newsstand",
-    "category": "india",
-    "title": "Bankipur, Manjalpur, Datia Bypoll Election LIVE Updates: Prashant Kishor Makes Stellar Debut In Bankipur; Congress Wins ",
-    "summary": "Bankipur Result LIVE: The counting of votes for the bypoll began at 8 am on Monday, with all eyes on whether debutant Kishor wrests the seat from the BJP.",
-    "image": "https://c.ndtvimg.com/2026-08/m1nuindc_prashant-kishor_625x300_03_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 03 Aug 2026 17:35:14 +0530",
-    "link": "https://www.ndtv.com/india-news/bankipur-datia-manjalpur-bypoll-election-live-updates-today-vote-counting-results-winner-trends-bihar-gujarat-madhya-pradesh-11857343#publisher=newsstand"
+    "id": "https://www.bbc.co.uk/news/videos/cm2gwmy9gppo#0",
+    "category": "global",
+    "title": "Inside city gripped by deadly protests in Pakistan-administered Kashmir",
+    "summary": "The BBC is the first media organisation to gain access to the city and speak to people on the ground in Rawalakot.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 03 Aug 2026 15:29:13 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cm2gwmy9gppo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.ndtv.com/india-news/from-helping-others-win-polls-to-winning-one-himself-prashant-kishors-journey-11859086#publisher=newsstand",
-    "category": "india",
-    "title": "In Another Life, Prashant Kishor Helped Others Win Polls. Now He's Bihar's Newest MLA",
-    "summary": "Prashant Kishor will enter the Bihar assembly for the first time as an MLA",
-    "image": "https://c.ndtvimg.com/2025-01/vsbbuf28_prashant-kishore_625x300_06_January_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Mon, 03 Aug 2026 17:32:35 +0530",
-    "link": "https://www.ndtv.com/india-news/from-helping-others-win-polls-to-winning-one-himself-prashant-kishors-journey-11859086#publisher=newsstand"
+    "id": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o#0",
+    "category": "global",
+    "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+    "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 03 Aug 2026 14:38:48 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cly59lwe93po#0",
@@ -240,16 +310,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1548576.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c23579jzv08o#0",
-    "category": "global",
-    "title": "Iran denies Trump's claim that new talks will begin on Monday",
-    "summary": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 03 Aug 2026 12:44:09 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1548577.html",
     "category": "sports",
     "title": "Duleep Trophy: Wadhawan to lead J&K dominated North Zone squad",
@@ -258,26 +318,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 03 Aug 2026 12:44:03 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1548577.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo#0",
-    "category": "global",
-    "title": "Reform says it would use Navy to stop small boats",
-    "summary": "The party's home affairs spokesman Zia Yusuf says it would be the \"largest military operation in the English Channel since World War Two\u201d.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 03 Aug 2026 12:20:53 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4g6pvv2zgjo#0",
-    "category": "global",
-    "title": "Presenter Tony Livesey leaves BBC Radio 5 Live after 16 years",
-    "summary": "He stepped back from his show last month following allegations against his former boss David Sullivan.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 03 Aug 2026 12:17:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4g6pvv2zgjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/c75gq56qrwno#0",
@@ -290,14 +330,14 @@
     "link": "https://www.bbc.co.uk/news/articles/c75gq56qrwno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1548493.html",
-    "category": "sports",
-    "title": "Greaves half-century props up West Indies on rain-affected day",
-    "summary": "Pakistan attack make inroads but West Indies battle through with series of useful partnerships",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/420600/420651.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 03 Aug 2026 11:14:27 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548493.html?ex_cid=OTC-RSS"
+    "id": "https://www.bbc.co.uk/news/articles/c0rd0r5zez9o#0",
+    "category": "global",
+    "title": "Son who kept mum's body in freezer for years collected \u00a378k of her benefits",
+    "summary": "Christopher Phillips\u2019 mother, Sylvia, had yellow and pink roses and a birthday card placed on her body.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 03 Aug 2026 11:14:33 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c0rd0r5zez9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1548564.html",
@@ -320,16 +360,6 @@
     "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1548514.html",
-    "category": "sports",
-    "title": "Rashid five-for underlines dominant display by MI London",
-    "summary": "Rapid fifties from Jacks and Pooran set hosts on way on high-scoring night at The Oval",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/420600/420642.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 03 Aug 2026 07:17:10 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548514.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1548538.html",
     "category": "sports",
     "title": "Auqib Nabi replaces injured Jasprit Bumrah for Test series in Sri Lanka",
@@ -340,16 +370,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1548538.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c86ngegz9qno#0",
-    "category": "global",
-    "title": "Mother has ground-breaking surgery while pregnant to treat baby",
-    "summary": "Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 03 Aug 2026 05:02:25 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.cricinfo.com/ci/content/story/1548534.html",
     "category": "sports",
     "title": "'We're right on our way' - Jangoo gung-ho about West Indies' chances on tricky pitch",
@@ -358,26 +378,6 @@
     "source": "Cricinfo",
     "pubDate": "Mon, 03 Aug 2026 04:54:19 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1548534.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5yvqk69enko#0",
-    "category": "global",
-    "title": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
-    "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 03 Aug 2026 03:32:21 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.cricinfo.com/ci/content/story/1548531.html",
-    "category": "sports",
-    "title": "Markram plays down LSG captaincy buzz",
-    "summary": "\"There are other quality leaders too,\" says South Africa batter, when asked about vacant captaincy spot at IPL franchise",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415308.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Mon, 03 Aug 2026 03:18:56 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548531.html?ex_cid=OTC-RSS"
   },
   {
     "id": "wOG0z6nm91FOeUqhpizqI",
