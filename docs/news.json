@@ -30,6 +30,26 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://www.ndtv.com/world-news/donald-trump-slams-big-oil-firms-for-making-too-much-money-amid-iran-war-11861832#publisher=newsstand",
+    "category": "india",
+    "title": "Trump Slams Big Oil Firms For \"Making Too Much Money\" Amid Iran War",
+    "summary": "Trump said that he is not happy the way major oil companies are making profits amid Iran war shortage.",
+    "image": "https://c.ndtvimg.com/2026-08/7vf7tdkc_donald-trump_625x300_04_August_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Tue, 04 Aug 2026 04:00:25 +0530",
+    "link": "https://www.ndtv.com/world-news/donald-trump-slams-big-oil-firms-for-making-too-much-money-amid-iran-war-11861832#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/brown-universitys-president-who-clashed-with-trump-over-funding-resigns-11861786#publisher=newsstand",
+    "category": "india",
+    "title": "Brown University's President, Who Clashed With Trump Over Funding, Resigns",
+    "summary": "Christina Paxson said on Monday that she would leave her post at the end of the academic year.",
+    "image": "https://c.ndtvimg.com/2026-08/ev9ga0dg_christina-paxson_625x300_04_August_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Tue, 04 Aug 2026 03:09:49 +0530",
+    "link": "https://www.ndtv.com/world-news/brown-universitys-president-who-clashed-with-trump-over-funding-resigns-11861786#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/world-news/25-us-states-sue-trump-administration-over-new-tariffs-11861750#publisher=newsstand",
     "category": "india",
     "title": "\"Illegally Raise Taxes\": 25 US States Sue Trump Over New Tariffs",
@@ -100,26 +120,6 @@
     "link": "https://www.ndtv.com/india-news/no-feiicitation-i-ate-lunch-vd-satheesan-on-flood-time-meal-row-11861607#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/world-news/trumps-bank-accounts-were-closed-in-2021-over-money-laundering-suspicions-11861608#publisher=newsstand",
-    "category": "india",
-    "title": "Trump's Bank Accounts Were Closed In 2021 Over Money Laundering Suspicions",
-    "summary": "Trump has sued Capital On for allegedly debanking him after he left office in 2021.",
-    "image": "https://c.ndtvimg.com/2024-11/r92i04ro_donald-trump_625x300_07_November_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 04 Aug 2026 00:42:56 +0530",
-    "link": "https://www.ndtv.com/world-news/trumps-bank-accounts-were-closed-in-2021-over-money-laundering-suspicions-11861608#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/lathi-charge-students-then-ill-resign-priyank-kharges-remark-sparks-row-11861603#publisher=newsstand",
-    "category": "india",
-    "title": "'Lathi-Charge Students, Then I'll Resign': Priyank Kharge's Remark Sparks Row",
-    "summary": "Defending the state government's response to disturbances at an examination centre, Kharge stressed the government's obligation to protect the majority of candidates attempting the test.",
-    "image": "https://c.ndtvimg.com/2025-06/pua07m5g_priyank-kharge_625x300_21_June_25.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Tue, 04 Aug 2026 00:38:35 +0530",
-    "link": "https://www.ndtv.com/india-news/lathi-charge-students-then-ill-resign-priyank-kharges-remark-sparks-row-11861603#publisher=newsstand"
-  },
-  {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
     "category": "scitech",
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -160,6 +160,16 @@
     "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-holds-gains-after-japan-us-confirm-joint-intervention-signal-more-action/articleshow/132839035.cms"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no#0",
+    "category": "global",
+    "title": "There's a reason child vaccination rates are falling - and it's not social media",
+    "summary": "As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Mon, 03 Aug 2026 23:10:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/stocks/news/muthoot-microfin-case-sebi-exempts-six-family-trusts-from-open-offer-obligation/articleshow/132838278.cms",
     "category": "finance",
     "title": "Muthoot Microfin case: Sebi exempts six family trusts from open offer obligation",
@@ -173,10 +183,10 @@
     "id": "https://www.cricinfo.com/ci/content/story/1548596.html",
     "category": "sports",
     "title": "Abdullah Shafique century, Babar Azam 86* leads strong Pakistan response",
-    "summary": "West Indies were dismissed for 344 before Shafique and Babar, following Azan Awais' 55, closed day two 78 behind",
+    "summary": "West Indies were dismissed for 344 before Shafique and Babar closed day two 78 behind",
     "image": "http://p.imgci.com/db/PICTURES/CMS/420600/420687.jpg",
     "source": "Cricinfo",
-    "pubDate": "Mon, 03 Aug 2026 21:59:37 GMT",
+    "pubDate": "Mon, 03 Aug 2026 22:10:21 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1548596.html?ex_cid=OTC-RSS"
   },
   {
@@ -308,16 +318,6 @@
     "source": "BBC",
     "pubDate": "Mon, 03 Aug 2026 16:48:58 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o#0",
-    "category": "global",
-    "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-    "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Mon, 03 Aug 2026 16:27:43 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1548592.html",
