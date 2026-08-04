@@ -10,14 +10,54 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-fall-as-oil-slides-on-iran-deal-hopes-fed-hike-bets-ease/articleshow/132871326.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-quarterly-revenue-surges-in-debut-results-on-strong-growth-in-its-starlink-business/articleshow/132872768.cms",
     "category": "finance",
-    "title": "US Treasury yields fall as oil slides on Iran deal hopes, Fed hike bets ease",
+    "title": "US stocks: SpaceX quarterly revenue surges in debut results on strong growth in its Starlink business",
+    "summary": "SpaceX has announced an impressive 92% increase in revenue for the latest quarter, primarily fueled by the growth of Starlink and its AI initiatives. Despite this surge, the firm faced a net loss due to significant capital allocated towards infrastru",
+    "image": "https://img.etimg.com/photo/msid-132872768,imgsize-40040.cms",
+    "source": "ET",
+    "pubDate": "Wed, 05 Aug 2026 01:47:25 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-quarterly-revenue-surges-in-debut-results-on-strong-growth-in-its-starlink-business/articleshow/132872768.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/israel-wont-leave-gaza-until-hamas-is-completely-disarmed-benjamin-netanyahu-11866566#publisher=newsstand",
+    "category": "india",
+    "title": "Israel Won't Leave Gaza Until Hamas Is Completely Disarmed: Netanyahu",
+    "summary": "Benjamin Netanyahu reiterated his stance that disarmament should come first.",
+    "image": "https://c.ndtvimg.com/2026-07/ehp96pvs_benjamin-netanyahu_625x300_16_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Wed, 05 Aug 2026 01:43:47 +0530",
+    "link": "https://www.ndtv.com/world-news/israel-wont-leave-gaza-until-hamas-is-completely-disarmed-benjamin-netanyahu-11866566#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-dow-sp-500-close-at-record-highs-as-ai-earnings-impress-oil-prices-tumble/articleshow/132872181.cms",
+    "category": "finance",
+    "title": "US stocks: Dow, S&amp;P 500 close at record highs as AI earnings impress, oil prices tumble",
+    "summary": "Stock markets soared to all-time highs on Tuesday, fueled by stellar earnings from corporations. AI-focused entities like Palantir and the esteemed Caterpillar delivered eye-popping results. The drop in oil prices and Treasury yields created a favora",
+    "image": "https://img.etimg.com/photo/msid-132872181,imgsize-184100.cms",
+    "source": "ET",
+    "pubDate": "Wed, 05 Aug 2026 01:39:21 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-dow-sp-500-close-at-record-highs-as-ai-earnings-impress-oil-prices-tumble/articleshow/132872181.cms"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/openai-pays-3-2-million-in-us-probe-over-hiring-foreign-workers-11866501#publisher=newsstand",
+    "category": "india",
+    "title": "OpenAI Pays $3.2 Million In US Probe Over Hiring Foreign Workers",
+    "summary": "OpenAI and a subsidiary will pay $3.2 million to settle US government claims that they favored foreign workers with temporary employment visas and discriminated against US job applicants in recruiting and hiring, the US Justice Department said on Tue",
+    "image": "https://c.ndtvimg.com/2026-08/o7v9dups_openai_625x300_05_August_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 05 Aug 2026 00:57:36 +0530",
+    "link": "https://www.ndtv.com/world-news/openai-pays-3-2-million-in-us-probe-over-hiring-foreign-workers-11866501#publisher=newsstand"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-fall-as-oil-retreats-on-iran-deal-hopes-fed-hike-bets-ease/articleshow/132871326.cms",
+    "category": "finance",
+    "title": "US Treasury yields fall as oil retreats on Iran deal hopes, Fed hike bets ease",
     "summary": "On Tuesday, US Treasury yields saw a decline following a sharp drop in oil prices. As optimism regarding a resolution to the Iran conflict grew, inflation worries lessened. Consequently, traders adjusted their predictions for a Federal Reserve intere",
     "image": "https://img.etimg.com/photo/msid-132871326,imgsize-55556.cms",
     "source": "ET",
     "pubDate": "Wed, 05 Aug 2026 00:41:12 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-fall-as-oil-slides-on-iran-deal-hopes-fed-hike-bets-ease/articleshow/132871326.cms"
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-fall-as-oil-retreats-on-iran-deal-hopes-fed-hike-bets-ease/articleshow/132871326.cms"
   },
   {
     "id": "https://www.ndtv.com/world-news/russia-ukraine-war-war-crime-video-shows-russian-drone-attacking-vegetable-seller-in-ukraine-11866469#publisher=newsstand",
@@ -78,26 +118,6 @@
     "source": "NDTV",
     "pubDate": "Wed, 05 Aug 2026 00:19:05 +0530",
     "link": "https://www.ndtv.com/tamil-nadu-news/udhayanidhi-stalin-news-live-updates-fight-it-legally-udhayanidhi-stalin-after-arrest-in-trisha-remarks-case-cm-vijay-tvk-tamil-nadu-news-11862686#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/world-news/us-used-virtually-all-of-its-long-range-missiles-during-iran-war-report-11866431#publisher=newsstand",
-    "category": "india",
-    "title": "US Used \"Virtually All\" Of Its Long-Range Missiles During Iran War: Report",
-    "summary": "President Donald Trump launched the Iran war jointly with Israel in February. (Representational Image)",
-    "image": "https://i.ndtvimg.com/i/2017-12/thaad-missile-testing-by-us-reuters_650x400_81512543479.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 05 Aug 2026 00:16:28 +0530",
-    "link": "https://www.ndtv.com/world-news/us-used-virtually-all-of-its-long-range-missiles-during-iran-war-report-11866431#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/india-news/kaushal-bambiha-gang-member-deported-from-uae-brought-back-to-india-11866430#publisher=newsstand",
-    "category": "india",
-    "title": "Kaushal-Bambiha Gang Member Deported From UAE, Brought Back To India",
-    "summary": "A total of six cases are registered against the accused.",
-    "image": "https://c.ndtvimg.com/2026-08/6brjfun8_gaurav_625x300_05_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 05 Aug 2026 00:15:53 +0530",
-    "link": "https://www.ndtv.com/india-news/kaushal-bambiha-gang-member-deported-from-uae-brought-back-to-india-11866430#publisher=newsstand"
   },
   {
     "id": "5M2gv6mk7MEHXAvBa4H7z0",
@@ -170,24 +190,44 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/drugmaker-pfizer-beats-earnings-estimates-targets-2-5-billion-in-additional-cost-cuts/articleshow/132866592.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/spotifys-higher-spending-on-marketing-ai-features-to-hit-profit/articleshow/132866568.cms",
-    "category": "finance",
-    "title": "Spotify's higher spending on marketing, AI features to hit profit",
-    "summary": "Spotify anticipates that increased marketing and development expenditures will adversely affect profits in the current quarter. The platform forecasts its third-quarter monthly active users to fall short of Wall Street's expectations, a decline attri",
-    "image": "https://img.etimg.com/photo/msid-132866568,imgsize-69042.cms",
-    "source": "ET",
-    "pubDate": "Tue, 04 Aug 2026 21:23:26 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spotifys-higher-spending-on-marketing-ai-features-to-hit-profit/articleshow/132866568.cms"
+    "id": "https://www.bbc.co.uk/news/articles/cy0jy632d2eo#0",
+    "category": "global",
+    "title": "Major search under way for boy, 13, missing at sea",
+    "summary": "Emergency services were called to Hornsea, East Yorkshire, at about 18:00 BST.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 04 Aug 2026 20:52:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cy0jy632d2eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/apollo-global-debt-deal-fees-and-insurance-earnings-rise-asset-sales-drag/articleshow/132866465.cms",
-    "category": "finance",
-    "title": "Apollo Global debt deal fees and insurance earnings rise, asset sales drag",
-    "summary": "Apollo Global Management has posted unprecedented fees from its lending and insurance sectors, though asset sales fell short, resulting in a stock price decline. The company wisely postponed certain divestitures in response to market conditions, whil",
-    "image": "https://img.etimg.com/photo/msid-132866465,imgsize-42016.cms",
-    "source": "ET",
-    "pubDate": "Tue, 04 Aug 2026 21:21:45 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/apollo-global-debt-deal-fees-and-insurance-earnings-rise-asset-sales-drag/articleshow/132866465.cms"
+    "id": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o#0",
+    "category": "global",
+    "title": "Infantino calls executive meeting as criticism mounts",
+    "summary": "Gianni Infantino summons senior leaders to a meeting on Wednesday, after facing more fierce criticism of his plan to sell off Fifa's commercial and event operations.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 04 Aug 2026 20:13:03 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo#0",
+    "category": "global",
+    "title": "More than 170 migrants rescued after boat catches fire in Channel",
+    "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 04 Aug 2026 19:45:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo#0",
+    "category": "global",
+    "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+    "summary": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 04 Aug 2026 19:31:26 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1548707.html",
@@ -250,16 +290,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cpq81pxw5gro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo#0",
-    "category": "global",
-    "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
-    "summary": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 04 Aug 2026 17:33:13 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/cn4n03xg981o#0",
     "category": "global",
     "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
@@ -268,26 +298,6 @@
     "source": "BBC",
     "pubDate": "Tue, 04 Aug 2026 17:26:06 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo#0",
-    "category": "global",
-    "title": "More than 170 migrants rescued after boat catches fire in Channel",
-    "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 04 Aug 2026 17:25:41 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/crk5lmglkdno#0",
-    "category": "global",
-    "title": "Bono, Eddie Vedder and Hozier among mourners at Glen Hansard's funeral",
-    "summary": "The 56-year-old, who shot to prominence in 1991 musical comedy film The Commitments, died in a motorcycle crash last week.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 04 Aug 2026 17:01:19 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crk5lmglkdno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1548696.html",
@@ -338,16 +348,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 04 Aug 2026 11:08:07 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1548638.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o#0",
-    "category": "global",
-    "title": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
-    "summary": "Fifa's chief of global football development Arsene Wenger says the decision to scrap the plan to have private investment in Fifa competitions was \"absolutely necessary\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 04 Aug 2026 10:45:14 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "1l2gUXhw9OMzMzsSp8yAFk",
