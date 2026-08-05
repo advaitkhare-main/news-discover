@@ -10,6 +10,16 @@
     "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
+    "id": "https://www.ndtv.com/world-news/lebanon-israel-hold-new-round-of-direct-talks-in-rome-11866775#publisher=newsstand",
+    "category": "india",
+    "title": "Lebanon, Israel Hold New Round Of Direct Talks In Rome",
+    "summary": "Delegation arrives for a new round of talks between the Lebanese and Israeli at US embassy in Rome.",
+    "image": "https://c.ndtvimg.com/2026-08/9ds0keq_israel-lebonon-talks_625x300_05_August_26.jpeg",
+    "source": "NDTV",
+    "pubDate": "Wed, 05 Aug 2026 04:47:52 +0530",
+    "link": "https://www.ndtv.com/world-news/lebanon-israel-hold-new-round-of-direct-talks-in-rome-11866775#publisher=newsstand"
+  },
+  {
     "id": "https://www.ndtv.com/india-news/nearly-500-died-while-cleaning-sewers-or-septic-tanks-since-2019-centre-11866683#publisher=newsstand",
     "category": "india",
     "title": "Nearly 500 Died While Cleaning Sewers Or Septic Tanks Since 2019: Centre",
@@ -110,16 +120,6 @@
     "link": "https://www.ndtv.com/india-news/lgbtqia-panel-met-only-twice-in-over-2-years-report-still-pending-centre-11866418#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/india-news/13-suspected-bangladeshi-nationals-detained-in-madhya-pradeshs-gwalior-cops-11866442#publisher=newsstand",
-    "category": "india",
-    "title": "13 Suspected Bangladeshi Nationals Detained In Madhya Pradesh: Cops",
-    "summary": "According to police, the detained individuals included seven men and three women.",
-    "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Wed, 05 Aug 2026 00:23:19 +0530",
-    "link": "https://www.ndtv.com/india-news/13-suspected-bangladeshi-nationals-detained-in-madhya-pradeshs-gwalior-cops-11866442#publisher=newsstand"
-  },
-  {
     "id": "5M2gv6mk7MEHXAvBa4H7z0",
     "category": "scitech",
     "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
@@ -140,6 +140,16 @@
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo#0",
+    "category": "global",
+    "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+    "summary": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 04 Aug 2026 23:58:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jefferies-gets-new-evidence-of-fake-invoices-at-beleaguered-fund/articleshow/132869731.cms",
     "category": "finance",
     "title": "Jefferies gets new evidence of fake invoices at beleaguered fund tied to iron ore trader",
@@ -150,6 +160,26 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jefferies-gets-new-evidence-of-fake-invoices-at-beleaguered-fund/articleshow/132869731.cms"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/c8jnmzekx0ro#0",
+    "category": "global",
+    "title": "Closing down streets so children can play",
+    "summary": "In Leeds, streets are being temporarily closed to traffic so kids have more space to safely play - an initiative proving beneficial to both children and adults.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 04 Aug 2026 23:43:00 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8jnmzekx0ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo#0",
+    "category": "global",
+    "title": "Temperatures to drop briefly ahead of next UK heatwave",
+    "summary": "Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 04 Aug 2026 23:14:49 GMT",
+    "link": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-anna-paulson-keeps-open-mind-on-rate-decisioin-as-inflation-remains-too-high/articleshow/132867445.cms",
     "category": "finance",
     "title": "US Fed's Anna Paulson keeps 'open mind' on rate decisioin as inflation remains too high",
@@ -158,6 +188,16 @@
     "source": "ET",
     "pubDate": "Tue, 04 Aug 2026 22:28:37 +0530",
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-anna-paulson-keeps-open-mind-on-rate-decisioin-as-inflation-remains-too-high/articleshow/132867445.cms"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o#0",
+    "category": "global",
+    "title": "How a generation of record-setting guides died in a disaster that killed a climbing legend",
+    "summary": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 04 Aug 2026 22:09:50 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1548707.html",
@@ -178,6 +218,16 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 04 Aug 2026 22:00:00 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1548725.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo#0",
+    "category": "global",
+    "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
+    "summary": "A terminally-ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Tue, 04 Aug 2026 21:55:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/palantir-stock-jumps-27-after-otherworldly-demand-lifts-outlook/articleshow/132866951.cms",
@@ -220,16 +270,6 @@
     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/drugmaker-pfizer-beats-earnings-estimates-targets-2-5-billion-in-additional-cost-cuts/articleshow/132866592.cms"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/cy0jy632d2eo#0",
-    "category": "global",
-    "title": "Major search under way for boy, 13, missing at sea",
-    "summary": "Emergency services were called to Hornsea, East Yorkshire, at about 18:00 BST.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 04 Aug 2026 20:52:43 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy0jy632d2eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o#0",
     "category": "global",
     "title": "Infantino calls executive meeting as criticism mounts",
@@ -238,36 +278,6 @@
     "source": "BBC",
     "pubDate": "Tue, 04 Aug 2026 20:13:03 GMT",
     "link": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo#0",
-    "category": "global",
-    "title": "More than 170 migrants rescued after boat catches fire in Channel",
-    "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 04 Aug 2026 19:45:58 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo#0",
-    "category": "global",
-    "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
-    "summary": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 04 Aug 2026 19:31:26 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo#0",
-    "category": "global",
-    "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-    "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 04 Aug 2026 19:00:43 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1548713.html",
@@ -318,16 +328,6 @@
     "source": "Cricinfo",
     "pubDate": "Tue, 04 Aug 2026 15:21:06 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1548696.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cn0n99npjejo#0",
-    "category": "global",
-    "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-    "summary": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Tue, 04 Aug 2026 15:07:52 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1548669.html",
