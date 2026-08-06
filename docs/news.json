@@ -20,16 +20,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c3d3nlmeee0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo#0",
-    "category": "global",
-    "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
-    "summary": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Wed, 05 Aug 2026 23:28:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo#0",
     "category": "global",
     "title": "Half of vaccines are binned - 'fridge-free' versions could change that",
@@ -40,10 +30,20 @@
     "link": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/c79gxqynwd3o#0",
+    "category": "global",
+    "title": "Families' anger at jailed funeral boss's apology letter",
+    "summary": "Robert Bush issues an open letter of apology to families affected by the Hull funeral scandal.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Wed, 05 Aug 2026 23:02:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c79gxqynwd3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo#0",
     "category": "global",
     "title": "Infantino sorry for errors but stays Fifa president",
-    "summary": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+    "summary": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
     "image": "https://source.unsplash.com/400x250/?news,global",
     "source": "BBC",
     "pubDate": "Wed, 05 Aug 2026 21:37:08 GMT",
@@ -100,16 +100,6 @@
     "link": "https://www.cricinfo.com/ci/content/story/1548815.html?ex_cid=OTC-RSS"
   },
   {
-    "id": "https://www.cricinfo.com/ci/content/story/1548796.html",
-    "category": "sports",
-    "title": "Buttler takes T20 runs record as Super Giants snap losing streak",
-    "summary": "Buttler surpasses Kieron Pollard's benchmark with 20-ball 51* against Welsh Fire",
-    "image": "http://p.imgci.com/db/PICTURES/CMS/420700/420768.jpg",
-    "source": "Cricinfo",
-    "pubDate": "Wed, 05 Aug 2026 17:29:50 GMT",
-    "link": "https://www.cricinfo.com/ci/content/story/1548796.html?ex_cid=OTC-RSS"
-  },
-  {
     "id": "5M2gv6mk7MEHXAvBa4H7z0",
     "category": "scitech",
     "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
@@ -140,164 +130,194 @@
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-jump-rs-6400/10-grams-in-3-days-silver-soars-rs-11000/kg-as-oil-slide-continues-big-rally-ahead/articleshow/132983009.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/manipal-health-shares-slide-6-on-account-of-profit-booking-what-should-investors-do/articleshow/132990960.cms",
     "category": "finance",
-    "title": "Gold prices jump Rs 6,400/10 grams in 3 days, silver soars Rs 11,000/kg as oil slide continues. Big rally ahead?",
-    "summary": "Gold and silver prices rose for the third straight session on MCX, helped by a weaker US dollar, lower Treasury yields and easing oil prices amid hopes of the Strait of Hormuz reopening. Silver gained Rs 228 to Rs 2,27,812/kg, while gold rose Rs 757 ",
-    "image": "https://img.etimg.com/photo/msid-132983009,imgsize-164300.cms",
+    "title": "Manipal Health shares slide 6% on account of profit booking. What should investors do?",
+    "summary": "Manipal Health Enterprises shares fell sharply on Thursday day after their strong market debut, triggering profit booking. Analysts remain constructive on the company's long-term prospects but advise fresh investors to wait for better entry levels, c",
+    "image": "https://img.etimg.com/photo/msid-132990960,imgsize-2120634.cms",
     "source": "ET",
-    "pubDate": "Thu, 06 Aug 2026 10:56:04 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-jump-rs-6400/10-grams-in-3-days-silver-soars-rs-11000/kg-as-oil-slide-continues-big-rally-ahead/articleshow/132983009.cms"
+    "pubDate": "Thu, 06 Aug 2026 13:39:47 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/manipal-health-shares-slide-6-on-account-of-profit-booking-what-should-investors-do/articleshow/132990960.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-may-have-more-room-to-rally-as-earnings-ai-spending-support-market/articleshow/132978854.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/earnings/deccan-gold-mines-shares-rally-13-after-maiden-gold-dor-production-at-altyn-tor-project/articleshow/132990723.cms",
     "category": "finance",
-    "title": "US stocks may have more room to rally as earnings, AI spending support market",
-    "summary": "Strong corporate earnings, sustained AI infrastructure spending and easing valuation concerns have strengthened confidence in the US stock market, although Treasury yields and geopolitical developments remain key risks for investors.",
-    "image": "https://img.etimg.com/photo/msid-132978854,imgsize-215158.cms",
+    "title": "Deccan Gold Mines shares rally 13% after maiden gold dor\u00e9 production at Altyn Tor Project",
+    "summary": "Deccan Gold Mines shares surged over 13% after the company announced the production of its first gold dor\u00e9 at the Altyn Tor Gold Project in Kyrgyzstan. The milestone validates the upgraded processing circuit and de-risks the project ahead of commerci",
+    "image": "https://img.etimg.com/photo/msid-132990723,imgsize-2605015.cms",
     "source": "ET",
-    "pubDate": "Thu, 06 Aug 2026 10:53:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-may-have-more-room-to-rally-as-earnings-ai-spending-support-market/articleshow/132978854.cms"
+    "pubDate": "Thu, 06 Aug 2026 13:31:53 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/deccan-gold-mines-shares-rally-13-after-maiden-gold-dor-production-at-altyn-tor-project/articleshow/132990723.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/neuland-laboratories-shares-jump-over-6-after-975-yoy-surge-in-q1-profit/articleshow/132982715.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-jump-nearly-3-as-company-targets-rs-10000-crore-adjusted-ebitda-by-fy31/articleshow/132990265.cms",
     "category": "finance",
-    "title": "Neuland Laboratories shares jump over 6% after 975% YoY surge in Q1 profit",
-    "summary": "Neuland Laboratories shares rose sharply on Thursday after the drugmaker reported a 975% year-on-year surge in Q1 FY27 profit to Rs 147.4 crore. Revenue more than doubled, while EBITDA jumped 448%, driven by strong commercial product sales and encour",
-    "image": "https://img.etimg.com/photo/msid-132982715,imgsize-95344.cms",
+    "title": "Swiggy shares jump nearly 3% as company targets Rs 10,000 crore adjusted EBITDA by FY31",
+    "summary": "Swiggy shares rose after the company unveiled an ambitious FY31 roadmap targeting Rs 10,000 crore in Adjusted EBITDA. It aims to more than triple consolidated GOV to Rs 2.5 lakh crore from Rs 67,734 crore in FY26, driven by food delivery, Instamart a",
+    "image": "https://img.etimg.com/photo/msid-132990265,imgsize-259458.cms",
     "source": "ET",
-    "pubDate": "Thu, 06 Aug 2026 10:39:20 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/neuland-laboratories-shares-jump-over-6-after-975-yoy-surge-in-q1-profit/articleshow/132982715.cms"
+    "pubDate": "Thu, 06 Aug 2026 13:21:47 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-jump-nearly-3-as-company-targets-rs-10000-crore-adjusted-ebitda-by-fy31/articleshow/132990265.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/navin-fluorine-shares-surge-8-after-q1-profit-more-than-doubles-should-you-buy-sell-or-hold/articleshow/132982625.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-how-ai-led-kospi-nikkei-selloff-sparked-record-15-drawdown-in-asian-funds-in-july/articleshow/132989783.cms",
     "category": "finance",
-    "title": "Navin Fluorine shares surge 8% after Q1 profit more than doubles. Should you buy, sell or hold?",
-    "summary": "Navin Fluorine shares surged nearly 8% after the company posted a strong Q1FY27 performance, with profit more than doubling and revenue rising 44% YoY. Elara Securities retained its 'Buy' rating and Rs 9,158 target, citing robust growth in refrigeran",
-    "image": "https://img.etimg.com/photo/msid-132982625,imgsize-.cms",
+    "title": "Explained: How AI-led Kospi, Nikkei selloff sparked record 15% drawdown in Asian funds in July",
+    "summary": "Asia\u2019s major multi-strategy funds suffered sharp July losses as an AI-linked stock selloff across Japan, South Korea and China erased much of their 2026 gains. Concerns over AI spending and Middle East tensions hit semiconductor stocks, with some fun",
+    "image": "https://img.etimg.com/photo/msid-132989783,imgsize-2295311.cms",
     "source": "ET",
-    "pubDate": "Thu, 06 Aug 2026 10:36:07 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/navin-fluorine-shares-surge-8-after-q1-profit-more-than-doubles-should-you-buy-sell-or-hold/articleshow/132982625.cms"
+    "pubDate": "Thu, 06 Aug 2026 13:14:40 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-how-ai-led-kospi-nikkei-selloff-sparked-record-15-drawdown-in-asian-funds-in-july/articleshow/132989783.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-shares-gain-2-after-q1-results-why-morgan-stanley-nomura-see-up-to-25-downside/articleshow/132982565.cms",
+    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/gic-subsidiary-and-promoter-sunu-mathew-lead-leap-indias-pre-ipo-placement-round/articleshow/132988909.cms",
     "category": "finance",
-    "title": "PB Fintech shares gain 2% after Q1 results. Why Morgan Stanley, Nomura see up to 25% downside",
-    "summary": "PB Fintech shares rose after the Policybazaar parent reported a 92% YoY jump in Q1 FY27 net profit to Rs 163 crore. Operating revenue grew 40% to Rs 1,888 crore, while total insurance premium increased 41% to Rs 8,372 crore. PAT margin also improved ",
-    "image": "https://img.etimg.com/photo/msid-132982565,imgsize-43524.cms",
+    "title": "GIC subsidiary and promoter Sunu Mathew lead LEAP India\u2019s pre-IPO placement round",
+    "summary": "KKR-backed LEAP India raised Rs 371.3 crore through a pre-IPO placement, selling 2.34 crore shares at Rs 159 apiece. The round saw participation from GIC subsidiary Gamnat Pte Ltd, Dymon Asia and promoter-linked Matyas Possessiones. Gamnat received s",
+    "image": "https://img.etimg.com/photo/msid-132988909,imgsize-1941744.cms",
     "source": "ET",
-    "pubDate": "Thu, 06 Aug 2026 10:33:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-shares-gain-2-after-q1-results-why-morgan-stanley-nomura-see-up-to-25-downside/articleshow/132982565.cms"
+    "pubDate": "Thu, 06 Aug 2026 12:59:55 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gic-subsidiary-and-promoter-sunu-mathew-lead-leap-indias-pre-ipo-placement-round/articleshow/132988909.cms"
   },
   {
-    "id": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-6-august-us-iran-war-oil-price-11872395#publisher=newsstand",
-    "category": "india",
-    "title": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat As Oil Falls Below $80 Amid Iran-US Talks",
-    "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
-    "image": "https://c.ndtvimg.com/2026-07/1pb99vcs_stock-market-today_625x300_15_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 06 Aug 2026 10:21:55 +0530",
-    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-6-august-us-iran-war-oil-price-11872395#publisher=newsstand"
-  },
-  {
-    "id": "https://www.ndtv.com/business-news/zepto-bookmyshow-indigo-9-apps-fined-20-lakh-dark-patterns-ccpa-consumer-11872676#publisher=newsstand",
-    "category": "india",
-    "title": "Zepto, BookMyShow, IndiGo Among 9 Apps Fined Rs 20 Lakh Over 'Dark Patterns'",
-    "summary": "The Centre said the consumer regulator has collected around Rs 20 lakh in penalties from companies.",
-    "image": "https://c.ndtvimg.com/2024-05/adsoh4b_online-shopping-generic_625x300_31_May_24.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source": "NDTV",
-    "pubDate": "Thu, 06 Aug 2026 10:19:17 +0530",
-    "link": "https://www.ndtv.com/business-news/zepto-bookmyshow-indigo-9-apps-fined-20-lakh-dark-patterns-ccpa-consumer-11872676#publisher=newsstand"
-  },
-  {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/samsung-sk-hynix-shareholders-call-for-bigger-payouts-from-ai-cash-mountain/articleshow/132982149.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/not-a-moon-crash-but-ai-sends-spacex-shares-spiralling-14-lower-on-wall-street-what-lies-ahead/articleshow/132988024.cms",
     "category": "finance",
-    "title": "Samsung, SK Hynix shareholders call for bigger payouts from AI cash mountain",
-    "summary": "Samsung and SK Hynix are under pressure from investors to boost shareholder returns as they experience significant profits driven by strong demand for AI technology. With record earnings in hand, shareholders are advocating for higher dividends and s",
-    "image": "https://img.etimg.com/photo/msid-132982149,imgsize-14608.cms",
+    "title": "Not a moon crash, but AI sends SpaceX shares spiralling 14% lower on Wall Street. What lies ahead?",
+    "summary": "SpaceX shares plunged 14% as investors raised concerns over the company\u2019s aggressive AI spending plans, despite strong quarterly results. The stock decline coincided with reports of a SpaceX rocket part crashing into the Moon after drifting off cours",
+    "image": "https://img.etimg.com/photo/msid-132988024,imgsize-1828685.cms",
     "source": "ET",
-    "pubDate": "Thu, 06 Aug 2026 10:18:00 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/samsung-sk-hynix-shareholders-call-for-bigger-payouts-from-ai-cash-mountain/articleshow/132982149.cms"
+    "pubDate": "Thu, 06 Aug 2026 12:43:45 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/not-a-moon-crash-but-ai-sends-spacex-shares-spiralling-14-lower-on-wall-street-what-lies-ahead/articleshow/132988024.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhaval-packaging-oneindig-technologies-sme-shares-to-list-today-check-gmp-and-expected-listing-price/articleshow/132982008.cms",
+    "id": "https://economictimes.indiatimes.com/markets/stocks/news/can-tips-musics-rs-44-crore-share-buyback-boost-its-share-price-heres-what-jm-financial-says/articleshow/132987678.cms",
     "category": "finance",
-    "title": "Dhaval Packaging, Oneindig Technologies SME shares to list today. Check GMP and expected listing price",
-    "summary": "Oneindig Technologies and Dhaval Packaging are set to debut on the BSE SME platform today. While both IPOs attracted investor interest, Dhaval Packaging enters listing day with stronger momentum, backed by a 35.52-times subscription and a 12% grey ma",
-    "image": "https://img.etimg.com/photo/msid-132982008,imgsize-86990.cms",
+    "title": "Can Tips Music's Rs 44 crore share buyback boost its share price? Here's what JM Financial says",
+    "summary": "Tips Music's Rs 44.5 crore open-market share buyback is expected to support its stock price, according to JM Financial, which reiterated its 'Buy' rating. The brokerage cited strong profitability, healthy revenue and profit growth guidance, sharehold",
+    "image": "https://img.etimg.com/photo/msid-132987678,imgsize-1747091.cms",
     "source": "ET",
-    "pubDate": "Thu, 06 Aug 2026 10:12:49 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhaval-packaging-oneindig-technologies-sme-shares-to-list-today-check-gmp-and-expected-listing-price/articleshow/132982008.cms"
+    "pubDate": "Thu, 06 Aug 2026 12:37:43 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-tips-musics-rs-44-crore-share-buyback-boost-its-share-price-heres-what-jm-financial-says/articleshow/132987678.cms"
   },
   {
-    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-prudential-shares-tumble-as-china-offshore-insurance-tax-report-rattles-investors/articleshow/132981858.cms",
+    "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-amds-solid-quarterly-earnings-failed-to-impress-investors/articleshow/132987247.cms",
     "category": "finance",
-    "title": "Global Market: Prudential shares tumble as China offshore insurance tax report rattles investors",
-    "summary": "Shares of Prudential plunged after reports that Chinese tax authorities had begun collecting personal income tax on returns from offshore insurance policies, stoking concerns over tighter regulatory oversight of cross-border investments. The developm",
-    "image": "https://img.etimg.com/photo/msid-132981858,imgsize-190058.cms",
+    "title": "Why AMD's solid quarterly earnings failed to impress investors",
+    "summary": "AMD beat earnings estimates and issued strong guidance, but its shares fell as investors sought bigger AI gains, higher margins and stronger evidence it can challenge Nvidia's dominance in AI chips.",
+    "image": "https://img.etimg.com/photo/msid-132987247,imgsize-86880.cms",
     "source": "ET",
-    "pubDate": "Thu, 06 Aug 2026 10:08:51 +0530",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-prudential-shares-tumble-as-china-offshore-insurance-tax-report-rattles-investors/articleshow/132981858.cms"
+    "pubDate": "Thu, 06 Aug 2026 12:34:44 +0530",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-amds-solid-quarterly-earnings-failed-to-impress-investors/articleshow/132987247.cms"
   },
   {
-    "id": "https://www.ndtv.com/science/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space-11872655#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/tarun-tejpal-2013-rape-case-im-62-and-i-believe-i-am-a-victim-former-tehelka-editor-tarun-tejpal-on-conviction-in-rape-case-11872921#publisher=newsstand",
     "category": "india",
-    "title": "NASA's Roman Telescope To Carry 1.35 Million Names To Deep Space",
-    "summary": "Roman is set to launch August 30, 2026.",
-    "image": "https://c.ndtvimg.com/2026-08/999r0jas_nasa_625x300_06_August_26.jpeg",
+    "title": "\"I'm 62 And I Believe I Am A Victim\": Former Tehelka Editor Tarun Tejpal On Conviction In Rape Case",
+    "summary": "The case pertains to allegations made by a woman journalist, who had accused Tarun Tejpal of sexually assaulting her inside a hotel elevator on November 7 and 8, 2013.",
+    "image": "https://c.ndtvimg.com/2026-08/e5noob0c_tejpal-_625x300_06_August_26.jpeg",
     "source": "NDTV",
-    "pubDate": "Thu, 06 Aug 2026 10:04:00 +0530",
-    "link": "https://www.ndtv.com/science/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space-11872655#publisher=newsstand"
+    "pubDate": "Thu, 06 Aug 2026 11:40:27 +0530",
+    "link": "https://www.ndtv.com/india-news/tarun-tejpal-2013-rape-case-im-62-and-i-believe-i-am-a-victim-former-tehelka-editor-tarun-tejpal-on-conviction-in-rape-case-11872921#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/jaipur-news/sambhar-murder-married-jaipur-woman-lover-kill-aunt-to-fund-lifestyle-partying-expenses-11872537#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/ncert-rie-common-entrance-examination-2026-results-out-counselling-process-begins-11872998#publisher=newsstand",
     "category": "india",
-    "title": "Jaipur Shocker: Married Woman, Lover Murder Aunt To Fund Lifestyle, Parties",
-    "summary": "The two accused had first conducted a recce of the house (File photo)",
-    "image": "https://c.ndtvimg.com/2019-05/em980mag_rajasthan-police-generic-twitter-650_625x300_28_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "title": "NCERT RIE Common Entrance Examination 2026 Results Out; Counselling Process Begins",
+    "summary": "Counselling for RIE admissions will start soon; seat allotment depends on merit.",
+    "image": "https://i.ndtvimg.com/i/2017-10/exam-result_650x400_51508568554.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 06 Aug 2026 09:58:24 +0530",
-    "link": "https://www.ndtv.com/jaipur-news/sambhar-murder-married-jaipur-woman-lover-kill-aunt-to-fund-lifestyle-partying-expenses-11872537#publisher=newsstand"
+    "pubDate": "Thu, 06 Aug 2026 11:39:06 +0530",
+    "link": "https://www.ndtv.com/education/ncert-rie-common-entrance-examination-2026-results-out-counselling-process-begins-11872998#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/mp-patwari-recruitment-2026-applications-begin-for-200-posts-check-eligibility-here-11872629#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/tarun-tejpal-ex-tehelka-editor-convicted-for-raping-colleague-in-goa-all-about-the-case-11872922#publisher=newsstand",
     "category": "india",
-    "title": "MP Patwari Recruitment 2026: Applications Begin For 200 Posts; Check Eligibility Here",
-    "summary": "MPESB begins applications for 200 Patwari posts; registration open till August 18, 2026.",
-    "image": "https://c.ndtvimg.com/2026-08/ga3jkd9g_patwari_625x300_06_August_26.jpeg",
+    "title": "Ex-Tehelka Editor Tarun Tejpal Convicted For Raping Colleague. All About The Case",
+    "summary": "Tarun Tejpal was acquitted by a trial court in 2021",
+    "image": "https://c.ndtvimg.com/2026-08/ggq6sk68_tarun-tejpal_625x300_06_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 06 Aug 2026 09:57:32 +0530",
-    "link": "https://www.ndtv.com/education/mp-patwari-recruitment-2026-applications-begin-for-200-posts-check-eligibility-here-11872629#publisher=newsstand"
+    "pubDate": "Thu, 06 Aug 2026 11:38:40 +0530",
+    "link": "https://www.ndtv.com/india-news/tarun-tejpal-ex-tehelka-editor-convicted-for-raping-colleague-in-goa-all-about-the-case-11872922#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/artificial-intelligence/why-google-ai-chief-jeff-dean-left-after-27-years-to-launch-startup-with-sanjay-ghemawat-11872454#publisher=newsstand",
+    "id": "https://www.ndtv.com/nagpur-news/nagpur-teen-goes-missing-for-a-day-found-dead-on-railway-tracks-11872993#publisher=newsstand",
     "category": "india",
-    "title": "Why Google Chief Scientist Jeff Dean Is Leaving To Launch An AI Startup With Indian-American Tech Veteran",
-    "summary": "Dean joins Sanjay Ghemawat, Oriol Vinyals and Quoc Le to launch AI startup.",
-    "image": "https://c.ndtvimg.com/2026-08/2b33idq_xcomjeffdean_625x300_06_August_26.jpeg",
+    "title": "Nagpur Teen Goes Missing For A Day, Found Dead On Railway Tracks",
+    "summary": "The police have registered an accidental death report and started an investigation.",
+    "image": "https://c.ndtvimg.com/2026-06/dt8rh6gs_railway-tracks-technology_625x300_19_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 06 Aug 2026 09:43:48 +0530",
-    "link": "https://www.ndtv.com/artificial-intelligence/why-google-ai-chief-jeff-dean-left-after-27-years-to-launch-startup-with-sanjay-ghemawat-11872454#publisher=newsstand"
+    "pubDate": "Thu, 06 Aug 2026 11:37:49 +0530",
+    "link": "https://www.ndtv.com/nagpur-news/nagpur-teen-goes-missing-for-a-day-found-dead-on-railway-tracks-11872993#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/education/du-pg-admission-2026-csas-pg-spot-round-1-deadline-extended-till-august-8-11872570#publisher=newsstand",
+    "id": "https://www.ndtv.com/india-news/tarun-tejpal-sexual-assault-case-former-tehelka-editor-tarun-tejpal-convicted-in-2013-sexual-assault-case-11872870#publisher=newsstand",
     "category": "india",
-    "title": "DU PG Admission 2026: CSAS PG Spot Round 1 Deadline Extended Till August 8",
-    "summary": "DU extends CSAS PG Spot Round 1 schedule; revised verification and fee payment dates announced.",
-    "image": "https://c.ndtvimg.com/2026-08/j8qce95g_du_625x300_06_August_26.jpeg",
+    "title": "Tarun Tejpal, Ex-Tehelka Editor, Convicted For Raping Junior Colleague In 2013",
+    "summary": "The High Court has overturned the trial court verdict that acquitted Tarun Tejpal",
+    "image": "https://i.ndtvimg.com/i/2017-09/tarun-tejpal-afp_650x400_51506506237.jpg",
     "source": "NDTV",
-    "pubDate": "Thu, 06 Aug 2026 09:38:35 +0530",
-    "link": "https://www.ndtv.com/education/du-pg-admission-2026-csas-pg-spot-round-1-deadline-extended-till-august-8-11872570#publisher=newsstand"
+    "pubDate": "Thu, 06 Aug 2026 11:31:43 +0530",
+    "link": "https://www.ndtv.com/india-news/tarun-tejpal-sexual-assault-case-former-tehelka-editor-tarun-tejpal-convicted-in-2013-sexual-assault-case-11872870#publisher=newsstand"
   },
   {
-    "id": "https://www.ndtv.com/artificial-intelligence/meta-chases-openai-anthropic-with-new-ai-coding-app-11872512#publisher=newsstand",
+    "id": "https://www.ndtv.com/education/ugc-net-june-2026-answer-key-live-updates-response-sheet-download-challenge-link-marking-scheme-how-to-calculate-marks-11867967#publisher=newsstand",
     "category": "india",
-    "title": "Meta Chases OpenAI, Anthropic With New AI Coding App",
-    "summary": "Muse Code launched in beta, or in a preview mode.",
-    "image": "https://c.ndtvimg.com/2026-07/94muq0us_meta_625x300_22_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "title": "UGC NET June 2026 Answer Key Live Updates: \"87 Subjects, Huge Exercise,\" Says NTA",
+    "summary": "The UGC NET applicants will be given a chance to challenge the answer key.",
+    "image": "https://c.ndtvimg.com/2026-07/f18rj1do_ugc-net-2026_625x300_30_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source": "NDTV",
-    "pubDate": "Thu, 06 Aug 2026 09:37:25 +0530",
-    "link": "https://www.ndtv.com/artificial-intelligence/meta-chases-openai-anthropic-with-new-ai-coding-app-11872512#publisher=newsstand"
+    "pubDate": "Thu, 06 Aug 2026 11:30:20 +0530",
+    "link": "https://www.ndtv.com/education/ugc-net-june-2026-answer-key-live-updates-response-sheet-download-challenge-link-marking-scheme-how-to-calculate-marks-11867967#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/india-news/send-us-the-video-daughters-skip-fathers-funeral-care-home-staff-perform-last-rites-in-haryana-11872507#publisher=newsstand",
+    "category": "india",
+    "title": "\"Send Us The Video\": Daughters Skip Father's Funeral, Care Home Staff Perform Last Rites In Haryana",
+    "summary": "The daughters chose not to attend his funeral, citing a lack of time.",
+    "image": "https://c.ndtvimg.com/2026-08/gj5o2mr_old-age-home-video_625x300_05_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 06 Aug 2026 11:30:09 +0530",
+    "link": "https://www.ndtv.com/india-news/send-us-the-video-daughters-skip-fathers-funeral-care-home-staff-perform-last-rites-in-haryana-11872507#publisher=newsstand"
+  },
+  {
+    "id": "https://www.ndtv.com/world-news/russia-denies-using-colombian-mercenaries-in-ukraine-war-11872573#publisher=newsstand",
+    "category": "india",
+    "title": "Russia Responds To Allegations of Using Colombian Mercenaries In Ukraine War",
+    "summary": "Russia denies recruiting mercenaries from colombia",
+    "image": "https://c.ndtvimg.com/2026-06/819572u4_putin_625x300_29_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source": "NDTV",
+    "pubDate": "Thu, 06 Aug 2026 11:30:04 +0530",
+    "link": "https://www.ndtv.com/world-news/russia-denies-using-colombian-mercenaries-in-ukraine-war-11872573#publisher=newsstand"
+  },
+  {
+    "id": "https://www.cricinfo.com/ci/content/story/1548849.html",
+    "category": "sports",
+    "title": "Mehidy Hasan Miraz century lifts Bangladesh after Corey Rocchiccioli takes six",
+    "summary": "Sam Konstas and Campbell Kellaway fell cheaply against Bangladesh's new-ball attack",
+    "image": "http://p.imgci.com/db/PICTURES/CMS/420700/420781.jpg",
+    "source": "Cricinfo",
+    "pubDate": "Thu, 06 Aug 2026 08:20:52 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1548849.html?ex_cid=OTC-RSS"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c1e146jw618o#0",
+    "category": "global",
+    "title": "Cambridge professor at centre of plagiarism row resigns",
+    "summary": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 06 Aug 2026 06:28:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po#0",
+    "category": "global",
+    "title": "Meta says AI model accessed the internet and hacked another firm",
+    "summary": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
+    "image": "https://source.unsplash.com/400x250/?news,global",
+    "source": "BBC",
+    "pubDate": "Thu, 06 Aug 2026 05:53:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.cricinfo.com/ci/content/story/1548845.html",
@@ -338,26 +358,6 @@
     "source": "Cricinfo",
     "pubDate": "Thu, 06 Aug 2026 04:51:16 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1548846.html?ex_cid=OTC-RSS"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po#0",
-    "category": "global",
-    "title": "Meta says AI model accessed the internet and hacked another firm",
-    "summary": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 06 Aug 2026 02:33:33 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c1e146jw618o#0",
-    "category": "global",
-    "title": "University of Cambridge professor at centre of plagiarism row resigns",
-    "summary": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
-    "image": "https://source.unsplash.com/400x250/?news,global",
-    "source": "BBC",
-    "pubDate": "Thu, 06 Aug 2026 00:36:23 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "2CUHNkdUg4dnjDFiMtJJQ",
